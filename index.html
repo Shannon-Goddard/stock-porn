@@ -1,0 +1,511 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>stock-porn — Because numbers are sexy and fun to watch</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    :root {
+      --bg: #0d0d0d;
+      --surface: #141414;
+      --surface2: #1a1a1a;
+      --border: #2a2a2a;
+      --text: #e8e8e8;
+      --muted: #666;
+      --green: #00c853;
+      --red: #ff1744;
+      --green-dim: #00c85322;
+      --red-dim: #ff174422;
+      --accent: #00c853;
+    }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 14px;
+      line-height: 1.5;
+    }
+
+    /* HEADER */
+    header {
+      padding: 2rem 1rem 1rem;
+      text-align: center;
+      border-bottom: 1px solid var(--border);
+    }
+
+    header h1 {
+      font-size: clamp(1.2rem, 4vw, 2rem);
+      color: var(--green);
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+    }
+
+    header p.tagline {
+      color: var(--muted);
+      font-size: 0.8rem;
+      margin-top: 0.3rem;
+    }
+
+    /* DISCLAIMER */
+    .disclaimer {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-left: 3px solid var(--red);
+      margin: 1rem;
+      padding: 0.75rem 1rem;
+      font-size: 0.75rem;
+      color: var(--muted);
+      border-radius: 4px;
+    }
+
+    .disclaimer strong {
+      color: var(--red);
+    }
+
+    .disclaimer a {
+      color: var(--green);
+      text-decoration: none;
+    }
+
+    .disclaimer a:hover {
+      text-decoration: underline;
+    }
+
+    /* MARKET STATUS */
+    .market-status {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.5rem 1rem;
+      font-size: 0.75rem;
+      color: var(--muted);
+    }
+
+    .status-dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: var(--green);
+      animation: pulse 2s infinite;
+    }
+
+    .status-dot.closed {
+      background: var(--red);
+      animation: none;
+    }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.3; }
+    }
+
+    /* SECTIONS */
+    .section {
+      margin: 1rem;
+    }
+
+    .section-header {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      margin-bottom: 0.75rem;
+      padding-bottom: 0.5rem;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .section-header h2 {
+      font-size: 0.85rem;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      color: var(--muted);
+    }
+
+    .section-header .badge {
+      font-size: 0.7rem;
+      padding: 0.15rem 0.5rem;
+      border-radius: 2px;
+      font-weight: bold;
+    }
+
+    .badge.green {
+      background: var(--green-dim);
+      color: var(--green);
+      border: 1px solid var(--green);
+    }
+
+    .badge.red {
+      background: var(--red-dim);
+      color: var(--red);
+      border: 1px solid var(--red);
+    }
+
+    /* TABLE */
+    .stock-table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+
+    .stock-table thead tr {
+      border-bottom: 1px solid var(--border);
+    }
+
+    .stock-table th {
+      text-align: left;
+      padding: 0.4rem 0.5rem;
+      font-size: 0.7rem;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--muted);
+      font-weight: normal;
+    }
+
+    .stock-table th.right,
+    .stock-table td.right {
+      text-align: right;
+    }
+
+    .stock-table tbody tr {
+      border-bottom: 1px solid var(--border);
+      transition: background 0.15s;
+    }
+
+    .stock-table tbody tr:hover {
+      background: var(--surface2);
+    }
+
+    .stock-table td {
+      padding: 0.6rem 0.5rem;
+      font-size: 0.85rem;
+    }
+
+    .ticker {
+      color: var(--green);
+      font-weight: bold;
+      font-size: 0.9rem;
+    }
+
+    .name {
+      color: var(--text);
+      font-size: 0.8rem;
+      max-width: 160px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+
+    .price {
+      color: var(--text);
+      font-variant-numeric: tabular-nums;
+    }
+
+    .change-pct.positive { color: var(--green); }
+    .change-pct.negative { color: var(--red); }
+
+    .change-dollar.positive { color: var(--green); }
+    .change-dollar.negative { color: var(--red); }
+
+    /* DIVIDER */
+    .divider {
+      margin: 2rem 1rem 0;
+      border: none;
+      border-top: 1px solid var(--border);
+    }
+
+    .divider-label {
+      text-align: center;
+      font-size: 0.7rem;
+      color: var(--muted);
+      margin: 0.5rem 0 0;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+    }
+
+    /* LOADING STATE */
+    .loading {
+      text-align: center;
+      padding: 2rem;
+      color: var(--muted);
+      font-size: 0.8rem;
+    }
+
+    .loading span {
+      animation: blink 1s infinite;
+    }
+
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+
+    /* FOOTER */
+    footer {
+      margin-top: 3rem;
+      padding: 1.5rem 1rem;
+      border-top: 1px solid var(--border);
+      text-align: center;
+      font-size: 0.72rem;
+      color: var(--muted);
+      line-height: 2;
+    }
+
+    footer a {
+      color: var(--green);
+      text-decoration: none;
+    }
+
+    footer a:hover {
+      text-decoration: underline;
+    }
+
+    .beer-btn {
+      display: inline-block;
+      margin-top: 0.75rem;
+      padding: 0.5rem 1.25rem;
+      border: 1px solid var(--green);
+      color: var(--green);
+      border-radius: 3px;
+      font-family: 'Courier New', monospace;
+      font-size: 0.8rem;
+      text-decoration: none;
+      transition: background 0.2s, color 0.2s;
+    }
+
+    .beer-btn:hover {
+      background: var(--green);
+      color: var(--bg);
+      text-decoration: none;
+    }
+
+    /* LAST UPDATED */
+    .last-updated {
+      text-align: right;
+      font-size: 0.7rem;
+      color: var(--muted);
+      padding: 0 1rem 0.5rem;
+    }
+
+    /* RESPONSIVE */
+    @media (max-width: 480px) {
+      .name {
+        max-width: 100px;
+      }
+
+      .stock-table th,
+      .stock-table td {
+        padding: 0.5rem 0.3rem;
+        font-size: 0.78rem;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>stock-porn</h1>
+    <p class="tagline">Because numbers are sexy and fun to watch</p>
+  </header>
+
+  <div class="disclaimer">
+    <strong>⚠ Not a financial advisor.</strong> I built this to earn beer money.
+    All data is for entertainment purposes only. Trade at your own risk.
+    The LLC is not responsible for your life choices.
+    <a href="https://www.sec.gov/investor/pubs/tenthingstoinvestor.htm" target="_blank">Actual advice here.</a>
+  </div>
+
+  <div class="market-status">
+    <div class="status-dot" id="statusDot"></div>
+    <span id="statusText">Checking market...</span>
+  </div>
+
+  <div class="last-updated" id="lastUpdated"></div>
+
+  <!-- TOP 10% GAINERS -->
+  <div class="section">
+    <div class="section-header">
+      <h2>Top 10% Gainers</h2>
+      <span class="badge green">▲ OPTIONS ONLY</span>
+    </div>
+    <table class="stock-table" id="gainersTable">
+      <thead>
+        <tr>
+          <th>Ticker</th>
+          <th>Name</th>
+          <th class="right">Price</th>
+          <th class="right">Chg%</th>
+          <th class="right">Chg$</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td colspan="5" class="loading"><span>loading...</span></td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- TOP 10% LOSERS -->
+  <div class="section">
+    <div class="section-header">
+      <h2>Top 10% Losers</h2>
+      <span class="badge red">▼ OPTIONS ONLY</span>
+    </div>
+    <table class="stock-table" id="losersTable">
+      <thead>
+        <tr>
+          <th>Ticker</th>
+          <th>Name</th>
+          <th class="right">Price</th>
+          <th class="right">Chg%</th>
+          <th class="right">Chg$</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td colspan="5" class="loading"><span>loading...</span></td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <hr class="divider" />
+  <p class="divider-label">Top 5 by Dollar Move</p>
+
+  <!-- TOP 5 DOLLAR GAINERS -->
+  <div class="section">
+    <div class="section-header">
+      <h2>Biggest Dollar Gainers</h2>
+      <span class="badge green">▲ TOP 5</span>
+    </div>
+    <table class="stock-table" id="dollarGainersTable">
+      <thead>
+        <tr>
+          <th>Ticker</th>
+          <th>Name</th>
+          <th class="right">Price</th>
+          <th class="right">Chg%</th>
+          <th class="right">Chg$</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td colspan="5" class="loading"><span>loading...</span></td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- TOP 5 DOLLAR LOSERS -->
+  <div class="section">
+    <div class="section-header">
+      <h2>Biggest Dollar Losers</h2>
+      <span class="badge red">▼ TOP 5</span>
+    </div>
+    <table class="stock-table" id="dollarLosersTable">
+      <thead>
+        <tr>
+          <th>Ticker</th>
+          <th>Name</th>
+          <th class="right">Price</th>
+          <th class="right">Chg%</th>
+          <th class="right">Chg$</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td colspan="5" class="loading"><span>loading...</span></td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <footer>
+    <div>Data via Yahoo Finance · Updates every 30 min during market hours</div>
+    <div>
+      <a href="https://github.com/Shannon-Goddard/stock-porn" target="_blank">GitHub</a>
+      &nbsp;·&nbsp;
+      <a href="PLAN.md" target="_blank">Roadmap</a>
+      &nbsp;·&nbsp;
+      <a href="docs/methodology.md" target="_blank">Methodology</a>
+    </div>
+    <a class="beer-btn" href="https://buymeacoffee.com" target="_blank">🍺 Buy the dev a beer</a>
+  </footer>
+
+  <script>
+    // Market hours check (Eastern Time)
+    function isMarketOpen() {
+      const now = new Date();
+      const et = new Date(now.toLocaleString('en-US', { timeZone: 'America/New_York' }));
+      const day = et.getDay();
+      const hours = et.getHours();
+      const minutes = et.getMinutes();
+      const time = hours * 60 + minutes;
+      if (day === 0 || day === 6) return false;
+      return time >= 570 && time < 960; // 9:30 AM - 4:00 PM
+    }
+
+    function setMarketStatus() {
+      const dot = document.getElementById('statusDot');
+      const text = document.getElementById('statusText');
+      if (isMarketOpen()) {
+        dot.classList.remove('closed');
+        text.textContent = 'Market open';
+      } else {
+        dot.classList.add('closed');
+        text.textContent = 'Market closed · Showing last close data';
+      }
+    }
+
+    function setLastUpdated() {
+      const el = document.getElementById('lastUpdated');
+      el.textContent = 'Last updated: ' + new Date().toLocaleTimeString();
+    }
+
+    // Render a table from data array
+    function renderTable(tableId, data, isGain) {
+      const tbody = document.querySelector(`#${tableId} tbody`);
+      if (!data || data.length === 0) {
+        tbody.innerHTML = '<tr><td colspan="5" class="loading">No data available</td></tr>';
+        return;
+      }
+      tbody.innerHTML = data.map(row => {
+        const pctClass = isGain ? 'positive' : 'negative';
+        const dolClass = isGain ? 'positive' : 'negative';
+        const pctSign = isGain ? '+' : '';
+        const dolSign = isGain ? '+' : '';
+        return `
+          <tr>
+            <td class="ticker">${row.ticker}</td>
+            <td class="name" title="${row.name}">${row.name}</td>
+            <td class="price right">$${row.price}</td>
+            <td class="change-pct ${pctClass} right">${pctSign}${row.changePct}%</td>
+            <td class="change-dollar ${dolClass} right">${dolSign}$${row.changeDollar}</td>
+          </tr>`;
+      }).join('');
+    }
+
+    // Load signals.json generated by GitHub Action
+    async function loadData() {
+      try {
+        const res = await fetch('data/signals.json?t=' + Date.now());
+        const data = await res.json();
+        renderTable('gainersTable', data.topGainers, true);
+        renderTable('losersTable', data.topLosers, false);
+        renderTable('dollarGainersTable', data.dollarGainers, true);
+        renderTable('dollarLosersTable', data.dollarLosers, false);
+      } catch (e) {
+        // signals.json not built yet — show placeholder
+        const tables = ['gainersTable','losersTable','dollarGainersTable','dollarLosersTable'];
+        tables.forEach(id => {
+          document.querySelector(`#${id} tbody`).innerHTML =
+            '<tr><td colspan="5" class="loading">Signal data coming in Phase 2 🚧</td></tr>';
+        });
+      }
+    }
+
+    // Init
+    setMarketStatus();
+    setLastUpdated();
+    loadData();
+  </script>
+
+</body>
+</html>
