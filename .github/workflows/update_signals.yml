@@ -1,0 +1,23 @@
+# update_signals.yml
+# GitHub Action — runs fetch_signals.py on a schedule
+# during market hours, commits updated signals.json to repo
+# TODO: configure in Phase 2
+
+# name: Update Signals
+# on:
+#   schedule:
+#     - cron: '*/30 13-20 * * 1-5'  # every 30 min, Mon-Fri, market hours UTC
+# jobs:
+#   update:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: actions/checkout@v3
+#       - uses: actions/setup-python@v4
+#       - run: pip install yfinance
+#       - run: python scripts/fetch_signals.py
+#       - run: |
+#           git config user.email "action@github.com"
+#           git config user.name "GitHub Action"
+#           git add data/signals.json
+#           git commit -m "update signals"
+#           git push
