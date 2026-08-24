@@ -1,5 +1,5 @@
 {
-  "balance": 1.55,
+  "balance": 5.97,
   "starting_balance": 0.0,
   "first_trade_date": "2026-08-24",
   "trades": [
@@ -13,65 +13,65 @@
         "name": "Robinhood Markets, Inc.",
         "sector": "Finance",
         "type": "CALL",
-        "strike": 112.0,
+        "strike": 111.0,
         "expiration": "2026-08-28",
         "dte_at_entry": 4,
         "T_at_entry": 0.010959,
         "stock_price_at_entry": 108.13,
-        "premium": 0.81,
-        "cost": 81.0,
-        "bid": 0.78,
-        "spread": 0.03,
-        "iv_at_entry": 0.6899,
-        "otm_pct": 3.58,
+        "premium": 0.98,
+        "cost": 98.0,
+        "bid": 0.94,
+        "spread": 0.04,
+        "iv_at_entry": 0.6934,
+        "otm_pct": 2.65,
         "signal_rank": "dollar_gainer_1",
         "signal_pct": 13.7,
         "signal_dollar": 13.03,
-        "spy_change": -0.25,
+        "spy_change": -0.29,
         "macro_active": true,
         "macro_keywords": [
           "sanctions"
         ],
-        "auto_note": "HOOD CALL | $+13.03 (+13.70%) | dollar_gainer_1 | Strike $112.0 exp 2026-08-28 (4DTE) | IV 69.0% | SPY -0.25% | MACRO: sanctions"
+        "auto_note": "HOOD CALL | $+13.03 (+13.70%) | dollar_gainer_1 | Strike $111.0 exp 2026-08-28 (4DTE) | IV 69.3% | SPY -0.29% | MACRO: sanctions"
       },
       "news_scan": null,
       "exit": {
         "date": "2026-08-24",
         "time": "2026-08-24 09:30:00-04:00",
         "stock_open_price": 106.66,
-        "sell_option_price": 1.187,
-        "sell_contract_value": 118.7,
+        "sell_option_price": 1.4608,
+        "sell_contract_value": 146.08,
         "sell_trigger": "sell_at_open",
-        "pnl": 37.7
+        "pnl": 48.08
       },
       "fomo": {
         "sell_contract_value": 10666.0,
-        "sell_pnl": 10585.0,
+        "sell_pnl": 10568.0,
         "theta_burned_at_sell": -0.0,
-        "theta_per_min": -0.091706,
+        "theta_per_min": -0.0968,
         "day_high": {
-          "stock_price": 109.125,
-          "time": "2026-08-24 11:29:00-04:00",
-          "bs_contract_value": 197.29,
-          "theoretical_pnl": 116.29
+          "stock_price": 108.6,
+          "time": "2026-08-24 09:30:00-04:00",
+          "bs_contract_value": 214.44,
+          "theoretical_pnl": 116.44
         },
         "day_low": {
-          "stock_price": 103.14,
-          "time": "2026-08-24 15:53:00-04:00",
-          "bs_contract_value": 49.8,
-          "theoretical_pnl": -31.2
+          "stock_price": 104.41,
+          "time": "2026-08-24 09:53:00-04:00",
+          "bs_contract_value": 88.12,
+          "theoretical_pnl": -9.88
         },
         "best_case": {
-          "value": 197.29,
-          "pnl": 116.29,
-          "time": "2026-08-24 11:29:00-04:00"
+          "value": 214.44,
+          "pnl": 116.44,
+          "time": "2026-08-24 09:30:00-04:00"
         },
         "worst_case": {
-          "value": 49.8,
-          "pnl": -31.2,
-          "time": "2026-08-24 15:53:00-04:00"
+          "value": 88.12,
+          "pnl": -9.88,
+          "time": "2026-08-24 09:53:00-04:00"
         },
-        "left_on_table": -10468.71,
+        "left_on_table": -10451.56,
         "theta_note": "4DTE: Theta minimal at open, stock direction dominates. Est. $0.00 burned"
       }
     },
@@ -90,60 +90,60 @@
         "dte_at_entry": 4,
         "T_at_entry": 0.010959,
         "stock_price_at_entry": 237.04,
-        "premium": 0.95,
-        "cost": 95.0,
-        "bid": 0.91,
-        "spread": 0.04,
-        "iv_at_entry": 1.1299,
+        "premium": 1.0,
+        "cost": 100.0,
+        "bid": 0.9,
+        "spread": 0.1,
+        "iv_at_entry": 1.126,
         "otm_pct": 19.84,
         "signal_rank": "dollar_loser_1",
         "signal_pct": -5.57,
         "signal_dollar": -13.97,
-        "spy_change": -0.25,
+        "spy_change": -0.29,
         "macro_active": true,
         "macro_keywords": [
           "sanctions"
         ],
-        "auto_note": "MRVL PUT | $-13.97 (-5.57%) | dollar_loser_1 | Strike $190.0 exp 2026-08-28 (4DTE) | IV 113.0% | SPY -0.25% | MACRO: sanctions"
+        "auto_note": "MRVL PUT | $-13.97 (-5.57%) | dollar_loser_1 | Strike $190.0 exp 2026-08-28 (4DTE) | IV 112.6% | SPY -0.29% | MACRO: sanctions"
       },
       "news_scan": null,
       "exit": {
         "date": "2026-08-24",
         "time": "2026-08-24 09:30:00-04:00",
         "stock_open_price": 229.13,
-        "sell_option_price": 0.5885,
-        "sell_contract_value": 58.85,
+        "sell_option_price": 0.5789,
+        "sell_contract_value": 57.89,
         "sell_trigger": "sell_at_open",
-        "pnl": -36.15
+        "pnl": -42.11
       },
       "fomo": {
         "sell_contract_value": 22913.0,
-        "sell_pnl": 22818.0,
+        "sell_pnl": 22813.0,
         "theta_burned_at_sell": -0.0,
-        "theta_per_min": -0.055025,
+        "theta_per_min": -0.054171,
         "day_high": {
-          "stock_price": 231.7,
-          "time": "2026-08-24 14:35:00-04:00",
-          "bs_contract_value": 47.33,
-          "theoretical_pnl": -47.67
+          "stock_price": 230.42,
+          "time": "2026-08-24 09:30:00-04:00",
+          "bs_contract_value": 51.93,
+          "theoretical_pnl": -48.07
         },
         "day_low": {
           "stock_price": 220.4201,
           "time": "2026-08-24 09:40:00-04:00",
-          "bs_contract_value": 119.69,
-          "theoretical_pnl": 24.69
+          "bs_contract_value": 118.2,
+          "theoretical_pnl": 18.2
         },
         "best_case": {
-          "value": 119.69,
-          "pnl": 24.69,
+          "value": 118.2,
+          "pnl": 18.2,
           "time": "2026-08-24 09:40:00-04:00"
         },
         "worst_case": {
-          "value": 47.33,
-          "pnl": -47.67,
-          "time": "2026-08-24 14:35:00-04:00"
+          "value": 51.93,
+          "pnl": -48.07,
+          "time": "2026-08-24 09:30:00-04:00"
         },
-        "left_on_table": -22793.31,
+        "left_on_table": -22794.8,
         "theta_note": "4DTE: Theta minimal at open, stock direction dominates. Est. $0.00 burned"
       }
     }

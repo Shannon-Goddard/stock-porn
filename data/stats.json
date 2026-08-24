@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-08-24 19:58:53 UTC",
+  "last_updated": "2026-08-24 21:00:50 UTC",
   "overall": {
-    "total_trades": 4,
-    "wins": 2,
-    "losses": 2,
+    "total_trades": 2,
+    "wins": 1,
+    "losses": 1,
     "win_rate": 50.0,
-    "avg_pnl": 0.98,
-    "total_pnl": 3.93,
+    "avg_pnl": 2.98,
+    "total_pnl": 5.97,
     "starting_balance": 0.0,
-    "current_balance": 3.93
+    "current_balance": 5.97
   },
   "by_day_of_week": {
     "Monday": {
-      "trades": 4,
-      "wins": 2,
-      "avg_pnl": 0.98
+      "trades": 2,
+      "wins": 1,
+      "avg_pnl": 2.98
     },
     "Tuesday": {
       "trades": 0,
@@ -39,26 +39,26 @@
   },
   "by_sector": {
     "Finance": {
-      "trades": 2,
-      "wins": 2,
-      "avg_pnl": 38.6
+      "trades": 1,
+      "wins": 1,
+      "avg_pnl": 48.08
     },
     "Electronic technology": {
-      "trades": 2,
+      "trades": 1,
       "wins": 0,
-      "avg_pnl": -36.63
+      "avg_pnl": -42.11
     }
   },
   "by_signal_rank": {
     "dollar_gainer_1": {
-      "trades": 2,
-      "wins": 2,
-      "avg_pnl": 38.6
+      "trades": 1,
+      "wins": 1,
+      "avg_pnl": 48.08
     },
     "dollar_loser_1": {
-      "trades": 2,
+      "trades": 1,
       "wins": 0,
-      "avg_pnl": -36.63
+      "avg_pnl": -42.11
     }
   },
   "spy_correlation": {
@@ -68,21 +68,21 @@
       "call_wins": 0
     },
     "spy_down_days": {
-      "trades": 4,
+      "trades": 2,
       "put_wins": 0,
-      "call_wins": 2
+      "call_wins": 1
     }
   },
   "fomo": {
-    "avg_left_on_table": -16630.85,
+    "avg_left_on_table": -16623.18,
     "hold_2min_trades": 0,
     "hold_2min_avg_pnl": 0.0,
-    "sell_at_open_trades": 4,
-    "sell_at_open_avg_pnl": 0.98
+    "sell_at_open_trades": 2,
+    "sell_at_open_avg_pnl": 2.98
   },
   "iv_crush": {
-    "samples": 4,
-    "avg_iv_at_entry": 0.9102,
+    "samples": 2,
+    "avg_iv_at_entry": 0.9097,
     "avg_iv_at_open": 0.0,
     "avg_crush_dollars": 0.0
   },
@@ -102,7 +102,7 @@
   },
   "methodology_score": {
     "spy_layer": {
-      "predictions": 4,
+      "predictions": 2,
       "correct": 0
     },
     "sector_layer": {

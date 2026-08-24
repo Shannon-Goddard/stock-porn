@@ -93,12 +93,14 @@ def get_second_candle_price(candles):
         return candles[0]['close'] if candles else None, None
     return candles[1]['open'], candles[1]['time']
 
-def get_day_high_low(candles):
-    """Return (high_price, high_time, low_price, low_time) from full day candles."""
+def get_day_high_low(candles, window_minutes=30):
+    """Return high/low within first window_minutes after open.
+    Keeps FOMO relevant to the strategy — we never hold past 30 min."""
     if not candles:
         return None, None, None, None
-    high_candle = max(candles, key=lambda c: c['high'])
-    low_candle  = min(candles, key=lambda c: c['low'])
+    window = candles[:window_minutes] if len(candles) >= window_minutes else candles
+    high_candle = max(window, key=lambda c: c['high'])
+    low_candle  = min(window, key=lambda c: c['low'])
     return (
         high_candle['high'], high_candle['time'],
         low_candle['low'],   low_candle['time']

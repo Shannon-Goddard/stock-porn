@@ -5,12 +5,12 @@
     "ticker": "HOOD",
     "type": "CALL",
     "trade_id": 1,
-    "title": "HOOD CALL \u2014 2026-08-24: Made $37.70",
+    "title": "HOOD CALL \u2014 2026-08-24: Made $48.08",
     "youtube_id": null,
     "images": [],
     "published": true,
-    "subtitle": "HOOD closed at $108.13 on 2026-08-24, ranking dollar_gainer_1 with +13.70% ($+13.03). Strike $112.0 CALL exp 2026-08-28 (4DTE). IV at entry: 69.0%. Cost: $81.00. News scan: n/a \u2014 decision: n/a. Sold at option value $1.187 (stock open $106.66) at 2026-08-24 09:30:00-04:00. P&L: $+37.70. Left on table: $-10468.71.",
-    "pnl": 37.7,
+    "subtitle": "HOOD closed at $108.13 on 2026-08-24, ranking dollar_gainer_1 with +13.70% ($+13.03). Strike $111.0 CALL exp 2026-08-28 (4DTE). IV at entry: 69.3%. Cost: $98.00. News scan: n/a \u2014 decision: n/a. Sold at option value $1.4608 (stock open $106.66) at 2026-08-24 09:30:00-04:00. P&L: $+48.08. Left on table: $-10451.56.",
+    "pnl": 48.08,
     "won": true
   },
   {
@@ -19,12 +19,12 @@
     "ticker": "MRVL",
     "type": "PUT",
     "trade_id": 2,
-    "title": "MRVL PUT \u2014 2026-08-24: Lost $36.15",
+    "title": "MRVL PUT \u2014 2026-08-24: Lost $42.11",
     "youtube_id": null,
     "images": [],
     "published": true,
-    "subtitle": "MRVL closed at $237.04 on 2026-08-24, ranking dollar_loser_1 with -5.57% ($-13.97). Strike $190.0 PUT exp 2026-08-28 (4DTE). IV at entry: 113.0%. Cost: $95.00. News scan: n/a \u2014 decision: n/a. Sold at option value $0.5885 (stock open $229.13) at 2026-08-24 09:30:00-04:00. P&L: $-36.15. Left on table: $-22793.31.",
-    "pnl": -36.15,
+    "subtitle": "MRVL closed at $237.04 on 2026-08-24, ranking dollar_loser_1 with -5.57% ($-13.97). Strike $190.0 PUT exp 2026-08-28 (4DTE). IV at entry: 112.6%. Cost: $100.00. News scan: n/a \u2014 decision: n/a. Sold at option value $0.5789 (stock open $229.13) at 2026-08-24 09:30:00-04:00. P&L: $-42.11. Left on table: $-22794.80.",
+    "pnl": -42.11,
     "won": false
   }
 ]
