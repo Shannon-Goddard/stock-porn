@@ -1,14 +1,15 @@
-name: Update Signals
+name: Paper Trade Entry
 
 on:
   schedule:
-    # Every 30 min Monday-Friday 9:30 AM - 4:00 PM Eastern (13:30-20:00 UTC)
-    - cron: '0,30 13-19 * * 1-5'
-    - cron: '0 20 * * 1-5'
-  workflow_dispatch: # allow manual trigger from GitHub UI
+    # 3:55 PM PST = 23:55 UTC (standard time) / 22:55 UTC (daylight time)
+    # Running both to cover DST transitions
+    - cron: '55 23 * * 1-5'
+    - cron: '55 22 * * 1-5'
+  workflow_dispatch:
 
 jobs:
-  update:
+  entry:
     runs-on: ubuntu-latest
 
     steps:
@@ -23,13 +24,13 @@ jobs:
       - name: Install dependencies
         run: pip install yfinance scipy
 
-      - name: Run fetch_signals
-        run: python scripts/fetch_signals.py
+      - name: Run paper trade entry
+        run: python scripts/paper_trade.py
 
       - name: Commit and push if data changed
         run: |
           git config user.email "action@github.com"
           git config user.name "GitHub Action"
-          git add data/signals.json data/metadata.json
-          git diff --staged --quiet || git commit -m "update signals $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git add data/trades.json data/blog.json
+          git diff --staged --quiet || git commit -m "paper trade entry $(date -u '+%Y-%m-%d %H:%M UTC')"
           git push

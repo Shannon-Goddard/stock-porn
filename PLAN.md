@@ -379,26 +379,26 @@ published: true by default — article live immediately, enrich later
 - [x] Filter decision documented in methodology.md
 - [x] Push filtered signals
 
-### Phase 2 — Navigation & Legal
-- [ ] components/nav.js — hamburger, all pages
-- [ ] pages/legal.html
-- [ ] pages/methodology.html
-- [ ] index.html — add nav, clean footer to disclaimer only
+### Phase 2 — Navigation & Legal ✓ Complete
+- [x] components/nav.js — hamburger, all pages
+- [x] pages/legal.html
+- [x] pages/methodology.html
+- [x] index.html — nav added, footer cleaned
 
 ### Phase 3 — Paper Trade System
-- [ ] data/trades.json — initialize
-- [ ] data/stats.json — initialize
-- [ ] data/candles/ — create folder
-- [ ] scripts/black_scholes.py
-- [ ] scripts/fetch_news.py
-- [ ] scripts/paper_trade.py
-- [ ] scripts/sell_signal.py
-- [ ] .github/workflows/paper_trade_entry.yml
-- [ ] .github/workflows/paper_trade_news.yml
-- [ ] .github/workflows/paper_trade_sell.yml
+- [x] data/trades.json — initialized (balance = cumulative P&L from $0)
+- [x] data/stats.json — initialized
+- [x] data/candles/ — folder created
+- [x] scripts/black_scholes.py — verified $698.69 on HOOD example
+- [x] scripts/fetch_news.py — Yahoo news, keyword scoring, candle fetch, weekend gap handling
+- [x] scripts/paper_trade.py — entry automation, real options chain, ATM within $100, otm_pct tracked
+- [x] scripts/sell_signal.py — BS option pricing at open, FOMO calc, stats + blog update
+- [x] .github/workflows/paper_trade_entry.yml — 3:55 PM PST, DST covered
+- [x] .github/workflows/paper_trade_news.yml — 6:25 AM PST, DST covered
+- [x] .github/workflows/paper_trade_sell.yml — 6:31 AM PST, DST covered
+- [x] requirements.txt — scipy added
 - [ ] pages/paper-trade.html
 - [ ] pages/ledger.html
-- [ ] requirements.txt — add scipy
 
 ### Phase 4 — Analytics & Blog
 - [ ] data/stats.json populated by sell_signal.py
@@ -459,6 +459,5 @@ published: true by default — article live immediately, enrich later
 
 ---
 
-*Last updated: Phase 1 complete — quality filters added and documented*
-*Next step: Phase 2 — nav.js, legal.html, methodology.html, index.html cleanup*
-*Then: Phase 3 — full paper trade automation*
+*Last updated: Phase 3 scripts + workflows complete — pages next*
+*Next step: paper-trade.html → ledger.html → stats.html → blog.html*

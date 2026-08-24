@@ -1,0 +1,151 @@
+{
+  "balance": 1.55,
+  "starting_balance": 0.0,
+  "first_trade_date": "2026-08-24",
+  "trades": [
+    {
+      "id": 1,
+      "status": "closed",
+      "entry": {
+        "date": "2026-08-24",
+        "time": "15:55 PST",
+        "ticker": "HOOD",
+        "name": "Robinhood Markets, Inc.",
+        "sector": "Finance",
+        "type": "CALL",
+        "strike": 112.0,
+        "expiration": "2026-08-28",
+        "dte_at_entry": 4,
+        "T_at_entry": 0.010959,
+        "stock_price_at_entry": 108.13,
+        "premium": 0.81,
+        "cost": 81.0,
+        "bid": 0.78,
+        "spread": 0.03,
+        "iv_at_entry": 0.6899,
+        "otm_pct": 3.58,
+        "signal_rank": "dollar_gainer_1",
+        "signal_pct": 13.7,
+        "signal_dollar": 13.03,
+        "spy_change": -0.25,
+        "macro_active": true,
+        "macro_keywords": [
+          "sanctions"
+        ],
+        "auto_note": "HOOD CALL | $+13.03 (+13.70%) | dollar_gainer_1 | Strike $112.0 exp 2026-08-28 (4DTE) | IV 69.0% | SPY -0.25% | MACRO: sanctions"
+      },
+      "news_scan": null,
+      "exit": {
+        "date": "2026-08-24",
+        "time": "2026-08-24 09:30:00-04:00",
+        "stock_open_price": 106.66,
+        "sell_option_price": 1.187,
+        "sell_contract_value": 118.7,
+        "sell_trigger": "sell_at_open",
+        "pnl": 37.7
+      },
+      "fomo": {
+        "sell_contract_value": 10666.0,
+        "sell_pnl": 10585.0,
+        "theta_burned_at_sell": -0.0,
+        "theta_per_min": -0.091706,
+        "day_high": {
+          "stock_price": 109.125,
+          "time": "2026-08-24 11:29:00-04:00",
+          "bs_contract_value": 197.29,
+          "theoretical_pnl": 116.29
+        },
+        "day_low": {
+          "stock_price": 103.14,
+          "time": "2026-08-24 15:53:00-04:00",
+          "bs_contract_value": 49.8,
+          "theoretical_pnl": -31.2
+        },
+        "best_case": {
+          "value": 197.29,
+          "pnl": 116.29,
+          "time": "2026-08-24 11:29:00-04:00"
+        },
+        "worst_case": {
+          "value": 49.8,
+          "pnl": -31.2,
+          "time": "2026-08-24 15:53:00-04:00"
+        },
+        "left_on_table": -10468.71,
+        "theta_note": "4DTE: Theta minimal at open, stock direction dominates. Est. $0.00 burned"
+      }
+    },
+    {
+      "id": 2,
+      "status": "closed",
+      "entry": {
+        "date": "2026-08-24",
+        "time": "15:55 PST",
+        "ticker": "MRVL",
+        "name": "Marvell Technology, Inc.",
+        "sector": "Electronic technology",
+        "type": "PUT",
+        "strike": 190.0,
+        "expiration": "2026-08-28",
+        "dte_at_entry": 4,
+        "T_at_entry": 0.010959,
+        "stock_price_at_entry": 237.04,
+        "premium": 0.95,
+        "cost": 95.0,
+        "bid": 0.91,
+        "spread": 0.04,
+        "iv_at_entry": 1.1299,
+        "otm_pct": 19.84,
+        "signal_rank": "dollar_loser_1",
+        "signal_pct": -5.57,
+        "signal_dollar": -13.97,
+        "spy_change": -0.25,
+        "macro_active": true,
+        "macro_keywords": [
+          "sanctions"
+        ],
+        "auto_note": "MRVL PUT | $-13.97 (-5.57%) | dollar_loser_1 | Strike $190.0 exp 2026-08-28 (4DTE) | IV 113.0% | SPY -0.25% | MACRO: sanctions"
+      },
+      "news_scan": null,
+      "exit": {
+        "date": "2026-08-24",
+        "time": "2026-08-24 09:30:00-04:00",
+        "stock_open_price": 229.13,
+        "sell_option_price": 0.5885,
+        "sell_contract_value": 58.85,
+        "sell_trigger": "sell_at_open",
+        "pnl": -36.15
+      },
+      "fomo": {
+        "sell_contract_value": 22913.0,
+        "sell_pnl": 22818.0,
+        "theta_burned_at_sell": -0.0,
+        "theta_per_min": -0.055025,
+        "day_high": {
+          "stock_price": 231.7,
+          "time": "2026-08-24 14:35:00-04:00",
+          "bs_contract_value": 47.33,
+          "theoretical_pnl": -47.67
+        },
+        "day_low": {
+          "stock_price": 220.4201,
+          "time": "2026-08-24 09:40:00-04:00",
+          "bs_contract_value": 119.69,
+          "theoretical_pnl": 24.69
+        },
+        "best_case": {
+          "value": 119.69,
+          "pnl": 24.69,
+          "time": "2026-08-24 09:40:00-04:00"
+        },
+        "worst_case": {
+          "value": 47.33,
+          "pnl": -47.67,
+          "time": "2026-08-24 14:35:00-04:00"
+        },
+        "left_on_table": -22793.31,
+        "theta_note": "4DTE: Theta minimal at open, stock direction dominates. Est. $0.00 burned"
+      }
+    }
+  ]
+}

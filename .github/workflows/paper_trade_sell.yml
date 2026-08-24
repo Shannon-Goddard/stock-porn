@@ -1,0 +1,37 @@
+name: Paper Trade Sell
+
+on:
+  schedule:
+    # 6:31 AM PST = 14:31 UTC (standard time) / 13:31 UTC (daylight time)
+    # Runs 6 min after news scan — decision already logged to trades.json
+    # Waits 1 min after market open (6:30 AM PST) for first clean candle
+    - cron: '31 14 * * 1-5'
+    - cron: '31 13 * * 1-5'
+  workflow_dispatch:
+
+jobs:
+  sell:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install yfinance scipy
+
+      - name: Run sell signal
+        run: python scripts/sell_signal.py
+
+      - name: Commit and push results
+        run: |
+          git config user.email "action@github.com"
+          git config user.name "GitHub Action"
+          git add data/trades.json data/stats.json data/blog.json data/candles/
+          git diff --staged --quiet || git commit -m "paper trade sell $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
