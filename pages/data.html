@@ -1,0 +1,372 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Get the Data — stock-porn</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    :root {
+      --bg: #0d0d0d; --surface: #141414; --surface2: #1a1a1a;
+      --border: #2a2a2a; --text: #e8e8e8; --muted: #666;
+      --green: #00c853; --red: #ff1744;
+      --green-dim: #00c85322;
+    }
+    body { background: var(--bg); color: var(--text); font-family: 'Courier New', Courier, monospace; font-size: 14px; line-height: 1.6; }
+    .content { max-width: 900px; margin: 0 auto; padding: 2rem 1rem; }
+
+    h1 { color: var(--green); font-size: 1.2rem; text-transform: uppercase; letter-spacing: 0.08em; margin-bottom: 0.25rem; }
+    .subtitle { color: var(--muted); font-size: 0.75rem; margin-bottom: 2rem; }
+
+    /* DATA CARD */
+    .data-card {
+      background: var(--surface); border: 1px solid var(--border);
+      border-radius: 4px; margin-bottom: 1.25rem; overflow: hidden;
+    }
+    .data-card-header {
+      display: flex; flex-wrap: wrap; gap: 0.75rem;
+      align-items: center; justify-content: space-between;
+      padding: 1rem 1.25rem; border-bottom: 1px solid var(--border);
+    }
+    .data-card-title { color: var(--green); font-size: 0.9rem; font-weight: bold; }
+    .data-card-meta  { font-size: 0.72rem; color: var(--muted); }
+    .download-btn {
+      display: inline-block; padding: 0.4rem 1rem;
+      border: 1px solid var(--green); color: var(--green);
+      border-radius: 3px; font-family: 'Courier New', monospace;
+      font-size: 0.75rem; text-decoration: none; text-transform: uppercase;
+      letter-spacing: 0.05em; transition: background 0.15s, color 0.15s;
+      white-space: nowrap;
+    }
+    .download-btn:hover { background: var(--green); color: var(--bg); }
+
+    .data-card-body { padding: 1rem 1.25rem; }
+    p { font-size: 0.82rem; color: var(--muted); margin-bottom: 0.75rem; }
+
+    /* FIELD DEFINITIONS */
+    .field-list { display: flex; flex-direction: column; gap: 0.3rem; margin-bottom: 0.75rem; }
+    .field-row { display: flex; gap: 0.75rem; font-size: 0.78rem; flex-wrap: wrap; }
+    .field-name  { color: var(--green); min-width: 180px; flex-shrink: 0; }
+    .field-type  { color: var(--muted); min-width: 60px; flex-shrink: 0; font-size: 0.7rem; }
+    .field-desc  { color: var(--text); }
+
+    /* ACCORDION */
+    .accordion-btn {
+      width: 100%; background: var(--surface2); border: 1px solid var(--border);
+      border-radius: 3px; padding: 0.5rem 0.75rem;
+      color: var(--muted); font-family: 'Courier New', monospace;
+      font-size: 0.72rem; text-align: left; cursor: pointer;
+      display: flex; justify-content: space-between; align-items: center;
+      text-transform: uppercase; letter-spacing: 0.06em;
+      transition: border-color 0.15s, color 0.15s; margin-bottom: 0.5rem;
+    }
+    .accordion-btn:hover, .accordion-btn.open { border-color: var(--green); color: var(--green); }
+    .accordion-content { display: none; overflow-x: auto; margin-bottom: 0.5rem; }
+    .accordion-content.open { display: block; }
+
+    /* PREVIEW TABLE */
+    .preview-table { width: 100%; border-collapse: collapse; font-size: 0.72rem; }
+    .preview-table th {
+      text-align: left; padding: 0.3rem 0.5rem;
+      color: var(--muted); font-weight: normal; font-size: 0.65rem;
+      text-transform: uppercase; letter-spacing: 0.06em;
+      border-bottom: 1px solid var(--border); white-space: nowrap;
+    }
+    .preview-table td { padding: 0.35rem 0.5rem; border-bottom: 1px solid var(--surface2); white-space: nowrap; }
+    .preview-table tr:last-child td { border-bottom: none; }
+    .preview-table .green { color: var(--green); }
+    .preview-table .red   { color: var(--red); }
+    .preview-table .muted { color: var(--muted); }
+
+    /* DEV SECTION */
+    .dev-section {
+      background: var(--surface); border: 1px solid var(--border);
+      border-left: 3px solid var(--green); border-radius: 0 4px 4px 0;
+      padding: 1rem 1.25rem; margin-bottom: 1.25rem;
+    }
+    .dev-title { color: var(--green); font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.08em; margin-bottom: 0.75rem; }
+    pre {
+      background: var(--surface2); border: 1px solid var(--border);
+      padding: 0.75rem 1rem; font-size: 0.75rem; overflow-x: auto;
+      border-radius: 3px; margin: 0.5rem 0; line-height: 1.6;
+    }
+    code { color: var(--green); }
+    .updated-tag { font-size: 0.68rem; color: var(--muted); }
+
+    a { color: var(--green); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    footer { margin-top: 2rem; padding-top: 1rem; border-top: 1px solid var(--border); font-size: 0.72rem; color: var(--muted); text-align: center; }
+  </style>
+</head>
+<body>
+
+  <div id="nav-root"></div>
+  <script src="../components/nav.js"></script>
+
+  <div class="content">
+    <h1>Get the Data</h1>
+    <p class="subtitle">
+      All data is free, open, and updated automatically. Download CSVs or fetch JSON directly.
+      No API key. No account. No rate limit on the static files.
+    </p>
+
+    <!-- SIGNALS -->
+    <div class="data-card">
+      <div class="data-card-header">
+        <div>
+          <div class="data-card-title">signals.json</div>
+          <div class="data-card-meta">Top movers · Updated every 30 min during market hours · <span class="updated-tag" id="signalsUpdated">loading...</span></div>
+        </div>
+        <a class="download-btn" href="../data/signals.json" download>↓ Download</a>
+      </div>
+      <div class="data-card-body">
+        <p>Top 10% gainers and losers by percent move, plus top 5 by dollar move. Filtered to optionable stocks with price ≥ $10 and volume ≥ 500K.</p>
+        <div class="field-list">
+          <div class="field-row"><span class="field-name">topGainers</span><span class="field-type">array</span><span class="field-desc">Top 10 stocks by % gain today</span></div>
+          <div class="field-row"><span class="field-name">topLosers</span><span class="field-type">array</span><span class="field-desc">Top 10 stocks by % loss today</span></div>
+          <div class="field-row"><span class="field-name">dollarGainers</span><span class="field-type">array</span><span class="field-desc">Top 5 stocks by dollar gain (from topGainers pool)</span></div>
+          <div class="field-row"><span class="field-name">dollarLosers</span><span class="field-type">array</span><span class="field-desc">Top 5 stocks by dollar loss (from topLosers pool)</span></div>
+          <div class="field-row"><span class="field-name">→ ticker</span><span class="field-type">string</span><span class="field-desc">Stock ticker symbol</span></div>
+          <div class="field-row"><span class="field-name">→ name</span><span class="field-type">string</span><span class="field-desc">Company name</span></div>
+          <div class="field-row"><span class="field-name">→ sector</span><span class="field-type">string</span><span class="field-desc">Market sector</span></div>
+          <div class="field-row"><span class="field-name">→ price</span><span class="field-type">float</span><span class="field-desc">Current price in USD</span></div>
+          <div class="field-row"><span class="field-name">→ changePct</span><span class="field-type">float</span><span class="field-desc">Percent change from previous close</span></div>
+          <div class="field-row"><span class="field-name">→ changeDollar</span><span class="field-type">float</span><span class="field-desc">Dollar change from previous close</span></div>
+        </div>
+        <button class="accordion-btn" onclick="toggleAccordion('signals-preview', this)">
+          <span>Preview — first 5 rows</span><span>▼</span>
+        </button>
+        <div class="accordion-content" id="signals-preview">
+          <table class="preview-table" id="signalsTable">
+            <thead><tr><th>ticker</th><th>name</th><th>sector</th><th>price</th><th>changePct</th><th>changeDollar</th></tr></thead>
+            <tbody><tr><td colspan="6" class="muted">loading...</td></tr></tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+
+    <!-- STOCKS OPTIONABLE -->
+    <div class="data-card">
+      <div class="data-card-header">
+        <div>
+          <div class="data-card-title">stocks_optionable.csv</div>
+          <div class="data-card-meta">Full NYSE list · Updated 1st of every month · <span class="updated-tag" id="optionableUpdated">loading...</span></div>
+        </div>
+        <a class="download-btn" href="../data/stocks_optionable.csv" download>↓ Download</a>
+      </div>
+      <div class="data-card-body">
+        <p>All 4,940 NYSE-listed stocks scanned for options availability. 2,863 have options. Refreshed monthly via GitHub Actions.</p>
+        <div class="field-list">
+          <div class="field-row"><span class="field-name">Symbol</span><span class="field-type">string</span><span class="field-desc">Stock ticker symbol</span></div>
+          <div class="field-row"><span class="field-name">Name</span><span class="field-type">string</span><span class="field-desc">Company name</span></div>
+          <div class="field-row"><span class="field-name">Sector</span><span class="field-type">string</span><span class="field-desc">Market sector classification</span></div>
+          <div class="field-row"><span class="field-name">options_available</span><span class="field-type">bool</span><span class="field-desc">TRUE if options chain exists on Yahoo Finance</span></div>
+        </div>
+        <button class="accordion-btn" onclick="toggleAccordion('optionable-preview', this)">
+          <span>Preview — first 10 rows</span><span>▼</span>
+        </button>
+        <div class="accordion-content" id="optionable-preview">
+          <table class="preview-table">
+            <thead><tr><th>Symbol</th><th>Name</th><th>Sector</th><th>options_available</th></tr></thead>
+            <tbody id="optionableRows"><tr><td colspan="4" class="muted">loading...</td></tr></tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+
+    <!-- TRADES -->
+    <div class="data-card">
+      <div class="data-card-header">
+        <div>
+          <div class="data-card-title">trades.json</div>
+          <div class="data-card-meta">Paper trade ledger · Updated at 6:31 AM PST on trading days</div>
+        </div>
+        <a class="download-btn" href="../data/trades.json" download>↓ Download</a>
+      </div>
+      <div class="data-card-body">
+        <p>Full automated paper trade history. Every entry and exit logged with Black-Scholes option pricing, FOMO analysis, and news scan decisions.</p>
+        <div class="field-list">
+          <div class="field-row"><span class="field-name">balance</span><span class="field-type">float</span><span class="field-desc">Cumulative P&L across all closed trades</span></div>
+          <div class="field-row"><span class="field-name">first_trade_date</span><span class="field-type">string</span><span class="field-desc">Date of first ever trade (YYYY-MM-DD)</span></div>
+          <div class="field-row"><span class="field-name">trades[].entry.ticker</span><span class="field-type">string</span><span class="field-desc">Stock ticker</span></div>
+          <div class="field-row"><span class="field-name">trades[].entry.type</span><span class="field-type">string</span><span class="field-desc">CALL or PUT</span></div>
+          <div class="field-row"><span class="field-name">trades[].entry.strike</span><span class="field-type">float</span><span class="field-desc">Option strike price</span></div>
+          <div class="field-row"><span class="field-name">trades[].entry.iv_at_entry</span><span class="field-type">float</span><span class="field-desc">Implied volatility captured at entry (decimal)</span></div>
+          <div class="field-row"><span class="field-name">trades[].entry.otm_pct</span><span class="field-type">float</span><span class="field-desc">How far OTM the contract was at entry (%)</span></div>
+          <div class="field-row"><span class="field-name">trades[].exit.pnl</span><span class="field-type">float</span><span class="field-desc">Profit or loss on the trade in USD</span></div>
+          <div class="field-row"><span class="field-name">trades[].fomo.best_case.pnl</span><span class="field-type">float</span><span class="field-desc">Max theoretical P&L within 30 min of open (BS estimate)</span></div>
+          <div class="field-row"><span class="field-name">trades[].news_scan.decision</span><span class="field-type">string</span><span class="field-desc">hold or sell — based on pre-market news keyword score</span></div>
+        </div>
+        <button class="accordion-btn" onclick="toggleAccordion('trades-preview', this)">
+          <span>Preview — most recent 5 trades</span><span>▼</span>
+        </button>
+        <div class="accordion-content" id="trades-preview">
+          <table class="preview-table">
+            <thead><tr><th>#</th><th>date</th><th>ticker</th><th>type</th><th>strike</th><th>cost</th><th>iv</th><th>otm%</th><th>pnl</th></tr></thead>
+            <tbody id="tradesRows"><tr><td colspan="9" class="muted">loading...</td></tr></tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+
+    <!-- STATS -->
+    <div class="data-card">
+      <div class="data-card-header">
+        <div>
+          <div class="data-card-title">stats.json</div>
+          <div class="data-card-meta">Analytics · Updated after every trade closes</div>
+        </div>
+        <a class="download-btn" href="../data/stats.json" download>↓ Download</a>
+      </div>
+      <div class="data-card-body">
+        <p>All derived analytics — win rates by day/sector/rank, SPY correlation, FOMO averages, keyword accuracy, methodology layer scores.</p>
+        <div class="field-list">
+          <div class="field-row"><span class="field-name">overall.win_rate</span><span class="field-type">float</span><span class="field-desc">Win rate as percentage (0-100)</span></div>
+          <div class="field-row"><span class="field-name">by_day_of_week</span><span class="field-type">object</span><span class="field-desc">Win rate and avg P&L per day Mon-Fri</span></div>
+          <div class="field-row"><span class="field-name">by_sector</span><span class="field-type">object</span><span class="field-desc">Win rate and avg P&L per market sector</span></div>
+          <div class="field-row"><span class="field-name">fomo.avg_left_on_table</span><span class="field-type">float</span><span class="field-desc">Avg theoretical P&L left unrealized (30-min window)</span></div>
+          <div class="field-row"><span class="field-name">keyword_accuracy</span><span class="field-type">object</span><span class="field-desc">Bullish/bearish/neutral keyword prediction accuracy</span></div>
+          <div class="field-row"><span class="field-name">methodology_score</span><span class="field-type">object</span><span class="field-desc">Each signal layer scored independently for accuracy</span></div>
+        </div>
+        <button class="accordion-btn" onclick="toggleAccordion('stats-preview', this)">
+          <span>Preview — overall stats</span><span>▼</span>
+        </button>
+        <div class="accordion-content" id="stats-preview">
+          <div id="statsPreview" style="font-size:0.75rem;padding:0.5rem 0;color:var(--muted)">loading...</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- DEVELOPER -->
+    <div class="dev-section">
+      <div class="dev-title">⌥ For Developers — Direct JSON Endpoints</div>
+      <p style="color:var(--muted);font-size:0.78rem;margin-bottom:0.75rem">
+        All data files are static JSON served directly from GitHub Pages. Fetch them from anywhere. No auth, no rate limit on the files themselves.
+      </p>
+      <pre><span style="color:var(--muted)">// Current signals — updates every 30 min market hours</span>
+fetch('https://stock-porn.loyal9.app/data/signals.json')
+
+<span style="color:var(--muted)">// Full paper trade ledger</span>
+fetch('https://stock-porn.loyal9.app/data/trades.json')
+
+<span style="color:var(--muted)">// Analytics</span>
+fetch('https://stock-porn.loyal9.app/data/stats.json')
+
+<span style="color:var(--muted)">// Timestamps and filter counts</span>
+fetch('https://stock-porn.loyal9.app/data/metadata.json')</pre>
+      <p style="color:var(--muted);font-size:0.72rem;margin-top:0.5rem">
+        Add <code>?t=</code> + a timestamp to bust cache if you're polling frequently.
+      </p>
+    </div>
+
+  </div>
+
+  <footer>
+    Data via Yahoo Finance · GitHub Actions · Not financial advice ·
+    <a href="legal.html">Legal</a> &nbsp;·&nbsp;
+    <a href="https://buymeacoffee.com/goddardshannon9" target="_blank" rel="noopener">🍺 Buy the dev a beer</a>
+  </footer>
+
+  <script>
+    function toggleAccordion(id, btn) {
+      const el = document.getElementById(id);
+      const open = el.classList.toggle('open');
+      btn.classList.toggle('open', open);
+      btn.querySelector('span:last-child').textContent = open ? '▲' : '▼';
+    }
+
+    function fmt(val) {
+      if (val === null || val === undefined) return '—';
+      return (val >= 0 ? '+$' : '-$') + Math.abs(val).toFixed(2);
+    }
+
+    async function loadPreviews() {
+      const t = '?t=' + Date.now();
+
+      // Signals preview
+      try {
+        const s = await (await fetch('../data/signals.json' + t)).json();
+        const rows = (s.dollarGainers || []).slice(0, 5);
+        document.querySelector('#signalsTable tbody').innerHTML = rows.map(r => `
+          <tr>
+            <td class="green">${r.ticker}</td>
+            <td>${r.name.substring(0,30)}${r.name.length>30?'…':''}</td>
+            <td class="muted">${r.sector}</td>
+            <td>$${r.price}</td>
+            <td class="${r.changePct>=0?'green':'red'}">${r.changePct>0?'+':''}${r.changePct}%</td>
+            <td class="${r.changeDollar>=0?'green':'red'}">${r.changeDollar>0?'+$':'-$'}${Math.abs(r.changeDollar)}</td>
+          </tr>`).join('');
+      } catch(e) {}
+
+      // Metadata timestamps
+      try {
+        const m = await (await fetch('../data/metadata.json' + t)).json();
+        if (m.signals?.last_updated)
+          document.getElementById('signalsUpdated').textContent = 'Updated: ' + m.signals.last_updated;
+        if (m.stocks_optionable?.last_updated)
+          document.getElementById('optionableUpdated').textContent = 'Updated: ' + m.stocks_optionable.last_updated;
+      } catch(e) {}
+
+      // Optionable CSV preview — fetch and parse first 10 rows
+      try {
+        const csv = await (await fetch('../data/stocks_optionable.csv' + t)).text();
+        const lines = csv.trim().split('\n').slice(1, 11); // skip header, take 10
+        document.getElementById('optionableRows').innerHTML = lines.map(line => {
+          const [sym, name, sector, opts] = line.split(',').map(v => v.trim().replace(/"/g,''));
+          return `<tr>
+            <td class="green">${sym}</td>
+            <td>${(name||'').substring(0,35)}</td>
+            <td class="muted">${sector||''}</td>
+            <td class="${opts==='TRUE'?'green':'muted'}">${opts}</td>
+          </tr>`;
+        }).join('');
+      } catch(e) {}
+
+      // Trades preview
+      try {
+        const td = await (await fetch('../data/trades.json' + t)).json();
+        const closed = (td.trades||[]).filter(t=>t.status==='closed').slice(-5).reverse();
+        document.getElementById('tradesRows').innerHTML = closed.length
+          ? closed.map(t => {
+              const e = t.entry; const ex = t.exit;
+              return `<tr>
+                <td class="muted">${t.id}</td>
+                <td class="muted">${e.date}</td>
+                <td class="green">${e.ticker}</td>
+                <td>${e.type}</td>
+                <td>$${e.strike}</td>
+                <td class="muted">$${e.cost}</td>
+                <td class="muted">${(e.iv_at_entry*100).toFixed(1)}%</td>
+                <td class="${e.otm_pct>10?'red':'muted'}">${e.otm_pct}%</td>
+                <td class="${ex.pnl>=0?'green':'red'}">${fmt(ex.pnl)}</td>
+              </tr>`;
+            }).join('')
+          : '<tr><td colspan="9" class="muted">No closed trades yet</td></tr>';
+      } catch(e) {}
+
+      // Stats preview
+      try {
+        const st = await (await fetch('../data/stats.json' + t)).json();
+        const o = st.overall;
+        document.getElementById('statsPreview').innerHTML = `
+          <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:0.5rem">
+            ${[
+              ['Total P&L',   fmt(o.total_pnl),   o.total_pnl>=0?'green':'red'],
+              ['Win Rate',    o.win_rate+'%',      o.win_rate>=50?'green':'red'],
+              ['Total Trades',o.total_trades,      'muted'],
+              ['Avg P&L',     fmt(o.avg_pnl),      o.avg_pnl>=0?'green':'red'],
+            ].map(([l,v,c])=>`
+              <div style="background:var(--surface2);border:1px solid var(--border);padding:0.5rem 0.75rem;border-radius:3px">
+                <div style="font-size:0.62rem;text-transform:uppercase;letter-spacing:0.07em;color:var(--muted);margin-bottom:0.2rem">${l}</div>
+                <div style="font-size:0.95rem;font-weight:bold;color:var(--${c})">${v}</div>
+              </div>`).join('')}
+          </div>`;
+      } catch(e) {}
+    }
+
+    loadPreviews();
+  </script>
+
+</body>
+</html>

@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Google Sheets Guide — stock-porn</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    :root {
+      --bg: #0d0d0d; --surface: #141414; --surface2: #1a1a1a;
+      --border: #2a2a2a; --text: #e8e8e8; --muted: #666;
+      --green: #00c853; --red: #ff1744;
+    }
+    body { background: var(--bg); color: var(--text); font-family: 'Courier New', Courier, monospace; font-size: 14px; line-height: 1.8; }
+    .content { max-width: 800px; margin: 0 auto; padding: 2rem 1rem; }
+
+    h1 { color: var(--green); font-size: 1.2rem; text-transform: uppercase; letter-spacing: 0.08em; margin-bottom: 0.25rem; }
+    .intro { color: var(--muted); font-size: 0.78rem; margin-bottom: 0.5rem; }
+
+    /* VIDEO BLOCK */
+    .video-block {
+      background: var(--surface); border: 1px solid var(--border);
+      border-left: 3px solid var(--green); border-radius: 0 4px 4px 0;
+      padding: 1rem 1.25rem; margin: 1.25rem 0;
+    }
+    .video-label { font-size: 0.65rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--muted); margin-bottom: 0.4rem; }
+    .video-tagline { font-size: 0.82rem; color: var(--muted); margin-bottom: 0.75rem; font-style: italic; }
+    .video-embed {
+      position: relative; padding-bottom: 56.25%; height: 0;
+      background: var(--surface2); border: 1px solid var(--border); border-radius: 3px;
+    }
+    .video-embed iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 3px; }
+    .video-placeholder {
+      position: absolute; top: 0; left: 0; width: 100%; height: 100%;
+      display: flex; align-items: center; justify-content: center;
+      flex-direction: column; gap: 0.5rem;
+      color: var(--muted); font-size: 0.78rem;
+    }
+    .video-placeholder span { font-size: 2rem; }
+
+    h2 {
+      color: var(--green); font-size: 0.88rem; text-transform: uppercase;
+      letter-spacing: 0.08em; margin: 2.5rem 0 1rem;
+      border-bottom: 1px solid var(--border); padding-bottom: 0.5rem;
+      display: flex; align-items: center; gap: 0.5rem;
+    }
+    .step-num {
+      background: var(--green); color: var(--bg); font-size: 0.65rem;
+      padding: 0.1rem 0.4rem; border-radius: 2px; font-weight: bold;
+    }
+
+    p { font-size: 0.85rem; margin-bottom: 0.75rem; color: var(--text); }
+    a { color: var(--green); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    /* IMAGE PLACEHOLDER */
+    .img-placeholder {
+      background: var(--surface2); border: 1px dashed var(--border);
+      border-radius: 4px; padding: 2rem; text-align: center;
+      color: var(--muted); font-size: 0.75rem; margin: 1rem 0;
+      cursor: pointer;
+    }
+    .img-placeholder span { display: block; font-size: 1.5rem; margin-bottom: 0.4rem; }
+    /* When you have a real image, replace the div with: <img src="../assets/img/step-X.png" alt="..." style="width:100%;border-radius:4px;margin:1rem 0"> */
+
+    /* CODE BLOCKS */
+    pre {
+      background: var(--surface); border: 1px solid var(--border);
+      border-left: 3px solid var(--green); padding: 0.75rem 1rem;
+      font-size: 0.78rem; overflow-x: auto; margin: 0.75rem 0;
+      border-radius: 0 4px 4px 0; line-height: 1.6;
+    }
+    code { color: var(--green); font-family: 'Courier New', monospace; font-size: 0.82rem; }
+
+    /* TABLE */
+    table { width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.8rem; }
+    th { text-align: left; padding: 0.4rem 0.75rem; color: var(--muted); font-weight: normal; border-bottom: 1px solid var(--border); font-size: 0.7rem; text-transform: uppercase; }
+    td { padding: 0.5rem 0.75rem; border-bottom: 1px solid var(--surface2); }
+    td:first-child { color: var(--green); }
+    tr:last-child td { border-bottom: none; }
+
+    /* CALLOUT */
+    .callout {
+      background: var(--surface); border: 1px solid var(--border);
+      border-left: 3px solid var(--green); padding: 0.75rem 1rem;
+      border-radius: 0 4px 4px 0; font-size: 0.82rem; margin: 1rem 0;
+      line-height: 1.6;
+    }
+    .callout.warn { border-left-color: var(--red); }
+    .callout strong { color: var(--green); }
+    .callout.warn strong { color: var(--red); }
+
+    ol, ul { padding-left: 1.5rem; font-size: 0.85rem; margin-bottom: 0.75rem; }
+    li { margin-bottom: 0.3rem; }
+
+    .divider { border: none; border-top: 1px solid var(--border); margin: 2rem 0; }
+
+    footer { margin-top: 3rem; padding-top: 1rem; border-top: 1px solid var(--border); font-size: 0.72rem; color: var(--muted); text-align: center; }
+  </style>
+</head>
+<body>
+
+  <div id="nav-root"></div>
+  <script src="../components/nav.js"></script>
+
+  <div class="content">
+    <h1>Google Sheets Guide</h1>
+    <p class="intro">No coding required. Free. Takes about 10 minutes.</p>
+    <p class="intro">Build a live stock tracking sheet that pulls real-time data automatically — the same data powering this site, in your own spreadsheet.</p>
+
+    <!-- VIDEO BLOCK -->
+    <div class="video-block">
+      <div class="video-label">Video Walkthrough</div>
+      <div class="video-tagline">
+        "Prefer the visual walkthrough? Same content, zero reading required."
+      </div>
+      <div class="video-tagline" style="margin-top:-0.25rem;font-size:0.75rem;">
+        Explain it to me like I'm 5.
+      </div>
+      <div class="video-embed">
+        <!-- Replace this placeholder with your YouTube embed when ready:
+             <iframe src="https://www.youtube.com/embed/YOUR_VIDEO_ID"
+               frameborder="0" allowfullscreen loading="lazy"></iframe>
+        -->
+        <div class="video-placeholder">
+          <span>▶</span>
+          YouTube walkthrough coming soon
+        </div>
+      </div>
+    </div>
+
+    <hr class="divider">
+
+    <!-- WHAT YOU'LL BUILD -->
+    <h2><span class="step-num">GOAL</span> What You'll Build</h2>
+    <p>A personal live stock tracking sheet that:</p>
+    <ul>
+      <li>Pulls real-time price data automatically via GOOGLEFINANCE()</li>
+      <li>Shows price, change %, change $, volume, 52-week high</li>
+      <li>Highlights gainers green and losers red automatically</li>
+      <li>Filters to only stocks with options available</li>
+      <li>Is yours to customize however you want — no API key, no cost</li>
+    </ul>
+
+    <div class="img-placeholder">
+      <span>🖼</span>
+      Screenshot: finished sheet preview<br>
+      <small>Replace with: &lt;img src="../assets/img/sheets-finished.png"&gt;</small>
+    </div>
+
+    <hr class="divider">
+
+    <!-- STEP 1 -->
+    <h2><span class="step-num">01</span> Get the Data</h2>
+    <ol>
+      <li>Go to <a href="https://stock-porn.loyal9.app/pages/data.html" target="_blank">stock-porn.loyal9.app/pages/data.html</a></li>
+      <li>Download <code>stocks_optionable.csv</code></li>
+      <li>Save it to your computer</li>
+    </ol>
+    <p>This CSV contains every NYSE listed stock with options available — ticker symbol, company name, and sector. Updated monthly.</p>
+
+    <div class="img-placeholder">
+      <span>🖼</span>
+      Screenshot: data page download button<br>
+      <small>Replace with: &lt;img src="../assets/img/sheets-step1-download.png"&gt;</small>
+    </div>
+
+    <hr class="divider">
+
+    <!-- STEP 2 -->
+    <h2><span class="step-num">02</span> Open Google Sheets</h2>
+    <ol>
+      <li>Go to <a href="https://sheets.google.com" target="_blank">sheets.google.com</a></li>
+      <li>Click <strong>+</strong> to create a new blank spreadsheet</li>
+      <li>Name it something like <code>My Stock Sheet</code></li>
+    </ol>
+
+    <hr class="divider">
+
+    <!-- STEP 3 -->
+    <h2><span class="step-num">03</span> Import the CSV</h2>
+    <ol>
+      <li>Click <strong>File → Import</strong></li>
+      <li>Click <strong>Upload</strong> → select the <code>stocks_optionable.csv</code> you downloaded</li>
+      <li>Import location: <strong>Replace current sheet</strong></li>
+      <li>Separator type: <strong>Comma</strong></li>
+      <li>Click <strong>Import data</strong></li>
+    </ol>
+    <p>You should now see columns:</p>
+    <pre>A: Symbol  |  B: Name  |  C: Sector  |  D: options_available</pre>
+
+    <div class="img-placeholder">
+      <span>🖼</span>
+      Screenshot: import dialog settings<br>
+      <small>Replace with: &lt;img src="../assets/img/sheets-step3-import.png"&gt;</small>
+    </div>
+
+    <hr class="divider">
+
+    <!-- STEP 4 -->
+    <h2><span class="step-num">04</span> Add Live Price Columns</h2>
+    <p>Click on cell <code>E1</code> and add these headers:</p>
+    <table>
+      <thead><tr><th>Cell</th><th>Header</th></tr></thead>
+      <tbody>
+        <tr><td>E1</td><td>Price</td></tr>
+        <tr><td>F1</td><td>Change $</td></tr>
+        <tr><td>G1</td><td>Change %</td></tr>
+        <tr><td>H1</td><td>Volume</td></tr>
+        <tr><td>I1</td><td>52W High</td></tr>
+      </tbody>
+    </table>
+    <p>Now enter these formulas starting in row 2:</p>
+    <pre>=IFERROR(GOOGLEFINANCE(A2,"price"),"—")         ← E2: current price
+=IFERROR(GOOGLEFINANCE(A2,"change"),"—")         ← F2: dollar change
+=IFERROR(GOOGLEFINANCE(A2,"changepct")/100,"—")  ← G2: percent change
+=IFERROR(GOOGLEFINANCE(A2,"volume"),"—")         ← H2: today's volume
+=IFERROR(GOOGLEFINANCE(A2,"high52"),"—")         ← I2: 52-week high</pre>
+
+    <div class="callout">
+      <strong>Why IFERROR()?</strong> Some tickers return errors when data isn't available.
+      IFERROR() catches those and shows a dash instead of breaking your sheet.
+    </div>
+
+    <div class="img-placeholder">
+      <span>🖼</span>
+      Screenshot: formulas entered in row 2<br>
+      <small>Replace with: &lt;img src="../assets/img/sheets-step4-formulas.png"&gt;</small>
+    </div>
+
+    <hr class="divider">
+
+    <!-- STEP 5 -->
+    <h2><span class="step-num">05</span> Apply Formulas to All Rows</h2>
+    <ol>
+      <li>Select cells <code>E2:I2</code></li>
+      <li>Copy them (<code>Ctrl+C</code>)</li>
+      <li>Select from <code>E3</code> all the way down to the last row of your data</li>
+      <li>Paste (<code>Ctrl+V</code>)</li>
+    </ol>
+    <p>All rows will now pull live data automatically.</p>
+
+    <div class="callout warn">
+      <strong>⚠ 1000 call limit:</strong> Google Sheets has a limit of 1000 GOOGLEFINANCE()
+      calls per sheet. The full optionable list has 2863 stocks — split into multiple sheets
+      or filter down to your personal watchlist first.
+    </div>
+
+    <hr class="divider">
+
+    <!-- STEP 6 -->
+    <h2><span class="step-num">06</span> Format the Sheet</h2>
+    <p><strong>Format Change % as percentage:</strong></p>
+    <ol>
+      <li>Select column G</li>
+      <li>Click <strong>Format → Number → Percent</strong></li>
+    </ol>
+    <p><strong>Format Price and Change $ as currency:</strong></p>
+    <ol>
+      <li>Select columns E and F</li>
+      <li>Click <strong>Format → Number → Currency</strong></li>
+    </ol>
+    <p><strong>Freeze the header row:</strong></p>
+    <ol>
+      <li>Click <strong>View → Freeze → 1 row</strong></li>
+    </ol>
+
+    <div class="img-placeholder">
+      <span>🖼</span>
+      Screenshot: formatted sheet with currency and percent columns<br>
+      <small>Replace with: &lt;img src="../assets/img/sheets-step6-format.png"&gt;</small>
+    </div>
+
+    <hr class="divider">
+
+    <!-- STEP 7 -->
+    <h2><span class="step-num">07</span> Add Color</h2>
+    <p>Make gainers green and losers red automatically:</p>
+    <ol>
+      <li>Select column G (Change %)</li>
+      <li>Click <strong>Format → Conditional formatting</strong></li>
+      <li>Add rule: <strong>Greater than</strong> <code>0</code> → fill color green</li>
+      <li>Add rule: <strong>Less than</strong> <code>0</code> → fill color red</li>
+    </ol>
+    <p>Repeat for column F (Change $) if you want both colored.</p>
+
+    <div class="img-placeholder">
+      <span>🖼</span>
+      Screenshot: conditional formatting rules panel<br>
+      <small>Replace with: &lt;img src="../assets/img/sheets-step7-color.png"&gt;</small>
+    </div>
+
+    <hr class="divider">
+
+    <!-- STEP 8 -->
+    <h2><span class="step-num">08</span> Filter to Your Watchlist (Optional)</h2>
+    <p>To track only specific stocks:</p>
+    <ol>
+      <li>Click <strong>Data → Create a filter</strong></li>
+      <li>Click the filter arrow on column A (Symbol)</li>
+      <li>Search for and select only the tickers you want to watch</li>
+    </ol>
+    <p>Or create a second sheet tab called <code>Watchlist</code>, manually enter your tickers in column A, and use the same GOOGLEFINANCE formulas in columns B onward.</p>
+
+    <hr class="divider">
+
+    <!-- FORMULA REFERENCE -->
+    <h2><span class="step-num">REF</span> GOOGLEFINANCE Formula Reference</h2>
+    <table>
+      <thead><tr><th>Formula</th><th>Returns</th></tr></thead>
+      <tbody>
+        <tr><td>=GOOGLEFINANCE(A2,"price")</td><td>Current price</td></tr>
+        <tr><td>=GOOGLEFINANCE(A2,"change")</td><td>Dollar change today</td></tr>
+        <tr><td>=GOOGLEFINANCE(A2,"changepct")</td><td>Percent change today</td></tr>
+        <tr><td>=GOOGLEFINANCE(A2,"volume")</td><td>Today's volume</td></tr>
+        <tr><td>=GOOGLEFINANCE(A2,"high52")</td><td>52-week high</td></tr>
+        <tr><td>=GOOGLEFINANCE(A2,"low52")</td><td>52-week low</td></tr>
+        <tr><td>=GOOGLEFINANCE(A2,"pe")</td><td>Price to earnings ratio</td></tr>
+        <tr><td>=GOOGLEFINANCE(A2,"marketcap")</td><td>Market cap</td></tr>
+        <tr><td>=GOOGLEFINANCE(A2,"shares")</td><td>Shares outstanding</td></tr>
+      </tbody>
+    </table>
+
+    <hr class="divider">
+
+    <!-- PRO TIPS -->
+    <h2><span class="step-num">PRO</span> Pro Tips</h2>
+
+    <p><strong>Check if a stock is near its 52-week high:</strong></p>
+    <pre>=IFERROR(E2/GOOGLEFINANCE(A2,"high52"),"—")</pre>
+    <p>A value close to <code>1.0</code> = near 52-week high. Close to <code>0.5</code> = middle of its range.</p>
+
+    <p><strong>Pull 30 days of price history:</strong></p>
+    <pre>=GOOGLEFINANCE(A2,"close",TODAY()-30,TODAY())</pre>
+    <p>Paste into a separate area and chart it. Poor man's TOS.</p>
+
+    <p><strong>Sort by biggest movers:</strong></p>
+    <ol>
+      <li>Click <strong>Data → Sort range</strong></li>
+      <li>Sort by column G (Change %) descending</li>
+      <li>Biggest gainers float to the top</li>
+    </ol>
+
+    <div class="callout">
+      <strong>Keep your data fresh:</strong> The <code>stocks_optionable.csv</code> on GitHub
+      refreshes on the 1st of every month automatically. Re-download it monthly if you want
+      the most current list. GOOGLEFINANCE prices update on their own — no action needed.
+    </div>
+
+    <hr class="divider">
+
+    <p style="color:var(--muted);font-size:0.75rem;text-align:center">
+      Not a financial advisor. Built this to earn beer money.<br>
+      <a href="https://buymeacoffee.com/goddardshannon9" target="_blank" rel="noopener">🍺 Buy the dev a beer</a>
+      &nbsp;·&nbsp;
+      <a href="legal.html">Legal</a>
+    </p>
+
+  </div>
+
+  <footer>
+    Data via Yahoo Finance · Updates monthly · Not financial advice
+  </footer>
+
+</body>
+</html>

@@ -286,6 +286,8 @@ pages/ledger.html           → full trade history, checkbook style, all-time P&
 pages/stats.html            → analytics dashboard, all derived metrics
 pages/blog.html             → auto-generated articles, YouTube embeds
 pages/methodology.html      → rendered methodology content
+pages/sheets-guide.html     → Google Sheets how-to, image + YouTube placeholders
+pages/data.html             → download all data files, accordion previews, header defs, dev API
 pages/legal.html            → full disclaimer, not-a-financial-advisor, LLC notice
 ```
 
@@ -459,5 +461,5 @@ published: true by default — article live immediately, enrich later
 
 ---
 
-*Last updated: All phases complete through Phase 4 — README.md next*
+*Last updated: All phases complete — sheets-guide.html + data.html added, nav updated*
 *Next step: Phase 5 — README.md*

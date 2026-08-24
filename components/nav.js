@@ -4,15 +4,17 @@
   const base = path.includes('/pages/') ? '../' : '';
 
   const links = [
-    { label: 'Home',        href: `${base}index.html` },
-    { label: 'Paper Trade', href: `${base}pages/paper-trade.html` },
-    { label: 'Ledger',      href: `${base}pages/ledger.html` },
-    { label: 'Stats',       href: `${base}pages/stats.html` },
-    { label: 'Blog',        href: `${base}pages/blog.html` },
-    { label: 'Methodology', href: `${base}pages/methodology.html` },
+    { label: 'Home',          href: `${base}index.html` },
+    { label: 'Paper Trade',   href: `${base}pages/paper-trade.html` },
+    { label: 'Ledger',        href: `${base}pages/ledger.html` },
+    { label: 'Stats',         href: `${base}pages/stats.html` },
+    { label: 'Blog',          href: `${base}pages/blog.html` },
+    { label: 'Methodology',   href: `${base}pages/methodology.html` },
+    { label: 'Sheets Guide',  href: `${base}pages/sheets-guide.html` },
     null, // divider
-    { label: '⌥ GitHub',   href: 'https://github.com/Shannon-Goddard/stock-porn', external: true },
-    { label: '⌥ Legal',    href: `${base}pages/legal.html` },
+    { label: 'Get the Data',  href: `${base}pages/data.html` },
+    { label: '⌥ GitHub',     href: 'https://github.com/Shannon-Goddard/stock-porn', external: true },
+    { label: '⌥ Legal',      href: `${base}pages/legal.html` },
     { label: '🍺 Buy Dev a Beer', href: 'https://buymeacoffee.com/goddardshannon9', external: true },
   ];
 
