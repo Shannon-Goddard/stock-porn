@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Paper Trade — stock-porn</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    :root {
+      --bg: #0d0d0d; --surface: #141414; --surface2: #1a1a1a;
+      --border: #2a2a2a; --text: #e8e8e8; --muted: #666;
+      --green: #00c853; --red: #ff1744;
+      --green-dim: #00c85322; --red-dim: #ff174422;
+    }
+    body { background: var(--bg); color: var(--text); font-family: 'Courier New', Courier, monospace; font-size: 14px; line-height: 1.6; }
+
+    .page { max-width: 960px; margin: 0 auto; padding: 1.5rem 1rem; }
+
+    /* BALANCE HEADER */
+    .balance-bar {
+      display: flex; flex-wrap: wrap; gap: 1rem;
+      align-items: center; justify-content: space-between;
+      background: var(--surface); border: 1px solid var(--border);
+      border-left: 3px solid var(--green);
+      padding: 1rem 1.25rem; border-radius: 4px; margin-bottom: 1.5rem;
+    }
+    .balance-main { display: flex; flex-direction: column; gap: 0.2rem; }
+    .balance-label { font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); }
+    .balance-amount { font-size: 1.6rem; font-weight: bold; letter-spacing: 0.02em; }
+    .balance-amount.pos { color: var(--green); }
+    .balance-amount.neg { color: var(--red); }
+    .balance-amount.zero { color: var(--muted); }
+    .balance-meta { font-size: 0.72rem; color: var(--muted); text-align: right; }
+    .balance-meta span { display: block; }
+
+    /* SECTION LABELS */
+    .section-label {
+      font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.1em;
+      color: var(--muted); margin-bottom: 0.6rem; margin-top: 1.5rem;
+      border-bottom: 1px solid var(--border); padding-bottom: 0.4rem;
+    }
+
+    /* TRADE CARD */
+    .trade-card {
+      background: var(--surface); border: 1px solid var(--border);
+      border-radius: 4px; margin-bottom: 1rem; overflow: hidden;
+    }
+    .trade-card.win  { border-left: 3px solid var(--green); }
+    .trade-card.loss { border-left: 3px solid var(--red); }
+    .trade-card.open { border-left: 3px solid #888; }
+
+    .card-header {
+      display: flex; flex-wrap: wrap; gap: 0.5rem;
+      align-items: center; justify-content: space-between;
+      padding: 0.75rem 1rem; border-bottom: 1px solid var(--border);
+    }
+    .card-ticker { font-size: 1.1rem; font-weight: bold; color: var(--green); }
+    .card-type {
+      font-size: 0.7rem; padding: 0.15rem 0.5rem; border-radius: 2px;
+      font-weight: bold; letter-spacing: 0.06em;
+    }
+    .card-type.call { background: var(--green-dim); color: var(--green); border: 1px solid var(--green); }
+    .card-type.put  { background: var(--red-dim);   color: var(--red);   border: 1px solid var(--red); }
+    .card-pnl { font-size: 1rem; font-weight: bold; }
+    .card-pnl.pos { color: var(--green); }
+    .card-pnl.neg { color: var(--red); }
+    .card-status { font-size: 0.7rem; color: var(--muted); text-transform: uppercase; letter-spacing: 0.06em; }
+
+    .card-body { padding: 0.75rem 1rem; }
+
+    /* GRID INSIDE CARD */
+    .card-grid {
+      display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+      gap: 0.75rem; margin-bottom: 0.75rem;
+    }
+    .card-field { display: flex; flex-direction: column; gap: 0.1rem; }
+    .field-label { font-size: 0.65rem; text-transform: uppercase; letter-spacing: 0.07em; color: var(--muted); }
+    .field-value { font-size: 0.82rem; color: var(--text); }
+    .field-value.green { color: var(--green); }
+    .field-value.red   { color: var(--red); }
+    .field-value.muted { color: var(--muted); }
+
+    /* NOTE */
+    .card-note {
+      font-size: 0.72rem; color: var(--muted);
+      background: var(--surface2); border: 1px solid var(--border);
+      padding: 0.5rem 0.75rem; border-radius: 3px; margin-top: 0.5rem;
+      line-height: 1.5;
+    }
+
+    /* FOMO SECTION */
+    .fomo-bar {
+      display: grid; grid-template-columns: 1fr 1fr 1fr;
+      gap: 0.5rem; margin-top: 0.75rem;
+    }
+    .fomo-cell {
+      background: var(--surface2); border: 1px solid var(--border);
+      padding: 0.6rem 0.75rem; border-radius: 3px; text-align: center;
+    }
+    .fomo-cell .field-label { margin-bottom: 0.25rem; }
+    .fomo-cell .field-value { font-size: 0.9rem; font-weight: bold; }
+    .fomo-theta {
+      font-size: 0.7rem; color: var(--muted); margin-top: 0.5rem;
+      font-style: italic;
+    }
+
+    /* MINI LEDGER TABLE */
+    .ledger-table { width: 100%; border-collapse: collapse; font-size: 0.8rem; }
+    .ledger-table th {
+      text-align: left; padding: 0.35rem 0.6rem;
+      font-size: 0.65rem; text-transform: uppercase; letter-spacing: 0.07em;
+      color: var(--muted); font-weight: normal; border-bottom: 1px solid var(--border);
+    }
+    .ledger-table th.right, .ledger-table td.right { text-align: right; }
+    .ledger-table tbody tr { border-bottom: 1px solid var(--border); transition: background 0.15s; }
+    .ledger-table tbody tr:last-child { border-bottom: none; }
+    .ledger-table tbody tr:hover { background: var(--surface2); }
+    .ledger-table td { padding: 0.5rem 0.6rem; }
+    .ledger-table .ticker { color: var(--green); font-weight: bold; }
+    .ledger-table .pos { color: var(--green); }
+    .ledger-table .neg { color: var(--red); }
+    .ledger-table .muted { color: var(--muted); }
+
+    .view-all {
+      display: block; text-align: center; margin-top: 0.75rem;
+      padding: 0.5rem; border: 1px solid var(--border); border-radius: 3px;
+      color: var(--muted); font-size: 0.75rem; text-decoration: none;
+      transition: border-color 0.15s, color 0.15s;
+    }
+    .view-all:hover { border-color: var(--green); color: var(--green); }
+
+    .empty { color: var(--muted); font-size: 0.8rem; padding: 1rem 0; text-align: center; }
+
+    footer { margin-top: 2rem; padding-top: 1rem; border-top: 1px solid var(--border); font-size: 0.72rem; color: var(--muted); text-align: center; }
+    footer a { color: var(--green); text-decoration: none; }
+    footer a:hover { text-decoration: underline; }
+
+    @media (max-width: 600px) {
+      .fomo-bar { grid-template-columns: 1fr 1fr; }
+      .balance-meta { text-align: left; }
+    }
+  </style>
+</head>
+<body>
+
+  <div id="nav-root"></div>
+  <script src="../components/nav.js"></script>
+
+  <div class="page">
+
+    <!-- BALANCE HEADER -->
+    <div class="balance-bar" id="balanceBar">
+      <div class="balance-main">
+        <span class="balance-label">Running P&amp;L</span>
+        <span class="balance-amount zero" id="balanceAmount">loading...</span>
+      </div>
+      <div class="balance-meta">
+        <span id="balanceWinRate"></span>
+        <span id="balanceTrades"></span>
+        <span id="balanceSince"></span>
+      </div>
+    </div>
+
+    <!-- CURRENT HOLD -->
+    <div class="section-label">Current Hold</div>
+    <div id="currentHold"><p class="empty">No open positions</p></div>
+
+    <!-- YESTERDAY'S RESULT -->
+    <div class="section-label">Yesterday's Result</div>
+    <div id="yesterdayResult"><p class="empty">No recent closed trades</p></div>
+
+    <!-- RECENT LEDGER -->
+    <div class="section-label">Recent Trades</div>
+    <div id="recentLedger">
+      <table class="ledger-table">
+        <thead><tr>
+          <th>Date</th>
+          <th>Ticker</th>
+          <th>Type</th>
+          <th>Strike</th>
+          <th>DTE</th>
+          <th>Cost</th>
+          <th>Trigger</th>
+          <th class="right">P&amp;L</th>
+        </tr></thead>
+        <tbody id="recentRows"><tr><td colspan="8" class="empty">loading...</td></tr></tbody>
+      </table>
+      <a class="view-all" href="ledger.html">View full ledger →</a>
+    </div>
+
+  </div>
+
+  <footer>
+    All trades are automated paper trades · Black-Scholes pricing · Not financial advice
+    <br><a href="legal.html">Legal</a> &nbsp;·&nbsp;
+    <a href="https://buymeacoffee.com/goddardshannon9" target="_blank" rel="noopener">🍺 Buy the dev a beer</a>
+  </footer>
+
+  <script>
+    function fmt(val, prefix='$') {
+      if (val === null || val === undefined) return '—';
+      const abs = Math.abs(val).toFixed(2);
+      return val >= 0 ? `+${prefix}${abs}` : `-${prefix}${abs}`;
+    }
+
+    function fmtDate(str) {
+      if (!str) return '—';
+      return str.split('T')[0].split(' ')[0];
+    }
+
+    function fmtTime(str) {
+      if (!str) return '—';
+      // "2026-08-24 09:30:00-04:00" → "09:30 ET"
+      const match = str.match(/(\d{2}:\d{2}):\d{2}/);
+      return match ? match[1] + ' ET' : str;
+    }
+
+    function pnlClass(pnl) {
+      return pnl > 0 ? 'pos' : pnl < 0 ? 'neg' : 'muted';
+    }
+
+    function field(label, value, cls='') {
+      return `<div class="card-field">
+        <span class="field-label">${label}</span>
+        <span class="field-value ${cls}">${value}</span>
+      </div>`;
+    }
+
+    function fomoSection(fomo, cost, exitPnl) {
+      if (!fomo || !fomo.best_case) return '';
+      const best  = fomo.best_case.pnl;
+      const worst = fomo.worst_case.pnl;
+      const theta = fomo.theta_note || '';
+
+      return `
+        <div class="fomo-bar">
+          <div class="fomo-cell">
+            <div class="field-label">You Got</div>
+            <div class="field-value ${pnlClass(exitPnl)}">${fmt(exitPnl)}</div>
+          </div>
+          <div class="fomo-cell">
+            <div class="field-label">Best Case</div>
+            <div class="field-value ${pnlClass(best)}">${fmt(best)}</div>
+            <div class="field-label" style="margin-top:0.2rem">${fmtTime(fomo.best_case.time)}</div>
+          </div>
+          <div class="fomo-cell">
+            <div class="field-label">Worst Case</div>
+            <div class="field-value ${pnlClass(worst)}">${fmt(worst)}</div>
+            <div class="field-label" style="margin-top:0.2rem">${fmtTime(fomo.worst_case.time)}</div>
+          </div>
+        </div>
+        ${theta ? `<div class="fomo-theta">⊘ ${theta}</div>` : ''}
+      `;
+    }
+
+    function newsSection(news) {
+      if (!news) return '';
+      const kw = (news.keywords_found || []).join(', ') || 'none';
+      return `
+        <div class="card-grid" style="margin-top:0.75rem">
+          ${field('News Sentiment', news.ticker_sentiment || '—')}
+          ${field('SPY Sentiment', news.spy_sentiment || '—')}
+          ${field('Decision', (news.decision || '—').toUpperCase(), news.decision === 'hold' ? 'green' : 'red')}
+          ${field('Keywords', kw)}
+        </div>
+      `;
+    }
+
+    function renderTradeCard(trade, showFomo=false) {
+      const e    = trade.entry;
+      const ex   = trade.exit;
+      const fomo = trade.fomo;
+      const news = trade.news_scan;
+      const isOpen = trade.status === 'open';
+      const pnl  = ex ? ex.pnl : null;
+      const cardClass = isOpen ? 'open' : (pnl >= 0 ? 'win' : 'loss');
+
+      const headerRight = isOpen
+        ? `<span class="card-status">● Open</span>`
+        : `<span class="card-pnl ${pnlClass(pnl)}">${fmt(pnl)}</span>`;
+
+      return `
+        <div class="trade-card ${cardClass}">
+          <div class="card-header">
+            <div style="display:flex;align-items:center;gap:0.6rem">
+              <span class="card-ticker">${e.ticker}</span>
+              <span class="card-type ${e.type.toLowerCase()}">${e.type}</span>
+              <span class="card-status">${e.signal_rank}</span>
+            </div>
+            ${headerRight}
+          </div>
+          <div class="card-body">
+            <div class="card-grid">
+              ${field('Entry Date', e.date)}
+              ${field('Strike', `$${e.strike}`)}
+              ${field('Expiration', `${e.expiration} (${e.dte_at_entry}DTE)`)}
+              ${field('Stock @ Entry', `$${e.stock_price_at_entry}`)}
+              ${field('Premium', `$${e.premium} / $${e.cost} contract`)}
+              ${field('IV at Entry', `${(e.iv_at_entry * 100).toFixed(1)}%`)}
+              ${field('OTM', `${e.otm_pct}%`, e.otm_pct > 10 ? 'red' : '')}
+              ${field('SPY Day', `${e.spy_change > 0 ? '+' : ''}${e.spy_change}%`, e.spy_change >= 0 ? 'green' : 'red')}
+              ${e.macro_active ? field('Macro', e.macro_keywords.join(', '), 'red') : field('Macro', 'None', 'muted')}
+              ${!isOpen && ex ? field('Stock Open', `$${ex.stock_open_price}`) : ''}
+              ${!isOpen && ex ? field('Option Sold', `$${ex.sell_option_price} / $${ex.sell_contract_value}`) : ''}
+              ${!isOpen && ex ? field('Trigger', ex.sell_trigger === 'hold_2min' ? 'Hold 2min' : 'Sell at Open') : ''}
+            </div>
+            ${newsSection(news)}
+            ${showFomo && !isOpen ? fomoSection(fomo, e.cost, pnl) : ''}
+            <div class="card-note">${e.auto_note}</div>
+          </div>
+        </div>
+      `;
+    }
+
+    async function loadData() {
+      try {
+        const [tRes, sRes] = await Promise.all([
+          fetch('../data/trades.json?t=' + Date.now()),
+          fetch('../data/stats.json?t='  + Date.now())
+        ]);
+        const trades = await tRes.json();
+        const stats  = await sRes.json();
+
+        // Balance bar
+        const bal = trades.balance;
+        const el  = document.getElementById('balanceAmount');
+        el.textContent = (bal >= 0 ? '+' : '') + '$' + Math.abs(bal).toFixed(2);
+        el.className = 'balance-amount ' + (bal > 0 ? 'pos' : bal < 0 ? 'neg' : 'zero');
+
+        const o = stats.overall;
+        document.getElementById('balanceWinRate').textContent =
+          `Win rate: ${o.win_rate}% (${o.wins}W / ${o.losses}L)`;
+        document.getElementById('balanceTrades').textContent =
+          `${o.total_trades} total trade${o.total_trades !== 1 ? 's' : ''}`;
+        document.getElementById('balanceSince').textContent =
+          trades.first_trade_date ? `Since ${trades.first_trade_date}` : '';
+
+        const allTrades = trades.trades || [];
+
+        // Current hold — open trades
+        const open = allTrades.filter(t => t.status === 'open');
+        const holdEl = document.getElementById('currentHold');
+        if (open.length) {
+          holdEl.innerHTML = open.map(t => renderTradeCard(t, false)).join('');
+        } else {
+          holdEl.innerHTML = '<p class="empty">No open positions — next entry at 3:55 PM PST</p>';
+        }
+
+        // Yesterday's result — most recent closed trades (same exit date)
+        const closed = allTrades.filter(t => t.status === 'closed' && t.exit);
+        const yestEl = document.getElementById('yesterdayResult');
+        if (closed.length) {
+          const lastDate = closed[closed.length - 1].exit.date;
+          const lastBatch = closed.filter(t => t.exit.date === lastDate);
+          yestEl.innerHTML = lastBatch.map(t => renderTradeCard(t, true)).join('');
+        } else {
+          yestEl.innerHTML = '<p class="empty">No closed trades yet</p>';
+        }
+
+        // Recent ledger — last 5 closed
+        const recent = closed.slice(-5).reverse();
+        const tbody  = document.getElementById('recentRows');
+        if (recent.length) {
+          tbody.innerHTML = recent.map(t => {
+            const e  = t.entry;
+            const ex = t.exit;
+            const p  = ex.pnl;
+            return `<tr>
+              <td class="muted">${e.date}</td>
+              <td class="ticker">${e.ticker}</td>
+              <td>${e.type}</td>
+              <td>$${e.strike}</td>
+              <td class="muted">${e.dte_at_entry}DTE</td>
+              <td class="muted">$${e.cost}</td>
+              <td class="muted">${ex.sell_trigger === 'hold_2min' ? 'Hold' : 'Open'}</td>
+              <td class="right ${pnlClass(p)}">${fmt(p)}</td>
+            </tr>`;
+          }).join('');
+        } else {
+          tbody.innerHTML = '<tr><td colspan="8" class="empty">No trades yet</td></tr>';
+        }
+
+      } catch(e) {
+        console.error(e);
+        document.getElementById('currentHold').innerHTML =
+          '<p class="empty">Error loading trade data</p>';
+      }
+    }
+
+    loadData();
+  </script>
+
+</body>
+</html>

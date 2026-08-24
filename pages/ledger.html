@@ -1,0 +1,453 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Ledger — stock-porn</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    :root {
+      --bg: #0d0d0d; --surface: #141414; --surface2: #1a1a1a;
+      --border: #2a2a2a; --text: #e8e8e8; --muted: #666;
+      --green: #00c853; --red: #ff1744;
+      --green-dim: #00c85322; --red-dim: #ff174422;
+    }
+    body { background: var(--bg); color: var(--text); font-family: 'Courier New', Courier, monospace; font-size: 14px; line-height: 1.6; }
+
+    .page { max-width: 1100px; margin: 0 auto; padding: 1.5rem 1rem; }
+
+    /* SUMMARY BAR */
+    .summary-bar {
+      display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+      gap: 0.75rem; margin-bottom: 1.5rem;
+    }
+    .summary-cell {
+      background: var(--surface); border: 1px solid var(--border);
+      padding: 0.75rem 1rem; border-radius: 4px;
+    }
+    .summary-cell.highlight { border-left: 3px solid var(--green); }
+    .summary-cell.highlight.neg { border-left-color: var(--red); }
+    .s-label { font-size: 0.65rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); margin-bottom: 0.2rem; }
+    .s-value { font-size: 1.1rem; font-weight: bold; }
+    .s-value.pos { color: var(--green); }
+    .s-value.neg { color: var(--red); }
+    .s-value.muted { color: var(--muted); }
+
+    /* FILTERS */
+    .filters {
+      display: flex; flex-wrap: wrap; gap: 0.5rem;
+      margin-bottom: 1rem; align-items: center;
+    }
+    .filter-btn {
+      background: none; border: 1px solid var(--border);
+      color: var(--muted); font-family: 'Courier New', monospace;
+      font-size: 0.72rem; padding: 0.3rem 0.75rem; border-radius: 3px;
+      cursor: pointer; text-transform: uppercase; letter-spacing: 0.05em;
+      transition: all 0.15s;
+    }
+    .filter-btn:hover, .filter-btn.active { border-color: var(--green); color: var(--green); }
+    .filter-btn.active-red { border-color: var(--red); color: var(--red); }
+    .filter-label { font-size: 0.7rem; color: var(--muted); text-transform: uppercase; letter-spacing: 0.07em; }
+
+    /* LEDGER TABLE */
+    .ledger-wrap { overflow-x: auto; }
+    table { width: 100%; border-collapse: collapse; font-size: 0.8rem; }
+    th {
+      text-align: left; padding: 0.4rem 0.6rem;
+      font-size: 0.65rem; text-transform: uppercase; letter-spacing: 0.07em;
+      color: var(--muted); font-weight: normal;
+      border-bottom: 1px solid var(--border);
+      cursor: pointer; user-select: none; white-space: nowrap;
+    }
+    th:hover { color: var(--green); }
+    th.right, td.right { text-align: right; }
+    th.sort-asc::after  { content: ' ▲'; color: var(--green); }
+    th.sort-desc::after { content: ' ▼'; color: var(--green); }
+
+    tbody tr { border-bottom: 1px solid var(--border); cursor: pointer; transition: background 0.1s; }
+    tbody tr:last-child { border-bottom: none; }
+    tbody tr:hover { background: var(--surface2); }
+    tbody tr.win-row  { border-left: 2px solid var(--green); }
+    tbody tr.loss-row { border-left: 2px solid var(--red); }
+    tbody tr.open-row { border-left: 2px solid #555; }
+
+    td { padding: 0.5rem 0.6rem; vertical-align: middle; }
+    .ticker  { color: var(--green); font-weight: bold; }
+    .pos     { color: var(--green); }
+    .neg     { color: var(--red); }
+    .muted   { color: var(--muted); }
+    .tag {
+      font-size: 0.65rem; padding: 0.1rem 0.35rem; border-radius: 2px;
+      font-weight: bold;
+    }
+    .tag.call { background: var(--green-dim); color: var(--green); border: 1px solid var(--green); }
+    .tag.put  { background: var(--red-dim);   color: var(--red);   border: 1px solid var(--red); }
+
+    /* EXPAND ROW */
+    tbody tr.detail-row { cursor: default; background: var(--surface2); }
+    tbody tr.detail-row:hover { background: var(--surface2); }
+    .detail-row td { padding: 0; border-bottom: 1px solid var(--border); }
+    .detail-inner { padding: 0.75rem 1rem; }
+
+    .detail-grid {
+      display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+      gap: 0.6rem; margin-bottom: 0.75rem;
+    }
+    .d-field { display: flex; flex-direction: column; gap: 0.1rem; }
+    .d-label { font-size: 0.62rem; text-transform: uppercase; letter-spacing: 0.07em; color: var(--muted); }
+    .d-value { font-size: 0.8rem; }
+
+    .fomo-row {
+      display: grid; grid-template-columns: 1fr 1fr 1fr;
+      gap: 0.5rem; margin-top: 0.5rem;
+    }
+    .fomo-cell {
+      background: var(--bg); border: 1px solid var(--border);
+      padding: 0.5rem 0.75rem; border-radius: 3px; text-align: center;
+    }
+    .fomo-cell .d-label { margin-bottom: 0.2rem; }
+    .fomo-cell .d-value { font-size: 0.9rem; font-weight: bold; }
+
+    .note-box {
+      font-size: 0.7rem; color: var(--muted); background: var(--bg);
+      border: 1px solid var(--border); padding: 0.4rem 0.6rem;
+      border-radius: 3px; margin-top: 0.5rem; line-height: 1.5;
+    }
+    .theta-note { font-size: 0.7rem; color: var(--muted); font-style: italic; margin-top: 0.4rem; }
+
+    .empty { color: var(--muted); font-size: 0.8rem; padding: 2rem; text-align: center; }
+
+    /* RUNNING BALANCE COLUMN */
+    .running { font-size: 0.75rem; }
+
+    footer { margin-top: 2rem; padding-top: 1rem; border-top: 1px solid var(--border); font-size: 0.72rem; color: var(--muted); text-align: center; }
+    footer a { color: var(--green); text-decoration: none; }
+
+    @media (max-width: 700px) {
+      .col-hide { display: none; }
+      .fomo-row { grid-template-columns: 1fr 1fr; }
+    }
+  </style>
+</head>
+<body>
+
+  <div id="nav-root"></div>
+  <script src="../components/nav.js"></script>
+
+  <div class="page">
+
+    <!-- SUMMARY -->
+    <div class="summary-bar" id="summaryBar">
+      <div class="summary-cell highlight" id="sumBalance">
+        <div class="s-label">Total P&amp;L</div>
+        <div class="s-value muted" id="sumBalVal">—</div>
+      </div>
+      <div class="summary-cell">
+        <div class="s-label">Win Rate</div>
+        <div class="s-value muted" id="sumWinRate">—</div>
+      </div>
+      <div class="summary-cell">
+        <div class="s-label">Trades</div>
+        <div class="s-value muted" id="sumTrades">—</div>
+      </div>
+      <div class="summary-cell">
+        <div class="s-label">Avg P&amp;L</div>
+        <div class="s-value muted" id="sumAvg">—</div>
+      </div>
+      <div class="summary-cell">
+        <div class="s-label">Avg Left on Table</div>
+        <div class="s-value muted" id="sumLeft">—</div>
+      </div>
+      <div class="summary-cell">
+        <div class="s-label">Since</div>
+        <div class="s-value muted" id="sumSince">—</div>
+      </div>
+    </div>
+
+    <!-- FILTERS -->
+    <div class="filters">
+      <span class="filter-label">Filter:</span>
+      <button class="filter-btn active" onclick="setFilter('all', this)">All</button>
+      <button class="filter-btn" onclick="setFilter('win', this)">Wins</button>
+      <button class="filter-btn active-red" onclick="setFilter('loss', this)" style="border-color:var(--border);color:var(--muted)">Losses</button>
+      <button class="filter-btn" onclick="setFilter('call', this)">Calls</button>
+      <button class="filter-btn" onclick="setFilter('put', this)">Puts</button>
+      <button class="filter-btn" onclick="setFilter('open', this)">Open</button>
+    </div>
+
+    <!-- TABLE -->
+    <div class="ledger-wrap">
+      <table id="ledgerTable">
+        <thead>
+          <tr>
+            <th onclick="sortBy('id')">#</th>
+            <th onclick="sortBy('date')">Date</th>
+            <th onclick="sortBy('ticker')">Ticker</th>
+            <th>Type</th>
+            <th onclick="sortBy('strike')" class="right">Strike</th>
+            <th onclick="sortBy('dte')" class="right col-hide">DTE</th>
+            <th onclick="sortBy('cost')" class="right col-hide">Cost</th>
+            <th onclick="sortBy('iv')" class="right col-hide">IV</th>
+            <th onclick="sortBy('otm')" class="right col-hide">OTM%</th>
+            <th class="col-hide">Trigger</th>
+            <th onclick="sortBy('pnl')" class="right">P&amp;L</th>
+            <th onclick="sortBy('running')" class="right col-hide">Running</th>
+          </tr>
+        </thead>
+        <tbody id="ledgerBody">
+          <tr><td colspan="12" class="empty">loading...</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+  </div>
+
+  <footer>
+    All trades are automated paper trades · Black-Scholes pricing · Not financial advice<br>
+    <a href="legal.html">Legal</a> &nbsp;·&nbsp;
+    <a href="https://buymeacoffee.com/goddardshannon9" target="_blank" rel="noopener">🍺 Buy the dev a beer</a>
+  </footer>
+
+  <script>
+    let allTrades = [];
+    let currentFilter = 'all';
+    let sortKey = 'id';
+    let sortDir = -1; // -1 = desc, 1 = asc
+    let expandedId = null;
+
+    function fmt(val) {
+      if (val === null || val === undefined) return '—';
+      const abs = Math.abs(val).toFixed(2);
+      return (val >= 0 ? '+$' : '-$') + abs;
+    }
+
+    function fmtTime(str) {
+      if (!str) return '—';
+      const match = str.match(/(\d{2}:\d{2}):\d{2}/);
+      return match ? match[1] + ' ET' : str.split('T')[0];
+    }
+
+    function pnlClass(v) { return v > 0 ? 'pos' : v < 0 ? 'neg' : 'muted'; }
+
+    function dfield(label, value, cls='') {
+      return `<div class="d-field"><span class="d-label">${label}</span><span class="d-value ${cls}">${value}</span></div>`;
+    }
+
+    function detailRow(trade) {
+      const e  = trade.entry;
+      const ex = trade.exit;
+      const f  = trade.fomo;
+      const n  = trade.news_scan;
+
+      let fomoHtml = '';
+      if (f && f.best_case && ex) {
+        const pnl = ex.pnl;
+        fomoHtml = `
+          <div class="fomo-row">
+            <div class="fomo-cell">
+              <div class="d-label">You Got</div>
+              <div class="d-value ${pnlClass(pnl)}">${fmt(pnl)}</div>
+            </div>
+            <div class="fomo-cell">
+              <div class="d-label">Best Case</div>
+              <div class="d-value ${pnlClass(f.best_case.pnl)}">${fmt(f.best_case.pnl)}</div>
+              <div class="d-label" style="margin-top:0.2rem">${fmtTime(f.best_case.time)}</div>
+            </div>
+            <div class="fomo-cell">
+              <div class="d-label">Worst Case</div>
+              <div class="d-value ${pnlClass(f.worst_case.pnl)}">${fmt(f.worst_case.pnl)}</div>
+              <div class="d-label" style="margin-top:0.2rem">${fmtTime(f.worst_case.time)}</div>
+            </div>
+          </div>
+          ${f.theta_note ? `<div class="theta-note">⊘ ${f.theta_note}</div>` : ''}
+        `;
+      }
+
+      let newsHtml = '';
+      if (n) {
+        const kw = (n.keywords_found || []).join(', ') || 'none';
+        newsHtml = `
+          ${dfield('News Sentiment', n.ticker_sentiment || '—')}
+          ${dfield('SPY Sentiment',  n.spy_sentiment    || '—')}
+          ${dfield('Decision', (n.decision || '—').toUpperCase(), n.decision === 'hold' ? 'pos' : 'neg')}
+          ${dfield('Keywords', kw)}
+        `;
+      }
+
+      return `
+        <tr class="detail-row" id="detail-${trade.id}">
+          <td colspan="12">
+            <div class="detail-inner">
+              <div class="detail-grid">
+                ${dfield('Name', e.name)}
+                ${dfield('Sector', e.sector)}
+                ${dfield('Stock @ Entry', '$' + e.stock_price_at_entry)}
+                ${dfield('Premium', '$' + e.premium + ' / $' + e.cost)}
+                ${dfield('Spread', e.spread !== null ? '$' + e.spread : '—')}
+                ${dfield('Macro', e.macro_active ? e.macro_keywords.join(', ') : 'None', e.macro_active ? 'neg' : 'muted')}
+                ${dfield('SPY Day', (e.spy_change >= 0 ? '+' : '') + e.spy_change + '%', e.spy_change >= 0 ? 'pos' : 'neg')}
+                ${ex ? dfield('Stock Open', '$' + ex.stock_open_price) : ''}
+                ${ex ? dfield('Option Sold', '$' + ex.sell_option_price) : ''}
+                ${ex ? dfield('Contract Value', '$' + ex.sell_contract_value) : ''}
+                ${newsHtml}
+              </div>
+              ${fomoHtml}
+              <div class="note-box">${e.auto_note}</div>
+            </div>
+          </td>
+        </tr>
+      `;
+    }
+
+    function render() {
+      const filtered = allTrades.filter(t => {
+        if (currentFilter === 'win')  return t.status === 'closed' && t.exit && t.exit.pnl > 0;
+        if (currentFilter === 'loss') return t.status === 'closed' && t.exit && t.exit.pnl <= 0;
+        if (currentFilter === 'call') return t.entry.type === 'CALL';
+        if (currentFilter === 'put')  return t.entry.type === 'PUT';
+        if (currentFilter === 'open') return t.status === 'open';
+        return true;
+      });
+
+      const sorted = [...filtered].sort((a, b) => {
+        let av, bv;
+        if (sortKey === 'id')      { av = a.id; bv = b.id; }
+        if (sortKey === 'date')    { av = a.entry.date; bv = b.entry.date; }
+        if (sortKey === 'ticker')  { av = a.entry.ticker; bv = b.entry.ticker; }
+        if (sortKey === 'strike')  { av = a.entry.strike; bv = b.entry.strike; }
+        if (sortKey === 'dte')     { av = a.entry.dte_at_entry; bv = b.entry.dte_at_entry; }
+        if (sortKey === 'cost')    { av = a.entry.cost; bv = b.entry.cost; }
+        if (sortKey === 'iv')      { av = a.entry.iv_at_entry; bv = b.entry.iv_at_entry; }
+        if (sortKey === 'otm')     { av = a.entry.otm_pct; bv = b.entry.otm_pct; }
+        if (sortKey === 'pnl')     { av = a.exit ? a.exit.pnl : -Infinity; bv = b.exit ? b.exit.pnl : -Infinity; }
+        if (sortKey === 'running') { av = a._running || 0; bv = b._running || 0; }
+        if (av < bv) return -sortDir;
+        if (av > bv) return  sortDir;
+        return 0;
+      });
+
+      const tbody = document.getElementById('ledgerBody');
+      if (!sorted.length) {
+        tbody.innerHTML = '<tr><td colspan="12" class="empty">No trades match filter</td></tr>';
+        return;
+      }
+
+      let html = '';
+      sorted.forEach(t => {
+        const e   = t.entry;
+        const ex  = t.exit;
+        const pnl = ex ? ex.pnl : null;
+        const isOpen = t.status === 'open';
+        const rowClass = isOpen ? 'open-row' : (pnl >= 0 ? 'win-row' : 'loss-row');
+        const run = t._running;
+
+        html += `
+          <tr class="${rowClass}" onclick="toggleDetail(${t.id})">
+            <td class="muted">${t.id}</td>
+            <td class="muted">${e.date}</td>
+            <td class="ticker">${e.ticker}</td>
+            <td><span class="tag ${e.type.toLowerCase()}">${e.type}</span></td>
+            <td class="right">$${e.strike}</td>
+            <td class="right muted col-hide">${e.dte_at_entry}</td>
+            <td class="right muted col-hide">$${e.cost}</td>
+            <td class="right muted col-hide">${(e.iv_at_entry * 100).toFixed(1)}%</td>
+            <td class="right col-hide ${e.otm_pct > 10 ? 'neg' : 'muted'}">${e.otm_pct}%</td>
+            <td class="muted col-hide">${ex ? (ex.sell_trigger === 'hold_2min' ? 'Hold' : 'Open') : '—'}</td>
+            <td class="right ${isOpen ? 'muted' : pnlClass(pnl)}">${isOpen ? 'Open' : fmt(pnl)}</td>
+            <td class="right running col-hide ${pnlClass(run)}">${run !== undefined ? fmt(run) : '—'}</td>
+          </tr>
+        `;
+        if (expandedId === t.id) {
+          html += detailRow(t);
+        }
+      });
+
+      tbody.innerHTML = html;
+
+      // Update sort indicators
+      document.querySelectorAll('th').forEach(th => {
+        th.classList.remove('sort-asc', 'sort-desc');
+      });
+    }
+
+    function toggleDetail(id) {
+      expandedId = expandedId === id ? null : id;
+      render();
+    }
+
+    function setFilter(f, btn) {
+      currentFilter = f;
+      document.querySelectorAll('.filter-btn').forEach(b => {
+        b.classList.remove('active');
+        b.style.borderColor = '';
+        b.style.color = '';
+      });
+      btn.classList.add('active');
+      render();
+    }
+
+    function sortBy(key) {
+      if (sortKey === key) sortDir *= -1;
+      else { sortKey = key; sortDir = -1; }
+      render();
+    }
+
+    async function loadData() {
+      try {
+        const [tRes, sRes] = await Promise.all([
+          fetch('../data/trades.json?t=' + Date.now()),
+          fetch('../data/stats.json?t='  + Date.now())
+        ]);
+        const trades = await tRes.json();
+        const stats  = await sRes.json();
+
+        // Compute running balance per trade (chronological)
+        let running = 0;
+        const sorted = [...(trades.trades || [])].sort((a, b) => a.id - b.id);
+        sorted.forEach(t => {
+          if (t.exit) {
+            running = Math.round((running + t.exit.pnl) * 100) / 100;
+            t._running = running;
+          }
+        });
+        allTrades = sorted;
+
+        // Summary bar
+        const o = stats.overall;
+        const bal = trades.balance;
+        const balEl = document.getElementById('sumBalVal');
+        balEl.textContent = (bal >= 0 ? '+$' : '-$') + Math.abs(bal).toFixed(2);
+        balEl.className = 's-value ' + (bal > 0 ? 'pos' : bal < 0 ? 'neg' : 'muted');
+        document.getElementById('sumBalance').classList.toggle('neg', bal < 0);
+
+        document.getElementById('sumWinRate').textContent  = o.win_rate + '%';
+        document.getElementById('sumWinRate').className    = 's-value ' + (o.win_rate >= 50 ? 'pos' : 'neg');
+        document.getElementById('sumTrades').textContent   = `${o.wins}W / ${o.losses}L`;
+        document.getElementById('sumTrades').className     = 's-value muted';
+
+        const avg = o.avg_pnl;
+        document.getElementById('sumAvg').textContent  = (avg >= 0 ? '+$' : '-$') + Math.abs(avg).toFixed(2);
+        document.getElementById('sumAvg').className    = 's-value ' + (avg >= 0 ? 'pos' : 'neg');
+
+        const left = stats.fomo.avg_left_on_table;
+        document.getElementById('sumLeft').textContent = left
+          ? (left >= 0 ? '+$' : '-$') + Math.abs(left).toFixed(2)
+          : '—';
+        document.getElementById('sumLeft').className = 's-value muted';
+
+        document.getElementById('sumSince').textContent  = trades.first_trade_date || '—';
+        document.getElementById('sumSince').className    = 's-value muted';
+
+        render();
+      } catch(e) {
+        console.error(e);
+        document.getElementById('ledgerBody').innerHTML =
+          '<tr><td colspan="12" class="empty">Error loading ledger data</td></tr>';
+      }
+    }
+
+    loadData();
+  </script>
+
+</body>
+</html>

@@ -1,0 +1,411 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Stats — stock-porn</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    :root {
+      --bg: #0d0d0d; --surface: #141414; --surface2: #1a1a1a;
+      --border: #2a2a2a; --text: #e8e8e8; --muted: #666;
+      --green: #00c853; --red: #ff1744;
+      --green-dim: #00c85322; --red-dim: #ff174422;
+    }
+    body { background: var(--bg); color: var(--text); font-family: 'Courier New', Courier, monospace; font-size: 14px; line-height: 1.6; }
+
+    .page { max-width: 960px; margin: 0 auto; padding: 1.5rem 1rem; }
+
+    .section-label {
+      font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.1em;
+      color: var(--muted); margin-bottom: 0.75rem; margin-top: 2rem;
+      border-bottom: 1px solid var(--border); padding-bottom: 0.4rem;
+    }
+    .section-label:first-of-type { margin-top: 0; }
+
+    /* STAT GRID */
+    .stat-grid {
+      display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+      gap: 0.75rem; margin-bottom: 0.5rem;
+    }
+    .stat-cell {
+      background: var(--surface); border: 1px solid var(--border);
+      padding: 0.75rem 1rem; border-radius: 4px;
+    }
+    .stat-cell.accent-green { border-left: 3px solid var(--green); }
+    .stat-cell.accent-red   { border-left: 3px solid var(--red); }
+    .stat-cell.accent-muted { border-left: 3px solid #333; }
+    .s-label { font-size: 0.62rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); margin-bottom: 0.2rem; }
+    .s-value { font-size: 1.1rem; font-weight: bold; }
+    .s-sub   { font-size: 0.68rem; color: var(--muted); margin-top: 0.15rem; }
+    .pos { color: var(--green); }
+    .neg { color: var(--red); }
+    .muted-val { color: var(--muted); }
+
+    /* BAR CHART */
+    .bar-section { display: flex; flex-direction: column; gap: 0.5rem; }
+    .bar-row { display: flex; align-items: center; gap: 0.75rem; }
+    .bar-label { font-size: 0.75rem; color: var(--text); min-width: 90px; }
+    .bar-track {
+      flex: 1; height: 18px; background: var(--surface2);
+      border: 1px solid var(--border); border-radius: 2px; overflow: hidden;
+      position: relative;
+    }
+    .bar-fill {
+      height: 100%; border-radius: 2px;
+      transition: width 0.4s ease;
+    }
+    .bar-fill.green { background: var(--green); opacity: 0.7; }
+    .bar-fill.red   { background: var(--red);   opacity: 0.7; }
+    .bar-fill.muted { background: #444; }
+    .bar-meta { font-size: 0.72rem; min-width: 80px; text-align: right; }
+
+    /* TWO COL */
+    .two-col {
+      display: grid; grid-template-columns: 1fr 1fr; gap: 1rem;
+    }
+    .panel {
+      background: var(--surface); border: 1px solid var(--border);
+      border-radius: 4px; padding: 1rem;
+    }
+    .panel-title {
+      font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.08em;
+      color: var(--muted); margin-bottom: 0.75rem;
+      border-bottom: 1px solid var(--border); padding-bottom: 0.4rem;
+    }
+
+    /* METHODOLOGY SCORE */
+    .score-row {
+      display: flex; align-items: center; justify-content: space-between;
+      padding: 0.4rem 0; border-bottom: 1px solid var(--border);
+      font-size: 0.8rem;
+    }
+    .score-row:last-child { border-bottom: none; }
+    .score-name { color: var(--text); }
+    .score-pct  { font-weight: bold; min-width: 50px; text-align: right; }
+    .score-count { font-size: 0.68rem; color: var(--muted); min-width: 70px; text-align: right; }
+    .score-bar-wrap { flex: 1; margin: 0 0.75rem; height: 6px; background: var(--surface2); border-radius: 3px; overflow: hidden; }
+    .score-bar-fill { height: 100%; border-radius: 3px; background: var(--green); }
+
+    /* FOMO COMPARISON */
+    .compare-row {
+      display: flex; gap: 1rem; flex-wrap: wrap;
+    }
+    .compare-cell {
+      flex: 1; min-width: 120px; background: var(--surface2);
+      border: 1px solid var(--border); padding: 0.75rem;
+      border-radius: 3px; text-align: center;
+    }
+    .compare-cell .s-value { font-size: 0.95rem; }
+
+    .insight {
+      font-size: 0.75rem; color: var(--muted); background: var(--surface2);
+      border: 1px solid var(--border); border-left: 3px solid var(--green);
+      padding: 0.6rem 0.75rem; border-radius: 0 3px 3px 0;
+      margin-top: 0.75rem; line-height: 1.6;
+    }
+    .insight.warn { border-left-color: var(--red); }
+
+    .empty { color: var(--muted); font-size: 0.78rem; padding: 0.5rem 0; }
+    .updated { font-size: 0.68rem; color: var(--muted); margin-bottom: 1.5rem; }
+
+    footer { margin-top: 2rem; padding-top: 1rem; border-top: 1px solid var(--border); font-size: 0.72rem; color: var(--muted); text-align: center; }
+    footer a { color: var(--green); text-decoration: none; }
+
+    @media (max-width: 600px) {
+      .two-col { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+
+  <div id="nav-root"></div>
+  <script src="../components/nav.js"></script>
+
+  <div class="page">
+
+    <div class="updated" id="lastUpdated"></div>
+
+    <!-- OVERALL -->
+    <div class="section-label">Overall Performance</div>
+    <div class="stat-grid" id="overallGrid"></div>
+
+    <!-- HOLD VS SELL AT OPEN -->
+    <div class="section-label">Hold 2min vs Sell at Open</div>
+    <div class="compare-row" id="holdCompare"></div>
+    <div class="insight" id="holdInsight"></div>
+
+    <!-- DAY OF WEEK -->
+    <div class="section-label">Win Rate by Day of Week</div>
+    <div class="bar-section" id="dowBars"></div>
+    <div class="insight" id="dowInsight"></div>
+
+    <!-- SECTOR -->
+    <div class="section-label">Performance by Sector</div>
+    <div class="bar-section" id="sectorBars"></div>
+
+    <!-- SIGNAL RANK -->
+    <div class="section-label">Performance by Signal Rank</div>
+    <div class="bar-section" id="rankBars"></div>
+    <div class="insight" id="rankInsight"></div>
+
+    <!-- SPY CORRELATION -->
+    <div class="section-label">SPY Correlation</div>
+    <div class="two-col" id="spyGrid"></div>
+    <div class="insight" id="spyInsight"></div>
+
+    <!-- IV CRUSH -->
+    <div class="section-label">IV at Entry (Avg)</div>
+    <div class="stat-grid" id="ivGrid"></div>
+    <div class="insight" id="ivInsight"></div>
+
+    <!-- KEYWORD ACCURACY -->
+    <div class="section-label">Keyword Accuracy</div>
+    <div class="bar-section" id="kwBars"></div>
+    <div class="insight" id="kwInsight"></div>
+
+    <!-- METHODOLOGY SCORE -->
+    <div class="section-label">Methodology Layer Accuracy</div>
+    <div class="panel" id="methodPanel">
+      <div id="methodRows"></div>
+    </div>
+    <div class="insight" id="methodInsight"></div>
+
+  </div>
+
+  <footer>
+    Stats update after every trade closes · Black-Scholes estimates · Not financial advice<br>
+    <a href="legal.html">Legal</a> &nbsp;·&nbsp;
+    <a href="https://buymeacoffee.com/goddardshannon9" target="_blank" rel="noopener">🍺 Buy the dev a beer</a>
+  </footer>
+
+  <script>
+    function fmt(val, prefix='$') {
+      if (val === null || val === undefined) return '—';
+      const abs = Math.abs(val).toFixed(2);
+      return (val >= 0 ? '+' : '-') + prefix + abs;
+    }
+
+    function pct(correct, total) {
+      if (!total) return null;
+      return Math.round(correct / total * 100);
+    }
+
+    function pnlClass(v) { return v > 0 ? 'pos' : v < 0 ? 'neg' : 'muted-val'; }
+
+    function statCell(label, value, cls, sub='', accent='accent-muted') {
+      return `<div class="stat-cell ${accent}">
+        <div class="s-label">${label}</div>
+        <div class="s-value ${cls}">${value}</div>
+        ${sub ? `<div class="s-sub">${sub}</div>` : ''}
+      </div>`;
+    }
+
+    function barRow(label, winRate, trades, avgPnl) {
+      if (!trades) return `
+        <div class="bar-row">
+          <span class="bar-label">${label}</span>
+          <div class="bar-track"><div class="bar-fill muted" style="width:0%"></div></div>
+          <span class="bar-meta muted-val">no data</span>
+        </div>`;
+      const w = winRate || 0;
+      const cls = w >= 50 ? 'green' : 'red';
+      const pnlStr = avgPnl !== undefined ? fmt(avgPnl) : '';
+      return `
+        <div class="bar-row">
+          <span class="bar-label">${label}</span>
+          <div class="bar-track"><div class="bar-fill ${cls}" style="width:${w}%"></div></div>
+          <span class="bar-meta ${pnlClass(avgPnl)}">${w}% &nbsp;${pnlStr}</span>
+        </div>`;
+    }
+
+    function scoreRow(name, correct, total) {
+      const p = pct(correct, total);
+      const display = p !== null ? p + '%' : '—';
+      const cls = p === null ? 'muted-val' : p >= 50 ? 'pos' : 'neg';
+      const fillW = p !== null ? p : 0;
+      return `
+        <div class="score-row">
+          <span class="score-name">${name}</span>
+          <div class="score-bar-wrap"><div class="score-bar-fill" style="width:${fillW}%"></div></div>
+          <span class="score-pct ${cls}">${display}</span>
+          <span class="score-count">${total ? correct + '/' + total : 'no data'}</span>
+        </div>`;
+    }
+
+    function minTrades(n, msg='Needs more trades to show pattern') {
+      return n < 5 ? `<div class="insight warn">⚠ ${msg} (${n} trade${n !== 1 ? 's' : ''} so far — pattern emerges at 20+)</div>` : '';
+    }
+
+    async function loadStats() {
+      try {
+        const res   = await fetch('../data/stats.json?t=' + Date.now());
+        const stats = await res.json();
+
+        if (stats.last_updated) {
+          document.getElementById('lastUpdated').textContent =
+            'Last updated: ' + stats.last_updated;
+        }
+
+        const o = stats.overall;
+
+        // ── OVERALL ──────────────────────────────────────────────────────────
+        document.getElementById('overallGrid').innerHTML = [
+          statCell('Total P&L',   fmt(o.total_pnl),  pnlClass(o.total_pnl),  '', o.total_pnl >= 0 ? 'accent-green' : 'accent-red'),
+          statCell('Win Rate',    o.win_rate + '%',   o.win_rate >= 50 ? 'pos' : 'neg', `${o.wins}W / ${o.losses}L`),
+          statCell('Avg P&L',     fmt(o.avg_pnl),     pnlClass(o.avg_pnl)),
+          statCell('Total Trades', o.total_trades,    'muted-val'),
+        ].join('');
+
+        // ── HOLD VS SELL AT OPEN ──────────────────────────────────────────────
+        const f = stats.fomo;
+        document.getElementById('holdCompare').innerHTML = `
+          <div class="compare-cell">
+            <div class="s-label">Sell at Open</div>
+            <div class="s-value ${pnlClass(f.sell_at_open_avg_pnl)}">${fmt(f.sell_at_open_avg_pnl)}</div>
+            <div class="s-sub">${f.sell_at_open_trades} trade${f.sell_at_open_trades !== 1 ? 's' : ''} avg P&L</div>
+          </div>
+          <div class="compare-cell">
+            <div class="s-label">Hold 2min</div>
+            <div class="s-value ${pnlClass(f.hold_2min_avg_pnl)}">${fmt(f.hold_2min_avg_pnl)}</div>
+            <div class="s-sub">${f.hold_2min_trades} trade${f.hold_2min_trades !== 1 ? 's' : ''} avg P&L</div>
+          </div>
+          <div class="compare-cell">
+            <div class="s-label">Avg Left on Table</div>
+            <div class="s-value muted-val">${fmt(f.avg_left_on_table)}</div>
+            <div class="s-sub">per trade (BS estimate)</div>
+          </div>
+        `;
+        const holdInsight = f.hold_2min_trades > 0 && f.sell_at_open_trades > 0
+          ? (f.hold_2min_avg_pnl > f.sell_at_open_avg_pnl
+              ? `Holding 2min is outperforming sell-at-open by ${fmt(f.hold_2min_avg_pnl - f.sell_at_open_avg_pnl)} avg — news scan is adding value`
+              : `Sell-at-open is outperforming hold-2min by ${fmt(f.sell_at_open_avg_pnl - f.hold_2min_avg_pnl)} avg — IV crush at open is real`)
+          : 'Both strategies need more trades to compare — pattern emerges at 10+ each';
+        document.getElementById('holdInsight').textContent = holdInsight;
+
+        // ── DAY OF WEEK ───────────────────────────────────────────────────────
+        const dow = stats.by_day_of_week;
+        const days = ['Monday','Tuesday','Wednesday','Thursday','Friday'];
+        document.getElementById('dowBars').innerHTML = days.map(d => {
+          const row = dow[d];
+          const wr  = row.trades ? Math.round(row.wins / row.trades * 100) : null;
+          return barRow(d, wr, row.trades, row.avg_pnl);
+        }).join('');
+
+        const bestDay = days.reduce((best, d) => {
+          const row = dow[d];
+          if (!row.trades) return best;
+          const wr = row.wins / row.trades;
+          return (!best || wr > dow[best].wins / dow[best].trades) ? d : best;
+        }, null);
+        document.getElementById('dowInsight').textContent = bestDay
+          ? `${bestDay} is the best entry day so far — ${Math.round(dow[bestDay].wins/dow[bestDay].trades*100)}% win rate. Thursday hypothesis: 0DTE theta efficiency should show here over time.`
+          : 'No day-of-week data yet';
+        document.getElementById('dowInsight').className =
+          'insight' + (o.total_trades < 10 ? ' warn' : '');
+
+        // ── SECTOR ────────────────────────────────────────────────────────────
+        const sectors = Object.entries(stats.by_sector)
+          .sort((a, b) => b[1].trades - a[1].trades);
+        document.getElementById('sectorBars').innerHTML = sectors.length
+          ? sectors.map(([name, row]) => {
+              const wr = row.trades ? Math.round(row.wins / row.trades * 100) : null;
+              return barRow(name, wr, row.trades, row.avg_pnl);
+            }).join('')
+          : '<p class="empty">No sector data yet</p>';
+
+        // ── SIGNAL RANK ───────────────────────────────────────────────────────
+        const ranks = Object.entries(stats.by_signal_rank)
+          .sort((a, b) => b[1].trades - a[1].trades);
+        document.getElementById('rankBars').innerHTML = ranks.length
+          ? ranks.map(([name, row]) => {
+              const wr = row.trades ? Math.round(row.wins / row.trades * 100) : null;
+              return barRow(name, wr, row.trades, row.avg_pnl);
+            }).join('')
+          : '<p class="empty">No signal rank data yet</p>';
+
+        const rankInsight = ranks.length >= 2
+          ? (() => {
+              const best = ranks.reduce((b, r) => r[1].avg_pnl > (b ? b[1].avg_pnl : -Infinity) ? r : b, null);
+              return best ? `${best[0]} is the best performing signal rank — ${fmt(best[1].avg_pnl)} avg P&L over ${best[1].trades} trades` : '';
+            })()
+          : 'Signal rank comparison needs more trades across different ranks';
+        document.getElementById('rankInsight').textContent = rankInsight;
+
+        // ── SPY CORRELATION ───────────────────────────────────────────────────
+        const sc = stats.spy_correlation;
+        document.getElementById('spyGrid').innerHTML = `
+          <div class="panel">
+            <div class="panel-title">SPY Up Days</div>
+            ${statCell('Trades', sc.spy_up_days.trades, 'muted-val')}
+            <div style="margin-top:0.5rem">
+              ${statCell('CALL Wins', sc.spy_up_days.call_wins, 'pos')}
+            </div>
+            <div style="margin-top:0.5rem">
+              ${statCell('PUT Wins', sc.spy_up_days.put_wins, 'neg')}
+            </div>
+          </div>
+          <div class="panel">
+            <div class="panel-title">SPY Down Days</div>
+            ${statCell('Trades', sc.spy_down_days.trades, 'muted-val')}
+            <div style="margin-top:0.5rem">
+              ${statCell('CALL Wins', sc.spy_down_days.call_wins, 'pos')}
+            </div>
+            <div style="margin-top:0.5rem">
+              ${statCell('PUT Wins', sc.spy_down_days.put_wins, 'neg')}
+            </div>
+          </div>
+        `;
+        document.getElementById('spyInsight').textContent =
+          'SPY direction vs trade outcome — validates or disproves macro layer. ' +
+          'Hypothesis: PUT wins should cluster on SPY down days, CALL wins on SPY up days.';
+
+        // ── IV ────────────────────────────────────────────────────────────────
+        const iv = stats.iv_crush;
+        document.getElementById('ivGrid').innerHTML = [
+          statCell('Avg IV at Entry', iv.samples ? (iv.avg_iv_at_entry * 100).toFixed(1) + '%' : '—', 'muted-val', iv.samples + ' samples'),
+          statCell('Avg IV at Open',  iv.avg_iv_at_open ? (iv.avg_iv_at_open * 100).toFixed(1) + '%' : '—', 'muted-val', 'Phase 2 — real data'),
+          statCell('Avg IV Crush $',  iv.avg_crush_dollars ? fmt(iv.avg_crush_dollars) : '—', 'neg', 'Phase 2 — real data'),
+        ].join('');
+        document.getElementById('ivInsight').textContent =
+          'IV crush = the drop in implied volatility at market open. ' +
+          'High IV at entry means expensive premium — the overnight uncertainty premium. ' +
+          'Phase 2 will compare BS estimates against real contract prices to measure crush accuracy.';
+
+        // ── KEYWORD ACCURACY ──────────────────────────────────────────────────
+        const ka = stats.keyword_accuracy;
+        document.getElementById('kwBars').innerHTML = ['bullish','bearish','neutral'].map(k => {
+          const row = ka[k];
+          const wr  = row.fired ? Math.round(row.correct / row.fired * 100) : null;
+          return barRow(k.charAt(0).toUpperCase() + k.slice(1), wr, row.fired,
+            row.fired ? (row.correct / row.fired * 100 - 50) : undefined);
+        }).join('');
+        document.getElementById('kwInsight').textContent =
+          'Keyword accuracy = when the news scan fired a sentiment, did the trade go the right way? ' +
+          'Over time this turns the trigger word list from opinion into evidence.';
+
+        // ── METHODOLOGY SCORE ─────────────────────────────────────────────────
+        const ms = stats.methodology_score;
+        document.getElementById('methodRows').innerHTML = [
+          scoreRow('SPY Layer',     ms.spy_layer.correct,     ms.spy_layer.predictions),
+          scoreRow('Sector Layer',  ms.sector_layer.correct,  ms.sector_layer.predictions),
+          scoreRow('Keyword Layer', ms.keyword_layer.correct, ms.keyword_layer.predictions),
+          scoreRow('IV Layer',      ms.iv_layer.correct,      ms.iv_layer.predictions),
+        ].join('');
+        document.getElementById('methodInsight').textContent =
+          'Each methodology layer scored independently. ' +
+          'A layer at 50% = coin flip. Above 60% = adding real edge. ' +
+          'This is the transparency nobody else publishes.';
+
+      } catch(e) {
+        console.error(e);
+        document.querySelector('.page').innerHTML +=
+          '<p class="empty">Error loading stats data</p>';
+      }
+    }
+
+    loadStats();
+  </script>
+
+</body>
+</html>

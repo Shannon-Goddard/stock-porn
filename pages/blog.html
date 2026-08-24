@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Blog — stock-porn</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    :root {
+      --bg: #0d0d0d; --surface: #141414; --surface2: #1a1a1a;
+      --border: #2a2a2a; --text: #e8e8e8; --muted: #666;
+      --green: #00c853; --red: #ff1744;
+      --green-dim: #00c85322; --red-dim: #ff174422;
+    }
+    body { background: var(--bg); color: var(--text); font-family: 'Courier New', Courier, monospace; font-size: 14px; line-height: 1.6; }
+
+    .page { max-width: 800px; margin: 0 auto; padding: 1.5rem 1rem; }
+
+    .page-title { color: var(--green); font-size: 1rem; text-transform: uppercase; letter-spacing: 0.08em; margin-bottom: 0.25rem; }
+    .page-sub   { color: var(--muted); font-size: 0.75rem; margin-bottom: 1.5rem; }
+
+    /* CARD */
+    .be-card {
+      background: var(--surface); border: 1px solid var(--border);
+      border-radius: 4px; margin-bottom: 0.75rem; overflow: hidden;
+    }
+    .be-card.win  { border-left: 3px solid var(--green); }
+    .be-card.loss { border-left: 3px solid var(--red); }
+    .be-card.open { border-left: 3px solid #555; }
+
+    .be-card-header {
+      display: flex; align-items: center; justify-content: space-between;
+      padding: 0.75rem 1rem; cursor: pointer;
+      transition: background 0.15s;
+    }
+    .be-card-header:hover { background: var(--surface2); }
+
+    .be-card-left  { display: flex; align-items: center; gap: 0.6rem; flex-wrap: wrap; }
+    .be-card-right { display: flex; align-items: center; gap: 0.75rem; }
+
+    .be-card-ticker { font-size: 1rem; font-weight: bold; color: var(--green); }
+    .be-card-date   { font-size: 0.72rem; color: var(--muted); }
+    .be-card-pnl    { font-size: 0.9rem; font-weight: bold; }
+    .be-card-chevron { color: var(--muted); font-size: 0.75rem; }
+
+    .be-tag {
+      font-size: 0.65rem; padding: 0.1rem 0.4rem; border-radius: 2px;
+      font-weight: bold; letter-spacing: 0.05em;
+    }
+    .be-tag.call { background: var(--green-dim); color: var(--green); border: 1px solid var(--green); }
+    .be-tag.put  { background: var(--red-dim);   color: var(--red);   border: 1px solid var(--red); }
+
+    .be-card-subtitle {
+      font-size: 0.72rem; color: var(--muted); padding: 0 1rem 0.75rem;
+      line-height: 1.6; border-bottom: 1px solid var(--border);
+    }
+
+    .be-video {
+      position: relative; padding-bottom: 56.25%; height: 0;
+      border-bottom: 1px solid var(--border);
+    }
+    .be-video iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+
+    /* ARTICLE */
+    .be-article-wrap { border-top: 1px solid var(--border); }
+    .be-article { padding: 0; }
+
+    .be-section { border-bottom: 1px solid var(--border); padding: 1rem; }
+    .be-section:last-child { border-bottom: none; }
+    .be-section-title {
+      font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.1em;
+      color: var(--green); margin-bottom: 0.75rem;
+    }
+
+    .be-grid { display: flex; flex-direction: column; gap: 0.3rem; }
+    .be-row  { display: flex; gap: 0.5rem; font-size: 0.8rem; flex-wrap: wrap; }
+    .be-row-label { color: var(--muted); min-width: 140px; flex-shrink: 0; font-size: 0.72rem; }
+    .be-row-value { color: var(--text); }
+
+    .be-note {
+      font-size: 0.7rem; color: var(--muted); background: var(--surface2);
+      border: 1px solid var(--border); padding: 0.5rem 0.75rem;
+      border-radius: 3px; margin-top: 0.6rem; line-height: 1.5;
+    }
+    .be-callout {
+      font-size: 0.78rem; color: var(--text); background: var(--surface2);
+      border: 1px solid var(--border); border-left: 3px solid var(--green);
+      padding: 0.6rem 0.75rem; border-radius: 0 3px 3px 0;
+      margin-top: 0.6rem; line-height: 1.6;
+    }
+
+    .be-fomo-grid {
+      display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 0.5rem;
+    }
+    .be-fomo-cell {
+      background: var(--surface2); border: 1px solid var(--border);
+      padding: 0.6rem 0.75rem; border-radius: 3px; text-align: center;
+    }
+    .be-fomo-label { font-size: 0.62rem; text-transform: uppercase; letter-spacing: 0.07em; color: var(--muted); margin-bottom: 0.2rem; }
+    .be-fomo-value { font-size: 1rem; font-weight: bold; }
+    .be-fomo-sub   { font-size: 0.65rem; color: var(--muted); margin-top: 0.15rem; }
+
+    .pos   { color: var(--green); }
+    .neg   { color: var(--red); }
+    .muted { color: var(--muted); }
+
+    .be-empty { color: var(--muted); font-size: 0.78rem; padding: 0.5rem 0; font-style: italic; }
+
+    .empty-state { color: var(--muted); font-size: 0.8rem; padding: 2rem 0; text-align: center; }
+
+    footer { margin-top: 2rem; padding-top: 1rem; border-top: 1px solid var(--border); font-size: 0.72rem; color: var(--muted); text-align: center; }
+    footer a { color: var(--green); text-decoration: none; }
+    footer a:hover { text-decoration: underline; }
+
+    @media (max-width: 600px) {
+      .be-fomo-grid { grid-template-columns: 1fr 1fr; }
+      .be-row-label { min-width: 110px; }
+    }
+  </style>
+</head>
+<body>
+
+  <div id="nav-root"></div>
+  <script src="../components/nav.js"></script>
+
+  <div class="page">
+    <div class="page-title">Blog</div>
+    <div class="page-sub">Every trade auto-generates an article. Add a YouTube ID to embed your video.</div>
+
+    <div id="blogList"><p class="empty-state">loading...</p></div>
+  </div>
+
+  <footer>
+    Articles auto-generated from trade data · Black-Scholes estimates · Not financial advice<br>
+    <a href="legal.html">Legal</a> &nbsp;·&nbsp;
+    <a href="https://buymeacoffee.com/goddardshannon9" target="_blank" rel="noopener">🍺 Buy the dev a beer</a>
+  </footer>
+
+  <script src="../components/blog-engine.js"></script>
+  <script>
+    async function loadBlog() {
+      try {
+        const { blogs } = await BlogEngine.init('../');
+
+        const list = document.getElementById('blogList');
+        if (!blogs.length) {
+          list.innerHTML = '<p class="empty-state">No trades yet — first article publishes after the first trade closes</p>';
+          return;
+        }
+
+        // Newest first
+        const sorted = [...blogs].filter(b => b.published).reverse();
+        list.innerHTML = sorted.map(b =>
+          BlogEngine.renderCard(b, false, '../')
+        ).join('');
+
+      } catch(e) {
+        console.error(e);
+        document.getElementById('blogList').innerHTML =
+          '<p class="empty-state">Error loading blog data</p>';
+      }
+    }
+
+    loadBlog();
+  </script>
+
+</body>
+</html>
