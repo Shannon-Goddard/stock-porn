@@ -10,7 +10,7 @@ OPTIONABLE_FILE = os.path.join(DATA_DIR, 'stocks_optionable.csv')
 SIGNALS_FILE = os.path.join(DATA_DIR, 'signals.json')
 METADATA_FILE = os.path.join(DATA_DIR, 'metadata.json')
 
-TOP_PCT = 0.10   # top/bottom 10%
+TOP_N_PCT = 10   # top 10 by percent move
 TOP_N = 5        # top 5 by dollar move
 
 def load_optionable():
@@ -81,12 +81,11 @@ def parse_prices(raw, tickers, stock_info):
     return results
 
 def filter_top_pct(results, gainers=True):
-    n = max(1, int(len(results) * TOP_PCT))
     if gainers:
         sorted_list = sorted(results, key=lambda x: x['changePct'], reverse=True)
     else:
         sorted_list = sorted(results, key=lambda x: x['changePct'])
-    return sorted_list[:n]
+    return sorted_list[:TOP_N_PCT]
 
 def filter_top_dollar(results, gainers=True):
     if gainers:
@@ -134,8 +133,8 @@ def main():
     dollar_gainers = filter_top_dollar(top_gainers, gainers=True)
     dollar_losers = filter_top_dollar(top_losers, gainers=False)
 
-    print(f"Top 10% gainers:      {len(top_gainers)} stocks")
-    print(f"Top 10% losers:       {len(top_losers)} stocks")
+    print(f"Top {TOP_N_PCT} gainers: {[s['ticker'] for s in top_gainers]}")
+    print(f"Top {TOP_N_PCT} losers:  {[s['ticker'] for s in top_losers]}")
     print(f"Top {TOP_N} dollar gainers: {[s['ticker'] for s in dollar_gainers]}")
     print(f"Top {TOP_N} dollar losers:  {[s['ticker'] for s in dollar_losers]}")
 
