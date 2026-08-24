@@ -1,46 +1,6 @@
 {
   "topGainers": [
     {
-      "ticker": "HOWL",
-      "name": "Werewolf Therapeutics, Inc.",
-      "sector": "Health technology",
-      "price": 0.87,
-      "changePct": 102.09,
-      "changeDollar": 0.44
-    },
-    {
-      "ticker": "DTCX",
-      "name": "Datacentrex, Inc.",
-      "sector": "Technology services",
-      "price": 2.62,
-      "changePct": 29.7,
-      "changeDollar": 0.6
-    },
-    {
-      "ticker": "ANY",
-      "name": "Sphere 3D Corp.",
-      "sector": "Technology services",
-      "price": 2.61,
-      "changePct": 29.21,
-      "changeDollar": 0.59
-    },
-    {
-      "ticker": "HAIN",
-      "name": "The Hain Celestial Group, Inc.",
-      "sector": "Consumer non-durables",
-      "price": 0.79,
-      "changePct": 27.42,
-      "changeDollar": 0.17
-    },
-    {
-      "ticker": "CRML",
-      "name": "Critical Metals Corp.",
-      "sector": "Non-energy minerals",
-      "price": 7.11,
-      "changePct": 22.59,
-      "changeDollar": 1.31
-    },
-    {
       "ticker": "ARCT",
       "name": "Arcturus Therapeutics Holdings Inc.",
       "sector": "Health technology",
@@ -49,86 +9,86 @@
       "changeDollar": 2.46
     },
     {
-      "ticker": "CTSO",
-      "name": "Cytosorbents Corporation",
-      "sector": "Health technology",
-      "price": 0.37,
-      "changePct": 19.29,
-      "changeDollar": 0.06
+      "ticker": "HQ",
+      "name": "Horizon Quantum Holdings Ltd.",
+      "sector": "Technology services",
+      "price": 19.93,
+      "changePct": 14.54,
+      "changeDollar": 2.53
     },
     {
-      "ticker": "RFL",
-      "name": "Rafael Holdings, Inc.",
+      "ticker": "UEC",
+      "name": "Uranium Energy Corp.",
+      "sector": "Non-energy minerals",
+      "price": 12.76,
+      "changePct": 14.44,
+      "changeDollar": 1.61
+    },
+    {
+      "ticker": "HOOD",
+      "name": "Robinhood Markets, Inc.",
       "sector": "Finance",
-      "price": 2.16,
-      "changePct": 16.76,
-      "changeDollar": 0.31
+      "price": 108.13,
+      "changePct": 13.7,
+      "changeDollar": 13.03
     },
     {
-      "ticker": "UPXI",
-      "name": "Upexi, Inc.",
-      "sector": "Health technology",
-      "price": 1.08,
-      "changePct": 16.08,
-      "changeDollar": 0.15
+      "ticker": "ASST",
+      "name": "Strive, Inc.",
+      "sector": "Miscellaneous",
+      "price": 18.22,
+      "changePct": 12.96,
+      "changeDollar": 2.09
     },
     {
-      "ticker": "AARD",
-      "name": "Aardvark Therapeutics, Inc.",
-      "sector": "Health technology",
-      "price": 6.82,
-      "changePct": 15.79,
-      "changeDollar": 0.93
+      "ticker": "INFQ",
+      "name": "Infleqtion, Inc.",
+      "sector": "Electronic technology",
+      "price": 14.12,
+      "changePct": 12.51,
+      "changeDollar": 1.57
+    },
+    {
+      "ticker": "DK",
+      "name": "Delek US Holdings, Inc.",
+      "sector": "Energy minerals",
+      "price": 71.47,
+      "changePct": 11.6,
+      "changeDollar": 7.43
+    },
+    {
+      "ticker": "SGML",
+      "name": "Sigma Lithium Corporation",
+      "sector": "Non-energy minerals",
+      "price": 11.97,
+      "changePct": 11.56,
+      "changeDollar": 1.24
+    },
+    {
+      "ticker": "RGTI",
+      "name": "Rigetti Computing, Inc.",
+      "sector": "Electronic technology",
+      "price": 17.91,
+      "changePct": 11.45,
+      "changeDollar": 1.84
+    },
+    {
+      "ticker": "VIRT",
+      "name": "Virtu Financial, Inc.",
+      "sector": "Finance",
+      "price": 67.93,
+      "changePct": 11.01,
+      "changeDollar": 6.74
     }
   ],
   "topLosers": [
     {
-      "ticker": "FLUX",
-      "name": "Flux Power Holdings, Inc.",
-      "sector": "Producer manufacturing",
-      "price": 0.6,
-      "changePct": -26.83,
-      "changeDollar": -0.22
-    },
-    {
-      "ticker": "ZIP",
-      "name": "ZipRecruiter, Inc.",
+      "ticker": "HUT",
+      "name": "Hut 8 Corp.",
       "sector": "Technology services",
-      "price": 4.21,
-      "changePct": -18.57,
-      "changeDollar": -0.96
-    },
-    {
-      "ticker": "NUAI",
-      "name": "New Era Energy & Digital, Inc.",
-      "sector": "Industrial services",
-      "price": 4.86,
-      "changePct": -12.93,
-      "changeDollar": -0.72
-    },
-    {
-      "ticker": "AREN",
-      "name": "The Arena Group Holdings, Inc.",
-      "sector": "Technology services",
-      "price": 0.91,
-      "changePct": -12.5,
-      "changeDollar": -0.13
-    },
-    {
-      "ticker": "PROP",
-      "name": "Prairie Operating Co.",
-      "sector": "Energy minerals",
-      "price": 0.53,
-      "changePct": -10.26,
-      "changeDollar": -0.06
-    },
-    {
-      "ticker": "ACH",
-      "name": "Accendra Health, Inc.",
-      "sector": "Health technology",
-      "price": 1.2,
-      "changePct": -8.4,
-      "changeDollar": -0.11
+      "price": 80.86,
+      "changePct": -8.79,
+      "changeDollar": -7.79
     },
     {
       "ticker": "CIFR",
@@ -139,31 +99,103 @@
       "changeDollar": -1.44
     },
     {
-      "ticker": "CCOI",
-      "name": "Cogent Communications Holdings, Inc.",
-      "sector": "Communications",
-      "price": 9.17,
-      "changePct": -8.21,
-      "changeDollar": -0.82
-    },
-    {
-      "ticker": "IOVA",
-      "name": "Iovance Biotherapeutics, Inc.",
-      "sector": "Health technology",
-      "price": 8.29,
-      "changePct": -7.79,
-      "changeDollar": -0.7
-    },
-    {
-      "ticker": "DMRC",
-      "name": "Digimarc Corporation",
+      "ticker": "CBRS",
+      "name": "Cerebras Systems Inc.",
       "sector": "Technology services",
-      "price": 6.15,
-      "changePct": -7.1,
-      "changeDollar": -0.47
+      "price": 196.13,
+      "changePct": -6.54,
+      "changeDollar": -13.72
+    },
+    {
+      "ticker": "MRVL",
+      "name": "Marvell Technology, Inc.",
+      "sector": "Electronic technology",
+      "price": 237.04,
+      "changePct": -5.57,
+      "changeDollar": -13.97
+    },
+    {
+      "ticker": "RIOT",
+      "name": "Riot Platforms, Inc.",
+      "sector": "Technology services",
+      "price": 19.83,
+      "changePct": -5.48,
+      "changeDollar": -1.15
+    },
+    {
+      "ticker": "APLD",
+      "name": "Applied Digital Corporation",
+      "sector": "Technology services",
+      "price": 27.21,
+      "changePct": -5.03,
+      "changeDollar": -1.44
+    },
+    {
+      "ticker": "CLSK",
+      "name": "CleanSpark, Inc.",
+      "sector": "Technology services",
+      "price": 11.98,
+      "changePct": -4.92,
+      "changeDollar": -0.62
+    },
+    {
+      "ticker": "WULF",
+      "name": "TeraWulf Inc.",
+      "sector": "Technology services",
+      "price": 15.64,
+      "changePct": -4.92,
+      "changeDollar": -0.81
+    },
+    {
+      "ticker": "REAL",
+      "name": "The RealReal, Inc.",
+      "sector": "Retail trade",
+      "price": 11.12,
+      "changePct": -4.55,
+      "changeDollar": -0.53
+    },
+    {
+      "ticker": "EIX",
+      "name": "Edison International",
+      "sector": "Utilities",
+      "price": 71.59,
+      "changePct": -4.11,
+      "changeDollar": -3.07
     }
   ],
   "dollarGainers": [
+    {
+      "ticker": "HOOD",
+      "name": "Robinhood Markets, Inc.",
+      "sector": "Finance",
+      "price": 108.13,
+      "changePct": 13.7,
+      "changeDollar": 13.03
+    },
+    {
+      "ticker": "DK",
+      "name": "Delek US Holdings, Inc.",
+      "sector": "Energy minerals",
+      "price": 71.47,
+      "changePct": 11.6,
+      "changeDollar": 7.43
+    },
+    {
+      "ticker": "VIRT",
+      "name": "Virtu Financial, Inc.",
+      "sector": "Finance",
+      "price": 67.93,
+      "changePct": 11.01,
+      "changeDollar": 6.74
+    },
+    {
+      "ticker": "HQ",
+      "name": "Horizon Quantum Holdings Ltd.",
+      "sector": "Technology services",
+      "price": 19.93,
+      "changePct": 14.54,
+      "changeDollar": 2.53
+    },
     {
       "ticker": "ARCT",
       "name": "Arcturus Therapeutics Holdings Inc.",
@@ -171,41 +203,41 @@
       "price": 13.45,
       "changePct": 22.38,
       "changeDollar": 2.46
-    },
-    {
-      "ticker": "CRML",
-      "name": "Critical Metals Corp.",
-      "sector": "Non-energy minerals",
-      "price": 7.11,
-      "changePct": 22.59,
-      "changeDollar": 1.31
-    },
-    {
-      "ticker": "AARD",
-      "name": "Aardvark Therapeutics, Inc.",
-      "sector": "Health technology",
-      "price": 6.82,
-      "changePct": 15.79,
-      "changeDollar": 0.93
-    },
-    {
-      "ticker": "DTCX",
-      "name": "Datacentrex, Inc.",
-      "sector": "Technology services",
-      "price": 2.62,
-      "changePct": 29.7,
-      "changeDollar": 0.6
-    },
-    {
-      "ticker": "ANY",
-      "name": "Sphere 3D Corp.",
-      "sector": "Technology services",
-      "price": 2.61,
-      "changePct": 29.21,
-      "changeDollar": 0.59
     }
   ],
   "dollarLosers": [
+    {
+      "ticker": "MRVL",
+      "name": "Marvell Technology, Inc.",
+      "sector": "Electronic technology",
+      "price": 237.04,
+      "changePct": -5.57,
+      "changeDollar": -13.97
+    },
+    {
+      "ticker": "CBRS",
+      "name": "Cerebras Systems Inc.",
+      "sector": "Technology services",
+      "price": 196.13,
+      "changePct": -6.54,
+      "changeDollar": -13.72
+    },
+    {
+      "ticker": "HUT",
+      "name": "Hut 8 Corp.",
+      "sector": "Technology services",
+      "price": 80.86,
+      "changePct": -8.79,
+      "changeDollar": -7.79
+    },
+    {
+      "ticker": "EIX",
+      "name": "Edison International",
+      "sector": "Utilities",
+      "price": 71.59,
+      "changePct": -4.11,
+      "changeDollar": -3.07
+    },
     {
       "ticker": "CIFR",
       "name": "Cipher Digital Inc.",
@@ -213,38 +245,6 @@
       "price": 15.77,
       "changePct": -8.37,
       "changeDollar": -1.44
-    },
-    {
-      "ticker": "ZIP",
-      "name": "ZipRecruiter, Inc.",
-      "sector": "Technology services",
-      "price": 4.21,
-      "changePct": -18.57,
-      "changeDollar": -0.96
-    },
-    {
-      "ticker": "CCOI",
-      "name": "Cogent Communications Holdings, Inc.",
-      "sector": "Communications",
-      "price": 9.17,
-      "changePct": -8.21,
-      "changeDollar": -0.82
-    },
-    {
-      "ticker": "NUAI",
-      "name": "New Era Energy & Digital, Inc.",
-      "sector": "Industrial services",
-      "price": 4.86,
-      "changePct": -12.93,
-      "changeDollar": -0.72
-    },
-    {
-      "ticker": "IOVA",
-      "name": "Iovance Biotherapeutics, Inc.",
-      "sector": "Health technology",
-      "price": 8.29,
-      "changePct": -7.79,
-      "changeDollar": -0.7
     }
   ]
 }

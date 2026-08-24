@@ -1,7 +1,14 @@
 {
   "signals": {
-    "last_updated": "2026-08-24 04:58:17 UTC",
-    "optionable_stocks": 2863,
-    "successfully_priced": 2491
+    "last_updated": "2026-08-24 06:32:45 UTC",
+    "filter_counts": {
+      "total": 2863,
+      "no_data": 0,
+      "bad_values": 315,
+      "zero_change": 68,
+      "below_min_price": 663,
+      "below_min_volume": 644,
+      "passed": 1173
+    }
   }
 }
