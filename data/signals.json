@@ -49,14 +49,6 @@
       "changeDollar": 2.46
     },
     {
-      "ticker": "CYPH",
-      "name": "Cypherpunk Technologies Inc.",
-      "sector": "Health technology",
-      "price": 1.42,
-      "changePct": 19.33,
-      "changeDollar": 0.23
-    },
-    {
       "ticker": "CTSO",
       "name": "Cytosorbents Corporation",
       "sector": "Health technology",
@@ -79,6 +71,14 @@
       "price": 1.08,
       "changePct": 16.08,
       "changeDollar": 0.15
+    },
+    {
+      "ticker": "AARD",
+      "name": "Aardvark Therapeutics, Inc.",
+      "sector": "Health technology",
+      "price": 6.82,
+      "changePct": 15.79,
+      "changeDollar": 0.93
     }
   ],
   "topLosers": [
@@ -97,14 +97,6 @@
       "price": 4.21,
       "changePct": -18.57,
       "changeDollar": -0.96
-    },
-    {
-      "ticker": "RCON",
-      "name": "Recon Technology, Ltd.",
-      "sector": "Distribution services",
-      "price": 3.08,
-      "changePct": -14.92,
-      "changeDollar": -0.54
     },
     {
       "ticker": "NUAI",
@@ -131,22 +123,6 @@
       "changeDollar": -0.06
     },
     {
-      "ticker": "NFE",
-      "name": "New Fortress Energy Inc.",
-      "sector": "Utilities",
-      "price": 0.28,
-      "changePct": -10.0,
-      "changeDollar": -0.03
-    },
-    {
-      "ticker": "HUT",
-      "name": "Hut 8 Corp.",
-      "sector": "Technology services",
-      "price": 80.86,
-      "changePct": -8.79,
-      "changeDollar": -7.79
-    },
-    {
       "ticker": "ACH",
       "name": "Accendra Health, Inc.",
       "sector": "Health technology",
@@ -161,6 +137,30 @@
       "price": 15.77,
       "changePct": -8.37,
       "changeDollar": -1.44
+    },
+    {
+      "ticker": "CCOI",
+      "name": "Cogent Communications Holdings, Inc.",
+      "sector": "Communications",
+      "price": 9.17,
+      "changePct": -8.21,
+      "changeDollar": -0.82
+    },
+    {
+      "ticker": "IOVA",
+      "name": "Iovance Biotherapeutics, Inc.",
+      "sector": "Health technology",
+      "price": 8.29,
+      "changePct": -7.79,
+      "changeDollar": -0.7
+    },
+    {
+      "ticker": "DMRC",
+      "name": "Digimarc Corporation",
+      "sector": "Technology services",
+      "price": 6.15,
+      "changePct": -7.1,
+      "changeDollar": -0.47
     }
   ],
   "dollarGainers": [
@@ -181,6 +181,14 @@
       "changeDollar": 1.31
     },
     {
+      "ticker": "AARD",
+      "name": "Aardvark Therapeutics, Inc.",
+      "sector": "Health technology",
+      "price": 6.82,
+      "changePct": 15.79,
+      "changeDollar": 0.93
+    },
+    {
       "ticker": "DTCX",
       "name": "Datacentrex, Inc.",
       "sector": "Technology services",
@@ -195,25 +203,9 @@
       "price": 2.61,
       "changePct": 29.21,
       "changeDollar": 0.59
-    },
-    {
-      "ticker": "HOWL",
-      "name": "Werewolf Therapeutics, Inc.",
-      "sector": "Health technology",
-      "price": 0.87,
-      "changePct": 102.09,
-      "changeDollar": 0.44
     }
   ],
   "dollarLosers": [
-    {
-      "ticker": "HUT",
-      "name": "Hut 8 Corp.",
-      "sector": "Technology services",
-      "price": 80.86,
-      "changePct": -8.79,
-      "changeDollar": -7.79
-    },
     {
       "ticker": "CIFR",
       "name": "Cipher Digital Inc.",
@@ -231,6 +223,14 @@
       "changeDollar": -0.96
     },
     {
+      "ticker": "CCOI",
+      "name": "Cogent Communications Holdings, Inc.",
+      "sector": "Communications",
+      "price": 9.17,
+      "changePct": -8.21,
+      "changeDollar": -0.82
+    },
+    {
       "ticker": "NUAI",
       "name": "New Era Energy & Digital, Inc.",
       "sector": "Industrial services",
@@ -239,12 +239,12 @@
       "changeDollar": -0.72
     },
     {
-      "ticker": "RCON",
-      "name": "Recon Technology, Ltd.",
-      "sector": "Distribution services",
-      "price": 3.08,
-      "changePct": -14.92,
-      "changeDollar": -0.54
+      "ticker": "IOVA",
+      "name": "Iovance Biotherapeutics, Inc.",
+      "sector": "Health technology",
+      "price": 8.29,
+      "changePct": -7.79,
+      "changeDollar": -0.7
     }
   ]
 }

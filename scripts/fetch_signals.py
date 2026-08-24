@@ -91,7 +91,7 @@ def filter_top_dollar(results, gainers=True):
     if gainers:
         sorted_list = sorted(results, key=lambda x: x['changeDollar'], reverse=True)
     else:
-        sorted_list = sorted(results, key=lambda x: x['changeDollar'])
+        sorted_list = sorted(results, key=lambda x: abs(x['changeDollar']), reverse=True)
     return sorted_list[:TOP_N]
 
 def update_metadata(total_optionable, total_processed):

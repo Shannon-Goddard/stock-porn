@@ -415,14 +415,18 @@
         return;
       }
       const sign = isGain ? '+' : '';
-      tbody.innerHTML = data.map(r => `
+      tbody.innerHTML = data.map(r => {
+        const absDollar = Math.abs(r.changeDollar);
+        const absPct = Math.abs(r.changePct);
+        return `
         <tr>
           <td class="ticker">${r.ticker}</td>
           <td class="name" title="${r.name}">${r.name}</td>
           <td class="price right">$${r.price}</td>
-          <td class="${isGain ? 'positive' : 'negative'} right">${sign}${r.changePct}%</td>
-          <td class="${isGain ? 'positive' : 'negative'} right">${sign}$${r.changeDollar}</td>
-        </tr>`).join('');
+          <td class="${isGain ? 'positive' : 'negative'} right">${isGain ? '+' : '-'}${absPct}%</td>
+          <td class="${isGain ? 'positive' : 'negative'} right">${isGain ? '+' : '-'}$${absDollar}</td>
+        </tr>`;
+      }).join('');
     }
 
     // Load data
