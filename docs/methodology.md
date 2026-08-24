@@ -259,6 +259,42 @@ is more valuable than any generic signal.
 
 ---
 
+## Signal Quality Filters
+
+Before any stock appears in the signal output, it must pass two filters.
+These are applied in `fetch_signals.py` at parse time.
+
+```
+Minimum price:  $10.00
+Minimum volume: 500,000 shares/day (2-day average)
+```
+
+**Why $10 price floor:**
+Options are priced in $100/contract increments per $1 of underlying move.
+A $1 ITM move on a $10 stock = $100 gain — the minimum actionable unit.
+Sub-$10 stocks have wide bid/ask spreads, low open interest, and
+are frequently untradeable even when options technically exist.
+Penny stocks and micro-caps inflate % move lists without being actionable.
+
+Market cap was considered and rejected as a filter.
+Market cap penalizes legitimate emerging companies with real momentum.
+A $500M cap floor would have excluded early-stage names that later became
+the best trades on the list. Price + volume captures liquidity directly
+without penalizing growth.
+
+**Why 500,000 daily volume floor:**
+Options open interest and bid/ask tightness are downstream of stock volume.
+A stock trading 50,000 shares/day will have options with spreads so wide
+you lose money on entry. 500K is the practical floor where options
+become liquid enough to get a fair fill on a $100/contract trade.
+
+**What these filters do NOT do:**
+They do not guarantee options liquidity — always verify open interest
+and bid/ask spread in your broker before entering.
+They are a first-pass quality gate, not a substitute for due diligence.
+
+---
+
 ## The 15-Year Watchlist Principle
 
 No algorithm replaces knowing which stocks are "well behaved" —

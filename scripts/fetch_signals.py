@@ -12,6 +12,8 @@ METADATA_FILE = os.path.join(DATA_DIR, 'metadata.json')
 
 TOP_N_PCT = 10   # top 10 by percent move
 TOP_N = 5        # top 5 by dollar move
+MIN_PRICE = 10.00       # options liquidity floor — sub-$10 spreads are untradeable
+MIN_AVG_VOLUME = 500000 # daily volume floor — low volume = no options open interest
 
 def load_optionable():
     stocks = {}
@@ -41,6 +43,15 @@ def fetch_prices(tickers):
 
 def parse_prices(raw, tickers, stock_info):
     results = []
+    counts = {
+        'total': len(tickers),
+        'no_data': 0,
+        'bad_values': 0,
+        'zero_change': 0,
+        'below_min_price': 0,
+        'below_min_volume': 0,
+        'passed': 0
+    }
     for ticker in tickers:
         try:
             if len(tickers) == 1:
@@ -49,24 +60,33 @@ def parse_prices(raw, tickers, stock_info):
                 df = raw[ticker]
 
             if df is None or len(df) < 2:
+                counts['no_data'] += 1
                 continue
 
             prev_close = float(df['Close'].iloc[-2])
             curr_close = float(df['Close'].iloc[-1])
 
-            # Skip nan or zero values — rate limited or missing data
-            if math.isnan(prev_close) or math.isnan(curr_close):
-                continue
-            if prev_close == 0 or curr_close == 0:
+            if math.isnan(prev_close) or math.isnan(curr_close) or prev_close == 0 or curr_close == 0:
+                counts['bad_values'] += 1
                 continue
 
             change_dollar = round(curr_close - prev_close, 2)
             change_pct = round((change_dollar / prev_close) * 100, 2)
 
-            # Skip if change is exactly zero — likely bad/missing data
             if change_dollar == 0.0:
+                counts['zero_change'] += 1
                 continue
 
+            # Quality filters — see docs/methodology.md Signal Quality Filters section
+            if curr_close < MIN_PRICE:
+                counts['below_min_price'] += 1
+                continue
+            avg_vol = df['Volume'].mean()
+            if math.isnan(avg_vol) or avg_vol < MIN_AVG_VOLUME:
+                counts['below_min_volume'] += 1
+                continue
+
+            counts['passed'] += 1
             results.append({
                 'ticker': ticker,
                 'name': stock_info[ticker]['name'],
@@ -76,9 +96,10 @@ def parse_prices(raw, tickers, stock_info):
                 'changeDollar': change_dollar
             })
         except Exception:
+            counts['no_data'] += 1
             continue
 
-    return results
+    return results, counts
 
 def filter_top_pct(results, gainers=True):
     if gainers:
@@ -94,7 +115,7 @@ def filter_top_dollar(results, gainers=True):
         sorted_list = sorted(results, key=lambda x: abs(x['changeDollar']), reverse=True)
     return sorted_list[:TOP_N]
 
-def update_metadata(total_optionable, total_processed):
+def update_metadata(filter_counts):
     try:
         with open(METADATA_FILE, 'r', encoding='utf-8') as f:
             metadata = json.load(f)
@@ -103,8 +124,7 @@ def update_metadata(total_optionable, total_processed):
 
     metadata['signals'] = {
         'last_updated': datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S UTC'),
-        'optionable_stocks': total_optionable,
-        'successfully_priced': total_processed
+        'filter_counts': filter_counts
     }
 
     with open(METADATA_FILE, 'w', encoding='utf-8') as f:
@@ -120,8 +140,8 @@ def main():
     raw = fetch_prices(tickers)
 
     # Parse into usable list
-    results = parse_prices(raw, tickers, stock_info)
-    print(f"Successfully priced: {len(results)} stocks")
+    results, counts = parse_prices(raw, tickers, stock_info)
+    print(f"Filter counts: {counts}")
 
     if not results:
         print("No data returned — market may be closed or API issue")
@@ -152,7 +172,7 @@ def main():
     print(f"Signals saved to data/signals.json")
 
     # Update metadata timestamp
-    update_metadata(len(tickers), len(results))
+    update_metadata(counts)
     print(f"Metadata updated")
 
 if __name__ == '__main__':
