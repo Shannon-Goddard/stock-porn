@@ -1,28 +1,20 @@
 {
   "topGainers": [
     {
-      "ticker": "AA",
-      "name": "Alcoa Corporation",
-      "sector": "Non-energy minerals",
-      "price": 51.85,
-      "changePct": 2.57,
-      "changeDollar": 1.3
-    },
-    {
-      "ticker": "AAL",
-      "name": "American Airlines Group, Inc.",
-      "sector": "Transportation",
-      "price": 13.82,
-      "changePct": 2.22,
-      "changeDollar": 0.3
-    },
-    {
       "ticker": "A",
       "name": "Agilent Technologies, Inc.",
       "sector": "Health technology",
-      "price": 159.0,
-      "changePct": 1.73,
-      "changeDollar": 2.7
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
+    },
+    {
+      "ticker": "AADX",
+      "name": "Applied Aerospace & Defense, Inc.",
+      "sector": "Electronic technology",
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
     },
     {
       "ticker": "AAMI",
@@ -36,17 +28,9 @@
       "ticker": "AAOI",
       "name": "Applied Optoelectronics, Inc.",
       "sector": "Electronic technology",
-      "price": 124.82,
-      "changePct": -3.32,
-      "changeDollar": -4.28
-    },
-    {
-      "ticker": "AADX",
-      "name": "Applied Aerospace & Defense, Inc.",
-      "sector": "Electronic technology",
-      "price": 14.96,
-      "changePct": -3.48,
-      "changeDollar": -0.54
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
     },
     {
       "ticker": "AAP",
@@ -60,17 +44,41 @@
       "ticker": "AAPL",
       "name": "Apple Inc.",
       "sector": "Electronic technology",
-      "price": 309.35,
-      "changePct": -0.63,
-      "changeDollar": -1.95
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
+    },
+    {
+      "ticker": "CTSO",
+      "name": "Cytosorbents Corporation",
+      "sector": "Health technology",
+      "price": 0.37,
+      "changePct": 19.29,
+      "changeDollar": 0.06
     },
     {
       "ticker": "AARD",
       "name": "Aardvark Therapeutics, Inc.",
       "sector": "Health technology",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
+      "price": 6.82,
+      "changePct": 15.79,
+      "changeDollar": 0.93
+    },
+    {
+      "ticker": "ACDC",
+      "name": "ProFrac Holding Corp.",
+      "sector": "Industrial services",
+      "price": 4.83,
+      "changePct": 8.78,
+      "changeDollar": 0.39
+    },
+    {
+      "ticker": "AAL",
+      "name": "American Airlines Group, Inc.",
+      "sector": "Transportation",
+      "price": 13.82,
+      "changePct": 2.22,
+      "changeDollar": 0.3
     },
     {
       "ticker": "AAT",
@@ -81,57 +89,41 @@
       "changeDollar": NaN
     },
     {
-      "ticker": "AB",
-      "name": "AllianceBernstein Holding L.P.",
-      "sector": "Finance",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
-    },
-    {
       "ticker": "ABAT",
       "name": "American Battery Technology Company",
       "sector": "Non-energy minerals",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
+      "price": 2.57,
+      "changePct": 10.3,
+      "changeDollar": 0.24
     },
     {
-      "ticker": "ABBV",
-      "name": "AbbVie Inc.",
-      "sector": "Health technology",
-      "price": 264.96,
-      "changePct": 1.2,
-      "changeDollar": 3.13
+      "ticker": "AA",
+      "name": "Alcoa Corporation",
+      "sector": "Non-energy minerals",
+      "price": 51.85,
+      "changePct": 2.57,
+      "changeDollar": 1.3
     },
     {
       "ticker": "ABCB",
       "name": "Ameris Bancorp",
       "sector": "Finance",
-      "price": 86.2,
-      "changePct": 0.09,
-      "changeDollar": 0.08
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
     },
     {
       "ticker": "ABCL",
       "name": "AbCellera Biologics Inc.",
-      "sector": "Health technology",
-      "price": 11.32,
-      "changePct": -2.16,
-      "changeDollar": -0.25
-    },
-    {
-      "ticker": "ABEO",
-      "name": "Abeona Therapeutics Inc.",
       "sector": "Health technology",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
     },
     {
-      "ticker": "ABG",
-      "name": "Asbury Automotive Group Inc",
-      "sector": "Retail trade",
+      "ticker": "ABEO",
+      "name": "Abeona Therapeutics Inc.",
+      "sector": "Health technology",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
@@ -153,30 +145,6 @@
       "changeDollar": NaN
     },
     {
-      "ticker": "ABR",
-      "name": "Arbor Realty Trust",
-      "sector": "Finance",
-      "price": 5.19,
-      "changePct": 0.19,
-      "changeDollar": 0.01
-    },
-    {
-      "ticker": "ABSI",
-      "name": "Absci Corporation",
-      "sector": "Health technology",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
-    },
-    {
-      "ticker": "ABT",
-      "name": "Abbott Laboratories",
-      "sector": "Health technology",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
-    },
-    {
       "ticker": "ABUS",
       "name": "Arbutus Biopharma Corporation",
       "sector": "Health technology",
@@ -185,17 +153,25 @@
       "changeDollar": 0.44
     },
     {
+      "ticker": "ABSI",
+      "name": "Absci Corporation",
+      "sector": "Health technology",
+      "price": 9.55,
+      "changePct": 2.91,
+      "changeDollar": 0.27
+    },
+    {
+      "ticker": "ABT",
+      "name": "Abbott Laboratories",
+      "sector": "Health technology",
+      "price": 116.64,
+      "changePct": 2.19,
+      "changeDollar": 2.5
+    },
+    {
       "ticker": "ABX",
       "name": "Abacus Global Management, Inc.",
       "sector": "Finance",
-      "price": 9.66,
-      "changePct": 5.46,
-      "changeDollar": 0.5
-    },
-    {
-      "ticker": "ACA",
-      "name": "Arcosa, Inc.",
-      "sector": "Non-energy minerals",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
@@ -204,17 +180,49 @@
       "ticker": "ACCO",
       "name": "Acco Brands Corporation",
       "sector": "Producer manufacturing",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
+      "price": 4.24,
+      "changePct": 1.93,
+      "changeDollar": 0.08
     },
     {
-      "ticker": "ACDC",
-      "name": "ProFrac Holding Corp.",
-      "sector": "Industrial services",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
+      "ticker": "ABBV",
+      "name": "AbbVie Inc.",
+      "sector": "Health technology",
+      "price": 264.96,
+      "changePct": 1.2,
+      "changeDollar": 3.13
+    },
+    {
+      "ticker": "AB",
+      "name": "AllianceBernstein Holding L.P.",
+      "sector": "Finance",
+      "price": 36.26,
+      "changePct": 0.67,
+      "changeDollar": 0.24
+    },
+    {
+      "ticker": "ABR",
+      "name": "Arbor Realty Trust",
+      "sector": "Finance",
+      "price": 5.19,
+      "changePct": 0.19,
+      "changeDollar": 0.01
+    },
+    {
+      "ticker": "ABG",
+      "name": "Asbury Automotive Group Inc",
+      "sector": "Retail trade",
+      "price": 214.81,
+      "changePct": -0.26,
+      "changeDollar": -0.56
+    },
+    {
+      "ticker": "ACA",
+      "name": "Arcosa, Inc.",
+      "sector": "Non-energy minerals",
+      "price": 144.9,
+      "changePct": -0.34,
+      "changeDollar": -0.5
     },
     {
       "ticker": "ACEL",
@@ -223,14 +231,6 @@
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
-    },
-    {
-      "ticker": "ACET",
-      "name": "Adicet Bio, Inc.",
-      "sector": "Health technology",
-      "price": 9.19,
-      "changePct": -2.03,
-      "changeDollar": -0.19
     },
     {
       "ticker": "ACGL",
@@ -252,17 +252,17 @@
       "ticker": "ACHC",
       "name": "Acadia Healthcare Company, Inc.",
       "sector": "Health services",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
+      "price": 27.82,
+      "changePct": 3.15,
+      "changeDollar": 0.85
     },
     {
       "ticker": "ACHR",
       "name": "Archer Aviation Inc.",
       "sector": "Electronic technology",
-      "price": 6.3,
-      "changePct": 3.45,
-      "changeDollar": 0.21
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
     },
     {
       "ticker": "ACHV",
@@ -281,17 +281,33 @@
       "changeDollar": NaN
     },
     {
-      "ticker": "ACLS",
-      "name": "Axcelis Technologies, Inc.",
-      "sector": "Producer manufacturing",
+      "ticker": "ACIC",
+      "name": "American Coastal Insurance Corporation",
+      "sector": "Finance",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
     },
     {
+      "ticker": "ACLS",
+      "name": "Axcelis Technologies, Inc.",
+      "sector": "Producer manufacturing",
+      "price": 127.07,
+      "changePct": 1.68,
+      "changeDollar": 2.1
+    },
+    {
       "ticker": "ACN",
       "name": "Accenture plc",
       "sector": "Technology services",
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
+    },
+    {
+      "ticker": "ACNT",
+      "name": "Ascent Industries Co.",
+      "sector": "Process industries",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
@@ -308,46 +324,14 @@
       "ticker": "ACRE",
       "name": "Ares Commercial Real Estate Corporation",
       "sector": "Finance",
-      "price": 4.77,
-      "changePct": 1.27,
-      "changeDollar": 0.06
-    },
-    {
-      "ticker": "ACRS",
-      "name": "Aclaris Therapeutics, Inc.",
-      "sector": "Health technology",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
     },
     {
-      "ticker": "ACT",
-      "name": "Enact Holdings, Inc.",
-      "sector": "Finance",
-      "price": 49.19,
-      "changePct": 0.14,
-      "changeDollar": 0.07
-    },
-    {
-      "ticker": "ACIC",
-      "name": "American Coastal Insurance Corporation",
-      "sector": "Finance",
-      "price": 9.18,
-      "changePct": -0.33,
-      "changeDollar": -0.03
-    },
-    {
-      "ticker": "ACNT",
-      "name": "Ascent Industries Co.",
-      "sector": "Process industries",
-      "price": 14.72,
-      "changePct": -1.93,
-      "changeDollar": -0.29
-    },
-    {
-      "ticker": "ACTG",
-      "name": "Acacia Research Corporation",
-      "sector": "Commercial services",
+      "ticker": "ACRS",
+      "name": "Aclaris Therapeutics, Inc.",
+      "sector": "Health technology",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
@@ -361,14 +345,6 @@
       "changeDollar": NaN
     },
     {
-      "ticker": "ADAM",
-      "name": "Adamas Trust, Inc.",
-      "sector": "Finance",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
-    },
-    {
       "ticker": "ADBE",
       "name": "Adobe Inc.",
       "sector": "Technology services",
@@ -377,36 +353,36 @@
       "changeDollar": NaN
     },
     {
+      "ticker": "ADM",
+      "name": "Archer-Daniels-Midland Company",
+      "sector": "Process industries",
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
+    },
+    {
+      "ticker": "ADNT",
+      "name": "Adient plc",
+      "sector": "Producer manufacturing",
+      "price": 20.01,
+      "changePct": 2.67,
+      "changeDollar": 0.52
+    },
+    {
+      "ticker": "ADI",
+      "name": "Analog Devices, Inc.",
+      "sector": "Electronic technology",
+      "price": 373.09,
+      "changePct": 0.77,
+      "changeDollar": 2.85
+    },
+    {
       "ticker": "ADC",
       "name": "Agree Realty Corporation",
       "sector": "Finance",
       "price": 73.88,
       "changePct": -0.77,
       "changeDollar": -0.57
-    },
-    {
-      "ticker": "ADI",
-      "name": "Analog Devices, Inc.",
-      "sector": "Electronic technology",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
-    },
-    {
-      "ticker": "ADM",
-      "name": "Archer-Daniels-Midland Company",
-      "sector": "Process industries",
-      "price": 80.3,
-      "changePct": -1.71,
-      "changeDollar": -1.4
-    },
-    {
-      "ticker": "ADNT",
-      "name": "Adient plc",
-      "sector": "Producer manufacturing",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
     },
     {
       "ticker": "ADP",
@@ -433,17 +409,25 @@
       "changeDollar": NaN
     },
     {
-      "ticker": "ADUS",
-      "name": "Addus HomeCare Corporation",
-      "sector": "Health services",
+      "ticker": "AEE",
+      "name": "Ameren Corporation",
+      "sector": "Utilities",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
     },
     {
-      "ticker": "ADV",
-      "name": "Advantage Solutions Inc.",
-      "sector": "Commercial services",
+      "ticker": "AEHR",
+      "name": "Aehr Test Systems",
+      "sector": "Electronic technology",
+      "price": 101.73,
+      "changePct": -4.0,
+      "changeDollar": -4.24
+    },
+    {
+      "ticker": "AEIS",
+      "name": "Advanced Energy Industries, Inc.",
+      "sector": "Electronic technology",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
@@ -457,9 +441,25 @@
       "changeDollar": 0.17
     },
     {
-      "ticker": "AES",
-      "name": "The AES Corporation",
-      "sector": "Utilities",
+      "ticker": "ADUS",
+      "name": "Addus HomeCare Corporation",
+      "sector": "Health services",
+      "price": 120.81,
+      "changePct": 0.22,
+      "changeDollar": 0.26
+    },
+    {
+      "ticker": "AER",
+      "name": "AerCap Holdings N.V.",
+      "sector": "Finance",
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
+    },
+    {
+      "ticker": "AESI",
+      "name": "Atlas Energy Solutions Inc.",
+      "sector": "Industrial services",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
@@ -473,20 +473,28 @@
       "changeDollar": 0.06
     },
     {
-      "ticker": "AER",
-      "name": "AerCap Holdings N.V.",
+      "ticker": "ACT",
+      "name": "Enact Holdings, Inc.",
       "sector": "Finance",
-      "price": 146.29,
-      "changePct": -0.34,
-      "changeDollar": -0.5
+      "price": 49.19,
+      "changePct": 0.14,
+      "changeDollar": 0.07
     },
     {
-      "ticker": "AEVA",
-      "name": "Aeva Technologies, Inc.",
-      "sector": "Electronic technology",
-      "price": 18.29,
-      "changePct": -3.07,
-      "changeDollar": -0.58
+      "ticker": "ADAM",
+      "name": "Adamas Trust, Inc.",
+      "sector": "Finance",
+      "price": 9.94,
+      "changePct": 0.1,
+      "changeDollar": 0.01
+    },
+    {
+      "ticker": "ACTG",
+      "name": "Acacia Research Corporation",
+      "sector": "Commercial services",
+      "price": 4.51,
+      "changePct": 0.0,
+      "changeDollar": 0.0
     },
     {
       "ticker": "AEYE",
@@ -497,6 +505,30 @@
       "changeDollar": NaN
     },
     {
+      "ticker": "AFG",
+      "name": "American Financial Group, Inc.",
+      "sector": "Finance",
+      "price": 143.7,
+      "changePct": 0.03,
+      "changeDollar": 0.05
+    },
+    {
+      "ticker": "AES",
+      "name": "The AES Corporation",
+      "sector": "Utilities",
+      "price": 14.77,
+      "changePct": 0.0,
+      "changeDollar": 0.0
+    },
+    {
+      "ticker": "ADV",
+      "name": "Advantage Solutions Inc.",
+      "sector": "Commercial services",
+      "price": 34.38,
+      "changePct": -0.29,
+      "changeDollar": -0.1
+    },
+    {
       "ticker": "AFCG",
       "name": "Advanced Flower Capital Inc.",
       "sector": "Finance",
@@ -505,20 +537,12 @@
       "changeDollar": -0.05
     },
     {
-      "ticker": "AEIS",
-      "name": "Advanced Energy Industries, Inc.",
-      "sector": "Electronic technology",
-      "price": 285.83,
-      "changePct": -2.32,
-      "changeDollar": -6.79
-    },
-    {
-      "ticker": "AEE",
-      "name": "Ameren Corporation",
-      "sector": "Utilities",
-      "price": 106.13,
-      "changePct": -2.45,
-      "changeDollar": -2.66
+      "ticker": "ACET",
+      "name": "Adicet Bio, Inc.",
+      "sector": "Health technology",
+      "price": 9.19,
+      "changePct": -2.03,
+      "changeDollar": -0.19
     },
     {
       "ticker": "ADEA",
@@ -529,12 +553,12 @@
       "changeDollar": -0.72
     },
     {
-      "ticker": "AESI",
-      "name": "Atlas Energy Solutions Inc.",
-      "sector": "Industrial services",
-      "price": 12.58,
-      "changePct": -3.16,
-      "changeDollar": -0.41
+      "ticker": "AEVA",
+      "name": "Aeva Technologies, Inc.",
+      "sector": "Electronic technology",
+      "price": 18.29,
+      "changePct": -3.07,
+      "changeDollar": -0.58
     },
     {
       "ticker": "AEP",
@@ -545,36 +569,12 @@
       "changeDollar": -4.76
     },
     {
-      "ticker": "AEHR",
-      "name": "Aehr Test Systems",
-      "sector": "Electronic technology",
-      "price": 101.73,
-      "changePct": -4.0,
-      "changeDollar": -4.24
-    },
-    {
-      "ticker": "AFG",
-      "name": "American Financial Group, Inc.",
-      "sector": "Finance",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
-    },
-    {
       "ticker": "AFRM",
       "name": "Affirm Holdings, Inc.",
       "sector": "Finance",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
-    },
-    {
-      "ticker": "AGEN",
-      "name": "Agenus Inc.",
-      "sector": "Health technology",
-      "price": 8.09,
-      "changePct": 8.01,
-      "changeDollar": 0.6
     },
     {
       "ticker": "AFYA",
@@ -585,17 +585,17 @@
       "changeDollar": 0.45
     },
     {
-      "ticker": "AGIO",
-      "name": "Agios Pharmaceuticals, Inc.",
+      "ticker": "AGEN",
+      "name": "Agenus Inc.",
       "sector": "Health technology",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
     },
     {
-      "ticker": "AG",
-      "name": "Lagilon health, inc.",
-      "sector": "Health services",
+      "ticker": "AGIO",
+      "name": "Agios Pharmaceuticals, Inc.",
+      "sector": "Health technology",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
@@ -607,22 +607,6 @@
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
-    },
-    {
-      "ticker": "AGO",
-      "name": "Assured Guaranty Ltd.",
-      "sector": "Finance",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
-    },
-    {
-      "ticker": "AGRO",
-      "name": "Adecoagro S.A.",
-      "sector": "Process industries",
-      "price": 11.07,
-      "changePct": 1.19,
-      "changeDollar": 0.13
     },
     {
       "ticker": "AGX",
@@ -649,33 +633,17 @@
       "changeDollar": NaN
     },
     {
-      "ticker": "AIN",
-      "name": "Albany International Corporation",
-      "sector": "Process industries",
+      "ticker": "AHR",
+      "name": "American Healthcare REIT, Inc.",
+      "sector": "Finance",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
     },
     {
-      "ticker": "AIOT",
-      "name": "PowerFleet, Inc.",
-      "sector": "Technology services",
-      "price": 3.04,
-      "changePct": 0.66,
-      "changeDollar": 0.02
-    },
-    {
-      "ticker": "AIG",
-      "name": "American International Group, Inc. New",
-      "sector": "Finance",
-      "price": 76.12,
-      "changePct": 0.49,
-      "changeDollar": 0.37
-    },
-    {
-      "ticker": "AIP",
-      "name": "Arteris, Inc.",
-      "sector": "Electronic technology",
+      "ticker": "AIN",
+      "name": "Albany International Corporation",
+      "sector": "Process industries",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
@@ -705,20 +673,44 @@
       "changeDollar": NaN
     },
     {
-      "ticker": "AIT",
-      "name": "Applied Industrial Technologies, Inc.",
-      "sector": "Distribution services",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
+      "ticker": "AISP",
+      "name": "Airship AI Holdings, Inc",
+      "sector": "Technology services",
+      "price": 2.15,
+      "changePct": 5.91,
+      "changeDollar": 0.12
     },
     {
-      "ticker": "AIZ",
-      "name": "Assurant, Inc.",
+      "ticker": "AIRS",
+      "name": "AirSculpt Technologies, Inc.",
+      "sector": "Health technology",
+      "price": 2.74,
+      "changePct": 2.62,
+      "changeDollar": 0.07
+    },
+    {
+      "ticker": "AGRO",
+      "name": "Adecoagro S.A.",
+      "sector": "Process industries",
+      "price": 11.07,
+      "changePct": 1.19,
+      "changeDollar": 0.13
+    },
+    {
+      "ticker": "AGO",
+      "name": "Assured Guaranty Ltd.",
       "sector": "Finance",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
+      "price": 74.44,
+      "changePct": 0.22,
+      "changeDollar": 0.16
+    },
+    {
+      "ticker": "AG",
+      "name": "Lagilon health, inc.",
+      "sector": "Health services",
+      "price": 21.09,
+      "changePct": -0.47,
+      "changeDollar": -0.1
     },
     {
       "ticker": "AJG",
@@ -729,9 +721,9 @@
       "changeDollar": NaN
     },
     {
-      "ticker": "AKBA",
-      "name": "Akebia Therapeutics, Inc.",
-      "sector": "Health technology",
+      "ticker": "AKAM",
+      "name": "Akamai Technologies, Inc.",
+      "sector": "Technology services",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
@@ -740,6 +732,22 @@
       "ticker": "AKR",
       "name": "Acadia Realty Trust",
       "sector": "Finance",
+      "price": 21.05,
+      "changePct": 0.1,
+      "changeDollar": 0.02
+    },
+    {
+      "ticker": "AKBA",
+      "name": "Akebia Therapeutics, Inc.",
+      "sector": "Health technology",
+      "price": 0.91,
+      "changePct": -1.09,
+      "changeDollar": -0.01
+    },
+    {
+      "ticker": "AKTS",
+      "name": "Aktis Oncology, Inc.",
+      "sector": "Health technology",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
@@ -753,30 +761,6 @@
       "changeDollar": NaN
     },
     {
-      "ticker": "ALB",
-      "name": "Albemarle Corporation",
-      "sector": "Process industries",
-      "price": 143.25,
-      "changePct": 6.75,
-      "changeDollar": 9.06
-    },
-    {
-      "ticker": "AISP",
-      "name": "Airship AI Holdings, Inc",
-      "sector": "Technology services",
-      "price": 2.15,
-      "changePct": 5.91,
-      "changeDollar": 0.12
-    },
-    {
-      "ticker": "AKTS",
-      "name": "Aktis Oncology, Inc.",
-      "sector": "Health technology",
-      "price": 24.07,
-      "changePct": 0.29,
-      "changeDollar": 0.07
-    },
-    {
       "ticker": "ALDX",
       "name": "Aldeyra Therapeutics, Inc.",
       "sector": "Health technology",
@@ -788,22 +772,14 @@
       "ticker": "ALEC",
       "name": "Alector, Inc.",
       "sector": "Health technology",
-      "price": 2.36,
-      "changePct": 4.42,
-      "changeDollar": 0.1
-    },
-    {
-      "ticker": "ALG",
-      "name": "Alamo Group, Inc.",
-      "sector": "Producer manufacturing",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
     },
     {
-      "ticker": "ALGN",
-      "name": "Align Technology, Inc.",
-      "sector": "Health technology",
+      "ticker": "ALG",
+      "name": "Alamo Group, Inc.",
+      "sector": "Producer manufacturing",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
@@ -817,65 +793,25 @@
       "changeDollar": 5.44
     },
     {
-      "ticker": "AIRS",
-      "name": "AirSculpt Technologies, Inc.",
+      "ticker": "ALB",
+      "name": "Albemarle Corporation",
+      "sector": "Process industries",
+      "price": 143.25,
+      "changePct": 6.75,
+      "changeDollar": 9.06
+    },
+    {
+      "ticker": "ALGN",
+      "name": "Align Technology, Inc.",
       "sector": "Health technology",
-      "price": 2.74,
-      "changePct": 2.62,
-      "changeDollar": 0.07
-    },
-    {
-      "ticker": "ALH",
-      "name": "Alliance Laundry Holdings Inc.",
-      "sector": "Producer manufacturing",
-      "price": 23.47,
-      "changePct": 1.25,
-      "changeDollar": 0.29
-    },
-    {
-      "ticker": "AIV",
-      "name": "Apartment Investment and Management Company",
-      "sector": "Finance",
-      "price": 2.62,
-      "changePct": 0.38,
-      "changeDollar": 0.01
-    },
-    {
-      "ticker": "AKAM",
-      "name": "Akamai Technologies, Inc.",
-      "sector": "Technology services",
-      "price": 110.42,
-      "changePct": 0.3,
-      "changeDollar": 0.33
-    },
-    {
-      "ticker": "AHR",
-      "name": "American Healthcare REIT, Inc.",
-      "sector": "Finance",
-      "price": 55.93,
-      "changePct": 0.29,
-      "changeDollar": 0.16
-    },
-    {
-      "ticker": "ALHC",
-      "name": "Alignment Healthcare, Inc.",
-      "sector": "Health services",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
+      "price": 162.55,
+      "changePct": 2.27,
+      "changeDollar": 3.61
     },
     {
       "ticker": "ALK",
       "name": "Alaska Air Group, Inc.",
       "sector": "Transportation",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
-    },
-    {
-      "ticker": "ALKS",
-      "name": "Alkermes plc",
-      "sector": "Health technology",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
@@ -889,12 +825,84 @@
       "changeDollar": 0.47
     },
     {
+      "ticker": "ALHC",
+      "name": "Alignment Healthcare, Inc.",
+      "sector": "Health services",
+      "price": 13.16,
+      "changePct": 1.78,
+      "changeDollar": 0.23
+    },
+    {
+      "ticker": "ALH",
+      "name": "Alliance Laundry Holdings Inc.",
+      "sector": "Producer manufacturing",
+      "price": 23.47,
+      "changePct": 1.25,
+      "changeDollar": 0.29
+    },
+    {
+      "ticker": "AIZ",
+      "name": "Assurant, Inc.",
+      "sector": "Finance",
+      "price": 284.04,
+      "changePct": 0.72,
+      "changeDollar": 2.04
+    },
+    {
+      "ticker": "AIOT",
+      "name": "PowerFleet, Inc.",
+      "sector": "Technology services",
+      "price": 3.04,
+      "changePct": 0.66,
+      "changeDollar": 0.02
+    },
+    {
+      "ticker": "ALKS",
+      "name": "Alkermes plc",
+      "sector": "Health technology",
+      "price": 48.33,
+      "changePct": 0.65,
+      "changeDollar": 0.31
+    },
+    {
+      "ticker": "AIG",
+      "name": "American International Group, Inc. New",
+      "sector": "Finance",
+      "price": 76.12,
+      "changePct": 0.49,
+      "changeDollar": 0.37
+    },
+    {
+      "ticker": "AIT",
+      "name": "Applied Industrial Technologies, Inc.",
+      "sector": "Distribution services",
+      "price": 341.62,
+      "changePct": 0.38,
+      "changeDollar": 1.28
+    },
+    {
+      "ticker": "AIV",
+      "name": "Apartment Investment and Management Company",
+      "sector": "Finance",
+      "price": 2.62,
+      "changePct": 0.38,
+      "changeDollar": 0.01
+    },
+    {
       "ticker": "ALGM",
       "name": "Allegro MicroSystems, Inc.",
       "sector": "Electronic technology",
       "price": 37.16,
       "changePct": -0.08,
       "changeDollar": -0.03
+    },
+    {
+      "ticker": "AIP",
+      "name": "Arteris, Inc.",
+      "sector": "Electronic technology",
+      "price": 23.89,
+      "changePct": -0.29,
+      "changeDollar": -0.07
     },
     {
       "ticker": "ALL",
@@ -908,9 +916,9 @@
       "ticker": "ALLE",
       "name": "Allegion plc",
       "sector": "Consumer durables",
-      "price": 162.31,
-      "changePct": 0.36,
-      "changeDollar": 0.59
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
     },
     {
       "ticker": "ALLO",
@@ -924,6 +932,14 @@
       "ticker": "ALLT",
       "name": "Allot Ltd.",
       "sector": "Electronic technology",
+      "price": 7.48,
+      "changePct": 0.4,
+      "changeDollar": 0.03
+    },
+    {
+      "ticker": "ALLY",
+      "name": "Ally Financial Inc.",
+      "sector": "Finance",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
@@ -937,12 +953,12 @@
       "changeDollar": 0.82
     },
     {
-      "ticker": "ALLY",
-      "name": "Ally Financial Inc.",
-      "sector": "Finance",
-      "price": 42.93,
-      "changePct": 1.51,
-      "changeDollar": 0.64
+      "ticker": "ALMS",
+      "name": "Alumis Inc.",
+      "sector": "Health technology",
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
     },
     {
       "ticker": "ALNT",
@@ -961,6 +977,14 @@
       "changeDollar": NaN
     },
     {
+      "ticker": "ALRM",
+      "name": "Alarm.com Holdings, Inc.",
+      "sector": "Technology services",
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
+    },
+    {
       "ticker": "ALRS",
       "name": "Alerus Financial Corporation",
       "sector": "Finance",
@@ -969,17 +993,25 @@
       "changeDollar": NaN
     },
     {
+      "ticker": "ALSN",
+      "name": "Allison Transmission Holdings, Inc.",
+      "sector": "Producer manufacturing",
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
+    },
+    {
       "ticker": "ALT",
       "name": "Altimmune, Inc.",
       "sector": "Health technology",
-      "price": 3.11,
-      "changePct": 5.42,
-      "changeDollar": 0.16
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
     },
     {
-      "ticker": "ALTI",
-      "name": "AlTi Global, Inc.",
-      "sector": "Finance",
+      "ticker": "ALTG",
+      "name": "Alta Equipment Group Inc.",
+      "sector": "Distribution services",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
@@ -996,9 +1028,25 @@
       "ticker": "ALV",
       "name": "Autoliv, Inc.",
       "sector": "Producer manufacturing",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
+      "price": 125.37,
+      "changePct": 3.02,
+      "changeDollar": 3.68
+    },
+    {
+      "ticker": "ALTI",
+      "name": "AlTi Global, Inc.",
+      "sector": "Finance",
+      "price": 4.04,
+      "changePct": 0.25,
+      "changeDollar": 0.01
+    },
+    {
+      "ticker": "ALMU",
+      "name": "Aeluma, Inc.",
+      "sector": "Commercial services",
+      "price": 14.77,
+      "changePct": -1.01,
+      "changeDollar": -0.15
     },
     {
       "ticker": "AM",
@@ -1009,28 +1057,12 @@
       "changeDollar": NaN
     },
     {
-      "ticker": "AMAT",
-      "name": "Applied Materials, Inc.",
-      "sector": "Producer manufacturing",
+      "ticker": "AMAL",
+      "name": "Amalgamated Financial Corp.",
+      "sector": "Finance",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
-    },
-    {
-      "ticker": "AMBP",
-      "name": "Ardagh Metal Packaging S.A.",
-      "sector": "Process industries",
-      "price": 5.36,
-      "changePct": 2.1,
-      "changeDollar": 0.11
-    },
-    {
-      "ticker": "AMBQ",
-      "name": "Ambiq Micro, Inc.",
-      "sector": "Electronic technology",
-      "price": 59.02,
-      "changePct": 2.08,
-      "changeDollar": 1.2
     },
     {
       "ticker": "AMBA",
@@ -1041,20 +1073,52 @@
       "changeDollar": 1.28
     },
     {
+      "ticker": "AMAT",
+      "name": "Applied Materials, Inc.",
+      "sector": "Producer manufacturing",
+      "price": 492.32,
+      "changePct": -0.78,
+      "changeDollar": -3.89
+    },
+    {
+      "ticker": "AMBP",
+      "name": "Ardagh Metal Packaging S.A.",
+      "sector": "Process industries",
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
+    },
+    {
+      "ticker": "AMBQ",
+      "name": "Ambiq Micro, Inc.",
+      "sector": "Electronic technology",
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
+    },
+    {
       "ticker": "AMCR",
       "name": "Amcor plc",
       "sector": "Process industries",
-      "price": 48.59,
-      "changePct": 1.63,
-      "changeDollar": 0.78
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
+    },
+    {
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "sector": "Electronic technology",
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
     },
     {
       "ticker": "AMG",
       "name": "Affiliated Managers Group, Inc.",
       "sector": "Finance",
-      "price": 356.21,
-      "changePct": 1.02,
-      "changeDollar": 3.6
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
     },
     {
       "ticker": "AMGN",
@@ -1068,9 +1132,9 @@
       "ticker": "AMH",
       "name": "American Homes 4 Rent",
       "sector": "Finance",
-      "price": 34.35,
-      "changePct": -0.06,
-      "changeDollar": -0.02
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
     },
     {
       "ticker": "AMKR",
@@ -1081,20 +1145,12 @@
       "changeDollar": NaN
     },
     {
-      "ticker": "AMLX",
-      "name": "Amylyx Pharmaceuticals, Inc.",
-      "sector": "Health technology",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
-    },
-    {
       "ticker": "AMP",
       "name": "Ameriprise Financial, Inc.",
       "sector": "Finance",
-      "price": 555.59,
-      "changePct": 1.55,
-      "changeDollar": 8.5
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
     },
     {
       "ticker": "AMPG",
@@ -1105,36 +1161,12 @@
       "changeDollar": NaN
     },
     {
-      "ticker": "AMPX",
-      "name": "Amprius Technologies, Inc.",
-      "sector": "Producer manufacturing",
+      "ticker": "AMPH",
+      "name": "Amphastar Pharmaceuticals, Inc.",
+      "sector": "Health technology",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
-    },
-    {
-      "ticker": "AMR",
-      "name": "Alpha Metallurgical Resources, Inc.",
-      "sector": "Energy minerals",
-      "price": 210.01,
-      "changePct": 8.09,
-      "changeDollar": 15.71
-    },
-    {
-      "ticker": "ALMS",
-      "name": "Alumis Inc.",
-      "sector": "Health technology",
-      "price": 24.17,
-      "changePct": 5.73,
-      "changeDollar": 1.31
-    },
-    {
-      "ticker": "ALSN",
-      "name": "Allison Transmission Holdings, Inc.",
-      "sector": "Producer manufacturing",
-      "price": 133.23,
-      "changePct": 3.42,
-      "changeDollar": 4.4
     },
     {
       "ticker": "AMPL",
@@ -1145,57 +1177,33 @@
       "changeDollar": 0.36
     },
     {
-      "ticker": "ALTG",
-      "name": "Alta Equipment Group Inc.",
-      "sector": "Distribution services",
-      "price": 6.5,
-      "changePct": 1.4,
-      "changeDollar": 0.09
-    },
-    {
-      "ticker": "AMD",
-      "name": "Advanced Micro Devices, Inc.",
-      "sector": "Electronic technology",
-      "price": 473.25,
-      "changePct": 0.81,
-      "changeDollar": 3.79
-    },
-    {
-      "ticker": "AMAL",
-      "name": "Amalgamated Financial Corp.",
-      "sector": "Finance",
-      "price": 48.76,
-      "changePct": -0.25,
-      "changeDollar": -0.12
-    },
-    {
-      "ticker": "AMPH",
-      "name": "Amphastar Pharmaceuticals, Inc.",
-      "sector": "Health technology",
-      "price": 21.6,
-      "changePct": -0.37,
-      "changeDollar": -0.08
-    },
-    {
-      "ticker": "AMPY",
-      "name": "Amplify Energy Corp.",
-      "sector": "Energy minerals",
-      "price": 4.82,
-      "changePct": -1.83,
-      "changeDollar": -0.09
-    },
-    {
-      "ticker": "AMRC",
-      "name": "Ameresco, Inc.",
-      "sector": "Industrial services",
+      "ticker": "AMPX",
+      "name": "Amprius Technologies, Inc.",
+      "sector": "Producer manufacturing",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
     },
     {
-      "ticker": "AMRX",
-      "name": "Amneal Pharmaceuticals, Inc.",
-      "sector": "Health technology",
+      "ticker": "AMPY",
+      "name": "Amplify Energy Corp.",
+      "sector": "Energy minerals",
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
+    },
+    {
+      "ticker": "AMR",
+      "name": "Alpha Metallurgical Resources, Inc.",
+      "sector": "Energy minerals",
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
+    },
+    {
+      "ticker": "AMRC",
+      "name": "Ameresco, Inc.",
+      "sector": "Industrial services",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
@@ -1209,20 +1217,20 @@
       "changeDollar": 1.06
     },
     {
-      "ticker": "ALRM",
-      "name": "Alarm.com Holdings, Inc.",
-      "sector": "Technology services",
-      "price": 57.51,
-      "changePct": 0.79,
-      "changeDollar": 0.45
+      "ticker": "AMRX",
+      "name": "Amneal Pharmaceuticals, Inc.",
+      "sector": "Health technology",
+      "price": 17.91,
+      "changePct": 0.06,
+      "changeDollar": 0.01
     },
     {
-      "ticker": "ALMU",
-      "name": "Aeluma, Inc.",
-      "sector": "Commercial services",
-      "price": 14.77,
-      "changePct": -1.01,
-      "changeDollar": -0.15
+      "ticker": "AMLX",
+      "name": "Amylyx Pharmaceuticals, Inc.",
+      "sector": "Health technology",
+      "price": 38.66,
+      "changePct": -2.52,
+      "changeDollar": -1.0
     },
     {
       "ticker": "AMSC",
@@ -1244,17 +1252,17 @@
       "ticker": "AMTB",
       "name": "Amerant Bancorp Inc.",
       "sector": "Finance",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
+      "price": 28.69,
+      "changePct": 0.88,
+      "changeDollar": 0.25
     },
     {
       "ticker": "AMTM",
       "name": "Amentum Holdings, Inc.",
       "sector": "Electronic technology",
-      "price": 21.49,
-      "changePct": 4.27,
-      "changeDollar": 0.88
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
     },
     {
       "ticker": "AMTX",
@@ -1268,14 +1276,6 @@
       "ticker": "AMWL",
       "name": "American Well Corporation",
       "sector": "Technology services",
-      "price": 11.9,
-      "changePct": 0.93,
-      "changeDollar": 0.11
-    },
-    {
-      "ticker": "AMZN",
-      "name": "Amazon.com, Inc.",
-      "sector": "Retail trade",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
@@ -1287,6 +1287,14 @@
       "price": 199.49,
       "changePct": -0.3,
       "changeDollar": -0.6
+    },
+    {
+      "ticker": "AMZN",
+      "name": "Amazon.com, Inc.",
+      "sector": "Retail trade",
+      "price": 258.63,
+      "changePct": -0.57,
+      "changeDollar": -1.48
     },
     {
       "ticker": "ANAB",
@@ -1305,17 +1313,41 @@
       "changeDollar": NaN
     },
     {
-      "ticker": "ANGI",
-      "name": "Angi Inc.",
-      "sector": "Technology services",
+      "ticker": "ANET",
+      "name": "Arista Networks, Inc.",
+      "sector": "Electronic technology",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
     },
     {
+      "ticker": "ANF",
+      "name": "Abercrombie & Fitch Company",
+      "sector": "Retail trade",
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
+    },
+    {
+      "ticker": "ANGI",
+      "name": "Angi Inc.",
+      "sector": "Technology services",
+      "price": 4.92,
+      "changePct": 7.89,
+      "changeDollar": 0.36
+    },
+    {
       "ticker": "ANGO",
       "name": "AngioDynamics, Inc.",
       "sector": "Health technology",
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
+    },
+    {
+      "ticker": "ANGX",
+      "name": "Angel Studios, Inc.",
+      "sector": "Consumer services",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
@@ -1348,30 +1380,14 @@
       "ticker": "ANY",
       "name": "Sphere 3D Corp.",
       "sector": "Technology services",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
+      "price": 2.61,
+      "changePct": 29.21,
+      "changeDollar": 0.59
     },
     {
-      "ticker": "AORT",
-      "name": "Artivion, Inc.",
-      "sector": "Health technology",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
-    },
-    {
-      "ticker": "AOSL",
-      "name": "Alpha and Omega Semiconductor Limited",
-      "sector": "Electronic technology",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
-    },
-    {
-      "ticker": "AOUT",
-      "name": "American Outdoor Brands, Inc.",
-      "sector": "Consumer durables",
+      "ticker": "AON",
+      "name": "Aon plc",
+      "sector": "Finance",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
@@ -1385,9 +1401,9 @@
       "changeDollar": 0.36
     },
     {
-      "ticker": "APGE",
-      "name": "Apogee Therapeutics, Inc.",
-      "sector": "Health technology",
+      "ticker": "APEI",
+      "name": "American Public Education, Inc.",
+      "sector": "Consumer services",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
@@ -1401,17 +1417,33 @@
       "changeDollar": NaN
     },
     {
-      "ticker": "APLE",
-      "name": "Apple Hospitality REIT, Inc.",
-      "sector": "Finance",
+      "ticker": "APOG",
+      "name": "Apogee Enterprises, Inc.",
+      "sector": "Producer manufacturing",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
     },
     {
-      "ticker": "APOG",
-      "name": "Apogee Enterprises, Inc.",
-      "sector": "Producer manufacturing",
+      "ticker": "APP",
+      "name": "Applovin Corporation",
+      "sector": "Technology services",
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
+    },
+    {
+      "ticker": "APPF",
+      "name": "AppFolio, Inc.",
+      "sector": "Technology services",
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
+    },
+    {
+      "ticker": "APPN",
+      "name": "Appian Corporation",
+      "sector": "Technology services",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
@@ -1449,22 +1481,6 @@
       "changeDollar": NaN
     },
     {
-      "ticker": "ARAY",
-      "name": "Accuray Incorporated",
-      "sector": "Health technology",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
-    },
-    {
-      "ticker": "ARCC",
-      "name": "Ares Capital Corporation",
-      "sector": "Finance",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
-    },
-    {
       "ticker": "ARCT",
       "name": "Arcturus Therapeutics Holdings Inc.",
       "sector": "Health technology",
@@ -1481,14 +1497,6 @@
       "changeDollar": 0.51
     },
     {
-      "ticker": "ANF",
-      "name": "Abercrombie & Fitch Company",
-      "sector": "Retail trade",
-      "price": 109.01,
-      "changePct": 3.8,
-      "changeDollar": 3.99
-    },
-    {
       "ticker": "ARCB",
       "name": "ArcBest Corporation",
       "sector": "Transportation",
@@ -1503,38 +1511,6 @@
       "price": 3.12,
       "changePct": 2.97,
       "changeDollar": 0.09
-    },
-    {
-      "ticker": "APEI",
-      "name": "American Public Education, Inc.",
-      "sector": "Consumer services",
-      "price": 45.61,
-      "changePct": 2.75,
-      "changeDollar": 1.22
-    },
-    {
-      "ticker": "APPN",
-      "name": "Appian Corporation",
-      "sector": "Technology services",
-      "price": 38.3,
-      "changePct": 2.74,
-      "changeDollar": 1.02
-    },
-    {
-      "ticker": "ANET",
-      "name": "Arista Networks, Inc.",
-      "sector": "Electronic technology",
-      "price": 188.65,
-      "changePct": 2.67,
-      "changeDollar": 4.9
-    },
-    {
-      "ticker": "APPF",
-      "name": "AppFolio, Inc.",
-      "sector": "Technology services",
-      "price": 224.4,
-      "changePct": 2.54,
-      "changeDollar": 5.55
     },
     {
       "ticker": "APO",
@@ -1569,12 +1545,36 @@
       "changeDollar": 4.77
     },
     {
-      "ticker": "AON",
-      "name": "Aon plc",
+      "ticker": "APLE",
+      "name": "Apple Hospitality REIT, Inc.",
       "sector": "Finance",
-      "price": 355.11,
-      "changePct": 0.9,
-      "changeDollar": 3.18
+      "price": 16.67,
+      "changePct": 1.03,
+      "changeDollar": 0.17
+    },
+    {
+      "ticker": "ARCC",
+      "name": "Ares Capital Corporation",
+      "sector": "Finance",
+      "price": 19.92,
+      "changePct": 0.71,
+      "changeDollar": 0.14
+    },
+    {
+      "ticker": "AOSL",
+      "name": "Alpha and Omega Semiconductor Limited",
+      "sector": "Electronic technology",
+      "price": 26.39,
+      "changePct": 0.65,
+      "changeDollar": 0.17
+    },
+    {
+      "ticker": "AOUT",
+      "name": "American Outdoor Brands, Inc.",
+      "sector": "Consumer durables",
+      "price": 11.24,
+      "changePct": 0.63,
+      "changeDollar": 0.07
     },
     {
       "ticker": "APAM",
@@ -1585,6 +1585,14 @@
       "changeDollar": 0.21
     },
     {
+      "ticker": "AORT",
+      "name": "Artivion, Inc.",
+      "sector": "Health technology",
+      "price": 28.08,
+      "changePct": 0.36,
+      "changeDollar": 0.1
+    },
+    {
       "ticker": "ANRO",
       "name": "Alto Neuroscience, Inc.",
       "sector": "Health technology",
@@ -1593,20 +1601,12 @@
       "changeDollar": 0.03
     },
     {
-      "ticker": "ARDX",
-      "name": "Ardelyx, Inc.",
+      "ticker": "APGE",
+      "name": "Apogee Therapeutics, Inc.",
       "sector": "Health technology",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
-    },
-    {
-      "ticker": "ARE",
-      "name": "Alexandria Real Estate Equities, Inc.",
-      "sector": "Finance",
-      "price": 53.49,
-      "changePct": 1.04,
-      "changeDollar": 0.55
+      "price": 134.75,
+      "changePct": 0.0,
+      "changeDollar": 0.0
     },
     {
       "ticker": "APT",
@@ -1617,20 +1617,12 @@
       "changeDollar": 0.0
     },
     {
-      "ticker": "APP",
-      "name": "Applovin Corporation",
-      "sector": "Technology services",
-      "price": 305.77,
-      "changePct": -0.97,
-      "changeDollar": -3.0
-    },
-    {
-      "ticker": "ANGX",
-      "name": "Angel Studios, Inc.",
-      "sector": "Consumer services",
-      "price": 4.31,
-      "changePct": -1.37,
-      "changeDollar": -0.06
+      "ticker": "ARAY",
+      "name": "Accuray Incorporated",
+      "sector": "Health technology",
+      "price": 0.28,
+      "changePct": -3.45,
+      "changeDollar": -0.01
     },
     {
       "ticker": "ARBE",
@@ -1647,6 +1639,22 @@
       "price": 27.21,
       "changePct": -5.03,
       "changeDollar": -1.44
+    },
+    {
+      "ticker": "ARDX",
+      "name": "Ardelyx, Inc.",
+      "sector": "Health technology",
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
+    },
+    {
+      "ticker": "ARE",
+      "name": "Alexandria Real Estate Equities, Inc.",
+      "sector": "Finance",
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
     },
     {
       "ticker": "AREC",
@@ -1673,17 +1681,17 @@
       "changeDollar": NaN
     },
     {
-      "ticker": "ARI",
-      "name": "Apollo Commercial Real Estate Finance, Inc",
-      "sector": "Finance",
+      "ticker": "ARHS",
+      "name": "Arhaus, Inc.",
+      "sector": "Consumer durables",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
     },
     {
-      "ticker": "ARMK",
-      "name": "Aramark",
-      "sector": "Consumer services",
+      "ticker": "ARLO",
+      "name": "Arlo Technologies, Inc.",
+      "sector": "Electronic technology",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
@@ -1697,44 +1705,44 @@
       "changeDollar": 0.68
     },
     {
-      "ticker": "AROW",
-      "name": "Arrow Financial Corporation",
-      "sector": "Finance",
-      "price": 38.48,
-      "changePct": 0.39,
-      "changeDollar": 0.15
-    },
-    {
-      "ticker": "ARQ",
-      "name": "Arq, Inc.",
-      "sector": "Process industries",
+      "ticker": "AROC",
+      "name": "Archrock, Inc.",
+      "sector": "Industrial services",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
     },
     {
-      "ticker": "ARQQ",
-      "name": "Arqit Quantum Inc.",
-      "sector": "Technology services",
-      "price": 21.14,
-      "changePct": 0.96,
-      "changeDollar": 0.2
+      "ticker": "AROW",
+      "name": "Arrow Financial Corporation",
+      "sector": "Finance",
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
     },
     {
-      "ticker": "ARQT",
-      "name": "Arcutis Biotherapeutics, Inc.",
-      "sector": "Health technology",
-      "price": 25.08,
-      "changePct": -1.07,
-      "changeDollar": -0.27
+      "ticker": "ARQ",
+      "name": "Arq, Inc.",
+      "sector": "Process industries",
+      "price": 2.3,
+      "changePct": 1.77,
+      "changeDollar": 0.04
     },
     {
-      "ticker": "AROC",
-      "name": "Archrock, Inc.",
-      "sector": "Industrial services",
-      "price": 31.8,
-      "changePct": -1.49,
-      "changeDollar": -0.48
+      "ticker": "ARLP",
+      "name": "Alliance Resource Partners, L.P.",
+      "sector": "Energy minerals",
+      "price": 26.3,
+      "changePct": 0.88,
+      "changeDollar": 0.23
+    },
+    {
+      "ticker": "ARMK",
+      "name": "Aramark",
+      "sector": "Consumer services",
+      "price": 59.77,
+      "changePct": 0.67,
+      "changeDollar": 0.4
     },
     {
       "ticker": "ARRY",
@@ -1761,41 +1769,9 @@
       "changeDollar": 0.34
     },
     {
-      "ticker": "ARLP",
-      "name": "Alliance Resource Partners, L.P.",
-      "sector": "Energy minerals",
-      "price": 26.3,
-      "changePct": 0.88,
-      "changeDollar": 0.23
-    },
-    {
-      "ticker": "ARLO",
-      "name": "Arlo Technologies, Inc.",
-      "sector": "Electronic technology",
-      "price": 13.1,
-      "changePct": 0.46,
-      "changeDollar": 0.06
-    },
-    {
       "ticker": "ARW",
       "name": "Arrow Electronics, Inc.",
       "sector": "Distribution services",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
-    },
-    {
-      "ticker": "ARWR",
-      "name": "Arrowhead Pharmaceuticals, Inc.",
-      "sector": "Health technology",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
-    },
-    {
-      "ticker": "ARX",
-      "name": "Accelerant Holdings",
-      "sector": "Finance",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
@@ -1809,27 +1785,11 @@
       "changeDollar": NaN
     },
     {
-      "ticker": "AS",
-      "name": "Amer Sports, Inc.",
-      "sector": "Consumer durables",
-      "price": 32.63,
-      "changePct": 0.31,
-      "changeDollar": 0.1
-    },
-    {
       "ticker": "ASAN",
       "name": "Asana, Inc.",
       "sector": "Technology services",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
-    },
-    {
-      "ticker": "ASB",
-      "name": "Associated Banc-Corp",
-      "sector": "Finance",
-      "price": 30.84,
-      "changePct": 0.26,
+      "price": 9.58,
+      "changePct": 0.84,
       "changeDollar": 0.08
     },
     {
@@ -1844,38 +1804,6 @@
       "ticker": "ASH",
       "name": "Ashland Inc.",
       "sector": "Consumer non-durables",
-      "price": 72.66,
-      "changePct": -0.22,
-      "changeDollar": -0.16
-    },
-    {
-      "ticker": "ASIX",
-      "name": "AdvanSix Inc.",
-      "sector": "Process industries",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
-    },
-    {
-      "ticker": "ASLE",
-      "name": "AerSale Corporation",
-      "sector": "Distribution services",
-      "price": 5.56,
-      "changePct": 0.18,
-      "changeDollar": 0.01
-    },
-    {
-      "ticker": "ASMB",
-      "name": "Assembly Biosciences, Inc.",
-      "sector": "Health technology",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
-    },
-    {
-      "ticker": "ASND",
-      "name": "Ascendis Pharma A/S",
-      "sector": "Health technology",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
@@ -1884,22 +1812,22 @@
       "ticker": "ASO",
       "name": "Academy Sports and Outdoors, Inc.",
       "sector": "Retail trade",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
+      "price": 45.83,
+      "changePct": 0.39,
+      "changeDollar": 0.18
+    },
+    {
+      "ticker": "ASND",
+      "name": "Ascendis Pharma A/S",
+      "sector": "Health technology",
+      "price": 253.29,
+      "changePct": -0.6,
+      "changeDollar": -1.52
     },
     {
       "ticker": "ASPN",
       "name": "Aspen Aerogels, Inc.",
       "sector": "Process industries",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
-    },
-    {
-      "ticker": "ASRV",
-      "name": "AmeriServ Financial Inc.",
-      "sector": "Finance",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
@@ -1913,6 +1841,22 @@
       "changeDollar": 2.09
     },
     {
+      "ticker": "ASMB",
+      "name": "Assembly Biosciences, Inc.",
+      "sector": "Health technology",
+      "price": 34.38,
+      "changePct": 2.54,
+      "changeDollar": 0.85
+    },
+    {
+      "ticker": "ASLE",
+      "name": "AerSale Corporation",
+      "sector": "Distribution services",
+      "price": 5.56,
+      "changePct": 0.18,
+      "changeDollar": 0.01
+    },
+    {
       "ticker": "ASTE",
       "name": "Astec Industries, Inc.",
       "sector": "Producer manufacturing",
@@ -1924,17 +1868,89 @@
       "ticker": "ASTH",
       "name": "Astrana Health Inc.",
       "sector": "Health services",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
+      "price": 39.35,
+      "changePct": 1.57,
+      "changeDollar": 0.61
+    },
+    {
+      "ticker": "ARQQ",
+      "name": "Arqit Quantum Inc.",
+      "sector": "Technology services",
+      "price": 21.14,
+      "changePct": 0.96,
+      "changeDollar": 0.2
+    },
+    {
+      "ticker": "ASRV",
+      "name": "AmeriServ Financial Inc.",
+      "sector": "Finance",
+      "price": 5.02,
+      "changePct": 0.4,
+      "changeDollar": 0.02
+    },
+    {
+      "ticker": "AS",
+      "name": "Amer Sports, Inc.",
+      "sector": "Consumer durables",
+      "price": 32.63,
+      "changePct": 0.31,
+      "changeDollar": 0.1
+    },
+    {
+      "ticker": "ASB",
+      "name": "Associated Banc-Corp",
+      "sector": "Finance",
+      "price": 30.84,
+      "changePct": 0.26,
+      "changeDollar": 0.08
+    },
+    {
+      "ticker": "ARX",
+      "name": "Accelerant Holdings",
+      "sector": "Finance",
+      "price": 19.59,
+      "changePct": 0.1,
+      "changeDollar": 0.02
+    },
+    {
+      "ticker": "ARI",
+      "name": "Apollo Commercial Real Estate Finance, Inc",
+      "sector": "Finance",
+      "price": 6.93,
+      "changePct": -0.14,
+      "changeDollar": -0.01
+    },
+    {
+      "ticker": "ARWR",
+      "name": "Arrowhead Pharmaceuticals, Inc.",
+      "sector": "Health technology",
+      "price": 87.11,
+      "changePct": -0.41,
+      "changeDollar": -0.36
+    },
+    {
+      "ticker": "ASIX",
+      "name": "AdvanSix Inc.",
+      "sector": "Process industries",
+      "price": 17.18,
+      "changePct": -0.87,
+      "changeDollar": -0.15
+    },
+    {
+      "ticker": "ARQT",
+      "name": "Arcutis Biotherapeutics, Inc.",
+      "sector": "Health technology",
+      "price": 25.08,
+      "changePct": -1.07,
+      "changeDollar": -0.27
     },
     {
       "ticker": "ASTI",
       "name": "Ascent Solar Technologies, Inc",
       "sector": "Electronic technology",
-      "price": 3.09,
-      "changePct": 0.32,
-      "changeDollar": 0.01
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
     },
     {
       "ticker": "ASTL",
@@ -1948,9 +1964,9 @@
       "ticker": "ASUR",
       "name": "Asure Software Inc",
       "sector": "Technology services",
-      "price": 8.74,
-      "changePct": 3.68,
-      "changeDollar": 0.31
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
     },
     {
       "ticker": "ASYS",
@@ -1959,14 +1975,6 @@
       "price": 14.63,
       "changePct": 0.07,
       "changeDollar": 0.01
-    },
-    {
-      "ticker": "ARHS",
-      "name": "Arhaus, Inc.",
-      "sector": "Consumer durables",
-      "price": 9.39,
-      "changePct": -2.69,
-      "changeDollar": -0.26
     },
     {
       "ticker": "ATAI",
@@ -1980,9 +1988,9 @@
       "ticker": "ATEC",
       "name": "Alphatec Holdings, Inc.",
       "sector": "Health technology",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
+      "price": 9.48,
+      "changePct": 2.05,
+      "changeDollar": 0.19
     },
     {
       "ticker": "ATER",
@@ -1996,25 +2004,25 @@
       "ticker": "ATEX",
       "name": "Anterix Inc.",
       "sector": "Communications",
-      "price": 93.25,
-      "changePct": 9.31,
-      "changeDollar": 7.94
-    },
-    {
-      "ticker": "ATKR",
-      "name": "Atkore Inc.",
-      "sector": "Producer manufacturing",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
     },
     {
+      "ticker": "ATKR",
+      "name": "Atkore Inc.",
+      "sector": "Producer manufacturing",
+      "price": 93.6,
+      "changePct": 0.12,
+      "changeDollar": 0.11
+    },
+    {
       "ticker": "ATLO",
       "name": "Ames National Corporation",
       "sector": "Finance",
-      "price": 31.76,
-      "changePct": 0.09,
-      "changeDollar": 0.03
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
     },
     {
       "ticker": "ATLX",
@@ -2033,12 +2041,52 @@
       "changeDollar": NaN
     },
     {
-      "ticker": "ATRC",
-      "name": "AtriCure, Inc.",
+      "ticker": "ATNM",
+      "name": "Actinium Pharmaceuticals, Inc. (Delaware)",
       "sector": "Health technology",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
+    },
+    {
+      "ticker": "ATOM",
+      "name": "Atomera Incorporated",
+      "sector": "Commercial services",
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
+    },
+    {
+      "ticker": "ATOS",
+      "name": "Atossa Therapeutics, Inc.",
+      "sector": "Health technology",
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
+    },
+    {
+      "ticker": "ATR",
+      "name": "AptarGroup, Inc.",
+      "sector": "Process industries",
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
+    },
+    {
+      "ticker": "AU",
+      "name": "AngloGold Ashanti PLC",
+      "sector": "Non-energy minerals",
+      "price": 121.22,
+      "changePct": 5.94,
+      "changeDollar": 6.8
+    },
+    {
+      "ticker": "ATRC",
+      "name": "AtriCure, Inc.",
+      "sector": "Health technology",
+      "price": 48.98,
+      "changePct": 3.14,
+      "changeDollar": 1.49
     },
     {
       "ticker": "ATRO",
@@ -2049,60 +2097,12 @@
       "changeDollar": 1.94
     },
     {
-      "ticker": "ATR",
-      "name": "AptarGroup, Inc.",
-      "sector": "Process industries",
-      "price": 134.8,
-      "changePct": 1.38,
-      "changeDollar": 1.84
-    },
-    {
-      "ticker": "ATOM",
-      "name": "Atomera Incorporated",
-      "sector": "Commercial services",
-      "price": 4.78,
-      "changePct": -0.21,
-      "changeDollar": -0.01
-    },
-    {
-      "ticker": "ATNM",
-      "name": "Actinium Pharmaceuticals, Inc. (Delaware)",
-      "sector": "Health technology",
-      "price": 1.1,
-      "changePct": -1.79,
-      "changeDollar": -0.02
-    },
-    {
-      "ticker": "AU",
-      "name": "AngloGold Ashanti PLC",
-      "sector": "Non-energy minerals",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
-    },
-    {
-      "ticker": "AUB",
-      "name": "Atlantic Union Bankshares Corporation",
-      "sector": "Finance",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
-    },
-    {
-      "ticker": "AUDC",
-      "name": "AudioCodes Ltd.",
-      "sector": "Electronic technology",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
-    },
-    {
-      "ticker": "AUGO",
-      "name": "Aura Minerals Inc.",
-      "sector": "Non-energy minerals",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
+      "ticker": "ATO",
+      "name": "Atmos Energy Corporation",
+      "sector": "Utilities",
+      "price": 166.85,
+      "changePct": -2.15,
+      "changeDollar": -3.67
     },
     {
       "ticker": "AUPH",
@@ -2121,22 +2121,6 @@
       "changeDollar": NaN
     },
     {
-      "ticker": "AURA",
-      "name": "Aura Biosciences, Inc.",
-      "sector": "Health technology",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
-    },
-    {
-      "ticker": "AVA",
-      "name": "Avista Corporation",
-      "sector": "Utilities",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
-    },
-    {
       "ticker": "AVAH",
       "name": "Aveanna Healthcare Holdings Inc.",
       "sector": "Health services",
@@ -2145,33 +2129,9 @@
       "changeDollar": NaN
     },
     {
-      "ticker": "AVB",
-      "name": "AvalonBay Communities, Inc.",
-      "sector": "Finance",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
-    },
-    {
-      "ticker": "AVBC",
-      "name": "Avidia Bancorp, Inc.",
-      "sector": "Finance",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
-    },
-    {
-      "ticker": "AVBP",
-      "name": "ArriVent BioPharma, Inc.",
-      "sector": "Health technology",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
-    },
-    {
-      "ticker": "AVD",
-      "name": "American Vanguard Corporation",
-      "sector": "Process industries",
+      "ticker": "AVAV",
+      "name": "AeroVironment, Inc.",
+      "sector": "Electronic technology",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
@@ -2188,9 +2148,9 @@
       "ticker": "AVLN",
       "name": "Avalyn Pharma Inc.",
       "sector": "Health technology",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
+      "price": 38.37,
+      "changePct": 3.34,
+      "changeDollar": 1.24
     },
     {
       "ticker": "AVNT",
@@ -2233,14 +2193,6 @@
       "changeDollar": 0.12
     },
     {
-      "ticker": "ATO",
-      "name": "Atmos Energy Corporation",
-      "sector": "Utilities",
-      "price": 166.85,
-      "changePct": -2.15,
-      "changeDollar": -3.67
-    },
-    {
       "ticker": "AVR",
       "name": "Anteris Technologies Global Corp.",
       "sector": "Health technology",
@@ -2257,6 +2209,14 @@
       "changeDollar": NaN
     },
     {
+      "ticker": "AVTR",
+      "name": "Avantor, Inc.",
+      "sector": "Health technology",
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
+    },
+    {
       "ticker": "AVXL",
       "name": "Anavex Life Sciences Corp.",
       "sector": "Health technology",
@@ -2265,54 +2225,126 @@
       "changeDollar": 0.11
     },
     {
-      "ticker": "AVTR",
-      "name": "Avantor, Inc.",
-      "sector": "Health technology",
-      "price": 14.46,
-      "changePct": 1.47,
-      "changeDollar": 0.21
-    },
-    {
-      "ticker": "AVY",
-      "name": "Avery Dennison Corporation",
+      "ticker": "AVD",
+      "name": "American Vanguard Corporation",
       "sector": "Process industries",
-      "price": 183.71,
-      "changePct": 0.56,
-      "changeDollar": 1.03
+      "price": 2.3,
+      "changePct": 3.14,
+      "changeDollar": 0.07
     },
     {
-      "ticker": "AVAV",
-      "name": "AeroVironment, Inc.",
-      "sector": "Electronic technology",
-      "price": 160.22,
-      "changePct": 0.27,
-      "changeDollar": 0.43
+      "ticker": "AUGO",
+      "name": "Aura Minerals Inc.",
+      "sector": "Non-energy minerals",
+      "price": 87.26,
+      "changePct": 0.66,
+      "changeDollar": 0.57
+    },
+    {
+      "ticker": "AURA",
+      "name": "Aura Biosciences, Inc.",
+      "sector": "Health technology",
+      "price": 7.8,
+      "changePct": 0.39,
+      "changeDollar": 0.03
+    },
+    {
+      "ticker": "AUB",
+      "name": "Atlantic Union Bankshares Corporation",
+      "sector": "Finance",
+      "price": 41.15,
+      "changePct": 0.32,
+      "changeDollar": 0.13
+    },
+    {
+      "ticker": "AWK",
+      "name": "American Water Works Company, Inc.",
+      "sector": "Utilities",
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
+    },
+    {
+      "ticker": "AWR",
+      "name": "American States Water Company",
+      "sector": "Utilities",
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
+    },
+    {
+      "ticker": "AWRE",
+      "name": "Aware, Inc.",
+      "sector": "Technology services",
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
+    },
+    {
+      "ticker": "AXGN",
+      "name": "Axogen, Inc.",
+      "sector": "Health technology",
+      "price": 50.4,
+      "changePct": 8.53,
+      "changeDollar": 3.96
     }
   ],
   "topLosers": [
     {
-      "ticker": "AADX",
-      "name": "Applied Aerospace & Defense, Inc.",
-      "sector": "Electronic technology",
-      "price": 14.96,
-      "changePct": -3.48,
-      "changeDollar": -0.54
+      "ticker": "A",
+      "name": "Agilent Technologies, Inc.",
+      "sector": "Health technology",
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
     },
     {
-      "ticker": "AAOI",
-      "name": "Applied Optoelectronics, Inc.",
-      "sector": "Electronic technology",
-      "price": 124.82,
-      "changePct": -3.32,
-      "changeDollar": -4.28
+      "ticker": "AKBA",
+      "name": "Akebia Therapeutics, Inc.",
+      "sector": "Health technology",
+      "price": 0.91,
+      "changePct": -1.09,
+      "changeDollar": -0.01
     },
     {
-      "ticker": "AAPL",
-      "name": "Apple Inc.",
-      "sector": "Electronic technology",
-      "price": 309.35,
-      "changePct": -0.63,
-      "changeDollar": -1.95
+      "ticker": "AKR",
+      "name": "Acadia Realty Trust",
+      "sector": "Finance",
+      "price": 21.05,
+      "changePct": 0.1,
+      "changeDollar": 0.02
+    },
+    {
+      "ticker": "AIT",
+      "name": "Applied Industrial Technologies, Inc.",
+      "sector": "Distribution services",
+      "price": 341.62,
+      "changePct": 0.38,
+      "changeDollar": 1.28
+    },
+    {
+      "ticker": "AIV",
+      "name": "Apartment Investment and Management Company",
+      "sector": "Finance",
+      "price": 2.62,
+      "changePct": 0.38,
+      "changeDollar": 0.01
+    },
+    {
+      "ticker": "ALKS",
+      "name": "Alkermes plc",
+      "sector": "Health technology",
+      "price": 48.33,
+      "changePct": 0.65,
+      "changeDollar": 0.31
+    },
+    {
+      "ticker": "AIZ",
+      "name": "Assurant, Inc.",
+      "sector": "Finance",
+      "price": 284.04,
+      "changePct": 0.72,
+      "changeDollar": 2.04
     },
     {
       "ticker": "APD",
@@ -2323,12 +2355,20 @@
       "changeDollar": 4.77
     },
     {
-      "ticker": "A",
-      "name": "Agilent Technologies, Inc.",
-      "sector": "Health technology",
-      "price": 159.0,
-      "changePct": 1.73,
-      "changeDollar": 2.7
+      "ticker": "AA",
+      "name": "Alcoa Corporation",
+      "sector": "Non-energy minerals",
+      "price": 51.85,
+      "changePct": 2.57,
+      "changeDollar": 1.3
+    },
+    {
+      "ticker": "AADX",
+      "name": "Applied Aerospace & Defense, Inc.",
+      "sector": "Electronic technology",
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
     },
     {
       "ticker": "AAL",
@@ -2339,17 +2379,17 @@
       "changeDollar": 0.3
     },
     {
-      "ticker": "AA",
-      "name": "Alcoa Corporation",
-      "sector": "Non-energy minerals",
-      "price": 51.85,
-      "changePct": 2.57,
-      "changeDollar": 1.3
-    },
-    {
       "ticker": "AAMI",
       "name": "Acadian Asset Management Inc.",
       "sector": "Finance",
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
+    },
+    {
+      "ticker": "AAOI",
+      "name": "Applied Optoelectronics, Inc.",
+      "sector": "Electronic technology",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
@@ -2363,12 +2403,84 @@
       "changeDollar": NaN
     },
     {
-      "ticker": "AARD",
-      "name": "Aardvark Therapeutics, Inc.",
-      "sector": "Health technology",
+      "ticker": "AAPL",
+      "name": "Apple Inc.",
+      "sector": "Electronic technology",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
+    },
+    {
+      "ticker": "ACET",
+      "name": "Adicet Bio, Inc.",
+      "sector": "Health technology",
+      "price": 9.19,
+      "changePct": -2.03,
+      "changeDollar": -0.19
+    },
+    {
+      "ticker": "ACA",
+      "name": "Arcosa, Inc.",
+      "sector": "Non-energy minerals",
+      "price": 144.9,
+      "changePct": -0.34,
+      "changeDollar": -0.5
+    },
+    {
+      "ticker": "ABG",
+      "name": "Asbury Automotive Group Inc",
+      "sector": "Retail trade",
+      "price": 214.81,
+      "changePct": -0.26,
+      "changeDollar": -0.56
+    },
+    {
+      "ticker": "ABR",
+      "name": "Arbor Realty Trust",
+      "sector": "Finance",
+      "price": 5.19,
+      "changePct": 0.19,
+      "changeDollar": 0.01
+    },
+    {
+      "ticker": "ACCO",
+      "name": "Acco Brands Corporation",
+      "sector": "Producer manufacturing",
+      "price": 4.24,
+      "changePct": 1.93,
+      "changeDollar": 0.08
+    },
+    {
+      "ticker": "ABT",
+      "name": "Abbott Laboratories",
+      "sector": "Health technology",
+      "price": 116.64,
+      "changePct": 2.19,
+      "changeDollar": 2.5
+    },
+    {
+      "ticker": "ABSI",
+      "name": "Absci Corporation",
+      "sector": "Health technology",
+      "price": 9.55,
+      "changePct": 2.91,
+      "changeDollar": 0.27
+    },
+    {
+      "ticker": "ACHC",
+      "name": "Acadia Healthcare Company, Inc.",
+      "sector": "Health services",
+      "price": 27.82,
+      "changePct": 3.15,
+      "changeDollar": 0.85
+    },
+    {
+      "ticker": "AARD",
+      "name": "Aardvark Therapeutics, Inc.",
+      "sector": "Health technology",
+      "price": 6.82,
+      "changePct": 15.79,
+      "changeDollar": 0.93
     },
     {
       "ticker": "AAT",
@@ -2382,49 +2494,9 @@
       "ticker": "AB",
       "name": "AllianceBernstein Holding L.P.",
       "sector": "Finance",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
-    },
-    {
-      "ticker": "ABAT",
-      "name": "American Battery Technology Company",
-      "sector": "Non-energy minerals",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
-    },
-    {
-      "ticker": "ABCL",
-      "name": "AbCellera Biologics Inc.",
-      "sector": "Health technology",
-      "price": 11.32,
-      "changePct": -2.16,
-      "changeDollar": -0.25
-    },
-    {
-      "ticker": "ACET",
-      "name": "Adicet Bio, Inc.",
-      "sector": "Health technology",
-      "price": 9.19,
-      "changePct": -2.03,
-      "changeDollar": -0.19
-    },
-    {
-      "ticker": "ABCB",
-      "name": "Ameris Bancorp",
-      "sector": "Finance",
-      "price": 86.2,
-      "changePct": 0.09,
-      "changeDollar": 0.08
-    },
-    {
-      "ticker": "ABR",
-      "name": "Arbor Realty Trust",
-      "sector": "Finance",
-      "price": 5.19,
-      "changePct": 0.19,
-      "changeDollar": 0.01
+      "price": 36.26,
+      "changePct": 0.67,
+      "changeDollar": 0.24
     },
     {
       "ticker": "ABBV",
@@ -2435,17 +2507,33 @@
       "changeDollar": 3.13
     },
     {
-      "ticker": "ABEO",
-      "name": "Abeona Therapeutics Inc.",
+      "ticker": "ABAT",
+      "name": "American Battery Technology Company",
+      "sector": "Non-energy minerals",
+      "price": 2.57,
+      "changePct": 10.3,
+      "changeDollar": 0.24
+    },
+    {
+      "ticker": "ABCB",
+      "name": "Ameris Bancorp",
+      "sector": "Finance",
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
+    },
+    {
+      "ticker": "ABCL",
+      "name": "AbCellera Biologics Inc.",
       "sector": "Health technology",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
     },
     {
-      "ticker": "ABG",
-      "name": "Asbury Automotive Group Inc",
-      "sector": "Retail trade",
+      "ticker": "ABEO",
+      "name": "Abeona Therapeutics Inc.",
+      "sector": "Health technology",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
@@ -2467,46 +2555,6 @@
       "changeDollar": NaN
     },
     {
-      "ticker": "ABSI",
-      "name": "Absci Corporation",
-      "sector": "Health technology",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
-    },
-    {
-      "ticker": "ABT",
-      "name": "Abbott Laboratories",
-      "sector": "Health technology",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
-    },
-    {
-      "ticker": "APEI",
-      "name": "American Public Education, Inc.",
-      "sector": "Consumer services",
-      "price": 45.61,
-      "changePct": 2.75,
-      "changeDollar": 1.22
-    },
-    {
-      "ticker": "ACHR",
-      "name": "Archer Aviation Inc.",
-      "sector": "Electronic technology",
-      "price": 6.3,
-      "changePct": 3.45,
-      "changeDollar": 0.21
-    },
-    {
-      "ticker": "ABX",
-      "name": "Abacus Global Management, Inc.",
-      "sector": "Finance",
-      "price": 9.66,
-      "changePct": 5.46,
-      "changeDollar": 0.5
-    },
-    {
       "ticker": "ABUS",
       "name": "Arbutus Biopharma Corporation",
       "sector": "Health technology",
@@ -2515,17 +2563,9 @@
       "changeDollar": 0.44
     },
     {
-      "ticker": "ACA",
-      "name": "Arcosa, Inc.",
-      "sector": "Non-energy minerals",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
-    },
-    {
-      "ticker": "ACCO",
-      "name": "Acco Brands Corporation",
-      "sector": "Producer manufacturing",
+      "ticker": "ABX",
+      "name": "Abacus Global Management, Inc.",
+      "sector": "Finance",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
@@ -2534,9 +2574,9 @@
       "ticker": "ACDC",
       "name": "ProFrac Holding Corp.",
       "sector": "Industrial services",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
+      "price": 4.83,
+      "changePct": 8.78,
+      "changeDollar": 0.39
     },
     {
       "ticker": "ACEL",
@@ -2563,9 +2603,9 @@
       "changeDollar": NaN
     },
     {
-      "ticker": "ACHC",
-      "name": "Acadia Healthcare Company, Inc.",
-      "sector": "Health services",
+      "ticker": "ACHR",
+      "name": "Archer Aviation Inc.",
+      "sector": "Electronic technology",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
@@ -2590,17 +2630,17 @@
       "ticker": "ACIC",
       "name": "American Coastal Insurance Corporation",
       "sector": "Finance",
-      "price": 9.18,
-      "changePct": -0.33,
-      "changeDollar": -0.03
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
     },
     {
       "ticker": "ACLS",
       "name": "Axcelis Technologies, Inc.",
       "sector": "Producer manufacturing",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
+      "price": 127.07,
+      "changePct": 1.68,
+      "changeDollar": 2.1
     },
     {
       "ticker": "ACN",
@@ -2614,9 +2654,9 @@
       "ticker": "ACNT",
       "name": "Ascent Industries Co.",
       "sector": "Process industries",
-      "price": 14.72,
-      "changePct": -1.93,
-      "changeDollar": -0.29
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
     },
     {
       "ticker": "ACOG",
@@ -2627,20 +2667,12 @@
       "changeDollar": NaN
     },
     {
-      "ticker": "ACT",
-      "name": "Enact Holdings, Inc.",
-      "sector": "Finance",
-      "price": 49.19,
-      "changePct": 0.14,
-      "changeDollar": 0.07
-    },
-    {
       "ticker": "ACRE",
       "name": "Ares Commercial Real Estate Corporation",
       "sector": "Finance",
-      "price": 4.77,
-      "changePct": 1.27,
-      "changeDollar": 0.06
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
     },
     {
       "ticker": "ACRS",
@@ -2654,9 +2686,17 @@
       "ticker": "ACTG",
       "name": "Acacia Research Corporation",
       "sector": "Commercial services",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
+      "price": 4.51,
+      "changePct": 0.0,
+      "changeDollar": 0.0
+    },
+    {
+      "ticker": "ACT",
+      "name": "Enact Holdings, Inc.",
+      "sector": "Finance",
+      "price": 49.19,
+      "changePct": 0.14,
+      "changeDollar": 0.07
     },
     {
       "ticker": "AD",
@@ -2670,9 +2710,9 @@
       "ticker": "ADAM",
       "name": "Adamas Trust, Inc.",
       "sector": "Finance",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
+      "price": 9.94,
+      "changePct": 0.1,
+      "changeDollar": 0.01
     },
     {
       "ticker": "ADBE",
@@ -2681,6 +2721,22 @@
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
+    },
+    {
+      "ticker": "AEHR",
+      "name": "Aehr Test Systems",
+      "sector": "Electronic technology",
+      "price": 101.73,
+      "changePct": -4.0,
+      "changeDollar": -4.24
+    },
+    {
+      "ticker": "AEP",
+      "name": "American Electric Power Company, Inc.",
+      "sector": "Utilities",
+      "price": 120.94,
+      "changePct": -3.79,
+      "changeDollar": -4.76
     },
     {
       "ticker": "AEVA",
@@ -2707,52 +2763,28 @@
       "changeDollar": -0.57
     },
     {
+      "ticker": "AG",
+      "name": "Lagilon health, inc.",
+      "sector": "Health services",
+      "price": 21.09,
+      "changePct": -0.47,
+      "changeDollar": -0.1
+    },
+    {
       "ticker": "ADI",
       "name": "Analog Devices, Inc.",
       "sector": "Electronic technology",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
+      "price": 373.09,
+      "changePct": 0.77,
+      "changeDollar": 2.85
     },
     {
       "ticker": "ADM",
       "name": "Archer-Daniels-Midland Company",
       "sector": "Process industries",
-      "price": 80.3,
-      "changePct": -1.71,
-      "changeDollar": -1.4
-    },
-    {
-      "ticker": "ADNT",
-      "name": "Adient plc",
-      "sector": "Producer manufacturing",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
-    },
-    {
-      "ticker": "ADP",
-      "name": "Automatic Data Processing, Inc.",
-      "sector": "Technology services",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
-    },
-    {
-      "ticker": "AEP",
-      "name": "American Electric Power Company, Inc.",
-      "sector": "Utilities",
-      "price": 120.94,
-      "changePct": -3.79,
-      "changeDollar": -4.76
-    },
-    {
-      "ticker": "AESI",
-      "name": "Atlas Energy Solutions Inc.",
-      "sector": "Industrial services",
-      "price": 12.58,
-      "changePct": -3.16,
-      "changeDollar": -0.41
     },
     {
       "ticker": "AFCG",
@@ -2763,68 +2795,44 @@
       "changeDollar": -0.05
     },
     {
-      "ticker": "ADPT",
-      "name": "Adaptive Biotechnologies Corporation",
-      "sector": "Health technology",
-      "price": 25.99,
-      "changePct": 2.16,
-      "changeDollar": 0.55
-    },
-    {
-      "ticker": "ADSK",
-      "name": "Autodesk, Inc.",
-      "sector": "Technology services",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
-    },
-    {
-      "ticker": "ADUS",
-      "name": "Addus HomeCare Corporation",
-      "sector": "Health services",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
-    },
-    {
-      "ticker": "ADV",
-      "name": "Advantage Solutions Inc.",
-      "sector": "Commercial services",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
-    },
-    {
-      "ticker": "AEHR",
-      "name": "Aehr Test Systems",
+      "ticker": "AIP",
+      "name": "Arteris, Inc.",
       "sector": "Electronic technology",
-      "price": 101.73,
-      "changePct": -4.0,
-      "changeDollar": -4.24
+      "price": 23.89,
+      "changePct": -0.29,
+      "changeDollar": -0.07
     },
     {
-      "ticker": "AEE",
-      "name": "Ameren Corporation",
+      "ticker": "AES",
+      "name": "The AES Corporation",
       "sector": "Utilities",
-      "price": 106.13,
-      "changePct": -2.45,
-      "changeDollar": -2.66
+      "price": 14.77,
+      "changePct": 0.0,
+      "changeDollar": 0.0
     },
     {
-      "ticker": "AEIS",
-      "name": "Advanced Energy Industries, Inc.",
-      "sector": "Electronic technology",
-      "price": 285.83,
-      "changePct": -2.32,
-      "changeDollar": -6.79
-    },
-    {
-      "ticker": "AER",
-      "name": "AerCap Holdings N.V.",
+      "ticker": "AFG",
+      "name": "American Financial Group, Inc.",
       "sector": "Finance",
-      "price": 146.29,
-      "changePct": -0.34,
-      "changeDollar": -0.5
+      "price": 143.7,
+      "changePct": 0.03,
+      "changeDollar": 0.05
+    },
+    {
+      "ticker": "AGO",
+      "name": "Assured Guaranty Ltd.",
+      "sector": "Finance",
+      "price": 74.44,
+      "changePct": 0.22,
+      "changeDollar": 0.16
+    },
+    {
+      "ticker": "AIG",
+      "name": "American International Group, Inc. New",
+      "sector": "Finance",
+      "price": 76.12,
+      "changePct": 0.49,
+      "changeDollar": 0.37
     },
     {
       "ticker": "AEXA",
@@ -2835,6 +2843,14 @@
       "changeDollar": 0.06
     },
     {
+      "ticker": "AIOT",
+      "name": "PowerFleet, Inc.",
+      "sector": "Technology services",
+      "price": 3.04,
+      "changePct": 0.66,
+      "changeDollar": 0.02
+    },
+    {
       "ticker": "AEO",
       "name": "American Eagle Outfitters, Inc.",
       "sector": "Retail trade",
@@ -2843,9 +2859,89 @@
       "changeDollar": 0.17
     },
     {
-      "ticker": "AES",
-      "name": "The AES Corporation",
+      "ticker": "AGRO",
+      "name": "Adecoagro S.A.",
+      "sector": "Process industries",
+      "price": 11.07,
+      "changePct": 1.19,
+      "changeDollar": 0.13
+    },
+    {
+      "ticker": "ADPT",
+      "name": "Adaptive Biotechnologies Corporation",
+      "sector": "Health technology",
+      "price": 25.99,
+      "changePct": 2.16,
+      "changeDollar": 0.55
+    },
+    {
+      "ticker": "ADNT",
+      "name": "Adient plc",
+      "sector": "Producer manufacturing",
+      "price": 20.01,
+      "changePct": 2.67,
+      "changeDollar": 0.52
+    },
+    {
+      "ticker": "ADP",
+      "name": "Automatic Data Processing, Inc.",
+      "sector": "Technology services",
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
+    },
+    {
+      "ticker": "ADSK",
+      "name": "Autodesk, Inc.",
+      "sector": "Technology services",
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
+    },
+    {
+      "ticker": "ADV",
+      "name": "Advantage Solutions Inc.",
+      "sector": "Commercial services",
+      "price": 34.38,
+      "changePct": -0.29,
+      "changeDollar": -0.1
+    },
+    {
+      "ticker": "ADUS",
+      "name": "Addus HomeCare Corporation",
+      "sector": "Health services",
+      "price": 120.81,
+      "changePct": 0.22,
+      "changeDollar": 0.26
+    },
+    {
+      "ticker": "AEE",
+      "name": "Ameren Corporation",
       "sector": "Utilities",
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
+    },
+    {
+      "ticker": "AEIS",
+      "name": "Advanced Energy Industries, Inc.",
+      "sector": "Electronic technology",
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
+    },
+    {
+      "ticker": "AER",
+      "name": "AerCap Holdings N.V.",
+      "sector": "Finance",
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
+    },
+    {
+      "ticker": "AESI",
+      "name": "Atlas Energy Solutions Inc.",
+      "sector": "Industrial services",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
@@ -2859,44 +2955,12 @@
       "changeDollar": NaN
     },
     {
-      "ticker": "AFG",
-      "name": "American Financial Group, Inc.",
-      "sector": "Finance",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
-    },
-    {
       "ticker": "AFRM",
       "name": "Affirm Holdings, Inc.",
       "sector": "Finance",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
-    },
-    {
-      "ticker": "AHR",
-      "name": "American Healthcare REIT, Inc.",
-      "sector": "Finance",
-      "price": 55.93,
-      "changePct": 0.29,
-      "changeDollar": 0.16
-    },
-    {
-      "ticker": "AIG",
-      "name": "American International Group, Inc. New",
-      "sector": "Finance",
-      "price": 76.12,
-      "changePct": 0.49,
-      "changeDollar": 0.37
-    },
-    {
-      "ticker": "AIOT",
-      "name": "PowerFleet, Inc.",
-      "sector": "Technology services",
-      "price": 3.04,
-      "changePct": 0.66,
-      "changeDollar": 0.02
     },
     {
       "ticker": "AFYA",
@@ -2910,22 +2974,14 @@
       "ticker": "AGEN",
       "name": "Agenus Inc.",
       "sector": "Health technology",
-      "price": 8.09,
-      "changePct": 8.01,
-      "changeDollar": 0.6
-    },
-    {
-      "ticker": "AGIO",
-      "name": "Agios Pharmaceuticals, Inc.",
-      "sector": "Health technology",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
     },
     {
-      "ticker": "AG",
-      "name": "Lagilon health, inc.",
-      "sector": "Health services",
+      "ticker": "AGIO",
+      "name": "Agios Pharmaceuticals, Inc.",
+      "sector": "Health technology",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
@@ -2937,22 +2993,6 @@
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
-    },
-    {
-      "ticker": "AGO",
-      "name": "Assured Guaranty Ltd.",
-      "sector": "Finance",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
-    },
-    {
-      "ticker": "AGRO",
-      "name": "Adecoagro S.A.",
-      "sector": "Process industries",
-      "price": 11.07,
-      "changePct": 1.19,
-      "changeDollar": 0.13
     },
     {
       "ticker": "AGX",
@@ -2979,17 +3019,17 @@
       "changeDollar": NaN
     },
     {
-      "ticker": "AIN",
-      "name": "Albany International Corporation",
-      "sector": "Process industries",
+      "ticker": "AHR",
+      "name": "American Healthcare REIT, Inc.",
+      "sector": "Finance",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
     },
     {
-      "ticker": "AIP",
-      "name": "Arteris, Inc.",
-      "sector": "Electronic technology",
+      "ticker": "AIN",
+      "name": "Albany International Corporation",
+      "sector": "Process industries",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
@@ -3035,30 +3075,6 @@
       "changeDollar": 0.12
     },
     {
-      "ticker": "AIT",
-      "name": "Applied Industrial Technologies, Inc.",
-      "sector": "Distribution services",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
-    },
-    {
-      "ticker": "AIV",
-      "name": "Apartment Investment and Management Company",
-      "sector": "Finance",
-      "price": 2.62,
-      "changePct": 0.38,
-      "changeDollar": 0.01
-    },
-    {
-      "ticker": "AIZ",
-      "name": "Assurant, Inc.",
-      "sector": "Finance",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
-    },
-    {
       "ticker": "AJG",
       "name": "Arthur J. Gallagher & Co.",
       "sector": "Finance",
@@ -3070,22 +3086,6 @@
       "ticker": "AKAM",
       "name": "Akamai Technologies, Inc.",
       "sector": "Technology services",
-      "price": 110.42,
-      "changePct": 0.3,
-      "changeDollar": 0.33
-    },
-    {
-      "ticker": "AKBA",
-      "name": "Akebia Therapeutics, Inc.",
-      "sector": "Health technology",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
-    },
-    {
-      "ticker": "AKR",
-      "name": "Acadia Realty Trust",
-      "sector": "Finance",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
@@ -3094,9 +3094,9 @@
       "ticker": "AKTS",
       "name": "Aktis Oncology, Inc.",
       "sector": "Health technology",
-      "price": 24.07,
-      "changePct": 0.29,
-      "changeDollar": 0.07
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
     },
     {
       "ticker": "ALAB",
@@ -3105,54 +3105,6 @@
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
-    },
-    {
-      "ticker": "ALMU",
-      "name": "Aeluma, Inc.",
-      "sector": "Commercial services",
-      "price": 14.77,
-      "changePct": -1.01,
-      "changeDollar": -0.15
-    },
-    {
-      "ticker": "AMAL",
-      "name": "Amalgamated Financial Corp.",
-      "sector": "Finance",
-      "price": 48.76,
-      "changePct": -0.25,
-      "changeDollar": -0.12
-    },
-    {
-      "ticker": "ALLE",
-      "name": "Allegion plc",
-      "sector": "Consumer durables",
-      "price": 162.31,
-      "changePct": 0.36,
-      "changeDollar": 0.59
-    },
-    {
-      "ticker": "AMBA",
-      "name": "Ambarella, Inc.",
-      "sector": "Electronic technology",
-      "price": 73.73,
-      "changePct": 1.77,
-      "changeDollar": 1.28
-    },
-    {
-      "ticker": "AMBP",
-      "name": "Ardagh Metal Packaging S.A.",
-      "sector": "Process industries",
-      "price": 5.36,
-      "changePct": 2.1,
-      "changeDollar": 0.11
-    },
-    {
-      "ticker": "ALKT",
-      "name": "Alkami Technology, Inc.",
-      "sector": "Technology services",
-      "price": 20.38,
-      "changePct": 2.36,
-      "changeDollar": 0.47
     },
     {
       "ticker": "ALB",
@@ -3174,9 +3126,9 @@
       "ticker": "ALEC",
       "name": "Alector, Inc.",
       "sector": "Health technology",
-      "price": 2.36,
-      "changePct": 4.42,
-      "changeDollar": 0.1
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
     },
     {
       "ticker": "ALG",
@@ -3187,6 +3139,14 @@
       "changeDollar": NaN
     },
     {
+      "ticker": "AMAT",
+      "name": "Applied Materials, Inc.",
+      "sector": "Producer manufacturing",
+      "price": 492.32,
+      "changePct": -0.78,
+      "changeDollar": -3.89
+    },
+    {
       "ticker": "ALGM",
       "name": "Allegro MicroSystems, Inc.",
       "sector": "Electronic technology",
@@ -3195,12 +3155,20 @@
       "changeDollar": -0.03
     },
     {
-      "ticker": "ALGN",
-      "name": "Align Technology, Inc.",
-      "sector": "Health technology",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
+      "ticker": "ALTI",
+      "name": "AlTi Global, Inc.",
+      "sector": "Finance",
+      "price": 4.04,
+      "changePct": 0.25,
+      "changeDollar": 0.01
+    },
+    {
+      "ticker": "ALLT",
+      "name": "Allot Ltd.",
+      "sector": "Electronic technology",
+      "price": 7.48,
+      "changePct": 0.4,
+      "changeDollar": 0.03
     },
     {
       "ticker": "ALH",
@@ -3211,6 +3179,38 @@
       "changeDollar": 0.29
     },
     {
+      "ticker": "AMBA",
+      "name": "Ambarella, Inc.",
+      "sector": "Electronic technology",
+      "price": 73.73,
+      "changePct": 1.77,
+      "changeDollar": 1.28
+    },
+    {
+      "ticker": "ALHC",
+      "name": "Alignment Healthcare, Inc.",
+      "sector": "Health services",
+      "price": 13.16,
+      "changePct": 1.78,
+      "changeDollar": 0.23
+    },
+    {
+      "ticker": "ALGN",
+      "name": "Align Technology, Inc.",
+      "sector": "Health technology",
+      "price": 162.55,
+      "changePct": 2.27,
+      "changeDollar": 3.61
+    },
+    {
+      "ticker": "ALKT",
+      "name": "Alkami Technology, Inc.",
+      "sector": "Technology services",
+      "price": 20.38,
+      "changePct": 2.36,
+      "changeDollar": 0.47
+    },
+    {
       "ticker": "ALGT",
       "name": "Allegiant Travel Company",
       "sector": "Transportation",
@@ -3219,25 +3219,9 @@
       "changeDollar": 5.44
     },
     {
-      "ticker": "ALHC",
-      "name": "Alignment Healthcare, Inc.",
-      "sector": "Health services",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
-    },
-    {
       "ticker": "ALK",
       "name": "Alaska Air Group, Inc.",
       "sector": "Transportation",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
-    },
-    {
-      "ticker": "ALKS",
-      "name": "Alkermes plc",
-      "sector": "Health technology",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
@@ -3251,6 +3235,14 @@
       "changeDollar": NaN
     },
     {
+      "ticker": "ALLE",
+      "name": "Allegion plc",
+      "sector": "Consumer durables",
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
+    },
+    {
       "ticker": "ALLO",
       "name": "Allogene Therapeutics, Inc.",
       "sector": "Health technology",
@@ -3259,44 +3251,12 @@
       "changeDollar": NaN
     },
     {
-      "ticker": "ALLT",
-      "name": "Allot Ltd.",
-      "sector": "Electronic technology",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
-    },
-    {
-      "ticker": "ALRM",
-      "name": "Alarm.com Holdings, Inc.",
-      "sector": "Technology services",
-      "price": 57.51,
-      "changePct": 0.79,
-      "changeDollar": 0.45
-    },
-    {
-      "ticker": "ALTG",
-      "name": "Alta Equipment Group Inc.",
-      "sector": "Distribution services",
-      "price": 6.5,
-      "changePct": 1.4,
-      "changeDollar": 0.09
-    },
-    {
       "ticker": "ALLY",
       "name": "Ally Financial Inc.",
       "sector": "Finance",
-      "price": 42.93,
-      "changePct": 1.51,
-      "changeDollar": 0.64
-    },
-    {
-      "ticker": "ALSN",
-      "name": "Allison Transmission Holdings, Inc.",
-      "sector": "Producer manufacturing",
-      "price": 133.23,
-      "changePct": 3.42,
-      "changeDollar": 4.4
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
     },
     {
       "ticker": "ALM",
@@ -3307,20 +3267,20 @@
       "changeDollar": 0.82
     },
     {
-      "ticker": "ALT",
-      "name": "Altimmune, Inc.",
-      "sector": "Health technology",
-      "price": 3.11,
-      "changePct": 5.42,
-      "changeDollar": 0.16
-    },
-    {
       "ticker": "ALMS",
       "name": "Alumis Inc.",
       "sector": "Health technology",
-      "price": 24.17,
-      "changePct": 5.73,
-      "changeDollar": 1.31
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
+    },
+    {
+      "ticker": "ALMU",
+      "name": "Aeluma, Inc.",
+      "sector": "Commercial services",
+      "price": 14.77,
+      "changePct": -1.01,
+      "changeDollar": -0.15
     },
     {
       "ticker": "ALNT",
@@ -3339,6 +3299,14 @@
       "changeDollar": NaN
     },
     {
+      "ticker": "ALRM",
+      "name": "Alarm.com Holdings, Inc.",
+      "sector": "Technology services",
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
+    },
+    {
       "ticker": "ALRS",
       "name": "Alerus Financial Corporation",
       "sector": "Finance",
@@ -3347,9 +3315,25 @@
       "changeDollar": NaN
     },
     {
-      "ticker": "ALTI",
-      "name": "AlTi Global, Inc.",
-      "sector": "Finance",
+      "ticker": "ALSN",
+      "name": "Allison Transmission Holdings, Inc.",
+      "sector": "Producer manufacturing",
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
+    },
+    {
+      "ticker": "ALT",
+      "name": "Altimmune, Inc.",
+      "sector": "Health technology",
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
+    },
+    {
+      "ticker": "ALTG",
+      "name": "Alta Equipment Group Inc.",
+      "sector": "Distribution services",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
@@ -3366,9 +3350,9 @@
       "ticker": "ALV",
       "name": "Autoliv, Inc.",
       "sector": "Producer manufacturing",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
+      "price": 125.37,
+      "changePct": 3.02,
+      "changeDollar": 3.68
     },
     {
       "ticker": "AM",
@@ -3379,97 +3363,65 @@
       "changeDollar": NaN
     },
     {
-      "ticker": "AMAT",
-      "name": "Applied Materials, Inc.",
-      "sector": "Producer manufacturing",
+      "ticker": "AMAL",
+      "name": "Amalgamated Financial Corp.",
+      "sector": "Finance",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
     },
     {
-      "ticker": "AMPY",
-      "name": "Amplify Energy Corp.",
-      "sector": "Energy minerals",
-      "price": 4.82,
-      "changePct": -1.83,
-      "changeDollar": -0.09
-    },
-    {
-      "ticker": "ANGX",
-      "name": "Angel Studios, Inc.",
-      "sector": "Consumer services",
-      "price": 4.31,
-      "changePct": -1.37,
-      "changeDollar": -0.06
-    },
-    {
-      "ticker": "AMPH",
-      "name": "Amphastar Pharmaceuticals, Inc.",
-      "sector": "Health technology",
-      "price": 21.6,
-      "changePct": -0.37,
-      "changeDollar": -0.08
-    },
-    {
-      "ticker": "AN",
-      "name": "AutoNation, Inc.",
-      "sector": "Retail trade",
-      "price": 199.49,
-      "changePct": -0.3,
-      "changeDollar": -0.6
-    },
-    {
-      "ticker": "AMH",
-      "name": "American Homes 4 Rent",
-      "sector": "Finance",
-      "price": 34.35,
-      "changePct": -0.06,
-      "changeDollar": -0.02
-    },
-    {
-      "ticker": "AMD",
-      "name": "Advanced Micro Devices, Inc.",
-      "sector": "Electronic technology",
-      "price": 473.25,
-      "changePct": 0.81,
-      "changeDollar": 3.79
-    },
-    {
-      "ticker": "AMG",
-      "name": "Affiliated Managers Group, Inc.",
-      "sector": "Finance",
-      "price": 356.21,
-      "changePct": 1.02,
-      "changeDollar": 3.6
-    },
-    {
-      "ticker": "AMP",
-      "name": "Ameriprise Financial, Inc.",
-      "sector": "Finance",
-      "price": 555.59,
-      "changePct": 1.55,
-      "changeDollar": 8.5
-    },
-    {
-      "ticker": "AMCR",
-      "name": "Amcor plc",
+      "ticker": "AMBP",
+      "name": "Ardagh Metal Packaging S.A.",
       "sector": "Process industries",
-      "price": 48.59,
-      "changePct": 1.63,
-      "changeDollar": 0.78
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
     },
     {
       "ticker": "AMBQ",
       "name": "Ambiq Micro, Inc.",
       "sector": "Electronic technology",
-      "price": 59.02,
-      "changePct": 2.08,
-      "changeDollar": 1.2
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
+    },
+    {
+      "ticker": "AMCR",
+      "name": "Amcor plc",
+      "sector": "Process industries",
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
+    },
+    {
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "sector": "Electronic technology",
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
+    },
+    {
+      "ticker": "AMG",
+      "name": "Affiliated Managers Group, Inc.",
+      "sector": "Finance",
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
     },
     {
       "ticker": "AMGN",
       "name": "Amgen Inc.",
       "sector": "Health technology",
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
+    },
+    {
+      "ticker": "AMH",
+      "name": "American Homes 4 Rent",
+      "sector": "Finance",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
@@ -3486,6 +3438,14 @@
       "ticker": "AMLX",
       "name": "Amylyx Pharmaceuticals, Inc.",
       "sector": "Health technology",
+      "price": 38.66,
+      "changePct": -2.52,
+      "changeDollar": -1.0
+    },
+    {
+      "ticker": "AMP",
+      "name": "Ameriprise Financial, Inc.",
+      "sector": "Finance",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
@@ -3494,6 +3454,14 @@
       "ticker": "AMPG",
       "name": "Amplitech Group, Inc.",
       "sector": "Electronic technology",
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
+    },
+    {
+      "ticker": "AMPH",
+      "name": "Amphastar Pharmaceuticals, Inc.",
+      "sector": "Health technology",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
@@ -3515,20 +3483,20 @@
       "changeDollar": NaN
     },
     {
-      "ticker": "AMWL",
-      "name": "American Well Corporation",
-      "sector": "Technology services",
-      "price": 11.9,
-      "changePct": 0.93,
-      "changeDollar": 0.11
+      "ticker": "AMPY",
+      "name": "Amplify Energy Corp.",
+      "sector": "Energy minerals",
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
     },
     {
       "ticker": "AMR",
       "name": "Alpha Metallurgical Resources, Inc.",
       "sector": "Energy minerals",
-      "price": 210.01,
-      "changePct": 8.09,
-      "changeDollar": 15.71
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
     },
     {
       "ticker": "AMRC",
@@ -3542,9 +3510,9 @@
       "ticker": "AMRX",
       "name": "Amneal Pharmaceuticals, Inc.",
       "sector": "Health technology",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
+      "price": 17.91,
+      "changePct": 0.06,
+      "changeDollar": 0.01
     },
     {
       "ticker": "AMRZ",
@@ -3574,25 +3542,17 @@
       "ticker": "AMTB",
       "name": "Amerant Bancorp Inc.",
       "sector": "Finance",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
-    },
-    {
-      "ticker": "AON",
-      "name": "Aon plc",
-      "sector": "Finance",
-      "price": 355.11,
-      "changePct": 0.9,
-      "changeDollar": 3.18
+      "price": 28.69,
+      "changePct": 0.88,
+      "changeDollar": 0.25
     },
     {
       "ticker": "AMTM",
       "name": "Amentum Holdings, Inc.",
       "sector": "Electronic technology",
-      "price": 21.49,
-      "changePct": 4.27,
-      "changeDollar": 0.88
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
     },
     {
       "ticker": "AMTX",
@@ -3603,12 +3563,28 @@
       "changeDollar": NaN
     },
     {
-      "ticker": "AMZN",
-      "name": "Amazon.com, Inc.",
-      "sector": "Retail trade",
+      "ticker": "AMWL",
+      "name": "American Well Corporation",
+      "sector": "Technology services",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
+    },
+    {
+      "ticker": "AMZN",
+      "name": "Amazon.com, Inc.",
+      "sector": "Retail trade",
+      "price": 258.63,
+      "changePct": -0.57,
+      "changeDollar": -1.48
+    },
+    {
+      "ticker": "AN",
+      "name": "AutoNation, Inc.",
+      "sector": "Retail trade",
+      "price": 199.49,
+      "changePct": -0.3,
+      "changeDollar": -0.6
     },
     {
       "ticker": "ANAB",
@@ -3627,36 +3603,28 @@
       "changeDollar": NaN
     },
     {
-      "ticker": "ANIK",
-      "name": "Anika Therapeutics Inc.",
-      "sector": "Health technology",
-      "price": 21.78,
-      "changePct": 2.06,
-      "changeDollar": 0.44
-    },
-    {
       "ticker": "ANET",
       "name": "Arista Networks, Inc.",
       "sector": "Electronic technology",
-      "price": 188.65,
-      "changePct": 2.67,
-      "changeDollar": 4.9
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
     },
     {
       "ticker": "ANF",
       "name": "Abercrombie & Fitch Company",
       "sector": "Retail trade",
-      "price": 109.01,
-      "changePct": 3.8,
-      "changeDollar": 3.99
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
     },
     {
       "ticker": "ANGI",
       "name": "Angi Inc.",
       "sector": "Technology services",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
+      "price": 4.92,
+      "changePct": 7.89,
+      "changeDollar": 0.36
     },
     {
       "ticker": "ANGO",
@@ -3665,6 +3633,30 @@
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
+    },
+    {
+      "ticker": "ANGX",
+      "name": "Angel Studios, Inc.",
+      "sector": "Consumer services",
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
+    },
+    {
+      "ticker": "APAM",
+      "name": "Artisan Partners Asset Management Inc.",
+      "sector": "Finance",
+      "price": 42.26,
+      "changePct": 0.5,
+      "changeDollar": 0.21
+    },
+    {
+      "ticker": "ANIK",
+      "name": "Anika Therapeutics Inc.",
+      "sector": "Health technology",
+      "price": 21.78,
+      "changePct": 2.06,
+      "changeDollar": 0.44
     },
     {
       "ticker": "ANIX",
@@ -3699,46 +3691,6 @@
       "changeDollar": NaN
     },
     {
-      "ticker": "ANY",
-      "name": "Sphere 3D Corp.",
-      "sector": "Technology services",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
-    },
-    {
-      "ticker": "AORT",
-      "name": "Artivion, Inc.",
-      "sector": "Health technology",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
-    },
-    {
-      "ticker": "AOSL",
-      "name": "Alpha and Omega Semiconductor Limited",
-      "sector": "Electronic technology",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
-    },
-    {
-      "ticker": "AOUT",
-      "name": "American Outdoor Brands, Inc.",
-      "sector": "Consumer durables",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
-    },
-    {
-      "ticker": "APAM",
-      "name": "Artisan Partners Asset Management Inc.",
-      "sector": "Finance",
-      "price": 42.26,
-      "changePct": 0.5,
-      "changeDollar": 0.21
-    },
-    {
       "ticker": "AP",
       "name": "Ampco-Pittsburgh Corporation",
       "sector": "Non-energy minerals",
@@ -3747,12 +3699,60 @@
       "changeDollar": 0.36
     },
     {
-      "ticker": "APGE",
-      "name": "Apogee Therapeutics, Inc.",
-      "sector": "Health technology",
+      "ticker": "ANY",
+      "name": "Sphere 3D Corp.",
+      "sector": "Technology services",
+      "price": 2.61,
+      "changePct": 29.21,
+      "changeDollar": 0.59
+    },
+    {
+      "ticker": "AON",
+      "name": "Aon plc",
+      "sector": "Finance",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
+    },
+    {
+      "ticker": "AORT",
+      "name": "Artivion, Inc.",
+      "sector": "Health technology",
+      "price": 28.08,
+      "changePct": 0.36,
+      "changeDollar": 0.1
+    },
+    {
+      "ticker": "AOUT",
+      "name": "American Outdoor Brands, Inc.",
+      "sector": "Consumer durables",
+      "price": 11.24,
+      "changePct": 0.63,
+      "changeDollar": 0.07
+    },
+    {
+      "ticker": "AOSL",
+      "name": "Alpha and Omega Semiconductor Limited",
+      "sector": "Electronic technology",
+      "price": 26.39,
+      "changePct": 0.65,
+      "changeDollar": 0.17
+    },
+    {
+      "ticker": "APEI",
+      "name": "American Public Education, Inc.",
+      "sector": "Consumer services",
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
+    },
+    {
+      "ticker": "APGE",
+      "name": "Apogee Therapeutics, Inc.",
+      "sector": "Health technology",
+      "price": 134.75,
+      "changePct": 0.0,
+      "changeDollar": 0.0
     },
     {
       "ticker": "APH",
@@ -3774,25 +3774,9 @@
       "ticker": "APLE",
       "name": "Apple Hospitality REIT, Inc.",
       "sector": "Finance",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
-    },
-    {
-      "ticker": "AROC",
-      "name": "Archrock, Inc.",
-      "sector": "Industrial services",
-      "price": 31.8,
-      "changePct": -1.49,
-      "changeDollar": -0.48
-    },
-    {
-      "ticker": "ARQT",
-      "name": "Arcutis Biotherapeutics, Inc.",
-      "sector": "Health technology",
-      "price": 25.08,
-      "changePct": -1.07,
-      "changeDollar": -0.27
+      "price": 16.67,
+      "changePct": 1.03,
+      "changeDollar": 0.17
     },
     {
       "ticker": "APO",
@@ -3814,25 +3798,25 @@
       "ticker": "APP",
       "name": "Applovin Corporation",
       "sector": "Technology services",
-      "price": 305.77,
-      "changePct": -0.97,
-      "changeDollar": -3.0
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
     },
     {
       "ticker": "APPF",
       "name": "AppFolio, Inc.",
       "sector": "Technology services",
-      "price": 224.4,
-      "changePct": 2.54,
-      "changeDollar": 5.55
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
     },
     {
       "ticker": "APPN",
       "name": "Appian Corporation",
       "sector": "Technology services",
-      "price": 38.3,
-      "changePct": 2.74,
-      "changeDollar": 1.02
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
     },
     {
       "ticker": "APPS",
@@ -3841,6 +3825,38 @@
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
+    },
+    {
+      "ticker": "ARBE",
+      "name": "Arbe Robotics Ltd.",
+      "sector": "Producer manufacturing",
+      "price": 0.71,
+      "changePct": -4.01,
+      "changeDollar": -0.03
+    },
+    {
+      "ticker": "ARQT",
+      "name": "Arcutis Biotherapeutics, Inc.",
+      "sector": "Health technology",
+      "price": 25.08,
+      "changePct": -1.07,
+      "changeDollar": -0.27
+    },
+    {
+      "ticker": "ARWR",
+      "name": "Arrowhead Pharmaceuticals, Inc.",
+      "sector": "Health technology",
+      "price": 87.11,
+      "changePct": -0.41,
+      "changeDollar": -0.36
+    },
+    {
+      "ticker": "ARI",
+      "name": "Apollo Commercial Real Estate Finance, Inc",
+      "sector": "Finance",
+      "price": 6.93,
+      "changePct": -0.14,
+      "changeDollar": -0.01
     },
     {
       "ticker": "APT",
@@ -3859,36 +3875,20 @@
       "changeDollar": NaN
     },
     {
-      "ticker": "ARHS",
-      "name": "Arhaus, Inc.",
-      "sector": "Consumer durables",
-      "price": 9.39,
-      "changePct": -2.69,
-      "changeDollar": -0.26
+      "ticker": "ARMK",
+      "name": "Aramark",
+      "sector": "Consumer services",
+      "price": 59.77,
+      "changePct": 0.67,
+      "changeDollar": 0.4
     },
     {
-      "ticker": "AROW",
-      "name": "Arrow Financial Corporation",
+      "ticker": "ARCC",
+      "name": "Ares Capital Corporation",
       "sector": "Finance",
-      "price": 38.48,
-      "changePct": 0.39,
-      "changeDollar": 0.15
-    },
-    {
-      "ticker": "ARLO",
-      "name": "Arlo Technologies, Inc.",
-      "sector": "Electronic technology",
-      "price": 13.1,
-      "changePct": 0.46,
-      "changeDollar": 0.06
-    },
-    {
-      "ticker": "ARLP",
-      "name": "Alliance Resource Partners, L.P.",
-      "sector": "Energy minerals",
-      "price": 26.3,
-      "changePct": 0.88,
-      "changeDollar": 0.23
+      "price": 19.92,
+      "changePct": 0.71,
+      "changeDollar": 0.14
     },
     {
       "ticker": "ARQQ",
@@ -3897,6 +3897,22 @@
       "price": 21.14,
       "changePct": 0.96,
       "changeDollar": 0.2
+    },
+    {
+      "ticker": "ARQ",
+      "name": "Arq, Inc.",
+      "sector": "Process industries",
+      "price": 2.3,
+      "changePct": 1.77,
+      "changeDollar": 0.04
+    },
+    {
+      "ticker": "ARCO",
+      "name": "Arcos Dorados Holdings Inc.",
+      "sector": "Consumer services",
+      "price": 7.96,
+      "changePct": 2.05,
+      "changeDollar": 0.16
     },
     {
       "ticker": "APYX",
@@ -3926,25 +3942,17 @@
       "ticker": "ARAY",
       "name": "Accuray Incorporated",
       "sector": "Health technology",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
+      "price": 0.28,
+      "changePct": -3.45,
+      "changeDollar": -0.01
     },
     {
-      "ticker": "ARBE",
-      "name": "Arbe Robotics Ltd.",
-      "sector": "Producer manufacturing",
-      "price": 0.71,
-      "changePct": -4.01,
-      "changeDollar": -0.03
-    },
-    {
-      "ticker": "ARE",
-      "name": "Alexandria Real Estate Equities, Inc.",
-      "sector": "Finance",
-      "price": 53.49,
-      "changePct": 1.04,
-      "changeDollar": 0.55
+      "ticker": "ARLP",
+      "name": "Alliance Resource Partners, L.P.",
+      "sector": "Energy minerals",
+      "price": 26.3,
+      "changePct": 0.88,
+      "changeDollar": 0.23
     },
     {
       "ticker": "ARCB",
@@ -3955,28 +3963,20 @@
       "changeDollar": 4.45
     },
     {
-      "ticker": "ARCC",
-      "name": "Ares Capital Corporation",
-      "sector": "Finance",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
-    },
-    {
-      "ticker": "ARCO",
-      "name": "Arcos Dorados Holdings Inc.",
-      "sector": "Consumer services",
-      "price": 7.96,
-      "changePct": 2.05,
-      "changeDollar": 0.16
-    },
-    {
       "ticker": "ARDT",
       "name": "Ardent Health, Inc.",
       "sector": "Health services",
       "price": 10.99,
       "changePct": 4.87,
       "changeDollar": 0.51
+    },
+    {
+      "ticker": "ARMP",
+      "name": "Armata Pharmaceuticals, Inc.",
+      "sector": "Health technology",
+      "price": 5.1,
+      "changePct": 15.38,
+      "changeDollar": 0.68
     },
     {
       "ticker": "ARCT",
@@ -3990,6 +3990,14 @@
       "ticker": "ARDX",
       "name": "Ardelyx, Inc.",
       "sector": "Health technology",
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
+    },
+    {
+      "ticker": "ARE",
+      "name": "Alexandria Real Estate Equities, Inc.",
+      "sector": "Finance",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
@@ -4019,33 +4027,33 @@
       "changeDollar": NaN
     },
     {
-      "ticker": "ARI",
-      "name": "Apollo Commercial Real Estate Finance, Inc",
+      "ticker": "ARHS",
+      "name": "Arhaus, Inc.",
+      "sector": "Consumer durables",
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
+    },
+    {
+      "ticker": "ARLO",
+      "name": "Arlo Technologies, Inc.",
+      "sector": "Electronic technology",
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
+    },
+    {
+      "ticker": "AROC",
+      "name": "Archrock, Inc.",
+      "sector": "Industrial services",
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
+    },
+    {
+      "ticker": "AROW",
+      "name": "Arrow Financial Corporation",
       "sector": "Finance",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
-    },
-    {
-      "ticker": "ARMK",
-      "name": "Aramark",
-      "sector": "Consumer services",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
-    },
-    {
-      "ticker": "ARMP",
-      "name": "Armata Pharmaceuticals, Inc.",
-      "sector": "Health technology",
-      "price": 5.1,
-      "changePct": 15.38,
-      "changeDollar": 0.68
-    },
-    {
-      "ticker": "ARQ",
-      "name": "Arq, Inc.",
-      "sector": "Process industries",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
@@ -4083,20 +4091,12 @@
       "changeDollar": NaN
     },
     {
-      "ticker": "ARWR",
-      "name": "Arrowhead Pharmaceuticals, Inc.",
-      "sector": "Health technology",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
-    },
-    {
       "ticker": "ARX",
       "name": "Accelerant Holdings",
       "sector": "Finance",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
+      "price": 19.59,
+      "changePct": 0.1,
+      "changeDollar": 0.02
     },
     {
       "ticker": "ARXS",
@@ -4107,12 +4107,68 @@
       "changeDollar": NaN
     },
     {
-      "ticker": "ATOS",
-      "name": "Atossa Therapeutics, Inc.",
+      "ticker": "ATO",
+      "name": "Atmos Energy Corporation",
+      "sector": "Utilities",
+      "price": 166.85,
+      "changePct": -2.15,
+      "changeDollar": -3.67
+    },
+    {
+      "ticker": "AVA",
+      "name": "Avista Corporation",
+      "sector": "Utilities",
+      "price": 37.57,
+      "changePct": -1.73,
+      "changeDollar": -0.66
+    },
+    {
+      "ticker": "ASIX",
+      "name": "AdvanSix Inc.",
+      "sector": "Process industries",
+      "price": 17.18,
+      "changePct": -0.87,
+      "changeDollar": -0.15
+    },
+    {
+      "ticker": "ASND",
+      "name": "Ascendis Pharma A/S",
       "sector": "Health technology",
-      "price": 2.54,
-      "changePct": -1.93,
-      "changeDollar": -0.05
+      "price": 253.29,
+      "changePct": -0.6,
+      "changeDollar": -1.52
+    },
+    {
+      "ticker": "ASYS",
+      "name": "Amtech Systems, Inc.",
+      "sector": "Producer manufacturing",
+      "price": 14.63,
+      "changePct": 0.07,
+      "changeDollar": 0.01
+    },
+    {
+      "ticker": "ATKR",
+      "name": "Atkore Inc.",
+      "sector": "Producer manufacturing",
+      "price": 93.6,
+      "changePct": 0.12,
+      "changeDollar": 0.11
+    },
+    {
+      "ticker": "ASLE",
+      "name": "AerSale Corporation",
+      "sector": "Distribution services",
+      "price": 5.56,
+      "changePct": 0.18,
+      "changeDollar": 0.01
+    },
+    {
+      "ticker": "ASB",
+      "name": "Associated Banc-Corp",
+      "sector": "Finance",
+      "price": 30.84,
+      "changePct": 0.26,
+      "changeDollar": 0.08
     },
     {
       "ticker": "AS",
@@ -4123,19 +4179,19 @@
       "changeDollar": 0.1
     },
     {
+      "ticker": "AURA",
+      "name": "Aura Biosciences, Inc.",
+      "sector": "Health technology",
+      "price": 7.8,
+      "changePct": 0.39,
+      "changeDollar": 0.03
+    },
+    {
       "ticker": "ASAN",
       "name": "Asana, Inc.",
       "sector": "Technology services",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
-    },
-    {
-      "ticker": "ASB",
-      "name": "Associated Banc-Corp",
-      "sector": "Finance",
-      "price": 30.84,
-      "changePct": 0.26,
+      "price": 9.58,
+      "changePct": 0.84,
       "changeDollar": 0.08
     },
     {
@@ -4150,49 +4206,41 @@
       "ticker": "ASH",
       "name": "Ashland Inc.",
       "sector": "Consumer non-durables",
-      "price": 72.66,
-      "changePct": -0.22,
-      "changeDollar": -0.16
-    },
-    {
-      "ticker": "ASIX",
-      "name": "AdvanSix Inc.",
-      "sector": "Process industries",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
     },
     {
-      "ticker": "ASLE",
-      "name": "AerSale Corporation",
-      "sector": "Distribution services",
-      "price": 5.56,
-      "changePct": 0.18,
-      "changeDollar": 0.01
+      "ticker": "AUDC",
+      "name": "AudioCodes Ltd.",
+      "sector": "Electronic technology",
+      "price": 9.6,
+      "changePct": 0.31,
+      "changeDollar": 0.03
     },
     {
-      "ticker": "ASMB",
-      "name": "Assembly Biosciences, Inc.",
-      "sector": "Health technology",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
-    },
-    {
-      "ticker": "ASND",
-      "name": "Ascendis Pharma A/S",
-      "sector": "Health technology",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
+      "ticker": "AUB",
+      "name": "Atlantic Union Bankshares Corporation",
+      "sector": "Finance",
+      "price": 41.15,
+      "changePct": 0.32,
+      "changeDollar": 0.13
     },
     {
       "ticker": "ASO",
       "name": "Academy Sports and Outdoors, Inc.",
       "sector": "Retail trade",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
+      "price": 45.83,
+      "changePct": 0.39,
+      "changeDollar": 0.18
+    },
+    {
+      "ticker": "ASMB",
+      "name": "Assembly Biosciences, Inc.",
+      "sector": "Health technology",
+      "price": 34.38,
+      "changePct": 2.54,
+      "changeDollar": 0.85
     },
     {
       "ticker": "ASPN",
@@ -4206,33 +4254,33 @@
       "ticker": "ASRV",
       "name": "AmeriServ Financial Inc.",
       "sector": "Finance",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
+      "price": 5.02,
+      "changePct": 0.4,
+      "changeDollar": 0.02
     },
     {
-      "ticker": "ATO",
-      "name": "Atmos Energy Corporation",
-      "sector": "Utilities",
-      "price": 166.85,
-      "changePct": -2.15,
-      "changeDollar": -3.67
+      "ticker": "AUGO",
+      "name": "Aura Minerals Inc.",
+      "sector": "Non-energy minerals",
+      "price": 87.26,
+      "changePct": 0.66,
+      "changeDollar": 0.57
     },
     {
-      "ticker": "ATNM",
-      "name": "Actinium Pharmaceuticals, Inc. (Delaware)",
-      "sector": "Health technology",
-      "price": 1.1,
-      "changePct": -1.79,
-      "changeDollar": -0.02
+      "ticker": "ASTH",
+      "name": "Astrana Health Inc.",
+      "sector": "Health services",
+      "price": 39.35,
+      "changePct": 1.57,
+      "changeDollar": 0.61
     },
     {
-      "ticker": "ATRO",
-      "name": "Astronics Corporation",
-      "sector": "Electronic technology",
-      "price": 78.0,
-      "changePct": 2.55,
-      "changeDollar": 1.94
+      "ticker": "AU",
+      "name": "AngloGold Ashanti PLC",
+      "sector": "Non-energy minerals",
+      "price": 121.22,
+      "changePct": 5.94,
+      "changeDollar": 6.8
     },
     {
       "ticker": "ASST",
@@ -4251,36 +4299,12 @@
       "changeDollar": NaN
     },
     {
-      "ticker": "ASTH",
-      "name": "Astrana Health Inc.",
-      "sector": "Health services",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
-    },
-    {
-      "ticker": "ATOM",
-      "name": "Atomera Incorporated",
-      "sector": "Commercial services",
-      "price": 4.78,
-      "changePct": -0.21,
-      "changeDollar": -0.01
-    },
-    {
-      "ticker": "ATLO",
-      "name": "Ames National Corporation",
-      "sector": "Finance",
-      "price": 31.76,
-      "changePct": 0.09,
-      "changeDollar": 0.03
-    },
-    {
       "ticker": "ASTI",
       "name": "Ascent Solar Technologies, Inc",
       "sector": "Electronic technology",
-      "price": 3.09,
-      "changePct": 0.32,
-      "changeDollar": 0.01
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
     },
     {
       "ticker": "ASTL",
@@ -4291,28 +4315,12 @@
       "changeDollar": NaN
     },
     {
-      "ticker": "ASYS",
-      "name": "Amtech Systems, Inc.",
-      "sector": "Producer manufacturing",
-      "price": 14.63,
-      "changePct": 0.07,
-      "changeDollar": 0.01
-    },
-    {
-      "ticker": "ATR",
-      "name": "AptarGroup, Inc.",
-      "sector": "Process industries",
-      "price": 134.8,
-      "changePct": 1.38,
-      "changeDollar": 1.84
-    },
-    {
       "ticker": "ASUR",
       "name": "Asure Software Inc",
       "sector": "Technology services",
-      "price": 8.74,
-      "changePct": 3.68,
-      "changeDollar": 0.31
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
     },
     {
       "ticker": "ATAI",
@@ -4326,9 +4334,9 @@
       "ticker": "ATEC",
       "name": "Alphatec Holdings, Inc.",
       "sector": "Health technology",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
+      "price": 9.48,
+      "changePct": 2.05,
+      "changeDollar": 0.19
     },
     {
       "ticker": "ATER",
@@ -4342,14 +4350,14 @@
       "ticker": "ATEX",
       "name": "Anterix Inc.",
       "sector": "Communications",
-      "price": 93.25,
-      "changePct": 9.31,
-      "changeDollar": 7.94
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
     },
     {
-      "ticker": "ATKR",
-      "name": "Atkore Inc.",
-      "sector": "Producer manufacturing",
+      "ticker": "ATLO",
+      "name": "Ames National Corporation",
+      "sector": "Finance",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
@@ -4371,44 +4379,52 @@
       "changeDollar": NaN
     },
     {
-      "ticker": "ATRC",
-      "name": "AtriCure, Inc.",
+      "ticker": "ATNM",
+      "name": "Actinium Pharmaceuticals, Inc. (Delaware)",
       "sector": "Health technology",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
     },
     {
-      "ticker": "AU",
-      "name": "AngloGold Ashanti PLC",
-      "sector": "Non-energy minerals",
+      "ticker": "ATOM",
+      "name": "Atomera Incorporated",
+      "sector": "Commercial services",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
     },
     {
-      "ticker": "AUB",
-      "name": "Atlantic Union Bankshares Corporation",
-      "sector": "Finance",
+      "ticker": "ATOS",
+      "name": "Atossa Therapeutics, Inc.",
+      "sector": "Health technology",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
     },
     {
-      "ticker": "AUDC",
-      "name": "AudioCodes Ltd.",
+      "ticker": "ATR",
+      "name": "AptarGroup, Inc.",
+      "sector": "Process industries",
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
+    },
+    {
+      "ticker": "ATRO",
+      "name": "Astronics Corporation",
       "sector": "Electronic technology",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
+      "price": 78.0,
+      "changePct": 2.55,
+      "changeDollar": 1.94
     },
     {
-      "ticker": "AUGO",
-      "name": "Aura Minerals Inc.",
-      "sector": "Non-energy minerals",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
+      "ticker": "ATRC",
+      "name": "AtriCure, Inc.",
+      "sector": "Health technology",
+      "price": 48.98,
+      "changePct": 3.14,
+      "changeDollar": 1.49
     },
     {
       "ticker": "AUPH",
@@ -4427,22 +4443,6 @@
       "changeDollar": NaN
     },
     {
-      "ticker": "AURA",
-      "name": "Aura Biosciences, Inc.",
-      "sector": "Health technology",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
-    },
-    {
-      "ticker": "AVA",
-      "name": "Avista Corporation",
-      "sector": "Utilities",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
-    },
-    {
       "ticker": "AVAH",
       "name": "Aveanna Healthcare Holdings Inc.",
       "sector": "Health services",
@@ -4454,57 +4454,9 @@
       "ticker": "AVAV",
       "name": "AeroVironment, Inc.",
       "sector": "Electronic technology",
-      "price": 160.22,
-      "changePct": 0.27,
-      "changeDollar": 0.43
-    },
-    {
-      "ticker": "AVB",
-      "name": "AvalonBay Communities, Inc.",
-      "sector": "Finance",
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
-    },
-    {
-      "ticker": "AVBC",
-      "name": "Avidia Bancorp, Inc.",
-      "sector": "Finance",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
-    },
-    {
-      "ticker": "AVBP",
-      "name": "ArriVent BioPharma, Inc.",
-      "sector": "Health technology",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
-    },
-    {
-      "ticker": "AVD",
-      "name": "American Vanguard Corporation",
-      "sector": "Process industries",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
-    },
-    {
-      "ticker": "AVGO",
-      "name": "Broadcom Inc.",
-      "sector": "Electronic technology",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
-    },
-    {
-      "ticker": "AWK",
-      "name": "American Water Works Company, Inc.",
-      "sector": "Utilities",
-      "price": 135.39,
-      "changePct": -1.33,
-      "changeDollar": -1.82
     },
     {
       "ticker": "BANR",
@@ -4515,28 +4467,20 @@
       "changeDollar": -0.52
     },
     {
-      "ticker": "AVY",
-      "name": "Avery Dennison Corporation",
-      "sector": "Process industries",
-      "price": 183.71,
-      "changePct": 0.56,
-      "changeDollar": 1.03
+      "ticker": "AVBC",
+      "name": "Avidia Bancorp, Inc.",
+      "sector": "Finance",
+      "price": 21.75,
+      "changePct": -0.64,
+      "changeDollar": -0.14
     },
     {
-      "ticker": "AVIR",
-      "name": "Atea Pharmaceuticals, Inc.",
-      "sector": "Health technology",
-      "price": 5.43,
-      "changePct": 1.31,
-      "changeDollar": 0.07
-    },
-    {
-      "ticker": "AVLN",
-      "name": "Avalyn Pharma Inc.",
-      "sector": "Health technology",
-      "price": NaN,
-      "changePct": NaN,
-      "changeDollar": NaN
+      "ticker": "BA",
+      "name": "Boeing Company (The)",
+      "sector": "Electronic technology",
+      "price": 214.2,
+      "changePct": -0.42,
+      "changeDollar": -0.9
     },
     {
       "ticker": "BAX",
@@ -4547,12 +4491,76 @@
       "changeDollar": -0.07
     },
     {
+      "ticker": "AVBP",
+      "name": "ArriVent BioPharma, Inc.",
+      "sector": "Health technology",
+      "price": 29.12,
+      "changePct": -0.21,
+      "changeDollar": -0.06
+    },
+    {
+      "ticker": "AXSM",
+      "name": "Axsome Therapeutics, Inc.",
+      "sector": "Health technology",
+      "price": 207.77,
+      "changePct": -0.12,
+      "changeDollar": -0.26
+    },
+    {
       "ticker": "BANC",
       "name": "Banc of California, Inc.",
       "sector": "Finance",
       "price": 18.64,
       "changePct": -0.05,
       "changeDollar": -0.01
+    },
+    {
+      "ticker": "AVB",
+      "name": "AvalonBay Communities, Inc.",
+      "sector": "Finance",
+      "price": 65.9,
+      "changePct": 0.0,
+      "changeDollar": 0.0
+    },
+    {
+      "ticker": "AVTX",
+      "name": "Avalo Therapeutics, Inc.",
+      "sector": "Health technology",
+      "price": 19.83,
+      "changePct": 0.05,
+      "changeDollar": 0.01
+    },
+    {
+      "ticker": "AXS",
+      "name": "Axis Capital Holdings Limited",
+      "sector": "Finance",
+      "price": 98.73,
+      "changePct": 0.13,
+      "changeDollar": 0.13
+    },
+    {
+      "ticker": "AWI",
+      "name": "Armstrong World Industries Inc",
+      "sector": "Producer manufacturing",
+      "price": 178.54,
+      "changePct": 0.24,
+      "changeDollar": 0.43
+    },
+    {
+      "ticker": "AYI",
+      "name": "Acuity Inc.",
+      "sector": "Producer manufacturing",
+      "price": 343.1,
+      "changePct": 0.42,
+      "changeDollar": 1.45
+    },
+    {
+      "ticker": "AVY",
+      "name": "Avery Dennison Corporation",
+      "sector": "Process industries",
+      "price": 183.71,
+      "changePct": 0.56,
+      "changeDollar": 1.03
     },
     {
       "ticker": "AVNW",
@@ -4563,20 +4571,12 @@
       "changeDollar": 0.12
     },
     {
-      "ticker": "AVTR",
-      "name": "Avantor, Inc.",
-      "sector": "Health technology",
-      "price": 14.46,
-      "changePct": 1.47,
-      "changeDollar": 0.21
-    },
-    {
-      "ticker": "AVNT",
-      "name": "Avient Corporation",
-      "sector": "Process industries",
-      "price": 44.66,
-      "changePct": 2.13,
-      "changeDollar": 0.93
+      "ticker": "BAH",
+      "name": "Booz Allen Hamilton Holding Corporation",
+      "sector": "Commercial services",
+      "price": 77.05,
+      "changePct": 0.9,
+      "changeDollar": 0.69
     }
   ],
   "dollarGainers": [
@@ -4584,33 +4584,17 @@
       "ticker": "A",
       "name": "Agilent Technologies, Inc.",
       "sector": "Health technology",
-      "price": 159.0,
-      "changePct": 1.73,
-      "changeDollar": 2.7
-    },
-    {
-      "ticker": "AA",
-      "name": "Alcoa Corporation",
-      "sector": "Non-energy minerals",
-      "price": 51.85,
-      "changePct": 2.57,
-      "changeDollar": 1.3
-    },
-    {
-      "ticker": "AAL",
-      "name": "American Airlines Group, Inc.",
-      "sector": "Transportation",
-      "price": 13.82,
-      "changePct": 2.22,
-      "changeDollar": 0.3
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
     },
     {
       "ticker": "AADX",
       "name": "Applied Aerospace & Defense, Inc.",
       "sector": "Electronic technology",
-      "price": 14.96,
-      "changePct": -3.48,
-      "changeDollar": -0.54
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
     },
     {
       "ticker": "AAMI",
@@ -4619,48 +4603,64 @@
       "price": NaN,
       "changePct": NaN,
       "changeDollar": NaN
-    }
-  ],
-  "dollarLosers": [
+    },
     {
       "ticker": "AAOI",
       "name": "Applied Optoelectronics, Inc.",
       "sector": "Electronic technology",
-      "price": 124.82,
-      "changePct": -3.32,
-      "changeDollar": -4.28
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
     },
     {
-      "ticker": "AAPL",
-      "name": "Apple Inc.",
-      "sector": "Electronic technology",
-      "price": 309.35,
-      "changePct": -0.63,
-      "changeDollar": -1.95
+      "ticker": "AAP",
+      "name": "Advance Auto Parts Inc.",
+      "sector": "Retail trade",
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
+    }
+  ],
+  "dollarLosers": [
+    {
+      "ticker": "A",
+      "name": "Agilent Technologies, Inc.",
+      "sector": "Health technology",
+      "price": NaN,
+      "changePct": NaN,
+      "changeDollar": NaN
     },
     {
-      "ticker": "AADX",
-      "name": "Applied Aerospace & Defense, Inc.",
-      "sector": "Electronic technology",
-      "price": 14.96,
-      "changePct": -3.48,
-      "changeDollar": -0.54
+      "ticker": "ABG",
+      "name": "Asbury Automotive Group Inc",
+      "sector": "Retail trade",
+      "price": 214.81,
+      "changePct": -0.26,
+      "changeDollar": -0.56
     },
     {
-      "ticker": "AAL",
-      "name": "American Airlines Group, Inc.",
-      "sector": "Transportation",
-      "price": 13.82,
-      "changePct": 2.22,
-      "changeDollar": 0.3
-    },
-    {
-      "ticker": "AA",
-      "name": "Alcoa Corporation",
+      "ticker": "ACA",
+      "name": "Arcosa, Inc.",
       "sector": "Non-energy minerals",
-      "price": 51.85,
-      "changePct": 2.57,
-      "changeDollar": 1.3
+      "price": 144.9,
+      "changePct": -0.34,
+      "changeDollar": -0.5
+    },
+    {
+      "ticker": "ACET",
+      "name": "Adicet Bio, Inc.",
+      "sector": "Health technology",
+      "price": 9.19,
+      "changePct": -2.03,
+      "changeDollar": -0.19
+    },
+    {
+      "ticker": "AKBA",
+      "name": "Akebia Therapeutics, Inc.",
+      "sector": "Health technology",
+      "price": 0.91,
+      "changePct": -1.09,
+      "changeDollar": -0.01
     }
   ]
 }

@@ -2,6 +2,7 @@ import yfinance as yf
 import csv
 import json
 import os
+import math
 from datetime import datetime, timezone
 
 DATA_DIR = os.path.join(os.path.dirname(__file__), '..', 'data')
@@ -53,11 +54,18 @@ def parse_prices(raw, tickers, stock_info):
             prev_close = float(df['Close'].iloc[-2])
             curr_close = float(df['Close'].iloc[-1])
 
-            if prev_close == 0:
+            # Skip nan or zero values — rate limited or missing data
+            if math.isnan(prev_close) or math.isnan(curr_close):
+                continue
+            if prev_close == 0 or curr_close == 0:
                 continue
 
             change_dollar = round(curr_close - prev_close, 2)
             change_pct = round((change_dollar / prev_close) * 100, 2)
+
+            # Skip if change is exactly zero — likely bad/missing data
+            if change_dollar == 0.0:
+                continue
 
             results.append({
                 'ticker': ticker,
