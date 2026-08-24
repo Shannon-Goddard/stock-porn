@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Methodology — stock-porn</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    :root {
+      --bg: #0d0d0d; --surface: #141414; --surface2: #1a1a1a;
+      --border: #2a2a2a; --text: #e8e8e8; --muted: #666;
+      --green: #00c853; --red: #ff1744;
+    }
+    body { background: var(--bg); color: var(--text); font-family: 'Courier New', Courier, monospace; font-size: 14px; line-height: 1.8; }
+    .content { max-width: 800px; margin: 0 auto; padding: 2rem 1rem; }
+    h1 { color: var(--green); font-size: 1.2rem; text-transform: uppercase; letter-spacing: 0.08em; margin-bottom: 0.25rem; }
+    .subtitle { color: var(--muted); font-size: 0.75rem; margin-bottom: 2rem; }
+    h2 {
+      color: var(--green); font-size: 0.9rem; text-transform: uppercase;
+      letter-spacing: 0.08em; margin: 2.5rem 0 1rem;
+      border-bottom: 1px solid var(--border); padding-bottom: 0.5rem;
+    }
+    h3 { color: var(--muted); font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.06em; margin: 1.5rem 0 0.5rem; }
+    p { font-size: 0.85rem; margin-bottom: 1rem; color: var(--text); }
+    pre {
+      background: var(--surface); border: 1px solid var(--border);
+      border-left: 3px solid var(--green); padding: 1rem;
+      font-size: 0.78rem; overflow-x: auto; margin: 1rem 0;
+      border-radius: 0 4px 4px 0; line-height: 1.6;
+    }
+    table { width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.8rem; }
+    th { text-align: left; padding: 0.4rem 0.75rem; color: var(--muted); font-weight: normal; border-bottom: 1px solid var(--border); font-size: 0.72rem; text-transform: uppercase; }
+    td { padding: 0.5rem 0.75rem; border-bottom: 1px solid var(--surface2); }
+    td:first-child { color: var(--green); }
+    a { color: var(--green); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .tag { display: inline-block; padding: 0.1rem 0.4rem; border-radius: 2px; font-size: 0.7rem; margin-right: 0.25rem; }
+    .tag.green { background: #00c85322; color: var(--green); border: 1px solid var(--green); }
+    .tag.red   { background: #ff174422; color: var(--red);   border: 1px solid var(--red); }
+    .callout {
+      background: var(--surface); border: 1px solid var(--border);
+      border-left: 3px solid var(--green); padding: 1rem;
+      margin: 1rem 0; font-size: 0.82rem; border-radius: 0 4px 4px 0;
+    }
+    .divider { border: none; border-top: 1px solid var(--border); margin: 2rem 0; }
+    footer { margin-top: 3rem; padding-top: 1rem; border-top: 1px solid var(--border); font-size: 0.72rem; color: var(--muted); text-align: center; }
+    em { color: var(--muted); font-style: normal; }
+  </style>
+</head>
+<body>
+
+  <div id="nav-root"></div>
+  <script src="../components/nav.js"></script>
+
+  <div class="content">
+    <h1>Methodology</h1>
+    <p class="subtitle">
+      The secret sauce — published openly because transparency builds trust.<br>
+      This is exactly how we generate signals. No black box. No course to sell.
+    </p>
+
+    <h2>The Core Philosophy</h2>
+    <p>Most retail traders fail because they treat the market as either pure numbers or pure news. The edge is in combining both — and knowing which one to check first.</p>
+    <pre>Macro environment  →  Sector sentiment  →  Individual stock signal
+     (water)               (current)              (the fish)
+
+No point analyzing a perfect stock setup
+if the macro is about to tank everything.</pre>
+
+    <hr class="divider">
+
+    <h2>Step 1 — Check the Macro First (SPY/SPX)</h2>
+    <p>Before looking at any individual stock, check whether the market environment is safe to trade in.</p>
+    <pre>SPY = ETF = retail money moves it = faster reaction = noisier
+SPX = index = institutional money = slower but heavier = more meaningful
+
+SPY drops, SPX not confirmed  →  retail panic, possible noise, fade opportunity
+SPX confirms the drop         →  institutional selling, respect it, stay out
+Same story appearing in both  →  highest weight signal, do not fight it</pre>
+    <pre>Your stock not moving as expected?
+→ Check SPY first  (is it the whole market?)
+→ Check SPX next   (are institutions confirming?)
+→ Both down = market problem, not your stock — thesis may still be intact
+→ SPY/SPX fine = something wrong with your thesis — reassess</pre>
+
+    <hr class="divider">
+
+    <h2>Step 2 — Macro Trigger Words</h2>
+    <p>Headlines on SPY/SPX that move the entire market before individual stocks react.</p>
+    <table>
+      <thead><tr><th>Trigger</th><th>Market Reaction</th><th>Hidden Opportunity</th></tr></thead>
+      <tbody>
+        <tr><td>Fed / FOMC / Powell</td><td>Pause before briefing, direction after</td><td>Wait — no trade until after statement</td></tr>
+        <tr><td>CPI / Inflation / PCE</td><td>Immediate broad dip</td><td>Oversold bounce play 2-3 days later</td></tr>
+        <tr><td>Interest rate hike</td><td>Dip — especially tech and growth</td><td>REITS, utilities hit hardest</td></tr>
+        <tr><td>Interest rate cut</td><td>Run — especially REITS and growth</td><td>Rotate into rate-sensitive sectors</td></tr>
+        <tr><td>War / Invasion / Sanctions</td><td>Broad market dip</td><td>LMT, RTX, NOC, GD, POWW go UP</td></tr>
+        <tr><td>China / Beijing / Tariff / Taiwan</td><td>Tanks broad market</td><td>Domestic manufacturers go UP (reshoring)</td></tr>
+        <tr><td>Dollar strength / DXY</td><td>Emerging markets and commodities dip</td><td>Domestic-only companies less affected</td></tr>
+      </tbody>
+    </table>
+    <div class="callout">
+      <strong style="color:var(--green)">The Thursday Fed pattern:</strong><br>
+      FOMC meeting dates are published a year in advance. The market pauses Wednesday-Thursday before the briefing. No trade entry during the pause. After the statement: hawkish language = dip, dovish language = run. This is free alpha from a calendar lookup.
+    </div>
+
+    <hr class="divider">
+
+    <h2>Step 3 — Individual Stock Signals</h2>
+    <h3>Bullish Trigger Words <span class="tag green">CALL</span></h3>
+    <pre>beat expectations        raised guidance
+new contract             FDA approval
+partnership announced    share buyback
+dividend increase        record revenue
+expanding into           strategic acquisition</pre>
+    <h3>Bearish Trigger Words <span class="tag red">PUT</span></h3>
+    <pre>missed expectations      lowered guidance
+investigation            recall
+CEO resigned             SEC inquiry
+delayed launch           restructuring
+layoffs                  debt downgrade</pre>
+    <h3>Context Dependent</h3>
+    <pre>acquisition      →  are they buying or being bought?
+partnership      →  with who? bigger or smaller company?
+restructuring    →  cutting fat (good) or bleeding out (bad)?
+beat revenue / missed earnings  →  which matters more for THIS stock?</pre>
+
+    <hr class="divider">
+
+    <h2>Step 4 — Signal Scoring System</h2>
+    <pre>SEC EDGAR filing              highest weight  (legal, factual)
+Earnings call transcript      high weight     (direct from company)
+Reuters / Bloomberg           medium-high     (institutional attention)
+Yahoo Finance / Google News   medium          (retail attention)
+Social sentiment              low weight alone
+                              BUT high weight if it CONTRADICTS others
+                              — divergence itself is a signal
+
+Score > threshold   →  CALL signal
+Score < -threshold  →  PUT signal
+Score in middle     →  NO TRADE  ← this signal is underrated</pre>
+
+    <hr class="divider">
+
+    <h2>Step 5 — Smart Money vs Dumb Money</h2>
+    <pre>Unusual options volume BEFORE a known catalyst
+= someone knows something
+= legitimate signal, visible to everyone, public data
+
+WSB peak hype on a ticker
+= smart money is typically already exiting
+= the GME squeeze worked once because the math was real
+= most of the time peak hype = someone needs you to buy their bags
+
+Smart money (unusual options volume) + technicals agree
+AND retail sentiment is on the opposite side
+= highest confidence signal</pre>
+    <div class="callout">
+      <strong style="color:var(--green)">"Buy the rumor, sell the news":</strong><br>
+      Stock up 15%+ in 2 weeks BEFORE earnings → post-earnings drop is more likely regardless of actual numbers. The people who bought the rumor are now selling to you.
+    </div>
+
+    <hr class="divider">
+
+    <h2>Step 6 — Price Position (Technical Layer)</h2>
+    <pre>RSI &lt; 30   →  oversold, potential bounce
+RSI &gt; 70   →  overbought, potential pullback
+RSI &lt; 40 + price near 52-week low + known catalyst  →  strong CALL setup
+RSI &gt; 65 + price near 52-week high + no catalyst    →  strong PUT setup</pre>
+    <p>The key question most retail traders miss: <em>is the bad news already priced in?</em> A stock down 30% on a bad quarter with a product launch in 60 days = the setup most people are too scared to take.</p>
+
+    <hr class="divider">
+
+    <h2>Step 7 — Implied Volatility Check</h2>
+    <pre>High IV before a known catalyst
+→ market is already pricing in a big move
+→ options premium is expensive
+→ you can be right on direction and still lose money
+
+Low IV + known catalyst approaching
+→ cheap premium, market hasn't priced in the move yet
+→ this is the sweet spot
+
+IV crush after earnings = one of the most common ways retail traders
+lose money on correct directional calls. Always check IV before buying.</pre>
+
+    <hr class="divider">
+
+    <h2>The Trading Timeframe</h2>
+    <pre>Entry:     3:55 PM PST — automated, buy into the close
+News scan: 6:25 AM PST — Yahoo Finance, held tickers + SPY + SPX
+Exit:      6:31 AM PST — automated
+
+Bearish keywords confirm thesis  →  hold 2 min  →  sell at 6:32 AM
+No confirmation                  →  sell at open (6:30 AM first clean candle)
+2-minute hold is a hard stop     →  THETA on 0DTE is violent past that</pre>
+    <div class="callout">
+      <strong style="color:var(--green)">Why 2 minutes exactly:</strong><br>
+      The first 2 minutes after open are the most volatile and carry the most theta. Holding past that on a 0DTE contract means theta is actively burning your premium. The overnight uncertainty premium resolves at open — that is your profit window.
+    </div>
+
+    <hr class="divider">
+
+    <h2>Signal Quality Filters</h2>
+    <pre>Minimum price:  $10.00
+  → ATM options on sub-$10 stocks exceed $100 budget
+  → Bid/ask spreads untradeable below this threshold
+  → Market cap rejected as alternative — penalizes emerging companies
+
+Minimum volume: 500,000 shares/day (2-day average)
+  → Options open interest is downstream of stock volume
+  → Below 500K = wide spreads, can't get fair fill on $100 contract
+
+Expiration max: 7 days
+  → Quarterly contracts: ATM premium exceeds $100 budget
+  → Theta burn makes overnight hold inefficient
+  → yfinance 1-min candle history only available for 7 days</pre>
+
+    <hr class="divider">
+
+    <h2>The 15-Year Watchlist Principle</h2>
+    <p>No algorithm replaces knowing which stocks are "well behaved" — meaning they consistently follow these patterns vs ones that are erratic.</p>
+    <pre>A well-behaved stock:
+  Reacts predictably to its sector's macro triggers
+  Has consistent IV behavior around earnings
+  Doesn't gap randomly on low volume
+  Has enough options liquidity to get a fair fill</pre>
+
+    <hr class="divider">
+
+    <h2>What We Publish That Nobody Else Does</h2>
+    <pre>1. Full signal methodology — open source, no black box
+2. Trigger word list with historical price reactions
+3. Unusual options volume as insider activity proxy
+4. The NO TRADE signal — when to sit out
+5. Pairs trades hidden inside every macro trigger
+6. IV check before every paper trade — shown explicitly
+7. Running paper trade record — fully transparent wins and losses
+8. Black-Scholes FOMO calculator — what you left on the table
+9. Theta burn by DTE — Thursday vs Monday entry comparison
+10. Keyword accuracy rate — turns opinion into evidence over time</pre>
+
+    <footer>
+      Built from 15 years of watching the market and a $5 to $500 accidental options trade.<br>
+      <em>Not a financial advisor. Built this to earn beer money.</em><br>
+      <a href="https://buymeacoffee.com/goddardshannon9" target="_blank" rel="noopener">🍺 Buy the dev a beer</a>
+    </footer>
+  </div>
+
+</body>
+</html>

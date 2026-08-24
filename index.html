@@ -274,15 +274,17 @@
 </head>
 <body>
 
+  <div id="nav-root"></div>
+  <script src="components/nav.js"></script>
+
   <header>
     <h1>stock-porn</h1>
     <p class="tagline">Because numbers are sexy and fun to watch</p>
   </header>
 
   <div class="disclaimer">
-    <strong>⚠ Not a financial advisor.</strong> I built this to earn beer money.
-    All data is for entertainment purposes only. Trade at your own risk.
-    <a href="https://www.investor.gov/" target="_blank">For real advice →</a>
+    <strong>⚠ Not a financial advisor.</strong> All data is for entertainment purposes only. Trade at your own risk.
+    <a href="pages/legal.html">Legal →</a>
   </div>
 
   <div class="status-bar">
@@ -376,14 +378,7 @@
 
   <footer>
     <div>Data via Yahoo Finance · Updates every 30 min during market hours</div>
-    <div>
-      <a href="https://github.com/Shannon-Goddard/stock-porn" target="_blank">GitHub</a>
-      &nbsp;·&nbsp;
-      <a href="docs/methodology.md" target="_blank">Methodology</a>
-      &nbsp;·&nbsp;
-      <a href="docs/google-sheets-guide.md" target="_blank">Google Sheets Guide</a>
-    </div>
-    <a class="beer-btn" href="https://buymeacoffee.com/goddardshannon9" target="_blank">🍺 Buy the dev a beer</a>
+    <a class="beer-btn" href="https://buymeacoffee.com/goddardshannon9" target="_blank" rel="noopener">🍺 Buy the dev a beer</a>
   </footer>
 
   <script>
