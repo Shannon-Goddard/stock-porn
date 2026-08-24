@@ -123,8 +123,8 @@ def main():
     # Calculate signals
     top_gainers = filter_top_pct(results, gainers=True)
     top_losers = filter_top_pct(results, gainers=False)
-    dollar_gainers = filter_top_dollar(results, gainers=True)
-    dollar_losers = filter_top_dollar(results, gainers=False)
+    dollar_gainers = filter_top_dollar(top_gainers, gainers=True)
+    dollar_losers = filter_top_dollar(top_losers, gainers=False)
 
     print(f"Top 10% gainers:      {len(top_gainers)} stocks")
     print(f"Top 10% losers:       {len(top_losers)} stocks")
