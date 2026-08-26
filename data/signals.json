@@ -1,250 +1,250 @@
 {
   "topGainers": [
     {
-      "ticker": "ARCT",
-      "name": "Arcturus Therapeutics Holdings Inc.",
-      "sector": "Health technology",
-      "price": 13.45,
-      "changePct": 22.38,
-      "changeDollar": 2.46
+      "ticker": "ANF",
+      "name": "Abercrombie & Fitch Company",
+      "sector": "Retail trade",
+      "price": 147.75,
+      "changePct": 35.67,
+      "changeDollar": 38.85
     },
     {
-      "ticker": "HQ",
-      "name": "Horizon Quantum Holdings Ltd.",
-      "sector": "Technology services",
-      "price": 19.93,
-      "changePct": 14.54,
+      "ticker": "BHVN",
+      "name": "Biohaven Ltd.",
+      "sector": "Health technology",
+      "price": 16.95,
+      "changePct": 17.87,
+      "changeDollar": 2.57
+    },
+    {
+      "ticker": "PRE",
+      "name": "Prenetics Global Limited",
+      "sector": "Finance",
+      "price": 25.78,
+      "changePct": 10.88,
       "changeDollar": 2.53
     },
     {
-      "ticker": "UEC",
-      "name": "Uranium Energy Corp.",
-      "sector": "Non-energy minerals",
-      "price": 12.76,
-      "changePct": 14.44,
-      "changeDollar": 1.61
-    },
-    {
-      "ticker": "HOOD",
-      "name": "Robinhood Markets, Inc.",
+      "ticker": "BETR",
+      "name": "Better Home & Finance Holding Company",
       "sector": "Finance",
-      "price": 108.13,
-      "changePct": 13.7,
-      "changeDollar": 13.03
+      "price": 13.41,
+      "changePct": 9.02,
+      "changeDollar": 1.11
     },
     {
-      "ticker": "ASST",
-      "name": "Strive, Inc.",
-      "sector": "Miscellaneous",
-      "price": 18.22,
-      "changePct": 12.96,
-      "changeDollar": 2.09
+      "ticker": "BBWI",
+      "name": "Bath & Body Works, Inc.",
+      "sector": "Retail trade",
+      "price": 18.9,
+      "changePct": 7.51,
+      "changeDollar": 1.32
     },
     {
-      "ticker": "INFQ",
-      "name": "Infleqtion, Inc.",
+      "ticker": "BTSG",
+      "name": "BrightSpring Health Services, Inc.",
+      "sector": "Health services",
+      "price": 61.35,
+      "changePct": 7.2,
+      "changeDollar": 4.12
+    },
+    {
+      "ticker": "WOLF",
+      "name": "Wolfspeed, Inc.",
       "sector": "Electronic technology",
-      "price": 14.12,
-      "changePct": 12.51,
-      "changeDollar": 1.57
+      "price": 26.93,
+      "changePct": 6.48,
+      "changeDollar": 1.64
     },
     {
-      "ticker": "DK",
-      "name": "Delek US Holdings, Inc.",
-      "sector": "Energy minerals",
-      "price": 71.47,
-      "changePct": 11.6,
-      "changeDollar": 7.43
+      "ticker": "LITE",
+      "name": "Lumentum Holdings Inc.",
+      "sector": "Producer manufacturing",
+      "price": 939.03,
+      "changePct": 6.04,
+      "changeDollar": 53.47
     },
     {
-      "ticker": "SGML",
-      "name": "Sigma Lithium Corporation",
-      "sector": "Non-energy minerals",
-      "price": 11.97,
-      "changePct": 11.56,
-      "changeDollar": 1.24
-    },
-    {
-      "ticker": "RGTI",
-      "name": "Rigetti Computing, Inc.",
+      "ticker": "ANET",
+      "name": "Arista Networks, Inc.",
       "sector": "Electronic technology",
-      "price": 17.91,
-      "changePct": 11.45,
-      "changeDollar": 1.84
+      "price": 202.25,
+      "changePct": 5.92,
+      "changeDollar": 11.31
     },
     {
-      "ticker": "VIRT",
-      "name": "Virtu Financial, Inc.",
-      "sector": "Finance",
-      "price": 67.93,
-      "changePct": 11.01,
-      "changeDollar": 6.74
+      "ticker": "SGMT",
+      "name": "Sagimet Biosciences Inc. - Series A",
+      "sector": "Health technology",
+      "price": 10.86,
+      "changePct": 5.54,
+      "changeDollar": 0.57
     }
   ],
   "topLosers": [
     {
-      "ticker": "HUT",
-      "name": "Hut 8 Corp.",
-      "sector": "Technology services",
-      "price": 80.86,
-      "changePct": -8.79,
-      "changeDollar": -7.79
+      "ticker": "DY",
+      "name": "Dycom Industries, Inc.",
+      "sector": "Industrial services",
+      "price": 310.91,
+      "changePct": -11.62,
+      "changeDollar": -40.89
     },
     {
-      "ticker": "CIFR",
-      "name": "Cipher Digital Inc.",
-      "sector": "Technology services",
-      "price": 15.77,
-      "changePct": -8.37,
-      "changeDollar": -1.44
+      "ticker": "CLYM",
+      "name": "Climb Bio, Inc.",
+      "sector": "Health technology",
+      "price": 16.08,
+      "changePct": -9.87,
+      "changeDollar": -1.76
     },
     {
-      "ticker": "CBRS",
-      "name": "Cerebras Systems Inc.",
-      "sector": "Technology services",
-      "price": 196.13,
-      "changePct": -6.54,
-      "changeDollar": -13.72
-    },
-    {
-      "ticker": "MRVL",
-      "name": "Marvell Technology, Inc.",
-      "sector": "Electronic technology",
-      "price": 237.04,
-      "changePct": -5.57,
-      "changeDollar": -13.97
-    },
-    {
-      "ticker": "RIOT",
-      "name": "Riot Platforms, Inc.",
-      "sector": "Technology services",
-      "price": 19.83,
-      "changePct": -5.48,
-      "changeDollar": -1.15
+      "ticker": "MNRO",
+      "name": "Monro, Inc.",
+      "sector": "Retail trade",
+      "price": 12.61,
+      "changePct": -9.67,
+      "changeDollar": -1.35
     },
     {
       "ticker": "APLD",
       "name": "Applied Digital Corporation",
       "sector": "Technology services",
-      "price": 27.21,
-      "changePct": -5.03,
-      "changeDollar": -1.44
+      "price": 26.87,
+      "changePct": -6.86,
+      "changeDollar": -1.98
     },
     {
-      "ticker": "CLSK",
-      "name": "CleanSpark, Inc.",
+      "ticker": "HIMS",
+      "name": "Hims & Hers Health, Inc.",
+      "sector": "Health services",
+      "price": 29.83,
+      "changePct": -6.05,
+      "changeDollar": -1.92
+    },
+    {
+      "ticker": "OKLO",
+      "name": "Oklo Inc.",
+      "sector": "Producer manufacturing",
+      "price": 41.6,
+      "changePct": -6.03,
+      "changeDollar": -2.67
+    },
+    {
+      "ticker": "FUBO",
+      "name": "FuboTV Inc.",
       "sector": "Technology services",
-      "price": 11.98,
-      "changePct": -4.92,
+      "price": 10.3,
+      "changePct": -5.94,
+      "changeDollar": -0.65
+    },
+    {
+      "ticker": "RGTI",
+      "name": "Rigetti Computing, Inc.",
+      "sector": "Electronic technology",
+      "price": 15.94,
+      "changePct": -5.9,
+      "changeDollar": -1.0
+    },
+    {
+      "ticker": "OMER",
+      "name": "Omeros Corporation",
+      "sector": "Health technology",
+      "price": 18.22,
+      "changePct": -5.5,
+      "changeDollar": -1.06
+    },
+    {
+      "ticker": "BTDR",
+      "name": "Bitdeer Technologies Group",
+      "sector": "Technology services",
+      "price": 10.67,
+      "changePct": -5.49,
       "changeDollar": -0.62
-    },
-    {
-      "ticker": "WULF",
-      "name": "TeraWulf Inc.",
-      "sector": "Technology services",
-      "price": 15.64,
-      "changePct": -4.92,
-      "changeDollar": -0.81
-    },
-    {
-      "ticker": "REAL",
-      "name": "The RealReal, Inc.",
-      "sector": "Retail trade",
-      "price": 11.12,
-      "changePct": -4.55,
-      "changeDollar": -0.53
-    },
-    {
-      "ticker": "EIX",
-      "name": "Edison International",
-      "sector": "Utilities",
-      "price": 71.59,
-      "changePct": -4.11,
-      "changeDollar": -3.07
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "HOOD",
-      "name": "Robinhood Markets, Inc.",
-      "sector": "Finance",
-      "price": 108.13,
-      "changePct": 13.7,
-      "changeDollar": 13.03
+      "ticker": "LITE",
+      "name": "Lumentum Holdings Inc.",
+      "sector": "Producer manufacturing",
+      "price": 939.03,
+      "changePct": 6.04,
+      "changeDollar": 53.47
     },
     {
-      "ticker": "DK",
-      "name": "Delek US Holdings, Inc.",
-      "sector": "Energy minerals",
-      "price": 71.47,
-      "changePct": 11.6,
-      "changeDollar": 7.43
+      "ticker": "ANF",
+      "name": "Abercrombie & Fitch Company",
+      "sector": "Retail trade",
+      "price": 147.75,
+      "changePct": 35.67,
+      "changeDollar": 38.85
     },
     {
-      "ticker": "VIRT",
-      "name": "Virtu Financial, Inc.",
-      "sector": "Finance",
-      "price": 67.93,
-      "changePct": 11.01,
-      "changeDollar": 6.74
+      "ticker": "ANET",
+      "name": "Arista Networks, Inc.",
+      "sector": "Electronic technology",
+      "price": 202.25,
+      "changePct": 5.92,
+      "changeDollar": 11.31
     },
     {
-      "ticker": "HQ",
-      "name": "Horizon Quantum Holdings Ltd.",
-      "sector": "Technology services",
-      "price": 19.93,
-      "changePct": 14.54,
-      "changeDollar": 2.53
+      "ticker": "BTSG",
+      "name": "BrightSpring Health Services, Inc.",
+      "sector": "Health services",
+      "price": 61.35,
+      "changePct": 7.2,
+      "changeDollar": 4.12
     },
     {
-      "ticker": "ARCT",
-      "name": "Arcturus Therapeutics Holdings Inc.",
+      "ticker": "BHVN",
+      "name": "Biohaven Ltd.",
       "sector": "Health technology",
-      "price": 13.45,
-      "changePct": 22.38,
-      "changeDollar": 2.46
+      "price": 16.95,
+      "changePct": 17.87,
+      "changeDollar": 2.57
     }
   ],
   "dollarLosers": [
     {
-      "ticker": "MRVL",
-      "name": "Marvell Technology, Inc.",
-      "sector": "Electronic technology",
-      "price": 237.04,
-      "changePct": -5.57,
-      "changeDollar": -13.97
+      "ticker": "DY",
+      "name": "Dycom Industries, Inc.",
+      "sector": "Industrial services",
+      "price": 310.91,
+      "changePct": -11.62,
+      "changeDollar": -40.89
     },
     {
-      "ticker": "CBRS",
-      "name": "Cerebras Systems Inc.",
+      "ticker": "OKLO",
+      "name": "Oklo Inc.",
+      "sector": "Producer manufacturing",
+      "price": 41.6,
+      "changePct": -6.03,
+      "changeDollar": -2.67
+    },
+    {
+      "ticker": "APLD",
+      "name": "Applied Digital Corporation",
       "sector": "Technology services",
-      "price": 196.13,
-      "changePct": -6.54,
-      "changeDollar": -13.72
+      "price": 26.87,
+      "changePct": -6.86,
+      "changeDollar": -1.98
     },
     {
-      "ticker": "HUT",
-      "name": "Hut 8 Corp.",
-      "sector": "Technology services",
-      "price": 80.86,
-      "changePct": -8.79,
-      "changeDollar": -7.79
+      "ticker": "HIMS",
+      "name": "Hims & Hers Health, Inc.",
+      "sector": "Health services",
+      "price": 29.83,
+      "changePct": -6.05,
+      "changeDollar": -1.92
     },
     {
-      "ticker": "EIX",
-      "name": "Edison International",
-      "sector": "Utilities",
-      "price": 71.59,
-      "changePct": -4.11,
-      "changeDollar": -3.07
-    },
-    {
-      "ticker": "CIFR",
-      "name": "Cipher Digital Inc.",
-      "sector": "Technology services",
-      "price": 15.77,
-      "changePct": -8.37,
-      "changeDollar": -1.44
+      "ticker": "CLYM",
+      "name": "Climb Bio, Inc.",
+      "sector": "Health technology",
+      "price": 16.08,
+      "changePct": -9.87,
+      "changeDollar": -1.76
     }
   ]
 }
