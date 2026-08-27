@@ -1,250 +1,250 @@
 {
   "topGainers": [
     {
-      "ticker": "ANF",
-      "name": "Abercrombie & Fitch Company",
-      "sector": "Retail trade",
-      "price": 147.75,
-      "changePct": 35.67,
-      "changeDollar": 38.85
+      "ticker": "OKTA",
+      "name": "Okta, Inc.",
+      "sector": "Technology services",
+      "price": 172.91,
+      "changePct": 28.63,
+      "changeDollar": 38.49
     },
     {
-      "ticker": "BHVN",
-      "name": "Biohaven Ltd.",
-      "sector": "Health technology",
-      "price": 16.95,
-      "changePct": 17.87,
-      "changeDollar": 2.57
+      "ticker": "CRM",
+      "name": "Salesforce, Inc.",
+      "sector": "Technology services",
+      "price": 252.05,
+      "changePct": 22.58,
+      "changeDollar": 46.43
     },
     {
-      "ticker": "PRE",
-      "name": "Prenetics Global Limited",
-      "sector": "Finance",
-      "price": 25.78,
-      "changePct": 10.88,
-      "changeDollar": 2.53
+      "ticker": "CRWD",
+      "name": "CrowdStrike Holdings, Inc.",
+      "sector": "Technology services",
+      "price": 227.96,
+      "changePct": 20.5,
+      "changeDollar": 38.78
     },
     {
-      "ticker": "BETR",
-      "name": "Better Home & Finance Holding Company",
-      "sector": "Finance",
-      "price": 13.41,
-      "changePct": 9.02,
-      "changeDollar": 1.11
+      "ticker": "SNPS",
+      "name": "Synopsys, Inc.",
+      "sector": "Technology services",
+      "price": 464.89,
+      "changePct": 13.39,
+      "changeDollar": 54.89
     },
     {
-      "ticker": "BBWI",
-      "name": "Bath & Body Works, Inc.",
-      "sector": "Retail trade",
-      "price": 18.9,
-      "changePct": 7.51,
-      "changeDollar": 1.32
+      "ticker": "BRUN",
+      "name": "Boost Run Inc.",
+      "sector": "Technology services",
+      "price": 20.61,
+      "changePct": 13.3,
+      "changeDollar": 2.42
     },
     {
-      "ticker": "BTSG",
-      "name": "BrightSpring Health Services, Inc.",
-      "sector": "Health services",
-      "price": 61.35,
-      "changePct": 7.2,
-      "changeDollar": 4.12
+      "ticker": "FIG",
+      "name": "FIGMA INC",
+      "sector": "Technology services",
+      "price": 30.62,
+      "changePct": 13.28,
+      "changeDollar": 3.59
     },
     {
-      "ticker": "WOLF",
-      "name": "Wolfspeed, Inc.",
-      "sector": "Electronic technology",
-      "price": 26.93,
-      "changePct": 6.48,
-      "changeDollar": 1.64
+      "ticker": "PANW",
+      "name": "Palo Alto Networks, Inc.",
+      "sector": "Technology services",
+      "price": 382.85,
+      "changePct": 12.83,
+      "changeDollar": 43.54
     },
     {
-      "ticker": "LITE",
-      "name": "Lumentum Holdings Inc.",
-      "sector": "Producer manufacturing",
-      "price": 939.03,
-      "changePct": 6.04,
-      "changeDollar": 53.47
+      "ticker": "OOMA",
+      "name": "Ooma, Inc.",
+      "sector": "Communications",
+      "price": 23.04,
+      "changePct": 12.23,
+      "changeDollar": 2.51
     },
     {
-      "ticker": "ANET",
-      "name": "Arista Networks, Inc.",
-      "sector": "Electronic technology",
-      "price": 202.25,
-      "changePct": 5.92,
-      "changeDollar": 11.31
+      "ticker": "TENB",
+      "name": "Tenable Holdings, Inc.",
+      "sector": "Technology services",
+      "price": 37.62,
+      "changePct": 11.76,
+      "changeDollar": 3.96
     },
     {
-      "ticker": "SGMT",
-      "name": "Sagimet Biosciences Inc. - Series A",
-      "sector": "Health technology",
-      "price": 10.86,
-      "changePct": 5.54,
-      "changeDollar": 0.57
+      "ticker": "RBRK",
+      "name": "Rubrik, Inc.",
+      "sector": "Technology services",
+      "price": 107.02,
+      "changePct": 11.33,
+      "changeDollar": 10.89
     }
   ],
   "topLosers": [
     {
-      "ticker": "DY",
-      "name": "Dycom Industries, Inc.",
-      "sector": "Industrial services",
-      "price": 310.91,
-      "changePct": -11.62,
-      "changeDollar": -40.89
-    },
-    {
-      "ticker": "CLYM",
-      "name": "Climb Bio, Inc.",
-      "sector": "Health technology",
-      "price": 16.08,
-      "changePct": -9.87,
-      "changeDollar": -1.76
-    },
-    {
-      "ticker": "MNRO",
-      "name": "Monro, Inc.",
+      "ticker": "BBW",
+      "name": "Build-A-Bear Workshop, Inc.",
       "sector": "Retail trade",
-      "price": 12.61,
-      "changePct": -9.67,
-      "changeDollar": -1.35
+      "price": 28.44,
+      "changePct": -27.26,
+      "changeDollar": -10.66
     },
     {
-      "ticker": "APLD",
-      "name": "Applied Digital Corporation",
-      "sector": "Technology services",
-      "price": 26.87,
-      "changePct": -6.86,
-      "changeDollar": -1.98
+      "ticker": "REAX",
+      "name": "The Real Brokerage, Inc.",
+      "sector": "Commercial services",
+      "price": 23.63,
+      "changePct": -11.13,
+      "changeDollar": -2.96
     },
     {
-      "ticker": "HIMS",
-      "name": "Hims & Hers Health, Inc.",
-      "sector": "Health services",
-      "price": 29.83,
-      "changePct": -6.05,
-      "changeDollar": -1.92
+      "ticker": "NEXA",
+      "name": "Nexa Resources S.A.",
+      "sector": "Non-energy minerals",
+      "price": 13.9,
+      "changePct": -10.78,
+      "changeDollar": -1.68
     },
     {
-      "ticker": "OKLO",
-      "name": "Oklo Inc.",
-      "sector": "Producer manufacturing",
-      "price": 41.6,
-      "changePct": -6.03,
-      "changeDollar": -2.67
+      "ticker": "HQY",
+      "name": "HealthEquity, Inc.",
+      "sector": "Finance",
+      "price": 93.39,
+      "changePct": -10.56,
+      "changeDollar": -11.03
     },
     {
-      "ticker": "FUBO",
-      "name": "FuboTV Inc.",
-      "sector": "Technology services",
-      "price": 10.3,
-      "changePct": -5.94,
-      "changeDollar": -0.65
+      "ticker": "PAY",
+      "name": "Paymentus Holdings, Inc.",
+      "sector": "Commercial services",
+      "price": 35.61,
+      "changePct": -9.69,
+      "changeDollar": -3.82
     },
     {
-      "ticker": "RGTI",
-      "name": "Rigetti Computing, Inc.",
-      "sector": "Electronic technology",
-      "price": 15.94,
-      "changePct": -5.9,
-      "changeDollar": -1.0
+      "ticker": "SFM",
+      "name": "Sprouts Farmers Market, Inc.",
+      "sector": "Retail trade",
+      "price": 81.04,
+      "changePct": -6.67,
+      "changeDollar": -5.79
     },
     {
-      "ticker": "OMER",
-      "name": "Omeros Corporation",
+      "ticker": "VERA",
+      "name": "Vera Therapeutics, Inc.",
       "sector": "Health technology",
-      "price": 18.22,
-      "changePct": -5.5,
-      "changeDollar": -1.06
+      "price": 34.6,
+      "changePct": -6.03,
+      "changeDollar": -2.22
     },
     {
-      "ticker": "BTDR",
-      "name": "Bitdeer Technologies Group",
+      "ticker": "CBRL",
+      "name": "Cracker Barrel Old Country Store, Inc.",
+      "sector": "Consumer services",
+      "price": 55.07,
+      "changePct": -5.96,
+      "changeDollar": -3.49
+    },
+    {
+      "ticker": "AEO",
+      "name": "American Eagle Outfitters, Inc.",
+      "sector": "Retail trade",
+      "price": 16.69,
+      "changePct": -5.12,
+      "changeDollar": -0.9
+    },
+    {
+      "ticker": "TOST",
+      "name": "Toast, Inc.",
       "sector": "Technology services",
-      "price": 10.67,
-      "changePct": -5.49,
-      "changeDollar": -0.62
+      "price": 35.17,
+      "changePct": -4.87,
+      "changeDollar": -1.8
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "LITE",
-      "name": "Lumentum Holdings Inc.",
-      "sector": "Producer manufacturing",
-      "price": 939.03,
-      "changePct": 6.04,
-      "changeDollar": 53.47
+      "ticker": "SNPS",
+      "name": "Synopsys, Inc.",
+      "sector": "Technology services",
+      "price": 464.89,
+      "changePct": 13.39,
+      "changeDollar": 54.89
     },
     {
-      "ticker": "ANF",
-      "name": "Abercrombie & Fitch Company",
-      "sector": "Retail trade",
-      "price": 147.75,
-      "changePct": 35.67,
-      "changeDollar": 38.85
+      "ticker": "CRM",
+      "name": "Salesforce, Inc.",
+      "sector": "Technology services",
+      "price": 252.05,
+      "changePct": 22.58,
+      "changeDollar": 46.43
     },
     {
-      "ticker": "ANET",
-      "name": "Arista Networks, Inc.",
-      "sector": "Electronic technology",
-      "price": 202.25,
-      "changePct": 5.92,
-      "changeDollar": 11.31
+      "ticker": "PANW",
+      "name": "Palo Alto Networks, Inc.",
+      "sector": "Technology services",
+      "price": 382.85,
+      "changePct": 12.83,
+      "changeDollar": 43.54
     },
     {
-      "ticker": "BTSG",
-      "name": "BrightSpring Health Services, Inc.",
-      "sector": "Health services",
-      "price": 61.35,
-      "changePct": 7.2,
-      "changeDollar": 4.12
+      "ticker": "CRWD",
+      "name": "CrowdStrike Holdings, Inc.",
+      "sector": "Technology services",
+      "price": 227.96,
+      "changePct": 20.5,
+      "changeDollar": 38.78
     },
     {
-      "ticker": "BHVN",
-      "name": "Biohaven Ltd.",
-      "sector": "Health technology",
-      "price": 16.95,
-      "changePct": 17.87,
-      "changeDollar": 2.57
+      "ticker": "OKTA",
+      "name": "Okta, Inc.",
+      "sector": "Technology services",
+      "price": 172.91,
+      "changePct": 28.63,
+      "changeDollar": 38.49
     }
   ],
   "dollarLosers": [
     {
-      "ticker": "DY",
-      "name": "Dycom Industries, Inc.",
-      "sector": "Industrial services",
-      "price": 310.91,
-      "changePct": -11.62,
-      "changeDollar": -40.89
+      "ticker": "HQY",
+      "name": "HealthEquity, Inc.",
+      "sector": "Finance",
+      "price": 93.39,
+      "changePct": -10.56,
+      "changeDollar": -11.03
     },
     {
-      "ticker": "OKLO",
-      "name": "Oklo Inc.",
-      "sector": "Producer manufacturing",
-      "price": 41.6,
-      "changePct": -6.03,
-      "changeDollar": -2.67
+      "ticker": "BBW",
+      "name": "Build-A-Bear Workshop, Inc.",
+      "sector": "Retail trade",
+      "price": 28.44,
+      "changePct": -27.26,
+      "changeDollar": -10.66
     },
     {
-      "ticker": "APLD",
-      "name": "Applied Digital Corporation",
-      "sector": "Technology services",
-      "price": 26.87,
-      "changePct": -6.86,
-      "changeDollar": -1.98
+      "ticker": "SFM",
+      "name": "Sprouts Farmers Market, Inc.",
+      "sector": "Retail trade",
+      "price": 81.04,
+      "changePct": -6.67,
+      "changeDollar": -5.79
     },
     {
-      "ticker": "HIMS",
-      "name": "Hims & Hers Health, Inc.",
-      "sector": "Health services",
-      "price": 29.83,
-      "changePct": -6.05,
-      "changeDollar": -1.92
+      "ticker": "PAY",
+      "name": "Paymentus Holdings, Inc.",
+      "sector": "Commercial services",
+      "price": 35.61,
+      "changePct": -9.69,
+      "changeDollar": -3.82
     },
     {
-      "ticker": "CLYM",
-      "name": "Climb Bio, Inc.",
-      "sector": "Health technology",
-      "price": 16.08,
-      "changePct": -9.87,
-      "changeDollar": -1.76
+      "ticker": "CBRL",
+      "name": "Cracker Barrel Old Country Store, Inc.",
+      "sector": "Consumer services",
+      "price": 55.07,
+      "changePct": -5.96,
+      "changeDollar": -3.49
     }
   ]
 }
