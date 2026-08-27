@@ -146,6 +146,42 @@
         "left_on_table": -22794.8,
         "theta_note": "4DTE: Theta minimal at open, stock direction dominates. Est. $0.00 burned"
       }
+    },
+    {
+      "id": 3,
+      "status": "open",
+      "entry": {
+        "date": "2026-08-27",
+        "time": "15:55 PST",
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "sector": "Producer manufacturing",
+        "type": "CALL",
+        "strike": 1095.0,
+        "expiration": "2026-08-28",
+        "dte_at_entry": 1,
+        "T_at_entry": 0.00274,
+        "stock_price_at_entry": 939.03,
+        "premium": 1.0,
+        "cost": 100.0,
+        "bid": null,
+        "spread": null,
+        "iv_at_entry": 0.9946,
+        "otm_pct": 16.61,
+        "signal_rank": "dollar_gainer_1",
+        "signal_pct": 6.04,
+        "signal_dollar": 53.47,
+        "spy_change": 0.02,
+        "macro_active": true,
+        "macro_keywords": [
+          "inflation",
+          "tariff"
+        ],
+        "auto_note": "LITE CALL | $+53.47 (+6.04%) | dollar_gainer_1 | Strike $1095.0 exp 2026-08-28 (1DTE) | IV 99.5% | SPY +0.02% | MACRO: inflation, tariff"
+      },
+      "news_scan": null,
+      "exit": null,
+      "fomo": null
     }
   ]
 }

@@ -26,5 +26,16 @@
     "subtitle": "MRVL closed at $237.04 on 2026-08-24, ranking dollar_loser_1 with -5.57% ($-13.97). Strike $190.0 PUT exp 2026-08-28 (4DTE). IV at entry: 112.6%. Cost: $100.00. News scan: n/a \u2014 decision: n/a. Sold at option value $0.5789 (stock open $229.13) at 2026-08-24 09:30:00-04:00. P&L: $-42.11. Left on table: $-22794.80.",
     "pnl": -42.11,
     "won": false
+  },
+  {
+    "id": 3,
+    "date": "2026-08-27",
+    "ticker": "LITE",
+    "type": "CALL",
+    "trade_id": 3,
+    "title": "LITE CALL \u2014 2026-08-27",
+    "youtube_id": null,
+    "images": [],
+    "published": true
   }
 ]
