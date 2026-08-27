@@ -179,7 +179,29 @@
         ],
         "auto_note": "LITE CALL | $+53.47 (+6.04%) | dollar_gainer_1 | Strike $1095.0 exp 2026-08-28 (1DTE) | IV 99.5% | SPY +0.02% | MACRO: inflation, tariff"
       },
-      "news_scan": null,
+      "news_scan": {
+        "scanned_at": "2026-08-27 23:00:37 PST",
+        "gap_days": 0,
+        "ticker_sentiment": "bullish",
+        "spy_sentiment": "bullish",
+        "spx_sentiment": "bullish",
+        "keywords_found": [
+          "revenue growth",
+          "jumps"
+        ],
+        "spy_keywords": [
+          "surge",
+          "jumps",
+          "falls"
+        ],
+        "spx_keywords": [
+          "jumps",
+          "rallies",
+          "drops"
+        ],
+        "decision": "hold",
+        "decision_reason": "bullish keywords confirmed CALL thesis"
+      },
       "exit": null,
       "fomo": null
     }
