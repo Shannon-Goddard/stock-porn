@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-08-24 21:00:50 UTC",
+  "last_updated": "2026-08-27 23:02:33 UTC",
   "overall": {
-    "total_trades": 2,
+    "total_trades": 3,
     "wins": 1,
-    "losses": 1,
-    "win_rate": 50.0,
-    "avg_pnl": 2.98,
-    "total_pnl": 5.97,
+    "losses": 2,
+    "win_rate": 33.3,
+    "avg_pnl": -27.16,
+    "total_pnl": -81.48,
     "starting_balance": 0.0,
-    "current_balance": 5.97
+    "current_balance": -81.48
   },
   "by_day_of_week": {
     "Monday": {
@@ -27,9 +27,9 @@
       "avg_pnl": 0.0
     },
     "Thursday": {
-      "trades": 0,
+      "trades": 1,
       "wins": 0,
-      "avg_pnl": 0.0
+      "avg_pnl": -87.45
     },
     "Friday": {
       "trades": 0,
@@ -47,13 +47,18 @@
       "trades": 1,
       "wins": 0,
       "avg_pnl": -42.11
+    },
+    "Producer manufacturing": {
+      "trades": 1,
+      "wins": 0,
+      "avg_pnl": -87.45
     }
   },
   "by_signal_rank": {
     "dollar_gainer_1": {
-      "trades": 1,
+      "trades": 2,
       "wins": 1,
-      "avg_pnl": 48.08
+      "avg_pnl": -19.69
     },
     "dollar_loser_1": {
       "trades": 1,
@@ -63,7 +68,7 @@
   },
   "spy_correlation": {
     "spy_up_days": {
-      "trades": 0,
+      "trades": 1,
       "put_wins": 0,
       "call_wins": 0
     },
@@ -74,21 +79,21 @@
     }
   },
   "fomo": {
-    "avg_left_on_table": -16623.18,
-    "hold_2min_trades": 0,
-    "hold_2min_avg_pnl": 0.0,
+    "avg_left_on_table": -43214.6,
+    "hold_2min_trades": 1,
+    "hold_2min_avg_pnl": -87.45,
     "sell_at_open_trades": 2,
     "sell_at_open_avg_pnl": 2.98
   },
   "iv_crush": {
-    "samples": 2,
-    "avg_iv_at_entry": 0.9097,
+    "samples": 3,
+    "avg_iv_at_entry": 0.938,
     "avg_iv_at_open": 0.0,
     "avg_crush_dollars": 0.0
   },
   "keyword_accuracy": {
     "bullish": {
-      "fired": 0,
+      "fired": 1,
       "correct": 0
     },
     "bearish": {
@@ -102,7 +107,7 @@
   },
   "methodology_score": {
     "spy_layer": {
-      "predictions": 2,
+      "predictions": 3,
       "correct": 0
     },
     "sector_layer": {
@@ -110,7 +115,7 @@
       "correct": 0
     },
     "keyword_layer": {
-      "predictions": 0,
+      "predictions": 1,
       "correct": 0
     },
     "iv_layer": {
