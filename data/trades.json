@@ -1,5 +1,5 @@
 {
-  "balance": -81.48,
+  "balance": -126.74,
   "starting_balance": 0.0,
   "first_trade_date": "2026-08-24",
   "trades": [
@@ -244,7 +244,7 @@
     },
     {
       "id": 4,
-      "status": "open",
+      "status": "closed",
       "entry": {
         "date": "2026-08-28",
         "time": "15:55 PST",
@@ -297,8 +297,45 @@
         "decision": "hold",
         "decision_reason": "bullish keywords confirmed CALL thesis"
       },
-      "exit": null,
-      "fomo": null
+      "exit": {
+        "date": "2026-08-28",
+        "time": "2026-08-28 09:31:00-04:00",
+        "stock_open_price": 452.0,
+        "sell_option_price": 0.1474,
+        "sell_contract_value": 14.74,
+        "sell_trigger": "hold_2min",
+        "pnl": -45.26
+      },
+      "fomo": {
+        "sell_contract_value": 45200.0,
+        "sell_pnl": 45140.0,
+        "theta_burned_at_sell": -0.0,
+        "theta_per_min": -0.284045,
+        "day_high": {
+          "stock_price": 462.45,
+          "time": "2026-08-28 09:30:00-04:00",
+          "bs_contract_value": 26.56,
+          "theoretical_pnl": -33.44
+        },
+        "day_low": {
+          "stock_price": 449.01,
+          "time": "2026-08-28 09:39:00-04:00",
+          "bs_contract_value": 12.71,
+          "theoretical_pnl": -47.29
+        },
+        "best_case": {
+          "value": 26.56,
+          "pnl": -33.44,
+          "time": "2026-08-28 09:30:00-04:00"
+        },
+        "worst_case": {
+          "value": 12.71,
+          "pnl": -47.29,
+          "time": "2026-08-28 09:39:00-04:00"
+        },
+        "left_on_table": -45173.44,
+        "theta_note": "0DTE: Theta burned est. $0.00 by sell time \u2014 0DTE decay is violent"
+      }
     }
   ]
 }
