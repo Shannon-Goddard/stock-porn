@@ -274,7 +274,29 @@
         ],
         "auto_note": "SNPS CALL | $+54.89 (+13.39%) | dollar_gainer_1 | Strike $610.0 exp 2026-08-28 (0DTE) | IV 233.8% | SPY +0.66% | MACRO: war, china"
       },
-      "news_scan": null,
+      "news_scan": {
+        "scanned_at": "2026-08-28 23:07:35 PST",
+        "gap_days": 0,
+        "ticker_sentiment": "bullish",
+        "spy_sentiment": "neutral",
+        "spx_sentiment": "bearish",
+        "keywords_found": [
+          "upgrade"
+        ],
+        "spy_keywords": [
+          "raised guidance",
+          "jumps",
+          "rallies",
+          "falls",
+          "drops",
+          "tumbles"
+        ],
+        "spx_keywords": [
+          "falls"
+        ],
+        "decision": "hold",
+        "decision_reason": "bullish keywords confirmed CALL thesis"
+      },
       "exit": null,
       "fomo": null
     }
