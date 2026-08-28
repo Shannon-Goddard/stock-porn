@@ -9,20 +9,12 @@
       "changeDollar": 38.49
     },
     {
-      "ticker": "CRM",
-      "name": "Salesforce, Inc.",
+      "ticker": "RPD",
+      "name": "Rapid7, Inc.",
       "sector": "Technology services",
-      "price": 252.05,
-      "changePct": 22.58,
-      "changeDollar": 46.43
-    },
-    {
-      "ticker": "CRWD",
-      "name": "CrowdStrike Holdings, Inc.",
-      "sector": "Technology services",
-      "price": 227.96,
-      "changePct": 20.5,
-      "changeDollar": 38.78
+      "price": 13.5,
+      "changePct": 14.5,
+      "changeDollar": 1.71
     },
     {
       "ticker": "SNPS",
@@ -41,44 +33,52 @@
       "changeDollar": 2.42
     },
     {
-      "ticker": "FIG",
-      "name": "FIGMA INC",
-      "sector": "Technology services",
-      "price": 30.62,
-      "changePct": 13.28,
-      "changeDollar": 3.59
+      "ticker": "TH",
+      "name": "Target Hospitality Corp.",
+      "sector": "Consumer services",
+      "price": 18.96,
+      "changePct": 12.99,
+      "changeDollar": 2.18
     },
     {
-      "ticker": "PANW",
-      "name": "Palo Alto Networks, Inc.",
+      "ticker": "MSTR",
+      "name": "Strategy Inc",
       "sector": "Technology services",
-      "price": 382.85,
-      "changePct": 12.83,
-      "changeDollar": 43.54
+      "price": 137.4,
+      "changePct": 11.54,
+      "changeDollar": 14.21
     },
     {
-      "ticker": "OOMA",
-      "name": "Ooma, Inc.",
-      "sector": "Communications",
-      "price": 23.04,
-      "changePct": 12.23,
-      "changeDollar": 2.51
+      "ticker": "PURR",
+      "name": "Hyperliquid Strategies Inc",
+      "sector": "Finance",
+      "price": 12.83,
+      "changePct": 10.99,
+      "changeDollar": 1.27
     },
     {
-      "ticker": "TENB",
-      "name": "Tenable Holdings, Inc.",
+      "ticker": "S",
+      "name": "SentinelOne, Inc.",
       "sector": "Technology services",
-      "price": 37.62,
-      "changePct": 11.76,
-      "changeDollar": 3.96
+      "price": 22.71,
+      "changePct": 10.73,
+      "changeDollar": 2.2
     },
     {
-      "ticker": "RBRK",
-      "name": "Rubrik, Inc.",
+      "ticker": "KVYO",
+      "name": "Klaviyo, Inc. Series A",
       "sector": "Technology services",
-      "price": 107.02,
-      "changePct": 11.33,
-      "changeDollar": 10.89
+      "price": 19.61,
+      "changePct": 10.23,
+      "changeDollar": 1.82
+    },
+    {
+      "ticker": "TEAM",
+      "name": "Atlassian Corporation",
+      "sector": "Technology services",
+      "price": 185.62,
+      "changePct": 10.18,
+      "changeDollar": 17.15
     }
   ],
   "topLosers": [
@@ -107,28 +107,28 @@
       "changeDollar": -1.68
     },
     {
-      "ticker": "HQY",
-      "name": "HealthEquity, Inc.",
-      "sector": "Finance",
-      "price": 93.39,
-      "changePct": -10.56,
-      "changeDollar": -11.03
+      "ticker": "HRL",
+      "name": "Hormel Foods Corporation",
+      "sector": "Consumer non-durables",
+      "price": 21.28,
+      "changePct": -10.25,
+      "changeDollar": -2.43
     },
     {
-      "ticker": "PAY",
-      "name": "Paymentus Holdings, Inc.",
-      "sector": "Commercial services",
-      "price": 35.61,
-      "changePct": -9.69,
-      "changeDollar": -3.82
+      "ticker": "SPHR",
+      "name": "Sphere Entertainment Co.",
+      "sector": "Consumer services",
+      "price": 147.34,
+      "changePct": -6.39,
+      "changeDollar": -10.06
     },
     {
-      "ticker": "SFM",
-      "name": "Sprouts Farmers Market, Inc.",
-      "sector": "Retail trade",
-      "price": 81.04,
-      "changePct": -6.67,
-      "changeDollar": -5.79
+      "ticker": "BLMN",
+      "name": "Bloomin' Brands, Inc.",
+      "sector": "Consumer services",
+      "price": 10.44,
+      "changePct": -6.37,
+      "changeDollar": -0.71
     },
     {
       "ticker": "VERA",
@@ -139,12 +139,12 @@
       "changeDollar": -2.22
     },
     {
-      "ticker": "CBRL",
-      "name": "Cracker Barrel Old Country Store, Inc.",
-      "sector": "Consumer services",
-      "price": 55.07,
-      "changePct": -5.96,
-      "changeDollar": -3.49
+      "ticker": "GPRE",
+      "name": "Green Plains, Inc.",
+      "sector": "Process industries",
+      "price": 14.04,
+      "changePct": -5.65,
+      "changeDollar": -0.84
     },
     {
       "ticker": "AEO",
@@ -155,12 +155,12 @@
       "changeDollar": -0.9
     },
     {
-      "ticker": "TOST",
-      "name": "Toast, Inc.",
-      "sector": "Technology services",
-      "price": 35.17,
-      "changePct": -4.87,
-      "changeDollar": -1.8
+      "ticker": "FOUR",
+      "name": "Shift4 Payments, Inc.",
+      "sector": "Commercial services",
+      "price": 43.94,
+      "changePct": -4.99,
+      "changeDollar": -2.31
     }
   ],
   "dollarGainers": [
@@ -173,47 +173,39 @@
       "changeDollar": 54.89
     },
     {
-      "ticker": "CRM",
-      "name": "Salesforce, Inc.",
-      "sector": "Technology services",
-      "price": 252.05,
-      "changePct": 22.58,
-      "changeDollar": 46.43
-    },
-    {
-      "ticker": "PANW",
-      "name": "Palo Alto Networks, Inc.",
-      "sector": "Technology services",
-      "price": 382.85,
-      "changePct": 12.83,
-      "changeDollar": 43.54
-    },
-    {
-      "ticker": "CRWD",
-      "name": "CrowdStrike Holdings, Inc.",
-      "sector": "Technology services",
-      "price": 227.96,
-      "changePct": 20.5,
-      "changeDollar": 38.78
-    },
-    {
       "ticker": "OKTA",
       "name": "Okta, Inc.",
       "sector": "Technology services",
       "price": 172.91,
       "changePct": 28.63,
       "changeDollar": 38.49
+    },
+    {
+      "ticker": "TEAM",
+      "name": "Atlassian Corporation",
+      "sector": "Technology services",
+      "price": 185.62,
+      "changePct": 10.18,
+      "changeDollar": 17.15
+    },
+    {
+      "ticker": "MSTR",
+      "name": "Strategy Inc",
+      "sector": "Technology services",
+      "price": 137.4,
+      "changePct": 11.54,
+      "changeDollar": 14.21
+    },
+    {
+      "ticker": "BRUN",
+      "name": "Boost Run Inc.",
+      "sector": "Technology services",
+      "price": 20.61,
+      "changePct": 13.3,
+      "changeDollar": 2.42
     }
   ],
   "dollarLosers": [
-    {
-      "ticker": "HQY",
-      "name": "HealthEquity, Inc.",
-      "sector": "Finance",
-      "price": 93.39,
-      "changePct": -10.56,
-      "changeDollar": -11.03
-    },
     {
       "ticker": "BBW",
       "name": "Build-A-Bear Workshop, Inc.",
@@ -223,28 +215,36 @@
       "changeDollar": -10.66
     },
     {
-      "ticker": "SFM",
-      "name": "Sprouts Farmers Market, Inc.",
-      "sector": "Retail trade",
-      "price": 81.04,
-      "changePct": -6.67,
-      "changeDollar": -5.79
-    },
-    {
-      "ticker": "PAY",
-      "name": "Paymentus Holdings, Inc.",
-      "sector": "Commercial services",
-      "price": 35.61,
-      "changePct": -9.69,
-      "changeDollar": -3.82
-    },
-    {
-      "ticker": "CBRL",
-      "name": "Cracker Barrel Old Country Store, Inc.",
+      "ticker": "SPHR",
+      "name": "Sphere Entertainment Co.",
       "sector": "Consumer services",
-      "price": 55.07,
-      "changePct": -5.96,
-      "changeDollar": -3.49
+      "price": 147.34,
+      "changePct": -6.39,
+      "changeDollar": -10.06
+    },
+    {
+      "ticker": "REAX",
+      "name": "The Real Brokerage, Inc.",
+      "sector": "Commercial services",
+      "price": 23.63,
+      "changePct": -11.13,
+      "changeDollar": -2.96
+    },
+    {
+      "ticker": "HRL",
+      "name": "Hormel Foods Corporation",
+      "sector": "Consumer non-durables",
+      "price": 21.28,
+      "changePct": -10.25,
+      "changeDollar": -2.43
+    },
+    {
+      "ticker": "FOUR",
+      "name": "Shift4 Payments, Inc.",
+      "sector": "Commercial services",
+      "price": 43.94,
+      "changePct": -4.99,
+      "changeDollar": -2.31
     }
   ]
 }

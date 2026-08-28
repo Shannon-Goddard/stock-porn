@@ -1,14 +1,14 @@
 {
   "signals": {
-    "last_updated": "2026-08-27 22:56:18 UTC",
+    "last_updated": "2026-08-28 03:56:47 UTC",
     "filter_counts": {
       "total": 2863,
       "no_data": 0,
-      "bad_values": 1512,
-      "zero_change": 27,
-      "below_min_price": 349,
-      "below_min_volume": 354,
-      "passed": 621
+      "bad_values": 1517,
+      "zero_change": 32,
+      "below_min_price": 346,
+      "below_min_volume": 372,
+      "passed": 596
     }
   }
 }
