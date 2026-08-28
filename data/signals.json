@@ -1,250 +1,250 @@
 {
   "topGainers": [
     {
-      "ticker": "OKTA",
-      "name": "Okta, Inc.",
+      "ticker": "ESTC",
+      "name": "Elastic N.V.",
       "sector": "Technology services",
-      "price": 172.91,
-      "changePct": 28.63,
-      "changeDollar": 38.49
+      "price": 99.91,
+      "changePct": 19.31,
+      "changeDollar": 16.17
     },
     {
-      "ticker": "RPD",
-      "name": "Rapid7, Inc.",
-      "sector": "Technology services",
-      "price": 13.5,
-      "changePct": 14.5,
-      "changeDollar": 1.71
+      "ticker": "GAP",
+      "name": "Gap, Inc. (The)",
+      "sector": "Retail trade",
+      "price": 23.48,
+      "changePct": 12.94,
+      "changeDollar": 2.69
     },
     {
-      "ticker": "SNPS",
-      "name": "Synopsys, Inc.",
-      "sector": "Technology services",
-      "price": 464.89,
-      "changePct": 13.39,
-      "changeDollar": 54.89
+      "ticker": "SOLS",
+      "name": "Solstice Advanced Materials Inc.",
+      "sector": "Process industries",
+      "price": 63.53,
+      "changePct": 12.76,
+      "changeDollar": 7.19
     },
+    {
+      "ticker": "PD",
+      "name": "PagerDuty, Inc.",
+      "sector": "Technology services",
+      "price": 13.83,
+      "changePct": 9.5,
+      "changeDollar": 1.2
+    },
+    {
+      "ticker": "FLUT",
+      "name": "Flutter Entertainment plc",
+      "sector": "Consumer services",
+      "price": 101.78,
+      "changePct": 7.13,
+      "changeDollar": 6.77
+    },
+    {
+      "ticker": "MNRO",
+      "name": "Monro, Inc.",
+      "sector": "Retail trade",
+      "price": 12.96,
+      "changePct": 5.8,
+      "changeDollar": 0.71
+    },
+    {
+      "ticker": "WDAY",
+      "name": "Workday, Inc.",
+      "sector": "Technology services",
+      "price": 204.72,
+      "changePct": 5.76,
+      "changeDollar": 11.15
+    },
+    {
+      "ticker": "DPZ",
+      "name": "Domino's Pizza Inc",
+      "sector": "Consumer services",
+      "price": 350.0,
+      "changePct": 5.4,
+      "changeDollar": 17.94
+    },
+    {
+      "ticker": "BBW",
+      "name": "Build-A-Bear Workshop, Inc.",
+      "sector": "Retail trade",
+      "price": 29.85,
+      "changePct": 4.96,
+      "changeDollar": 1.41
+    },
+    {
+      "ticker": "DAR",
+      "name": "Darling Ingredients Inc.",
+      "sector": "Consumer non-durables",
+      "price": 64.32,
+      "changePct": 4.77,
+      "changeDollar": 2.93
+    }
+  ],
+  "topLosers": [
     {
       "ticker": "BRUN",
       "name": "Boost Run Inc.",
       "sector": "Technology services",
-      "price": 20.61,
-      "changePct": 13.3,
-      "changeDollar": 2.42
+      "price": 17.05,
+      "changePct": -17.27,
+      "changeDollar": -3.56
     },
     {
-      "ticker": "TH",
-      "name": "Target Hospitality Corp.",
-      "sector": "Consumer services",
-      "price": 18.96,
-      "changePct": 12.99,
-      "changeDollar": 2.18
-    },
-    {
-      "ticker": "MSTR",
-      "name": "Strategy Inc",
+      "ticker": "RBRK",
+      "name": "Rubrik, Inc.",
       "sector": "Technology services",
-      "price": 137.4,
-      "changePct": 11.54,
-      "changeDollar": 14.21
+      "price": 93.05,
+      "changePct": -13.05,
+      "changeDollar": -13.97
+    },
+    {
+      "ticker": "PYPL",
+      "name": "PayPal Holdings, Inc.",
+      "sector": "Commercial services",
+      "price": 53.66,
+      "changePct": -12.71,
+      "changeDollar": -7.81
+    },
+    {
+      "ticker": "AEHR",
+      "name": "Aehr Test Systems",
+      "sector": "Electronic technology",
+      "price": 80.81,
+      "changePct": -10.67,
+      "changeDollar": -9.65
+    },
+    {
+      "ticker": "INFQ",
+      "name": "Infleqtion, Inc.",
+      "sector": "Electronic technology",
+      "price": 12.8,
+      "changePct": -10.61,
+      "changeDollar": -1.52
+    },
+    {
+      "ticker": "CLSK",
+      "name": "CleanSpark, Inc.",
+      "sector": "Technology services",
+      "price": 11.66,
+      "changePct": -9.96,
+      "changeDollar": -1.29
+    },
+    {
+      "ticker": "XNCR",
+      "name": "Xencor, Inc.",
+      "sector": "Health technology",
+      "price": 26.06,
+      "changePct": -9.76,
+      "changeDollar": -2.82
+    },
+    {
+      "ticker": "LEU",
+      "name": "Centrus Energy Corp.",
+      "sector": "Non-energy minerals",
+      "price": 175.78,
+      "changePct": -9.75,
+      "changeDollar": -19.0
+    },
+    {
+      "ticker": "CIFR",
+      "name": "Cipher Digital Inc.",
+      "sector": "Technology services",
+      "price": 15.17,
+      "changePct": -9.54,
+      "changeDollar": -1.6
     },
     {
       "ticker": "PURR",
       "name": "Hyperliquid Strategies Inc",
       "sector": "Finance",
-      "price": 12.83,
-      "changePct": 10.99,
-      "changeDollar": 1.27
-    },
-    {
-      "ticker": "S",
-      "name": "SentinelOne, Inc.",
-      "sector": "Technology services",
-      "price": 22.71,
-      "changePct": 10.73,
-      "changeDollar": 2.2
-    },
-    {
-      "ticker": "KVYO",
-      "name": "Klaviyo, Inc. Series A",
-      "sector": "Technology services",
-      "price": 19.61,
-      "changePct": 10.23,
-      "changeDollar": 1.82
-    },
-    {
-      "ticker": "TEAM",
-      "name": "Atlassian Corporation",
-      "sector": "Technology services",
-      "price": 185.62,
-      "changePct": 10.18,
-      "changeDollar": 17.15
-    }
-  ],
-  "topLosers": [
-    {
-      "ticker": "BBW",
-      "name": "Build-A-Bear Workshop, Inc.",
-      "sector": "Retail trade",
-      "price": 28.44,
-      "changePct": -27.26,
-      "changeDollar": -10.66
-    },
-    {
-      "ticker": "REAX",
-      "name": "The Real Brokerage, Inc.",
-      "sector": "Commercial services",
-      "price": 23.63,
-      "changePct": -11.13,
-      "changeDollar": -2.96
-    },
-    {
-      "ticker": "NEXA",
-      "name": "Nexa Resources S.A.",
-      "sector": "Non-energy minerals",
-      "price": 13.9,
-      "changePct": -10.78,
-      "changeDollar": -1.68
-    },
-    {
-      "ticker": "HRL",
-      "name": "Hormel Foods Corporation",
-      "sector": "Consumer non-durables",
-      "price": 21.28,
-      "changePct": -10.25,
-      "changeDollar": -2.43
-    },
-    {
-      "ticker": "SPHR",
-      "name": "Sphere Entertainment Co.",
-      "sector": "Consumer services",
-      "price": 147.34,
-      "changePct": -6.39,
-      "changeDollar": -10.06
-    },
-    {
-      "ticker": "BLMN",
-      "name": "Bloomin' Brands, Inc.",
-      "sector": "Consumer services",
-      "price": 10.44,
-      "changePct": -6.37,
-      "changeDollar": -0.71
-    },
-    {
-      "ticker": "VERA",
-      "name": "Vera Therapeutics, Inc.",
-      "sector": "Health technology",
-      "price": 34.6,
-      "changePct": -6.03,
-      "changeDollar": -2.22
-    },
-    {
-      "ticker": "GPRE",
-      "name": "Green Plains, Inc.",
-      "sector": "Process industries",
-      "price": 14.04,
-      "changePct": -5.65,
-      "changeDollar": -0.84
-    },
-    {
-      "ticker": "AEO",
-      "name": "American Eagle Outfitters, Inc.",
-      "sector": "Retail trade",
-      "price": 16.69,
-      "changePct": -5.12,
-      "changeDollar": -0.9
-    },
-    {
-      "ticker": "FOUR",
-      "name": "Shift4 Payments, Inc.",
-      "sector": "Commercial services",
-      "price": 43.94,
-      "changePct": -4.99,
-      "changeDollar": -2.31
+      "price": 11.61,
+      "changePct": -9.51,
+      "changeDollar": -1.22
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "SNPS",
-      "name": "Synopsys, Inc.",
-      "sector": "Technology services",
-      "price": 464.89,
-      "changePct": 13.39,
-      "changeDollar": 54.89
+      "ticker": "DPZ",
+      "name": "Domino's Pizza Inc",
+      "sector": "Consumer services",
+      "price": 350.0,
+      "changePct": 5.4,
+      "changeDollar": 17.94
     },
     {
-      "ticker": "OKTA",
-      "name": "Okta, Inc.",
+      "ticker": "ESTC",
+      "name": "Elastic N.V.",
       "sector": "Technology services",
-      "price": 172.91,
-      "changePct": 28.63,
-      "changeDollar": 38.49
+      "price": 99.91,
+      "changePct": 19.31,
+      "changeDollar": 16.17
     },
     {
-      "ticker": "TEAM",
-      "name": "Atlassian Corporation",
+      "ticker": "WDAY",
+      "name": "Workday, Inc.",
       "sector": "Technology services",
-      "price": 185.62,
-      "changePct": 10.18,
-      "changeDollar": 17.15
+      "price": 204.72,
+      "changePct": 5.76,
+      "changeDollar": 11.15
     },
     {
-      "ticker": "MSTR",
-      "name": "Strategy Inc",
+      "ticker": "SOLS",
+      "name": "Solstice Advanced Materials Inc.",
+      "sector": "Process industries",
+      "price": 63.53,
+      "changePct": 12.76,
+      "changeDollar": 7.19
+    },
+    {
+      "ticker": "FLUT",
+      "name": "Flutter Entertainment plc",
+      "sector": "Consumer services",
+      "price": 101.78,
+      "changePct": 7.13,
+      "changeDollar": 6.77
+    }
+  ],
+  "dollarLosers": [
+    {
+      "ticker": "LEU",
+      "name": "Centrus Energy Corp.",
+      "sector": "Non-energy minerals",
+      "price": 175.78,
+      "changePct": -9.75,
+      "changeDollar": -19.0
+    },
+    {
+      "ticker": "RBRK",
+      "name": "Rubrik, Inc.",
       "sector": "Technology services",
-      "price": 137.4,
-      "changePct": 11.54,
-      "changeDollar": 14.21
+      "price": 93.05,
+      "changePct": -13.05,
+      "changeDollar": -13.97
+    },
+    {
+      "ticker": "AEHR",
+      "name": "Aehr Test Systems",
+      "sector": "Electronic technology",
+      "price": 80.81,
+      "changePct": -10.67,
+      "changeDollar": -9.65
+    },
+    {
+      "ticker": "PYPL",
+      "name": "PayPal Holdings, Inc.",
+      "sector": "Commercial services",
+      "price": 53.66,
+      "changePct": -12.71,
+      "changeDollar": -7.81
     },
     {
       "ticker": "BRUN",
       "name": "Boost Run Inc.",
       "sector": "Technology services",
-      "price": 20.61,
-      "changePct": 13.3,
-      "changeDollar": 2.42
-    }
-  ],
-  "dollarLosers": [
-    {
-      "ticker": "BBW",
-      "name": "Build-A-Bear Workshop, Inc.",
-      "sector": "Retail trade",
-      "price": 28.44,
-      "changePct": -27.26,
-      "changeDollar": -10.66
-    },
-    {
-      "ticker": "SPHR",
-      "name": "Sphere Entertainment Co.",
-      "sector": "Consumer services",
-      "price": 147.34,
-      "changePct": -6.39,
-      "changeDollar": -10.06
-    },
-    {
-      "ticker": "REAX",
-      "name": "The Real Brokerage, Inc.",
-      "sector": "Commercial services",
-      "price": 23.63,
-      "changePct": -11.13,
-      "changeDollar": -2.96
-    },
-    {
-      "ticker": "HRL",
-      "name": "Hormel Foods Corporation",
-      "sector": "Consumer non-durables",
-      "price": 21.28,
-      "changePct": -10.25,
-      "changeDollar": -2.43
-    },
-    {
-      "ticker": "FOUR",
-      "name": "Shift4 Payments, Inc.",
-      "sector": "Commercial services",
-      "price": 43.94,
-      "changePct": -4.99,
-      "changeDollar": -2.31
+      "price": 17.05,
+      "changePct": -17.27,
+      "changeDollar": -3.56
     }
   ]
 }
