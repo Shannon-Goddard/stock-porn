@@ -241,6 +241,42 @@
         "left_on_table": -96397.44,
         "theta_note": "1DTE: Theta moderate at open, accelerating by noon. Est. $0.00 burned"
       }
+    },
+    {
+      "id": 4,
+      "status": "open",
+      "entry": {
+        "date": "2026-08-28",
+        "time": "15:55 PST",
+        "ticker": "SNPS",
+        "name": "Synopsys, Inc.",
+        "sector": "Technology services",
+        "type": "CALL",
+        "strike": 610.0,
+        "expiration": "2026-08-28",
+        "dte_at_entry": 0,
+        "T_at_entry": 0.00274,
+        "stock_price_at_entry": 464.89,
+        "premium": 0.6,
+        "cost": 60.0,
+        "bid": null,
+        "spread": null,
+        "iv_at_entry": 2.3379,
+        "otm_pct": 31.21,
+        "signal_rank": "dollar_gainer_1",
+        "signal_pct": 13.39,
+        "signal_dollar": 54.89,
+        "spy_change": 0.66,
+        "macro_active": true,
+        "macro_keywords": [
+          "war",
+          "china"
+        ],
+        "auto_note": "SNPS CALL | $+54.89 (+13.39%) | dollar_gainer_1 | Strike $610.0 exp 2026-08-28 (0DTE) | IV 233.8% | SPY +0.66% | MACRO: war, china"
+      },
+      "news_scan": null,
+      "exit": null,
+      "fomo": null
     }
   ]
 }
