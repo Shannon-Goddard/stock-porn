@@ -41,6 +41,14 @@
       "changeDollar": 6.77
     },
     {
+      "ticker": "SMPL",
+      "name": "The Simply Good Foods Company",
+      "sector": "Consumer non-durables",
+      "price": 10.93,
+      "changePct": 7.05,
+      "changeDollar": 0.72
+    },
+    {
       "ticker": "MNRO",
       "name": "Monro, Inc.",
       "sector": "Retail trade",
@@ -71,25 +79,9 @@
       "price": 29.85,
       "changePct": 4.96,
       "changeDollar": 1.41
-    },
-    {
-      "ticker": "DAR",
-      "name": "Darling Ingredients Inc.",
-      "sector": "Consumer non-durables",
-      "price": 64.32,
-      "changePct": 4.77,
-      "changeDollar": 2.93
     }
   ],
   "topLosers": [
-    {
-      "ticker": "BRUN",
-      "name": "Boost Run Inc.",
-      "sector": "Technology services",
-      "price": 17.05,
-      "changePct": -17.27,
-      "changeDollar": -3.56
-    },
     {
       "ticker": "RBRK",
       "name": "Rubrik, Inc.",
@@ -105,6 +97,14 @@
       "price": 53.66,
       "changePct": -12.71,
       "changeDollar": -7.81
+    },
+    {
+      "ticker": "REAX",
+      "name": "The Real Brokerage, Inc.",
+      "sector": "Commercial services",
+      "price": 21.09,
+      "changePct": -10.75,
+      "changeDollar": -2.54
     },
     {
       "ticker": "AEHR",
@@ -131,14 +131,6 @@
       "changeDollar": -1.29
     },
     {
-      "ticker": "XNCR",
-      "name": "Xencor, Inc.",
-      "sector": "Health technology",
-      "price": 26.06,
-      "changePct": -9.76,
-      "changeDollar": -2.82
-    },
-    {
       "ticker": "LEU",
       "name": "Centrus Energy Corp.",
       "sector": "Non-energy minerals",
@@ -160,6 +152,14 @@
       "sector": "Finance",
       "price": 11.61,
       "changePct": -9.51,
+      "changeDollar": -1.22
+    },
+    {
+      "ticker": "UEC",
+      "name": "Uranium Energy Corp.",
+      "sector": "Non-energy minerals",
+      "price": 12.4,
+      "changePct": -8.96,
       "changeDollar": -1.22
     }
   ],
@@ -239,12 +239,12 @@
       "changeDollar": -7.81
     },
     {
-      "ticker": "BRUN",
-      "name": "Boost Run Inc.",
-      "sector": "Technology services",
-      "price": 17.05,
-      "changePct": -17.27,
-      "changeDollar": -3.56
+      "ticker": "REAX",
+      "name": "The Real Brokerage, Inc.",
+      "sector": "Commercial services",
+      "price": 21.09,
+      "changePct": -10.75,
+      "changeDollar": -2.54
     }
   ]
 }
