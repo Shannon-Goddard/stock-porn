@@ -286,6 +286,7 @@ pages/ledger.html           → full trade history, checkbook style, all-time P&
 pages/stats.html            → analytics dashboard, all derived metrics
 pages/blog.html             → auto-generated articles, YouTube embeds
 pages/methodology.html      → rendered methodology content
+pages/findings.html         → active hypotheses + findings after 100 trades
 pages/sheets-guide.html     → Google Sheets how-to, image + YouTube placeholders
 pages/data.html             → download all data files, accordion previews, header defs, dev API
 pages/legal.html            → full disclaimer, not-a-financial-advisor, LLC notice
@@ -437,8 +438,12 @@ published: true by default — article live immediately, enrich later
 | Two contracts/night | Safety net, one leg almost always wins | Jan 2025 |
 | SPY hedge not automatic | Only on active macro triggers per methodology | Jan 2025 |
 | Fully automated entry/exit | No human bias, fully transparent | Jan 2025 |
-| sell_at_open default | IV crush + theta make holding past open costly | Jan 2025 |
-| hold_2min on bullish news | First 2 min most volatile, max theta burn after | Jan 2025 |
+| MIN_DTE=1 | 0DTE at 3:55 PM = ~35 min left, lottery ticket not overnight hold | Aug 2026 |
+| MAX_OTM_1DTE=20% | 1DTE + >20% OTM = near-zero probability, skip | Aug 2026 |
+| expected_move logged at entry | 1σ range from IV×sqrt(T), enables strike_position hypothesis | Aug 2026 |
+| gap_direction logged at exit | Measures if stock opened with or against thesis | Aug 2026 |
+| excluded_trade_ids in meta | Trades 1-4 flagged — fomo bug + pre-schema v2.0 | Aug 2026 |
+| clean_balance separate from balance | balance = raw all-time, clean_balance = excludes flagged trades | Aug 2026 |
 
 ---
 
@@ -461,5 +466,5 @@ published: true by default — article live immediately, enrich later
 
 ---
 
-*Last updated: All phases complete — sheets-guide.html + data.html added, nav updated*
-*Next step: Phase 5 — README.md*
+*Last updated: Schema v2.0 — expected_move, gap_direction, findings.html, price prediction README section, CHANGELOG.md*
+*Next: CBOE full options list scan, resources.html*

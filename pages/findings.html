@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Findings — stock-porn</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    :root {
+      --bg: #0d0d0d; --surface: #141414; --surface2: #1a1a1a;
+      --border: #2a2a2a; --text: #e8e8e8; --muted: #666;
+      --green: #00c853; --red: #ff1744; --yellow: #ffd600;
+    }
+    body { background: var(--bg); color: var(--text); font-family: 'Courier New', Courier, monospace; font-size: 14px; line-height: 1.8; }
+    .content { max-width: 800px; margin: 0 auto; padding: 2rem 1rem; }
+
+    h1 { color: var(--green); font-size: 1.2rem; text-transform: uppercase; letter-spacing: 0.08em; margin-bottom: 0.25rem; }
+    .intro { color: var(--muted); font-size: 0.78rem; margin-bottom: 1.5rem; }
+
+    h2 { color: var(--green); font-size: 0.88rem; text-transform: uppercase; letter-spacing: 0.08em;
+         margin: 2rem 0 1rem; border-bottom: 1px solid var(--border); padding-bottom: 0.5rem; }
+
+    .card {
+      background: var(--surface); border: 1px solid var(--border);
+      border-radius: 4px; padding: 1rem 1.25rem; margin-bottom: 1rem;
+    }
+    .card-title { font-size: 0.82rem; color: var(--text); margin-bottom: 0.25rem; }
+    .card-desc  { font-size: 0.75rem; color: var(--muted); margin-bottom: 0.75rem; }
+
+    /* Progress bar toward min_sample */
+    .progress-wrap { margin-bottom: 0.75rem; }
+    .progress-label { font-size: 0.7rem; color: var(--muted); margin-bottom: 0.2rem; display: flex; justify-content: space-between; }
+    .progress-bar { height: 4px; background: var(--surface2); border-radius: 2px; overflow: hidden; }
+    .progress-fill { height: 100%; background: var(--green); border-radius: 2px; transition: width 0.3s; }
+    .progress-fill.warn { background: var(--yellow); }
+
+    /* Bucket rows */
+    .bucket-row { display: flex; justify-content: space-between; align-items: center;
+                  font-size: 0.78rem; padding: 0.3rem 0; border-bottom: 1px solid var(--surface2); }
+    .bucket-row:last-child { border-bottom: none; }
+    .bucket-label { color: var(--muted); }
+    .bucket-stats { display: flex; gap: 1rem; }
+    .bucket-trades { color: var(--text); }
+    .bucket-winrate { color: var(--green); min-width: 4rem; text-align: right; }
+    .bucket-winrate.low { color: var(--red); }
+    .bucket-winrate.na  { color: var(--muted); }
+
+    .callout {
+      background: var(--surface); border: 1px solid var(--border);
+      border-left: 3px solid var(--yellow); padding: 0.75rem 1rem;
+      border-radius: 0 4px 4px 0; font-size: 0.82rem; margin: 1rem 0; color: var(--muted);
+    }
+    .empty-state { color: var(--muted); font-size: 0.82rem; font-style: italic; padding: 1rem 0; }
+
+    footer { margin-top: 3rem; padding-top: 1rem; border-top: 1px solid var(--border);
+             font-size: 0.72rem; color: var(--muted); text-align: center; }
+  </style>
+</head>
+<body>
+
+  <div id="nav-root"></div>
+  <script src="../components/nav.js"></script>
+
+  <div class="content">
+    <h1>Findings</h1>
+    <p class="intro">Not facts. Findings. Each hypothesis needs a minimum sample before it means anything. Check back in 5 weeks.</p>
+
+    <div class="callout">
+      These are questions we set up at trade #1 and are letting the data answer. Nothing here is tuned to past results.
+      Sample sizes are shown. Draw your own conclusions.
+    </div>
+
+    <h2>Active Hypotheses</h2>
+    <div id="hypotheses-container">
+      <p class="empty-state">Loading...</p>
+    </div>
+
+    <h2>Findings</h2>
+    <div id="findings-container">
+      <p class="empty-state" id="findings-empty">No hypothesis has crossed its minimum sample threshold yet.</p>
+    </div>
+  </div>
+
+  <footer>
+    Data via Yahoo Finance · Updated after every trade · Not financial advice
+  </footer>
+
+  <script>
+    const STATS_URL = '../data/stats.json';
+
+    function winRate(trades, wins) {
+      if (trades === 0) return null;
+      return Math.round((wins / trades) * 100);
+    }
+
+    function progressPct(trades, minSample) {
+      return Math.min(100, Math.round((trades / minSample) * 100));
+    }
+
+    function renderBuckets(buckets) {
+      return Object.entries(buckets).map(([key, b]) => {
+        const wr = winRate(b.trades, b.wins);
+        const wrClass = wr === null ? 'na' : wr >= 50 ? '' : 'low';
+        const wrStr   = wr === null ? 'n/a' : `${wr}% win`;
+        return `
+          <div class="bucket-row">
+            <span class="bucket-label">${key.replace(/_/g, ' ')}</span>
+            <div class="bucket-stats">
+              <span class="bucket-trades">${b.trades} trade${b.trades !== 1 ? 's' : ''}</span>
+              <span class="bucket-winrate ${wrClass}">${wrStr}</span>
+            </div>
+          </div>`;
+      }).join('');
+    }
+
+    function renderHypothesis(key, h) {
+      const totalTrades = Object.values(h.buckets).reduce((s, b) => s + b.trades, 0);
+      const pct  = progressPct(totalTrades, h.min_sample);
+      const fill = pct >= 100 ? '' : pct >= 50 ? 'warn' : '';
+
+      return `
+        <div class="card" data-key="${key}">
+          <div class="card-title">${key.replace(/_/g, ' ')}</div>
+          <div class="card-desc">${h.description}</div>
+          <div class="progress-wrap">
+            <div class="progress-label">
+              <span>Sample progress</span>
+              <span>${totalTrades} / ${h.min_sample} trades</span>
+            </div>
+            <div class="progress-bar">
+              <div class="progress-fill ${fill}" style="width:${pct}%"></div>
+            </div>
+          </div>
+          <div class="buckets">${renderBuckets(h.buckets)}</div>
+        </div>`;
+    }
+
+    fetch(STATS_URL)
+      .then(r => r.json())
+      .then(stats => {
+        const hypotheses = stats.hypotheses || {};
+        const hContainer = document.getElementById('hypotheses-container');
+        const fContainer = document.getElementById('findings-container');
+        const fEmpty     = document.getElementById('findings-empty');
+
+        const activeHTML   = [];
+        const findingsHTML = [];
+
+        Object.entries(hypotheses).forEach(([key, h]) => {
+          const totalTrades = Object.values(h.buckets).reduce((s, b) => s + b.trades, 0);
+          const html = renderHypothesis(key, h);
+          if (totalTrades >= h.min_sample) {
+            findingsHTML.push(html);
+          } else {
+            activeHTML.push(html);
+          }
+        });
+
+        hContainer.innerHTML = activeHTML.length
+          ? activeHTML.join('')
+          : '<p class="empty-state">No active hypotheses configured.</p>';
+
+        if (findingsHTML.length) {
+          fEmpty.style.display = 'none';
+          fContainer.innerHTML = findingsHTML.join('');
+        }
+      })
+      .catch(() => {
+        document.getElementById('hypotheses-container').innerHTML =
+          '<p class="empty-state">Could not load stats data.</p>';
+      });
+  </script>
+
+</body>
+</html>

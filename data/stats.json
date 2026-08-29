@@ -1,5 +1,6 @@
 {
   "last_updated": "2026-08-28 23:10:58 UTC",
+  "clean_balance": 0.0,
   "overall": {
     "total_trades": 4,
     "wins": 1,
@@ -126,6 +127,40 @@
     "iv_layer": {
       "predictions": 0,
       "correct": 0
+    }
+  },
+  "hypotheses": {
+    "strike_inside_expected_move": {
+      "description": "Contracts where strike is inside 1\u03c3 expected move win more often",
+      "min_sample": 20,
+      "buckets": {
+        "inside":  {"trades": 0, "wins": 0},
+        "at_edge": {"trades": 0, "wins": 0},
+        "outside": {"trades": 0, "wins": 0}
+      }
+    },
+    "gap_with_thesis": {
+      "description": "Trades where stock gaps in thesis direction outperform",
+      "min_sample": 20,
+      "buckets": {
+        "with_thesis":    {"trades": 0, "wins": 0},
+        "against_thesis": {"trades": 0, "wins": 0},
+        "flat":           {"trades": 0, "wins": 0}
+      }
+    },
+    "macro_keyword_performance": {
+      "description": "Some macro keywords are more predictive than others",
+      "min_sample": 10,
+      "buckets": {}
+    },
+    "dte_performance": {
+      "description": "Does DTE at entry affect win rate? 1DTE vs 2-3DTE vs 4DTE+",
+      "min_sample": 20,
+      "buckets": {
+        "1dte":      {"trades": 0, "wins": 0},
+        "2_3dte":    {"trades": 0, "wins": 0},
+        "4dte_plus": {"trades": 0, "wins": 0}
+      }
     }
   }
 }

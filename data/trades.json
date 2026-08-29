@@ -1,5 +1,11 @@
 {
+  "meta": {
+    "schema_version": "2.0",
+    "notes": "Trades 1-4 excluded from analytics. Logged for transparency only. Reason: sell_signal.py bug — fomo.sell_contract_value used raw stock price x 100 instead of BS option value. expected_move and gap_direction fields not present (pre-schema v2.0).",
+    "excluded_trade_ids": [1, 2, 3, 4]
+  },
   "balance": -126.74,
+  "clean_balance": 0.0,
   "starting_balance": 0.0,
   "first_trade_date": "2026-08-24",
   "trades": [

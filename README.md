@@ -65,6 +65,30 @@ You can be right on direction and still lose money if IV is already elevated. Al
 
 ---
 
+## On Price Prediction (And Why We Don't Do It)
+
+Everyone wants a stock price predictor. We get it.
+
+Here's why that's not what this is — and why what we're building is actually more useful:
+
+**Price prediction is broken by design.**
+The moment a prediction is widely known, it changes the behavior it's predicting. A perfect predictor would destroy itself. Beyond that: earnings surprises are genuinely unknowable, fund liquidations are invisible until after the fact, and black swans don't exist in historical data until they do.
+
+**Range prediction is different — and it's already in the math.**
+Implied Volatility isn't our opinion. It's the options market's collective bet on how far a stock could move. The 1σ expected move — calculated directly from IV and time to expiration — is right roughly 68% of the time by definition. That's not a claim. That's statistics.
+
+What we're building toward:
+- Not *where* the stock goes — but *how far* it could go
+- Not a price target — but a range that tells you whether a contract is worth buying before you pick a direction
+- Not a prediction — a probability-weighted filter that gets better with every trade logged
+
+**The "prints harder" principle.**
+A 30% OTM contract on a stock that gaps 35% returns more than a 5% OTM contract on a 5% mover. The math is the same. The difference is knowing the expected move range before you enter — so you're not buying a 30% OTM contract on a stock that historically moves 4%. That's not a bet. That's a donation.
+
+We have 4 trades. We need 100. Check back in 5 weeks.
+
+---
+
 ## The Trade Structure
 
 **Two contracts per night:**
@@ -142,6 +166,7 @@ This project generates data nobody else publishes with actual trade records atta
 | [Blog](https://stock-porn.loyal9.app/pages/blog.html) | Auto-generated trade articles |
 | [Methodology](https://stock-porn.loyal9.app/pages/methodology.html) | Full signal methodology |
 | [Sheets Guide](https://stock-porn.loyal9.app/pages/sheets-guide.html) | Build your own live tracking sheet in Google Sheets |
+| [Findings](https://stock-porn.loyal9.app/pages/findings.html) | Active hypotheses + findings after 100 trades |
 | [Data](https://stock-porn.loyal9.app/pages/data.html) | Download all data files, API access |
 | [Legal](https://stock-porn.loyal9.app/pages/legal.html) | Full disclaimer |
 

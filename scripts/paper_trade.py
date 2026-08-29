@@ -11,6 +11,8 @@ BLOG_FILE    = os.path.join(DATA_DIR, 'blog.json')
 
 MAX_BUDGET       = 1.00   # max premium per share = $100/contract
 MAX_EXP_DAYS     = 7      # quarterly filter — 7-day expiration max
+MIN_DTE          = 1      # 0DTE at 3:55 PM = ~35 min left, not an overnight hold
+MAX_OTM_1DTE     = 20.0   # 1DTE contracts: reject if strike >20% OTM — near-zero probability
 RISK_FREE_RATE   = 0.05
 
 # Macro trigger words for auto_note context
@@ -104,6 +106,8 @@ def select_contract(ticker, stock_price, option_type, today):
         valid_exps.sort(key=lambda x: x[0])
 
         for dte, exp_str, exp_date in valid_exps:
+            if dte < MIN_DTE:
+                continue  # 0DTE at 3:55 PM = lottery ticket with a 35-min fuse
             chain = t.option_chain(exp_str)
             df = chain.calls if option_type == 'CALL' else chain.puts
 
@@ -134,6 +138,10 @@ def select_contract(ticker, stock_price, option_type, today):
                 if option_type == 'PUT':
                     otm_pct = round((stock_price - strike) / stock_price * 100, 2)
 
+                # 1DTE deep OTM filter — strike >20% away with 1 day left = near-zero probability
+                if dte == 1 and otm_pct > MAX_OTM_1DTE:
+                    continue
+
                 return {
                     'strike':      round(strike, 2),
                     'expiration':  exp_str,
@@ -153,7 +161,38 @@ def select_contract(ticker, stock_price, option_type, today):
         print(f"  Options chain error for {ticker}: {e}")
         return None
 
-def build_auto_note(signal, option_type, contract, spy_change, macro_active, macro_keywords):
+def calc_expected_move(stock_price, strike, iv, T, option_type):
+    """
+    1σ expected move = stock_price × IV × sqrt(T)
+    Returns dict with one_sigma_pct, upper, lower, strike_position.
+    strike_position: inside / at_edge (within 2% of boundary) / outside
+    """
+    one_sigma_pct = round(iv * math.sqrt(T) * 100, 2)
+    upper = round(stock_price * (1 + iv * math.sqrt(T)), 2)
+    lower = round(stock_price * (1 - iv * math.sqrt(T)), 2)
+
+    # Is the strike inside, at the edge, or outside the expected move range?
+    edge_buffer = stock_price * 0.02  # 2% buffer defines "at_edge"
+    if option_type == 'CALL':
+        dist = strike - upper
+    else:
+        dist = lower - strike
+
+    if dist <= 0:
+        position = 'inside'
+    elif dist <= edge_buffer:
+        position = 'at_edge'
+    else:
+        position = 'outside'
+
+    return {
+        'one_sigma_pct': one_sigma_pct,
+        'upper':         upper,
+        'lower':         lower,
+        'strike_position': position
+    }
+
+signal, option_type, contract, spy_change, macro_active, macro_keywords):
     rank_label = signal.get('_rank', '')
     macro_str  = f"MACRO: {', '.join(macro_keywords)}" if macro_active else "No macro triggers"
     return (
@@ -199,6 +238,13 @@ def process_signal(signal, option_type, rank_label, today, today_str,
     auto_note = build_auto_note(signal, option_type, contract,
                                 spy_change, macro_active, macro_keywords)
 
+    expected_move = calc_expected_move(
+        stock_price, contract['strike'], contract['iv'], contract['T'], option_type
+    )
+    print(f"  Expected move: ±{expected_move['one_sigma_pct']}% "
+          f"[${expected_move['lower']} – ${expected_move['upper']}] "
+          f"| Strike position: {expected_move['strike_position']}")
+
     trade_id = next_trade_id(trades_data)
 
     trade = {
@@ -222,6 +268,7 @@ def process_signal(signal, option_type, rank_label, today, today_str,
             'spread':              contract['spread'],
             'iv_at_entry':         contract['iv'],
             'otm_pct':             contract['otm_pct'],
+            'expected_move':       expected_move,
             'signal_rank':         rank_label,
             'signal_pct':          signal['changePct'],
             'signal_dollar':       signal['changeDollar'],
