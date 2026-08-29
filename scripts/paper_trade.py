@@ -192,7 +192,8 @@ def calc_expected_move(stock_price, strike, iv, T, option_type):
         'strike_position': position
     }
 
-signal, option_type, contract, spy_change, macro_active, macro_keywords):
+def build_auto_note(
+        signal, option_type, contract, spy_change, macro_active, macro_keywords):
     rank_label = signal.get('_rank', '')
     macro_str  = f"MACRO: {', '.join(macro_keywords)}" if macro_active else "No macro triggers"
     return (
