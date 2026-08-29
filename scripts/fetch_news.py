@@ -178,7 +178,12 @@ def main():
             'spy_keywords':     spy_keywords,
             'spx_keywords':     spx_keywords,
             'decision':         decision,
-            'decision_reason':  reason
+            'decision_reason':  reason,
+            'raw_headlines':    {
+                'ticker': headlines,
+                'spy':    spy_headlines,
+                'spx':    spx_headlines
+            }
         }
 
     save_trades(data)
