@@ -27,7 +27,7 @@ So I built this.
 
 A fully automated paper trading system that:
 
-- Scans 2,800+ optionable NYSE stocks daily via GitHub Actions
+- Scans 5,300+ optionable US stocks daily via GitHub Actions (NYSE, Nasdaq, AMEX)
 - Filters to liquid, tradeable signals (price ≥ $10, volume ≥ 500K/day)
 - Selects two overnight options contracts at 3:55 PM PST — one CALL, one PUT
 - Scans pre-market news at 6:25 AM PST and scores bullish/bearish keywords
@@ -124,7 +124,7 @@ EXPIRATION = 7 days max
   → yfinance 1-min candle history only available for 7 days
 ```
 
-Of 2,863 optionable stocks scanned: **1,173 pass all filters** on a typical day.
+Of 5,325 optionable stocks sourced from the CBOE symbol directory: **the daily pass count varies** based on price and volume filters.
 
 ---
 
@@ -138,6 +138,7 @@ Of 2,863 optionable stocks scanned: **1,173 pass all filters** on a typical day.
 | Hosting | GitHub Pages |
 | User sheet | Google Sheets + GOOGLEFINANCE() |
 | Domain | stock-porn.loyal9.app |
+| Options universe | CBOE symbol directory (NYSE + Nasdaq + AMEX) |
 
 Everything is free. No API keys required to run the site. No paid data feeds.
 
@@ -182,8 +183,7 @@ This project generates data nobody else publishes with actual trade records atta
 │   └── blog-engine.js          ← renders trade articles from blog.json
 ├── /pages                      ← all site pages
 ├── /data
-│   ├── stocks_clean.csv        ← cleaned NYSE ticker list
-│   ├── stocks_optionable.csv   ← 2,863 stocks with options available
+│   ├── cboesymboldirequityindex.csv ← CBOE full US options symbol directory
 │   ├── metadata.json           ← filter counts, last updated timestamp
 │   ├── signals.json            ← top movers, updated daily
 │   ├── trades.json             ← full paper trade ledger

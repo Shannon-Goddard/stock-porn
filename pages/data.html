@@ -4,20 +4,20 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Get the Data — stock-porn</title>
-  <meta name="description" content="Download free stock market data — 2,800+ optionable NYSE stocks, daily signals, full paper trade ledger, and analytics. No API key required." />
+  <meta name="description" content="Download free stock market data — 5,300+ optionable US stocks, daily signals, full paper trade ledger, and analytics. No API key required." />
   <link rel="canonical" href="https://stock-porn.loyal9.app/pages/data.html" />
   <!-- Open Graph -->
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://stock-porn.loyal9.app/pages/data.html" />
   <meta property="og:title" content="Get the Data — stock-porn" />
-  <meta property="og:description" content="Download free stock market data — 2,800+ optionable NYSE stocks, daily signals, full paper trade ledger, and analytics. No API key required." />
+  <meta property="og:description" content="Download free stock market data — 5,300+ optionable US stocks, daily signals, full paper trade ledger, and analytics. No API key required." />
   <meta property="og:image" content="https://stock-porn.loyal9.app/assets/img/og-preview.png" />
   <meta property="og:image:width" content="1200" />
   <meta property="og:image:height" content="630" />
   <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="Get the Data — stock-porn" />
-  <meta name="twitter:description" content="Download free stock market data — 2,800+ optionable NYSE stocks, daily signals, full paper trade ledger, and analytics. No API key required." />
+  <meta name="twitter:description" content="Download free stock market data — 5,300+ optionable US stocks, daily signals, full paper trade ledger, and analytics. No API key required." />
   <meta name="twitter:image" content="https://stock-porn.loyal9.app/assets/img/og-preview.png" />
   <!-- Favicon -->
   <link rel="icon" type="image/svg+xml" href="/assets/img/favicon.svg" />
@@ -170,17 +170,17 @@
       <div class="data-card-header">
         <div>
           <div class="data-card-title">stocks_optionable.csv</div>
-          <div class="data-card-meta">Full NYSE list · Updated 1st of every month · <span class="updated-tag" id="optionableUpdated">loading...</span></div>
+          <div class="data-card-meta">Full US options universe · Updated 1st of every month · <span class="updated-tag" id="optionableUpdated">loading...</span></div>
         </div>
         <a class="download-btn" href="../data/stocks_optionable.csv" download>↓ Download</a>
       </div>
       <div class="data-card-body">
-        <p>All 4,940 NYSE-listed stocks scanned for options availability. 2,863 have options. Refreshed monthly via GitHub Actions.</p>
+        <p>5,325 US optionable stocks sourced from the CBOE symbol directory — NYSE, Nasdaq, and AMEX. All rows are confirmed optionable by definition. Refreshed monthly via GitHub Actions.</p>
         <div class="field-list">
           <div class="field-row"><span class="field-name">Symbol</span><span class="field-type">string</span><span class="field-desc">Stock ticker symbol</span></div>
           <div class="field-row"><span class="field-name">Name</span><span class="field-type">string</span><span class="field-desc">Company name</span></div>
           <div class="field-row"><span class="field-name">Sector</span><span class="field-type">string</span><span class="field-desc">Market sector classification</span></div>
-          <div class="field-row"><span class="field-name">options_available</span><span class="field-type">bool</span><span class="field-desc">TRUE if options chain exists on Yahoo Finance</span></div>
+          <div class="field-row"><span class="field-name">options_available</span><span class="field-type">bool</span><span class="field-desc">Always TRUE — sourced from CBOE confirmed optionable list</span></div>
         </div>
         <button class="accordion-btn" onclick="toggleAccordion('optionable-preview', this)">
           <span>Preview — first 10 rows</span><span>▼</span>

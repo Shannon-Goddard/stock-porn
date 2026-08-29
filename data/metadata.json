@@ -10,5 +10,12 @@
       "below_min_volume": 612,
       "passed": 968
     }
+  },
+  "stocks_optionable": {
+    "last_updated": "2026-08-29 04:46:20 UTC",
+    "source": "CBOE symbol directory",
+    "total_stocks": 5325,
+    "optionable": 5325,
+    "non_optionable": 0
   }
 }

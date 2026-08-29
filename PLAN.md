@@ -17,7 +17,7 @@ Set up as a joke. Deliver real alpha. Cover our ass legally.
 | Data source | Yahoo Finance (yfinance) |
 | News/Charts | Think or Swim (user side) |
 | Execution | Robinhood (user side) |
-| Stock list | Our cleaned NYSE CSV (GitHub) |
+| Stock list | CBOE symbol directory (NYSE + Nasdaq + AMEX) |
 | Live data | GitHub Actions (scheduled Python) |
 | Hosting | GitHub Pages |
 | User sheet | Google Sheets + GOOGLEFINANCE() |
@@ -29,8 +29,8 @@ Set up as a joke. Deliver real alpha. Cover our ass legally.
 ## The Data
 - [x] Raw CSV cleaned — ticker/name/sector separated
 - [x] All-caps edge cases fixed
-- [x] options_available scan script built (scan_options.py)
-- [x] stocks_optionable.csv — 2863 optionable stocks
+- [x] options_available scan script built (scan_options.py) — CBOE-based, runs in seconds
+- [x] stocks_optionable.csv — 5,325 optionable stocks (NYSE + Nasdaq + AMEX via CBOE)
 - [x] metadata.json — auto timestamped, filter counts per stage
 - [x] signals.json — top 10% movers, top 5 dollar movers
 - [x] Quality filters added: MIN_PRICE=$10, MIN_AVG_VOLUME=500K
@@ -443,7 +443,7 @@ published: true by default — article live immediately, enrich later
 | expected_move logged at entry | 1σ range from IV×sqrt(T), enables strike_position hypothesis | Aug 2026 |
 | gap_direction logged at exit | Measures if stock opened with or against thesis | Aug 2026 |
 | excluded_trade_ids in meta | Trades 1-4 flagged — fomo bug + pre-schema v2.0 | Aug 2026 |
-| clean_balance separate from balance | balance = raw all-time, clean_balance = excludes flagged trades | Aug 2026 |
+| CBOE symbol directory as options source | Covers all US exchanges, no yfinance pinging, runs in seconds vs 40+ min | Aug 2026 |
 
 ---
 

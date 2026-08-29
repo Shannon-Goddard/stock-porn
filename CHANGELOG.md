@@ -21,3 +21,9 @@ Format: `DATE | TYPE | DESCRIPTION`
 2026-08-28 | feature     | components/nav.js: added Findings link.
 2026-08-28 | content     | README.md: added "On Price Prediction" section explaining why price prediction is broken by design and why range prediction is the honest, achievable version.
 2026-08-28 | content     | PLAN.md: updated to reflect schema v2.0, new pages, bug fixes, and 5-week findings roadmap.
+2026-08-28 | refactor    | scan_options.py replaced entirely. Old script pinged yfinance per ticker (40+ min, timeout risk). New script reads data/cboesymboldirequityindex.csv from CBOE directly — all rows confirmed optionable, no pinging required. Runs in under 1 second.
+2026-08-28 | data        | stocks_optionable.csv regenerated from CBOE source. 5,325 symbols (NYSE + Nasdaq + AMEX) vs 1,173 previously passing filters from NYSE-only scan. CRM, CRWD, and all Nasdaq/AMEX optionable stocks now included.
+2026-08-28 | cleanup     | Deleted data/scan_progress.csv (old yfinance progress tracker, no longer used). Deleted data/stocks_clean.csv, data/stock ticker-name-sector.csv, data/stock_w_ticker_in_name.csv (NYSE-only source files, replaced by CBOE directory).
+2026-08-28 | content     | README.md: updated stack table source, signal filter count, repo structure to reflect CBOE pipeline.
+2026-08-28 | content     | pages/data.html: updated stocks_optionable card — description, meta tags, field definition to reflect CBOE source and 5,325 symbol count.
+2026-08-28 | content     | PLAN.md: updated stack table, data checklist, key decisions log.
