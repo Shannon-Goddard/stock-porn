@@ -1,250 +1,250 @@
 {
   "topGainers": [
     {
-      "ticker": "ESTC",
-      "name": "Elastic N.V.",
-      "sector": "Technology services",
-      "price": 99.91,
-      "changePct": 19.31,
-      "changeDollar": 16.17
+      "ticker": "CRCA",
+      "name": "PROSHARES TR ULTRA CRCL NEW",
+      "sector": "Unknown",
+      "price": 25.81,
+      "changePct": 19.0,
+      "changeDollar": 4.12
     },
     {
-      "ticker": "GAP",
-      "name": "Gap, Inc. (The)",
-      "sector": "Retail trade",
-      "price": 23.48,
-      "changePct": 12.94,
-      "changeDollar": 2.69
+      "ticker": "BMNU",
+      "name": "T-REX 2X Long BMNR Daily Target ETF",
+      "sector": "Unknown",
+      "price": 20.32,
+      "changePct": 11.28,
+      "changeDollar": 2.06
     },
     {
-      "ticker": "SOLS",
-      "name": "Solstice Advanced Materials Inc.",
-      "sector": "Process industries",
-      "price": 63.53,
-      "changePct": 12.76,
-      "changeDollar": 7.19
+      "ticker": "TSLR",
+      "name": "GRANITESHARES ETF TR 2X LONG TSLA ETF",
+      "sector": "Unknown",
+      "price": 17.11,
+      "changePct": 10.32,
+      "changeDollar": 1.6
     },
     {
-      "ticker": "PD",
-      "name": "PagerDuty, Inc.",
-      "sector": "Technology services",
-      "price": 13.83,
-      "changePct": 9.5,
-      "changeDollar": 1.2
+      "ticker": "TSLT",
+      "name": "T-Rex 2X Long Tesla Daily Target ETF",
+      "sector": "Unknown",
+      "price": 13.82,
+      "changePct": 10.12,
+      "changeDollar": 1.27
     },
     {
-      "ticker": "FLUT",
-      "name": "Flutter Entertainment plc",
-      "sector": "Consumer services",
-      "price": 101.78,
-      "changePct": 7.13,
-      "changeDollar": 6.77
+      "ticker": "CRCL",
+      "name": "CIRCLE INTERNET GROUP INC COM CL A",
+      "sector": "Unknown",
+      "price": 95.68,
+      "changePct": 9.8,
+      "changeDollar": 8.54
     },
     {
-      "ticker": "SMPL",
-      "name": "The Simply Good Foods Company",
-      "sector": "Consumer non-durables",
-      "price": 10.93,
-      "changePct": 7.05,
-      "changeDollar": 0.72
+      "ticker": "QMCO",
+      "name": "QUANTUM CORP COM",
+      "sector": "Unknown",
+      "price": 24.11,
+      "changePct": 8.31,
+      "changeDollar": 1.85
     },
     {
-      "ticker": "MNRO",
-      "name": "Monro, Inc.",
-      "sector": "Retail trade",
-      "price": 12.96,
-      "changePct": 5.8,
-      "changeDollar": 0.71
+      "ticker": "WYFI",
+      "name": "WHITEFIBER INC SHS",
+      "sector": "Unknown",
+      "price": 18.65,
+      "changePct": 5.07,
+      "changeDollar": 0.9
     },
     {
-      "ticker": "WDAY",
-      "name": "Workday, Inc.",
-      "sector": "Technology services",
-      "price": 204.72,
-      "changePct": 5.76,
-      "changeDollar": 11.15
+      "ticker": "SAIL",
+      "name": "SAILPOINT INC COM",
+      "sector": "Unknown",
+      "price": 20.78,
+      "changePct": 4.79,
+      "changeDollar": 0.95
     },
     {
-      "ticker": "DPZ",
-      "name": "Domino's Pizza Inc",
-      "sector": "Consumer services",
-      "price": 350.0,
-      "changePct": 5.4,
-      "changeDollar": 17.94
+      "ticker": "HTFL",
+      "name": "HEARTFLOW INC COM",
+      "sector": "Unknown",
+      "price": 49.92,
+      "changePct": 4.48,
+      "changeDollar": 2.14
     },
     {
-      "ticker": "BBW",
-      "name": "Build-A-Bear Workshop, Inc.",
-      "sector": "Retail trade",
-      "price": 29.85,
-      "changePct": 4.96,
-      "changeDollar": 1.41
+      "ticker": "UCO",
+      "name": "PROSHARES TR II ULTA BLMBG 2017",
+      "sector": "Unknown",
+      "price": 44.44,
+      "changePct": 4.34,
+      "changeDollar": 1.85
     }
   ],
   "topLosers": [
     {
-      "ticker": "RBRK",
-      "name": "Rubrik, Inc.",
-      "sector": "Technology services",
-      "price": 93.05,
-      "changePct": -13.05,
-      "changeDollar": -13.97
+      "ticker": "EIX",
+      "name": "EDISON INTL COM",
+      "sector": "Unknown",
+      "price": 54.2,
+      "changePct": -22.76,
+      "changeDollar": -15.97
     },
     {
-      "ticker": "PYPL",
-      "name": "PayPal Holdings, Inc.",
-      "sector": "Commercial services",
-      "price": 53.66,
-      "changePct": -12.71,
-      "changeDollar": -7.81
+      "ticker": "PCG",
+      "name": "PG&E CORP COM",
+      "sector": "Unknown",
+      "price": 13.52,
+      "changePct": -18.61,
+      "changeDollar": -3.09
+    },
+    {
+      "ticker": "TSLZ",
+      "name": "T-Rex 2X Inverse Tesla Daily Target ETF",
+      "sector": "Unknown",
+      "price": 11.9,
+      "changePct": -10.32,
+      "changeDollar": -1.37
+    },
+    {
+      "ticker": "TSLQ",
+      "name": "INVESTMENT MANAGERS SER TR II TRADR 2X SHORT",
+      "sector": "Unknown",
+      "price": 18.78,
+      "changePct": -10.23,
+      "changeDollar": -2.14
     },
     {
       "ticker": "REAX",
-      "name": "The Real Brokerage, Inc.",
-      "sector": "Commercial services",
-      "price": 21.09,
-      "changePct": -10.75,
-      "changeDollar": -2.54
+      "name": "REAL REMAX GROUP INC",
+      "sector": "Unknown",
+      "price": 19.1,
+      "changePct": -9.44,
+      "changeDollar": -1.99
     },
     {
-      "ticker": "AEHR",
-      "name": "Aehr Test Systems",
-      "sector": "Electronic technology",
-      "price": 80.81,
-      "changePct": -10.67,
-      "changeDollar": -9.65
+      "ticker": "BABX",
+      "name": "GRANITESHARES ETF TR 2X LNG BABA DAL",
+      "sector": "Unknown",
+      "price": 18.5,
+      "changePct": -8.23,
+      "changeDollar": -1.66
     },
     {
-      "ticker": "INFQ",
-      "name": "Infleqtion, Inc.",
-      "sector": "Electronic technology",
-      "price": 12.8,
-      "changePct": -10.61,
-      "changeDollar": -1.52
+      "ticker": "SMST",
+      "name": "TIDAL TRUST II DEFI DA TA 2025",
+      "sector": "Unknown",
+      "price": 24.14,
+      "changePct": -8.21,
+      "changeDollar": -2.16
     },
     {
-      "ticker": "CLSK",
-      "name": "CleanSpark, Inc.",
-      "sector": "Technology services",
-      "price": 11.66,
-      "changePct": -9.96,
-      "changeDollar": -1.29
+      "ticker": "FUN",
+      "name": "SIX FLAGS ENTERTAINMENT CORP COM",
+      "sector": "Unknown",
+      "price": 14.99,
+      "changePct": -7.58,
+      "changeDollar": -1.23
     },
     {
-      "ticker": "LEU",
-      "name": "Centrus Energy Corp.",
-      "sector": "Non-energy minerals",
-      "price": 175.78,
-      "changePct": -9.75,
-      "changeDollar": -19.0
+      "ticker": "JKS",
+      "name": "JINKOSOLAR HLDG CO LTD SPONSORED ADR",
+      "sector": "Unknown",
+      "price": 12.63,
+      "changePct": -6.72,
+      "changeDollar": -0.91
     },
     {
-      "ticker": "CIFR",
-      "name": "Cipher Digital Inc.",
-      "sector": "Technology services",
-      "price": 15.17,
-      "changePct": -9.54,
-      "changeDollar": -1.6
-    },
-    {
-      "ticker": "PURR",
-      "name": "Hyperliquid Strategies Inc",
-      "sector": "Finance",
-      "price": 11.61,
-      "changePct": -9.51,
-      "changeDollar": -1.22
-    },
-    {
-      "ticker": "UEC",
-      "name": "Uranium Energy Corp.",
-      "sector": "Non-energy minerals",
-      "price": 12.4,
-      "changePct": -8.96,
-      "changeDollar": -1.22
+      "ticker": "TTWO",
+      "name": "TAKE-TWO INTERACTIVE SOFTWARE COM",
+      "sector": "Unknown",
+      "price": 220.03,
+      "changePct": -6.53,
+      "changeDollar": -15.36
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "DPZ",
-      "name": "Domino's Pizza Inc",
-      "sector": "Consumer services",
-      "price": 350.0,
-      "changePct": 5.4,
-      "changeDollar": 17.94
+      "ticker": "CRCL",
+      "name": "CIRCLE INTERNET GROUP INC COM CL A",
+      "sector": "Unknown",
+      "price": 95.68,
+      "changePct": 9.8,
+      "changeDollar": 8.54
     },
     {
-      "ticker": "ESTC",
-      "name": "Elastic N.V.",
-      "sector": "Technology services",
-      "price": 99.91,
-      "changePct": 19.31,
-      "changeDollar": 16.17
+      "ticker": "CRCA",
+      "name": "PROSHARES TR ULTRA CRCL NEW",
+      "sector": "Unknown",
+      "price": 25.81,
+      "changePct": 19.0,
+      "changeDollar": 4.12
     },
     {
-      "ticker": "WDAY",
-      "name": "Workday, Inc.",
-      "sector": "Technology services",
-      "price": 204.72,
-      "changePct": 5.76,
-      "changeDollar": 11.15
+      "ticker": "HTFL",
+      "name": "HEARTFLOW INC COM",
+      "sector": "Unknown",
+      "price": 49.92,
+      "changePct": 4.48,
+      "changeDollar": 2.14
     },
     {
-      "ticker": "SOLS",
-      "name": "Solstice Advanced Materials Inc.",
-      "sector": "Process industries",
-      "price": 63.53,
-      "changePct": 12.76,
-      "changeDollar": 7.19
+      "ticker": "BMNU",
+      "name": "T-REX 2X Long BMNR Daily Target ETF",
+      "sector": "Unknown",
+      "price": 20.32,
+      "changePct": 11.28,
+      "changeDollar": 2.06
     },
     {
-      "ticker": "FLUT",
-      "name": "Flutter Entertainment plc",
-      "sector": "Consumer services",
-      "price": 101.78,
-      "changePct": 7.13,
-      "changeDollar": 6.77
+      "ticker": "QMCO",
+      "name": "QUANTUM CORP COM",
+      "sector": "Unknown",
+      "price": 24.11,
+      "changePct": 8.31,
+      "changeDollar": 1.85
     }
   ],
   "dollarLosers": [
     {
-      "ticker": "LEU",
-      "name": "Centrus Energy Corp.",
-      "sector": "Non-energy minerals",
-      "price": 175.78,
-      "changePct": -9.75,
-      "changeDollar": -19.0
+      "ticker": "EIX",
+      "name": "EDISON INTL COM",
+      "sector": "Unknown",
+      "price": 54.2,
+      "changePct": -22.76,
+      "changeDollar": -15.97
     },
     {
-      "ticker": "RBRK",
-      "name": "Rubrik, Inc.",
-      "sector": "Technology services",
-      "price": 93.05,
-      "changePct": -13.05,
-      "changeDollar": -13.97
+      "ticker": "TTWO",
+      "name": "TAKE-TWO INTERACTIVE SOFTWARE COM",
+      "sector": "Unknown",
+      "price": 220.03,
+      "changePct": -6.53,
+      "changeDollar": -15.36
     },
     {
-      "ticker": "AEHR",
-      "name": "Aehr Test Systems",
-      "sector": "Electronic technology",
-      "price": 80.81,
-      "changePct": -10.67,
-      "changeDollar": -9.65
+      "ticker": "PCG",
+      "name": "PG&E CORP COM",
+      "sector": "Unknown",
+      "price": 13.52,
+      "changePct": -18.61,
+      "changeDollar": -3.09
     },
     {
-      "ticker": "PYPL",
-      "name": "PayPal Holdings, Inc.",
-      "sector": "Commercial services",
-      "price": 53.66,
-      "changePct": -12.71,
-      "changeDollar": -7.81
+      "ticker": "SMST",
+      "name": "TIDAL TRUST II DEFI DA TA 2025",
+      "sector": "Unknown",
+      "price": 24.14,
+      "changePct": -8.21,
+      "changeDollar": -2.16
     },
     {
-      "ticker": "REAX",
-      "name": "The Real Brokerage, Inc.",
-      "sector": "Commercial services",
-      "price": 21.09,
-      "changePct": -10.75,
-      "changeDollar": -2.54
+      "ticker": "TSLQ",
+      "name": "INVESTMENT MANAGERS SER TR II TRADR 2X SHORT",
+      "sector": "Unknown",
+      "price": 18.78,
+      "changePct": -10.23,
+      "changeDollar": -2.14
     }
   ]
 }
