@@ -1,20 +1,20 @@
 {
   "topGainers": [
     {
-      "ticker": "CRCG",
-      "name": "THEMES ETF TR LEVERAGE SHS 2X",
-      "sector": "Unknown",
-      "price": 17.48,
-      "changePct": 19.32,
-      "changeDollar": 2.83
-    },
-    {
       "ticker": "BMNU",
       "name": "T-REX 2X Long BMNR Daily Target ETF",
       "sector": "Unknown",
       "price": 20.66,
       "changePct": 13.14,
       "changeDollar": 2.4
+    },
+    {
+      "ticker": "GPRK",
+      "name": "GEOPARK LTD USD SHS",
+      "sector": "Unknown",
+      "price": 11.0,
+      "changePct": 11.9,
+      "changeDollar": 1.17
     },
     {
       "ticker": "SNDU",
@@ -33,63 +33,55 @@
       "changeDollar": 0.99
     },
     {
-      "ticker": "RBLX",
-      "name": "ROBLOX CORP CL A",
+      "ticker": "QMCO",
+      "name": "QUANTUM CORP COM",
       "sector": "Unknown",
-      "price": 41.29,
-      "changePct": 7.16,
-      "changeDollar": 2.76
+      "price": 24.33,
+      "changePct": 9.3,
+      "changeDollar": 2.07
     },
     {
-      "ticker": "METC",
-      "name": "RAMACO RES INC COM CL A",
+      "ticker": "CAR",
+      "name": "AVIS BUDGET GROUP INC COM",
       "sector": "Unknown",
-      "price": 14.24,
-      "changePct": 7.07,
-      "changeDollar": 0.94
+      "price": 147.49,
+      "changePct": 6.78,
+      "changeDollar": 9.37
     },
     {
-      "ticker": "GLXY",
-      "name": "GALAXY DIGITAL INC. CL A",
+      "ticker": "WYFI",
+      "name": "WHITEFIBER INC SHS",
       "sector": "Unknown",
-      "price": 24.6,
-      "changePct": 5.99,
-      "changeDollar": 1.39
+      "price": 18.92,
+      "changePct": 6.59,
+      "changeDollar": 1.17
     },
     {
-      "ticker": "HNGE",
-      "name": "HINGE HEALTH INC CL A",
+      "ticker": "WOLF",
+      "name": "WOLFSPEED INC COMMON STOCK",
       "sector": "Unknown",
-      "price": 92.56,
-      "changePct": 5.96,
-      "changeDollar": 5.21
+      "price": 27.4,
+      "changePct": 6.0,
+      "changeDollar": 1.55
     },
     {
-      "ticker": "SNDK",
-      "name": "SANDISK CORP COM",
+      "ticker": "HTFL",
+      "name": "HEARTFLOW INC COM",
       "sector": "Unknown",
-      "price": 1566.7,
-      "changePct": 5.5,
-      "changeDollar": 81.72
+      "price": 50.39,
+      "changePct": 5.46,
+      "changeDollar": 2.61
     },
     {
-      "ticker": "HELE",
-      "name": "HELEN OF TROY LTD COM",
+      "ticker": "MUU",
+      "name": "DIREXION SHARES ETF TRUST DLY MU BULL 2X",
       "sector": "Unknown",
-      "price": 30.1,
-      "changePct": 5.17,
-      "changeDollar": 1.48
+      "price": 30.62,
+      "changePct": 4.93,
+      "changeDollar": 1.44
     }
   ],
   "topLosers": [
-    {
-      "ticker": "LIND",
-      "name": "LINDBLAD EXPEDITIONS HLDGS INC COM",
-      "sector": "Unknown",
-      "price": 26.56,
-      "changePct": -10.24,
-      "changeDollar": -3.03
-    },
     {
       "ticker": "SMST",
       "name": "TIDAL TRUST II DEFI DA TA 2025",
@@ -99,12 +91,12 @@
       "changeDollar": -2.3
     },
     {
-      "ticker": "BABX",
-      "name": "GRANITESHARES ETF TR 2X LNG BABA DAL",
+      "ticker": "HSAI",
+      "name": "HESAI GROUP SPONSORED ADS",
       "sector": "Unknown",
-      "price": 18.52,
-      "changePct": -8.13,
-      "changeDollar": -1.64
+      "price": 16.12,
+      "changePct": -7.46,
+      "changeDollar": -1.3
     },
     {
       "ticker": "JKS",
@@ -115,22 +107,6 @@
       "changeDollar": -0.96
     },
     {
-      "ticker": "TTWO",
-      "name": "TAKE-TWO INTERACTIVE SOFTWARE COM",
-      "sector": "Unknown",
-      "price": 219.7,
-      "changePct": -6.67,
-      "changeDollar": -15.69
-    },
-    {
-      "ticker": "REAL",
-      "name": "THE REALREAL INC COM",
-      "sector": "Unknown",
-      "price": 10.24,
-      "changePct": -6.31,
-      "changeDollar": -0.69
-    },
-    {
       "ticker": "BEKE",
       "name": "KE HLDGS INC SPONSORED ADS",
       "sector": "Unknown",
@@ -139,12 +115,12 @@
       "changeDollar": -1.13
     },
     {
-      "ticker": "CSIQ",
-      "name": "CANADIAN SOLAR INC COM",
+      "ticker": "CHH",
+      "name": "CHOICE HOTELS INTL INC COM",
       "sector": "Unknown",
-      "price": 12.33,
-      "changePct": -6.16,
-      "changeDollar": -0.81
+      "price": 103.36,
+      "changePct": -5.05,
+      "changeDollar": -5.5
     },
     {
       "ticker": "SE",
@@ -155,46 +131,54 @@
       "changeDollar": -5.88
     },
     {
+      "ticker": "COCO",
+      "name": "VITA COCO CO INC COM",
+      "sector": "Unknown",
+      "price": 58.72,
+      "changePct": -4.85,
+      "changeDollar": -2.99
+    },
+    {
       "ticker": "BURL",
       "name": "BURLINGTON STORES INC COM",
       "sector": "Unknown",
       "price": 259.76,
       "changePct": -4.83,
       "changeDollar": -13.19
+    },
+    {
+      "ticker": "UPBD",
+      "name": "UPBOUND GROUP INC COM",
+      "sector": "Unknown",
+      "price": 18.3,
+      "changePct": -4.79,
+      "changeDollar": -0.92
+    },
+    {
+      "ticker": "SCO",
+      "name": "PROSHARES TR II ULSHT BLOOMB OIL",
+      "sector": "Unknown",
+      "price": 23.97,
+      "changePct": -4.69,
+      "changeDollar": -1.18
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "SNDK",
-      "name": "SANDISK CORP COM",
+      "ticker": "CAR",
+      "name": "AVIS BUDGET GROUP INC COM",
       "sector": "Unknown",
-      "price": 1566.7,
-      "changePct": 5.5,
-      "changeDollar": 81.72
+      "price": 147.49,
+      "changePct": 6.78,
+      "changeDollar": 9.37
     },
     {
-      "ticker": "HNGE",
-      "name": "HINGE HEALTH INC CL A",
+      "ticker": "HTFL",
+      "name": "HEARTFLOW INC COM",
       "sector": "Unknown",
-      "price": 92.56,
-      "changePct": 5.96,
-      "changeDollar": 5.21
-    },
-    {
-      "ticker": "CRCG",
-      "name": "THEMES ETF TR LEVERAGE SHS 2X",
-      "sector": "Unknown",
-      "price": 17.48,
-      "changePct": 19.32,
-      "changeDollar": 2.83
-    },
-    {
-      "ticker": "RBLX",
-      "name": "ROBLOX CORP CL A",
-      "sector": "Unknown",
-      "price": 41.29,
-      "changePct": 7.16,
-      "changeDollar": 2.76
+      "price": 50.39,
+      "changePct": 5.46,
+      "changeDollar": 2.61
     },
     {
       "ticker": "BMNU",
@@ -203,17 +187,25 @@
       "price": 20.66,
       "changePct": 13.14,
       "changeDollar": 2.4
+    },
+    {
+      "ticker": "SNDU",
+      "name": "T-REX 2X Long SNDK Daily Target ETF",
+      "sector": "Unknown",
+      "price": 22.14,
+      "changePct": 11.03,
+      "changeDollar": 2.2
+    },
+    {
+      "ticker": "QMCO",
+      "name": "QUANTUM CORP COM",
+      "sector": "Unknown",
+      "price": 24.33,
+      "changePct": 9.3,
+      "changeDollar": 2.07
     }
   ],
   "dollarLosers": [
-    {
-      "ticker": "TTWO",
-      "name": "TAKE-TWO INTERACTIVE SOFTWARE COM",
-      "sector": "Unknown",
-      "price": 219.7,
-      "changePct": -6.67,
-      "changeDollar": -15.69
-    },
     {
       "ticker": "BURL",
       "name": "BURLINGTON STORES INC COM",
@@ -231,12 +223,20 @@
       "changeDollar": -5.88
     },
     {
-      "ticker": "LIND",
-      "name": "LINDBLAD EXPEDITIONS HLDGS INC COM",
+      "ticker": "CHH",
+      "name": "CHOICE HOTELS INTL INC COM",
       "sector": "Unknown",
-      "price": 26.56,
-      "changePct": -10.24,
-      "changeDollar": -3.03
+      "price": 103.36,
+      "changePct": -5.05,
+      "changeDollar": -5.5
+    },
+    {
+      "ticker": "COCO",
+      "name": "VITA COCO CO INC COM",
+      "sector": "Unknown",
+      "price": 58.72,
+      "changePct": -4.85,
+      "changeDollar": -2.99
     },
     {
       "ticker": "SMST",
