@@ -383,7 +383,48 @@
         "macro_keywords": [],
         "auto_note": "CAR CALL | $+9.37 (+6.78%) | dollar_gainer_1 | Strike $160.0 exp 2026-09-04 (3DTE) | IV 68.4% | SPY -0.30% | No macro triggers"
       },
-      "news_scan": null,
+      "news_scan": {
+        "scanned_at": "2026-09-01 17:22:20 PST",
+        "gap_days": 0,
+        "ticker_sentiment": "neutral",
+        "spy_sentiment": "bearish",
+        "spx_sentiment": "neutral",
+        "keywords_found": [],
+        "spy_keywords": [
+          "falls",
+          "drops"
+        ],
+        "spx_keywords": [],
+        "decision": "sell",
+        "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
+        "raw_headlines": {
+          "ticker": [],
+          "spy": [
+            "SoFi Drops 4%, Affirm Falls 5% as Yields Hit Balance-Sheet Lenders, Robinhood Holds Steady",
+            "Apple Rises 3% on John Ternus\u2019s First Day as CEO Even While the NASDAQ Skids",
+            "CoreWeave Offers So Much at $85",
+            "Dell Falls 4% Ahead of Earnings as Its 266% Rally Raises the Bar, Super Micro and Hewlett Packard Enterprise Slip",
+            "What to Understand Before Buying Nebius",
+            "Stock Market Today: Nasdaq Sinks As Crude Prices Climb; These Oil Names Break Out (Live Coverage)",
+            "Pre-Market Futures Lower to Start September",
+            "Trump Media Falls 3% as Rising Yields and Higher Oil Squeeze Risk Appetite",
+            "\u2018Your Stock Doesn\u2019t Know Your Name\u2019: Wes Moss on Owning Too Much Apple, Google",
+            "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Tuesday as Oil Prices Advance"
+          ],
+          "spx": [
+            "Why you should care about rising bond yields",
+            "Software stocks crushed chips in August. History says September gets tougher: Chart of the Day",
+            "43-year veteran Wall Street analyst sounds alarm on stocks after rare signal flashes",
+            "Stocks Fall on Rising Yields and Oil, With Apple the Lone Bright Spot",
+            "3 Reasons CCK is Risky and 1 Stock to Buy Instead",
+            "I've Been Wrong About Philip Morris International Stock for 5 Years. Here's Why I'm Finally Changing My Mind.",
+            "Stock Market Midday, Sept. 1: Stocks Slide on Global Bond Sell-Off",
+            "Update: US Equity Indexes Retreat Amid Surging Treasury Yields, Higher Crude Oil Prices",
+            "If a Bear Market Is Coming, This Growth Stock Might Be a Great Buy on the Dip",
+            "10 Investment Must Reads for This Week (Sept. 1, 2026)"
+          ]
+        }
+      },
       "exit": null,
       "fomo": null
     },
@@ -422,7 +463,55 @@
         "macro_keywords": [],
         "auto_note": "BURL PUT | $-13.19 (-4.83%) | dollar_loser_1 | Strike $240.0 exp 2026-09-04 (3DTE) | IV 50.0% | SPY -0.30% | No macro triggers"
       },
-      "news_scan": null,
+      "news_scan": {
+        "scanned_at": "2026-09-01 17:22:20 PST",
+        "gap_days": 0,
+        "ticker_sentiment": "bullish",
+        "spy_sentiment": "bearish",
+        "spx_sentiment": "neutral",
+        "keywords_found": [
+          "jumps"
+        ],
+        "spy_keywords": [
+          "falls",
+          "drops"
+        ],
+        "spx_keywords": [],
+        "decision": "hold",
+        "decision_reason": "bullish keywords confirmed PUT thesis",
+        "raw_headlines": {
+          "ticker": [
+            "What's Five Below's Probability of an Earnings Beat This Season?",
+            "TJX Companies' HomeGoods Comp Jumps 7%: Can Strong Momentum Persist?",
+            "Burlington\u2019s (BURL) Discount Playbook Keeps Delivering Even As Weather Looms",
+            "Burlington (BURL) Q2 2026 Earnings Call Transcript"
+          ],
+          "spy": [
+            "SoFi Drops 4%, Affirm Falls 5% as Yields Hit Balance-Sheet Lenders, Robinhood Holds Steady",
+            "Apple Rises 3% on John Ternus\u2019s First Day as CEO Even While the NASDAQ Skids",
+            "CoreWeave Offers So Much at $85",
+            "Dell Falls 4% Ahead of Earnings as Its 266% Rally Raises the Bar, Super Micro and Hewlett Packard Enterprise Slip",
+            "What to Understand Before Buying Nebius",
+            "Stock Market Today: Nasdaq Sinks As Crude Prices Climb; These Oil Names Break Out (Live Coverage)",
+            "Pre-Market Futures Lower to Start September",
+            "Trump Media Falls 3% as Rising Yields and Higher Oil Squeeze Risk Appetite",
+            "\u2018Your Stock Doesn\u2019t Know Your Name\u2019: Wes Moss on Owning Too Much Apple, Google",
+            "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Tuesday as Oil Prices Advance"
+          ],
+          "spx": [
+            "Why you should care about rising bond yields",
+            "Software stocks crushed chips in August. History says September gets tougher: Chart of the Day",
+            "43-year veteran Wall Street analyst sounds alarm on stocks after rare signal flashes",
+            "Stocks Fall on Rising Yields and Oil, With Apple the Lone Bright Spot",
+            "3 Reasons CCK is Risky and 1 Stock to Buy Instead",
+            "I've Been Wrong About Philip Morris International Stock for 5 Years. Here's Why I'm Finally Changing My Mind.",
+            "Stock Market Midday, Sept. 1: Stocks Slide on Global Bond Sell-Off",
+            "Update: US Equity Indexes Retreat Amid Surging Treasury Yields, Higher Crude Oil Prices",
+            "If a Bear Market Is Coming, This Growth Stock Might Be a Great Buy on the Dip",
+            "10 Investment Must Reads for This Week (Sept. 1, 2026)"
+          ]
+        }
+      },
       "exit": null,
       "fomo": null
     }
