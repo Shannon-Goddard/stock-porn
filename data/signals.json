@@ -1,250 +1,250 @@
 {
   "topGainers": [
     {
+      "ticker": "FRVO",
+      "name": "FERVO ENERGY CO CL A COM",
+      "sector": "Unknown",
+      "price": 19.75,
+      "changePct": 28.41,
+      "changeDollar": 4.37
+    },
+    {
+      "ticker": "SMST",
+      "name": "TIDAL TRUST II DEFI DA TA 2025",
+      "sector": "Unknown",
+      "price": 26.89,
+      "changePct": 12.04,
+      "changeDollar": 2.89
+    },
+    {
+      "ticker": "ARCT",
+      "name": "ARCTURUS THERAPEUTICS HLDGS COM",
+      "sector": "Unknown",
+      "price": 16.23,
+      "changePct": 9.96,
+      "changeDollar": 1.47
+    },
+    {
+      "ticker": "EIX",
+      "name": "EDISON INTL COM",
+      "sector": "Unknown",
+      "price": 58.79,
+      "changePct": 8.91,
+      "changeDollar": 4.81
+    },
+    {
       "ticker": "CLYM",
       "name": "CLIMB BIO INC COM",
       "sector": "Unknown",
-      "price": 14.67,
-      "changePct": 6.85,
-      "changeDollar": 0.94
+      "price": 14.82,
+      "changePct": 7.94,
+      "changeDollar": 1.09
     },
     {
-      "ticker": "MRNA",
-      "name": "MODERNA INC COM",
+      "ticker": "BEX",
+      "name": "Tradr 2X Long BE Daily ETF",
       "sector": "Unknown",
-      "price": 148.55,
-      "changePct": 5.85,
-      "changeDollar": 8.21
+      "price": 23.16,
+      "changePct": 7.07,
+      "changeDollar": 1.53
     },
     {
-      "ticker": "ZSL",
-      "name": "PROSHARES TR II ULTRA SHORT SILV",
+      "ticker": "TSLZ",
+      "name": "T-Rex 2X Inverse Tesla Daily Target ETF",
       "sector": "Unknown",
-      "price": 24.5,
-      "changePct": 5.69,
-      "changeDollar": 1.32
+      "price": 12.59,
+      "changePct": 6.6,
+      "changeDollar": 0.78
     },
     {
       "ticker": "UCO",
       "name": "PROSHARES TR II ULTA BLMBG 2017",
       "sector": "Unknown",
-      "price": 46.99,
-      "changePct": 5.34,
-      "changeDollar": 2.38
+      "price": 47.44,
+      "changePct": 6.34,
+      "changeDollar": 2.83
     },
     {
-      "ticker": "SGRY",
-      "name": "SURGERY PARTNERS INC COM",
+      "ticker": "NVS",
+      "name": "NOVARTIS AG SPONSORED ADR",
       "sector": "Unknown",
-      "price": 14.63,
-      "changePct": 5.33,
-      "changeDollar": 0.74
+      "price": 161.24,
+      "changePct": 6.04,
+      "changeDollar": 9.18
     },
     {
-      "ticker": "MGTX",
-      "name": "MEIRAGTX HLDGS PLC COM",
+      "ticker": "HP",
+      "name": "HELMERICH & PAYNE INC COM",
       "sector": "Unknown",
-      "price": 14.52,
-      "changePct": 5.14,
-      "changeDollar": 0.71
-    },
-    {
-      "ticker": "EC",
-      "name": "ECOPETROL S A SPONSORED ADS",
-      "sector": "Unknown",
-      "price": 17.48,
-      "changePct": 4.86,
-      "changeDollar": 0.81
-    },
-    {
-      "ticker": "HLF",
-      "name": "HERBALIFE LTD COM SHS",
-      "sector": "Unknown",
-      "price": 11.52,
-      "changePct": 4.82,
-      "changeDollar": 0.53
-    },
-    {
-      "ticker": "SDGR",
-      "name": "SCHRODINGER INC COM",
-      "sector": "Unknown",
-      "price": 20.43,
-      "changePct": 4.77,
-      "changeDollar": 0.93
-    },
-    {
-      "ticker": "CHEF",
-      "name": "CHEFS WHSE INC COM",
-      "sector": "Unknown",
-      "price": 116.58,
-      "changePct": 3.65,
-      "changeDollar": 4.11
+      "price": 46.2,
+      "changePct": 6.01,
+      "changeDollar": 2.62
     }
   ],
   "topLosers": [
     {
-      "ticker": "CRCG",
-      "name": "THEMES ETF TR LEVERAGE SHS 2X",
+      "ticker": "ENOV",
+      "name": "ENOVIS CORPORATION COM",
       "sector": "Unknown",
-      "price": 15.27,
-      "changePct": -12.64,
-      "changeDollar": -2.21
+      "price": 20.53,
+      "changePct": -16.51,
+      "changeDollar": -4.06
     },
     {
-      "ticker": "CRCA",
-      "name": "PROSHARES TR ULTRA CRCL NEW",
+      "ticker": "BMNU",
+      "name": "T-REX 2X Long BMNR Daily Target ETF",
       "sector": "Unknown",
-      "price": 22.64,
-      "changePct": -12.62,
-      "changeDollar": -3.27
+      "price": 17.48,
+      "changePct": -15.39,
+      "changeDollar": -3.18
     },
     {
       "ticker": "DLLL",
       "name": "GRANITESHARES ETF TR 2X LONG DELL ETF",
       "sector": "Unknown",
-      "price": 22.3,
-      "changePct": -11.37,
-      "changeDollar": -2.86
+      "price": 21.53,
+      "changePct": -14.43,
+      "changeDollar": -3.63
+    },
+    {
+      "ticker": "CRCA",
+      "name": "PROSHARES TR ULTRA CRCL NEW",
+      "sector": "Unknown",
+      "price": 22.51,
+      "changePct": -13.12,
+      "changeDollar": -3.4
+    },
+    {
+      "ticker": "MSTX",
+      "name": "TIDAL TRUST II DE 2X LO MS ETF",
+      "sector": "Unknown",
+      "price": 13.21,
+      "changePct": -12.34,
+      "changeDollar": -1.86
     },
     {
       "ticker": "RPD",
       "name": "RAPID7 INC COM",
       "sector": "Unknown",
-      "price": 12.26,
-      "changePct": -8.92,
-      "changeDollar": -1.2
+      "price": 12.01,
+      "changePct": -10.77,
+      "changeDollar": -1.45
+    },
+    {
+      "ticker": "ORCX",
+      "name": "TIDAL TRUST II DEFIANCE DAILY",
+      "sector": "Unknown",
+      "price": 20.02,
+      "changePct": -10.55,
+      "changeDollar": -2.36
+    },
+    {
+      "ticker": "OSW",
+      "name": "ONESPAWORLD HOLDINGS LIMITED COM",
+      "sector": "Unknown",
+      "price": 22.24,
+      "changePct": -10.43,
+      "changeDollar": -2.59
+    },
+    {
+      "ticker": "SPIR",
+      "name": "SPIRE GLOBAL INC COM CL A NEW",
+      "sector": "Unknown",
+      "price": 12.0,
+      "changePct": -9.57,
+      "changeDollar": -1.27
     },
     {
       "ticker": "IE",
       "name": "IVANHOE ELECTRIC INC COM",
       "sector": "Unknown",
-      "price": 10.12,
-      "changePct": -8.5,
-      "changeDollar": -0.94
-    },
-    {
-      "ticker": "SN",
-      "name": "SHARKNINJA INC COM SHS",
-      "sector": "Unknown",
-      "price": 177.46,
-      "changePct": -7.81,
-      "changeDollar": -15.03
-    },
-    {
-      "ticker": "SHAZ",
-      "name": "SHARONAI HOLDINGS INC COM CL A",
-      "sector": "Unknown",
-      "price": 50.67,
-      "changePct": -7.64,
-      "changeDollar": -4.19
-    },
-    {
-      "ticker": "FROG",
-      "name": "JFROG LTD ORD SHS",
-      "sector": "Unknown",
-      "price": 92.54,
-      "changePct": -7.52,
-      "changeDollar": -7.53
-    },
-    {
-      "ticker": "KORU",
-      "name": "DIREXION SHARES ETF TRUST DAIL MS KORE ETF",
-      "sector": "Unknown",
-      "price": 19.5,
-      "changePct": -6.97,
-      "changeDollar": -1.46
-    },
-    {
-      "ticker": "PURR",
-      "name": "HYPERLIQUID STRATEGIES INC COM",
-      "sector": "Unknown",
-      "price": 11.43,
-      "changePct": -6.69,
-      "changeDollar": -0.82
+      "price": 10.02,
+      "changePct": -9.4,
+      "changeDollar": -1.04
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "MRNA",
-      "name": "MODERNA INC COM",
+      "ticker": "NVS",
+      "name": "NOVARTIS AG SPONSORED ADR",
       "sector": "Unknown",
-      "price": 148.55,
-      "changePct": 5.85,
-      "changeDollar": 8.21
+      "price": 161.24,
+      "changePct": 6.04,
+      "changeDollar": 9.18
     },
     {
-      "ticker": "CHEF",
-      "name": "CHEFS WHSE INC COM",
+      "ticker": "EIX",
+      "name": "EDISON INTL COM",
       "sector": "Unknown",
-      "price": 116.58,
-      "changePct": 3.65,
-      "changeDollar": 4.11
+      "price": 58.79,
+      "changePct": 8.91,
+      "changeDollar": 4.81
+    },
+    {
+      "ticker": "FRVO",
+      "name": "FERVO ENERGY CO CL A COM",
+      "sector": "Unknown",
+      "price": 19.75,
+      "changePct": 28.41,
+      "changeDollar": 4.37
+    },
+    {
+      "ticker": "SMST",
+      "name": "TIDAL TRUST II DEFI DA TA 2025",
+      "sector": "Unknown",
+      "price": 26.89,
+      "changePct": 12.04,
+      "changeDollar": 2.89
     },
     {
       "ticker": "UCO",
       "name": "PROSHARES TR II ULTA BLMBG 2017",
       "sector": "Unknown",
-      "price": 46.99,
-      "changePct": 5.34,
-      "changeDollar": 2.38
-    },
-    {
-      "ticker": "ZSL",
-      "name": "PROSHARES TR II ULTRA SHORT SILV",
-      "sector": "Unknown",
-      "price": 24.5,
-      "changePct": 5.69,
-      "changeDollar": 1.32
-    },
-    {
-      "ticker": "CLYM",
-      "name": "CLIMB BIO INC COM",
-      "sector": "Unknown",
-      "price": 14.67,
-      "changePct": 6.85,
-      "changeDollar": 0.94
+      "price": 47.44,
+      "changePct": 6.34,
+      "changeDollar": 2.83
     }
   ],
   "dollarLosers": [
     {
-      "ticker": "SN",
-      "name": "SHARKNINJA INC COM SHS",
+      "ticker": "ENOV",
+      "name": "ENOVIS CORPORATION COM",
       "sector": "Unknown",
-      "price": 177.46,
-      "changePct": -7.81,
-      "changeDollar": -15.03
-    },
-    {
-      "ticker": "FROG",
-      "name": "JFROG LTD ORD SHS",
-      "sector": "Unknown",
-      "price": 92.54,
-      "changePct": -7.52,
-      "changeDollar": -7.53
-    },
-    {
-      "ticker": "SHAZ",
-      "name": "SHARONAI HOLDINGS INC COM CL A",
-      "sector": "Unknown",
-      "price": 50.67,
-      "changePct": -7.64,
-      "changeDollar": -4.19
-    },
-    {
-      "ticker": "CRCA",
-      "name": "PROSHARES TR ULTRA CRCL NEW",
-      "sector": "Unknown",
-      "price": 22.64,
-      "changePct": -12.62,
-      "changeDollar": -3.27
+      "price": 20.53,
+      "changePct": -16.51,
+      "changeDollar": -4.06
     },
     {
       "ticker": "DLLL",
       "name": "GRANITESHARES ETF TR 2X LONG DELL ETF",
       "sector": "Unknown",
-      "price": 22.3,
-      "changePct": -11.37,
-      "changeDollar": -2.86
+      "price": 21.53,
+      "changePct": -14.43,
+      "changeDollar": -3.63
+    },
+    {
+      "ticker": "CRCA",
+      "name": "PROSHARES TR ULTRA CRCL NEW",
+      "sector": "Unknown",
+      "price": 22.51,
+      "changePct": -13.12,
+      "changeDollar": -3.4
+    },
+    {
+      "ticker": "BMNU",
+      "name": "T-REX 2X Long BMNR Daily Target ETF",
+      "sector": "Unknown",
+      "price": 17.48,
+      "changePct": -15.39,
+      "changeDollar": -3.18
+    },
+    {
+      "ticker": "OSW",
+      "name": "ONESPAWORLD HOLDINGS LIMITED COM",
+      "sector": "Unknown",
+      "price": 22.24,
+      "changePct": -10.43,
+      "changeDollar": -2.59
     }
   ]
 }
