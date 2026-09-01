@@ -1,15 +1,15 @@
 {
-  "last_updated": "2026-08-28 23:10:58 UTC",
-  "clean_balance": 0.0,
+  "last_updated": "2026-09-01 17:25:16 UTC",
+  "clean_balance": -90.25,
   "overall": {
-    "total_trades": 4,
+    "total_trades": 6,
     "wins": 1,
-    "losses": 3,
-    "win_rate": 25.0,
-    "avg_pnl": -31.68,
-    "total_pnl": -126.74,
+    "losses": 5,
+    "win_rate": 16.7,
+    "avg_pnl": -36.16,
+    "total_pnl": -216.99,
     "starting_balance": 0.0,
-    "current_balance": -126.74
+    "current_balance": -216.99
   },
   "by_day_of_week": {
     "Monday": {
@@ -18,9 +18,9 @@
       "avg_pnl": 2.98
     },
     "Tuesday": {
-      "trades": 0,
+      "trades": 2,
       "wins": 0,
-      "avg_pnl": 0.0
+      "avg_pnl": -45.12
     },
     "Wednesday": {
       "trades": 0,
@@ -58,18 +58,23 @@
       "trades": 1,
       "wins": 0,
       "avg_pnl": -45.26
+    },
+    "Unknown": {
+      "trades": 2,
+      "wins": 0,
+      "avg_pnl": -45.12
     }
   },
   "by_signal_rank": {
     "dollar_gainer_1": {
-      "trades": 3,
+      "trades": 4,
       "wins": 1,
-      "avg_pnl": -28.21
+      "avg_pnl": -37.2
     },
     "dollar_loser_1": {
-      "trades": 1,
+      "trades": 2,
       "wins": 0,
-      "avg_pnl": -42.11
+      "avg_pnl": -34.1
     }
   },
   "spy_correlation": {
@@ -79,27 +84,27 @@
       "call_wins": 0
     },
     "spy_down_days": {
-      "trades": 2,
+      "trades": 4,
       "put_wins": 0,
       "call_wins": 1
     }
   },
   "fomo": {
-    "avg_left_on_table": -43704.31,
-    "hold_2min_trades": 2,
-    "hold_2min_avg_pnl": -66.36,
-    "sell_at_open_trades": 2,
-    "sell_at_open_avg_pnl": 2.98
+    "avg_left_on_table": -29134.14,
+    "hold_2min_trades": 3,
+    "hold_2min_avg_pnl": -52.93,
+    "sell_at_open_trades": 3,
+    "sell_at_open_avg_pnl": -19.4
   },
   "iv_crush": {
-    "samples": 4,
-    "avg_iv_at_entry": 1.288,
+    "samples": 6,
+    "avg_iv_at_entry": 1.056,
     "avg_iv_at_open": 0.0,
     "avg_crush_dollars": 0.0
   },
   "keyword_accuracy": {
     "bullish": {
-      "fired": 2,
+      "fired": 3,
       "correct": 0
     },
     "bearish": {
@@ -107,13 +112,13 @@
       "correct": 0
     },
     "neutral": {
-      "fired": 0,
-      "correct": 0
+      "fired": 1,
+      "correct": 1
     }
   },
   "methodology_score": {
     "spy_layer": {
-      "predictions": 4,
+      "predictions": 6,
       "correct": 0
     },
     "sector_layer": {
@@ -121,8 +126,8 @@
       "correct": 0
     },
     "keyword_layer": {
-      "predictions": 2,
-      "correct": 0
+      "predictions": 4,
+      "correct": 1
     },
     "iv_layer": {
       "predictions": 0,
@@ -134,18 +139,36 @@
       "description": "Contracts where strike is inside 1\u03c3 expected move win more often",
       "min_sample": 20,
       "buckets": {
-        "inside":  {"trades": 0, "wins": 0},
-        "at_edge": {"trades": 0, "wins": 0},
-        "outside": {"trades": 0, "wins": 0}
+        "inside": {
+          "trades": 0,
+          "wins": 0
+        },
+        "at_edge": {
+          "trades": 0,
+          "wins": 0
+        },
+        "outside": {
+          "trades": 2,
+          "wins": 0
+        }
       }
     },
     "gap_with_thesis": {
       "description": "Trades where stock gaps in thesis direction outperform",
       "min_sample": 20,
       "buckets": {
-        "with_thesis":    {"trades": 0, "wins": 0},
-        "against_thesis": {"trades": 0, "wins": 0},
-        "flat":           {"trades": 0, "wins": 0}
+        "with_thesis": {
+          "trades": 1,
+          "wins": 0
+        },
+        "against_thesis": {
+          "trades": 1,
+          "wins": 0
+        },
+        "flat": {
+          "trades": 0,
+          "wins": 0
+        }
       }
     },
     "macro_keyword_performance": {
@@ -157,9 +180,18 @@
       "description": "Does DTE at entry affect win rate? 1DTE vs 2-3DTE vs 4DTE+",
       "min_sample": 20,
       "buckets": {
-        "1dte":      {"trades": 0, "wins": 0},
-        "2_3dte":    {"trades": 0, "wins": 0},
-        "4dte_plus": {"trades": 0, "wins": 0}
+        "1dte": {
+          "trades": 0,
+          "wins": 0
+        },
+        "2_3dte": {
+          "trades": 2,
+          "wins": 0
+        },
+        "4dte_plus": {
+          "trades": 0,
+          "wins": 0
+        }
       }
     }
   }

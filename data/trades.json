@@ -9,8 +9,8 @@
       4
     ]
   },
-  "balance": -126.74,
-  "clean_balance": 0.0,
+  "balance": -216.99,
+  "clean_balance": -90.25,
   "starting_balance": 0.0,
   "first_trade_date": "2026-08-24",
   "trades": [
@@ -350,7 +350,7 @@
     },
     {
       "id": 5,
-      "status": "open",
+      "status": "closed",
       "entry": {
         "date": "2026-09-01",
         "time": "15:55 PST",
@@ -425,12 +425,51 @@
           ]
         }
       },
-      "exit": null,
-      "fomo": null
+      "exit": {
+        "date": "2026-09-01",
+        "time": "2026-09-01 09:30:00-04:00",
+        "stock_open_price": 146.77,
+        "sell_option_price": 0.3583,
+        "sell_contract_value": 35.83,
+        "sell_trigger": "sell_at_open",
+        "gap_direction": "against_thesis",
+        "gap_pct": -0.49,
+        "pnl": -64.17
+      },
+      "fomo": {
+        "sell_contract_value": 35.83,
+        "sell_pnl": -64.17,
+        "theta_burned_at_sell": -0.0,
+        "theta_per_min": -0.069548,
+        "day_high": {
+          "stock_price": 146.77,
+          "time": "2026-09-01 09:30:00-04:00",
+          "bs_contract_value": 35.89,
+          "theoretical_pnl": -64.11
+        },
+        "day_low": {
+          "stock_price": 142.33,
+          "time": "2026-09-01 10:24:00-04:00",
+          "bs_contract_value": 10.84,
+          "theoretical_pnl": -89.16
+        },
+        "best_case": {
+          "value": 35.89,
+          "pnl": -64.11,
+          "time": "2026-09-01 09:30:00-04:00"
+        },
+        "worst_case": {
+          "value": 10.84,
+          "pnl": -89.16,
+          "time": "2026-09-01 10:24:00-04:00"
+        },
+        "left_on_table": 0.06,
+        "theta_note": "3DTE: Theta minimal at open, stock direction dominates. Est. $0.00 burned"
+      }
     },
     {
       "id": 6,
-      "status": "open",
+      "status": "closed",
       "entry": {
         "date": "2026-09-01",
         "time": "15:55 PST",
@@ -512,8 +551,47 @@
           ]
         }
       },
-      "exit": null,
-      "fomo": null
+      "exit": {
+        "date": "2026-09-01",
+        "time": "2026-09-01 09:31:00-04:00",
+        "stock_open_price": 255.275,
+        "sell_option_price": 0.4392,
+        "sell_contract_value": 43.92,
+        "sell_trigger": "hold_2min",
+        "gap_direction": "with_thesis",
+        "gap_pct": -1.73,
+        "pnl": -26.08
+      },
+      "fomo": {
+        "sell_contract_value": 43.92,
+        "sell_pnl": -26.08,
+        "theta_burned_at_sell": -0.0,
+        "theta_per_min": -0.041201,
+        "day_high": {
+          "stock_price": 259.09,
+          "time": "2026-09-01 09:32:00-04:00",
+          "bs_contract_value": 20.9,
+          "theoretical_pnl": -49.1
+        },
+        "day_low": {
+          "stock_price": 253.935,
+          "time": "2026-09-01 09:45:00-04:00",
+          "bs_contract_value": 56.3,
+          "theoretical_pnl": -13.7
+        },
+        "best_case": {
+          "value": 56.3,
+          "pnl": -13.7,
+          "time": "2026-09-01 09:45:00-04:00"
+        },
+        "worst_case": {
+          "value": 20.9,
+          "pnl": -49.1,
+          "time": "2026-09-01 09:32:00-04:00"
+        },
+        "left_on_table": 12.38,
+        "theta_note": "3DTE: Theta minimal at open, stock direction dominates. Est. $0.00 burned"
+      }
     }
   ]
 }

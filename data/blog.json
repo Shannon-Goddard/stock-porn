@@ -61,10 +61,13 @@
     "ticker": "CAR",
     "type": "CALL",
     "trade_id": 5,
-    "title": "CAR CALL \u2014 2026-09-01",
+    "title": "CAR CALL \u2014 2026-09-01: Lost $64.17",
     "youtube_id": null,
     "images": [],
-    "published": true
+    "published": true,
+    "subtitle": "CAR closed at $147.49 on 2026-09-01, ranking dollar_gainer_1 with +6.78% ($+9.37). Strike $160.0 CALL exp 2026-09-04 (3DTE). IV at entry: 68.4%. Cost: $100.00. News scan: neutral \u2014 decision: sell. Sold at option value $0.3583 (stock open $146.77) at 2026-09-01 09:30:00-04:00. P&L: $-64.17. Left on table: $+0.06.",
+    "pnl": -64.17,
+    "won": false
   },
   {
     "id": 6,
@@ -72,9 +75,12 @@
     "ticker": "BURL",
     "type": "PUT",
     "trade_id": 6,
-    "title": "BURL PUT \u2014 2026-09-01",
+    "title": "BURL PUT \u2014 2026-09-01: Lost $26.08",
     "youtube_id": null,
     "images": [],
-    "published": true
+    "published": true,
+    "subtitle": "BURL closed at $259.76 on 2026-09-01, ranking dollar_loser_1 with -4.83% ($-13.19). Strike $240.0 PUT exp 2026-09-04 (3DTE). IV at entry: 50.0%. Cost: $70.00. News scan: bullish \u2014 decision: hold. Sold at option value $0.4392 (stock open $255.275) at 2026-09-01 09:31:00-04:00. P&L: $-26.08. Left on table: $+12.38.",
+    "pnl": -26.08,
+    "won": false
   }
 ]
