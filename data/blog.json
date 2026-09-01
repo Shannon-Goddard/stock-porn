@@ -54,5 +54,27 @@
     "subtitle": "SNPS closed at $464.89 on 2026-08-28, ranking dollar_gainer_1 with +13.39% ($+54.89). Strike $610.0 CALL exp 2026-08-28 (0DTE). IV at entry: 233.8%. Cost: $60.00. News scan: bullish \u2014 decision: hold. Sold at option value $0.1474 (stock open $452.0) at 2026-08-28 09:31:00-04:00. P&L: $-45.26. Left on table: $-45173.44.",
     "pnl": -45.26,
     "won": false
+  },
+  {
+    "id": 5,
+    "date": "2026-09-01",
+    "ticker": "CAR",
+    "type": "CALL",
+    "trade_id": 5,
+    "title": "CAR CALL \u2014 2026-09-01",
+    "youtube_id": null,
+    "images": [],
+    "published": true
+  },
+  {
+    "id": 6,
+    "date": "2026-09-01",
+    "ticker": "BURL",
+    "type": "PUT",
+    "trade_id": 6,
+    "title": "BURL PUT \u2014 2026-09-01",
+    "youtube_id": null,
+    "images": [],
+    "published": true
   }
 ]

@@ -1,8 +1,13 @@
 {
   "meta": {
     "schema_version": "2.0",
-    "notes": "Trades 1-4 excluded from analytics. Logged for transparency only. Reason: sell_signal.py bug — fomo.sell_contract_value used raw stock price x 100 instead of BS option value. expected_move and gap_direction fields not present (pre-schema v2.0).",
-    "excluded_trade_ids": [1, 2, 3, 4]
+    "notes": "Trades 1-4 excluded from analytics. Logged for transparency only. Reason: sell_signal.py bug \u2014 fomo.sell_contract_value used raw stock price x 100 instead of BS option value. expected_move and gap_direction fields not present (pre-schema v2.0).",
+    "excluded_trade_ids": [
+      1,
+      2,
+      3,
+      4
+    ]
   },
   "balance": -126.74,
   "clean_balance": 0.0,
@@ -342,6 +347,84 @@
         "left_on_table": -45173.44,
         "theta_note": "0DTE: Theta burned est. $0.00 by sell time \u2014 0DTE decay is violent"
       }
+    },
+    {
+      "id": 5,
+      "status": "open",
+      "entry": {
+        "date": "2026-09-01",
+        "time": "15:55 PST",
+        "ticker": "CAR",
+        "name": "AVIS BUDGET GROUP INC COM",
+        "sector": "Unknown",
+        "type": "CALL",
+        "strike": 160.0,
+        "expiration": "2026-09-04",
+        "dte_at_entry": 3,
+        "T_at_entry": 0.008219,
+        "stock_price_at_entry": 147.49,
+        "premium": 1.0,
+        "cost": 100.0,
+        "bid": 0.4,
+        "spread": 0.6,
+        "iv_at_entry": 0.6836,
+        "otm_pct": 8.48,
+        "expected_move": {
+          "one_sigma_pct": 6.2,
+          "upper": 156.63,
+          "lower": 138.35,
+          "strike_position": "outside"
+        },
+        "signal_rank": "dollar_gainer_1",
+        "signal_pct": 6.78,
+        "signal_dollar": 9.37,
+        "spy_change": -0.3,
+        "macro_active": false,
+        "macro_keywords": [],
+        "auto_note": "CAR CALL | $+9.37 (+6.78%) | dollar_gainer_1 | Strike $160.0 exp 2026-09-04 (3DTE) | IV 68.4% | SPY -0.30% | No macro triggers"
+      },
+      "news_scan": null,
+      "exit": null,
+      "fomo": null
+    },
+    {
+      "id": 6,
+      "status": "open",
+      "entry": {
+        "date": "2026-09-01",
+        "time": "15:55 PST",
+        "ticker": "BURL",
+        "name": "BURLINGTON STORES INC COM",
+        "sector": "Unknown",
+        "type": "PUT",
+        "strike": 240.0,
+        "expiration": "2026-09-04",
+        "dte_at_entry": 3,
+        "T_at_entry": 0.008219,
+        "stock_price_at_entry": 259.76,
+        "premium": 0.7,
+        "cost": 70.0,
+        "bid": 0.05,
+        "spread": 0.65,
+        "iv_at_entry": 0.5005,
+        "otm_pct": 7.61,
+        "expected_move": {
+          "one_sigma_pct": 4.54,
+          "upper": 271.55,
+          "lower": 247.97,
+          "strike_position": "outside"
+        },
+        "signal_rank": "dollar_loser_1",
+        "signal_pct": -4.83,
+        "signal_dollar": -13.19,
+        "spy_change": -0.3,
+        "macro_active": false,
+        "macro_keywords": [],
+        "auto_note": "BURL PUT | $-13.19 (-4.83%) | dollar_loser_1 | Strike $240.0 exp 2026-09-04 (3DTE) | IV 50.0% | SPY -0.30% | No macro triggers"
+      },
+      "news_scan": null,
+      "exit": null,
+      "fomo": null
     }
   ]
 }
