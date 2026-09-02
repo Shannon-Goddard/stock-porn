@@ -630,7 +630,67 @@
         ],
         "auto_note": "DUOL CALL | $+10.41 (+7.02%) | dollar_gainer_1 | Strike $170.0 exp 2026-09-04 (2DTE) | IV 65.3% | SPY -0.69% | MACRO: war"
       },
-      "news_scan": null,
+      "news_scan": {
+        "scanned_at": "2026-09-02 17:14:20 PST",
+        "gap_days": 0,
+        "ticker_sentiment": "bullish",
+        "spy_sentiment": "bearish",
+        "spx_sentiment": "bullish",
+        "keywords_found": [
+          "buyback",
+          "upgrade",
+          "upgraded",
+          "rallies"
+        ],
+        "spy_keywords": [
+          "rallies",
+          "downgrade",
+          "drops"
+        ],
+        "spx_keywords": [
+          "rallies"
+        ],
+        "decision": "hold",
+        "decision_reason": "bullish keywords confirmed CALL thesis",
+        "raw_headlines": {
+          "ticker": [
+            "Duolingo (DUOL) Rallies On Evercore Upgrade As Valuation Debate Stays Open",
+            "Duolingo (DUOL) Is Up 8.7% After AI-Proof Upgrade And Buyback \u2014 Has The Bull Case Changed?",
+            "Evercore Sees This App Surviving the ChatGPT Disruption",
+            "Sector Update: Tech Stocks Fall Late Afternoon",
+            "Evercore upgrades Duolingo, sees strong user growth and earnings upside",
+            "Stock Market Midday, Sept. 1: Stocks Slide on Global Bond Sell-Off",
+            "GoPro price up 50% after agreeing to takeover: AlphaSpace breakdown",
+            "Robinhood upgraded, Uber initiated: Wall Street's top analyst calls",
+            "Evercore Sees Duolingo's 2022 Netflix Moment",
+            "Here Are Tuesday\u2019s Top Wall Street Analyst Research Calls: Akamai Technologies, Arista Networks, Booking Holdings, Cisco Systems, Dell Technologies, Duolingo, Robinhood Markets, PG&E, and More"
+          ],
+          "spy": [
+            "Affirm Rallies 6% on $104 Price Target From BofA, Sezzle Climbs 4%, PayPal Rises 3%",
+            "FuboTV Rallies 7%, Disney Ticks Up: Is the Hulu Live TV Deal Finally Getting Credit?",
+            "The S&P 500 Got Cheaper While It Rallied. Here's What Bond Bears Are Missing",
+            "Reddit Rallies 7% as Baird Says Renewal Risk Is Already Priced In, Pinterest Holds Flat",
+            "Nio Drops 4% on J.P. Morgan Downgrade and $4.50 Price Target, XPeng and Li Auto Slip",
+            "Exchange-Traded Funds, Equity Futures Mixed Pre-Bell Wednesday Amid Escalating US-Iran Tensions",
+            "September Is Usually Ugly For Stocks \u2014 Why This Year Is Different",
+            "S&P 500, Dow, Nasdaq Futures Flat After Indices End Lower On US-Iran Stalemate \u2014 DELL, PANW, FRVO, AAPL, TTWO In Focus",
+            "These ETFs Generate the Most Revenue",
+            "SPYI\u2019s Monthly Check Hides the Real Cost: Part of That Payout Is Your Own Capital, and It Quietly Shrinks Your Cost Basis"
+          ],
+          "spx": [
+            "Goldman Sachs warns investors to expect lower returns over the next year",
+            "Has the AI trade become too 'monolithic'? Well, it's complicated.",
+            "3 Reasons to Avoid FNF and 1 Stock to Buy Instead",
+            "Stock Market Today: Dow, Small Caps Lead Rise; Digital Ad Firm Rallies Off Key Level (Live Coverage)",
+            "3 Reasons to Sell HUBG and 1 Stock to Buy Instead",
+            "KOSS Posts Q4 Earnings as DTC Growth and Tariff Refunds Aid",
+            "Update: US Equity Indexes Rise in Midday Trading",
+            "Healthcare ETF Comparison: Fidelity's FHLC vs. Invesco's Biotech-Focused IBBQ",
+            "Markets in Motion: September seasonality puts S&P 500 and small caps in focus",
+            "3 Big Reasons to Love American Superconductor (AMSC)"
+          ]
+        }
+      },
       "exit": null,
       "fomo": null
     },
@@ -671,7 +731,53 @@
         ],
         "auto_note": "AXON PUT | $-48.26 (-8.52%) | dollar_loser_1 | Strike $450.0 exp 2026-09-04 (2DTE) | IV 73.7% | SPY -0.69% | MACRO: war"
       },
-      "news_scan": null,
+      "news_scan": {
+        "scanned_at": "2026-09-02 17:14:20 PST",
+        "gap_days": 0,
+        "ticker_sentiment": "neutral",
+        "spy_sentiment": "bearish",
+        "spx_sentiment": "bullish",
+        "keywords_found": [],
+        "spy_keywords": [
+          "rallies",
+          "downgrade",
+          "drops"
+        ],
+        "spx_keywords": [
+          "rallies"
+        ],
+        "decision": "hold",
+        "decision_reason": "neutral keywords confirmed PUT thesis",
+        "raw_headlines": {
+          "ticker": [
+            "US Stock Market Today: S&P 500 Futures Slip As Rising Yields Pressure Equities"
+          ],
+          "spy": [
+            "Affirm Rallies 6% on $104 Price Target From BofA, Sezzle Climbs 4%, PayPal Rises 3%",
+            "FuboTV Rallies 7%, Disney Ticks Up: Is the Hulu Live TV Deal Finally Getting Credit?",
+            "The S&P 500 Got Cheaper While It Rallied. Here's What Bond Bears Are Missing",
+            "Reddit Rallies 7% as Baird Says Renewal Risk Is Already Priced In, Pinterest Holds Flat",
+            "Nio Drops 4% on J.P. Morgan Downgrade and $4.50 Price Target, XPeng and Li Auto Slip",
+            "Exchange-Traded Funds, Equity Futures Mixed Pre-Bell Wednesday Amid Escalating US-Iran Tensions",
+            "September Is Usually Ugly For Stocks \u2014 Why This Year Is Different",
+            "S&P 500, Dow, Nasdaq Futures Flat After Indices End Lower On US-Iran Stalemate \u2014 DELL, PANW, FRVO, AAPL, TTWO In Focus",
+            "These ETFs Generate the Most Revenue",
+            "SPYI\u2019s Monthly Check Hides the Real Cost: Part of That Payout Is Your Own Capital, and It Quietly Shrinks Your Cost Basis"
+          ],
+          "spx": [
+            "Goldman Sachs warns investors to expect lower returns over the next year",
+            "Has the AI trade become too 'monolithic'? Well, it's complicated.",
+            "3 Reasons to Avoid FNF and 1 Stock to Buy Instead",
+            "Stock Market Today: Dow, Small Caps Lead Rise; Digital Ad Firm Rallies Off Key Level (Live Coverage)",
+            "3 Reasons to Sell HUBG and 1 Stock to Buy Instead",
+            "KOSS Posts Q4 Earnings as DTC Growth and Tariff Refunds Aid",
+            "Update: US Equity Indexes Rise in Midday Trading",
+            "Healthcare ETF Comparison: Fidelity's FHLC vs. Invesco's Biotech-Focused IBBQ",
+            "Markets in Motion: September seasonality puts S&P 500 and small caps in focus",
+            "3 Big Reasons to Love American Superconductor (AMSC)"
+          ]
+        }
+      },
       "exit": null,
       "fomo": null
     }
