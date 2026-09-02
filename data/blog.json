@@ -89,10 +89,13 @@
     "ticker": "DUOL",
     "type": "CALL",
     "trade_id": 7,
-    "title": "DUOL CALL \u2014 2026-09-02",
+    "title": "DUOL CALL \u2014 2026-09-02: Lost $62.82",
     "youtube_id": null,
     "images": [],
-    "published": true
+    "published": true,
+    "subtitle": "DUOL closed at $158.77 on 2026-09-02, ranking dollar_gainer_1 with +7.02% ($+10.41). Strike $170.0 CALL exp 2026-09-04 (2DTE). IV at entry: 65.3%. Cost: $85.00. News scan: bullish \u2014 decision: hold. Sold at option value $0.2218 (stock open $157.93) at 2026-09-02 09:31:00-04:00. P&L: $-62.82. Left on table: $+1.38.",
+    "pnl": -62.82,
+    "won": false
   },
   {
     "id": 8,
@@ -100,9 +103,12 @@
     "ticker": "AXON",
     "type": "PUT",
     "trade_id": 8,
-    "title": "AXON PUT \u2014 2026-09-02",
+    "title": "AXON PUT \u2014 2026-09-02: Lost $33.25",
     "youtube_id": null,
     "images": [],
-    "published": true
+    "published": true,
+    "subtitle": "AXON closed at $518.3 on 2026-09-02, ranking dollar_loser_1 with -8.52% ($-48.26). Strike $450.0 PUT exp 2026-09-04 (2DTE). IV at entry: 73.7%. Cost: $40.00. News scan: neutral \u2014 decision: hold. Sold at option value $0.0675 (stock open $513.245) at 2026-09-02 09:31:00-04:00. P&L: $-33.25. Left on table: $+3.11.",
+    "pnl": -33.25,
+    "won": false
   }
 ]
