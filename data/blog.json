@@ -82,5 +82,27 @@
     "subtitle": "BURL closed at $259.76 on 2026-09-01, ranking dollar_loser_1 with -4.83% ($-13.19). Strike $240.0 PUT exp 2026-09-04 (3DTE). IV at entry: 50.0%. Cost: $70.00. News scan: bullish \u2014 decision: hold. Sold at option value $0.4392 (stock open $255.275) at 2026-09-01 09:31:00-04:00. P&L: $-26.08. Left on table: $+12.38.",
     "pnl": -26.08,
     "won": false
+  },
+  {
+    "id": 7,
+    "date": "2026-09-02",
+    "ticker": "DUOL",
+    "type": "CALL",
+    "trade_id": 7,
+    "title": "DUOL CALL \u2014 2026-09-02",
+    "youtube_id": null,
+    "images": [],
+    "published": true
+  },
+  {
+    "id": 8,
+    "date": "2026-09-02",
+    "ticker": "AXON",
+    "type": "PUT",
+    "trade_id": 8,
+    "title": "AXON PUT \u2014 2026-09-02",
+    "youtube_id": null,
+    "images": [],
+    "published": true
   }
 ]

@@ -592,6 +592,88 @@
         "left_on_table": 12.38,
         "theta_note": "3DTE: Theta minimal at open, stock direction dominates. Est. $0.00 burned"
       }
+    },
+    {
+      "id": 7,
+      "status": "open",
+      "entry": {
+        "date": "2026-09-02",
+        "time": "15:55 PST",
+        "ticker": "DUOL",
+        "name": "DUOLINGO INC CL A COM",
+        "sector": "Unknown",
+        "type": "CALL",
+        "strike": 170.0,
+        "expiration": "2026-09-04",
+        "dte_at_entry": 2,
+        "T_at_entry": 0.005479,
+        "stock_price_at_entry": 158.77,
+        "premium": 0.85,
+        "cost": 85.0,
+        "bid": 0.35,
+        "spread": 0.5,
+        "iv_at_entry": 0.6533,
+        "otm_pct": 7.07,
+        "expected_move": {
+          "one_sigma_pct": 4.84,
+          "upper": 166.45,
+          "lower": 151.09,
+          "strike_position": "outside"
+        },
+        "signal_rank": "dollar_gainer_1",
+        "signal_pct": 7.02,
+        "signal_dollar": 10.41,
+        "spy_change": -0.69,
+        "macro_active": true,
+        "macro_keywords": [
+          "war"
+        ],
+        "auto_note": "DUOL CALL | $+10.41 (+7.02%) | dollar_gainer_1 | Strike $170.0 exp 2026-09-04 (2DTE) | IV 65.3% | SPY -0.69% | MACRO: war"
+      },
+      "news_scan": null,
+      "exit": null,
+      "fomo": null
+    },
+    {
+      "id": 8,
+      "status": "open",
+      "entry": {
+        "date": "2026-09-02",
+        "time": "15:55 PST",
+        "ticker": "AXON",
+        "name": "AXON ENTERPRISE INC COM",
+        "sector": "Unknown",
+        "type": "PUT",
+        "strike": 450.0,
+        "expiration": "2026-09-04",
+        "dte_at_entry": 2,
+        "T_at_entry": 0.005479,
+        "stock_price_at_entry": 518.3,
+        "premium": 0.4,
+        "cost": 40.0,
+        "bid": null,
+        "spread": null,
+        "iv_at_entry": 0.7373,
+        "otm_pct": 13.18,
+        "expected_move": {
+          "one_sigma_pct": 5.46,
+          "upper": 546.59,
+          "lower": 490.01,
+          "strike_position": "outside"
+        },
+        "signal_rank": "dollar_loser_1",
+        "signal_pct": -8.52,
+        "signal_dollar": -48.26,
+        "spy_change": -0.69,
+        "macro_active": true,
+        "macro_keywords": [
+          "war"
+        ],
+        "auto_note": "AXON PUT | $-48.26 (-8.52%) | dollar_loser_1 | Strike $450.0 exp 2026-09-04 (2DTE) | IV 73.7% | SPY -0.69% | MACRO: war"
+      },
+      "news_scan": null,
+      "exit": null,
+      "fomo": null
     }
   ]
 }
