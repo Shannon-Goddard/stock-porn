@@ -1,20 +1,20 @@
 {
   "topGainers": [
     {
+      "ticker": "ASTX",
+      "name": "Tradr 2X Long ASTS Daily ETF",
+      "sector": "Unknown",
+      "price": 11.2,
+      "changePct": 23.89,
+      "changeDollar": 2.16
+    },
+    {
       "ticker": "RDTL",
       "name": "GRANITESHARES ETF TR 2X LONG RDDT DA",
       "sector": "Unknown",
       "price": 14.28,
       "changePct": 18.6,
       "changeDollar": 2.24
-    },
-    {
-      "ticker": "TITN",
-      "name": "TITAN MACHY INC COM",
-      "sector": "Unknown",
-      "price": 23.39,
-      "changePct": 13.88,
-      "changeDollar": 2.85
     },
     {
       "ticker": "CCOI",
@@ -25,12 +25,28 @@
       "changeDollar": 1.21
     },
     {
+      "ticker": "ASTS",
+      "name": "AST SPACEMOBILE INC COM CL A",
+      "sector": "Unknown",
+      "price": 62.4,
+      "changePct": 11.83,
+      "changeDollar": 6.6
+    },
+    {
       "ticker": "TARS",
       "name": "TARSUS PHARMACEUTICALS INC COM",
       "sector": "Unknown",
       "price": 82.76,
       "changePct": 11.76,
       "changeDollar": 8.71
+    },
+    {
+      "ticker": "WNC",
+      "name": "WABASH NATL CORP COM",
+      "sector": "Unknown",
+      "price": 14.22,
+      "changePct": 11.35,
+      "changeDollar": 1.45
     },
     {
       "ticker": "VRNS",
@@ -41,54 +57,46 @@
       "changeDollar": 4.41
     },
     {
-      "ticker": "TRAX",
-      "name": "FIRST TRACKS BIOTHERAPEUTICS ORD SHS",
+      "ticker": "VOR",
+      "name": "VOR BIOPHARMA INC COM NEW",
       "sector": "Unknown",
-      "price": 45.28,
-      "changePct": 9.98,
-      "changeDollar": 4.11
-    },
-    {
-      "ticker": "GTLB",
-      "name": "GITLAB INC CLASS A COM",
-      "sector": "Unknown",
-      "price": 49.59,
-      "changePct": 9.98,
-      "changeDollar": 4.5
+      "price": 24.76,
+      "changePct": 9.36,
+      "changeDollar": 2.12
     },
     {
       "ticker": "GPGI",
       "name": "GPGI INC COM CL A",
       "sector": "Unknown",
-      "price": 14.29,
-      "changePct": 9.17,
-      "changeDollar": 1.2
+      "price": 14.25,
+      "changePct": 8.86,
+      "changeDollar": 1.16
     },
     {
-      "ticker": "SBSW",
-      "name": "SIBANYE STILLWATER LTD SPONSORED ADR",
+      "ticker": "MGNI",
+      "name": "MAGNITE INC COM",
       "sector": "Unknown",
-      "price": 12.56,
-      "changePct": 7.72,
-      "changeDollar": 0.9
-    },
-    {
-      "ticker": "STNE",
-      "name": "STONECO LTD COM CL A",
-      "sector": "Unknown",
-      "price": 10.37,
-      "changePct": 7.35,
-      "changeDollar": 0.71
+      "price": 24.88,
+      "changePct": 8.69,
+      "changeDollar": 1.99
     }
   ],
   "topLosers": [
     {
-      "ticker": "IREZ",
-      "name": "Tradr 2X Short IREN Daily ETF",
+      "ticker": "CRDO",
+      "name": "CREDO TECHNOLOGY GROUP HOLDING ORDINARY SHARES",
       "sector": "Unknown",
-      "price": 11.33,
-      "changePct": -15.0,
-      "changeDollar": -2.0
+      "price": 165.22,
+      "changePct": -20.04,
+      "changeDollar": -41.41
+    },
+    {
+      "ticker": "PTIR",
+      "name": "GRANITESHARES ETF TR 2X LONG PLTR",
+      "sector": "Unknown",
+      "price": 17.61,
+      "changePct": -11.64,
+      "changeDollar": -2.32
     },
     {
       "ticker": "PANW",
@@ -99,52 +107,36 @@
       "changeDollar": -33.61
     },
     {
-      "ticker": "FRVO",
-      "name": "FERVO ENERGY CO CL A COM",
+      "ticker": "BAND",
+      "name": "BANDWIDTH INC COM CL A",
       "sector": "Unknown",
-      "price": 17.98,
-      "changePct": -8.96,
-      "changeDollar": -1.77
+      "price": 47.55,
+      "changePct": -6.38,
+      "changeDollar": -3.24
     },
     {
-      "ticker": "RPD",
-      "name": "RAPID7 INC COM",
+      "ticker": "EIX",
+      "name": "EDISON INTL COM",
       "sector": "Unknown",
-      "price": 11.07,
-      "changePct": -7.83,
-      "changeDollar": -0.94
+      "price": 55.19,
+      "changePct": -6.14,
+      "changeDollar": -3.61
     },
     {
-      "ticker": "BYND",
-      "name": "BEYOND MEAT INC COM",
+      "ticker": "IOT",
+      "name": "SAMSARA INC COM CL A",
       "sector": "Unknown",
-      "price": 11.57,
-      "changePct": -7.07,
-      "changeDollar": -0.88
-    },
-    {
-      "ticker": "KVYO",
-      "name": "KLAVIYO INC COM SER A",
-      "sector": "Unknown",
-      "price": 19.3,
-      "changePct": -6.49,
-      "changeDollar": -1.34
-    },
-    {
-      "ticker": "QMCO",
-      "name": "QUANTUM CORP COM",
-      "sector": "Unknown",
-      "price": 22.78,
-      "changePct": -5.75,
-      "changeDollar": -1.39
+      "price": 36.79,
+      "changePct": -5.81,
+      "changeDollar": -2.27
     },
     {
       "ticker": "FIG",
       "name": "FIGMA INC CLASS A COM STK",
       "sector": "Unknown",
-      "price": 25.71,
-      "changePct": -5.48,
-      "changeDollar": -1.49
+      "price": 25.73,
+      "changePct": -5.4,
+      "changeDollar": -1.47
     },
     {
       "ticker": "HUBG",
@@ -158,9 +150,17 @@
       "ticker": "OMC",
       "name": "OMNICOM GROUP INC COM",
       "sector": "Unknown",
-      "price": 81.75,
-      "changePct": -5.04,
-      "changeDollar": -4.34
+      "price": 81.76,
+      "changePct": -5.03,
+      "changeDollar": -4.33
+    },
+    {
+      "ticker": "DPC",
+      "name": "DPC HOLDINGS PLC ORDINARY SHARES",
+      "sector": "Unknown",
+      "price": 39.47,
+      "changePct": -4.85,
+      "changeDollar": -2.01
     }
   ],
   "dollarGainers": [
@@ -173,12 +173,12 @@
       "changeDollar": 8.71
     },
     {
-      "ticker": "GTLB",
-      "name": "GITLAB INC CLASS A COM",
+      "ticker": "ASTS",
+      "name": "AST SPACEMOBILE INC COM CL A",
       "sector": "Unknown",
-      "price": 49.59,
-      "changePct": 9.98,
-      "changeDollar": 4.5
+      "price": 62.4,
+      "changePct": 11.83,
+      "changeDollar": 6.6
     },
     {
       "ticker": "VRNS",
@@ -189,23 +189,31 @@
       "changeDollar": 4.41
     },
     {
-      "ticker": "TRAX",
-      "name": "FIRST TRACKS BIOTHERAPEUTICS ORD SHS",
+      "ticker": "RDTL",
+      "name": "GRANITESHARES ETF TR 2X LONG RDDT DA",
       "sector": "Unknown",
-      "price": 45.28,
-      "changePct": 9.98,
-      "changeDollar": 4.11
+      "price": 14.28,
+      "changePct": 18.6,
+      "changeDollar": 2.24
     },
     {
-      "ticker": "TITN",
-      "name": "TITAN MACHY INC COM",
+      "ticker": "ASTX",
+      "name": "Tradr 2X Long ASTS Daily ETF",
       "sector": "Unknown",
-      "price": 23.39,
-      "changePct": 13.88,
-      "changeDollar": 2.85
+      "price": 11.2,
+      "changePct": 23.89,
+      "changeDollar": 2.16
     }
   ],
   "dollarLosers": [
+    {
+      "ticker": "CRDO",
+      "name": "CREDO TECHNOLOGY GROUP HOLDING ORDINARY SHARES",
+      "sector": "Unknown",
+      "price": 165.22,
+      "changePct": -20.04,
+      "changeDollar": -41.41
+    },
     {
       "ticker": "PANW",
       "name": "PALO ALTO NETWORKS INC COM",
@@ -218,33 +226,25 @@
       "ticker": "OMC",
       "name": "OMNICOM GROUP INC COM",
       "sector": "Unknown",
-      "price": 81.75,
-      "changePct": -5.04,
-      "changeDollar": -4.34
+      "price": 81.76,
+      "changePct": -5.03,
+      "changeDollar": -4.33
     },
     {
-      "ticker": "HUBG",
-      "name": "HUB GROUP INC CL A",
+      "ticker": "EIX",
+      "name": "EDISON INTL COM",
       "sector": "Unknown",
-      "price": 35.93,
-      "changePct": -5.3,
-      "changeDollar": -2.01
+      "price": 55.19,
+      "changePct": -6.14,
+      "changeDollar": -3.61
     },
     {
-      "ticker": "IREZ",
-      "name": "Tradr 2X Short IREN Daily ETF",
+      "ticker": "BAND",
+      "name": "BANDWIDTH INC COM CL A",
       "sector": "Unknown",
-      "price": 11.33,
-      "changePct": -15.0,
-      "changeDollar": -2.0
-    },
-    {
-      "ticker": "FRVO",
-      "name": "FERVO ENERGY CO CL A COM",
-      "sector": "Unknown",
-      "price": 17.98,
-      "changePct": -8.96,
-      "changeDollar": -1.77
+      "price": 47.55,
+      "changePct": -6.38,
+      "changeDollar": -3.24
     }
   ]
 }
