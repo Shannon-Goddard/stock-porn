@@ -1,250 +1,250 @@
 {
   "topGainers": [
     {
-      "ticker": "ASTX",
-      "name": "Tradr 2X Long ASTS Daily ETF",
+      "ticker": "CRCA",
+      "name": "PROSHARES TR ULTRA CRCL NEW",
       "sector": "Unknown",
-      "price": 11.2,
-      "changePct": 23.89,
-      "changeDollar": 2.16
+      "price": 28.68,
+      "changePct": 30.11,
+      "changeDollar": 6.64
     },
     {
-      "ticker": "RDTL",
-      "name": "GRANITESHARES ETF TR 2X LONG RDDT DA",
+      "ticker": "HOOD",
+      "name": "ROBINHOOD MKTS INC COM CL A",
       "sector": "Unknown",
-      "price": 14.28,
-      "changePct": 18.6,
-      "changeDollar": 2.24
+      "price": 123.04,
+      "changePct": 15.0,
+      "changeDollar": 16.05
     },
     {
-      "ticker": "CCOI",
-      "name": "COGENT COMM HOLDINGS INC COM NEW",
+      "ticker": "MSTR",
+      "name": "STRATEGY INC CL A NEW",
       "sector": "Unknown",
-      "price": 10.22,
-      "changePct": 13.43,
-      "changeDollar": 1.21
+      "price": 140.34,
+      "changePct": 13.92,
+      "changeDollar": 17.15
     },
     {
-      "ticker": "ASTS",
-      "name": "AST SPACEMOBILE INC COM CL A",
+      "ticker": "TSLL",
+      "name": "DIREXION SHARES ETF TRUST DLY TSLA BULL 2X",
       "sector": "Unknown",
-      "price": 62.4,
-      "changePct": 11.83,
-      "changeDollar": 6.6
+      "price": 10.67,
+      "changePct": 13.87,
+      "changeDollar": 1.3
     },
     {
-      "ticker": "TARS",
-      "name": "TARSUS PHARMACEUTICALS INC COM",
+      "ticker": "TSLT",
+      "name": "T-Rex 2X Long Tesla Daily Target ETF",
       "sector": "Unknown",
-      "price": 82.76,
-      "changePct": 11.76,
-      "changeDollar": 8.71
+      "price": 14.87,
+      "changePct": 13.77,
+      "changeDollar": 1.8
     },
     {
-      "ticker": "WNC",
-      "name": "WABASH NATL CORP COM",
+      "ticker": "ORCX",
+      "name": "TIDAL TRUST II DEFIANCE DAILY",
       "sector": "Unknown",
-      "price": 14.22,
-      "changePct": 11.35,
-      "changeDollar": 1.45
+      "price": 23.74,
+      "changePct": 11.4,
+      "changeDollar": 2.43
     },
     {
-      "ticker": "VRNS",
-      "name": "VARONIS SYS INC COM",
+      "ticker": "ALMS",
+      "name": "ALUMIS INC COM",
       "sector": "Unknown",
-      "price": 46.76,
-      "changePct": 10.41,
-      "changeDollar": 4.41
+      "price": 11.41,
+      "changePct": 10.24,
+      "changeDollar": 1.06
     },
     {
-      "ticker": "VOR",
-      "name": "VOR BIOPHARMA INC COM NEW",
+      "ticker": "MSTY",
+      "name": "TIDAL TRUST II YIE MST OPT NEW",
       "sector": "Unknown",
-      "price": 24.76,
-      "changePct": 9.36,
-      "changeDollar": 2.12
+      "price": 15.86,
+      "changePct": 10.14,
+      "changeDollar": 1.46
     },
     {
-      "ticker": "GPGI",
-      "name": "GPGI INC COM CL A",
+      "ticker": "BITU",
+      "name": "PROSHARES TR ULTRA BITCON ETF",
       "sector": "Unknown",
-      "price": 14.25,
-      "changePct": 8.86,
-      "changeDollar": 1.16
+      "price": 14.59,
+      "changePct": 9.54,
+      "changeDollar": 1.27
     },
     {
-      "ticker": "MGNI",
-      "name": "MAGNITE INC COM",
+      "ticker": "MARA",
+      "name": "MARA HOLDINGS INC COM",
       "sector": "Unknown",
-      "price": 24.88,
-      "changePct": 8.69,
-      "changeDollar": 1.99
+      "price": 11.44,
+      "changePct": 9.26,
+      "changeDollar": 0.97
     }
   ],
   "topLosers": [
     {
-      "ticker": "CRDO",
-      "name": "CREDO TECHNOLOGY GROUP HOLDING ORDINARY SHARES",
+      "ticker": "RARE",
+      "name": "ULTRAGENYX PHARMACEUTICAL INC COM",
       "sector": "Unknown",
-      "price": 165.22,
-      "changePct": -20.04,
-      "changeDollar": -41.41
+      "price": 14.75,
+      "changePct": -44.4,
+      "changeDollar": -11.78
     },
     {
-      "ticker": "PTIR",
-      "name": "GRANITESHARES ETF TR 2X LONG PLTR",
+      "ticker": "SMST",
+      "name": "TIDAL TRUST II DEFI DA TA 2025",
       "sector": "Unknown",
-      "price": 17.61,
-      "changePct": -11.64,
-      "changeDollar": -2.32
+      "price": 19.94,
+      "changePct": -27.96,
+      "changeDollar": -7.74
     },
     {
-      "ticker": "PANW",
-      "name": "PALO ALTO NETWORKS INC COM",
+      "ticker": "ETD",
+      "name": "ETHAN ALLEN INTERIORS INC COM",
       "sector": "Unknown",
-      "price": 328.48,
-      "changePct": -9.28,
-      "changeDollar": -33.61
+      "price": 22.02,
+      "changePct": -10.89,
+      "changeDollar": -2.69
     },
     {
-      "ticker": "BAND",
-      "name": "BANDWIDTH INC COM CL A",
+      "ticker": "PHR",
+      "name": "PHREESIA INC COM",
       "sector": "Unknown",
-      "price": 47.55,
-      "changePct": -6.38,
-      "changeDollar": -3.24
+      "price": 10.87,
+      "changePct": -8.27,
+      "changeDollar": -0.98
     },
     {
-      "ticker": "EIX",
-      "name": "EDISON INTL COM",
+      "ticker": "GOLD",
+      "name": "GOLD COM INC COM",
       "sector": "Unknown",
-      "price": 55.19,
-      "changePct": -6.14,
-      "changeDollar": -3.61
+      "price": 40.26,
+      "changePct": -8.12,
+      "changeDollar": -3.56
     },
     {
-      "ticker": "IOT",
-      "name": "SAMSARA INC COM CL A",
+      "ticker": "IREZ",
+      "name": "Tradr 2X Short IREN Daily ETF",
       "sector": "Unknown",
-      "price": 36.79,
-      "changePct": -5.81,
-      "changeDollar": -2.27
+      "price": 10.49,
+      "changePct": -7.33,
+      "changeDollar": -0.83
     },
     {
-      "ticker": "FIG",
-      "name": "FIGMA INC CLASS A COM STK",
+      "ticker": "JBIO",
+      "name": "JADE BIOSCIENCES INC COM NEW",
       "sector": "Unknown",
-      "price": 25.73,
-      "changePct": -5.4,
-      "changeDollar": -1.47
+      "price": 20.01,
+      "changePct": -6.5,
+      "changeDollar": -1.39
     },
     {
-      "ticker": "HUBG",
-      "name": "HUB GROUP INC CL A",
+      "ticker": "AVGX",
+      "name": "TIDAL TRUST II DEF DLY TGT AVGO",
       "sector": "Unknown",
-      "price": 35.93,
-      "changePct": -5.3,
-      "changeDollar": -2.01
+      "price": 39.29,
+      "changePct": -6.43,
+      "changeDollar": -2.7
     },
     {
-      "ticker": "OMC",
-      "name": "OMNICOM GROUP INC COM",
+      "ticker": "IONS",
+      "name": "IONIS PHARMACEUTICALS INC COM",
       "sector": "Unknown",
-      "price": 81.76,
-      "changePct": -5.03,
-      "changeDollar": -4.33
+      "price": 58.04,
+      "changePct": -5.36,
+      "changeDollar": -3.29
     },
     {
-      "ticker": "DPC",
-      "name": "DPC HOLDINGS PLC ORDINARY SHARES",
+      "ticker": "BITI",
+      "name": "PROSHARES TR SHOR BITC ET NEW",
       "sector": "Unknown",
-      "price": 39.47,
-      "changePct": -4.85,
-      "changeDollar": -2.01
+      "price": 18.33,
+      "changePct": -4.73,
+      "changeDollar": -0.91
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "TARS",
-      "name": "TARSUS PHARMACEUTICALS INC COM",
+      "ticker": "MSTR",
+      "name": "STRATEGY INC CL A NEW",
       "sector": "Unknown",
-      "price": 82.76,
-      "changePct": 11.76,
-      "changeDollar": 8.71
+      "price": 140.34,
+      "changePct": 13.92,
+      "changeDollar": 17.15
     },
     {
-      "ticker": "ASTS",
-      "name": "AST SPACEMOBILE INC COM CL A",
+      "ticker": "HOOD",
+      "name": "ROBINHOOD MKTS INC COM CL A",
       "sector": "Unknown",
-      "price": 62.4,
-      "changePct": 11.83,
-      "changeDollar": 6.6
+      "price": 123.04,
+      "changePct": 15.0,
+      "changeDollar": 16.05
     },
     {
-      "ticker": "VRNS",
-      "name": "VARONIS SYS INC COM",
+      "ticker": "CRCA",
+      "name": "PROSHARES TR ULTRA CRCL NEW",
       "sector": "Unknown",
-      "price": 46.76,
-      "changePct": 10.41,
-      "changeDollar": 4.41
+      "price": 28.68,
+      "changePct": 30.11,
+      "changeDollar": 6.64
     },
     {
-      "ticker": "RDTL",
-      "name": "GRANITESHARES ETF TR 2X LONG RDDT DA",
+      "ticker": "ORCX",
+      "name": "TIDAL TRUST II DEFIANCE DAILY",
       "sector": "Unknown",
-      "price": 14.28,
-      "changePct": 18.6,
-      "changeDollar": 2.24
+      "price": 23.74,
+      "changePct": 11.4,
+      "changeDollar": 2.43
     },
     {
-      "ticker": "ASTX",
-      "name": "Tradr 2X Long ASTS Daily ETF",
+      "ticker": "TSLT",
+      "name": "T-Rex 2X Long Tesla Daily Target ETF",
       "sector": "Unknown",
-      "price": 11.2,
-      "changePct": 23.89,
-      "changeDollar": 2.16
+      "price": 14.87,
+      "changePct": 13.77,
+      "changeDollar": 1.8
     }
   ],
   "dollarLosers": [
     {
-      "ticker": "CRDO",
-      "name": "CREDO TECHNOLOGY GROUP HOLDING ORDINARY SHARES",
+      "ticker": "RARE",
+      "name": "ULTRAGENYX PHARMACEUTICAL INC COM",
       "sector": "Unknown",
-      "price": 165.22,
-      "changePct": -20.04,
-      "changeDollar": -41.41
+      "price": 14.75,
+      "changePct": -44.4,
+      "changeDollar": -11.78
     },
     {
-      "ticker": "PANW",
-      "name": "PALO ALTO NETWORKS INC COM",
+      "ticker": "SMST",
+      "name": "TIDAL TRUST II DEFI DA TA 2025",
       "sector": "Unknown",
-      "price": 328.48,
-      "changePct": -9.28,
-      "changeDollar": -33.61
+      "price": 19.94,
+      "changePct": -27.96,
+      "changeDollar": -7.74
     },
     {
-      "ticker": "OMC",
-      "name": "OMNICOM GROUP INC COM",
+      "ticker": "GOLD",
+      "name": "GOLD COM INC COM",
       "sector": "Unknown",
-      "price": 81.76,
-      "changePct": -5.03,
-      "changeDollar": -4.33
+      "price": 40.26,
+      "changePct": -8.12,
+      "changeDollar": -3.56
     },
     {
-      "ticker": "EIX",
-      "name": "EDISON INTL COM",
+      "ticker": "IONS",
+      "name": "IONIS PHARMACEUTICALS INC COM",
       "sector": "Unknown",
-      "price": 55.19,
-      "changePct": -6.14,
-      "changeDollar": -3.61
+      "price": 58.04,
+      "changePct": -5.36,
+      "changeDollar": -3.29
     },
     {
-      "ticker": "BAND",
-      "name": "BANDWIDTH INC COM CL A",
+      "ticker": "AVGX",
+      "name": "TIDAL TRUST II DEF DLY TGT AVGO",
       "sector": "Unknown",
-      "price": 47.55,
-      "changePct": -6.38,
-      "changeDollar": -3.24
+      "price": 39.29,
+      "changePct": -6.43,
+      "changeDollar": -2.7
     }
   ]
 }
