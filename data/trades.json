@@ -858,6 +858,45 @@
         "left_on_table": 3.11,
         "theta_note": "2DTE: Theta minimal at open, stock direction dominates. Est. $0.00 burned"
       }
+    },
+    {
+      "id": 9,
+      "status": "open",
+      "entry": {
+        "date": "2026-09-03",
+        "time": "15:55 PST",
+        "ticker": "CRDO",
+        "name": "CREDO TECHNOLOGY GROUP HOLDING ORDINARY SHARES",
+        "sector": "Unknown",
+        "type": "PUT",
+        "strike": 150.0,
+        "expiration": "2026-09-04",
+        "dte_at_entry": 1,
+        "T_at_entry": 0.00274,
+        "stock_price_at_entry": 165.22,
+        "premium": 0.4,
+        "cost": 40.0,
+        "bid": 0.3,
+        "spread": 0.1,
+        "iv_at_entry": 0.9043,
+        "otm_pct": 9.21,
+        "expected_move": {
+          "one_sigma_pct": 4.73,
+          "upper": 173.04,
+          "lower": 157.4,
+          "strike_position": "outside"
+        },
+        "signal_rank": "dollar_loser_1",
+        "signal_pct": -20.04,
+        "signal_dollar": -41.41,
+        "spy_change": NaN,
+        "macro_active": false,
+        "macro_keywords": [],
+        "auto_note": "CRDO PUT | $-41.41 (-20.04%) | dollar_loser_1 | Strike $150.0 exp 2026-09-04 (1DTE) | IV 90.4% | SPY +nan% | No macro triggers"
+      },
+      "news_scan": null,
+      "exit": null,
+      "fomo": null
     }
   ]
 }

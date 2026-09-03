@@ -110,5 +110,16 @@
     "subtitle": "AXON closed at $518.3 on 2026-09-02, ranking dollar_loser_1 with -8.52% ($-48.26). Strike $450.0 PUT exp 2026-09-04 (2DTE). IV at entry: 73.7%. Cost: $40.00. News scan: neutral \u2014 decision: hold. Sold at option value $0.0675 (stock open $513.245) at 2026-09-02 09:31:00-04:00. P&L: $-33.25. Left on table: $+3.11.",
     "pnl": -33.25,
     "won": false
+  },
+  {
+    "id": 9,
+    "date": "2026-09-03",
+    "ticker": "CRDO",
+    "type": "PUT",
+    "trade_id": 9,
+    "title": "CRDO PUT \u2014 2026-09-03",
+    "youtube_id": null,
+    "images": [],
+    "published": true
   }
 ]
