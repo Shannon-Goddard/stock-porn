@@ -468,9 +468,15 @@ def main():
             print(f"  Best case: ${fomo['best_case']['pnl']:+.2f} | Left on table: ${fomo.get('left_on_table', 0):+.2f}")
             print(f"  {fomo.get('theta_note', '')}")
 
+        # Exit date from candle timestamp (correct next-day date in ET)
+        try:
+            exit_date = sell_time.split('T')[0] if 'T' in sell_time else sell_time[:10]
+        except Exception:
+            exit_date = today_str
+
         trade['status'] = 'closed'
         trade['exit'] = {
-            'date':                today_str,
+            'date':                exit_date,
             'time':                sell_time,
             'stock_open_price':    sell_price,
             'sell_option_price':   sell_option_price,
