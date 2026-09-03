@@ -1,52 +1,20 @@
 {
   "topGainers": [
     {
-      "ticker": "MSTU",
-      "name": "T-Rex 2X Long MSTR Daily Target ETF",
-      "sector": "Unknown",
-      "price": 37.71,
-      "changePct": 35.16,
-      "changeDollar": 9.81
-    },
-    {
-      "ticker": "MSTX",
-      "name": "TIDAL TRUST II DE 2X LO MS ETF",
-      "sector": "Unknown",
-      "price": 17.33,
-      "changePct": 34.97,
-      "changeDollar": 4.49
-    },
-    {
-      "ticker": "CRCG",
-      "name": "THEMES ETF TR LEVERAGE SHS 2X",
-      "sector": "Unknown",
-      "price": 19.83,
-      "changePct": 32.91,
-      "changeDollar": 4.91
-    },
-    {
       "ticker": "CRCA",
       "name": "PROSHARES TR ULTRA CRCL NEW",
       "sector": "Unknown",
-      "price": 29.28,
-      "changePct": 32.83,
-      "changeDollar": 7.24
+      "price": 29.3,
+      "changePct": 32.88,
+      "changeDollar": 7.25
     },
     {
-      "ticker": "BMNU",
-      "name": "T-REX 2X Long BMNR Daily Target ETF",
+      "ticker": "ROBN",
+      "name": "T-Rex 2X Long HOOD Daily Target ETF",
       "sector": "Unknown",
-      "price": 21.9,
-      "changePct": 28.98,
-      "changeDollar": 4.92
-    },
-    {
-      "ticker": "RIOX",
-      "name": "TIDAL TRUST II DEFI DA TA RIOT",
-      "sector": "Unknown",
-      "price": 26.82,
-      "changePct": 26.45,
-      "changeDollar": 5.61
+      "price": 40.82,
+      "changePct": 32.75,
+      "changeDollar": 10.07
     },
     {
       "ticker": "MSTR",
@@ -57,14 +25,6 @@
       "changeDollar": 21.63
     },
     {
-      "ticker": "BEX",
-      "name": "Tradr 2X Long BE Daily ETF",
-      "sector": "Unknown",
-      "price": 28.03,
-      "changePct": 16.49,
-      "changeDollar": 3.97
-    },
-    {
       "ticker": "PTIR",
       "name": "GRANITESHARES ETF TR 2X LONG PLTR",
       "sector": "Unknown",
@@ -73,46 +33,118 @@
       "changeDollar": 2.71
     },
     {
-      "ticker": "SPCU",
-      "name": "Defiance Daily Target 2X Long SPCX ETF",
+      "ticker": "CIFR",
+      "name": "CIPHER DIGITAL INC COM",
       "sector": "Unknown",
-      "price": 13.51,
-      "changePct": 12.87,
-      "changeDollar": 1.54
+      "price": 17.37,
+      "changePct": 14.43,
+      "changeDollar": 2.19
+    },
+    {
+      "ticker": "RIOT",
+      "name": "RIOT PLATFORMS INC COM",
+      "sector": "Unknown",
+      "price": 21.14,
+      "changePct": 13.42,
+      "changeDollar": 2.5
+    },
+    {
+      "ticker": "SPCF",
+      "name": "PROSHARES TR ULTRA SPACEX",
+      "sector": "Unknown",
+      "price": 16.93,
+      "changePct": 12.72,
+      "changeDollar": 1.91
+    },
+    {
+      "ticker": "BITU",
+      "name": "PROSHARES TR ULTRA BITCON ETF",
+      "sector": "Unknown",
+      "price": 14.86,
+      "changePct": 11.65,
+      "changeDollar": 1.55
+    },
+    {
+      "ticker": "BULL",
+      "name": "WEBULL CORP ORD SHS",
+      "sector": "Unknown",
+      "price": 10.0,
+      "changePct": 11.11,
+      "changeDollar": 1.0
+    },
+    {
+      "ticker": "CLSK",
+      "name": "CLEANSPARK INC COM NEW",
+      "sector": "Unknown",
+      "price": 12.58,
+      "changePct": 11.03,
+      "changeDollar": 1.25
     }
   ],
   "topLosers": [
     {
-      "ticker": "SPCQ",
-      "name": "Defiance Daily Target 2X Short SPCX ETF",
+      "ticker": "RARE",
+      "name": "ULTRAGENYX PHARMACEUTICAL INC COM",
       "sector": "Unknown",
-      "price": 11.32,
-      "changePct": -13.26,
-      "changeDollar": -1.73
+      "price": 14.85,
+      "changePct": -44.03,
+      "changeDollar": -11.68
     },
     {
-      "ticker": "SBIT",
-      "name": "PROSHARES TR ULTRA BITCO ETF",
+      "ticker": "METC",
+      "name": "RAMACO RES INC COM CL A",
       "sector": "Unknown",
-      "price": 32.65,
-      "changePct": -11.76,
-      "changeDollar": -4.35
+      "price": 12.35,
+      "changePct": -14.3,
+      "changeDollar": -2.06
     },
     {
-      "ticker": "TSN",
-      "name": "TYSON FOODS INC CL A",
+      "ticker": "TSLZ",
+      "name": "T-Rex 2X Inverse Tesla Daily Target ETF",
       "sector": "Unknown",
-      "price": 51.76,
-      "changePct": -7.26,
-      "changeDollar": -4.05
+      "price": 11.15,
+      "changePct": -10.87,
+      "changeDollar": -1.36
     },
     {
-      "ticker": "CPB",
-      "name": "THE CAMPBELLS COMPANY COM",
+      "ticker": "IMUX",
+      "name": "IMMUNIC INC COM NEW",
       "sector": "Unknown",
-      "price": 22.12,
-      "changePct": -6.98,
-      "changeDollar": -1.66
+      "price": 12.76,
+      "changePct": -10.39,
+      "changeDollar": -1.48
+    },
+    {
+      "ticker": "CIEN",
+      "name": "CIENA CORP COM NEW",
+      "sector": "Unknown",
+      "price": 317.46,
+      "changePct": -10.36,
+      "changeDollar": -36.7
+    },
+    {
+      "ticker": "PL",
+      "name": "PLANET LABS PBC COM CL A",
+      "sector": "Unknown",
+      "price": 18.35,
+      "changePct": -8.2,
+      "changeDollar": -1.64
+    },
+    {
+      "ticker": "JBIO",
+      "name": "JADE BIOSCIENCES INC COM NEW",
+      "sector": "Unknown",
+      "price": 19.85,
+      "changePct": -7.24,
+      "changeDollar": -1.55
+    },
+    {
+      "ticker": "PHR",
+      "name": "PHREESIA INC COM",
+      "sector": "Unknown",
+      "price": 11.1,
+      "changePct": -6.33,
+      "changeDollar": -0.75
     },
     {
       "ticker": "WIX",
@@ -123,44 +155,12 @@
       "changeDollar": -5.49
     },
     {
-      "ticker": "AVGX",
-      "name": "TIDAL TRUST II DEF DLY TGT AVGO",
+      "ticker": "BITI",
+      "name": "PROSHARES TR SHOR BITC ET NEW",
       "sector": "Unknown",
-      "price": 39.51,
-      "changePct": -5.91,
-      "changeDollar": -2.48
-    },
-    {
-      "ticker": "LITX",
-      "name": "Tradr 2X Long LITE Daily ETF",
-      "sector": "Unknown",
-      "price": 27.14,
-      "changePct": -5.57,
-      "changeDollar": -1.6
-    },
-    {
-      "ticker": "HP",
-      "name": "HELMERICH & PAYNE INC COM",
-      "sector": "Unknown",
-      "price": 45.02,
-      "changePct": -5.5,
-      "changeDollar": -2.62
-    },
-    {
-      "ticker": "IONS",
-      "name": "IONIS PHARMACEUTICALS INC COM",
-      "sector": "Unknown",
-      "price": 58.13,
-      "changePct": -5.22,
-      "changeDollar": -3.2
-    },
-    {
-      "ticker": "BOIL",
-      "name": "PROSHARES TR II ULTRA BLOOMBERG",
-      "sector": "Unknown",
-      "price": 20.14,
-      "changePct": -5.09,
-      "changeDollar": -1.08
+      "price": 18.12,
+      "changePct": -5.82,
+      "changeDollar": -1.12
     }
   ],
   "dollarGainers": [
@@ -173,39 +173,55 @@
       "changeDollar": 21.63
     },
     {
-      "ticker": "MSTU",
-      "name": "T-Rex 2X Long MSTR Daily Target ETF",
+      "ticker": "ROBN",
+      "name": "T-Rex 2X Long HOOD Daily Target ETF",
       "sector": "Unknown",
-      "price": 37.71,
-      "changePct": 35.16,
-      "changeDollar": 9.81
+      "price": 40.82,
+      "changePct": 32.75,
+      "changeDollar": 10.07
     },
     {
       "ticker": "CRCA",
       "name": "PROSHARES TR ULTRA CRCL NEW",
       "sector": "Unknown",
-      "price": 29.28,
-      "changePct": 32.83,
-      "changeDollar": 7.24
+      "price": 29.3,
+      "changePct": 32.88,
+      "changeDollar": 7.25
     },
     {
-      "ticker": "RIOX",
-      "name": "TIDAL TRUST II DEFI DA TA RIOT",
+      "ticker": "PTIR",
+      "name": "GRANITESHARES ETF TR 2X LONG PLTR",
       "sector": "Unknown",
-      "price": 26.82,
-      "changePct": 26.45,
-      "changeDollar": 5.61
+      "price": 20.32,
+      "changePct": 15.39,
+      "changeDollar": 2.71
     },
     {
-      "ticker": "BMNU",
-      "name": "T-REX 2X Long BMNR Daily Target ETF",
+      "ticker": "RIOT",
+      "name": "RIOT PLATFORMS INC COM",
       "sector": "Unknown",
-      "price": 21.9,
-      "changePct": 28.98,
-      "changeDollar": 4.92
+      "price": 21.14,
+      "changePct": 13.42,
+      "changeDollar": 2.5
     }
   ],
   "dollarLosers": [
+    {
+      "ticker": "CIEN",
+      "name": "CIENA CORP COM NEW",
+      "sector": "Unknown",
+      "price": 317.46,
+      "changePct": -10.36,
+      "changeDollar": -36.7
+    },
+    {
+      "ticker": "RARE",
+      "name": "ULTRAGENYX PHARMACEUTICAL INC COM",
+      "sector": "Unknown",
+      "price": 14.85,
+      "changePct": -44.03,
+      "changeDollar": -11.68
+    },
     {
       "ticker": "WIX",
       "name": "WIX COM LTD SHS",
@@ -215,36 +231,20 @@
       "changeDollar": -5.49
     },
     {
-      "ticker": "SBIT",
-      "name": "PROSHARES TR ULTRA BITCO ETF",
+      "ticker": "METC",
+      "name": "RAMACO RES INC COM CL A",
       "sector": "Unknown",
-      "price": 32.65,
-      "changePct": -11.76,
-      "changeDollar": -4.35
+      "price": 12.35,
+      "changePct": -14.3,
+      "changeDollar": -2.06
     },
     {
-      "ticker": "TSN",
-      "name": "TYSON FOODS INC CL A",
+      "ticker": "PL",
+      "name": "PLANET LABS PBC COM CL A",
       "sector": "Unknown",
-      "price": 51.76,
-      "changePct": -7.26,
-      "changeDollar": -4.05
-    },
-    {
-      "ticker": "IONS",
-      "name": "IONIS PHARMACEUTICALS INC COM",
-      "sector": "Unknown",
-      "price": 58.13,
-      "changePct": -5.22,
-      "changeDollar": -3.2
-    },
-    {
-      "ticker": "HP",
-      "name": "HELMERICH & PAYNE INC COM",
-      "sector": "Unknown",
-      "price": 45.02,
-      "changePct": -5.5,
-      "changeDollar": -2.62
+      "price": 18.35,
+      "changePct": -8.2,
+      "changeDollar": -1.64
     }
   ]
 }
