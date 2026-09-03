@@ -9,8 +9,8 @@
       4
     ]
   },
-  "balance": -313.06,
-  "clean_balance": -186.32,
+  "balance": -351.14,
+  "clean_balance": -224.4,
   "starting_balance": 0.0,
   "first_trade_date": "2026-08-24",
   "trades": [
@@ -861,7 +861,7 @@
     },
     {
       "id": 9,
-      "status": "open",
+      "status": "closed",
       "entry": {
         "date": "2026-09-03",
         "time": "15:55 PST",
@@ -895,8 +895,47 @@
         "auto_note": "CRDO PUT | $-41.41 (-20.04%) | dollar_loser_1 | Strike $150.0 exp 2026-09-04 (1DTE) | IV 90.4% | SPY +nan% | No macro triggers"
       },
       "news_scan": null,
-      "exit": null,
-      "fomo": null
+      "exit": {
+        "date": "2026-09-03",
+        "time": "2026-09-03 09:30:00-04:00",
+        "stock_open_price": 168.155,
+        "sell_option_price": 0.0192,
+        "sell_contract_value": 1.92,
+        "sell_trigger": "sell_at_open",
+        "gap_direction": "against_thesis",
+        "gap_pct": 1.78,
+        "pnl": -38.08
+      },
+      "fomo": {
+        "sell_contract_value": 1.92,
+        "sell_pnl": -38.08,
+        "theta_burned_at_sell": -0.0,
+        "theta_per_min": -0.047003,
+        "day_high": {
+          "stock_price": 171.1,
+          "time": "2026-09-03 09:31:00-04:00",
+          "bs_contract_value": 0.61,
+          "theoretical_pnl": -39.39
+        },
+        "day_low": {
+          "stock_price": 165.15,
+          "time": "2026-09-03 09:34:00-04:00",
+          "bs_contract_value": 5.75,
+          "theoretical_pnl": -34.25
+        },
+        "best_case": {
+          "value": 5.75,
+          "pnl": -34.25,
+          "time": "2026-09-03 09:34:00-04:00"
+        },
+        "worst_case": {
+          "value": 0.61,
+          "pnl": -39.39,
+          "time": "2026-09-03 09:31:00-04:00"
+        },
+        "left_on_table": 3.83,
+        "theta_note": "1DTE: Theta moderate at open, accelerating by noon. Est. $0.00 burned"
+      }
     }
   ]
 }

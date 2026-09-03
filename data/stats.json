@@ -1,15 +1,15 @@
 {
-  "last_updated": "2026-09-02 17:16:34 UTC",
-  "clean_balance": -186.32,
+  "last_updated": "2026-09-03 17:08:16 UTC",
+  "clean_balance": -224.4,
   "overall": {
-    "total_trades": 8,
+    "total_trades": 9,
     "wins": 1,
-    "losses": 7,
-    "win_rate": 12.5,
-    "avg_pnl": -39.13,
-    "total_pnl": -313.06,
+    "losses": 8,
+    "win_rate": 11.1,
+    "avg_pnl": -39.02,
+    "total_pnl": -351.14,
     "starting_balance": 0.0,
-    "current_balance": -313.06
+    "current_balance": -351.14
   },
   "by_day_of_week": {
     "Monday": {
@@ -28,9 +28,9 @@
       "avg_pnl": -48.04
     },
     "Thursday": {
-      "trades": 1,
+      "trades": 2,
       "wins": 0,
-      "avg_pnl": -87.45
+      "avg_pnl": -62.76
     },
     "Friday": {
       "trades": 1,
@@ -60,9 +60,9 @@
       "avg_pnl": -45.26
     },
     "Unknown": {
-      "trades": 4,
+      "trades": 5,
       "wins": 0,
-      "avg_pnl": -46.58
+      "avg_pnl": -44.88
     }
   },
   "by_signal_rank": {
@@ -72,9 +72,9 @@
       "avg_pnl": -42.32
     },
     "dollar_loser_1": {
-      "trades": 3,
+      "trades": 4,
       "wins": 0,
-      "avg_pnl": -33.82
+      "avg_pnl": -34.89
     }
   },
   "spy_correlation": {
@@ -84,21 +84,21 @@
       "call_wins": 0
     },
     "spy_down_days": {
-      "trades": 6,
+      "trades": 7,
       "put_wins": 0,
       "call_wins": 1
     }
   },
   "fomo": {
-    "avg_left_on_table": -21850.04,
+    "avg_left_on_table": -19421.83,
     "hold_2min_trades": 5,
     "hold_2min_avg_pnl": -50.97,
-    "sell_at_open_trades": 3,
-    "sell_at_open_avg_pnl": -19.4
+    "sell_at_open_trades": 4,
+    "sell_at_open_avg_pnl": -24.07
   },
   "iv_crush": {
-    "samples": 8,
-    "avg_iv_at_entry": 0.9659,
+    "samples": 9,
+    "avg_iv_at_entry": 0.9591,
     "avg_iv_at_open": 0.0,
     "avg_crush_dollars": 0.0
   },
@@ -118,7 +118,7 @@
   },
   "methodology_score": {
     "spy_layer": {
-      "predictions": 8,
+      "predictions": 9,
       "correct": 0
     },
     "sector_layer": {
@@ -148,7 +148,7 @@
           "wins": 0
         },
         "outside": {
-          "trades": 4,
+          "trades": 5,
           "wins": 0
         }
       }
@@ -162,7 +162,7 @@
           "wins": 0
         },
         "against_thesis": {
-          "trades": 2,
+          "trades": 3,
           "wins": 0
         },
         "flat": {
@@ -186,7 +186,7 @@
       "min_sample": 20,
       "buckets": {
         "1dte": {
-          "trades": 0,
+          "trades": 1,
           "wins": 0
         },
         "2_3dte": {
