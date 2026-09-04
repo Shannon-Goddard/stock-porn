@@ -974,7 +974,63 @@
         ],
         "auto_note": "MSTR CALL | $+21.63 (+17.56%) | dollar_gainer_1 | Strike $177.5 exp 2026-09-11 (7DTE) | IV 96.5% | SPY +nan% | MACRO: rate hike"
       },
-      "news_scan": null,
+      "news_scan": {
+        "scanned_at": "2026-09-04 16:55:32 PST",
+        "gap_days": 0,
+        "ticker_sentiment": "bullish",
+        "spy_sentiment": "bearish",
+        "spx_sentiment": "bearish",
+        "keywords_found": [
+          "surge",
+          "rallies"
+        ],
+        "spy_keywords": [
+          "falls"
+        ],
+        "spx_keywords": [
+          "warning"
+        ],
+        "decision": "hold",
+        "decision_reason": "bullish keywords confirmed CALL thesis",
+        "raw_headlines": {
+          "ticker": [
+            "Bitcoin Rises Above $81,000 as Rate Hike Expectations Ease",
+            "The Nasdaq\u2019s Biggest Winner Was a Bitcoin Stock That Is Still Down 56% in a Year",
+            "Bitcoin Price Rallies To $81K On Biggest ETF Inflows Since January, Waller Rate Signal Ahead Of August Jobs Report",
+            "US Stock Market Today: S&P 500 Futures Edge Higher As Yields Ease Before Jobs",
+            "Crypto Stocks Jump After Bitcoin Rises 5%",
+            "Coinbase, Circle, MicroStrategy stocks surge on crypto rebound",
+            "Robinhood Stock Is Surging. These Wall Street Analysts Say They\u2019re Growing More Bullish",
+            "Saylor says Strategy\u2019s Bitcoin-heavy reserve capital surpasses nearly all S&P 500 financial firms",
+            "David Bailey lost 99% on his Bitcoin bet, now he\u2019s fighting to rebuild",
+            "Bitcoin Reclaims $80,000 Amid Dovish Fed Signal"
+          ],
+          "spy": [
+            "Netflix Falls 4% as Rate Repricing Pressures Long-Duration Growth; Disney Dips, Warner Bros. Discovery Sits Tight",
+            "GoPro Zooms 34% Higher on Starman Optical Merger and Markiplier Stake; Coherent Climbs 7%, Lumentum Gains 3%",
+            "IREN Climbs 4% on $2.4B Blue Owl-Led GPU Financing; Cipher Digital Gains 2%",
+            "Zscaler Falls 4% as FY2027 Growth Guidance Overshadows Earnings Beat; CrowdStrike Slips, Palo Alto Holds Steady",
+            "Marvell Rises 6% as Beaten-Down AI Silicon Bounces, Qualcomm Barely Budges",
+            "GPIX Is Paying 8% and Trailing SPY by Just Half a Point. Has Goldman Finally Fixed the Covered-Call ETF?",
+            "SCHG Owns More Apple Than Tesla, Meta and Palantir Combined. Is That Why Growth Investors Are Falling Behind?",
+            "Trump Reacts to Jobs Data: 'Lower The Rate or I\u2019ll Stop Trading With Countries'",
+            "SanDisk Rises 8%, Micron Gains 5%: Is the NAND Pricing Cycle Still Accelerating?",
+            "Adobe Sinks 7% as Internal CEO Pick Lands Ahead of Earnings, Workday Falls 4%"
+          ],
+          "spx": [
+            "Stock market today: Dow, S&P 500, Nasdaq edge lower after hot jobs report fuels Fed rate-hike bets",
+            "Stock Market Midday, Sept. 4: Stocks Edge Lower on Strong Jobs Report as Lululemon Plummets",
+            "Little change in European stocks as US equities fall amid strong jobs data",
+            "Goldman Sachs sends strong warning to bond investors",
+            "Stock Market Today: Dow Sinks As Inflation Report Looms; Oracle Up On OpenAI Buzz (Live Coverage)",
+            "Update: US Equity Indexes Fall as Robust Jobs Report Lifts Odds of September Fed Rate Increase",
+            "What Are You Actually Buying In Aurora Innovation Stock?",
+            "Stocks Fall, Rebound Bullishly; Snowflake, Dell, Tesla, Jobs Report In Focus: Weekly Review",
+            "UnitedHealth Stock Rises 39% in 6 Months: Should Investors Still Buy?",
+            "Bloom Energy, Astera Rally On Hopes They Will Join S&P Friday; Who Else Could Be Added"
+          ]
+        }
+      },
       "exit": null,
       "fomo": null
     },
@@ -1015,7 +1071,63 @@
         ],
         "auto_note": "CIEN PUT | $-36.70 (-10.36%) | dollar_loser_1 | Strike $275.0 exp 2026-09-11 (7DTE) | IV 59.2% | SPY +nan% | MACRO: rate hike"
       },
-      "news_scan": null,
+      "news_scan": {
+        "scanned_at": "2026-09-04 16:55:32 PST",
+        "gap_days": 0,
+        "ticker_sentiment": "bullish",
+        "spy_sentiment": "bearish",
+        "spx_sentiment": "bearish",
+        "keywords_found": [
+          "record revenue",
+          "surge"
+        ],
+        "spy_keywords": [
+          "falls"
+        ],
+        "spx_keywords": [
+          "warning"
+        ],
+        "decision": "hold",
+        "decision_reason": "bullish keywords confirmed PUT thesis",
+        "raw_headlines": {
+          "ticker": [
+            "Ciena Q3 Earnings Call Flags Supply as Key Constraint on 2027 Growth",
+            "Ciena Outlines Strong 2027 Outlook: What's Fueling the Momentum?",
+            "US Stock Market Today: S&P 500 Futures Edge Higher As Yields Ease Before Jobs",
+            "Ciena (CIEN) Stock Gets Fair Value Trim As Analysts Weigh AI Demand And Supply Limits",
+            "Ciena (CIEN) Lifts Guidance As Its Rich Valuation Faces A Reality Check",
+            "Ciena Corp (CIEN) (Q3 2026) Earnings Call Highlights: Record Revenue and Backlog Surge on ...",
+            "Update: Dow Marks Best Day in More Than 4 Weeks as Rate Hike Bets Ease",
+            "US Equity Markets End Higher as Expectations Build for Fed to Keep Rates Steady",
+            "Nvidia, Tesla, Robinhood, Snowflake, Ultragenyx, Ciena, and More Stocks That Explain Today\u2019s Market",
+            "Ciena Beats Earnings Estimates. The Stock Is the Worst Performer in S&P 500 Today."
+          ],
+          "spy": [
+            "Netflix Falls 4% as Rate Repricing Pressures Long-Duration Growth; Disney Dips, Warner Bros. Discovery Sits Tight",
+            "GoPro Zooms 34% Higher on Starman Optical Merger and Markiplier Stake; Coherent Climbs 7%, Lumentum Gains 3%",
+            "IREN Climbs 4% on $2.4B Blue Owl-Led GPU Financing; Cipher Digital Gains 2%",
+            "Zscaler Falls 4% as FY2027 Growth Guidance Overshadows Earnings Beat; CrowdStrike Slips, Palo Alto Holds Steady",
+            "Marvell Rises 6% as Beaten-Down AI Silicon Bounces, Qualcomm Barely Budges",
+            "GPIX Is Paying 8% and Trailing SPY by Just Half a Point. Has Goldman Finally Fixed the Covered-Call ETF?",
+            "SCHG Owns More Apple Than Tesla, Meta and Palantir Combined. Is That Why Growth Investors Are Falling Behind?",
+            "Trump Reacts to Jobs Data: 'Lower The Rate or I\u2019ll Stop Trading With Countries'",
+            "SanDisk Rises 8%, Micron Gains 5%: Is the NAND Pricing Cycle Still Accelerating?",
+            "Adobe Sinks 7% as Internal CEO Pick Lands Ahead of Earnings, Workday Falls 4%"
+          ],
+          "spx": [
+            "Stock market today: Dow, S&P 500, Nasdaq edge lower after hot jobs report fuels Fed rate-hike bets",
+            "Stock Market Midday, Sept. 4: Stocks Edge Lower on Strong Jobs Report as Lululemon Plummets",
+            "Little change in European stocks as US equities fall amid strong jobs data",
+            "Goldman Sachs sends strong warning to bond investors",
+            "Stock Market Today: Dow Sinks As Inflation Report Looms; Oracle Up On OpenAI Buzz (Live Coverage)",
+            "Update: US Equity Indexes Fall as Robust Jobs Report Lifts Odds of September Fed Rate Increase",
+            "What Are You Actually Buying In Aurora Innovation Stock?",
+            "Stocks Fall, Rebound Bullishly; Snowflake, Dell, Tesla, Jobs Report In Focus: Weekly Review",
+            "UnitedHealth Stock Rises 39% in 6 Months: Should Investors Still Buy?",
+            "Bloom Energy, Astera Rally On Hopes They Will Join S&P Friday; Who Else Could Be Added"
+          ]
+        }
+      },
       "exit": null,
       "fomo": null
     }
