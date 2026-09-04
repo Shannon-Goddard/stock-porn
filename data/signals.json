@@ -1,250 +1,250 @@
 {
   "topGainers": [
     {
-      "ticker": "AOUT",
-      "name": "AMERICAN OUTDOOR BRANDS INC COM",
+      "ticker": "SNDG",
+      "name": "Leverage Shares 2X Long SNDK Daily ETF",
       "sector": "Unknown",
-      "price": 14.13,
-      "changePct": 41.16,
-      "changeDollar": 4.12
-    },
-    {
-      "ticker": "LABX",
-      "name": "Tradr 2X Long ALAB Daily ETF",
-      "sector": "Unknown",
-      "price": 12.41,
-      "changePct": 21.31,
-      "changeDollar": 2.18
+      "price": 10.77,
+      "changePct": 24.08,
+      "changeDollar": 2.09
     },
     {
       "ticker": "TYRA",
       "name": "TYRA BIOSCIENCES INC COM",
       "sector": "Unknown",
-      "price": 29.32,
-      "changePct": 17.94,
-      "changeDollar": 4.46
+      "price": 28.65,
+      "changePct": 15.25,
+      "changeDollar": 3.79
     },
     {
-      "ticker": "BBCP",
-      "name": "CONCRETE PUMPING HLDGS INC COM",
+      "ticker": "NBIG",
+      "name": "THEMES ETF TR LEVERAGE SHS 2X",
       "sector": "Unknown",
-      "price": 10.47,
-      "changePct": 15.69,
-      "changeDollar": 1.42
-    },
-    {
-      "ticker": "MVLL",
-      "name": "GRANITESHARES ETF TR 2X LONG MRVL",
-      "sector": "Unknown",
-      "price": 26.0,
-      "changePct": 11.92,
-      "changeDollar": 2.77
+      "price": 17.37,
+      "changePct": 14.88,
+      "changeDollar": 2.25
     },
     {
       "ticker": "TSLQ",
       "name": "INVESTMENT MANAGERS SER TR II TRADR 2X SHORT",
       "sector": "Unknown",
-      "price": 19.68,
-      "changePct": 11.82,
-      "changeDollar": 2.08
+      "price": 19.71,
+      "changePct": 11.99,
+      "changeDollar": 2.11
     },
     {
-      "ticker": "AEHR",
-      "name": "AEHR TEST SYS COM",
+      "ticker": "MUU",
+      "name": "DIREXION SHARES ETF TRUST DLY MU BULL 2X",
       "sector": "Unknown",
-      "price": 85.21,
-      "changePct": 11.72,
-      "changeDollar": 8.94
+      "price": 34.25,
+      "changePct": 11.6,
+      "changeDollar": 3.56
     },
     {
-      "ticker": "COHX",
-      "name": "Tradr 2X Long COHR Daily ETF",
+      "ticker": "WDCX",
+      "name": "Tradr 2X Long WDC Daily ETF",
       "sector": "Unknown",
-      "price": 22.37,
-      "changePct": 11.52,
-      "changeDollar": 2.31
+      "price": 18.77,
+      "changePct": 11.53,
+      "changeDollar": 1.94
     },
     {
-      "ticker": "IREX",
-      "name": "Tradr 2X Long IREN Daily ETF",
+      "ticker": "COHU",
+      "name": "COHU INC COM",
       "sector": "Unknown",
-      "price": 16.0,
-      "changePct": 11.5,
-      "changeDollar": 1.65
+      "price": 50.72,
+      "changePct": 10.31,
+      "changeDollar": 4.74
     },
     {
-      "ticker": "IRE",
-      "name": "TIDAL TRUST II DEFI DA IREN ETF",
+      "ticker": "SMTC",
+      "name": "SEMTECH CORP COM",
       "sector": "Unknown",
-      "price": 11.06,
-      "changePct": 11.27,
-      "changeDollar": 1.12
+      "price": 147.88,
+      "changePct": 9.22,
+      "changeDollar": 12.49
+    },
+    {
+      "ticker": "ARMG",
+      "name": "THEMES ETF TR LEVERAGE SHARES",
+      "sector": "Unknown",
+      "price": 17.19,
+      "changePct": 7.98,
+      "changeDollar": 1.27
+    },
+    {
+      "ticker": "ACMR",
+      "name": "ACM RESH INC COM CL A",
+      "sector": "Unknown",
+      "price": 74.44,
+      "changePct": 7.23,
+      "changeDollar": 5.02
     }
   ],
   "topLosers": [
     {
-      "ticker": "SNDQ",
-      "name": "Tradr 2X Short SNDK Daily ETF",
-      "sector": "Unknown",
-      "price": 12.23,
-      "changePct": -20.89,
-      "changeDollar": -3.23
-    },
-    {
       "ticker": "GWRE",
       "name": "GUIDEWIRE SOFTWARE INC COM",
       "sector": "Unknown",
-      "price": 161.2,
-      "changePct": -20.54,
-      "changeDollar": -41.66
+      "price": 162.42,
+      "changePct": -19.93,
+      "changeDollar": -40.44
     },
     {
-      "ticker": "LULU",
-      "name": "LULULEMON ATHLETICA INC COM",
+      "ticker": "SOXS",
+      "name": "DIREXION SHARES ETF TRUST DAI SEM 3X ETF",
       "sector": "Unknown",
-      "price": 100.2,
-      "changePct": -17.71,
-      "changeDollar": -21.57
+      "price": 46.34,
+      "changePct": -10.19,
+      "changeDollar": -5.26
     },
     {
-      "ticker": "FICO",
-      "name": "FAIR ISAAC CORP COM",
+      "ticker": "ADBE",
+      "name": "ADOBE INC COM",
       "sector": "Unknown",
-      "price": 937.12,
-      "changePct": -16.25,
-      "changeDollar": -181.81
+      "price": 266.51,
+      "changePct": -6.73,
+      "changeDollar": -19.24
     },
     {
-      "ticker": "OXM",
-      "name": "OXFORD INDS INC COM",
+      "ticker": "ETSY",
+      "name": "ETSY INC COM",
       "sector": "Unknown",
-      "price": 31.02,
-      "changePct": -15.32,
-      "changeDollar": -5.61
+      "price": 76.51,
+      "changePct": -6.73,
+      "changeDollar": -5.52
     },
     {
-      "ticker": "TSLT",
-      "name": "T-Rex 2X Long Tesla Daily Target ETF",
+      "ticker": "WIX",
+      "name": "WIX COM LTD SHS",
       "sector": "Unknown",
-      "price": 12.8,
-      "changePct": -11.6,
-      "changeDollar": -1.68
+      "price": 76.21,
+      "changePct": -6.15,
+      "changeDollar": -4.99
     },
     {
-      "ticker": "BMNU",
-      "name": "T-REX 2X Long BMNR Daily Target ETF",
+      "ticker": "TSLA",
+      "name": "TESLA INC COM",
       "sector": "Unknown",
-      "price": 19.29,
-      "changePct": -11.59,
-      "changeDollar": -2.53
+      "price": 354.08,
+      "changePct": -5.92,
+      "changeDollar": -22.29
     },
     {
-      "ticker": "TSLR",
-      "name": "GRANITESHARES ETF TR 2X LONG TSLA ETF",
+      "ticker": "NFLX",
+      "name": "NETFLIX INC. COM",
       "sector": "Unknown",
-      "price": 15.85,
-      "changePct": -11.5,
-      "changeDollar": -2.06
+      "price": 78.25,
+      "changePct": -5.35,
+      "changeDollar": -4.42
     },
     {
-      "ticker": "XXRP",
-      "name": "LISTED FDS TR TEUCR 2X XRP ETF",
+      "ticker": "WLY",
+      "name": "WILEY JOHN & SONS INC CL A",
       "sector": "Unknown",
-      "price": 33.32,
-      "changePct": -9.46,
-      "changeDollar": -3.48
+      "price": 48.19,
+      "changePct": -4.88,
+      "changeDollar": -2.47
     },
     {
-      "ticker": "PLTU",
-      "name": "DIREXION SHARES ETF TRUST DLY PLTR BULL 2X",
+      "ticker": "VCYT",
+      "name": "VERACYTE INC COM",
       "sector": "Unknown",
-      "price": 49.65,
-      "changePct": -8.98,
-      "changeDollar": -4.9
+      "price": 42.53,
+      "changePct": -4.79,
+      "changeDollar": -2.14
+    },
+    {
+      "ticker": "PURR",
+      "name": "HYPERLIQUID STRATEGIES INC COM",
+      "sector": "Unknown",
+      "price": 12.18,
+      "changePct": -4.62,
+      "changeDollar": -0.59
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "AEHR",
-      "name": "AEHR TEST SYS COM",
+      "ticker": "SMTC",
+      "name": "SEMTECH CORP COM",
       "sector": "Unknown",
-      "price": 85.21,
-      "changePct": 11.72,
-      "changeDollar": 8.94
+      "price": 147.88,
+      "changePct": 9.22,
+      "changeDollar": 12.49
+    },
+    {
+      "ticker": "ACMR",
+      "name": "ACM RESH INC COM CL A",
+      "sector": "Unknown",
+      "price": 74.44,
+      "changePct": 7.23,
+      "changeDollar": 5.02
+    },
+    {
+      "ticker": "COHU",
+      "name": "COHU INC COM",
+      "sector": "Unknown",
+      "price": 50.72,
+      "changePct": 10.31,
+      "changeDollar": 4.74
     },
     {
       "ticker": "TYRA",
       "name": "TYRA BIOSCIENCES INC COM",
       "sector": "Unknown",
-      "price": 29.32,
-      "changePct": 17.94,
-      "changeDollar": 4.46
+      "price": 28.65,
+      "changePct": 15.25,
+      "changeDollar": 3.79
     },
     {
-      "ticker": "AOUT",
-      "name": "AMERICAN OUTDOOR BRANDS INC COM",
+      "ticker": "MUU",
+      "name": "DIREXION SHARES ETF TRUST DLY MU BULL 2X",
       "sector": "Unknown",
-      "price": 14.13,
-      "changePct": 41.16,
-      "changeDollar": 4.12
-    },
-    {
-      "ticker": "MVLL",
-      "name": "GRANITESHARES ETF TR 2X LONG MRVL",
-      "sector": "Unknown",
-      "price": 26.0,
-      "changePct": 11.92,
-      "changeDollar": 2.77
-    },
-    {
-      "ticker": "COHX",
-      "name": "Tradr 2X Long COHR Daily ETF",
-      "sector": "Unknown",
-      "price": 22.37,
-      "changePct": 11.52,
-      "changeDollar": 2.31
+      "price": 34.25,
+      "changePct": 11.6,
+      "changeDollar": 3.56
     }
   ],
   "dollarLosers": [
     {
-      "ticker": "FICO",
-      "name": "FAIR ISAAC CORP COM",
-      "sector": "Unknown",
-      "price": 937.12,
-      "changePct": -16.25,
-      "changeDollar": -181.81
-    },
-    {
       "ticker": "GWRE",
       "name": "GUIDEWIRE SOFTWARE INC COM",
       "sector": "Unknown",
-      "price": 161.2,
-      "changePct": -20.54,
-      "changeDollar": -41.66
+      "price": 162.42,
+      "changePct": -19.93,
+      "changeDollar": -40.44
     },
     {
-      "ticker": "LULU",
-      "name": "LULULEMON ATHLETICA INC COM",
+      "ticker": "TSLA",
+      "name": "TESLA INC COM",
       "sector": "Unknown",
-      "price": 100.2,
-      "changePct": -17.71,
-      "changeDollar": -21.57
+      "price": 354.08,
+      "changePct": -5.92,
+      "changeDollar": -22.29
     },
     {
-      "ticker": "OXM",
-      "name": "OXFORD INDS INC COM",
+      "ticker": "ADBE",
+      "name": "ADOBE INC COM",
       "sector": "Unknown",
-      "price": 31.02,
-      "changePct": -15.32,
-      "changeDollar": -5.61
+      "price": 266.51,
+      "changePct": -6.73,
+      "changeDollar": -19.24
     },
     {
-      "ticker": "PLTU",
-      "name": "DIREXION SHARES ETF TRUST DLY PLTR BULL 2X",
+      "ticker": "ETSY",
+      "name": "ETSY INC COM",
       "sector": "Unknown",
-      "price": 49.65,
-      "changePct": -8.98,
-      "changeDollar": -4.9
+      "price": 76.51,
+      "changePct": -6.73,
+      "changeDollar": -5.52
+    },
+    {
+      "ticker": "SOXS",
+      "name": "DIREXION SHARES ETF TRUST DAI SEM 3X ETF",
+      "sector": "Unknown",
+      "price": 46.34,
+      "changePct": -10.19,
+      "changeDollar": -5.26
     }
   ]
 }
