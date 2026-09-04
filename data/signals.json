@@ -1,250 +1,250 @@
 {
   "topGainers": [
     {
-      "ticker": "CRCA",
-      "name": "PROSHARES TR ULTRA CRCL NEW",
+      "ticker": "AOUT",
+      "name": "AMERICAN OUTDOOR BRANDS INC COM",
       "sector": "Unknown",
-      "price": 29.3,
-      "changePct": 32.88,
-      "changeDollar": 7.25
+      "price": 14.04,
+      "changePct": 40.26,
+      "changeDollar": 4.03
     },
     {
-      "ticker": "ROBN",
-      "name": "T-Rex 2X Long HOOD Daily Target ETF",
+      "ticker": "CBRX",
+      "name": "Tradr 2X Long CBRS Daily ETF",
       "sector": "Unknown",
-      "price": 40.82,
-      "changePct": 32.75,
-      "changeDollar": 10.07
+      "price": 11.91,
+      "changePct": 23.29,
+      "changeDollar": 2.25
     },
     {
-      "ticker": "MSTR",
-      "name": "STRATEGY INC CL A NEW",
+      "ticker": "SNXX",
+      "name": "Tradr 2X Long SNDK Daily ETF",
       "sector": "Unknown",
-      "price": 144.82,
-      "changePct": 17.56,
-      "changeDollar": 21.63
+      "price": 17.05,
+      "changePct": 21.18,
+      "changeDollar": 2.98
     },
     {
-      "ticker": "PTIR",
-      "name": "GRANITESHARES ETF TR 2X LONG PLTR",
+      "ticker": "NX",
+      "name": "QUANEX BLDG PRODS CORP COM",
       "sector": "Unknown",
-      "price": 20.32,
-      "changePct": 15.39,
+      "price": 22.5,
+      "changePct": 19.94,
+      "changeDollar": 3.74
+    },
+    {
+      "ticker": "COHX",
+      "name": "Tradr 2X Long COHR Daily ETF",
+      "sector": "Unknown",
+      "price": 22.77,
+      "changePct": 13.51,
       "changeDollar": 2.71
     },
     {
-      "ticker": "CIFR",
-      "name": "CIPHER DIGITAL INC COM",
+      "ticker": "TSLQ",
+      "name": "INVESTMENT MANAGERS SER TR II TRADR 2X SHORT",
       "sector": "Unknown",
-      "price": 17.37,
-      "changePct": 14.43,
-      "changeDollar": 2.19
+      "price": 19.88,
+      "changePct": 12.95,
+      "changeDollar": 2.28
     },
     {
-      "ticker": "RIOT",
-      "name": "RIOT PLATFORMS INC COM",
+      "ticker": "SNDK",
+      "name": "SANDISK CORP COM",
       "sector": "Unknown",
-      "price": 21.14,
-      "changePct": 13.42,
-      "changeDollar": 2.5
+      "price": 1722.08,
+      "changePct": 10.75,
+      "changeDollar": 167.09
     },
     {
-      "ticker": "SPCF",
-      "name": "PROSHARES TR ULTRA SPACEX",
+      "ticker": "CHPT",
+      "name": "CHARGEPOINT HOLDINGS INC COM SHS",
       "sector": "Unknown",
-      "price": 16.93,
-      "changePct": 12.72,
-      "changeDollar": 1.91
+      "price": 10.05,
+      "changePct": 10.68,
+      "changeDollar": 0.97
     },
     {
-      "ticker": "BITU",
-      "name": "PROSHARES TR ULTRA BITCON ETF",
+      "ticker": "KORU",
+      "name": "DIREXION SHARES ETF TRUST DAIL MS KORE ETF",
       "sector": "Unknown",
-      "price": 14.86,
-      "changePct": 11.65,
-      "changeDollar": 1.55
+      "price": 22.8,
+      "changePct": 10.2,
+      "changeDollar": 2.11
     },
     {
-      "ticker": "BULL",
-      "name": "WEBULL CORP ORD SHS",
+      "ticker": "BEX",
+      "name": "Tradr 2X Long BE Daily ETF",
       "sector": "Unknown",
-      "price": 10.0,
-      "changePct": 11.11,
-      "changeDollar": 1.0
-    },
-    {
-      "ticker": "CLSK",
-      "name": "CLEANSPARK INC COM NEW",
-      "sector": "Unknown",
-      "price": 12.58,
-      "changePct": 11.03,
-      "changeDollar": 1.25
+      "price": 30.82,
+      "changePct": 9.92,
+      "changeDollar": 2.78
     }
   ],
   "topLosers": [
     {
-      "ticker": "RARE",
-      "name": "ULTRAGENYX PHARMACEUTICAL INC COM",
+      "ticker": "GWRE",
+      "name": "GUIDEWIRE SOFTWARE INC COM",
       "sector": "Unknown",
-      "price": 14.85,
-      "changePct": -44.03,
-      "changeDollar": -11.68
+      "price": 161.55,
+      "changePct": -20.36,
+      "changeDollar": -41.31
     },
     {
-      "ticker": "METC",
-      "name": "RAMACO RES INC COM CL A",
+      "ticker": "TSLT",
+      "name": "T-Rex 2X Long Tesla Daily Target ETF",
       "sector": "Unknown",
-      "price": 12.35,
-      "changePct": -14.3,
-      "changeDollar": -2.06
+      "price": 12.6,
+      "changePct": -12.98,
+      "changeDollar": -1.88
     },
     {
-      "ticker": "TSLZ",
-      "name": "T-Rex 2X Inverse Tesla Daily Target ETF",
+      "ticker": "AAOZ",
+      "name": "Tradr 2X Short AAOI Daily ETF",
       "sector": "Unknown",
-      "price": 11.15,
-      "changePct": -10.87,
-      "changeDollar": -1.36
+      "price": 13.76,
+      "changePct": -9.59,
+      "changeDollar": -1.46
     },
     {
-      "ticker": "IMUX",
-      "name": "IMMUNIC INC COM NEW",
+      "ticker": "BMNU",
+      "name": "T-REX 2X Long BMNR Daily Target ETF",
       "sector": "Unknown",
-      "price": 12.76,
-      "changePct": -10.39,
-      "changeDollar": -1.48
+      "price": 19.95,
+      "changePct": -8.57,
+      "changeDollar": -1.87
     },
     {
-      "ticker": "CIEN",
-      "name": "CIENA CORP COM NEW",
+      "ticker": "ADSK",
+      "name": "AUTODESK INC COM",
       "sector": "Unknown",
-      "price": 317.46,
-      "changePct": -10.36,
-      "changeDollar": -36.7
+      "price": 218.08,
+      "changePct": -8.18,
+      "changeDollar": -19.44
     },
     {
-      "ticker": "PL",
-      "name": "PLANET LABS PBC COM CL A",
+      "ticker": "TSL",
+      "name": "GRANITESHARES ETF TR 1.25X LNG TESLA",
       "sector": "Unknown",
-      "price": 18.35,
-      "changePct": -8.2,
-      "changeDollar": -1.64
+      "price": 13.13,
+      "changePct": -8.18,
+      "changeDollar": -1.17
     },
     {
-      "ticker": "JBIO",
-      "name": "JADE BIOSCIENCES INC COM NEW",
+      "ticker": "EFX",
+      "name": "EQUIFAX INC COM",
       "sector": "Unknown",
-      "price": 19.85,
-      "changePct": -7.24,
-      "changeDollar": -1.55
+      "price": 176.83,
+      "changePct": -6.48,
+      "changeDollar": -12.26
     },
     {
-      "ticker": "PHR",
-      "name": "PHREESIA INC COM",
+      "ticker": "WLY",
+      "name": "WILEY JOHN & SONS INC CL A",
       "sector": "Unknown",
-      "price": 11.1,
-      "changePct": -6.33,
-      "changeDollar": -0.75
+      "price": 47.88,
+      "changePct": -5.49,
+      "changeDollar": -2.78
+    },
+    {
+      "ticker": "BSY",
+      "name": "BENTLEY SYS INC COM CL B",
+      "sector": "Unknown",
+      "price": 33.83,
+      "changePct": -4.95,
+      "changeDollar": -1.76
     },
     {
       "ticker": "WIX",
       "name": "WIX COM LTD SHS",
       "sector": "Unknown",
-      "price": 81.2,
-      "changePct": -6.33,
-      "changeDollar": -5.49
-    },
-    {
-      "ticker": "BITI",
-      "name": "PROSHARES TR SHOR BITC ET NEW",
-      "sector": "Unknown",
-      "price": 18.12,
-      "changePct": -5.82,
-      "changeDollar": -1.12
+      "price": 77.23,
+      "changePct": -4.89,
+      "changeDollar": -3.97
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "MSTR",
-      "name": "STRATEGY INC CL A NEW",
+      "ticker": "SNDK",
+      "name": "SANDISK CORP COM",
       "sector": "Unknown",
-      "price": 144.82,
-      "changePct": 17.56,
-      "changeDollar": 21.63
+      "price": 1722.08,
+      "changePct": 10.75,
+      "changeDollar": 167.09
     },
     {
-      "ticker": "ROBN",
-      "name": "T-Rex 2X Long HOOD Daily Target ETF",
+      "ticker": "AOUT",
+      "name": "AMERICAN OUTDOOR BRANDS INC COM",
       "sector": "Unknown",
-      "price": 40.82,
-      "changePct": 32.75,
-      "changeDollar": 10.07
+      "price": 14.04,
+      "changePct": 40.26,
+      "changeDollar": 4.03
     },
     {
-      "ticker": "CRCA",
-      "name": "PROSHARES TR ULTRA CRCL NEW",
+      "ticker": "NX",
+      "name": "QUANEX BLDG PRODS CORP COM",
       "sector": "Unknown",
-      "price": 29.3,
-      "changePct": 32.88,
-      "changeDollar": 7.25
+      "price": 22.5,
+      "changePct": 19.94,
+      "changeDollar": 3.74
     },
     {
-      "ticker": "PTIR",
-      "name": "GRANITESHARES ETF TR 2X LONG PLTR",
+      "ticker": "SNXX",
+      "name": "Tradr 2X Long SNDK Daily ETF",
       "sector": "Unknown",
-      "price": 20.32,
-      "changePct": 15.39,
-      "changeDollar": 2.71
+      "price": 17.05,
+      "changePct": 21.18,
+      "changeDollar": 2.98
     },
     {
-      "ticker": "RIOT",
-      "name": "RIOT PLATFORMS INC COM",
+      "ticker": "BEX",
+      "name": "Tradr 2X Long BE Daily ETF",
       "sector": "Unknown",
-      "price": 21.14,
-      "changePct": 13.42,
-      "changeDollar": 2.5
+      "price": 30.82,
+      "changePct": 9.92,
+      "changeDollar": 2.78
     }
   ],
   "dollarLosers": [
     {
-      "ticker": "CIEN",
-      "name": "CIENA CORP COM NEW",
+      "ticker": "GWRE",
+      "name": "GUIDEWIRE SOFTWARE INC COM",
       "sector": "Unknown",
-      "price": 317.46,
-      "changePct": -10.36,
-      "changeDollar": -36.7
+      "price": 161.55,
+      "changePct": -20.36,
+      "changeDollar": -41.31
     },
     {
-      "ticker": "RARE",
-      "name": "ULTRAGENYX PHARMACEUTICAL INC COM",
+      "ticker": "ADSK",
+      "name": "AUTODESK INC COM",
       "sector": "Unknown",
-      "price": 14.85,
-      "changePct": -44.03,
-      "changeDollar": -11.68
+      "price": 218.08,
+      "changePct": -8.18,
+      "changeDollar": -19.44
+    },
+    {
+      "ticker": "EFX",
+      "name": "EQUIFAX INC COM",
+      "sector": "Unknown",
+      "price": 176.83,
+      "changePct": -6.48,
+      "changeDollar": -12.26
     },
     {
       "ticker": "WIX",
       "name": "WIX COM LTD SHS",
       "sector": "Unknown",
-      "price": 81.2,
-      "changePct": -6.33,
-      "changeDollar": -5.49
+      "price": 77.23,
+      "changePct": -4.89,
+      "changeDollar": -3.97
     },
     {
-      "ticker": "METC",
-      "name": "RAMACO RES INC COM CL A",
+      "ticker": "WLY",
+      "name": "WILEY JOHN & SONS INC CL A",
       "sector": "Unknown",
-      "price": 12.35,
-      "changePct": -14.3,
-      "changeDollar": -2.06
-    },
-    {
-      "ticker": "PL",
-      "name": "PLANET LABS PBC COM CL A",
-      "sector": "Unknown",
-      "price": 18.35,
-      "changePct": -8.2,
-      "changeDollar": -1.64
+      "price": 47.88,
+      "changePct": -5.49,
+      "changeDollar": -2.78
     }
   ]
 }
