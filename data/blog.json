@@ -124,5 +124,27 @@
     "subtitle": "CRDO closed at $165.22 on 2026-09-03, ranking dollar_loser_1 with -20.04% ($-41.41). Strike $150.0 PUT exp 2026-09-04 (1DTE). IV at entry: 90.4%. Cost: $40.00. News scan: n/a \u2014 decision: n/a. Sold at option value $0.0192 (stock open $168.155) at 2026-09-03 09:30:00-04:00. P&L: $-38.08. Left on table: $+3.83.",
     "pnl": -38.08,
     "won": false
+  },
+  {
+    "id": 10,
+    "date": "2026-09-04",
+    "ticker": "MSTR",
+    "type": "CALL",
+    "trade_id": 10,
+    "title": "MSTR CALL \u2014 2026-09-04",
+    "youtube_id": null,
+    "images": [],
+    "published": true
+  },
+  {
+    "id": 11,
+    "date": "2026-09-04",
+    "ticker": "CIEN",
+    "type": "PUT",
+    "trade_id": 11,
+    "title": "CIEN PUT \u2014 2026-09-04",
+    "youtube_id": null,
+    "images": [],
+    "published": true
   }
 ]

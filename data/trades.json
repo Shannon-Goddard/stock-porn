@@ -936,6 +936,88 @@
         "left_on_table": 3.83,
         "theta_note": "1DTE: Theta moderate at open, accelerating by noon. Est. $0.00 burned"
       }
+    },
+    {
+      "id": 10,
+      "status": "open",
+      "entry": {
+        "date": "2026-09-04",
+        "time": "15:55 PST",
+        "ticker": "MSTR",
+        "name": "STRATEGY INC CL A NEW",
+        "sector": "Unknown",
+        "type": "CALL",
+        "strike": 177.5,
+        "expiration": "2026-09-11",
+        "dte_at_entry": 7,
+        "T_at_entry": 0.019178,
+        "stock_price_at_entry": 144.82,
+        "premium": 0.87,
+        "cost": 87.0,
+        "bid": 0.72,
+        "spread": 0.15,
+        "iv_at_entry": 0.9648,
+        "otm_pct": 22.57,
+        "expected_move": {
+          "one_sigma_pct": 13.36,
+          "upper": 164.17,
+          "lower": 125.47,
+          "strike_position": "outside"
+        },
+        "signal_rank": "dollar_gainer_1",
+        "signal_pct": 17.56,
+        "signal_dollar": 21.63,
+        "spy_change": NaN,
+        "macro_active": true,
+        "macro_keywords": [
+          "rate hike"
+        ],
+        "auto_note": "MSTR CALL | $+21.63 (+17.56%) | dollar_gainer_1 | Strike $177.5 exp 2026-09-11 (7DTE) | IV 96.5% | SPY +nan% | MACRO: rate hike"
+      },
+      "news_scan": null,
+      "exit": null,
+      "fomo": null
+    },
+    {
+      "id": 11,
+      "status": "open",
+      "entry": {
+        "date": "2026-09-04",
+        "time": "15:55 PST",
+        "ticker": "CIEN",
+        "name": "CIENA CORP COM NEW",
+        "sector": "Unknown",
+        "type": "PUT",
+        "strike": 275.0,
+        "expiration": "2026-09-11",
+        "dte_at_entry": 7,
+        "T_at_entry": 0.019178,
+        "stock_price_at_entry": 317.46,
+        "premium": 0.9,
+        "cost": 90.0,
+        "bid": 0.2,
+        "spread": 0.7,
+        "iv_at_entry": 0.5923,
+        "otm_pct": 13.37,
+        "expected_move": {
+          "one_sigma_pct": 8.2,
+          "upper": 343.5,
+          "lower": 291.42,
+          "strike_position": "outside"
+        },
+        "signal_rank": "dollar_loser_1",
+        "signal_pct": -10.36,
+        "signal_dollar": -36.7,
+        "spy_change": NaN,
+        "macro_active": true,
+        "macro_keywords": [
+          "rate hike"
+        ],
+        "auto_note": "CIEN PUT | $-36.70 (-10.36%) | dollar_loser_1 | Strike $275.0 exp 2026-09-11 (7DTE) | IV 59.2% | SPY +nan% | MACRO: rate hike"
+      },
+      "news_scan": null,
+      "exit": null,
+      "fomo": null
     }
   ]
 }
