@@ -131,10 +131,13 @@
     "ticker": "MSTR",
     "type": "CALL",
     "trade_id": 10,
-    "title": "MSTR CALL \u2014 2026-09-04",
+    "title": "MSTR CALL \u2014 2026-09-04: Lost $54.16",
     "youtube_id": null,
     "images": [],
-    "published": true
+    "published": true,
+    "subtitle": "MSTR closed at $144.82 on 2026-09-04, ranking dollar_gainer_1 with +17.56% ($+21.63). Strike $177.5 CALL exp 2026-09-11 (7DTE). IV at entry: 96.5%. Cost: $87.00. News scan: bullish \u2014 decision: hold. Sold at option value $0.3284 (stock open $140.11) at 2026-09-04 09:31:00-04:00. P&L: $-54.16. Left on table: $+4.12.",
+    "pnl": -54.16,
+    "won": false
   },
   {
     "id": 11,
@@ -142,9 +145,12 @@
     "ticker": "CIEN",
     "type": "PUT",
     "trade_id": 11,
-    "title": "CIEN PUT \u2014 2026-09-04",
+    "title": "CIEN PUT \u2014 2026-09-04: Lost $52.05",
     "youtube_id": null,
     "images": [],
-    "published": true
+    "published": true,
+    "subtitle": "CIEN closed at $317.46 on 2026-09-04, ranking dollar_loser_1 with -10.36% ($-36.70). Strike $275.0 PUT exp 2026-09-11 (7DTE). IV at entry: 59.2%. Cost: $90.00. News scan: bullish \u2014 decision: hold. Sold at option value $0.3795 (stock open $317.45) at 2026-09-04 09:31:00-04:00. P&L: $-52.05. Left on table: $+6.68.",
+    "pnl": -52.05,
+    "won": false
   }
 ]
