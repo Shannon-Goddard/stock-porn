@@ -152,5 +152,27 @@
     "subtitle": "CIEN closed at $317.46 on 2026-09-04, ranking dollar_loser_1 with -10.36% ($-36.70). Strike $275.0 PUT exp 2026-09-11 (7DTE). IV at entry: 59.2%. Cost: $90.00. News scan: bullish \u2014 decision: hold. Sold at option value $0.3795 (stock open $317.45) at 2026-09-04 09:31:00-04:00. P&L: $-52.05. Left on table: $+6.68.",
     "pnl": -52.05,
     "won": false
+  },
+  {
+    "id": 12,
+    "date": "2026-09-05",
+    "ticker": "ALAB",
+    "type": "CALL",
+    "trade_id": 12,
+    "title": "ALAB CALL \u2014 2026-09-05",
+    "youtube_id": null,
+    "images": [],
+    "published": true
+  },
+  {
+    "id": 13,
+    "date": "2026-09-05",
+    "ticker": "TSLA",
+    "type": "PUT",
+    "trade_id": 13,
+    "title": "TSLA PUT \u2014 2026-09-05",
+    "youtube_id": null,
+    "images": [],
+    "published": true
   }
 ]

@@ -1208,6 +1208,90 @@
         "left_on_table": 6.68,
         "theta_note": "7DTE: Theta minimal at open, stock direction dominates. Est. $0.00 burned"
       }
+    },
+    {
+      "id": 12,
+      "status": "open",
+      "entry": {
+        "date": "2026-09-05",
+        "time": "15:55 PST",
+        "ticker": "ALAB",
+        "name": "ASTERA LABS INC COM",
+        "sector": "Unknown",
+        "type": "CALL",
+        "strike": 390.0,
+        "expiration": "2026-09-11",
+        "dte_at_entry": 6,
+        "T_at_entry": 0.016438,
+        "stock_price_at_entry": 310.4,
+        "premium": 0.97,
+        "cost": 97.0,
+        "bid": 0.05,
+        "spread": 0.92,
+        "iv_at_entry": 0.8823,
+        "otm_pct": 25.64,
+        "expected_move": {
+          "one_sigma_pct": 11.31,
+          "upper": 345.51,
+          "lower": 275.29,
+          "strike_position": "outside"
+        },
+        "signal_rank": "dollar_gainer_1",
+        "signal_pct": 9.75,
+        "signal_dollar": 27.58,
+        "spy_change": NaN,
+        "macro_active": true,
+        "macro_keywords": [
+          "rate hike",
+          "war"
+        ],
+        "auto_note": "ALAB CALL | $+27.58 (+9.75%) | dollar_gainer_1 | Strike $390.0 exp 2026-09-11 (6DTE) | IV 88.2% | SPY +nan% | MACRO: rate hike, war"
+      },
+      "news_scan": null,
+      "exit": null,
+      "fomo": null
+    },
+    {
+      "id": 13,
+      "status": "open",
+      "entry": {
+        "date": "2026-09-05",
+        "time": "15:55 PST",
+        "ticker": "TSLA",
+        "name": "TESLA INC COM",
+        "sector": "Unknown",
+        "type": "PUT",
+        "strike": 340.0,
+        "expiration": "2026-09-09",
+        "dte_at_entry": 4,
+        "T_at_entry": 0.010959,
+        "stock_price_at_entry": 354.08,
+        "premium": 0.96,
+        "cost": 96.0,
+        "bid": 0.94,
+        "spread": 0.02,
+        "iv_at_entry": 0.3242,
+        "otm_pct": 3.98,
+        "expected_move": {
+          "one_sigma_pct": 3.39,
+          "upper": 366.1,
+          "lower": 342.06,
+          "strike_position": "at_edge"
+        },
+        "signal_rank": "dollar_loser_1",
+        "signal_pct": -5.92,
+        "signal_dollar": -22.29,
+        "spy_change": NaN,
+        "macro_active": true,
+        "macro_keywords": [
+          "rate hike",
+          "war"
+        ],
+        "auto_note": "TSLA PUT | $-22.29 (-5.92%) | dollar_loser_1 | Strike $340.0 exp 2026-09-09 (4DTE) | IV 32.4% | SPY +nan% | MACRO: rate hike, war"
+      },
+      "news_scan": null,
+      "exit": null,
+      "fomo": null
     }
   ]
 }
