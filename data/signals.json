@@ -1,6 +1,14 @@
 {
   "topGainers": [
     {
+      "ticker": "AOUT",
+      "name": "AMERICAN OUTDOOR BRANDS INC COM",
+      "sector": "Unknown",
+      "price": 14.48,
+      "changePct": 44.66,
+      "changeDollar": 4.47
+    },
+    {
       "ticker": "SNDG",
       "name": "Leverage Shares 2X Long SNDK Daily ETF",
       "sector": "Unknown",
@@ -9,242 +17,234 @@
       "changeDollar": 2.09
     },
     {
-      "ticker": "TSLQ",
-      "name": "INVESTMENT MANAGERS SER TR II TRADR 2X SHORT",
+      "ticker": "SNDU",
+      "name": "T-REX 2X Long SNDK Daily Target ETF",
       "sector": "Unknown",
-      "price": 19.71,
-      "changePct": 11.99,
-      "changeDollar": 2.11
+      "price": 26.95,
+      "changePct": 23.62,
+      "changeDollar": 5.15
     },
     {
-      "ticker": "ALAB",
-      "name": "ASTERA LABS INC COM",
+      "ticker": "NX",
+      "name": "QUANEX BLDG PRODS CORP COM",
       "sector": "Unknown",
-      "price": 310.4,
-      "changePct": 9.75,
-      "changeDollar": 27.58
+      "price": 22.93,
+      "changePct": 22.23,
+      "changeDollar": 4.17
     },
     {
-      "ticker": "FWRD",
-      "name": "FORWARD AIR CORP COM",
+      "ticker": "CBRX",
+      "name": "Tradr 2X Long CBRS Daily ETF",
       "sector": "Unknown",
-      "price": 17.89,
-      "changePct": 9.69,
-      "changeDollar": 1.58
+      "price": 11.56,
+      "changePct": 19.67,
+      "changeDollar": 1.9
     },
     {
-      "ticker": "TTMI",
-      "name": "TTM TECHNOLOGIES INC COM",
+      "ticker": "SKHX",
+      "name": "Leverage Shares 2X Long SK Hynix Daily ETF",
       "sector": "Unknown",
-      "price": 125.6,
-      "changePct": 8.85,
-      "changeDollar": 10.21
+      "price": 16.06,
+      "changePct": 16.04,
+      "changeDollar": 2.22
     },
     {
-      "ticker": "INTW",
-      "name": "GRANITESHARES ETF TR 2X LONG INTC ETF",
+      "ticker": "SKHU",
+      "name": "PROSHARES TR ULTRA SK HYNIX",
       "sector": "Unknown",
-      "price": 20.92,
-      "changePct": 8.84,
-      "changeDollar": 1.7
+      "price": 21.07,
+      "changePct": 16.02,
+      "changeDollar": 2.91
     },
     {
-      "ticker": "DPC",
-      "name": "DPC HOLDINGS PLC ORDINARY SHARES",
+      "ticker": "TYRA",
+      "name": "TYRA BIOSCIENCES INC COM",
       "sector": "Unknown",
-      "price": 44.88,
-      "changePct": 7.99,
-      "changeDollar": 3.32
+      "price": 28.65,
+      "changePct": 15.25,
+      "changeDollar": 3.79
     },
     {
-      "ticker": "FORM",
-      "name": "FORMFACTOR INC COM",
+      "ticker": "NBIG",
+      "name": "THEMES ETF TR LEVERAGE SHS 2X",
       "sector": "Unknown",
-      "price": 103.9,
-      "changePct": 7.38,
-      "changeDollar": 7.14
+      "price": 17.37,
+      "changePct": 14.88,
+      "changeDollar": 2.25
     },
     {
-      "ticker": "MRVL",
-      "name": "MARVELL TECHNOLOGY INC COM",
+      "ticker": "TITN",
+      "name": "TITAN MACHY INC COM",
       "sector": "Unknown",
-      "price": 223.55,
-      "changePct": 7.05,
-      "changeDollar": 14.72
-    },
-    {
-      "ticker": "METC",
-      "name": "RAMACO RES INC COM CL A",
-      "sector": "Unknown",
-      "price": 13.2,
-      "changePct": 6.88,
-      "changeDollar": 0.85
+      "price": 26.22,
+      "changePct": 14.85,
+      "changeDollar": 3.39
     }
   ],
   "topLosers": [
     {
-      "ticker": "SNDQ",
-      "name": "Tradr 2X Short SNDK Daily ETF",
+      "ticker": "LULU",
+      "name": "LULULEMON ATHLETICA INC COM",
       "sector": "Unknown",
-      "price": 11.78,
-      "changePct": -23.8,
-      "changeDollar": -3.68
+      "price": 100.61,
+      "changePct": -17.38,
+      "changeDollar": -21.16
     },
     {
-      "ticker": "QTTB",
-      "name": "Q32 BIO INC COM",
+      "ticker": "TSLR",
+      "name": "GRANITESHARES ETF TR 2X LONG TSLA ETF",
       "sector": "Unknown",
-      "price": 11.99,
-      "changePct": -6.33,
-      "changeDollar": -0.81
+      "price": 15.78,
+      "changePct": -11.89,
+      "changeDollar": -2.13
     },
     {
-      "ticker": "PTC",
-      "name": "PTC INC COM",
+      "ticker": "BMNU",
+      "name": "T-REX 2X Long BMNR Daily Target ETF",
       "sector": "Unknown",
-      "price": 141.02,
-      "changePct": -6.04,
-      "changeDollar": -9.06
+      "price": 19.49,
+      "changePct": -10.68,
+      "changeDollar": -2.33
     },
     {
-      "ticker": "TSLA",
-      "name": "TESLA INC COM",
+      "ticker": "XXRP",
+      "name": "LISTED FDS TR TEUCR 2X XRP ETF",
       "sector": "Unknown",
-      "price": 354.08,
-      "changePct": -5.92,
-      "changeDollar": -22.29
+      "price": 33.23,
+      "changePct": -9.7,
+      "changeDollar": -3.57
     },
     {
-      "ticker": "KVYO",
-      "name": "KLAVIYO INC COM SER A",
+      "ticker": "PLTU",
+      "name": "DIREXION SHARES ETF TRUST DLY PLTR BULL 2X",
       "sector": "Unknown",
-      "price": 18.61,
-      "changePct": -5.82,
-      "changeDollar": -1.15
+      "price": 49.63,
+      "changePct": -9.02,
+      "changeDollar": -4.92
     },
     {
-      "ticker": "VSNT",
-      "name": "VERSANT MEDIA GROUP INC COM CL A",
+      "ticker": "TSL",
+      "name": "GRANITESHARES ETF TR 1.25X LNG TESLA",
       "sector": "Unknown",
-      "price": 38.61,
-      "changePct": -5.76,
-      "changeDollar": -2.36
+      "price": 13.22,
+      "changePct": -7.55,
+      "changeDollar": -1.08
     },
     {
-      "ticker": "TTAN",
-      "name": "SERVICETITAN INC SHS CL A",
+      "ticker": "BAND",
+      "name": "BANDWIDTH INC COM CL A",
       "sector": "Unknown",
-      "price": 87.92,
-      "changePct": -5.56,
-      "changeDollar": -5.18
+      "price": 43.77,
+      "changePct": -7.05,
+      "changeDollar": -3.32
     },
     {
-      "ticker": "SNOW",
-      "name": "SNOWFLAKE INC COM SHS",
+      "ticker": "ADBE",
+      "name": "ADOBE INC COM",
       "sector": "Unknown",
-      "price": 337.18,
-      "changePct": -5.41,
-      "changeDollar": -19.29
+      "price": 266.51,
+      "changePct": -6.73,
+      "changeDollar": -19.24
     },
     {
-      "ticker": "ETHU",
-      "name": "2x Ether ETF",
+      "ticker": "ETSY",
+      "name": "ETSY INC COM",
       "sector": "Unknown",
-      "price": 25.97,
-      "changePct": -5.22,
-      "changeDollar": -1.43
+      "price": 76.51,
+      "changePct": -6.73,
+      "changeDollar": -5.52
     },
     {
-      "ticker": "XRPZ",
-      "name": "FRANKLIN XRP TRUST FRANKLIN XRP ETF",
+      "ticker": "MNDY",
+      "name": "MONDAY COM LTD SHS",
       "sector": "Unknown",
-      "price": 15.2,
-      "changePct": -4.94,
-      "changeDollar": -0.79
+      "price": 91.07,
+      "changePct": -6.43,
+      "changeDollar": -6.26
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "ALAB",
-      "name": "ASTERA LABS INC COM",
+      "ticker": "SNDU",
+      "name": "T-REX 2X Long SNDK Daily Target ETF",
       "sector": "Unknown",
-      "price": 310.4,
-      "changePct": 9.75,
-      "changeDollar": 27.58
+      "price": 26.95,
+      "changePct": 23.62,
+      "changeDollar": 5.15
     },
     {
-      "ticker": "MRVL",
-      "name": "MARVELL TECHNOLOGY INC COM",
+      "ticker": "AOUT",
+      "name": "AMERICAN OUTDOOR BRANDS INC COM",
       "sector": "Unknown",
-      "price": 223.55,
-      "changePct": 7.05,
-      "changeDollar": 14.72
+      "price": 14.48,
+      "changePct": 44.66,
+      "changeDollar": 4.47
     },
     {
-      "ticker": "TTMI",
-      "name": "TTM TECHNOLOGIES INC COM",
+      "ticker": "NX",
+      "name": "QUANEX BLDG PRODS CORP COM",
       "sector": "Unknown",
-      "price": 125.6,
-      "changePct": 8.85,
-      "changeDollar": 10.21
+      "price": 22.93,
+      "changePct": 22.23,
+      "changeDollar": 4.17
     },
     {
-      "ticker": "FORM",
-      "name": "FORMFACTOR INC COM",
+      "ticker": "TYRA",
+      "name": "TYRA BIOSCIENCES INC COM",
       "sector": "Unknown",
-      "price": 103.9,
-      "changePct": 7.38,
-      "changeDollar": 7.14
+      "price": 28.65,
+      "changePct": 15.25,
+      "changeDollar": 3.79
     },
     {
-      "ticker": "DPC",
-      "name": "DPC HOLDINGS PLC ORDINARY SHARES",
+      "ticker": "TITN",
+      "name": "TITAN MACHY INC COM",
       "sector": "Unknown",
-      "price": 44.88,
-      "changePct": 7.99,
-      "changeDollar": 3.32
+      "price": 26.22,
+      "changePct": 14.85,
+      "changeDollar": 3.39
     }
   ],
   "dollarLosers": [
     {
-      "ticker": "TSLA",
-      "name": "TESLA INC COM",
+      "ticker": "LULU",
+      "name": "LULULEMON ATHLETICA INC COM",
       "sector": "Unknown",
-      "price": 354.08,
-      "changePct": -5.92,
-      "changeDollar": -22.29
+      "price": 100.61,
+      "changePct": -17.38,
+      "changeDollar": -21.16
     },
     {
-      "ticker": "SNOW",
-      "name": "SNOWFLAKE INC COM SHS",
+      "ticker": "ADBE",
+      "name": "ADOBE INC COM",
       "sector": "Unknown",
-      "price": 337.18,
-      "changePct": -5.41,
-      "changeDollar": -19.29
+      "price": 266.51,
+      "changePct": -6.73,
+      "changeDollar": -19.24
     },
     {
-      "ticker": "PTC",
-      "name": "PTC INC COM",
+      "ticker": "MNDY",
+      "name": "MONDAY COM LTD SHS",
       "sector": "Unknown",
-      "price": 141.02,
-      "changePct": -6.04,
-      "changeDollar": -9.06
+      "price": 91.07,
+      "changePct": -6.43,
+      "changeDollar": -6.26
     },
     {
-      "ticker": "TTAN",
-      "name": "SERVICETITAN INC SHS CL A",
+      "ticker": "ETSY",
+      "name": "ETSY INC COM",
       "sector": "Unknown",
-      "price": 87.92,
-      "changePct": -5.56,
-      "changeDollar": -5.18
+      "price": 76.51,
+      "changePct": -6.73,
+      "changeDollar": -5.52
     },
     {
-      "ticker": "SNDQ",
-      "name": "Tradr 2X Short SNDK Daily ETF",
+      "ticker": "PLTU",
+      "name": "DIREXION SHARES ETF TRUST DLY PLTR BULL 2X",
       "sector": "Unknown",
-      "price": 11.78,
-      "changePct": -23.8,
-      "changeDollar": -3.68
+      "price": 49.63,
+      "changePct": -9.02,
+      "changeDollar": -4.92
     }
   ]
 }
