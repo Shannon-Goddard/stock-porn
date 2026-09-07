@@ -1,14 +1,6 @@
 {
   "topGainers": [
     {
-      "ticker": "SNXX",
-      "name": "Tradr 2X Long SNDK Daily ETF",
-      "sector": "Unknown",
-      "price": 17.36,
-      "changePct": 23.38,
-      "changeDollar": 3.29
-    },
-    {
       "ticker": "NX",
       "name": "QUANEX BLDG PRODS CORP COM",
       "sector": "Unknown",
@@ -17,28 +9,44 @@
       "changeDollar": 4.17
     },
     {
-      "ticker": "SKHX",
-      "name": "Leverage Shares 2X Long SK Hynix Daily ETF",
+      "ticker": "CBRX",
+      "name": "Tradr 2X Long CBRS Daily ETF",
       "sector": "Unknown",
-      "price": 16.06,
-      "changePct": 16.04,
-      "changeDollar": 2.22
+      "price": 11.56,
+      "changePct": 19.67,
+      "changeDollar": 1.9
     },
     {
-      "ticker": "TYRA",
-      "name": "TYRA BIOSCIENCES INC COM",
+      "ticker": "TITN",
+      "name": "TITAN MACHY INC COM",
       "sector": "Unknown",
-      "price": 28.65,
-      "changePct": 15.25,
-      "changeDollar": 3.79
+      "price": 26.22,
+      "changePct": 14.85,
+      "changeDollar": 3.39
     },
     {
-      "ticker": "NBIL",
-      "name": "GRANITESHARES ETF TR 2X LONG NBIS DLY",
+      "ticker": "BEX",
+      "name": "Tradr 2X Long BE Daily ETF",
       "sector": "Unknown",
-      "price": 25.19,
-      "changePct": 14.92,
-      "changeDollar": 3.27
+      "price": 32.05,
+      "changePct": 14.34,
+      "changeDollar": 4.02
+    },
+    {
+      "ticker": "MVLL",
+      "name": "GRANITESHARES ETF TR 2X LONG MRVL",
+      "sector": "Unknown",
+      "price": 26.49,
+      "changePct": 14.03,
+      "changeDollar": 3.26
+    },
+    {
+      "ticker": "KORU",
+      "name": "DIREXION SHARES ETF TRUST DAIL MS KORE ETF",
+      "sector": "Unknown",
+      "price": 23.47,
+      "changePct": 13.44,
+      "changeDollar": 2.78
     },
     {
       "ticker": "COHX",
@@ -49,46 +57,46 @@
       "changeDollar": 2.59
     },
     {
-      "ticker": "TSLZ",
-      "name": "T-Rex 2X Inverse Tesla Daily Target ETF",
+      "ticker": "TSLQ",
+      "name": "INVESTMENT MANAGERS SER TR II TRADR 2X SHORT",
       "sector": "Unknown",
-      "price": 12.49,
-      "changePct": 12.11,
-      "changeDollar": 1.35
+      "price": 19.71,
+      "changePct": 11.99,
+      "changeDollar": 2.11
     },
     {
-      "ticker": "CWVX",
-      "name": "Tradr 2X Long CRWV Daily ETF",
+      "ticker": "GOLD",
+      "name": "GOLD COM INC COM",
       "sector": "Unknown",
-      "price": 16.66,
-      "changePct": 10.99,
-      "changeDollar": 1.65
+      "price": 46.13,
+      "changePct": 11.21,
+      "changeDollar": 4.65
     },
     {
-      "ticker": "ALAB",
-      "name": "ASTERA LABS INC COM",
+      "ticker": "COHU",
+      "name": "COHU INC COM",
       "sector": "Unknown",
-      "price": 310.4,
-      "changePct": 9.75,
-      "changeDollar": 27.58
-    },
-    {
-      "ticker": "AMDL",
-      "name": "GRANITESHARES ETF TR GRANITE 2X LONG",
-      "sector": "Unknown",
-      "price": 49.75,
-      "changePct": 9.2,
-      "changeDollar": 4.19
+      "price": 50.72,
+      "changePct": 10.31,
+      "changeDollar": 4.74
     }
   ],
   "topLosers": [
     {
-      "ticker": "PATH",
-      "name": "UIPATH INC CL A",
+      "ticker": "GWRE",
+      "name": "GUIDEWIRE SOFTWARE INC COM",
       "sector": "Unknown",
-      "price": 15.19,
-      "changePct": -16.63,
-      "changeDollar": -3.03
+      "price": 162.42,
+      "changePct": -19.93,
+      "changeDollar": -40.44
+    },
+    {
+      "ticker": "FICO",
+      "name": "FAIR ISAAC CORP COM",
+      "sector": "Unknown",
+      "price": 932.26,
+      "changePct": -16.68,
+      "changeDollar": -186.67
     },
     {
       "ticker": "TSLT",
@@ -99,20 +107,20 @@
       "changeDollar": -1.74
     },
     {
-      "ticker": "SOXS",
-      "name": "DIREXION SHARES ETF TRUST DAI SEM 3X ETF",
+      "ticker": "TSLR",
+      "name": "GRANITESHARES ETF TR 2X LONG TSLA ETF",
       "sector": "Unknown",
-      "price": 46.34,
-      "changePct": -10.19,
-      "changeDollar": -5.26
+      "price": 15.78,
+      "changePct": -11.89,
+      "changeDollar": -2.13
     },
     {
-      "ticker": "PTIR",
-      "name": "GRANITESHARES ETF TR 2X LONG PLTR",
+      "ticker": "AAOZ",
+      "name": "Tradr 2X Short AAOI Daily ETF",
       "sector": "Unknown",
-      "price": 18.49,
-      "changePct": -9.01,
-      "changeDollar": -1.83
+      "price": 13.63,
+      "changePct": -10.45,
+      "changeDollar": -1.59
     },
     {
       "ticker": "SKHZ",
@@ -123,22 +131,6 @@
       "changeDollar": -0.93
     },
     {
-      "ticker": "SOLT",
-      "name": "VOLATILITY SHS TR 2X SOLANA ETF",
-      "sector": "Unknown",
-      "price": 57.35,
-      "changePct": -7.26,
-      "changeDollar": -4.49
-    },
-    {
-      "ticker": "EFX",
-      "name": "EQUIFAX INC COM",
-      "sector": "Unknown",
-      "price": 177.05,
-      "changePct": -6.37,
-      "changeDollar": -12.04
-    },
-    {
       "ticker": "APPN",
       "name": "APPIAN CORP CL A",
       "sector": "Unknown",
@@ -147,12 +139,12 @@
       "changeDollar": -2.45
     },
     {
-      "ticker": "KVYO",
-      "name": "KLAVIYO INC COM SER A",
+      "ticker": "TRU",
+      "name": "TRANSUNION COM",
       "sector": "Unknown",
-      "price": 18.61,
-      "changePct": -5.82,
-      "changeDollar": -1.15
+      "price": 79.88,
+      "changePct": -5.93,
+      "changeDollar": -5.04
     },
     {
       "ticker": "TTAN",
@@ -161,24 +153,32 @@
       "price": 87.92,
       "changePct": -5.56,
       "changeDollar": -5.18
+    },
+    {
+      "ticker": "SNOW",
+      "name": "SNOWFLAKE INC COM SHS",
+      "sector": "Unknown",
+      "price": 337.18,
+      "changePct": -5.41,
+      "changeDollar": -19.29
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "ALAB",
-      "name": "ASTERA LABS INC COM",
+      "ticker": "COHU",
+      "name": "COHU INC COM",
       "sector": "Unknown",
-      "price": 310.4,
-      "changePct": 9.75,
-      "changeDollar": 27.58
+      "price": 50.72,
+      "changePct": 10.31,
+      "changeDollar": 4.74
     },
     {
-      "ticker": "AMDL",
-      "name": "GRANITESHARES ETF TR GRANITE 2X LONG",
+      "ticker": "GOLD",
+      "name": "GOLD COM INC COM",
       "sector": "Unknown",
-      "price": 49.75,
-      "changePct": 9.2,
-      "changeDollar": 4.19
+      "price": 46.13,
+      "changePct": 11.21,
+      "changeDollar": 4.65
     },
     {
       "ticker": "NX",
@@ -189,38 +189,46 @@
       "changeDollar": 4.17
     },
     {
-      "ticker": "TYRA",
-      "name": "TYRA BIOSCIENCES INC COM",
+      "ticker": "BEX",
+      "name": "Tradr 2X Long BE Daily ETF",
       "sector": "Unknown",
-      "price": 28.65,
-      "changePct": 15.25,
-      "changeDollar": 3.79
+      "price": 32.05,
+      "changePct": 14.34,
+      "changeDollar": 4.02
     },
     {
-      "ticker": "SNXX",
-      "name": "Tradr 2X Long SNDK Daily ETF",
+      "ticker": "TITN",
+      "name": "TITAN MACHY INC COM",
       "sector": "Unknown",
-      "price": 17.36,
-      "changePct": 23.38,
-      "changeDollar": 3.29
+      "price": 26.22,
+      "changePct": 14.85,
+      "changeDollar": 3.39
     }
   ],
   "dollarLosers": [
     {
-      "ticker": "EFX",
-      "name": "EQUIFAX INC COM",
+      "ticker": "FICO",
+      "name": "FAIR ISAAC CORP COM",
       "sector": "Unknown",
-      "price": 177.05,
-      "changePct": -6.37,
-      "changeDollar": -12.04
+      "price": 932.26,
+      "changePct": -16.68,
+      "changeDollar": -186.67
     },
     {
-      "ticker": "SOXS",
-      "name": "DIREXION SHARES ETF TRUST DAI SEM 3X ETF",
+      "ticker": "GWRE",
+      "name": "GUIDEWIRE SOFTWARE INC COM",
       "sector": "Unknown",
-      "price": 46.34,
-      "changePct": -10.19,
-      "changeDollar": -5.26
+      "price": 162.42,
+      "changePct": -19.93,
+      "changeDollar": -40.44
+    },
+    {
+      "ticker": "SNOW",
+      "name": "SNOWFLAKE INC COM SHS",
+      "sector": "Unknown",
+      "price": 337.18,
+      "changePct": -5.41,
+      "changeDollar": -19.29
     },
     {
       "ticker": "TTAN",
@@ -231,20 +239,12 @@
       "changeDollar": -5.18
     },
     {
-      "ticker": "SOLT",
-      "name": "VOLATILITY SHS TR 2X SOLANA ETF",
+      "ticker": "TRU",
+      "name": "TRANSUNION COM",
       "sector": "Unknown",
-      "price": 57.35,
-      "changePct": -7.26,
-      "changeDollar": -4.49
-    },
-    {
-      "ticker": "PATH",
-      "name": "UIPATH INC CL A",
-      "sector": "Unknown",
-      "price": 15.19,
-      "changePct": -16.63,
-      "changeDollar": -3.03
+      "price": 79.88,
+      "changePct": -5.93,
+      "changeDollar": -5.04
     }
   ]
 }
