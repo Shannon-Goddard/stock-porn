@@ -1248,16 +1248,19 @@
         "auto_note": "ALAB CALL | $+27.58 (+9.75%) | dollar_gainer_1 | Strike $390.0 exp 2026-09-11 (6DTE) | IV 88.2% | SPY +nan% | MACRO: rate hike, war"
       },
       "news_scan": {
-        "scanned_at": "2026-09-07 18:47:27 PST",
-        "gap_days": 2,
+        "scanned_at": "2026-09-08 17:19:47 PST",
+        "gap_days": 3,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "neutral",
-        "spx_sentiment": "bearish",
+        "spx_sentiment": "neutral",
         "keywords_found": [],
-        "spy_keywords": [],
-        "spx_keywords": [
-          "loss widens"
+        "spy_keywords": [
+          "surge",
+          "jumps",
+          "falls",
+          "drops"
         ],
+        "spx_keywords": [],
         "decision": "sell",
         "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
         "raw_headlines": {
@@ -1265,28 +1268,28 @@
             "Nvidia Barely Moved. These 2 AI Connectivity Stocks Jumped More Than 7%"
           ],
           "spy": [
-            "IBB Just Beat the S&P 500 by 22 Points in Three Months. Are You Late to the Party?",
-            "Super Micro Has Gained 35% in 2026. What Would It Take to Get SMCI Stock Up to $50?",
-            "Microsoft Is Close to a New All-Time High. This Number Will Determine If It Keeps Climbing",
-            "Which Telecom Stock Has Dominated in 2026: AT&T, Verizon, or T-Mobile? (It\u2019s Not Even Close)",
-            "Roblox Has Collapsed 47% This Year: Is It Time to Switch to Take-Two or GameStop?",
-            "Tesla Says This Time Is Different. Wall Street Is Split on Whether to Believe It",
-            "Which Solar Stock Has Dominated in 2026: SolarEdge, Enphase Energy, or First Solar?",
-            "XLU\u2019s AI Power Story Crumbles as Texas Freezes Data-Center Demand",
-            "Freeport-McMoRan Has Ripped 44% in 2026. What Would It Take to Get FCX Stock Up to $100?",
-            "Which Defensive Stock Has Dominated in 2026: Coca-Cola, Johnson & Johnson, or Procter & Gamble?"
+            "Amgen Falls 10% as Novartis Trial Failure Clouds a Cholesterol Drug Class; NVS Stock Drops 14%",
+            "Prediction: This ETF Will Beat the SPY Through 2027 (Not the QQQ!)",
+            "Enphase Energy Rises 5% as Solid-State Transformer Modules Enter Texas Production, SolarEdge Jumps 6%",
+            "AMC Falls 5%, Robinhood Barely Budges: Is the Tokenization Bounce Already Over?",
+            "SK Hynix Jumps 7% as AI Diverts Memory From Phones, Micron Holds Steady, Apple Slips",
+            "NuScale Power Spikes 13%, Oklo Climbs 7%: Is the Nuclear Selloff Finally Exhausted?",
+            "Bloom Energy Surges 8% as S&P 500 Swaps It In for Trade Desk; TTD Stock Slips 2%",
+            "Qualcomm Rises 5% on Multi-Generation Amazon AI Silicon Deal; Broadcom Ticks Up, Amazon Holds Flat",
+            "Nebius Rises 6% as Palantir Names It Preferred Sovereign AI Partner; Palantir Stock Slips",
+            "Canadian Tariffs Hit $20B in U.S. Imports"
           ],
           "spx": [
-            "Inflation data, Oracle earnings, and an energy supply crunch: What to watch this week",
-            "IBB Just Beat the S&P 500 by 22 Points in Three Months. Are You Late to the Party?",
-            "Philips Expands Women's Health Ultrasound Portfolio With New Transducer",
-            "Which Telecom Stock Has Dominated in 2026: AT&T, Verizon, or T-Mobile? (It\u2019s Not Even Close)",
-            "Berkshire Hathaway B (BRK.B) Down 3% Since Last Earnings Report: Can It Rebound?",
-            "What's Wrong With PepsiCo Stock?",
-            "Jabil Rises 36.2% Year to Date: Should You Buy the Stock?",
-            "Onfolio Q2 Loss Widens Y/Y as Revenues Fall & Cash Remains Tight",
-            "These 2 AI Power Stocks Jumped While the S&P 500 Fell",
-            "Everyone Is Watching Nvidia. But This Memory Stock Could Be the Next AI Winner"
+            "The stock market's hot streak hints at more good times ahead",
+            "Bitcoin analyst spots 2015 signal that preceded 9,800% rally",
+            "Prediction: This ETF Will Beat the SPY Through 2027 (Not the QQQ!)",
+            "Howmet Rises 26.5% Year to Date: Should Investors Buy the Stock Now?",
+            "How Far Could RKLB Stock Fall In The Next Shock?",
+            "Update: US Equity Indexes Fall as Strikes on Saudi Arabian Energy Sites Send Crude Oil Higher",
+            "Is Alphabet Stock Undervalued?",
+            "GE\u2019s $12 Billion Bet on the Unsexy Industry SpaceX Is Trying to Disrupt",
+            "It\u2019s Fourth Down. Will Stocks Go for the Win or a Tie?",
+            "Everything to Know About the Boeing Jet That Overshot a Miami Runway"
           ]
         }
       },
@@ -1332,54 +1335,60 @@
         "auto_note": "TSLA PUT | $-22.29 (-5.92%) | dollar_loser_1 | Strike $340.0 exp 2026-09-09 (4DTE) | IV 32.4% | SPY +nan% | MACRO: rate hike, war"
       },
       "news_scan": {
-        "scanned_at": "2026-09-07 18:47:27 PST",
-        "gap_days": 2,
+        "scanned_at": "2026-09-08 17:19:47 PST",
+        "gap_days": 3,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "neutral",
-        "spx_sentiment": "bearish",
-        "keywords_found": [],
-        "spy_keywords": [],
-        "spx_keywords": [
-          "loss widens"
+        "spx_sentiment": "neutral",
+        "keywords_found": [
+          "jumps",
+          "falls"
         ],
+        "spy_keywords": [
+          "surge",
+          "jumps",
+          "falls",
+          "drops"
+        ],
+        "spx_keywords": [],
         "decision": "sell",
         "decision_reason": "no confirmation for PUT thesis \u2014 sell at open",
         "raw_headlines": {
           "ticker": [
-            "Is Tesla Stock Under $360 a Share an Obvious Buy in September?",
-            "Billionaire has 5-word response to Elon Musk's Tesla chart",
-            "Elon Musk Owns 28% of Tesla, a Stake Worth Nearly $350 Billion. Here's Why His Ownership Level Matters for Shareholders.",
-            "Tesla Plus SpaceX Could Become a \u2018Must-Have\u2019 Investment, Ross Gerber Says",
-            "Tesla Stock Is Tumbling -- Robotaxi Hopes Hit a Major Roadblock",
-            "Tesla Says This Time Is Different. Wall Street Is Split on Whether to Believe It",
-            "Cathie Wood Has Stuck With Tesla Through Repeated Missed Robotaxi Deadlines. Here's Why She's Still Buying.",
-            "OpenAI, Anthropic IPOs Could Spark a Selloff in These Struggling Stocks \u2014 IBM, Tesla, AppLovin Among Names at Risk",
-            "Tesla vs SpaceX: Elon Musk\u2019s Two Companies Are Chasing the Same AI Prize. Only One Is Positioned to Win It",
-            "Tesla Wants to Be Seen as an AI Company"
+            "Intel Jumps 10% as Analyst Says Musk\u2019s Terafab Could Give Foundry Much-Needed Scale",
+            "Tesla Jumps as Slovenia Opens Europe's Sixth FSD Door",
+            "EXCLUSIVE: Anthropic IPO Could Be \u2018Heavily Oversubscribed,\u2019 IPO Adviser Says",
+            "Uber Stock Falls As Wall Street Sizes Up Tesla's Cybercab Rollout",
+            "An Under the Radar Rare Earth Comment From Elon Musk Could Upend Another Industry",
+            "Uber Technologies Poised to Benefit From Long-Term Trend for Autonomous Vehicles, Wedbush Says",
+            "Can Tesla Overcome Mixed August Registration Trends Across Europe?",
+            "Amazon Stock Falls as Inquiry Into Fatal Miami Plane Crash Ramps Up",
+            "Is Tesla's Cybercab Certification Facing a Regulatory Roadblock?",
+            "Most Drivers Are Overpaying. Lemonade CEO Says Two-Thirds Subsidize the Highest-Mileage Third."
           ],
           "spy": [
-            "IBB Just Beat the S&P 500 by 22 Points in Three Months. Are You Late to the Party?",
-            "Super Micro Has Gained 35% in 2026. What Would It Take to Get SMCI Stock Up to $50?",
-            "Microsoft Is Close to a New All-Time High. This Number Will Determine If It Keeps Climbing",
-            "Which Telecom Stock Has Dominated in 2026: AT&T, Verizon, or T-Mobile? (It\u2019s Not Even Close)",
-            "Roblox Has Collapsed 47% This Year: Is It Time to Switch to Take-Two or GameStop?",
-            "Tesla Says This Time Is Different. Wall Street Is Split on Whether to Believe It",
-            "Which Solar Stock Has Dominated in 2026: SolarEdge, Enphase Energy, or First Solar?",
-            "XLU\u2019s AI Power Story Crumbles as Texas Freezes Data-Center Demand",
-            "Freeport-McMoRan Has Ripped 44% in 2026. What Would It Take to Get FCX Stock Up to $100?",
-            "Which Defensive Stock Has Dominated in 2026: Coca-Cola, Johnson & Johnson, or Procter & Gamble?"
+            "Amgen Falls 10% as Novartis Trial Failure Clouds a Cholesterol Drug Class; NVS Stock Drops 14%",
+            "Prediction: This ETF Will Beat the SPY Through 2027 (Not the QQQ!)",
+            "Enphase Energy Rises 5% as Solid-State Transformer Modules Enter Texas Production, SolarEdge Jumps 6%",
+            "AMC Falls 5%, Robinhood Barely Budges: Is the Tokenization Bounce Already Over?",
+            "SK Hynix Jumps 7% as AI Diverts Memory From Phones, Micron Holds Steady, Apple Slips",
+            "NuScale Power Spikes 13%, Oklo Climbs 7%: Is the Nuclear Selloff Finally Exhausted?",
+            "Bloom Energy Surges 8% as S&P 500 Swaps It In for Trade Desk; TTD Stock Slips 2%",
+            "Qualcomm Rises 5% on Multi-Generation Amazon AI Silicon Deal; Broadcom Ticks Up, Amazon Holds Flat",
+            "Nebius Rises 6% as Palantir Names It Preferred Sovereign AI Partner; Palantir Stock Slips",
+            "Canadian Tariffs Hit $20B in U.S. Imports"
           ],
           "spx": [
-            "Inflation data, Oracle earnings, and an energy supply crunch: What to watch this week",
-            "IBB Just Beat the S&P 500 by 22 Points in Three Months. Are You Late to the Party?",
-            "Philips Expands Women's Health Ultrasound Portfolio With New Transducer",
-            "Which Telecom Stock Has Dominated in 2026: AT&T, Verizon, or T-Mobile? (It\u2019s Not Even Close)",
-            "Berkshire Hathaway B (BRK.B) Down 3% Since Last Earnings Report: Can It Rebound?",
-            "What's Wrong With PepsiCo Stock?",
-            "Jabil Rises 36.2% Year to Date: Should You Buy the Stock?",
-            "Onfolio Q2 Loss Widens Y/Y as Revenues Fall & Cash Remains Tight",
-            "These 2 AI Power Stocks Jumped While the S&P 500 Fell",
-            "Everyone Is Watching Nvidia. But This Memory Stock Could Be the Next AI Winner"
+            "The stock market's hot streak hints at more good times ahead",
+            "Bitcoin analyst spots 2015 signal that preceded 9,800% rally",
+            "Prediction: This ETF Will Beat the SPY Through 2027 (Not the QQQ!)",
+            "Howmet Rises 26.5% Year to Date: Should Investors Buy the Stock Now?",
+            "How Far Could RKLB Stock Fall In The Next Shock?",
+            "Update: US Equity Indexes Fall as Strikes on Saudi Arabian Energy Sites Send Crude Oil Higher",
+            "Is Alphabet Stock Undervalued?",
+            "GE\u2019s $12 Billion Bet on the Unsexy Industry SpaceX Is Trying to Disrupt",
+            "It\u2019s Fourth Down. Will Stocks Go for the Win or a Tie?",
+            "Everything to Know About the Boeing Jet That Overshot a Miami Runway"
           ]
         }
       },
