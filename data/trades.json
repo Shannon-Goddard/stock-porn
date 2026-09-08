@@ -1248,7 +1248,7 @@
         "auto_note": "ALAB CALL | $+27.58 (+9.75%) | dollar_gainer_1 | Strike $390.0 exp 2026-09-11 (6DTE) | IV 88.2% | SPY +nan% | MACRO: rate hike, war"
       },
       "news_scan": {
-        "scanned_at": "2026-09-08 17:19:47 PST",
+        "scanned_at": "2026-09-08 17:57:57 PST",
         "gap_days": 3,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "neutral",
@@ -1260,7 +1260,10 @@
           "falls",
           "drops"
         ],
-        "spx_keywords": [],
+        "spx_keywords": [
+          "strong earnings",
+          "tumbles"
+        ],
         "decision": "sell",
         "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
         "raw_headlines": {
@@ -1281,15 +1284,15 @@
           ],
           "spx": [
             "The stock market's hot streak hints at more good times ahead",
+            "Forget Occidental Petroleum. Buy This Pipeline Stock in September Instead.",
+            "Dow Tumbles as Middle East Tensions Send Oil Prices Higher",
+            "HSBC Hikes S&P 500\u2019s 2026 Price Target, Sees About 5% More Upside On Strong Earnings",
             "Bitcoin analyst spots 2015 signal that preceded 9,800% rally",
+            "Is AbbVie Stock Too Reliant On Skyrizi?",
+            "GinsGlobal: ITEK up 13% YTD as AI, cybersecurity and defence tech drive rotation",
             "Prediction: This ETF Will Beat the SPY Through 2027 (Not the QQQ!)",
             "Howmet Rises 26.5% Year to Date: Should Investors Buy the Stock Now?",
-            "How Far Could RKLB Stock Fall In The Next Shock?",
-            "Update: US Equity Indexes Fall as Strikes on Saudi Arabian Energy Sites Send Crude Oil Higher",
-            "Is Alphabet Stock Undervalued?",
-            "GE\u2019s $12 Billion Bet on the Unsexy Industry SpaceX Is Trying to Disrupt",
-            "It\u2019s Fourth Down. Will Stocks Go for the Win or a Tie?",
-            "Everything to Know About the Boeing Jet That Overshot a Miami Runway"
+            "How Far Could RKLB Stock Fall In The Next Shock?"
           ]
         }
       },
@@ -1335,12 +1338,13 @@
         "auto_note": "TSLA PUT | $-22.29 (-5.92%) | dollar_loser_1 | Strike $340.0 exp 2026-09-09 (4DTE) | IV 32.4% | SPY +nan% | MACRO: rate hike, war"
       },
       "news_scan": {
-        "scanned_at": "2026-09-08 17:19:47 PST",
+        "scanned_at": "2026-09-08 17:57:57 PST",
         "gap_days": 3,
-        "ticker_sentiment": "neutral",
+        "ticker_sentiment": "bullish",
         "spy_sentiment": "neutral",
         "spx_sentiment": "neutral",
         "keywords_found": [
+          "upgrade",
           "jumps",
           "falls"
         ],
@@ -1350,11 +1354,16 @@
           "falls",
           "drops"
         ],
-        "spx_keywords": [],
+        "spx_keywords": [
+          "strong earnings",
+          "tumbles"
+        ],
         "decision": "sell",
         "decision_reason": "no confirmation for PUT thesis \u2014 sell at open",
         "raw_headlines": {
           "ticker": [
+            "Intel Stock Jumps on Major Analyst Upgrade",
+            "Tesla Stock Rises. Musk's Robotaxi Bet Gets a New Vehicle",
             "Intel Jumps 10% as Analyst Says Musk\u2019s Terafab Could Give Foundry Much-Needed Scale",
             "Tesla Jumps as Slovenia Opens Europe's Sixth FSD Door",
             "EXCLUSIVE: Anthropic IPO Could Be \u2018Heavily Oversubscribed,\u2019 IPO Adviser Says",
@@ -1362,9 +1371,7 @@
             "An Under the Radar Rare Earth Comment From Elon Musk Could Upend Another Industry",
             "Uber Technologies Poised to Benefit From Long-Term Trend for Autonomous Vehicles, Wedbush Says",
             "Can Tesla Overcome Mixed August Registration Trends Across Europe?",
-            "Amazon Stock Falls as Inquiry Into Fatal Miami Plane Crash Ramps Up",
-            "Is Tesla's Cybercab Certification Facing a Regulatory Roadblock?",
-            "Most Drivers Are Overpaying. Lemonade CEO Says Two-Thirds Subsidize the Highest-Mileage Third."
+            "Amazon Stock Falls as Inquiry Into Fatal Miami Plane Crash Ramps Up"
           ],
           "spy": [
             "Amgen Falls 10% as Novartis Trial Failure Clouds a Cholesterol Drug Class; NVS Stock Drops 14%",
@@ -1380,15 +1387,15 @@
           ],
           "spx": [
             "The stock market's hot streak hints at more good times ahead",
+            "Forget Occidental Petroleum. Buy This Pipeline Stock in September Instead.",
+            "Dow Tumbles as Middle East Tensions Send Oil Prices Higher",
+            "HSBC Hikes S&P 500\u2019s 2026 Price Target, Sees About 5% More Upside On Strong Earnings",
             "Bitcoin analyst spots 2015 signal that preceded 9,800% rally",
+            "Is AbbVie Stock Too Reliant On Skyrizi?",
+            "GinsGlobal: ITEK up 13% YTD as AI, cybersecurity and defence tech drive rotation",
             "Prediction: This ETF Will Beat the SPY Through 2027 (Not the QQQ!)",
             "Howmet Rises 26.5% Year to Date: Should Investors Buy the Stock Now?",
-            "How Far Could RKLB Stock Fall In The Next Shock?",
-            "Update: US Equity Indexes Fall as Strikes on Saudi Arabian Energy Sites Send Crude Oil Higher",
-            "Is Alphabet Stock Undervalued?",
-            "GE\u2019s $12 Billion Bet on the Unsexy Industry SpaceX Is Trying to Disrupt",
-            "It\u2019s Fourth Down. Will Stocks Go for the Win or a Tie?",
-            "Everything to Know About the Boeing Jet That Overshot a Miami Runway"
+            "How Far Could RKLB Stock Fall In The Next Shock?"
           ]
         }
       },
