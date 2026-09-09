@@ -1248,51 +1248,47 @@
         "auto_note": "ALAB CALL | $+27.58 (+9.75%) | dollar_gainer_1 | Strike $390.0 exp 2026-09-11 (6DTE) | IV 88.2% | SPY +nan% | MACRO: rate hike, war"
       },
       "news_scan": {
-        "scanned_at": "2026-09-08 17:57:57 PST",
-        "gap_days": 3,
+        "scanned_at": "2026-09-09 17:12:33 PST",
+        "gap_days": 4,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "neutral",
-        "spx_sentiment": "neutral",
+        "spy_sentiment": "bearish",
+        "spx_sentiment": "bullish",
         "keywords_found": [],
         "spy_keywords": [
-          "surge",
-          "jumps",
-          "falls",
           "drops"
         ],
         "spx_keywords": [
-          "strong earnings",
-          "tumbles"
+          "surge"
         ],
         "decision": "sell",
         "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
         "raw_headlines": {
           "ticker": [
-            "Nvidia Barely Moved. These 2 AI Connectivity Stocks Jumped More Than 7%"
+            "The Next Winners May Not Be the Stocks You Expect"
           ],
           "spy": [
-            "Amgen Falls 10% as Novartis Trial Failure Clouds a Cholesterol Drug Class; NVS Stock Drops 14%",
-            "Prediction: This ETF Will Beat the SPY Through 2027 (Not the QQQ!)",
-            "Enphase Energy Rises 5% as Solid-State Transformer Modules Enter Texas Production, SolarEdge Jumps 6%",
-            "AMC Falls 5%, Robinhood Barely Budges: Is the Tokenization Bounce Already Over?",
-            "SK Hynix Jumps 7% as AI Diverts Memory From Phones, Micron Holds Steady, Apple Slips",
-            "NuScale Power Spikes 13%, Oklo Climbs 7%: Is the Nuclear Selloff Finally Exhausted?",
-            "Bloom Energy Surges 8% as S&P 500 Swaps It In for Trade Desk; TTD Stock Slips 2%",
-            "Qualcomm Rises 5% on Multi-Generation Amazon AI Silicon Deal; Broadcom Ticks Up, Amazon Holds Flat",
-            "Nebius Rises 6% as Palantir Names It Preferred Sovereign AI Partner; Palantir Stock Slips",
-            "Canadian Tariffs Hit $20B in U.S. Imports"
+            "Quantum Stocks Fall as Rate-Hike Odds Climb: IonQ Sinks 4%, Rigetti and D-Wave Pull Back",
+            "SpaceX Sinks 5% as $47.2B Insider Share Unlock Hits the Tape, AST SpaceMobile Drops 4%, Rocket Lab Slips 2%",
+            "Comcast Sinks 8%, Charter Drops 6%, T-Mobile Slips 3%: Is a Broadband Repricing Underway?",
+            "Jim Cramer Called the Magnificent Seven Cheap but the Three Building AI Factories Are All Trailing the S&P",
+            "GameStop Rises 4% as Collectibles Sales Jump 57% and a Director Buys $1M",
+            "SanDisk at $1,740: The Price of Momentum.",
+            "UnitedHealth Slips 3% as TPG Buys Into Florida WellMed Clinics Ahead of Guidance Reaffirmation",
+            "\u201cBeing Too Prudent Is Actually Reckless\u201d: Cramer as the Safe Bond Fund Loses Money Over 5 Years",
+            "Should You Grab Nebius In Anticipation of Full Capacity Pricing?",
+            "Apple Is Raising Streaming Prices and the Next iPhone Could Cost You $500 More"
           ],
           "spx": [
-            "The stock market's hot streak hints at more good times ahead",
-            "Forget Occidental Petroleum. Buy This Pipeline Stock in September Instead.",
-            "Dow Tumbles as Middle East Tensions Send Oil Prices Higher",
-            "HSBC Hikes S&P 500\u2019s 2026 Price Target, Sees About 5% More Upside On Strong Earnings",
-            "Bitcoin analyst spots 2015 signal that preceded 9,800% rally",
-            "Is AbbVie Stock Too Reliant On Skyrizi?",
-            "GinsGlobal: ITEK up 13% YTD as AI, cybersecurity and defence tech drive rotation",
-            "Prediction: This ETF Will Beat the SPY Through 2027 (Not the QQQ!)",
-            "Howmet Rises 26.5% Year to Date: Should Investors Buy the Stock Now?",
-            "How Far Could RKLB Stock Fall In The Next Shock?"
+            "Why Nike and Lululemon are struggling: 'A lot of surface area to defend'",
+            "Stock Market Midday, Sept. 9: Stocks Slide as Oil Surges Past $100, While Meta Gains",
+            "If You Make Just 1 Investing Move Right Now, History Says It Should Be This",
+            "US Equity Indexes Decline as Crude Oil Tops $100 Mark While Treasury Yields Jump",
+            "Stock Market Indexes Drop, But One Megacap Gained 6.3%",
+            "Wall St slides as oil tops $100, yields hit 2023 high; Apple down before Ternus' first launch event as CEO",
+            "Why Does AT&T Stock Still Trade Like It Is Shrinking?",
+            "3 Big Reasons to Love Progressive (PGR)",
+            "Here's Why You Should Retain DaVita Stock in Your Portfolio for Now",
+            "Should You Invest in an S&P 500 ETF When the Market Is This Close to All-Time Highs? The Answer Is Surprisingly Simple."
           ]
         }
       },
@@ -1338,64 +1334,56 @@
         "auto_note": "TSLA PUT | $-22.29 (-5.92%) | dollar_loser_1 | Strike $340.0 exp 2026-09-09 (4DTE) | IV 32.4% | SPY +nan% | MACRO: rate hike, war"
       },
       "news_scan": {
-        "scanned_at": "2026-09-08 17:57:57 PST",
-        "gap_days": 3,
-        "ticker_sentiment": "bullish",
-        "spy_sentiment": "neutral",
-        "spx_sentiment": "neutral",
-        "keywords_found": [
-          "upgrade",
-          "jumps",
-          "falls"
-        ],
+        "scanned_at": "2026-09-09 17:12:33 PST",
+        "gap_days": 4,
+        "ticker_sentiment": "neutral",
+        "spy_sentiment": "bearish",
+        "spx_sentiment": "bullish",
+        "keywords_found": [],
         "spy_keywords": [
-          "surge",
-          "jumps",
-          "falls",
           "drops"
         ],
         "spx_keywords": [
-          "strong earnings",
-          "tumbles"
+          "surge"
         ],
-        "decision": "sell",
-        "decision_reason": "no confirmation for PUT thesis \u2014 sell at open",
+        "decision": "hold",
+        "decision_reason": "neutral keywords confirmed PUT thesis",
         "raw_headlines": {
           "ticker": [
-            "Intel Stock Jumps on Major Analyst Upgrade",
-            "Tesla Stock Rises. Musk's Robotaxi Bet Gets a New Vehicle",
-            "Intel Jumps 10% as Analyst Says Musk\u2019s Terafab Could Give Foundry Much-Needed Scale",
-            "Tesla Jumps as Slovenia Opens Europe's Sixth FSD Door",
-            "EXCLUSIVE: Anthropic IPO Could Be \u2018Heavily Oversubscribed,\u2019 IPO Adviser Says",
-            "Uber Stock Falls As Wall Street Sizes Up Tesla's Cybercab Rollout",
-            "An Under the Radar Rare Earth Comment From Elon Musk Could Upend Another Industry",
-            "Uber Technologies Poised to Benefit From Long-Term Trend for Autonomous Vehicles, Wedbush Says",
-            "Can Tesla Overcome Mixed August Registration Trends Across Europe?",
-            "Amazon Stock Falls as Inquiry Into Fatal Miami Plane Crash Ramps Up"
+            "Bond yields tick higher as oil tops $100: AlphaCheck",
+            "45 Tesla Cybercabs Are Now Roaming Austin. Here's What That Means for the Robotaxi Business Wall Street Has Been Waiting For.",
+            "Entrepreneurs could hold the key to Tesla's Cybercab plans",
+            "Here's Exactly What Drove BYD's 30% Spike in Profits -- Is It Still a Smart Buy?",
+            "Seagate Technology and Western Union have been highlighted as Zacks Bull and Bear of the Day",
+            "Tesla\u2019s Cybercab Could Be Heading to Europe Soon. A Crucial EU Vote Is the Key.",
+            "Ford Finally Runs Out Of EVs",
+            "Does Slovenia's FSD Approval Bring Tesla Closer to EU-Wide Approval?",
+            "Michael Dell passes Jeff Bezos to become world's third-richest person",
+            "Cathie Wood Grows Robinhood Stake; Sheds More AMD, Palantir"
           ],
           "spy": [
-            "Amgen Falls 10% as Novartis Trial Failure Clouds a Cholesterol Drug Class; NVS Stock Drops 14%",
-            "Prediction: This ETF Will Beat the SPY Through 2027 (Not the QQQ!)",
-            "Enphase Energy Rises 5% as Solid-State Transformer Modules Enter Texas Production, SolarEdge Jumps 6%",
-            "AMC Falls 5%, Robinhood Barely Budges: Is the Tokenization Bounce Already Over?",
-            "SK Hynix Jumps 7% as AI Diverts Memory From Phones, Micron Holds Steady, Apple Slips",
-            "NuScale Power Spikes 13%, Oklo Climbs 7%: Is the Nuclear Selloff Finally Exhausted?",
-            "Bloom Energy Surges 8% as S&P 500 Swaps It In for Trade Desk; TTD Stock Slips 2%",
-            "Qualcomm Rises 5% on Multi-Generation Amazon AI Silicon Deal; Broadcom Ticks Up, Amazon Holds Flat",
-            "Nebius Rises 6% as Palantir Names It Preferred Sovereign AI Partner; Palantir Stock Slips",
-            "Canadian Tariffs Hit $20B in U.S. Imports"
+            "Quantum Stocks Fall as Rate-Hike Odds Climb: IonQ Sinks 4%, Rigetti and D-Wave Pull Back",
+            "SpaceX Sinks 5% as $47.2B Insider Share Unlock Hits the Tape, AST SpaceMobile Drops 4%, Rocket Lab Slips 2%",
+            "Comcast Sinks 8%, Charter Drops 6%, T-Mobile Slips 3%: Is a Broadband Repricing Underway?",
+            "Jim Cramer Called the Magnificent Seven Cheap but the Three Building AI Factories Are All Trailing the S&P",
+            "GameStop Rises 4% as Collectibles Sales Jump 57% and a Director Buys $1M",
+            "SanDisk at $1,740: The Price of Momentum.",
+            "UnitedHealth Slips 3% as TPG Buys Into Florida WellMed Clinics Ahead of Guidance Reaffirmation",
+            "\u201cBeing Too Prudent Is Actually Reckless\u201d: Cramer as the Safe Bond Fund Loses Money Over 5 Years",
+            "Should You Grab Nebius In Anticipation of Full Capacity Pricing?",
+            "Apple Is Raising Streaming Prices and the Next iPhone Could Cost You $500 More"
           ],
           "spx": [
-            "The stock market's hot streak hints at more good times ahead",
-            "Forget Occidental Petroleum. Buy This Pipeline Stock in September Instead.",
-            "Dow Tumbles as Middle East Tensions Send Oil Prices Higher",
-            "HSBC Hikes S&P 500\u2019s 2026 Price Target, Sees About 5% More Upside On Strong Earnings",
-            "Bitcoin analyst spots 2015 signal that preceded 9,800% rally",
-            "Is AbbVie Stock Too Reliant On Skyrizi?",
-            "GinsGlobal: ITEK up 13% YTD as AI, cybersecurity and defence tech drive rotation",
-            "Prediction: This ETF Will Beat the SPY Through 2027 (Not the QQQ!)",
-            "Howmet Rises 26.5% Year to Date: Should Investors Buy the Stock Now?",
-            "How Far Could RKLB Stock Fall In The Next Shock?"
+            "Why Nike and Lululemon are struggling: 'A lot of surface area to defend'",
+            "Stock Market Midday, Sept. 9: Stocks Slide as Oil Surges Past $100, While Meta Gains",
+            "If You Make Just 1 Investing Move Right Now, History Says It Should Be This",
+            "US Equity Indexes Decline as Crude Oil Tops $100 Mark While Treasury Yields Jump",
+            "Stock Market Indexes Drop, But One Megacap Gained 6.3%",
+            "Wall St slides as oil tops $100, yields hit 2023 high; Apple down before Ternus' first launch event as CEO",
+            "Why Does AT&T Stock Still Trade Like It Is Shrinking?",
+            "3 Big Reasons to Love Progressive (PGR)",
+            "Here's Why You Should Retain DaVita Stock in Your Portfolio for Now",
+            "Should You Invest in an S&P 500 ETF When the Market Is This Close to All-Time Highs? The Answer Is Surprisingly Simple."
           ]
         }
       },
