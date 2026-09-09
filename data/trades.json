@@ -1248,25 +1248,31 @@
         "auto_note": "ALAB CALL | $+27.58 (+9.75%) | dollar_gainer_1 | Strike $390.0 exp 2026-09-11 (6DTE) | IV 88.2% | SPY +nan% | MACRO: rate hike, war"
       },
       "news_scan": {
-        "scanned_at": "2026-09-09 17:12:33 PST",
+        "scanned_at": "2026-09-09 17:54:06 PST",
         "gap_days": 4,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "bearish",
-        "spx_sentiment": "bullish",
+        "spx_sentiment": "neutral",
         "keywords_found": [],
         "spy_keywords": [
           "drops"
         ],
         "spx_keywords": [
-          "surge"
+          "buyback",
+          "surge",
+          "falls",
+          "drops"
         ],
         "decision": "sell",
         "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
         "raw_headlines": {
           "ticker": [
+            "ALAB Gains From Aries and Taurus Strength: Can It Beat MRVL & CRDO?",
             "The Next Winners May Not Be the Stocks You Expect"
           ],
           "spy": [
+            "SoFi Dips 3% Despite Reported Kraken Crypto Settlement Tie-Up; Affirm Drops 5%, Robinhood Holds Steady",
+            "Drone Stocks Slide as Risk-Off Sentiment Hits High-Beta Names: AeroVironment Sinks 4%, Red Cat Drops 3%, Ondas Eases",
             "Quantum Stocks Fall as Rate-Hike Odds Climb: IonQ Sinks 4%, Rigetti and D-Wave Pull Back",
             "SpaceX Sinks 5% as $47.2B Insider Share Unlock Hits the Tape, AST SpaceMobile Drops 4%, Rocket Lab Slips 2%",
             "Comcast Sinks 8%, Charter Drops 6%, T-Mobile Slips 3%: Is a Broadband Repricing Underway?",
@@ -1274,21 +1280,19 @@
             "GameStop Rises 4% as Collectibles Sales Jump 57% and a Director Buys $1M",
             "SanDisk at $1,740: The Price of Momentum.",
             "UnitedHealth Slips 3% as TPG Buys Into Florida WellMed Clinics Ahead of Guidance Reaffirmation",
-            "\u201cBeing Too Prudent Is Actually Reckless\u201d: Cramer as the Safe Bond Fund Loses Money Over 5 Years",
-            "Should You Grab Nebius In Anticipation of Full Capacity Pricing?",
-            "Apple Is Raising Streaming Prices and the Next iPhone Could Cost You $500 More"
+            "\u201cBeing Too Prudent Is Actually Reckless\u201d: Cramer as the Safe Bond Fund Loses Money Over 5 Years"
           ],
           "spx": [
             "Why Nike and Lululemon are struggling: 'A lot of surface area to defend'",
-            "Stock Market Midday, Sept. 9: Stocks Slide as Oil Surges Past $100, While Meta Gains",
-            "If You Make Just 1 Investing Move Right Now, History Says It Should Be This",
-            "US Equity Indexes Decline as Crude Oil Tops $100 Mark While Treasury Yields Jump",
-            "Stock Market Indexes Drop, But One Megacap Gained 6.3%",
-            "Wall St slides as oil tops $100, yields hit 2023 high; Apple down before Ternus' first launch event as CEO",
-            "Why Does AT&T Stock Still Trade Like It Is Shrinking?",
-            "3 Big Reasons to Love Progressive (PGR)",
-            "Here's Why You Should Retain DaVita Stock in Your Portfolio for Now",
-            "Should You Invest in an S&P 500 ETF When the Market Is This Close to All-Time Highs? The Answer Is Surprisingly Simple."
+            "Is Netflix a Good Buy? After 10 Years of Covering NFLX, Here's My Honest Answer.",
+            "Axon (AXON) Was the S&P\u2019s Biggest Loser \u2014 and it\u2019s Not Entirely the Business\u2019s Fault",
+            "Update: US Equity Indexes Drop as Crude Oil Tops $100 Mark Amid Worsening Iran War, Yields Surge After Treasury Triples Government-Debt Buybacks",
+            "Drone Stocks Slide as Risk-Off Sentiment Hits High-Beta Names: AeroVironment Sinks 4%, Red Cat Drops 3%, Ondas Eases",
+            "Here's Why You Should Retain FactSet Stock in Your Portfolio Now",
+            "Dow Hits 1-Month Low as Oil Surges Above $100",
+            "Stocks making big moves yesterday: ProPetro, Bloom Energy, ABM, Accenture, and Cable One",
+            "Expion Falls 35% in Six Months: Should You Buy the Dip or Wait?",
+            "Investors: Sept. 16 Will Be a Critical Day for the Stock Market. Here's What You Need to Know."
           ]
         }
       },
@@ -1334,23 +1338,27 @@
         "auto_note": "TSLA PUT | $-22.29 (-5.92%) | dollar_loser_1 | Strike $340.0 exp 2026-09-09 (4DTE) | IV 32.4% | SPY +nan% | MACRO: rate hike, war"
       },
       "news_scan": {
-        "scanned_at": "2026-09-09 17:12:33 PST",
+        "scanned_at": "2026-09-09 17:54:06 PST",
         "gap_days": 4,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "bearish",
-        "spx_sentiment": "bullish",
+        "spx_sentiment": "neutral",
         "keywords_found": [],
         "spy_keywords": [
           "drops"
         ],
         "spx_keywords": [
-          "surge"
+          "buyback",
+          "surge",
+          "falls",
+          "drops"
         ],
         "decision": "hold",
         "decision_reason": "neutral keywords confirmed PUT thesis",
         "raw_headlines": {
           "ticker": [
             "Bond yields tick higher as oil tops $100: AlphaCheck",
+            "Defiance Politely Asks the SEC to Let It Sell An ETF 8-Ball",
             "45 Tesla Cybercabs Are Now Roaming Austin. Here's What That Means for the Robotaxi Business Wall Street Has Been Waiting For.",
             "Entrepreneurs could hold the key to Tesla's Cybercab plans",
             "Here's Exactly What Drove BYD's 30% Spike in Profits -- Is It Still a Smart Buy?",
@@ -1358,10 +1366,11 @@
             "Tesla\u2019s Cybercab Could Be Heading to Europe Soon. A Crucial EU Vote Is the Key.",
             "Ford Finally Runs Out Of EVs",
             "Does Slovenia's FSD Approval Bring Tesla Closer to EU-Wide Approval?",
-            "Michael Dell passes Jeff Bezos to become world's third-richest person",
-            "Cathie Wood Grows Robinhood Stake; Sheds More AMD, Palantir"
+            "Michael Dell passes Jeff Bezos to become world's third-richest person"
           ],
           "spy": [
+            "SoFi Dips 3% Despite Reported Kraken Crypto Settlement Tie-Up; Affirm Drops 5%, Robinhood Holds Steady",
+            "Drone Stocks Slide as Risk-Off Sentiment Hits High-Beta Names: AeroVironment Sinks 4%, Red Cat Drops 3%, Ondas Eases",
             "Quantum Stocks Fall as Rate-Hike Odds Climb: IonQ Sinks 4%, Rigetti and D-Wave Pull Back",
             "SpaceX Sinks 5% as $47.2B Insider Share Unlock Hits the Tape, AST SpaceMobile Drops 4%, Rocket Lab Slips 2%",
             "Comcast Sinks 8%, Charter Drops 6%, T-Mobile Slips 3%: Is a Broadband Repricing Underway?",
@@ -1369,21 +1378,19 @@
             "GameStop Rises 4% as Collectibles Sales Jump 57% and a Director Buys $1M",
             "SanDisk at $1,740: The Price of Momentum.",
             "UnitedHealth Slips 3% as TPG Buys Into Florida WellMed Clinics Ahead of Guidance Reaffirmation",
-            "\u201cBeing Too Prudent Is Actually Reckless\u201d: Cramer as the Safe Bond Fund Loses Money Over 5 Years",
-            "Should You Grab Nebius In Anticipation of Full Capacity Pricing?",
-            "Apple Is Raising Streaming Prices and the Next iPhone Could Cost You $500 More"
+            "\u201cBeing Too Prudent Is Actually Reckless\u201d: Cramer as the Safe Bond Fund Loses Money Over 5 Years"
           ],
           "spx": [
             "Why Nike and Lululemon are struggling: 'A lot of surface area to defend'",
-            "Stock Market Midday, Sept. 9: Stocks Slide as Oil Surges Past $100, While Meta Gains",
-            "If You Make Just 1 Investing Move Right Now, History Says It Should Be This",
-            "US Equity Indexes Decline as Crude Oil Tops $100 Mark While Treasury Yields Jump",
-            "Stock Market Indexes Drop, But One Megacap Gained 6.3%",
-            "Wall St slides as oil tops $100, yields hit 2023 high; Apple down before Ternus' first launch event as CEO",
-            "Why Does AT&T Stock Still Trade Like It Is Shrinking?",
-            "3 Big Reasons to Love Progressive (PGR)",
-            "Here's Why You Should Retain DaVita Stock in Your Portfolio for Now",
-            "Should You Invest in an S&P 500 ETF When the Market Is This Close to All-Time Highs? The Answer Is Surprisingly Simple."
+            "Is Netflix a Good Buy? After 10 Years of Covering NFLX, Here's My Honest Answer.",
+            "Axon (AXON) Was the S&P\u2019s Biggest Loser \u2014 and it\u2019s Not Entirely the Business\u2019s Fault",
+            "Update: US Equity Indexes Drop as Crude Oil Tops $100 Mark Amid Worsening Iran War, Yields Surge After Treasury Triples Government-Debt Buybacks",
+            "Drone Stocks Slide as Risk-Off Sentiment Hits High-Beta Names: AeroVironment Sinks 4%, Red Cat Drops 3%, Ondas Eases",
+            "Here's Why You Should Retain FactSet Stock in Your Portfolio Now",
+            "Dow Hits 1-Month Low as Oil Surges Above $100",
+            "Stocks making big moves yesterday: ProPetro, Bloom Energy, ABM, Accenture, and Cable One",
+            "Expion Falls 35% in Six Months: Should You Buy the Dip or Wait?",
+            "Investors: Sept. 16 Will Be a Critical Day for the Stock Market. Here's What You Need to Know."
           ]
         }
       },
