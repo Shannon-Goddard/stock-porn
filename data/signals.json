@@ -1,14 +1,6 @@
 {
   "topGainers": [
     {
-      "ticker": "IONZ",
-      "name": "TIDAL TRUST II DEFI DA IONQ NEW",
-      "sector": "Unknown",
-      "price": 29.26,
-      "changePct": 1016.79,
-      "changeDollar": 26.64
-    },
-    {
       "ticker": "ASO",
       "name": "ACADEMY SPORTS & OUTDOORS INC COM",
       "sector": "Unknown",
@@ -17,110 +9,110 @@
       "changeDollar": 6.44
     },
     {
-      "ticker": "SKHU",
-      "name": "PROSHARES TR ULTRA SK HYNIX",
+      "ticker": "SKHX",
+      "name": "Leverage Shares 2X Long SK Hynix Daily ETF",
       "sector": "Unknown",
-      "price": 26.45,
-      "changePct": 14.11,
-      "changeDollar": 3.27
+      "price": 20.07,
+      "changePct": 13.9,
+      "changeDollar": 2.45
     },
     {
-      "ticker": "FBL",
-      "name": "GRANITESHARES ETF TR 2X LONG META ETF",
+      "ticker": "HELP",
+      "name": "CYBIN INC COM NEW",
       "sector": "Unknown",
-      "price": 26.4,
-      "changePct": 12.87,
-      "changeDollar": 3.01
+      "price": 13.68,
+      "changePct": 10.41,
+      "changeDollar": 1.29
     },
     {
-      "ticker": "SSL",
-      "name": "SASOL LTD SPONSORED ADR",
+      "ticker": "DDOG",
+      "name": "DATADOG INC CL A COM",
       "sector": "Unknown",
-      "price": 14.57,
-      "changePct": 9.55,
-      "changeDollar": 1.27
+      "price": 225.27,
+      "changePct": 7.15,
+      "changeDollar": 15.04
     },
     {
-      "ticker": "PLSE",
-      "name": "PULSE BIOSCIENCES INC COM",
+      "ticker": "AMBQ",
+      "name": "AMBIQ MICRO INC COMMON STOCK",
       "sector": "Unknown",
-      "price": 52.97,
-      "changePct": 8.57,
-      "changeDollar": 4.18
+      "price": 63.77,
+      "changePct": 6.96,
+      "changeDollar": 4.15
     },
     {
-      "ticker": "SPCG",
-      "name": "Tradr 2X Short SpaceX Daily ETF",
+      "ticker": "MUU",
+      "name": "DIREXION SHARES ETF TRUST DLY MU BULL 2X",
       "sector": "Unknown",
-      "price": 16.15,
-      "changePct": 7.67,
-      "changeDollar": 1.15
+      "price": 35.05,
+      "changePct": 5.51,
+      "changeDollar": 1.83
     },
     {
-      "ticker": "MXL",
-      "name": "MAXLINEAR INC COM",
+      "ticker": "MRVL",
+      "name": "MARVELL TECHNOLOGY INC COM",
       "sector": "Unknown",
-      "price": 71.49,
-      "changePct": 7.5,
-      "changeDollar": 4.99
+      "price": 235.01,
+      "changePct": 4.26,
+      "changeDollar": 9.6
     },
     {
-      "ticker": "LABX",
-      "name": "Tradr 2X Long ALAB Daily ETF",
+      "ticker": "AESI",
+      "name": "ATLAS ENERGY SOLUTIONS INC COM NEW",
       "sector": "Unknown",
-      "price": 11.32,
-      "changePct": 7.4,
-      "changeDollar": 0.78
+      "price": 14.58,
+      "changePct": 4.22,
+      "changeDollar": 0.59
     },
     {
-      "ticker": "SKHY",
-      "name": "SK HYNIX INC AMERICAN DEPOSIT",
+      "ticker": "PPLT",
+      "name": "ABRDN PLATINUM ETF TRUST PHYSCL PLATM SHS",
       "sector": "Unknown",
-      "price": 198.63,
-      "changePct": 7.05,
-      "changeDollar": 13.08
+      "price": 17.15,
+      "changePct": 4.19,
+      "changeDollar": 0.69
+    },
+    {
+      "ticker": "MTSI",
+      "name": "MACOM TECH SOLUTIONS HLDGS INC COM",
+      "sector": "Unknown",
+      "price": 286.12,
+      "changePct": 4.12,
+      "changeDollar": 11.32
     }
   ],
   "topLosers": [
     {
-      "ticker": "CASY",
-      "name": "CASEYS GEN STORES INC COM",
+      "ticker": "BRZE",
+      "name": "BRAZE INC COM CL A",
       "sector": "Unknown",
-      "price": 629.03,
-      "changePct": -14.24,
-      "changeDollar": -104.46
+      "price": 23.73,
+      "changePct": -21.71,
+      "changeDollar": -6.58
     },
     {
       "ticker": "PS",
       "name": "PERSHING SQUARE INC COMMON STOCK",
       "sector": "Unknown",
-      "price": 36.53,
-      "changePct": -11.95,
-      "changeDollar": -4.96
+      "price": 36.48,
+      "changePct": -12.08,
+      "changeDollar": -5.01
     },
     {
-      "ticker": "IONL",
-      "name": "GRANITESHARES ETF TR 2X LONG IONQ",
+      "ticker": "ASTX",
+      "name": "Tradr 2X Long ASTS Daily ETF",
       "sector": "Unknown",
-      "price": 11.79,
-      "changePct": -11.69,
-      "changeDollar": -1.56
+      "price": 11.1,
+      "changePct": -10.91,
+      "changeDollar": -1.36
     },
     {
-      "ticker": "KRMN",
-      "name": "KARMAN HLDGS INC COMMON STOCK",
+      "ticker": "CWVX",
+      "name": "Tradr 2X Long CRWV Daily ETF",
       "sector": "Unknown",
-      "price": 35.21,
-      "changePct": -11.29,
-      "changeDollar": -4.48
-    },
-    {
-      "ticker": "XE",
-      "name": "X-ENERGY INC COM CL A",
-      "sector": "Unknown",
-      "price": 17.26,
-      "changePct": -9.87,
-      "changeDollar": -1.89
+      "price": 18.59,
+      "changePct": -9.8,
+      "changeDollar": -2.02
     },
     {
       "ticker": "CRWG",
@@ -131,12 +123,36 @@
       "changeDollar": -2.36
     },
     {
-      "ticker": "CIFR",
-      "name": "CIPHER DIGITAL INC COM",
+      "ticker": "GSHD",
+      "name": "GOOSEHEAD INS INC COM CL A",
       "sector": "Unknown",
-      "price": 16.9,
-      "changePct": -8.7,
-      "changeDollar": -1.61
+      "price": 56.4,
+      "changePct": -9.5,
+      "changeDollar": -5.92
+    },
+    {
+      "ticker": "PINS",
+      "name": "PINTEREST INC CL A",
+      "sector": "Unknown",
+      "price": 18.28,
+      "changePct": -9.24,
+      "changeDollar": -1.86
+    },
+    {
+      "ticker": "FUN",
+      "name": "SIX FLAGS ENTERTAINMENT CORP COM",
+      "sector": "Unknown",
+      "price": 14.29,
+      "changePct": -9.21,
+      "changeDollar": -1.45
+    },
+    {
+      "ticker": "KVYO",
+      "name": "KLAVIYO INC COM SER A",
+      "sector": "Unknown",
+      "price": 16.27,
+      "changePct": -9.06,
+      "changeDollar": -1.62
     },
     {
       "ticker": "FLNC",
@@ -145,40 +161,32 @@
       "price": 10.12,
       "changePct": -8.33,
       "changeDollar": -0.92
-    },
-    {
-      "ticker": "LYFT",
-      "name": "LYFT INC CL A COM",
-      "sector": "Unknown",
-      "price": 14.9,
-      "changePct": -8.25,
-      "changeDollar": -1.34
-    },
-    {
-      "ticker": "FWRG",
-      "name": "FIRST WATCH RESTAURANT GROUP I COM",
-      "sector": "Unknown",
-      "price": 11.28,
-      "changePct": -8.22,
-      "changeDollar": -1.01
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "IONZ",
-      "name": "TIDAL TRUST II DEFI DA IONQ NEW",
+      "ticker": "DDOG",
+      "name": "DATADOG INC CL A COM",
       "sector": "Unknown",
-      "price": 29.26,
-      "changePct": 1016.79,
-      "changeDollar": 26.64
+      "price": 225.27,
+      "changePct": 7.15,
+      "changeDollar": 15.04
     },
     {
-      "ticker": "SKHY",
-      "name": "SK HYNIX INC AMERICAN DEPOSIT",
+      "ticker": "MTSI",
+      "name": "MACOM TECH SOLUTIONS HLDGS INC COM",
       "sector": "Unknown",
-      "price": 198.63,
-      "changePct": 7.05,
-      "changeDollar": 13.08
+      "price": 286.12,
+      "changePct": 4.12,
+      "changeDollar": 11.32
+    },
+    {
+      "ticker": "MRVL",
+      "name": "MARVELL TECHNOLOGY INC COM",
+      "sector": "Unknown",
+      "price": 235.01,
+      "changePct": 4.26,
+      "changeDollar": 9.6
     },
     {
       "ticker": "ASO",
@@ -189,46 +197,38 @@
       "changeDollar": 6.44
     },
     {
-      "ticker": "MXL",
-      "name": "MAXLINEAR INC COM",
+      "ticker": "AMBQ",
+      "name": "AMBIQ MICRO INC COMMON STOCK",
       "sector": "Unknown",
-      "price": 71.49,
-      "changePct": 7.5,
-      "changeDollar": 4.99
-    },
-    {
-      "ticker": "PLSE",
-      "name": "PULSE BIOSCIENCES INC COM",
-      "sector": "Unknown",
-      "price": 52.97,
-      "changePct": 8.57,
-      "changeDollar": 4.18
+      "price": 63.77,
+      "changePct": 6.96,
+      "changeDollar": 4.15
     }
   ],
   "dollarLosers": [
     {
-      "ticker": "CASY",
-      "name": "CASEYS GEN STORES INC COM",
+      "ticker": "BRZE",
+      "name": "BRAZE INC COM CL A",
       "sector": "Unknown",
-      "price": 629.03,
-      "changePct": -14.24,
-      "changeDollar": -104.46
+      "price": 23.73,
+      "changePct": -21.71,
+      "changeDollar": -6.58
+    },
+    {
+      "ticker": "GSHD",
+      "name": "GOOSEHEAD INS INC COM CL A",
+      "sector": "Unknown",
+      "price": 56.4,
+      "changePct": -9.5,
+      "changeDollar": -5.92
     },
     {
       "ticker": "PS",
       "name": "PERSHING SQUARE INC COMMON STOCK",
       "sector": "Unknown",
-      "price": 36.53,
-      "changePct": -11.95,
-      "changeDollar": -4.96
-    },
-    {
-      "ticker": "KRMN",
-      "name": "KARMAN HLDGS INC COMMON STOCK",
-      "sector": "Unknown",
-      "price": 35.21,
-      "changePct": -11.29,
-      "changeDollar": -4.48
+      "price": 36.48,
+      "changePct": -12.08,
+      "changeDollar": -5.01
     },
     {
       "ticker": "CRWG",
@@ -239,12 +239,12 @@
       "changeDollar": -2.36
     },
     {
-      "ticker": "XE",
-      "name": "X-ENERGY INC COM CL A",
+      "ticker": "CWVX",
+      "name": "Tradr 2X Long CRWV Daily ETF",
       "sector": "Unknown",
-      "price": 17.26,
-      "changePct": -9.87,
-      "changeDollar": -1.89
+      "price": 18.59,
+      "changePct": -9.8,
+      "changeDollar": -2.02
     }
   ]
 }
