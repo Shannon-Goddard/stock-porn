@@ -1248,7 +1248,7 @@
         "auto_note": "ALAB CALL | $+27.58 (+9.75%) | dollar_gainer_1 | Strike $390.0 exp 2026-09-11 (6DTE) | IV 88.2% | SPY +nan% | MACRO: rate hike, war"
       },
       "news_scan": {
-        "scanned_at": "2026-09-10 17:03:34 PST",
+        "scanned_at": "2026-09-10 17:45:43 PST",
         "gap_days": 5,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "bearish",
@@ -1259,7 +1259,8 @@
           "drops"
         ],
         "spx_keywords": [
-          "drops"
+          "drops",
+          "plunges"
         ],
         "decision": "sell",
         "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
@@ -1270,6 +1271,7 @@
             "The Next Winners May Not Be the Stocks You Expect"
           ],
           "spy": [
+            "Nuclear Stocks Slide as Piper Sandler Splits the Sector: Oklo, NuScale Power and X-Energy All Drop 5%",
             "Rare Earth Stocks Tumble on U.S.-China Thaw Hopes: USA Rare Earth Sinks 4%, MP Materials Drops 5%, Critical Metals Slips",
             "SolarEdge Falls 4% on Analyst Day Despite Joint NVIDIA 800 VDC Paper; Enphase Energy and First Solar Edge Higher",
             "GoPro Spikes 11% as Lumentum Eases and Coherent Holds Flat: Is This a Merger Trade or a Meme Trade?",
@@ -1278,20 +1280,19 @@
             "American Eagle Outfitters Sinks 13% as $161M Tariff Refund Flatters Beat; Urban Outfitters Drops 3%, Abercrombie & Fitch Slips",
             "Opendoor Sinks 7% as Yield Spike Meets Delayed Profit Timeline, Offerpad and Zillow Group Trail",
             "Uber Continues Its Free Fall: One Pro Analyst Says It Will Double in the Near Future",
-            "We Named 3 Dividend Stocks to Dominate 2026. Only One Beat the S&P 500.",
-            "Macy\u2019s Sinks 5% Despite Raised Full-Year Outlook, Kohl\u2019s and TJX Barely Budge"
+            "We Named 3 Dividend Stocks to Dominate 2026. Only One Beat the S&P 500."
           ],
           "spx": [
+            "Stock Market Today: Dow Drops As Fear Gauge Spikes; Copper Players Tumble On Tariff News (Live Coverage)",
+            "Should You Buy Meta Stock For Cash Flow It Plans To Spend?",
+            "The Dow, S&P 500, and Nasdaq All Fell 0.4% on Oil and Inflation",
+            "12 Energy Stocks for Dividend Investors as Oil Prices Rise",
+            "Here's Why You Should Retain Ecolab Stock in Your Portfolio Now",
+            "Is Microsoft Stock Overvalued At 28x Earnings?",
+            "Comfort Systems Stock Plunges 12.4% in 3 Months: Buy the Dip?",
             "Stock Market Midday, Sept. 10: Surging Oil Prices Pressure Markets Again",
             "3 Industrials Stocks That Fall Short",
-            "Hancock Whitney Up 16.9% So Far This Year: Should You Buy the Stock?",
-            "Serve Robotics Stock Slides 55% YTD: Should You Buy the Dip or Wait?",
-            "3 Restaurant Stocks with Questionable Fundamentals",
-            "LUNR Stock Rises 75.4% in the Past Year: What Should Investors Do?",
-            "Update: US Equity Indexes Drop as Treasury Yields Jump Following Hot Producer Price Inflation Print",
-            "Stock Market Today: Dow Slides As Oil Hits $100; Nvidia Drops Amid News Of Palantir Partnership (Live Coverage)",
-            "Wall St slips after hotter-than-expected producer inflation data",
-            "MP Trades at a Premium Valuation: Buy, Sell or Hold the Stock?"
+            "Hancock Whitney Up 16.9% So Far This Year: Should You Buy the Stock?"
           ]
         }
       },
@@ -1337,7 +1338,7 @@
         "auto_note": "TSLA PUT | $-22.29 (-5.92%) | dollar_loser_1 | Strike $340.0 exp 2026-09-09 (4DTE) | IV 32.4% | SPY +nan% | MACRO: rate hike, war"
       },
       "news_scan": {
-        "scanned_at": "2026-09-10 17:03:34 PST",
+        "scanned_at": "2026-09-10 17:45:43 PST",
         "gap_days": 5,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "bearish",
@@ -1348,24 +1349,26 @@
           "drops"
         ],
         "spx_keywords": [
-          "drops"
+          "drops",
+          "plunges"
         ],
         "decision": "hold",
         "decision_reason": "neutral keywords confirmed PUT thesis",
         "raw_headlines": {
           "ticker": [
+            "'Clean' Energy And Tech Spending Slides 17%. New Report Blames China, But Doesn't Tell The Whole Story.",
             "Nvidia Will Pay Its Next Cash Dividend on Oct. 1. Here's How Many Shares of Nvidia (NVDA) Stock You'd Need for $10,000 in Yearly Dividends.",
             "Will Tesla's China Discounts Lift Q3 Sales or Hurt Margins Further?",
             "Coca-Cola Is Outperforming Broadcom and Every \"Magnificent Seven\" Stock in 2026. Is It Still a Top Dividend Stock to Buy in September?",
-            "China\u2019s Auto Threat Isn\u2019t Just About EVs. Tesla is caught in the Middle.",
+            "China\u2019s Auto Threat Isn\u2019t Just About EVs. Tesla Is Caught in the Middle.",
             "Elon Musk Raises $3 Billion For Tunneling Startup The Boring Company",
             "Why Analysts Are Bearish On This Tesla Energy Rival",
             "Tesla's Cybercab Can Be 50% Cheaper Than Uber\u2014So Why Is It Sometimes Twice as Expensive?",
             "Elon Musk's Underground Bet Just Got a Much Bigger Backer",
-            "In A SpaceX-Tesla Merger, Elon Musk May Be The Big Winner. What It May Mean For Other Investors.",
-            "Uber\u2019s Robotaxi Ambitions Gain Momentum With Spain Permit As Tesla\u2019s Cybercab Launch Raises AV Stakes"
+            "In A SpaceX-Tesla Merger, Elon Musk May Be The Big Winner. What It May Mean For Other Investors."
           ],
           "spy": [
+            "Nuclear Stocks Slide as Piper Sandler Splits the Sector: Oklo, NuScale Power and X-Energy All Drop 5%",
             "Rare Earth Stocks Tumble on U.S.-China Thaw Hopes: USA Rare Earth Sinks 4%, MP Materials Drops 5%, Critical Metals Slips",
             "SolarEdge Falls 4% on Analyst Day Despite Joint NVIDIA 800 VDC Paper; Enphase Energy and First Solar Edge Higher",
             "GoPro Spikes 11% as Lumentum Eases and Coherent Holds Flat: Is This a Merger Trade or a Meme Trade?",
@@ -1374,20 +1377,19 @@
             "American Eagle Outfitters Sinks 13% as $161M Tariff Refund Flatters Beat; Urban Outfitters Drops 3%, Abercrombie & Fitch Slips",
             "Opendoor Sinks 7% as Yield Spike Meets Delayed Profit Timeline, Offerpad and Zillow Group Trail",
             "Uber Continues Its Free Fall: One Pro Analyst Says It Will Double in the Near Future",
-            "We Named 3 Dividend Stocks to Dominate 2026. Only One Beat the S&P 500.",
-            "Macy\u2019s Sinks 5% Despite Raised Full-Year Outlook, Kohl\u2019s and TJX Barely Budge"
+            "We Named 3 Dividend Stocks to Dominate 2026. Only One Beat the S&P 500."
           ],
           "spx": [
+            "Stock Market Today: Dow Drops As Fear Gauge Spikes; Copper Players Tumble On Tariff News (Live Coverage)",
+            "Should You Buy Meta Stock For Cash Flow It Plans To Spend?",
+            "The Dow, S&P 500, and Nasdaq All Fell 0.4% on Oil and Inflation",
+            "12 Energy Stocks for Dividend Investors as Oil Prices Rise",
+            "Here's Why You Should Retain Ecolab Stock in Your Portfolio Now",
+            "Is Microsoft Stock Overvalued At 28x Earnings?",
+            "Comfort Systems Stock Plunges 12.4% in 3 Months: Buy the Dip?",
             "Stock Market Midday, Sept. 10: Surging Oil Prices Pressure Markets Again",
             "3 Industrials Stocks That Fall Short",
-            "Hancock Whitney Up 16.9% So Far This Year: Should You Buy the Stock?",
-            "Serve Robotics Stock Slides 55% YTD: Should You Buy the Dip or Wait?",
-            "3 Restaurant Stocks with Questionable Fundamentals",
-            "LUNR Stock Rises 75.4% in the Past Year: What Should Investors Do?",
-            "Update: US Equity Indexes Drop as Treasury Yields Jump Following Hot Producer Price Inflation Print",
-            "Stock Market Today: Dow Slides As Oil Hits $100; Nvidia Drops Amid News Of Palantir Partnership (Live Coverage)",
-            "Wall St slips after hotter-than-expected producer inflation data",
-            "MP Trades at a Premium Valuation: Buy, Sell or Hold the Stock?"
+            "Hancock Whitney Up 16.9% So Far This Year: Should You Buy the Stock?"
           ]
         }
       },
@@ -1430,7 +1432,7 @@
         "auto_note": "DDOG CALL | $+15.04 (+7.15%) | dollar_gainer_1 | Strike $240.0 exp 2026-09-11 (1DTE) | IV 68.4% | SPY +nan% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-09-10 17:03:34 PST",
+        "scanned_at": "2026-09-10 17:45:43 PST",
         "gap_days": 0,
         "ticker_sentiment": "bullish",
         "spy_sentiment": "bearish",
@@ -1443,7 +1445,8 @@
           "drops"
         ],
         "spx_keywords": [
-          "drops"
+          "drops",
+          "plunges"
         ],
         "decision": "hold",
         "decision_reason": "bullish keywords confirmed CALL thesis",
@@ -1453,6 +1456,7 @@
             "Palantir Stock Leads August Rally -- Nvidia, Salesforce and Super Micro Jump"
           ],
           "spy": [
+            "Nuclear Stocks Slide as Piper Sandler Splits the Sector: Oklo, NuScale Power and X-Energy All Drop 5%",
             "Rare Earth Stocks Tumble on U.S.-China Thaw Hopes: USA Rare Earth Sinks 4%, MP Materials Drops 5%, Critical Metals Slips",
             "SolarEdge Falls 4% on Analyst Day Despite Joint NVIDIA 800 VDC Paper; Enphase Energy and First Solar Edge Higher",
             "GoPro Spikes 11% as Lumentum Eases and Coherent Holds Flat: Is This a Merger Trade or a Meme Trade?",
@@ -1461,20 +1465,19 @@
             "American Eagle Outfitters Sinks 13% as $161M Tariff Refund Flatters Beat; Urban Outfitters Drops 3%, Abercrombie & Fitch Slips",
             "Opendoor Sinks 7% as Yield Spike Meets Delayed Profit Timeline, Offerpad and Zillow Group Trail",
             "Uber Continues Its Free Fall: One Pro Analyst Says It Will Double in the Near Future",
-            "We Named 3 Dividend Stocks to Dominate 2026. Only One Beat the S&P 500.",
-            "Macy\u2019s Sinks 5% Despite Raised Full-Year Outlook, Kohl\u2019s and TJX Barely Budge"
+            "We Named 3 Dividend Stocks to Dominate 2026. Only One Beat the S&P 500."
           ],
           "spx": [
+            "Stock Market Today: Dow Drops As Fear Gauge Spikes; Copper Players Tumble On Tariff News (Live Coverage)",
+            "Should You Buy Meta Stock For Cash Flow It Plans To Spend?",
+            "The Dow, S&P 500, and Nasdaq All Fell 0.4% on Oil and Inflation",
+            "12 Energy Stocks for Dividend Investors as Oil Prices Rise",
+            "Here's Why You Should Retain Ecolab Stock in Your Portfolio Now",
+            "Is Microsoft Stock Overvalued At 28x Earnings?",
+            "Comfort Systems Stock Plunges 12.4% in 3 Months: Buy the Dip?",
             "Stock Market Midday, Sept. 10: Surging Oil Prices Pressure Markets Again",
             "3 Industrials Stocks That Fall Short",
-            "Hancock Whitney Up 16.9% So Far This Year: Should You Buy the Stock?",
-            "Serve Robotics Stock Slides 55% YTD: Should You Buy the Dip or Wait?",
-            "3 Restaurant Stocks with Questionable Fundamentals",
-            "LUNR Stock Rises 75.4% in the Past Year: What Should Investors Do?",
-            "Update: US Equity Indexes Drop as Treasury Yields Jump Following Hot Producer Price Inflation Print",
-            "Stock Market Today: Dow Slides As Oil Hits $100; Nvidia Drops Amid News Of Palantir Partnership (Live Coverage)",
-            "Wall St slips after hotter-than-expected producer inflation data",
-            "MP Trades at a Premium Valuation: Buy, Sell or Hold the Stock?"
+            "Hancock Whitney Up 16.9% So Far This Year: Should You Buy the Stock?"
           ]
         }
       },
