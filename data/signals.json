@@ -1,250 +1,250 @@
 {
   "topGainers": [
     {
-      "ticker": "ASO",
-      "name": "ACADEMY SPORTS & OUTDOORS INC COM",
+      "ticker": "QBTZ",
+      "name": "TIDAL TRUST II DEFI DA QBTS ETF",
       "sector": "Unknown",
-      "price": 51.15,
-      "changePct": 14.4,
-      "changeDollar": 6.44
+      "price": 17.44,
+      "changePct": 415.98,
+      "changeDollar": 14.06
     },
     {
-      "ticker": "SKHX",
-      "name": "Leverage Shares 2X Long SK Hynix Daily ETF",
+      "ticker": "WLTH",
+      "name": "WEALTHFRONT CORP COM",
       "sector": "Unknown",
-      "price": 20.07,
-      "changePct": 13.9,
-      "changeDollar": 2.45
+      "price": 10.9,
+      "changePct": 15.22,
+      "changeDollar": 1.44
     },
     {
-      "ticker": "HELP",
-      "name": "CYBIN INC COM NEW",
+      "ticker": "RDTL",
+      "name": "GRANITESHARES ETF TR 2X LONG RDDT DA",
       "sector": "Unknown",
-      "price": 13.68,
-      "changePct": 10.41,
-      "changeDollar": 1.29
+      "price": 13.86,
+      "changePct": 13.14,
+      "changeDollar": 1.61
     },
     {
-      "ticker": "DDOG",
-      "name": "DATADOG INC CL A COM",
+      "ticker": "ZSL",
+      "name": "PROSHARES TR II ULTRA SHORT SILV",
       "sector": "Unknown",
-      "price": 225.27,
-      "changePct": 7.15,
-      "changeDollar": 15.04
+      "price": 24.61,
+      "changePct": 8.85,
+      "changeDollar": 2.0
     },
     {
-      "ticker": "AMBQ",
-      "name": "AMBIQ MICRO INC COMMON STOCK",
+      "ticker": "BSP",
+      "name": "BENDING SPOONS SPA COM SHS",
       "sector": "Unknown",
-      "price": 63.77,
-      "changePct": 6.96,
-      "changeDollar": 4.15
+      "price": 40.65,
+      "changePct": 7.68,
+      "changeDollar": 2.9
+    },
+    {
+      "ticker": "APPX",
+      "name": "INVESTMENT MANAGERS SER TR II TRADR 2X LONG",
+      "sector": "Unknown",
+      "price": 13.03,
+      "changePct": 6.8,
+      "changeDollar": 0.83
+    },
+    {
+      "ticker": "DPC",
+      "name": "DPC HOLDINGS PLC ORDINARY SHARES",
+      "sector": "Unknown",
+      "price": 43.17,
+      "changePct": 6.36,
+      "changeDollar": 2.58
+    },
+    {
+      "ticker": "QCML",
+      "name": "GRANITESHARES ETF TR 2X LONG QCOM ETF",
+      "sector": "Unknown",
+      "price": 18.29,
+      "changePct": 6.03,
+      "changeDollar": 1.04
+    },
+    {
+      "ticker": "NTSK",
+      "name": "NETSKOPE INC CL A",
+      "sector": "Unknown",
+      "price": 15.32,
+      "changePct": 5.95,
+      "changeDollar": 0.86
+    },
+    {
+      "ticker": "VIST",
+      "name": "VISTA ENERGY S.A.B. DE C.V. SPONSORED ADS",
+      "sector": "Unknown",
+      "price": 78.99,
+      "changePct": 5.93,
+      "changeDollar": 4.42
+    }
+  ],
+  "topLosers": [
+    {
+      "ticker": "NAVN",
+      "name": "NAVAN INC CL A",
+      "sector": "Unknown",
+      "price": 20.5,
+      "changePct": -20.82,
+      "changeDollar": -5.39
+    },
+    {
+      "ticker": "CRWG",
+      "name": "THEMES ETF TR LEVERAGE SHS 2X",
+      "sector": "Unknown",
+      "price": 20.02,
+      "changePct": -10.22,
+      "changeDollar": -2.28
+    },
+    {
+      "ticker": "RAM",
+      "name": "Roundhill T-REX 2X Long DRAM Daily Target ETF",
+      "sector": "Unknown",
+      "price": 13.24,
+      "changePct": -9.56,
+      "changeDollar": -1.4
+    },
+    {
+      "ticker": "MULL",
+      "name": "GRANITESHARES ETF TR 2X LO MU DA ETF",
+      "sector": "Unknown",
+      "price": 22.1,
+      "changePct": -9.35,
+      "changeDollar": -2.28
     },
     {
       "ticker": "MUU",
       "name": "DIREXION SHARES ETF TRUST DLY MU BULL 2X",
       "sector": "Unknown",
-      "price": 35.05,
-      "changePct": 5.51,
-      "changeDollar": 1.83
+      "price": 31.8,
+      "changePct": -9.27,
+      "changeDollar": -3.25
     },
     {
-      "ticker": "MRVL",
-      "name": "MARVELL TECHNOLOGY INC COM",
+      "ticker": "WDCX",
+      "name": "Tradr 2X Long WDC Daily ETF",
       "sector": "Unknown",
-      "price": 235.01,
-      "changePct": 4.26,
-      "changeDollar": 9.6
+      "price": 18.14,
+      "changePct": -9.25,
+      "changeDollar": -1.85
     },
     {
-      "ticker": "AESI",
-      "name": "ATLAS ENERGY SOLUTIONS INC COM NEW",
+      "ticker": "SNXX",
+      "name": "Tradr 2X Long SNDK Daily ETF",
       "sector": "Unknown",
-      "price": 14.58,
-      "changePct": 4.22,
-      "changeDollar": 0.59
+      "price": 16.33,
+      "changePct": -8.52,
+      "changeDollar": -1.52
     },
     {
-      "ticker": "PPLT",
-      "name": "ABRDN PLATINUM ETF TRUST PHYSCL PLATM SHS",
+      "ticker": "SNDG",
+      "name": "Leverage Shares 2X Long SNDK Daily ETF",
       "sector": "Unknown",
-      "price": 17.15,
-      "changePct": 4.19,
-      "changeDollar": 0.69
+      "price": 10.15,
+      "changePct": -8.39,
+      "changeDollar": -0.93
     },
     {
-      "ticker": "MTSI",
-      "name": "MACOM TECH SOLUTIONS HLDGS INC COM",
+      "ticker": "REAX",
+      "name": "REAL REMAX GROUP INC",
       "sector": "Unknown",
-      "price": 286.12,
-      "changePct": 4.12,
-      "changeDollar": 11.32
-    }
-  ],
-  "topLosers": [
-    {
-      "ticker": "BRZE",
-      "name": "BRAZE INC COM CL A",
-      "sector": "Unknown",
-      "price": 23.73,
-      "changePct": -21.71,
-      "changeDollar": -6.58
+      "price": 19.0,
+      "changePct": -8.35,
+      "changeDollar": -1.73
     },
     {
-      "ticker": "PS",
-      "name": "PERSHING SQUARE INC COMMON STOCK",
+      "ticker": "ALM",
+      "name": "ALMONTY INDS INC COM NEW",
       "sector": "Unknown",
-      "price": 36.48,
-      "changePct": -12.08,
-      "changeDollar": -5.01
-    },
-    {
-      "ticker": "ASTX",
-      "name": "Tradr 2X Long ASTS Daily ETF",
-      "sector": "Unknown",
-      "price": 11.1,
-      "changePct": -10.91,
-      "changeDollar": -1.36
-    },
-    {
-      "ticker": "CWVX",
-      "name": "Tradr 2X Long CRWV Daily ETF",
-      "sector": "Unknown",
-      "price": 18.59,
-      "changePct": -9.8,
-      "changeDollar": -2.02
-    },
-    {
-      "ticker": "CRWG",
-      "name": "THEMES ETF TR LEVERAGE SHS 2X",
-      "sector": "Unknown",
-      "price": 22.3,
-      "changePct": -9.57,
-      "changeDollar": -2.36
-    },
-    {
-      "ticker": "GSHD",
-      "name": "GOOSEHEAD INS INC COM CL A",
-      "sector": "Unknown",
-      "price": 56.4,
-      "changePct": -9.5,
-      "changeDollar": -5.92
-    },
-    {
-      "ticker": "PINS",
-      "name": "PINTEREST INC CL A",
-      "sector": "Unknown",
-      "price": 18.28,
-      "changePct": -9.24,
-      "changeDollar": -1.86
-    },
-    {
-      "ticker": "FUN",
-      "name": "SIX FLAGS ENTERTAINMENT CORP COM",
-      "sector": "Unknown",
-      "price": 14.29,
-      "changePct": -9.21,
-      "changeDollar": -1.45
-    },
-    {
-      "ticker": "KVYO",
-      "name": "KLAVIYO INC COM SER A",
-      "sector": "Unknown",
-      "price": 16.27,
-      "changePct": -9.06,
-      "changeDollar": -1.62
-    },
-    {
-      "ticker": "FLNC",
-      "name": "FLUENCE ENERGY INC COM CL A",
-      "sector": "Unknown",
-      "price": 10.12,
-      "changePct": -8.33,
-      "changeDollar": -0.92
+      "price": 16.82,
+      "changePct": -8.24,
+      "changeDollar": -1.51
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "DDOG",
-      "name": "DATADOG INC CL A COM",
+      "ticker": "QBTZ",
+      "name": "TIDAL TRUST II DEFI DA QBTS ETF",
       "sector": "Unknown",
-      "price": 225.27,
-      "changePct": 7.15,
-      "changeDollar": 15.04
+      "price": 17.44,
+      "changePct": 415.98,
+      "changeDollar": 14.06
     },
     {
-      "ticker": "MTSI",
-      "name": "MACOM TECH SOLUTIONS HLDGS INC COM",
+      "ticker": "VIST",
+      "name": "VISTA ENERGY S.A.B. DE C.V. SPONSORED ADS",
       "sector": "Unknown",
-      "price": 286.12,
-      "changePct": 4.12,
-      "changeDollar": 11.32
+      "price": 78.99,
+      "changePct": 5.93,
+      "changeDollar": 4.42
     },
     {
-      "ticker": "MRVL",
-      "name": "MARVELL TECHNOLOGY INC COM",
+      "ticker": "BSP",
+      "name": "BENDING SPOONS SPA COM SHS",
       "sector": "Unknown",
-      "price": 235.01,
-      "changePct": 4.26,
-      "changeDollar": 9.6
+      "price": 40.65,
+      "changePct": 7.68,
+      "changeDollar": 2.9
     },
     {
-      "ticker": "ASO",
-      "name": "ACADEMY SPORTS & OUTDOORS INC COM",
+      "ticker": "DPC",
+      "name": "DPC HOLDINGS PLC ORDINARY SHARES",
       "sector": "Unknown",
-      "price": 51.15,
-      "changePct": 14.4,
-      "changeDollar": 6.44
+      "price": 43.17,
+      "changePct": 6.36,
+      "changeDollar": 2.58
     },
     {
-      "ticker": "AMBQ",
-      "name": "AMBIQ MICRO INC COMMON STOCK",
+      "ticker": "ZSL",
+      "name": "PROSHARES TR II ULTRA SHORT SILV",
       "sector": "Unknown",
-      "price": 63.77,
-      "changePct": 6.96,
-      "changeDollar": 4.15
+      "price": 24.61,
+      "changePct": 8.85,
+      "changeDollar": 2.0
     }
   ],
   "dollarLosers": [
     {
-      "ticker": "BRZE",
-      "name": "BRAZE INC COM CL A",
+      "ticker": "NAVN",
+      "name": "NAVAN INC CL A",
       "sector": "Unknown",
-      "price": 23.73,
-      "changePct": -21.71,
-      "changeDollar": -6.58
+      "price": 20.5,
+      "changePct": -20.82,
+      "changeDollar": -5.39
     },
     {
-      "ticker": "GSHD",
-      "name": "GOOSEHEAD INS INC COM CL A",
+      "ticker": "MUU",
+      "name": "DIREXION SHARES ETF TRUST DLY MU BULL 2X",
       "sector": "Unknown",
-      "price": 56.4,
-      "changePct": -9.5,
-      "changeDollar": -5.92
-    },
-    {
-      "ticker": "PS",
-      "name": "PERSHING SQUARE INC COMMON STOCK",
-      "sector": "Unknown",
-      "price": 36.48,
-      "changePct": -12.08,
-      "changeDollar": -5.01
+      "price": 31.8,
+      "changePct": -9.27,
+      "changeDollar": -3.25
     },
     {
       "ticker": "CRWG",
       "name": "THEMES ETF TR LEVERAGE SHS 2X",
       "sector": "Unknown",
-      "price": 22.3,
-      "changePct": -9.57,
-      "changeDollar": -2.36
+      "price": 20.02,
+      "changePct": -10.22,
+      "changeDollar": -2.28
     },
     {
-      "ticker": "CWVX",
-      "name": "Tradr 2X Long CRWV Daily ETF",
+      "ticker": "MULL",
+      "name": "GRANITESHARES ETF TR 2X LO MU DA ETF",
       "sector": "Unknown",
-      "price": 18.59,
-      "changePct": -9.8,
-      "changeDollar": -2.02
+      "price": 22.1,
+      "changePct": -9.35,
+      "changeDollar": -2.28
+    },
+    {
+      "ticker": "WDCX",
+      "name": "Tradr 2X Long WDC Daily ETF",
+      "sector": "Unknown",
+      "price": 18.14,
+      "changePct": -9.25,
+      "changeDollar": -1.85
     }
   ]
 }
