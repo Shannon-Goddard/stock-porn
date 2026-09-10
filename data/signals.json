@@ -1,250 +1,250 @@
 {
   "topGainers": [
     {
-      "ticker": "QBTZ",
-      "name": "TIDAL TRUST II DEFI DA QBTS ETF",
+      "ticker": "RGTZ",
+      "name": "TIDAL TRUST II DEFIANCE DLY TRG",
       "sector": "Unknown",
-      "price": 17.83,
-      "changePct": 427.51,
-      "changeDollar": 14.45
+      "price": 17.7,
+      "changePct": 402.84,
+      "changeDollar": 14.18
     },
     {
-      "ticker": "WLTH",
-      "name": "WEALTHFRONT CORP COM",
+      "ticker": "OKLL",
+      "name": "TIDAL TRUST II DEF LON OKL ETF",
       "sector": "Unknown",
-      "price": 10.85,
-      "changePct": 14.69,
-      "changeDollar": 1.39
+      "price": 11.64,
+      "changePct": 337.59,
+      "changeDollar": 8.98
     },
     {
-      "ticker": "ZSL",
-      "name": "PROSHARES TR II ULTRA SHORT SILV",
+      "ticker": "RDTL",
+      "name": "GRANITESHARES ETF TR 2X LONG RDDT DA",
       "sector": "Unknown",
-      "price": 25.05,
-      "changePct": 10.79,
-      "changeDollar": 2.44
+      "price": 13.68,
+      "changePct": 11.67,
+      "changeDollar": 1.43
+    },
+    {
+      "ticker": "RAMZ",
+      "name": "T-REX 2X Inverse DRAM Daily Target ETF",
+      "sector": "Unknown",
+      "price": 15.4,
+      "changePct": 10.16,
+      "changeDollar": 1.42
+    },
+    {
+      "ticker": "SWKS",
+      "name": "SKYWORKS SOLUTIONS INC COM",
+      "sector": "Unknown",
+      "price": 84.03,
+      "changePct": 9.79,
+      "changeDollar": 7.49
     },
     {
       "ticker": "AAOZ",
       "name": "Tradr 2X Short AAOI Daily ETF",
       "sector": "Unknown",
-      "price": 14.0,
-      "changePct": 8.86,
-      "changeDollar": 1.14
-    },
-    {
-      "ticker": "QRVO",
-      "name": "QORVO INC COM",
-      "sector": "Unknown",
-      "price": 113.26,
-      "changePct": 7.62,
-      "changeDollar": 8.02
+      "price": 13.98,
+      "changePct": 8.71,
+      "changeDollar": 1.12
     },
     {
       "ticker": "SOXS",
       "name": "DIREXION SHARES ETF TRUST DAI SEM 3X ETF",
       "sector": "Unknown",
-      "price": 46.19,
-      "changePct": 6.82,
-      "changeDollar": 2.95
-    },
-    {
-      "ticker": "VIST",
-      "name": "VISTA ENERGY S.A.B. DE C.V. SPONSORED ADS",
-      "sector": "Unknown",
-      "price": 79.17,
-      "changePct": 6.17,
-      "changeDollar": 4.6
+      "price": 46.74,
+      "changePct": 8.09,
+      "changeDollar": 3.5
     },
     {
       "ticker": "SNDQ",
       "name": "Tradr 2X Short SNDK Daily ETF",
       "sector": "Unknown",
-      "price": 12.09,
-      "changePct": 6.05,
-      "changeDollar": 0.69
+      "price": 12.31,
+      "changePct": 7.98,
+      "changeDollar": 0.91
     },
     {
-      "ticker": "NTSK",
-      "name": "NETSKOPE INC CL A",
+      "ticker": "UVIX",
+      "name": "2x Long VIX Futures ETF",
       "sector": "Unknown",
-      "price": 15.29,
-      "changePct": 5.74,
-      "changeDollar": 0.83
+      "price": 43.09,
+      "changePct": 7.56,
+      "changeDollar": 3.03
     },
     {
-      "ticker": "APPS",
-      "name": "DIGITAL TURBINE INC COM NEW",
+      "ticker": "TYRA",
+      "name": "TYRA BIOSCIENCES INC COM",
       "sector": "Unknown",
-      "price": 11.67,
-      "changePct": 5.52,
-      "changeDollar": 0.61
+      "price": 23.54,
+      "changePct": 6.95,
+      "changeDollar": 1.53
     }
   ],
   "topLosers": [
     {
+      "ticker": "BHVN",
+      "name": "BIOHAVEN LTD COM",
+      "sector": "Unknown",
+      "price": 12.79,
+      "changePct": -14.73,
+      "changeDollar": -2.21
+    },
+    {
       "ticker": "COO",
       "name": "COOPER COS INC COM",
       "sector": "Unknown",
-      "price": 55.26,
-      "changePct": -12.95,
-      "changeDollar": -8.22
+      "price": 54.17,
+      "changePct": -14.67,
+      "changeDollar": -9.31
+    },
+    {
+      "ticker": "KORU",
+      "name": "DIREXION SHARES ETF TRUST DAIL MS KORE ETF",
+      "sector": "Unknown",
+      "price": 21.17,
+      "changePct": -12.52,
+      "changeDollar": -3.03
     },
     {
       "ticker": "CWVX",
       "name": "Tradr 2X Long CRWV Daily ETF",
       "sector": "Unknown",
-      "price": 16.37,
-      "changePct": -11.94,
-      "changeDollar": -2.22
+      "price": 16.32,
+      "changePct": -12.21,
+      "changeDollar": -2.27
     },
     {
       "ticker": "CRWG",
       "name": "THEMES ETF TR LEVERAGE SHS 2X",
       "sector": "Unknown",
-      "price": 19.65,
-      "changePct": -11.88,
-      "changeDollar": -2.65
+      "price": 19.58,
+      "changePct": -12.2,
+      "changeDollar": -2.72
+    },
+    {
+      "ticker": "AXGN",
+      "name": "AXOGEN INC COM",
+      "sector": "Unknown",
+      "price": 41.85,
+      "changePct": -11.47,
+      "changeDollar": -5.42
+    },
+    {
+      "ticker": "INTW",
+      "name": "GRANITESHARES ETF TR 2X LONG INTC ETF",
+      "sector": "Unknown",
+      "price": 22.69,
+      "changePct": -11.19,
+      "changeDollar": -2.86
+    },
+    {
+      "ticker": "LITX",
+      "name": "Tradr 2X Long LITE Daily ETF",
+      "sector": "Unknown",
+      "price": 32.51,
+      "changePct": -11.0,
+      "changeDollar": -4.02
     },
     {
       "ticker": "AGQ",
       "name": "PROSHARES TR II ULTRA SILVER NEW",
       "sector": "Unknown",
-      "price": 75.18,
-      "changePct": -10.73,
-      "changeDollar": -9.04
+      "price": 75.12,
+      "changePct": -10.81,
+      "changeDollar": -9.1
     },
     {
-      "ticker": "NBIL",
-      "name": "GRANITESHARES ETF TR 2X LONG NBIS DLY",
+      "ticker": "DLLL",
+      "name": "GRANITESHARES ETF TR 2X LONG DELL ETF",
       "sector": "Unknown",
-      "price": 25.4,
-      "changePct": -9.83,
-      "changeDollar": -2.77
-    },
-    {
-      "ticker": "ALM",
-      "name": "ALMONTY INDS INC COM NEW",
-      "sector": "Unknown",
-      "price": 16.68,
-      "changePct": -9.0,
-      "changeDollar": -1.65
-    },
-    {
-      "ticker": "HYNX",
-      "name": "ETF OPPORTUNITIES TRUST T-REX 2X LONG SK",
-      "sector": "Unknown",
-      "price": 30.7,
-      "changePct": -8.9,
-      "changeDollar": -3.0
-    },
-    {
-      "ticker": "ERO",
-      "name": "ERO COPPER CORP COM",
-      "sector": "Unknown",
-      "price": 34.92,
-      "changePct": -8.71,
-      "changeDollar": -3.33
-    },
-    {
-      "ticker": "SKUU",
-      "name": "GRANITESHARES ETF TR 2X LNG SK HYNIX",
-      "sector": "Unknown",
-      "price": 30.71,
-      "changePct": -8.68,
-      "changeDollar": -2.92
-    },
-    {
-      "ticker": "JANX",
-      "name": "JANUX THERAPEUTICS INC COM",
-      "sector": "Unknown",
-      "price": 17.72,
-      "changePct": -8.33,
-      "changeDollar": -1.61
+      "price": 29.79,
+      "changePct": -10.75,
+      "changeDollar": -3.59
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "QBTZ",
-      "name": "TIDAL TRUST II DEFI DA QBTS ETF",
+      "ticker": "RGTZ",
+      "name": "TIDAL TRUST II DEFIANCE DLY TRG",
       "sector": "Unknown",
-      "price": 17.83,
-      "changePct": 427.51,
-      "changeDollar": 14.45
+      "price": 17.7,
+      "changePct": 402.84,
+      "changeDollar": 14.18
     },
     {
-      "ticker": "QRVO",
-      "name": "QORVO INC COM",
+      "ticker": "OKLL",
+      "name": "TIDAL TRUST II DEF LON OKL ETF",
       "sector": "Unknown",
-      "price": 113.26,
-      "changePct": 7.62,
-      "changeDollar": 8.02
+      "price": 11.64,
+      "changePct": 337.59,
+      "changeDollar": 8.98
     },
     {
-      "ticker": "VIST",
-      "name": "VISTA ENERGY S.A.B. DE C.V. SPONSORED ADS",
+      "ticker": "SWKS",
+      "name": "SKYWORKS SOLUTIONS INC COM",
       "sector": "Unknown",
-      "price": 79.17,
-      "changePct": 6.17,
-      "changeDollar": 4.6
+      "price": 84.03,
+      "changePct": 9.79,
+      "changeDollar": 7.49
     },
     {
       "ticker": "SOXS",
       "name": "DIREXION SHARES ETF TRUST DAI SEM 3X ETF",
       "sector": "Unknown",
-      "price": 46.19,
-      "changePct": 6.82,
-      "changeDollar": 2.95
+      "price": 46.74,
+      "changePct": 8.09,
+      "changeDollar": 3.5
     },
     {
-      "ticker": "ZSL",
-      "name": "PROSHARES TR II ULTRA SHORT SILV",
+      "ticker": "UVIX",
+      "name": "2x Long VIX Futures ETF",
       "sector": "Unknown",
-      "price": 25.05,
-      "changePct": 10.79,
-      "changeDollar": 2.44
+      "price": 43.09,
+      "changePct": 7.56,
+      "changeDollar": 3.03
     }
   ],
   "dollarLosers": [
     {
-      "ticker": "AGQ",
-      "name": "PROSHARES TR II ULTRA SILVER NEW",
-      "sector": "Unknown",
-      "price": 75.18,
-      "changePct": -10.73,
-      "changeDollar": -9.04
-    },
-    {
       "ticker": "COO",
       "name": "COOPER COS INC COM",
       "sector": "Unknown",
-      "price": 55.26,
-      "changePct": -12.95,
-      "changeDollar": -8.22
+      "price": 54.17,
+      "changePct": -14.67,
+      "changeDollar": -9.31
     },
     {
-      "ticker": "ERO",
-      "name": "ERO COPPER CORP COM",
+      "ticker": "AGQ",
+      "name": "PROSHARES TR II ULTRA SILVER NEW",
       "sector": "Unknown",
-      "price": 34.92,
-      "changePct": -8.71,
-      "changeDollar": -3.33
+      "price": 75.12,
+      "changePct": -10.81,
+      "changeDollar": -9.1
     },
     {
-      "ticker": "HYNX",
-      "name": "ETF OPPORTUNITIES TRUST T-REX 2X LONG SK",
+      "ticker": "AXGN",
+      "name": "AXOGEN INC COM",
       "sector": "Unknown",
-      "price": 30.7,
-      "changePct": -8.9,
-      "changeDollar": -3.0
+      "price": 41.85,
+      "changePct": -11.47,
+      "changeDollar": -5.42
     },
     {
-      "ticker": "SKUU",
-      "name": "GRANITESHARES ETF TR 2X LNG SK HYNIX",
+      "ticker": "LITX",
+      "name": "Tradr 2X Long LITE Daily ETF",
       "sector": "Unknown",
-      "price": 30.71,
-      "changePct": -8.68,
-      "changeDollar": -2.92
+      "price": 32.51,
+      "changePct": -11.0,
+      "changeDollar": -4.02
+    },
+    {
+      "ticker": "DLLL",
+      "name": "GRANITESHARES ETF TR 2X LONG DELL ETF",
+      "sector": "Unknown",
+      "price": 29.79,
+      "changePct": -10.75,
+      "changeDollar": -3.59
     }
   ]
 }
