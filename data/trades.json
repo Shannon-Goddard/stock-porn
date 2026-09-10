@@ -1396,6 +1396,45 @@
       },
       "exit": null,
       "fomo": null
+    },
+    {
+      "id": 14,
+      "status": "open",
+      "entry": {
+        "date": "2026-09-10",
+        "time": "15:55 PST",
+        "ticker": "DDOG",
+        "name": "DATADOG INC CL A COM",
+        "sector": "Unknown",
+        "type": "CALL",
+        "strike": 240.0,
+        "expiration": "2026-09-11",
+        "dte_at_entry": 1,
+        "T_at_entry": 0.00274,
+        "stock_price_at_entry": 225.27,
+        "premium": 0.7,
+        "cost": 70.0,
+        "bid": 0.49,
+        "spread": 0.21,
+        "iv_at_entry": 0.6841,
+        "otm_pct": 6.54,
+        "expected_move": {
+          "one_sigma_pct": 3.58,
+          "upper": 233.34,
+          "lower": 217.2,
+          "strike_position": "outside"
+        },
+        "signal_rank": "dollar_gainer_1",
+        "signal_pct": 7.15,
+        "signal_dollar": 15.04,
+        "spy_change": NaN,
+        "macro_active": false,
+        "macro_keywords": [],
+        "auto_note": "DDOG CALL | $+15.04 (+7.15%) | dollar_gainer_1 | Strike $240.0 exp 2026-09-11 (1DTE) | IV 68.4% | SPY +nan% | No macro triggers"
+      },
+      "news_scan": null,
+      "exit": null,
+      "fomo": null
     }
   ]
 }

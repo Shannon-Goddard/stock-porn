@@ -174,5 +174,16 @@
     "youtube_id": null,
     "images": [],
     "published": true
+  },
+  {
+    "id": 14,
+    "date": "2026-09-10",
+    "ticker": "DDOG",
+    "type": "CALL",
+    "trade_id": 14,
+    "title": "DDOG CALL \u2014 2026-09-10",
+    "youtube_id": null,
+    "images": [],
+    "published": true
   }
 ]
