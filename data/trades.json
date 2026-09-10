@@ -1248,51 +1248,50 @@
         "auto_note": "ALAB CALL | $+27.58 (+9.75%) | dollar_gainer_1 | Strike $390.0 exp 2026-09-11 (6DTE) | IV 88.2% | SPY +nan% | MACRO: rate hike, war"
       },
       "news_scan": {
-        "scanned_at": "2026-09-09 17:54:06 PST",
-        "gap_days": 4,
+        "scanned_at": "2026-09-10 17:03:34 PST",
+        "gap_days": 5,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "bearish",
-        "spx_sentiment": "neutral",
+        "spx_sentiment": "bearish",
         "keywords_found": [],
         "spy_keywords": [
+          "falls",
           "drops"
         ],
         "spx_keywords": [
-          "buyback",
-          "surge",
-          "falls",
           "drops"
         ],
         "decision": "sell",
         "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
         "raw_headlines": {
           "ticker": [
+            "MRVL Stock Rises 8.6% Since Q2 Results: Time to Hold or Fold?",
             "ALAB Gains From Aries and Taurus Strength: Can It Beat MRVL & CRDO?",
             "The Next Winners May Not Be the Stocks You Expect"
           ],
           "spy": [
-            "SoFi Dips 3% Despite Reported Kraken Crypto Settlement Tie-Up; Affirm Drops 5%, Robinhood Holds Steady",
-            "Drone Stocks Slide as Risk-Off Sentiment Hits High-Beta Names: AeroVironment Sinks 4%, Red Cat Drops 3%, Ondas Eases",
-            "Quantum Stocks Fall as Rate-Hike Odds Climb: IonQ Sinks 4%, Rigetti and D-Wave Pull Back",
-            "SpaceX Sinks 5% as $47.2B Insider Share Unlock Hits the Tape, AST SpaceMobile Drops 4%, Rocket Lab Slips 2%",
-            "Comcast Sinks 8%, Charter Drops 6%, T-Mobile Slips 3%: Is a Broadband Repricing Underway?",
-            "Jim Cramer Called the Magnificent Seven Cheap but the Three Building AI Factories Are All Trailing the S&P",
-            "GameStop Rises 4% as Collectibles Sales Jump 57% and a Director Buys $1M",
-            "SanDisk at $1,740: The Price of Momentum.",
-            "UnitedHealth Slips 3% as TPG Buys Into Florida WellMed Clinics Ahead of Guidance Reaffirmation",
-            "\u201cBeing Too Prudent Is Actually Reckless\u201d: Cramer as the Safe Bond Fund Loses Money Over 5 Years"
+            "Rare Earth Stocks Tumble on U.S.-China Thaw Hopes: USA Rare Earth Sinks 4%, MP Materials Drops 5%, Critical Metals Slips",
+            "SolarEdge Falls 4% on Analyst Day Despite Joint NVIDIA 800 VDC Paper; Enphase Energy and First Solar Edge Higher",
+            "GoPro Spikes 11% as Lumentum Eases and Coherent Holds Flat: Is This a Merger Trade or a Meme Trade?",
+            "Reddit Rises 6% as User Growth Hits Fastest Pace of the Year, Pinterest Ticks Up, Snap Barely Budges",
+            "Copper Stocks Tumble as Tariff Doubt Reverses Record Rally: Freeport-McMoRan Sinks 8%, Teck Resources and Southern Copper Drop 7%",
+            "American Eagle Outfitters Sinks 13% as $161M Tariff Refund Flatters Beat; Urban Outfitters Drops 3%, Abercrombie & Fitch Slips",
+            "Opendoor Sinks 7% as Yield Spike Meets Delayed Profit Timeline, Offerpad and Zillow Group Trail",
+            "Uber Continues Its Free Fall: One Pro Analyst Says It Will Double in the Near Future",
+            "We Named 3 Dividend Stocks to Dominate 2026. Only One Beat the S&P 500.",
+            "Macy\u2019s Sinks 5% Despite Raised Full-Year Outlook, Kohl\u2019s and TJX Barely Budge"
           ],
           "spx": [
-            "Why Nike and Lululemon are struggling: 'A lot of surface area to defend'",
-            "Is Netflix a Good Buy? After 10 Years of Covering NFLX, Here's My Honest Answer.",
-            "Axon (AXON) Was the S&P\u2019s Biggest Loser \u2014 and it\u2019s Not Entirely the Business\u2019s Fault",
-            "Update: US Equity Indexes Drop as Crude Oil Tops $100 Mark Amid Worsening Iran War, Yields Surge After Treasury Triples Government-Debt Buybacks",
-            "Drone Stocks Slide as Risk-Off Sentiment Hits High-Beta Names: AeroVironment Sinks 4%, Red Cat Drops 3%, Ondas Eases",
-            "Here's Why You Should Retain FactSet Stock in Your Portfolio Now",
-            "Dow Hits 1-Month Low as Oil Surges Above $100",
-            "Stocks making big moves yesterday: ProPetro, Bloom Energy, ABM, Accenture, and Cable One",
-            "Expion Falls 35% in Six Months: Should You Buy the Dip or Wait?",
-            "Investors: Sept. 16 Will Be a Critical Day for the Stock Market. Here's What You Need to Know."
+            "Stock Market Midday, Sept. 10: Surging Oil Prices Pressure Markets Again",
+            "3 Industrials Stocks That Fall Short",
+            "Hancock Whitney Up 16.9% So Far This Year: Should You Buy the Stock?",
+            "Serve Robotics Stock Slides 55% YTD: Should You Buy the Dip or Wait?",
+            "3 Restaurant Stocks with Questionable Fundamentals",
+            "LUNR Stock Rises 75.4% in the Past Year: What Should Investors Do?",
+            "Update: US Equity Indexes Drop as Treasury Yields Jump Following Hot Producer Price Inflation Print",
+            "Stock Market Today: Dow Slides As Oil Hits $100; Nvidia Drops Amid News Of Palantir Partnership (Live Coverage)",
+            "Wall St slips after hotter-than-expected producer inflation data",
+            "MP Trades at a Premium Valuation: Buy, Sell or Hold the Stock?"
           ]
         }
       },
@@ -1338,59 +1337,57 @@
         "auto_note": "TSLA PUT | $-22.29 (-5.92%) | dollar_loser_1 | Strike $340.0 exp 2026-09-09 (4DTE) | IV 32.4% | SPY +nan% | MACRO: rate hike, war"
       },
       "news_scan": {
-        "scanned_at": "2026-09-09 17:54:06 PST",
-        "gap_days": 4,
+        "scanned_at": "2026-09-10 17:03:34 PST",
+        "gap_days": 5,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "bearish",
-        "spx_sentiment": "neutral",
+        "spx_sentiment": "bearish",
         "keywords_found": [],
         "spy_keywords": [
+          "falls",
           "drops"
         ],
         "spx_keywords": [
-          "buyback",
-          "surge",
-          "falls",
           "drops"
         ],
         "decision": "hold",
         "decision_reason": "neutral keywords confirmed PUT thesis",
         "raw_headlines": {
           "ticker": [
-            "Bond yields tick higher as oil tops $100: AlphaCheck",
-            "Defiance Politely Asks the SEC to Let It Sell An ETF 8-Ball",
-            "45 Tesla Cybercabs Are Now Roaming Austin. Here's What That Means for the Robotaxi Business Wall Street Has Been Waiting For.",
-            "Entrepreneurs could hold the key to Tesla's Cybercab plans",
-            "Here's Exactly What Drove BYD's 30% Spike in Profits -- Is It Still a Smart Buy?",
-            "Seagate Technology and Western Union have been highlighted as Zacks Bull and Bear of the Day",
-            "Tesla\u2019s Cybercab Could Be Heading to Europe Soon. A Crucial EU Vote Is the Key.",
-            "Ford Finally Runs Out Of EVs",
-            "Does Slovenia's FSD Approval Bring Tesla Closer to EU-Wide Approval?",
-            "Michael Dell passes Jeff Bezos to become world's third-richest person"
+            "Nvidia Will Pay Its Next Cash Dividend on Oct. 1. Here's How Many Shares of Nvidia (NVDA) Stock You'd Need for $10,000 in Yearly Dividends.",
+            "Will Tesla's China Discounts Lift Q3 Sales or Hurt Margins Further?",
+            "Coca-Cola Is Outperforming Broadcom and Every \"Magnificent Seven\" Stock in 2026. Is It Still a Top Dividend Stock to Buy in September?",
+            "China\u2019s Auto Threat Isn\u2019t Just About EVs. Tesla is caught in the Middle.",
+            "Elon Musk Raises $3 Billion For Tunneling Startup The Boring Company",
+            "Why Analysts Are Bearish On This Tesla Energy Rival",
+            "Tesla's Cybercab Can Be 50% Cheaper Than Uber\u2014So Why Is It Sometimes Twice as Expensive?",
+            "Elon Musk's Underground Bet Just Got a Much Bigger Backer",
+            "In A SpaceX-Tesla Merger, Elon Musk May Be The Big Winner. What It May Mean For Other Investors.",
+            "Uber\u2019s Robotaxi Ambitions Gain Momentum With Spain Permit As Tesla\u2019s Cybercab Launch Raises AV Stakes"
           ],
           "spy": [
-            "SoFi Dips 3% Despite Reported Kraken Crypto Settlement Tie-Up; Affirm Drops 5%, Robinhood Holds Steady",
-            "Drone Stocks Slide as Risk-Off Sentiment Hits High-Beta Names: AeroVironment Sinks 4%, Red Cat Drops 3%, Ondas Eases",
-            "Quantum Stocks Fall as Rate-Hike Odds Climb: IonQ Sinks 4%, Rigetti and D-Wave Pull Back",
-            "SpaceX Sinks 5% as $47.2B Insider Share Unlock Hits the Tape, AST SpaceMobile Drops 4%, Rocket Lab Slips 2%",
-            "Comcast Sinks 8%, Charter Drops 6%, T-Mobile Slips 3%: Is a Broadband Repricing Underway?",
-            "Jim Cramer Called the Magnificent Seven Cheap but the Three Building AI Factories Are All Trailing the S&P",
-            "GameStop Rises 4% as Collectibles Sales Jump 57% and a Director Buys $1M",
-            "SanDisk at $1,740: The Price of Momentum.",
-            "UnitedHealth Slips 3% as TPG Buys Into Florida WellMed Clinics Ahead of Guidance Reaffirmation",
-            "\u201cBeing Too Prudent Is Actually Reckless\u201d: Cramer as the Safe Bond Fund Loses Money Over 5 Years"
+            "Rare Earth Stocks Tumble on U.S.-China Thaw Hopes: USA Rare Earth Sinks 4%, MP Materials Drops 5%, Critical Metals Slips",
+            "SolarEdge Falls 4% on Analyst Day Despite Joint NVIDIA 800 VDC Paper; Enphase Energy and First Solar Edge Higher",
+            "GoPro Spikes 11% as Lumentum Eases and Coherent Holds Flat: Is This a Merger Trade or a Meme Trade?",
+            "Reddit Rises 6% as User Growth Hits Fastest Pace of the Year, Pinterest Ticks Up, Snap Barely Budges",
+            "Copper Stocks Tumble as Tariff Doubt Reverses Record Rally: Freeport-McMoRan Sinks 8%, Teck Resources and Southern Copper Drop 7%",
+            "American Eagle Outfitters Sinks 13% as $161M Tariff Refund Flatters Beat; Urban Outfitters Drops 3%, Abercrombie & Fitch Slips",
+            "Opendoor Sinks 7% as Yield Spike Meets Delayed Profit Timeline, Offerpad and Zillow Group Trail",
+            "Uber Continues Its Free Fall: One Pro Analyst Says It Will Double in the Near Future",
+            "We Named 3 Dividend Stocks to Dominate 2026. Only One Beat the S&P 500.",
+            "Macy\u2019s Sinks 5% Despite Raised Full-Year Outlook, Kohl\u2019s and TJX Barely Budge"
           ],
           "spx": [
-            "Why Nike and Lululemon are struggling: 'A lot of surface area to defend'",
-            "Is Netflix a Good Buy? After 10 Years of Covering NFLX, Here's My Honest Answer.",
-            "Axon (AXON) Was the S&P\u2019s Biggest Loser \u2014 and it\u2019s Not Entirely the Business\u2019s Fault",
-            "Update: US Equity Indexes Drop as Crude Oil Tops $100 Mark Amid Worsening Iran War, Yields Surge After Treasury Triples Government-Debt Buybacks",
-            "Drone Stocks Slide as Risk-Off Sentiment Hits High-Beta Names: AeroVironment Sinks 4%, Red Cat Drops 3%, Ondas Eases",
-            "Here's Why You Should Retain FactSet Stock in Your Portfolio Now",
-            "Dow Hits 1-Month Low as Oil Surges Above $100",
-            "Stocks making big moves yesterday: ProPetro, Bloom Energy, ABM, Accenture, and Cable One",
-            "Expion Falls 35% in Six Months: Should You Buy the Dip or Wait?",
-            "Investors: Sept. 16 Will Be a Critical Day for the Stock Market. Here's What You Need to Know."
+            "Stock Market Midday, Sept. 10: Surging Oil Prices Pressure Markets Again",
+            "3 Industrials Stocks That Fall Short",
+            "Hancock Whitney Up 16.9% So Far This Year: Should You Buy the Stock?",
+            "Serve Robotics Stock Slides 55% YTD: Should You Buy the Dip or Wait?",
+            "3 Restaurant Stocks with Questionable Fundamentals",
+            "LUNR Stock Rises 75.4% in the Past Year: What Should Investors Do?",
+            "Update: US Equity Indexes Drop as Treasury Yields Jump Following Hot Producer Price Inflation Print",
+            "Stock Market Today: Dow Slides As Oil Hits $100; Nvidia Drops Amid News Of Palantir Partnership (Live Coverage)",
+            "Wall St slips after hotter-than-expected producer inflation data",
+            "MP Trades at a Premium Valuation: Buy, Sell or Hold the Stock?"
           ]
         }
       },
@@ -1432,7 +1429,55 @@
         "macro_keywords": [],
         "auto_note": "DDOG CALL | $+15.04 (+7.15%) | dollar_gainer_1 | Strike $240.0 exp 2026-09-11 (1DTE) | IV 68.4% | SPY +nan% | No macro triggers"
       },
-      "news_scan": null,
+      "news_scan": {
+        "scanned_at": "2026-09-10 17:03:34 PST",
+        "gap_days": 0,
+        "ticker_sentiment": "bullish",
+        "spy_sentiment": "bearish",
+        "spx_sentiment": "bearish",
+        "keywords_found": [
+          "jumps"
+        ],
+        "spy_keywords": [
+          "falls",
+          "drops"
+        ],
+        "spx_keywords": [
+          "drops"
+        ],
+        "decision": "hold",
+        "decision_reason": "bullish keywords confirmed CALL thesis",
+        "raw_headlines": {
+          "ticker": [
+            "Fastly Jumps 7%: Is This an Oversold Bounce or the Start of a Run?",
+            "Palantir Stock Leads August Rally -- Nvidia, Salesforce and Super Micro Jump"
+          ],
+          "spy": [
+            "Rare Earth Stocks Tumble on U.S.-China Thaw Hopes: USA Rare Earth Sinks 4%, MP Materials Drops 5%, Critical Metals Slips",
+            "SolarEdge Falls 4% on Analyst Day Despite Joint NVIDIA 800 VDC Paper; Enphase Energy and First Solar Edge Higher",
+            "GoPro Spikes 11% as Lumentum Eases and Coherent Holds Flat: Is This a Merger Trade or a Meme Trade?",
+            "Reddit Rises 6% as User Growth Hits Fastest Pace of the Year, Pinterest Ticks Up, Snap Barely Budges",
+            "Copper Stocks Tumble as Tariff Doubt Reverses Record Rally: Freeport-McMoRan Sinks 8%, Teck Resources and Southern Copper Drop 7%",
+            "American Eagle Outfitters Sinks 13% as $161M Tariff Refund Flatters Beat; Urban Outfitters Drops 3%, Abercrombie & Fitch Slips",
+            "Opendoor Sinks 7% as Yield Spike Meets Delayed Profit Timeline, Offerpad and Zillow Group Trail",
+            "Uber Continues Its Free Fall: One Pro Analyst Says It Will Double in the Near Future",
+            "We Named 3 Dividend Stocks to Dominate 2026. Only One Beat the S&P 500.",
+            "Macy\u2019s Sinks 5% Despite Raised Full-Year Outlook, Kohl\u2019s and TJX Barely Budge"
+          ],
+          "spx": [
+            "Stock Market Midday, Sept. 10: Surging Oil Prices Pressure Markets Again",
+            "3 Industrials Stocks That Fall Short",
+            "Hancock Whitney Up 16.9% So Far This Year: Should You Buy the Stock?",
+            "Serve Robotics Stock Slides 55% YTD: Should You Buy the Dip or Wait?",
+            "3 Restaurant Stocks with Questionable Fundamentals",
+            "LUNR Stock Rises 75.4% in the Past Year: What Should Investors Do?",
+            "Update: US Equity Indexes Drop as Treasury Yields Jump Following Hot Producer Price Inflation Print",
+            "Stock Market Today: Dow Slides As Oil Hits $100; Nvidia Drops Amid News Of Palantir Partnership (Live Coverage)",
+            "Wall St slips after hotter-than-expected producer inflation data",
+            "MP Trades at a Premium Valuation: Buy, Sell or Hold the Stock?"
+          ]
+        }
+      },
       "exit": null,
       "fomo": null
     }
