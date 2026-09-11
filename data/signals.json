@@ -4,247 +4,247 @@
       "ticker": "ACVA",
       "name": "ACV AUCTIONS INC COM CL A",
       "sector": "Unknown",
-      "price": 10.44,
-      "changePct": 44.6,
-      "changeDollar": 3.22
+      "price": 10.42,
+      "changePct": 44.32,
+      "changeDollar": 3.2
     },
     {
-      "ticker": "FEIM",
-      "name": "FREQUENCY ELECTRS INC COM",
+      "ticker": "DLLL",
+      "name": "GRANITESHARES ETF TR 2X LONG DELL ETF",
       "sector": "Unknown",
-      "price": 82.96,
-      "changePct": 33.68,
-      "changeDollar": 20.9
-    },
-    {
-      "ticker": "ATEC",
-      "name": "ALPHATEC HLDGS INC COM NEW",
-      "sector": "Unknown",
-      "price": 10.2,
-      "changePct": 15.38,
-      "changeDollar": 1.36
+      "price": 36.07,
+      "changePct": 21.08,
+      "changeDollar": 6.28
     },
     {
       "ticker": "BEX",
       "name": "Tradr 2X Long BE Daily ETF",
       "sector": "Unknown",
-      "price": 37.56,
-      "changePct": 12.66,
-      "changeDollar": 4.22
+      "price": 37.55,
+      "changePct": 12.63,
+      "changeDollar": 4.21
     },
     {
-      "ticker": "DELL",
-      "name": "DELL TECHNOLOGIES INC CL C",
+      "ticker": "HUT",
+      "name": "HUT 8 CORP COM",
       "sector": "Unknown",
-      "price": 559.16,
-      "changePct": 10.37,
-      "changeDollar": 52.54
+      "price": 99.68,
+      "changePct": 10.02,
+      "changeDollar": 9.08
     },
     {
-      "ticker": "KORU",
-      "name": "DIREXION SHARES ETF TRUST DAIL MS KORE ETF",
+      "ticker": "COHX",
+      "name": "Tradr 2X Long COHR Daily ETF",
       "sector": "Unknown",
-      "price": 23.31,
-      "changePct": 10.11,
-      "changeDollar": 2.14
+      "price": 26.18,
+      "changePct": 7.43,
+      "changeDollar": 1.81
     },
     {
-      "ticker": "SMCX",
-      "name": "TIDAL TRUST II DEFI DA SMCI ETF",
+      "ticker": "HDB",
+      "name": "HDFC BANK LTD SPONSORED ADS",
       "sector": "Unknown",
-      "price": 12.94,
-      "changePct": 9.01,
-      "changeDollar": 1.07
+      "price": 23.4,
+      "changePct": 7.14,
+      "changeDollar": 1.56
+    },
+    {
+      "ticker": "ARCT",
+      "name": "ARCTURUS THERAPEUTICS HLDGS COM",
+      "sector": "Unknown",
+      "price": 14.97,
+      "changePct": 7.08,
+      "changeDollar": 0.99
+    },
+    {
+      "ticker": "ETHU",
+      "name": "2x Ether ETF",
+      "sector": "Unknown",
+      "price": 27.8,
+      "changePct": 6.68,
+      "changeDollar": 1.74
     },
     {
       "ticker": "VSH",
       "name": "VISHAY INTERTECHNOLOGY INC COM",
       "sector": "Unknown",
-      "price": 33.87,
-      "changePct": 8.25,
-      "changeDollar": 2.58
+      "price": 33.37,
+      "changePct": 6.65,
+      "changeDollar": 2.08
     },
     {
-      "ticker": "REAX",
-      "name": "REAL REMAX GROUP INC",
+      "ticker": "HIMX",
+      "name": "HIMAX TECHNOLOGIES INC SPONSORED ADR",
       "sector": "Unknown",
-      "price": 20.04,
-      "changePct": 8.15,
-      "changeDollar": 1.51
-    },
-    {
-      "ticker": "CLSK",
-      "name": "CLEANSPARK INC COM NEW",
-      "sector": "Unknown",
-      "price": 13.83,
-      "changePct": 8.05,
-      "changeDollar": 1.03
+      "price": 14.69,
+      "changePct": 6.6,
+      "changeDollar": 0.91
     }
   ],
   "topLosers": [
     {
-      "ticker": "ETHD",
-      "name": "PROSHARES TR ULTRA ETHER ETF",
+      "ticker": "OMDA",
+      "name": "OMADA HEALTH INC COM",
       "sector": "Unknown",
-      "price": 27.51,
-      "changePct": -9.6,
-      "changeDollar": -2.92
-    },
-    {
-      "ticker": "UVIX",
-      "name": "2x Long VIX Futures ETF",
-      "sector": "Unknown",
-      "price": 39.07,
-      "changePct": -9.33,
-      "changeDollar": -4.02
-    },
-    {
-      "ticker": "ALM",
-      "name": "ALMONTY INDS INC COM NEW",
-      "sector": "Unknown",
-      "price": 15.07,
-      "changePct": -9.05,
-      "changeDollar": -1.5
+      "price": 19.66,
+      "changePct": -8.56,
+      "changeDollar": -1.84
     },
     {
       "ticker": "SNDU",
       "name": "T-REX 2X Long SNDK Daily Target ETF",
       "sector": "Unknown",
-      "price": 23.54,
-      "changePct": -7.54,
-      "changeDollar": -1.92
-    },
-    {
-      "ticker": "QLYS",
-      "name": "QUALYS INC COM",
-      "sector": "Unknown",
-      "price": 152.05,
-      "changePct": -5.89,
-      "changeDollar": -9.52
-    },
-    {
-      "ticker": "FMC",
-      "name": "FMC CORP COM NEW",
-      "sector": "Unknown",
-      "price": 11.38,
-      "changePct": -5.79,
-      "changeDollar": -0.7
-    },
-    {
-      "ticker": "AAOZ",
-      "name": "Tradr 2X Short AAOI Daily ETF",
-      "sector": "Unknown",
-      "price": 13.24,
-      "changePct": -5.29,
-      "changeDollar": -0.74
+      "price": 23.64,
+      "changePct": -7.15,
+      "changeDollar": -1.82
     },
     {
       "ticker": "JBIO",
       "name": "JADE BIOSCIENCES INC COM NEW",
       "sector": "Unknown",
-      "price": 18.12,
-      "changePct": -5.28,
-      "changeDollar": -1.01
+      "price": 17.86,
+      "changePct": -6.69,
+      "changeDollar": -1.28
+    },
+    {
+      "ticker": "RCUS",
+      "name": "ARCUS BIOSCIENCES INC COM",
+      "sector": "Unknown",
+      "price": 24.6,
+      "changePct": -5.93,
+      "changeDollar": -1.55
+    },
+    {
+      "ticker": "TYRA",
+      "name": "TYRA BIOSCIENCES INC COM",
+      "sector": "Unknown",
+      "price": 22.18,
+      "changePct": -5.78,
+      "changeDollar": -1.36
+    },
+    {
+      "ticker": "ALM",
+      "name": "ALMONTY INDS INC COM NEW",
+      "sector": "Unknown",
+      "price": 15.68,
+      "changePct": -5.37,
+      "changeDollar": -0.89
+    },
+    {
+      "ticker": "TENB",
+      "name": "TENABLE HLDGS INC COM",
+      "sector": "Unknown",
+      "price": 30.32,
+      "changePct": -5.34,
+      "changeDollar": -1.71
+    },
+    {
+      "ticker": "LOVE",
+      "name": "LOVESAC CO COM",
+      "sector": "Unknown",
+      "price": 13.57,
+      "changePct": -4.84,
+      "changeDollar": -0.69
     },
     {
       "ticker": "WERN",
       "name": "WERNER ENTERPRISES INC COM",
       "sector": "Unknown",
-      "price": 36.62,
-      "changePct": -5.1,
-      "changeDollar": -1.97
+      "price": 36.94,
+      "changePct": -4.28,
+      "changeDollar": -1.65
     },
     {
-      "ticker": "NTSK",
-      "name": "NETSKOPE INC CL A",
+      "ticker": "SNK",
+      "name": "GraniteShares 2x Short SpaceX Daily ETF",
       "sector": "Unknown",
-      "price": 14.35,
-      "changePct": -5.03,
-      "changeDollar": -0.76
+      "price": 14.84,
+      "changePct": -3.82,
+      "changeDollar": -0.59
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "DELL",
-      "name": "DELL TECHNOLOGIES INC CL C",
+      "ticker": "HUT",
+      "name": "HUT 8 CORP COM",
       "sector": "Unknown",
-      "price": 559.16,
-      "changePct": 10.37,
-      "changeDollar": 52.54
+      "price": 99.68,
+      "changePct": 10.02,
+      "changeDollar": 9.08
     },
     {
-      "ticker": "FEIM",
-      "name": "FREQUENCY ELECTRS INC COM",
+      "ticker": "DLLL",
+      "name": "GRANITESHARES ETF TR 2X LONG DELL ETF",
       "sector": "Unknown",
-      "price": 82.96,
-      "changePct": 33.68,
-      "changeDollar": 20.9
+      "price": 36.07,
+      "changePct": 21.08,
+      "changeDollar": 6.28
     },
     {
       "ticker": "BEX",
       "name": "Tradr 2X Long BE Daily ETF",
       "sector": "Unknown",
-      "price": 37.56,
-      "changePct": 12.66,
-      "changeDollar": 4.22
+      "price": 37.55,
+      "changePct": 12.63,
+      "changeDollar": 4.21
     },
     {
       "ticker": "ACVA",
       "name": "ACV AUCTIONS INC COM CL A",
       "sector": "Unknown",
-      "price": 10.44,
-      "changePct": 44.6,
-      "changeDollar": 3.22
+      "price": 10.42,
+      "changePct": 44.32,
+      "changeDollar": 3.2
     },
     {
       "ticker": "VSH",
       "name": "VISHAY INTERTECHNOLOGY INC COM",
       "sector": "Unknown",
-      "price": 33.87,
-      "changePct": 8.25,
-      "changeDollar": 2.58
+      "price": 33.37,
+      "changePct": 6.65,
+      "changeDollar": 2.08
     }
   ],
   "dollarLosers": [
     {
-      "ticker": "QLYS",
-      "name": "QUALYS INC COM",
+      "ticker": "OMDA",
+      "name": "OMADA HEALTH INC COM",
       "sector": "Unknown",
-      "price": 152.05,
-      "changePct": -5.89,
-      "changeDollar": -9.52
-    },
-    {
-      "ticker": "UVIX",
-      "name": "2x Long VIX Futures ETF",
-      "sector": "Unknown",
-      "price": 39.07,
-      "changePct": -9.33,
-      "changeDollar": -4.02
-    },
-    {
-      "ticker": "ETHD",
-      "name": "PROSHARES TR ULTRA ETHER ETF",
-      "sector": "Unknown",
-      "price": 27.51,
-      "changePct": -9.6,
-      "changeDollar": -2.92
-    },
-    {
-      "ticker": "WERN",
-      "name": "WERNER ENTERPRISES INC COM",
-      "sector": "Unknown",
-      "price": 36.62,
-      "changePct": -5.1,
-      "changeDollar": -1.97
+      "price": 19.66,
+      "changePct": -8.56,
+      "changeDollar": -1.84
     },
     {
       "ticker": "SNDU",
       "name": "T-REX 2X Long SNDK Daily Target ETF",
       "sector": "Unknown",
-      "price": 23.54,
-      "changePct": -7.54,
-      "changeDollar": -1.92
+      "price": 23.64,
+      "changePct": -7.15,
+      "changeDollar": -1.82
+    },
+    {
+      "ticker": "TENB",
+      "name": "TENABLE HLDGS INC COM",
+      "sector": "Unknown",
+      "price": 30.32,
+      "changePct": -5.34,
+      "changeDollar": -1.71
+    },
+    {
+      "ticker": "WERN",
+      "name": "WERNER ENTERPRISES INC COM",
+      "sector": "Unknown",
+      "price": 36.94,
+      "changePct": -4.28,
+      "changeDollar": -1.65
+    },
+    {
+      "ticker": "RCUS",
+      "name": "ARCUS BIOSCIENCES INC COM",
+      "sector": "Unknown",
+      "price": 24.6,
+      "changePct": -5.93,
+      "changeDollar": -1.55
     }
   ]
 }
