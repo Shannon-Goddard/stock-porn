@@ -1248,22 +1248,24 @@
         "auto_note": "ALAB CALL | $+27.58 (+9.75%) | dollar_gainer_1 | Strike $390.0 exp 2026-09-11 (6DTE) | IV 88.2% | SPY +nan% | MACRO: rate hike, war"
       },
       "news_scan": {
-        "scanned_at": "2026-09-10 17:45:43 PST",
-        "gap_days": 5,
+        "scanned_at": "2026-09-11 17:48:07 PST",
+        "gap_days": 6,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bearish",
-        "spx_sentiment": "bearish",
+        "spy_sentiment": "bullish",
+        "spx_sentiment": "bullish",
         "keywords_found": [],
         "spy_keywords": [
-          "falls",
+          "surge",
+          "rallies",
           "drops"
         ],
         "spx_keywords": [
-          "drops",
-          "plunges"
+          "raised outlook",
+          "rallies",
+          "warning"
         ],
-        "decision": "sell",
-        "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
+        "decision": "hold",
+        "decision_reason": "neutral keywords confirmed CALL thesis",
         "raw_headlines": {
           "ticker": [
             "MRVL Stock Rises 8.6% Since Q2 Results: Time to Hold or Fold?",
@@ -1271,28 +1273,28 @@
             "The Next Winners May Not Be the Stocks You Expect"
           ],
           "spy": [
-            "Nuclear Stocks Slide as Piper Sandler Splits the Sector: Oklo, NuScale Power and X-Energy All Drop 5%",
-            "Rare Earth Stocks Tumble on U.S.-China Thaw Hopes: USA Rare Earth Sinks 4%, MP Materials Drops 5%, Critical Metals Slips",
-            "SolarEdge Falls 4% on Analyst Day Despite Joint NVIDIA 800 VDC Paper; Enphase Energy and First Solar Edge Higher",
-            "GoPro Spikes 11% as Lumentum Eases and Coherent Holds Flat: Is This a Merger Trade or a Meme Trade?",
-            "Reddit Rises 6% as User Growth Hits Fastest Pace of the Year, Pinterest Ticks Up, Snap Barely Budges",
-            "Copper Stocks Tumble as Tariff Doubt Reverses Record Rally: Freeport-McMoRan Sinks 8%, Teck Resources and Southern Copper Drop 7%",
-            "American Eagle Outfitters Sinks 13% as $161M Tariff Refund Flatters Beat; Urban Outfitters Drops 3%, Abercrombie & Fitch Slips",
-            "Opendoor Sinks 7% as Yield Spike Meets Delayed Profit Timeline, Offerpad and Zillow Group Trail",
-            "Uber Continues Its Free Fall: One Pro Analyst Says It Will Double in the Near Future",
-            "We Named 3 Dividend Stocks to Dominate 2026. Only One Beat the S&P 500."
+            "AMC Gains 5% on Tokenization Truce Signal, Robinhood Barely Budges; Cinemark Treads Water",
+            "TeraWulf Rallies 7% as Miner Selloff Reverses; Applied Digital Gains 4%, IREN Sits Out the Rally",
+            "Moderna Rallies 8% on 2026 Melt-Up Momentum Even While BioNTech and Merck Stay Flat",
+            "Bloom Energy Climbs 7% as Fuel Cell Bid Spreads Beyond Its S&P 500 Add, FuelCell Energy Rises 4%, Plug Power Inches Higher",
+            "Bitmine Surges 8% on Ethereum Strength After Cantor Fitzgerald Doubles Its Target, SharpLink Advances 9%, Strategy Gains 4%",
+            "CPI +3.4%, as Expected: Wherefor Go Fed Rates?",
+            "Meta at $645: Recent Momentum Makes One Thing Very Clear",
+            "NuScale Power Drops 5% as UBS Cuts to Sell on Timeline and Cash Burn, Oklo Slips",
+            "GameStop Climbs 4% as Ryan Cohen Buys One Million Shares, Take-Two and Roblox Hold Steady",
+            "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Friday Amid Inflation Data Release"
           ],
           "spx": [
-            "Stock Market Today: Dow Drops As Fear Gauge Spikes; Copper Players Tumble On Tariff News (Live Coverage)",
-            "Should You Buy Meta Stock For Cash Flow It Plans To Spend?",
-            "The Dow, S&P 500, and Nasdaq All Fell 0.4% on Oil and Inflation",
-            "12 Energy Stocks for Dividend Investors as Oil Prices Rise",
-            "Here's Why You Should Retain Ecolab Stock in Your Portfolio Now",
-            "Is Microsoft Stock Overvalued At 28x Earnings?",
-            "Comfort Systems Stock Plunges 12.4% in 3 Months: Buy the Dip?",
-            "Stock Market Midday, Sept. 10: Surging Oil Prices Pressure Markets Again",
-            "3 Industrials Stocks That Fall Short",
-            "Hancock Whitney Up 16.9% So Far This Year: Should You Buy the Stock?"
+            "Primerica (PRI): Buy, Sell, or Hold Post Q2 Earnings?",
+            "Is UiPath Stock A Buy After Falling Despite A Raised Outlook?",
+            "3 S&P 500 Stocks with Warning Signs",
+            "Stock Market Today: Dow Rallies On Surprise Inflation Data; Analog Devices Retakes Key Level (Live Coverage)",
+            "Stock Market Midday, Sept. 11: Stocks Rise as Falling Oil Prices Outweigh Sticky Inflation",
+            "Update: Communication Services, Technology Push US Equity Indexes Higher in Midday Trading",
+            "A Rate Hike Is Basically Locked In, and Stock Market Indexes Rose Anyway",
+            "3 Reasons to Sell JPM and 1 Stock to Buy Instead",
+            "3 Reasons to Avoid APLD and 1 Stock to Buy Instead",
+            "DELL, HPE Stocks Lead S&P 500 Gains: Oracle\u2019s $95B Capex Plan Lifts AI Stocks"
           ]
         }
       },
@@ -1338,58 +1340,60 @@
         "auto_note": "TSLA PUT | $-22.29 (-5.92%) | dollar_loser_1 | Strike $340.0 exp 2026-09-09 (4DTE) | IV 32.4% | SPY +nan% | MACRO: rate hike, war"
       },
       "news_scan": {
-        "scanned_at": "2026-09-10 17:45:43 PST",
-        "gap_days": 5,
+        "scanned_at": "2026-09-11 17:48:07 PST",
+        "gap_days": 6,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bearish",
-        "spx_sentiment": "bearish",
+        "spy_sentiment": "bullish",
+        "spx_sentiment": "bullish",
         "keywords_found": [],
         "spy_keywords": [
-          "falls",
+          "surge",
+          "rallies",
           "drops"
         ],
         "spx_keywords": [
-          "drops",
-          "plunges"
+          "raised outlook",
+          "rallies",
+          "warning"
         ],
-        "decision": "hold",
-        "decision_reason": "neutral keywords confirmed PUT thesis",
+        "decision": "sell",
+        "decision_reason": "no confirmation for PUT thesis \u2014 sell at open",
         "raw_headlines": {
           "ticker": [
-            "'Clean' Energy And Tech Spending Slides 17%. New Report Blames China, But Doesn't Tell The Whole Story.",
-            "Nvidia Will Pay Its Next Cash Dividend on Oct. 1. Here's How Many Shares of Nvidia (NVDA) Stock You'd Need for $10,000 in Yearly Dividends.",
-            "Will Tesla's China Discounts Lift Q3 Sales or Hurt Margins Further?",
-            "Coca-Cola Is Outperforming Broadcom and Every \"Magnificent Seven\" Stock in 2026. Is It Still a Top Dividend Stock to Buy in September?",
-            "China\u2019s Auto Threat Isn\u2019t Just About EVs. Tesla Is Caught in the Middle.",
-            "Elon Musk Raises $3 Billion For Tunneling Startup The Boring Company",
-            "Why Analysts Are Bearish On This Tesla Energy Rival",
-            "Tesla's Cybercab Can Be 50% Cheaper Than Uber\u2014So Why Is It Sometimes Twice as Expensive?",
-            "Elon Musk's Underground Bet Just Got a Much Bigger Backer",
-            "In A SpaceX-Tesla Merger, Elon Musk May Be The Big Winner. What It May Mean For Other Investors."
+            "What a Republican 'wipeout' in the midterm elections means for investors",
+            "Tesla to introduce Semi electric truck in Europe",
+            "Is Tesla Stock Priced For Its Earnings Or Its Robots?",
+            "Prediction: Tesla\u2019s Biggest Catalyst May Still Be Ahead",
+            "Can Rivian Automotive Stock Rally If Its Factory Catches Up With Demand?",
+            "Kalshi wants 24/7 perps on Tesla, Apple & Nvidia",
+            "Elon Musk Says Anthropic\u2019s 15% US GDP Growth Scenario Will 'Certainly Be True\u2019 Once Humanoid Robots Reach Volume Production",
+            "Tesla Semi Gets Boost From $6 Diesel; Morgan Stanley Says Earnings Potential 'Underappreciated'",
+            "2 Robotaxi Stocks to Buy in September for the Next Decade of Growth",
+            "Tesla\u2019s Trucking Business Could Unlock A $17B Software Opportunity, Morgan Stanley Says"
           ],
           "spy": [
-            "Nuclear Stocks Slide as Piper Sandler Splits the Sector: Oklo, NuScale Power and X-Energy All Drop 5%",
-            "Rare Earth Stocks Tumble on U.S.-China Thaw Hopes: USA Rare Earth Sinks 4%, MP Materials Drops 5%, Critical Metals Slips",
-            "SolarEdge Falls 4% on Analyst Day Despite Joint NVIDIA 800 VDC Paper; Enphase Energy and First Solar Edge Higher",
-            "GoPro Spikes 11% as Lumentum Eases and Coherent Holds Flat: Is This a Merger Trade or a Meme Trade?",
-            "Reddit Rises 6% as User Growth Hits Fastest Pace of the Year, Pinterest Ticks Up, Snap Barely Budges",
-            "Copper Stocks Tumble as Tariff Doubt Reverses Record Rally: Freeport-McMoRan Sinks 8%, Teck Resources and Southern Copper Drop 7%",
-            "American Eagle Outfitters Sinks 13% as $161M Tariff Refund Flatters Beat; Urban Outfitters Drops 3%, Abercrombie & Fitch Slips",
-            "Opendoor Sinks 7% as Yield Spike Meets Delayed Profit Timeline, Offerpad and Zillow Group Trail",
-            "Uber Continues Its Free Fall: One Pro Analyst Says It Will Double in the Near Future",
-            "We Named 3 Dividend Stocks to Dominate 2026. Only One Beat the S&P 500."
+            "AMC Gains 5% on Tokenization Truce Signal, Robinhood Barely Budges; Cinemark Treads Water",
+            "TeraWulf Rallies 7% as Miner Selloff Reverses; Applied Digital Gains 4%, IREN Sits Out the Rally",
+            "Moderna Rallies 8% on 2026 Melt-Up Momentum Even While BioNTech and Merck Stay Flat",
+            "Bloom Energy Climbs 7% as Fuel Cell Bid Spreads Beyond Its S&P 500 Add, FuelCell Energy Rises 4%, Plug Power Inches Higher",
+            "Bitmine Surges 8% on Ethereum Strength After Cantor Fitzgerald Doubles Its Target, SharpLink Advances 9%, Strategy Gains 4%",
+            "CPI +3.4%, as Expected: Wherefor Go Fed Rates?",
+            "Meta at $645: Recent Momentum Makes One Thing Very Clear",
+            "NuScale Power Drops 5% as UBS Cuts to Sell on Timeline and Cash Burn, Oklo Slips",
+            "GameStop Climbs 4% as Ryan Cohen Buys One Million Shares, Take-Two and Roblox Hold Steady",
+            "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Friday Amid Inflation Data Release"
           ],
           "spx": [
-            "Stock Market Today: Dow Drops As Fear Gauge Spikes; Copper Players Tumble On Tariff News (Live Coverage)",
-            "Should You Buy Meta Stock For Cash Flow It Plans To Spend?",
-            "The Dow, S&P 500, and Nasdaq All Fell 0.4% on Oil and Inflation",
-            "12 Energy Stocks for Dividend Investors as Oil Prices Rise",
-            "Here's Why You Should Retain Ecolab Stock in Your Portfolio Now",
-            "Is Microsoft Stock Overvalued At 28x Earnings?",
-            "Comfort Systems Stock Plunges 12.4% in 3 Months: Buy the Dip?",
-            "Stock Market Midday, Sept. 10: Surging Oil Prices Pressure Markets Again",
-            "3 Industrials Stocks That Fall Short",
-            "Hancock Whitney Up 16.9% So Far This Year: Should You Buy the Stock?"
+            "Primerica (PRI): Buy, Sell, or Hold Post Q2 Earnings?",
+            "Is UiPath Stock A Buy After Falling Despite A Raised Outlook?",
+            "3 S&P 500 Stocks with Warning Signs",
+            "Stock Market Today: Dow Rallies On Surprise Inflation Data; Analog Devices Retakes Key Level (Live Coverage)",
+            "Stock Market Midday, Sept. 11: Stocks Rise as Falling Oil Prices Outweigh Sticky Inflation",
+            "Update: Communication Services, Technology Push US Equity Indexes Higher in Midday Trading",
+            "A Rate Hike Is Basically Locked In, and Stock Market Indexes Rose Anyway",
+            "3 Reasons to Sell JPM and 1 Stock to Buy Instead",
+            "3 Reasons to Avoid APLD and 1 Stock to Buy Instead",
+            "DELL, HPE Stocks Lead S&P 500 Gains: Oracle\u2019s $95B Capex Plan Lifts AI Stocks"
           ]
         }
       },
@@ -1432,52 +1436,54 @@
         "auto_note": "DDOG CALL | $+15.04 (+7.15%) | dollar_gainer_1 | Strike $240.0 exp 2026-09-11 (1DTE) | IV 68.4% | SPY +nan% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-09-10 17:45:43 PST",
-        "gap_days": 0,
+        "scanned_at": "2026-09-11 17:48:07 PST",
+        "gap_days": 1,
         "ticker_sentiment": "bullish",
-        "spy_sentiment": "bearish",
-        "spx_sentiment": "bearish",
+        "spy_sentiment": "bullish",
+        "spx_sentiment": "bullish",
         "keywords_found": [
           "jumps"
         ],
         "spy_keywords": [
-          "falls",
+          "surge",
+          "rallies",
           "drops"
         ],
         "spx_keywords": [
-          "drops",
-          "plunges"
+          "raised outlook",
+          "rallies",
+          "warning"
         ],
         "decision": "hold",
         "decision_reason": "bullish keywords confirmed CALL thesis",
         "raw_headlines": {
           "ticker": [
-            "Fastly Jumps 7%: Is This an Oversold Bounce or the Start of a Run?",
-            "Palantir Stock Leads August Rally -- Nvidia, Salesforce and Super Micro Jump"
+            "Wedbush Names CrowdStrike and Palo Alto Networks AI Cybersecurity Winners",
+            "Fastly Jumps 7%: Is This an Oversold Bounce or the Start of a Run?"
           ],
           "spy": [
-            "Nuclear Stocks Slide as Piper Sandler Splits the Sector: Oklo, NuScale Power and X-Energy All Drop 5%",
-            "Rare Earth Stocks Tumble on U.S.-China Thaw Hopes: USA Rare Earth Sinks 4%, MP Materials Drops 5%, Critical Metals Slips",
-            "SolarEdge Falls 4% on Analyst Day Despite Joint NVIDIA 800 VDC Paper; Enphase Energy and First Solar Edge Higher",
-            "GoPro Spikes 11% as Lumentum Eases and Coherent Holds Flat: Is This a Merger Trade or a Meme Trade?",
-            "Reddit Rises 6% as User Growth Hits Fastest Pace of the Year, Pinterest Ticks Up, Snap Barely Budges",
-            "Copper Stocks Tumble as Tariff Doubt Reverses Record Rally: Freeport-McMoRan Sinks 8%, Teck Resources and Southern Copper Drop 7%",
-            "American Eagle Outfitters Sinks 13% as $161M Tariff Refund Flatters Beat; Urban Outfitters Drops 3%, Abercrombie & Fitch Slips",
-            "Opendoor Sinks 7% as Yield Spike Meets Delayed Profit Timeline, Offerpad and Zillow Group Trail",
-            "Uber Continues Its Free Fall: One Pro Analyst Says It Will Double in the Near Future",
-            "We Named 3 Dividend Stocks to Dominate 2026. Only One Beat the S&P 500."
+            "AMC Gains 5% on Tokenization Truce Signal, Robinhood Barely Budges; Cinemark Treads Water",
+            "TeraWulf Rallies 7% as Miner Selloff Reverses; Applied Digital Gains 4%, IREN Sits Out the Rally",
+            "Moderna Rallies 8% on 2026 Melt-Up Momentum Even While BioNTech and Merck Stay Flat",
+            "Bloom Energy Climbs 7% as Fuel Cell Bid Spreads Beyond Its S&P 500 Add, FuelCell Energy Rises 4%, Plug Power Inches Higher",
+            "Bitmine Surges 8% on Ethereum Strength After Cantor Fitzgerald Doubles Its Target, SharpLink Advances 9%, Strategy Gains 4%",
+            "CPI +3.4%, as Expected: Wherefor Go Fed Rates?",
+            "Meta at $645: Recent Momentum Makes One Thing Very Clear",
+            "NuScale Power Drops 5% as UBS Cuts to Sell on Timeline and Cash Burn, Oklo Slips",
+            "GameStop Climbs 4% as Ryan Cohen Buys One Million Shares, Take-Two and Roblox Hold Steady",
+            "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Friday Amid Inflation Data Release"
           ],
           "spx": [
-            "Stock Market Today: Dow Drops As Fear Gauge Spikes; Copper Players Tumble On Tariff News (Live Coverage)",
-            "Should You Buy Meta Stock For Cash Flow It Plans To Spend?",
-            "The Dow, S&P 500, and Nasdaq All Fell 0.4% on Oil and Inflation",
-            "12 Energy Stocks for Dividend Investors as Oil Prices Rise",
-            "Here's Why You Should Retain Ecolab Stock in Your Portfolio Now",
-            "Is Microsoft Stock Overvalued At 28x Earnings?",
-            "Comfort Systems Stock Plunges 12.4% in 3 Months: Buy the Dip?",
-            "Stock Market Midday, Sept. 10: Surging Oil Prices Pressure Markets Again",
-            "3 Industrials Stocks That Fall Short",
-            "Hancock Whitney Up 16.9% So Far This Year: Should You Buy the Stock?"
+            "Primerica (PRI): Buy, Sell, or Hold Post Q2 Earnings?",
+            "Is UiPath Stock A Buy After Falling Despite A Raised Outlook?",
+            "3 S&P 500 Stocks with Warning Signs",
+            "Stock Market Today: Dow Rallies On Surprise Inflation Data; Analog Devices Retakes Key Level (Live Coverage)",
+            "Stock Market Midday, Sept. 11: Stocks Rise as Falling Oil Prices Outweigh Sticky Inflation",
+            "Update: Communication Services, Technology Push US Equity Indexes Higher in Midday Trading",
+            "A Rate Hike Is Basically Locked In, and Stock Market Indexes Rose Anyway",
+            "3 Reasons to Sell JPM and 1 Stock to Buy Instead",
+            "3 Reasons to Avoid APLD and 1 Stock to Buy Instead",
+            "DELL, HPE Stocks Lead S&P 500 Gains: Oracle\u2019s $95B Capex Plan Lifts AI Stocks"
           ]
         }
       },
@@ -1522,7 +1528,53 @@
         ],
         "auto_note": "RGTZ CALL | $+14.18 (+402.84%) | dollar_gainer_1 | Strike $8.0 exp 2026-09-18 (7DTE) | IV 0.0% | SPY +nan% | MACRO: rate hike, china"
       },
-      "news_scan": null,
+      "news_scan": {
+        "scanned_at": "2026-09-11 17:48:07 PST",
+        "gap_days": 0,
+        "ticker_sentiment": "neutral",
+        "spy_sentiment": "bullish",
+        "spx_sentiment": "bullish",
+        "keywords_found": [],
+        "spy_keywords": [
+          "surge",
+          "rallies",
+          "drops"
+        ],
+        "spx_keywords": [
+          "raised outlook",
+          "rallies",
+          "warning"
+        ],
+        "decision": "hold",
+        "decision_reason": "neutral keywords confirmed CALL thesis",
+        "raw_headlines": {
+          "ticker": [],
+          "spy": [
+            "AMC Gains 5% on Tokenization Truce Signal, Robinhood Barely Budges; Cinemark Treads Water",
+            "TeraWulf Rallies 7% as Miner Selloff Reverses; Applied Digital Gains 4%, IREN Sits Out the Rally",
+            "Moderna Rallies 8% on 2026 Melt-Up Momentum Even While BioNTech and Merck Stay Flat",
+            "Bloom Energy Climbs 7% as Fuel Cell Bid Spreads Beyond Its S&P 500 Add, FuelCell Energy Rises 4%, Plug Power Inches Higher",
+            "Bitmine Surges 8% on Ethereum Strength After Cantor Fitzgerald Doubles Its Target, SharpLink Advances 9%, Strategy Gains 4%",
+            "CPI +3.4%, as Expected: Wherefor Go Fed Rates?",
+            "Meta at $645: Recent Momentum Makes One Thing Very Clear",
+            "NuScale Power Drops 5% as UBS Cuts to Sell on Timeline and Cash Burn, Oklo Slips",
+            "GameStop Climbs 4% as Ryan Cohen Buys One Million Shares, Take-Two and Roblox Hold Steady",
+            "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Friday Amid Inflation Data Release"
+          ],
+          "spx": [
+            "Primerica (PRI): Buy, Sell, or Hold Post Q2 Earnings?",
+            "Is UiPath Stock A Buy After Falling Despite A Raised Outlook?",
+            "3 S&P 500 Stocks with Warning Signs",
+            "Stock Market Today: Dow Rallies On Surprise Inflation Data; Analog Devices Retakes Key Level (Live Coverage)",
+            "Stock Market Midday, Sept. 11: Stocks Rise as Falling Oil Prices Outweigh Sticky Inflation",
+            "Update: Communication Services, Technology Push US Equity Indexes Higher in Midday Trading",
+            "A Rate Hike Is Basically Locked In, and Stock Market Indexes Rose Anyway",
+            "3 Reasons to Sell JPM and 1 Stock to Buy Instead",
+            "3 Reasons to Avoid APLD and 1 Stock to Buy Instead",
+            "DELL, HPE Stocks Lead S&P 500 Gains: Oracle\u2019s $95B Capex Plan Lifts AI Stocks"
+          ]
+        }
+      },
       "exit": null,
       "fomo": null
     }
