@@ -1483,6 +1483,48 @@
       },
       "exit": null,
       "fomo": null
+    },
+    {
+      "id": 15,
+      "status": "open",
+      "entry": {
+        "date": "2026-09-11",
+        "time": "15:55 PST",
+        "ticker": "RGTZ",
+        "name": "TIDAL TRUST II DEFIANCE DLY TRG",
+        "sector": "Unknown",
+        "type": "CALL",
+        "strike": 8.0,
+        "expiration": "2026-09-18",
+        "dte_at_entry": 7,
+        "T_at_entry": 0.019178,
+        "stock_price_at_entry": 17.7,
+        "premium": 0.35,
+        "cost": 35.0,
+        "bid": null,
+        "spread": null,
+        "iv_at_entry": 0.0,
+        "otm_pct": -54.8,
+        "expected_move": {
+          "one_sigma_pct": 0.0,
+          "upper": 17.7,
+          "lower": 17.7,
+          "strike_position": "inside"
+        },
+        "signal_rank": "dollar_gainer_1",
+        "signal_pct": 402.84,
+        "signal_dollar": 14.18,
+        "spy_change": NaN,
+        "macro_active": true,
+        "macro_keywords": [
+          "rate hike",
+          "china"
+        ],
+        "auto_note": "RGTZ CALL | $+14.18 (+402.84%) | dollar_gainer_1 | Strike $8.0 exp 2026-09-18 (7DTE) | IV 0.0% | SPY +nan% | MACRO: rate hike, china"
+      },
+      "news_scan": null,
+      "exit": null,
+      "fomo": null
     }
   ]
 }
