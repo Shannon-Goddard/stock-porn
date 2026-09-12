@@ -196,5 +196,27 @@
     "youtube_id": null,
     "images": [],
     "published": true
+  },
+  {
+    "id": 16,
+    "date": "2026-09-12",
+    "ticker": "VICR",
+    "type": "CALL",
+    "trade_id": 16,
+    "title": "VICR CALL \u2014 2026-09-12",
+    "youtube_id": null,
+    "images": [],
+    "published": true
+  },
+  {
+    "id": 17,
+    "date": "2026-09-12",
+    "ticker": "LEU",
+    "type": "PUT",
+    "trade_id": 17,
+    "title": "LEU PUT \u2014 2026-09-12",
+    "youtube_id": null,
+    "images": [],
+    "published": true
   }
 ]

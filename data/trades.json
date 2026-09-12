@@ -1577,6 +1577,88 @@
       },
       "exit": null,
       "fomo": null
+    },
+    {
+      "id": 16,
+      "status": "open",
+      "entry": {
+        "date": "2026-09-12",
+        "time": "15:55 PST",
+        "ticker": "VICR",
+        "name": "VICOR CORP COM",
+        "sector": "Unknown",
+        "type": "CALL",
+        "strike": 240.0,
+        "expiration": "2026-09-18",
+        "dte_at_entry": 6,
+        "T_at_entry": 0.016438,
+        "stock_price_at_entry": 197.91,
+        "premium": 0.9,
+        "cost": 90.0,
+        "bid": 0.25,
+        "spread": 0.65,
+        "iv_at_entry": 0.8599,
+        "otm_pct": 21.27,
+        "expected_move": {
+          "one_sigma_pct": 11.02,
+          "upper": 219.73,
+          "lower": 176.09,
+          "strike_position": "outside"
+        },
+        "signal_rank": "dollar_gainer_1",
+        "signal_pct": 11.15,
+        "signal_dollar": 19.86,
+        "spy_change": NaN,
+        "macro_active": true,
+        "macro_keywords": [
+          "fed"
+        ],
+        "auto_note": "VICR CALL | $+19.86 (+11.15%) | dollar_gainer_1 | Strike $240.0 exp 2026-09-18 (6DTE) | IV 86.0% | SPY +nan% | MACRO: fed"
+      },
+      "news_scan": null,
+      "exit": null,
+      "fomo": null
+    },
+    {
+      "id": 17,
+      "status": "open",
+      "entry": {
+        "date": "2026-09-12",
+        "time": "15:55 PST",
+        "ticker": "LEU",
+        "name": "CENTRUS ENERGY CORP CL A",
+        "sector": "Unknown",
+        "type": "PUT",
+        "strike": 135.0,
+        "expiration": "2026-09-18",
+        "dte_at_entry": 6,
+        "T_at_entry": 0.016438,
+        "stock_price_at_entry": 152.31,
+        "premium": 0.5,
+        "cost": 50.0,
+        "bid": 0.1,
+        "spread": 0.4,
+        "iv_at_entry": 0.5654,
+        "otm_pct": 11.36,
+        "expected_move": {
+          "one_sigma_pct": 7.25,
+          "upper": 163.35,
+          "lower": 141.27,
+          "strike_position": "outside"
+        },
+        "signal_rank": "dollar_loser_1",
+        "signal_pct": -8.18,
+        "signal_dollar": -13.56,
+        "spy_change": NaN,
+        "macro_active": true,
+        "macro_keywords": [
+          "fed"
+        ],
+        "auto_note": "LEU PUT | $-13.56 (-8.18%) | dollar_loser_1 | Strike $135.0 exp 2026-09-18 (6DTE) | IV 56.5% | SPY +nan% | MACRO: fed"
+      },
+      "news_scan": null,
+      "exit": null,
+      "fomo": null
     }
   ]
 }
