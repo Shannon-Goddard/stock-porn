@@ -1,166 +1,166 @@
 {
   "topGainers": [
     {
-      "ticker": "RPD",
-      "name": "RAPID7 INC COM",
+      "ticker": "AAOZ",
+      "name": "Tradr 2X Short AAOI Daily ETF",
       "sector": "Unknown",
-      "price": 12.56,
-      "changePct": 21.82,
-      "changeDollar": 2.25
+      "price": 15.88,
+      "changePct": 18.15,
+      "changeDollar": 2.44
     },
     {
-      "ticker": "ZS",
-      "name": "ZSCALER INC COM",
+      "ticker": "NTSK",
+      "name": "NETSKOPE INC CL A",
       "sector": "Unknown",
-      "price": 190.33,
-      "changePct": 15.67,
-      "changeDollar": 25.79
+      "price": 17.0,
+      "changePct": 15.65,
+      "changeDollar": 2.3
     },
     {
-      "ticker": "TYRA",
-      "name": "TYRA BIOSCIENCES INC COM",
+      "ticker": "SAIL",
+      "name": "SAILPOINT INC COM",
       "sector": "Unknown",
-      "price": 25.44,
-      "changePct": 15.48,
-      "changeDollar": 3.41
+      "price": 19.88,
+      "changePct": 15.31,
+      "changeDollar": 2.64
     },
     {
-      "ticker": "SOXS",
-      "name": "DIREXION SHARES ETF TRUST DAI SEM 3X ETF",
+      "ticker": "S",
+      "name": "SENTINELONE INC CL A",
       "sector": "Unknown",
-      "price": 50.62,
-      "changePct": 14.7,
-      "changeDollar": 6.49
-    },
-    {
-      "ticker": "XXRP",
-      "name": "LISTED FDS TR TEUCR 2X XRP ETF",
-      "sector": "Unknown",
-      "price": 35.44,
-      "changePct": 14.47,
-      "changeDollar": 4.48
+      "price": 22.61,
+      "changePct": 14.48,
+      "changeDollar": 2.86
     },
     {
       "ticker": "PANW",
       "name": "PALO ALTO NETWORKS INC COM",
       "sector": "Unknown",
-      "price": 375.26,
-      "changePct": 13.49,
-      "changeDollar": 44.61
+      "price": 373.94,
+      "changePct": 13.09,
+      "changeDollar": 43.29
     },
     {
-      "ticker": "AAOZ",
-      "name": "Tradr 2X Short AAOI Daily ETF",
+      "ticker": "SNDQ",
+      "name": "Tradr 2X Short SNDK Daily ETF",
       "sector": "Unknown",
-      "price": 15.23,
-      "changePct": 13.32,
-      "changeDollar": 1.79
+      "price": 14.48,
+      "changePct": 10.11,
+      "changeDollar": 1.33
     },
     {
-      "ticker": "CRCG",
-      "name": "THEMES ETF TR LEVERAGE SHS 2X",
+      "ticker": "MSTX",
+      "name": "TIDAL TRUST II DE 2X LO MS ETF",
       "sector": "Unknown",
-      "price": 16.82,
-      "changePct": 11.02,
-      "changeDollar": 1.67
+      "price": 15.29,
+      "changePct": 9.14,
+      "changeDollar": 1.28
     },
     {
-      "ticker": "ORCZ",
-      "name": "Tradr 2X Short ORCL Daily ETF",
+      "ticker": "FTNT",
+      "name": "FORTINET INC COM",
       "sector": "Unknown",
-      "price": 16.81,
-      "changePct": 9.44,
-      "changeDollar": 1.45
+      "price": 170.18,
+      "changePct": 9.04,
+      "changeDollar": 14.11
     },
     {
-      "ticker": "MSTU",
-      "name": "T-Rex 2X Long MSTR Daily Target ETF",
+      "ticker": "GWRE",
+      "name": "GUIDEWIRE SOFTWARE INC COM",
       "sector": "Unknown",
-      "price": 33.09,
-      "changePct": 8.81,
-      "changeDollar": 2.68
+      "price": 153.0,
+      "changePct": 8.57,
+      "changeDollar": 12.08
+    },
+    {
+      "ticker": "AMPL",
+      "name": "AMPLITUDE INC COM CL A",
+      "sector": "Unknown",
+      "price": 13.65,
+      "changePct": 8.42,
+      "changeDollar": 1.06
     }
   ],
   "topLosers": [
     {
-      "ticker": "HQ",
-      "name": "HORIZON QUANTUM HOLDINGS LTD CL A ORD SHS",
+      "ticker": "SMCL",
+      "name": "GRANITESHARES ETF TR 2X LO SMCI DA ET",
       "sector": "Unknown",
-      "price": 10.44,
-      "changePct": -31.41,
-      "changeDollar": -4.78
+      "price": 15.75,
+      "changePct": -16.8,
+      "changeDollar": -3.18
     },
     {
-      "ticker": "COHR",
-      "name": "COHERENT CORP COM",
+      "ticker": "SKHU",
+      "name": "PROSHARES TR ULTRA SK HYNIX",
       "sector": "Unknown",
-      "price": 271.64,
-      "changePct": -11.05,
-      "changeDollar": -33.73
+      "price": 20.36,
+      "changePct": -15.52,
+      "changeDollar": -3.74
     },
     {
-      "ticker": "ONTO",
-      "name": "ONTO INNOVATION INC COM",
+      "ticker": "MVLL",
+      "name": "GRANITESHARES ETF TR 2X LONG MRVL",
       "sector": "Unknown",
-      "price": 252.59,
-      "changePct": -10.2,
-      "changeDollar": -28.68
-    },
-    {
-      "ticker": "INIO",
-      "name": "INNIO NV ORDINARY SHARES",
-      "sector": "Unknown",
-      "price": 18.28,
-      "changePct": -10.17,
-      "changeDollar": -2.07
-    },
-    {
-      "ticker": "LSCC",
-      "name": "LATTICE SEMICONDUCTOR CORP COM",
-      "sector": "Unknown",
-      "price": 107.69,
-      "changePct": -10.08,
-      "changeDollar": -12.07
+      "price": 25.04,
+      "changePct": -14.6,
+      "changeDollar": -4.28
     },
     {
       "ticker": "BAND",
       "name": "BANDWIDTH INC COM CL A",
       "sector": "Unknown",
-      "price": 51.25,
-      "changePct": -9.88,
-      "changeDollar": -5.62
+      "price": 48.97,
+      "changePct": -13.89,
+      "changeDollar": -7.9
     },
     {
-      "ticker": "MUU",
-      "name": "DIREXION SHARES ETF TRUST DLY MU BULL 2X",
+      "ticker": "GLW",
+      "name": "CORNING INC COM",
       "sector": "Unknown",
-      "price": 28.45,
-      "changePct": -9.48,
-      "changeDollar": -2.98
+      "price": 143.6,
+      "changePct": -13.7,
+      "changeDollar": -22.8
     },
     {
-      "ticker": "EROC",
-      "name": "EROCK INC CL A COM",
+      "ticker": "COHR",
+      "name": "COHERENT CORP COM",
       "sector": "Unknown",
-      "price": 11.59,
-      "changePct": -8.74,
-      "changeDollar": -1.11
+      "price": 266.5,
+      "changePct": -12.73,
+      "changeDollar": -38.87
     },
     {
-      "ticker": "SMST",
-      "name": "TIDAL TRUST II DEFI DA TA 2025",
+      "ticker": "COHU",
+      "name": "COHU INC COM",
       "sector": "Unknown",
-      "price": 19.7,
-      "changePct": -8.58,
-      "changeDollar": -1.85
+      "price": 49.97,
+      "changePct": -12.46,
+      "changeDollar": -7.11
     },
     {
-      "ticker": "OLED",
-      "name": "UNIVERSAL DISPLAY CORP COM",
+      "ticker": "AXTI",
+      "name": "AXT INC COM",
       "sector": "Unknown",
-      "price": 76.62,
-      "changePct": -8.29,
-      "changeDollar": -6.93
+      "price": 57.06,
+      "changePct": -11.9,
+      "changeDollar": -7.71
+    },
+    {
+      "ticker": "ALAB",
+      "name": "ASTERA LABS INC COM",
+      "sector": "Unknown",
+      "price": 257.04,
+      "changePct": -11.74,
+      "changeDollar": -34.18
+    },
+    {
+      "ticker": "NBIL",
+      "name": "GRANITESHARES ETF TR 2X LONG NBIS DLY",
+      "sector": "Unknown",
+      "price": 21.8,
+      "changePct": -11.09,
+      "changeDollar": -2.72
     }
   ],
   "dollarGainers": [
@@ -168,41 +168,41 @@
       "ticker": "PANW",
       "name": "PALO ALTO NETWORKS INC COM",
       "sector": "Unknown",
-      "price": 375.26,
-      "changePct": 13.49,
-      "changeDollar": 44.61
+      "price": 373.94,
+      "changePct": 13.09,
+      "changeDollar": 43.29
     },
     {
-      "ticker": "ZS",
-      "name": "ZSCALER INC COM",
+      "ticker": "FTNT",
+      "name": "FORTINET INC COM",
       "sector": "Unknown",
-      "price": 190.33,
-      "changePct": 15.67,
-      "changeDollar": 25.79
+      "price": 170.18,
+      "changePct": 9.04,
+      "changeDollar": 14.11
     },
     {
-      "ticker": "SOXS",
-      "name": "DIREXION SHARES ETF TRUST DAI SEM 3X ETF",
+      "ticker": "GWRE",
+      "name": "GUIDEWIRE SOFTWARE INC COM",
       "sector": "Unknown",
-      "price": 50.62,
-      "changePct": 14.7,
-      "changeDollar": 6.49
+      "price": 153.0,
+      "changePct": 8.57,
+      "changeDollar": 12.08
     },
     {
-      "ticker": "XXRP",
-      "name": "LISTED FDS TR TEUCR 2X XRP ETF",
+      "ticker": "S",
+      "name": "SENTINELONE INC CL A",
       "sector": "Unknown",
-      "price": 35.44,
-      "changePct": 14.47,
-      "changeDollar": 4.48
+      "price": 22.61,
+      "changePct": 14.48,
+      "changeDollar": 2.86
     },
     {
-      "ticker": "TYRA",
-      "name": "TYRA BIOSCIENCES INC COM",
+      "ticker": "SAIL",
+      "name": "SAILPOINT INC COM",
       "sector": "Unknown",
-      "price": 25.44,
-      "changePct": 15.48,
-      "changeDollar": 3.41
+      "price": 19.88,
+      "changePct": 15.31,
+      "changeDollar": 2.64
     }
   ],
   "dollarLosers": [
@@ -210,41 +210,41 @@
       "ticker": "COHR",
       "name": "COHERENT CORP COM",
       "sector": "Unknown",
-      "price": 271.64,
-      "changePct": -11.05,
-      "changeDollar": -33.73
+      "price": 266.5,
+      "changePct": -12.73,
+      "changeDollar": -38.87
     },
     {
-      "ticker": "ONTO",
-      "name": "ONTO INNOVATION INC COM",
+      "ticker": "ALAB",
+      "name": "ASTERA LABS INC COM",
       "sector": "Unknown",
-      "price": 252.59,
-      "changePct": -10.2,
-      "changeDollar": -28.68
+      "price": 257.04,
+      "changePct": -11.74,
+      "changeDollar": -34.18
     },
     {
-      "ticker": "LSCC",
-      "name": "LATTICE SEMICONDUCTOR CORP COM",
+      "ticker": "GLW",
+      "name": "CORNING INC COM",
       "sector": "Unknown",
-      "price": 107.69,
-      "changePct": -10.08,
-      "changeDollar": -12.07
-    },
-    {
-      "ticker": "OLED",
-      "name": "UNIVERSAL DISPLAY CORP COM",
-      "sector": "Unknown",
-      "price": 76.62,
-      "changePct": -8.29,
-      "changeDollar": -6.93
+      "price": 143.6,
+      "changePct": -13.7,
+      "changeDollar": -22.8
     },
     {
       "ticker": "BAND",
       "name": "BANDWIDTH INC COM CL A",
       "sector": "Unknown",
-      "price": 51.25,
-      "changePct": -9.88,
-      "changeDollar": -5.62
+      "price": 48.97,
+      "changePct": -13.89,
+      "changeDollar": -7.9
+    },
+    {
+      "ticker": "AXTI",
+      "name": "AXT INC COM",
+      "sector": "Unknown",
+      "price": 57.06,
+      "changePct": -11.9,
+      "changeDollar": -7.71
     }
   ]
 }
