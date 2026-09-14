@@ -1248,65 +1248,58 @@
         "auto_note": "ALAB CALL | $+27.58 (+9.75%) | dollar_gainer_1 | Strike $390.0 exp 2026-09-11 (6DTE) | IV 88.2% | SPY +nan% | MACRO: rate hike, war"
       },
       "news_scan": {
-        "scanned_at": "2026-09-14 18:47:20 PST",
+        "scanned_at": "2026-09-14 19:30:39 PST",
         "gap_days": 9,
         "ticker_sentiment": "bullish",
         "spy_sentiment": "bearish",
-        "spx_sentiment": "bearish",
+        "spx_sentiment": "neutral",
         "keywords_found": [
           "surge"
         ],
         "spy_keywords": [
-          "upgrade",
           "surge",
           "jumps",
           "rallies",
-          "downgrade",
           "warning",
           "falls",
           "drops",
           "tumbles"
         ],
-        "spx_keywords": [
-          "warning",
-          "drops",
-          "tumbles"
-        ],
+        "spx_keywords": [],
         "decision": "hold",
         "decision_reason": "bullish keywords confirmed CALL thesis",
         "raw_headlines": {
           "ticker": [
+            "Why Is Astera Labs Stock Down Today?",
             "ADI's Communications Segment Surges on AI Demand: What's Ahead?",
             "Are Computer and Technology Stocks Lagging  Astera Labs, Inc. (ALAB) This Year?",
             "Nvidia Is Letting Rival AI Chips Into Its Racks. Astera Labs Could Be the Quiet Winner",
             "Why Astera Labs, Inc. (ALAB) Outpaced the Stock Market Today",
-            "Astera Labs Chairman Manuel Alba Sells 183,000 Shares for $51.3 Million. How Big of a Red Flag Is This?",
-            "Astera Labs vs. Marvell Technology: Which AI-Driven Tech Stock Is a Better Buy in 2026?",
-            "Astera Labs vs. Applied Materials: Which Technology Stock Is a Better Buy in 2026?"
+            "Astera Labs Chairman Manuel Alba Sells 183,000 Shares for $51.3 Million. How Big of a Red Flag Is This?"
           ],
           "spy": [
+            "Coca-Cola Stock Is Up 29% in 2026: What Will It Take to Break Through $100?",
+            "Texas Instruments Is Up 55% in 2026: This Is the Secret Tech Stock You\u2019re Missing Out On",
+            "CHWY Is Still Down 34% This Year: Did CHWY Stock Just Find a Bottom?",
             "Corning Tumbles 12% on $2B At-the-Market Equity Offering; Coherent Sinks 11%, Lumentum Drops 9%, Fabrinet Slides 6%",
             "Netflix Climbs 4%, Alphabet Ticks Up, Amazon Barely Budges as New Streaming Policy Alliance Launches",
             "U.S. Household Wealth Explodes by Record $12.5 Trillion in Q2 \u2014 Largest Jump Ever Recorded",
             "Roblox Jumps 10% as Wedbush Lifts Target to $48 While Staying Neutral; Take-Two and GameStop Nudge Higher",
             "Caterpillar Falls 4% While Deere Edges Higher: Is the Data Center Power Trade Unwinding?",
             "10-Year Treasury Yield Just Passed 5%, Here\u2019s What Happened To The Market When The Same Thing Happened In 2007",
-            "Cybersecurity Stocks Surge as AI Safety Warnings Spark Security Bid: CrowdStrike and Zscaler Jump 12%, Palo Alto Rallies 11%",
-            "Coinbase Jumps 6% on Compass Point Upgrade Ahead of Senate CLARITY Act Vote; Strategy Climbs 3%, MARA Slips",
-            "Chip Equipment Stocks Slide as AI Pacing Call Reaches Fab Spending: Applied Materials and Lam Research Fall 6%, ASML Sinks 5%",
-            "Hewlett Packard Enterprise Sinks 9% on Downgrade After Triple-Digit Run; Dell Falls 5%, Super Micro Drops 8%"
+            "Cybersecurity Stocks Surge as AI Safety Warnings Spark Security Bid: CrowdStrike and Zscaler Jump 12%, Palo Alto Rallies 11%"
           ],
           "spx": [
             "Stocks could have a tough road ahead if the Fed hikes rates: Chart of the Day",
-            "Spencer Jakab | Stocks Have the Midterm Blues",
-            "1 Consumer Stock to Research Further and 2 We Question",
-            "Benchmark Yield Hits 5%. How Will Stocks Respond To A Fed Rate Hike?",
-            "Update: Equities Fall Intraday Amid AI Safety Warnings",
-            "3 Consumer Stocks We Approach with Caution",
-            "Update: US Equity Indexes Retreat as 10-Year Treasury Yield Crosses 5% Threshold, Crude Oil Extends Gains",
-            "Corning Tumbles 12% on $2B At-the-Market Equity Offering; Coherent Sinks 11%, Lumentum Drops 9%, Fabrinet Slides 6%",
-            "Nasdaq Recovers, but Industrial Stocks Are Still Struggling",
-            "Is This Gold Stock Polishing \u2014 Or Losing \u2014 Its Luster? Watch These Lines"
+            "Stocks fall as oil and bond yields rise",
+            "INCY Stock Gains 23% Year to Date: Buy, Sell or Hold?",
+            "The AI bubble is leaking air, some economists say. Should investors worry?",
+            "2 S&P 500 Stocks with Impressive Fundamentals and 1 We Turn Down",
+            "Why ASML Stock Is Falling Today",
+            "Why Is Astera Labs Stock Down Today?",
+            "Here's Why You Should Retain DexCom Stock in Your Portfolio for Now",
+            "RenaissanceRe Trades at a Discount to Peers: Hold or Fold?",
+            "Spencer Jakab | Stocks Have the Midterm Blues"
           ]
         }
       },
@@ -1352,35 +1345,30 @@
         "auto_note": "TSLA PUT | $-22.29 (-5.92%) | dollar_loser_1 | Strike $340.0 exp 2026-09-09 (4DTE) | IV 32.4% | SPY +nan% | MACRO: rate hike, war"
       },
       "news_scan": {
-        "scanned_at": "2026-09-14 18:47:20 PST",
+        "scanned_at": "2026-09-14 19:30:39 PST",
         "gap_days": 9,
         "ticker_sentiment": "bearish",
         "spy_sentiment": "bearish",
-        "spx_sentiment": "bearish",
+        "spx_sentiment": "neutral",
         "keywords_found": [
           "warning"
         ],
         "spy_keywords": [
-          "upgrade",
           "surge",
           "jumps",
           "rallies",
-          "downgrade",
           "warning",
           "falls",
           "drops",
           "tumbles"
         ],
-        "spx_keywords": [
-          "warning",
-          "drops",
-          "tumbles"
-        ],
+        "spx_keywords": [],
         "decision": "hold",
         "decision_reason": "bearish keywords confirmed PUT thesis",
         "raw_headlines": {
           "ticker": [
             "Elon Musk: I've been 'sounding the alarm' on AI for a while",
+            "VFS Stock Pressured As Tesla Gains A Legal Foothold In VinFast\u2019s Home Market",
             "From Industrial Revolution to AI Revolution: Cathie Wood\u2019s Bold Thesis on Why Global GDP Could Double",
             "Update: Equities Fall Intraday Amid AI Safety Warnings",
             "Update: US Equity Indexes Retreat as 10-Year Treasury Yield Crosses 5% Threshold, Crude Oil Extends Gains",
@@ -1388,32 +1376,31 @@
             "Millions of Tesla Owners Are About to Get a Software Update That Lets The Car Intervene and Steer Even If They Never Turned on Full Self-Driving.",
             "Tesla Fans, Don't Miss Oct. 1: Something Big Could Finally Happen",
             "Nvidia Triggers Key Signals As AI Warnings Mount; Is Nvidia A Sell Now?",
-            "Tesla Expands Into Vietnam as Competition Intensifies in China",
-            "House Democrat Calls for Action Against Tesla After 43 Videos Show Drivers Apparently Asleep"
+            "Tesla Expands Into Vietnam as Competition Intensifies in China"
           ],
           "spy": [
+            "Coca-Cola Stock Is Up 29% in 2026: What Will It Take to Break Through $100?",
+            "Texas Instruments Is Up 55% in 2026: This Is the Secret Tech Stock You\u2019re Missing Out On",
+            "CHWY Is Still Down 34% This Year: Did CHWY Stock Just Find a Bottom?",
             "Corning Tumbles 12% on $2B At-the-Market Equity Offering; Coherent Sinks 11%, Lumentum Drops 9%, Fabrinet Slides 6%",
             "Netflix Climbs 4%, Alphabet Ticks Up, Amazon Barely Budges as New Streaming Policy Alliance Launches",
             "U.S. Household Wealth Explodes by Record $12.5 Trillion in Q2 \u2014 Largest Jump Ever Recorded",
             "Roblox Jumps 10% as Wedbush Lifts Target to $48 While Staying Neutral; Take-Two and GameStop Nudge Higher",
             "Caterpillar Falls 4% While Deere Edges Higher: Is the Data Center Power Trade Unwinding?",
             "10-Year Treasury Yield Just Passed 5%, Here\u2019s What Happened To The Market When The Same Thing Happened In 2007",
-            "Cybersecurity Stocks Surge as AI Safety Warnings Spark Security Bid: CrowdStrike and Zscaler Jump 12%, Palo Alto Rallies 11%",
-            "Coinbase Jumps 6% on Compass Point Upgrade Ahead of Senate CLARITY Act Vote; Strategy Climbs 3%, MARA Slips",
-            "Chip Equipment Stocks Slide as AI Pacing Call Reaches Fab Spending: Applied Materials and Lam Research Fall 6%, ASML Sinks 5%",
-            "Hewlett Packard Enterprise Sinks 9% on Downgrade After Triple-Digit Run; Dell Falls 5%, Super Micro Drops 8%"
+            "Cybersecurity Stocks Surge as AI Safety Warnings Spark Security Bid: CrowdStrike and Zscaler Jump 12%, Palo Alto Rallies 11%"
           ],
           "spx": [
             "Stocks could have a tough road ahead if the Fed hikes rates: Chart of the Day",
-            "Spencer Jakab | Stocks Have the Midterm Blues",
-            "1 Consumer Stock to Research Further and 2 We Question",
-            "Benchmark Yield Hits 5%. How Will Stocks Respond To A Fed Rate Hike?",
-            "Update: Equities Fall Intraday Amid AI Safety Warnings",
-            "3 Consumer Stocks We Approach with Caution",
-            "Update: US Equity Indexes Retreat as 10-Year Treasury Yield Crosses 5% Threshold, Crude Oil Extends Gains",
-            "Corning Tumbles 12% on $2B At-the-Market Equity Offering; Coherent Sinks 11%, Lumentum Drops 9%, Fabrinet Slides 6%",
-            "Nasdaq Recovers, but Industrial Stocks Are Still Struggling",
-            "Is This Gold Stock Polishing \u2014 Or Losing \u2014 Its Luster? Watch These Lines"
+            "Stocks fall as oil and bond yields rise",
+            "INCY Stock Gains 23% Year to Date: Buy, Sell or Hold?",
+            "The AI bubble is leaking air, some economists say. Should investors worry?",
+            "2 S&P 500 Stocks with Impressive Fundamentals and 1 We Turn Down",
+            "Why ASML Stock Is Falling Today",
+            "Why Is Astera Labs Stock Down Today?",
+            "Here's Why You Should Retain DexCom Stock in Your Portfolio for Now",
+            "RenaissanceRe Trades at a Discount to Peers: Hold or Fold?",
+            "Spencer Jakab | Stocks Have the Midterm Blues"
           ]
         }
       },
@@ -1456,28 +1443,22 @@
         "auto_note": "DDOG CALL | $+15.04 (+7.15%) | dollar_gainer_1 | Strike $240.0 exp 2026-09-11 (1DTE) | IV 68.4% | SPY +nan% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-09-14 18:47:20 PST",
+        "scanned_at": "2026-09-14 19:30:39 PST",
         "gap_days": 4,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "bearish",
-        "spx_sentiment": "bearish",
+        "spx_sentiment": "neutral",
         "keywords_found": [],
         "spy_keywords": [
-          "upgrade",
           "surge",
           "jumps",
           "rallies",
-          "downgrade",
           "warning",
           "falls",
           "drops",
           "tumbles"
         ],
-        "spx_keywords": [
-          "warning",
-          "drops",
-          "tumbles"
-        ],
+        "spx_keywords": [],
         "decision": "sell",
         "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
         "raw_headlines": {
@@ -1489,28 +1470,28 @@
             "AI Agents Create Their Own Monitoring Problem. Datadog and Dynatrace Are Racing to Own It"
           ],
           "spy": [
+            "Coca-Cola Stock Is Up 29% in 2026: What Will It Take to Break Through $100?",
+            "Texas Instruments Is Up 55% in 2026: This Is the Secret Tech Stock You\u2019re Missing Out On",
+            "CHWY Is Still Down 34% This Year: Did CHWY Stock Just Find a Bottom?",
             "Corning Tumbles 12% on $2B At-the-Market Equity Offering; Coherent Sinks 11%, Lumentum Drops 9%, Fabrinet Slides 6%",
             "Netflix Climbs 4%, Alphabet Ticks Up, Amazon Barely Budges as New Streaming Policy Alliance Launches",
             "U.S. Household Wealth Explodes by Record $12.5 Trillion in Q2 \u2014 Largest Jump Ever Recorded",
             "Roblox Jumps 10% as Wedbush Lifts Target to $48 While Staying Neutral; Take-Two and GameStop Nudge Higher",
             "Caterpillar Falls 4% While Deere Edges Higher: Is the Data Center Power Trade Unwinding?",
             "10-Year Treasury Yield Just Passed 5%, Here\u2019s What Happened To The Market When The Same Thing Happened In 2007",
-            "Cybersecurity Stocks Surge as AI Safety Warnings Spark Security Bid: CrowdStrike and Zscaler Jump 12%, Palo Alto Rallies 11%",
-            "Coinbase Jumps 6% on Compass Point Upgrade Ahead of Senate CLARITY Act Vote; Strategy Climbs 3%, MARA Slips",
-            "Chip Equipment Stocks Slide as AI Pacing Call Reaches Fab Spending: Applied Materials and Lam Research Fall 6%, ASML Sinks 5%",
-            "Hewlett Packard Enterprise Sinks 9% on Downgrade After Triple-Digit Run; Dell Falls 5%, Super Micro Drops 8%"
+            "Cybersecurity Stocks Surge as AI Safety Warnings Spark Security Bid: CrowdStrike and Zscaler Jump 12%, Palo Alto Rallies 11%"
           ],
           "spx": [
             "Stocks could have a tough road ahead if the Fed hikes rates: Chart of the Day",
-            "Spencer Jakab | Stocks Have the Midterm Blues",
-            "1 Consumer Stock to Research Further and 2 We Question",
-            "Benchmark Yield Hits 5%. How Will Stocks Respond To A Fed Rate Hike?",
-            "Update: Equities Fall Intraday Amid AI Safety Warnings",
-            "3 Consumer Stocks We Approach with Caution",
-            "Update: US Equity Indexes Retreat as 10-Year Treasury Yield Crosses 5% Threshold, Crude Oil Extends Gains",
-            "Corning Tumbles 12% on $2B At-the-Market Equity Offering; Coherent Sinks 11%, Lumentum Drops 9%, Fabrinet Slides 6%",
-            "Nasdaq Recovers, but Industrial Stocks Are Still Struggling",
-            "Is This Gold Stock Polishing \u2014 Or Losing \u2014 Its Luster? Watch These Lines"
+            "Stocks fall as oil and bond yields rise",
+            "INCY Stock Gains 23% Year to Date: Buy, Sell or Hold?",
+            "The AI bubble is leaking air, some economists say. Should investors worry?",
+            "2 S&P 500 Stocks with Impressive Fundamentals and 1 We Turn Down",
+            "Why ASML Stock Is Falling Today",
+            "Why Is Astera Labs Stock Down Today?",
+            "Here's Why You Should Retain DexCom Stock in Your Portfolio for Now",
+            "RenaissanceRe Trades at a Discount to Peers: Hold or Fold?",
+            "Spencer Jakab | Stocks Have the Midterm Blues"
           ]
         }
       },
@@ -1556,55 +1537,49 @@
         "auto_note": "RGTZ CALL | $+14.18 (+402.84%) | dollar_gainer_1 | Strike $8.0 exp 2026-09-18 (7DTE) | IV 0.0% | SPY +nan% | MACRO: rate hike, china"
       },
       "news_scan": {
-        "scanned_at": "2026-09-14 18:47:20 PST",
+        "scanned_at": "2026-09-14 19:30:39 PST",
         "gap_days": 3,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "bearish",
-        "spx_sentiment": "bearish",
+        "spx_sentiment": "neutral",
         "keywords_found": [],
         "spy_keywords": [
-          "upgrade",
           "surge",
           "jumps",
           "rallies",
-          "downgrade",
           "warning",
           "falls",
           "drops",
           "tumbles"
         ],
-        "spx_keywords": [
-          "warning",
-          "drops",
-          "tumbles"
-        ],
+        "spx_keywords": [],
         "decision": "sell",
         "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
         "raw_headlines": {
           "ticker": [],
           "spy": [
+            "Coca-Cola Stock Is Up 29% in 2026: What Will It Take to Break Through $100?",
+            "Texas Instruments Is Up 55% in 2026: This Is the Secret Tech Stock You\u2019re Missing Out On",
+            "CHWY Is Still Down 34% This Year: Did CHWY Stock Just Find a Bottom?",
             "Corning Tumbles 12% on $2B At-the-Market Equity Offering; Coherent Sinks 11%, Lumentum Drops 9%, Fabrinet Slides 6%",
             "Netflix Climbs 4%, Alphabet Ticks Up, Amazon Barely Budges as New Streaming Policy Alliance Launches",
             "U.S. Household Wealth Explodes by Record $12.5 Trillion in Q2 \u2014 Largest Jump Ever Recorded",
             "Roblox Jumps 10% as Wedbush Lifts Target to $48 While Staying Neutral; Take-Two and GameStop Nudge Higher",
             "Caterpillar Falls 4% While Deere Edges Higher: Is the Data Center Power Trade Unwinding?",
             "10-Year Treasury Yield Just Passed 5%, Here\u2019s What Happened To The Market When The Same Thing Happened In 2007",
-            "Cybersecurity Stocks Surge as AI Safety Warnings Spark Security Bid: CrowdStrike and Zscaler Jump 12%, Palo Alto Rallies 11%",
-            "Coinbase Jumps 6% on Compass Point Upgrade Ahead of Senate CLARITY Act Vote; Strategy Climbs 3%, MARA Slips",
-            "Chip Equipment Stocks Slide as AI Pacing Call Reaches Fab Spending: Applied Materials and Lam Research Fall 6%, ASML Sinks 5%",
-            "Hewlett Packard Enterprise Sinks 9% on Downgrade After Triple-Digit Run; Dell Falls 5%, Super Micro Drops 8%"
+            "Cybersecurity Stocks Surge as AI Safety Warnings Spark Security Bid: CrowdStrike and Zscaler Jump 12%, Palo Alto Rallies 11%"
           ],
           "spx": [
             "Stocks could have a tough road ahead if the Fed hikes rates: Chart of the Day",
-            "Spencer Jakab | Stocks Have the Midterm Blues",
-            "1 Consumer Stock to Research Further and 2 We Question",
-            "Benchmark Yield Hits 5%. How Will Stocks Respond To A Fed Rate Hike?",
-            "Update: Equities Fall Intraday Amid AI Safety Warnings",
-            "3 Consumer Stocks We Approach with Caution",
-            "Update: US Equity Indexes Retreat as 10-Year Treasury Yield Crosses 5% Threshold, Crude Oil Extends Gains",
-            "Corning Tumbles 12% on $2B At-the-Market Equity Offering; Coherent Sinks 11%, Lumentum Drops 9%, Fabrinet Slides 6%",
-            "Nasdaq Recovers, but Industrial Stocks Are Still Struggling",
-            "Is This Gold Stock Polishing \u2014 Or Losing \u2014 Its Luster? Watch These Lines"
+            "Stocks fall as oil and bond yields rise",
+            "INCY Stock Gains 23% Year to Date: Buy, Sell or Hold?",
+            "The AI bubble is leaking air, some economists say. Should investors worry?",
+            "2 S&P 500 Stocks with Impressive Fundamentals and 1 We Turn Down",
+            "Why ASML Stock Is Falling Today",
+            "Why Is Astera Labs Stock Down Today?",
+            "Here's Why You Should Retain DexCom Stock in Your Portfolio for Now",
+            "RenaissanceRe Trades at a Discount to Peers: Hold or Fold?",
+            "Spencer Jakab | Stocks Have the Midterm Blues"
           ]
         }
       },
@@ -1649,28 +1624,22 @@
         "auto_note": "VICR CALL | $+19.86 (+11.15%) | dollar_gainer_1 | Strike $240.0 exp 2026-09-18 (6DTE) | IV 86.0% | SPY +nan% | MACRO: fed"
       },
       "news_scan": {
-        "scanned_at": "2026-09-14 18:47:20 PST",
+        "scanned_at": "2026-09-14 19:30:39 PST",
         "gap_days": 2,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "bearish",
-        "spx_sentiment": "bearish",
+        "spx_sentiment": "neutral",
         "keywords_found": [],
         "spy_keywords": [
-          "upgrade",
           "surge",
           "jumps",
           "rallies",
-          "downgrade",
           "warning",
           "falls",
           "drops",
           "tumbles"
         ],
-        "spx_keywords": [
-          "warning",
-          "drops",
-          "tumbles"
-        ],
+        "spx_keywords": [],
         "decision": "sell",
         "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
         "raw_headlines": {
@@ -1679,28 +1648,28 @@
             "Merrimack, Hooksett land Vicor manufacturing expansion"
           ],
           "spy": [
+            "Coca-Cola Stock Is Up 29% in 2026: What Will It Take to Break Through $100?",
+            "Texas Instruments Is Up 55% in 2026: This Is the Secret Tech Stock You\u2019re Missing Out On",
+            "CHWY Is Still Down 34% This Year: Did CHWY Stock Just Find a Bottom?",
             "Corning Tumbles 12% on $2B At-the-Market Equity Offering; Coherent Sinks 11%, Lumentum Drops 9%, Fabrinet Slides 6%",
             "Netflix Climbs 4%, Alphabet Ticks Up, Amazon Barely Budges as New Streaming Policy Alliance Launches",
             "U.S. Household Wealth Explodes by Record $12.5 Trillion in Q2 \u2014 Largest Jump Ever Recorded",
             "Roblox Jumps 10% as Wedbush Lifts Target to $48 While Staying Neutral; Take-Two and GameStop Nudge Higher",
             "Caterpillar Falls 4% While Deere Edges Higher: Is the Data Center Power Trade Unwinding?",
             "10-Year Treasury Yield Just Passed 5%, Here\u2019s What Happened To The Market When The Same Thing Happened In 2007",
-            "Cybersecurity Stocks Surge as AI Safety Warnings Spark Security Bid: CrowdStrike and Zscaler Jump 12%, Palo Alto Rallies 11%",
-            "Coinbase Jumps 6% on Compass Point Upgrade Ahead of Senate CLARITY Act Vote; Strategy Climbs 3%, MARA Slips",
-            "Chip Equipment Stocks Slide as AI Pacing Call Reaches Fab Spending: Applied Materials and Lam Research Fall 6%, ASML Sinks 5%",
-            "Hewlett Packard Enterprise Sinks 9% on Downgrade After Triple-Digit Run; Dell Falls 5%, Super Micro Drops 8%"
+            "Cybersecurity Stocks Surge as AI Safety Warnings Spark Security Bid: CrowdStrike and Zscaler Jump 12%, Palo Alto Rallies 11%"
           ],
           "spx": [
             "Stocks could have a tough road ahead if the Fed hikes rates: Chart of the Day",
-            "Spencer Jakab | Stocks Have the Midterm Blues",
-            "1 Consumer Stock to Research Further and 2 We Question",
-            "Benchmark Yield Hits 5%. How Will Stocks Respond To A Fed Rate Hike?",
-            "Update: Equities Fall Intraday Amid AI Safety Warnings",
-            "3 Consumer Stocks We Approach with Caution",
-            "Update: US Equity Indexes Retreat as 10-Year Treasury Yield Crosses 5% Threshold, Crude Oil Extends Gains",
-            "Corning Tumbles 12% on $2B At-the-Market Equity Offering; Coherent Sinks 11%, Lumentum Drops 9%, Fabrinet Slides 6%",
-            "Nasdaq Recovers, but Industrial Stocks Are Still Struggling",
-            "Is This Gold Stock Polishing \u2014 Or Losing \u2014 Its Luster? Watch These Lines"
+            "Stocks fall as oil and bond yields rise",
+            "INCY Stock Gains 23% Year to Date: Buy, Sell or Hold?",
+            "The AI bubble is leaking air, some economists say. Should investors worry?",
+            "2 S&P 500 Stocks with Impressive Fundamentals and 1 We Turn Down",
+            "Why ASML Stock Is Falling Today",
+            "Why Is Astera Labs Stock Down Today?",
+            "Here's Why You Should Retain DexCom Stock in Your Portfolio for Now",
+            "RenaissanceRe Trades at a Discount to Peers: Hold or Fold?",
+            "Spencer Jakab | Stocks Have the Midterm Blues"
           ]
         }
       },
@@ -1745,28 +1714,22 @@
         "auto_note": "LEU PUT | $-13.56 (-8.18%) | dollar_loser_1 | Strike $135.0 exp 2026-09-18 (6DTE) | IV 56.5% | SPY +nan% | MACRO: fed"
       },
       "news_scan": {
-        "scanned_at": "2026-09-14 18:47:20 PST",
+        "scanned_at": "2026-09-14 19:30:39 PST",
         "gap_days": 2,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "bearish",
-        "spx_sentiment": "bearish",
+        "spx_sentiment": "neutral",
         "keywords_found": [],
         "spy_keywords": [
-          "upgrade",
           "surge",
           "jumps",
           "rallies",
-          "downgrade",
           "warning",
           "falls",
           "drops",
           "tumbles"
         ],
-        "spx_keywords": [
-          "warning",
-          "drops",
-          "tumbles"
-        ],
+        "spx_keywords": [],
         "decision": "hold",
         "decision_reason": "neutral keywords confirmed PUT thesis",
         "raw_headlines": {
@@ -1774,28 +1737,28 @@
             "Russia accuses Ukraine of Zaporizhzhia fuel attack as Odesa strikes continue"
           ],
           "spy": [
+            "Coca-Cola Stock Is Up 29% in 2026: What Will It Take to Break Through $100?",
+            "Texas Instruments Is Up 55% in 2026: This Is the Secret Tech Stock You\u2019re Missing Out On",
+            "CHWY Is Still Down 34% This Year: Did CHWY Stock Just Find a Bottom?",
             "Corning Tumbles 12% on $2B At-the-Market Equity Offering; Coherent Sinks 11%, Lumentum Drops 9%, Fabrinet Slides 6%",
             "Netflix Climbs 4%, Alphabet Ticks Up, Amazon Barely Budges as New Streaming Policy Alliance Launches",
             "U.S. Household Wealth Explodes by Record $12.5 Trillion in Q2 \u2014 Largest Jump Ever Recorded",
             "Roblox Jumps 10% as Wedbush Lifts Target to $48 While Staying Neutral; Take-Two and GameStop Nudge Higher",
             "Caterpillar Falls 4% While Deere Edges Higher: Is the Data Center Power Trade Unwinding?",
             "10-Year Treasury Yield Just Passed 5%, Here\u2019s What Happened To The Market When The Same Thing Happened In 2007",
-            "Cybersecurity Stocks Surge as AI Safety Warnings Spark Security Bid: CrowdStrike and Zscaler Jump 12%, Palo Alto Rallies 11%",
-            "Coinbase Jumps 6% on Compass Point Upgrade Ahead of Senate CLARITY Act Vote; Strategy Climbs 3%, MARA Slips",
-            "Chip Equipment Stocks Slide as AI Pacing Call Reaches Fab Spending: Applied Materials and Lam Research Fall 6%, ASML Sinks 5%",
-            "Hewlett Packard Enterprise Sinks 9% on Downgrade After Triple-Digit Run; Dell Falls 5%, Super Micro Drops 8%"
+            "Cybersecurity Stocks Surge as AI Safety Warnings Spark Security Bid: CrowdStrike and Zscaler Jump 12%, Palo Alto Rallies 11%"
           ],
           "spx": [
             "Stocks could have a tough road ahead if the Fed hikes rates: Chart of the Day",
-            "Spencer Jakab | Stocks Have the Midterm Blues",
-            "1 Consumer Stock to Research Further and 2 We Question",
-            "Benchmark Yield Hits 5%. How Will Stocks Respond To A Fed Rate Hike?",
-            "Update: Equities Fall Intraday Amid AI Safety Warnings",
-            "3 Consumer Stocks We Approach with Caution",
-            "Update: US Equity Indexes Retreat as 10-Year Treasury Yield Crosses 5% Threshold, Crude Oil Extends Gains",
-            "Corning Tumbles 12% on $2B At-the-Market Equity Offering; Coherent Sinks 11%, Lumentum Drops 9%, Fabrinet Slides 6%",
-            "Nasdaq Recovers, but Industrial Stocks Are Still Struggling",
-            "Is This Gold Stock Polishing \u2014 Or Losing \u2014 Its Luster? Watch These Lines"
+            "Stocks fall as oil and bond yields rise",
+            "INCY Stock Gains 23% Year to Date: Buy, Sell or Hold?",
+            "The AI bubble is leaking air, some economists say. Should investors worry?",
+            "2 S&P 500 Stocks with Impressive Fundamentals and 1 We Turn Down",
+            "Why ASML Stock Is Falling Today",
+            "Why Is Astera Labs Stock Down Today?",
+            "Here's Why You Should Retain DexCom Stock in Your Portfolio for Now",
+            "RenaissanceRe Trades at a Discount to Peers: Hold or Fold?",
+            "Spencer Jakab | Stocks Have the Midterm Blues"
           ]
         }
       },
