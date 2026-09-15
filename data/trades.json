@@ -1248,58 +1248,55 @@
         "auto_note": "ALAB CALL | $+27.58 (+9.75%) | dollar_gainer_1 | Strike $390.0 exp 2026-09-11 (6DTE) | IV 88.2% | SPY +nan% | MACRO: rate hike, war"
       },
       "news_scan": {
-        "scanned_at": "2026-09-14 19:30:39 PST",
-        "gap_days": 9,
+        "scanned_at": "2026-09-15 17:42:57 PST",
+        "gap_days": 10,
         "ticker_sentiment": "bullish",
         "spy_sentiment": "bearish",
-        "spx_sentiment": "neutral",
+        "spx_sentiment": "bearish",
         "keywords_found": [
           "surge"
         ],
         "spy_keywords": [
-          "surge",
-          "jumps",
-          "rallies",
-          "warning",
+          "downgrade",
           "falls",
-          "drops",
-          "tumbles"
+          "drops"
         ],
-        "spx_keywords": [],
+        "spx_keywords": [
+          "falls",
+          "drops"
+        ],
         "decision": "hold",
         "decision_reason": "bullish keywords confirmed CALL thesis",
         "raw_headlines": {
           "ticker": [
+            "Astera Labs vs. KLA: Which Semiconductor Stock Has More Upside?",
+            "Can Credo's OmniConnect Unlock a New AI Inference Growth Engine?",
             "Why Is Astera Labs Stock Down Today?",
             "ADI's Communications Segment Surges on AI Demand: What's Ahead?",
-            "Are Computer and Technology Stocks Lagging  Astera Labs, Inc. (ALAB) This Year?",
-            "Nvidia Is Letting Rival AI Chips Into Its Racks. Astera Labs Could Be the Quiet Winner",
-            "Why Astera Labs, Inc. (ALAB) Outpaced the Stock Market Today",
-            "Astera Labs Chairman Manuel Alba Sells 183,000 Shares for $51.3 Million. How Big of a Red Flag Is This?"
+            "Are Computer and Technology Stocks Lagging  Astera Labs, Inc. (ALAB) This Year?"
           ],
           "spy": [
-            "Coca-Cola Stock Is Up 29% in 2026: What Will It Take to Break Through $100?",
-            "Texas Instruments Is Up 55% in 2026: This Is the Secret Tech Stock You\u2019re Missing Out On",
-            "CHWY Is Still Down 34% This Year: Did CHWY Stock Just Find a Bottom?",
-            "Corning Tumbles 12% on $2B At-the-Market Equity Offering; Coherent Sinks 11%, Lumentum Drops 9%, Fabrinet Slides 6%",
-            "Netflix Climbs 4%, Alphabet Ticks Up, Amazon Barely Budges as New Streaming Policy Alliance Launches",
-            "U.S. Household Wealth Explodes by Record $12.5 Trillion in Q2 \u2014 Largest Jump Ever Recorded",
-            "Roblox Jumps 10% as Wedbush Lifts Target to $48 While Staying Neutral; Take-Two and GameStop Nudge Higher",
-            "Caterpillar Falls 4% While Deere Edges Higher: Is the Data Center Power Trade Unwinding?",
-            "10-Year Treasury Yield Just Passed 5%, Here\u2019s What Happened To The Market When The Same Thing Happened In 2007",
-            "Cybersecurity Stocks Surge as AI Safety Warnings Spark Security Bid: CrowdStrike and Zscaler Jump 12%, Palo Alto Rallies 11%"
+            "Joby Slips and Is Down 53% This Year as the eVTOL Trade Keeps Unwinding; Archer Dips, EHang Eases",
+            "Norwegian Falls 3% as Wells Fargo Trims Carnival Target on Caribbean Pricing Pressure; Carnival Slips, Royal Caribbean Dips",
+            "12 Investment Must Reads for This Week (Sept. 15, 2026)",
+            "Offshore Oil Stocks Rally While the Broad Market Slips: Transocean Climbs 6%, Valaris Rises 6%, W&T Offshore Gains 6%",
+            "Ciena Rises 4% as Optics Selloff Unwinds; Coherent Edges Higher, Corning Holds Steady",
+            "TeraWulf Falls 5% as AI Infrastructure Names Extend a Month-Long Slide; IREN Drops 4%, Applied Digital Declines 3%",
+            "Hewlett Packard Enterprise Rises 4% a Day After Evercore ISI Downgrade; Dell Climbs 4%, Super Micro Holds Steady",
+            "Rate Hike Jitters Rattle iBuyer Stocks: Opendoor Falls 4%, Zillow Slides 2% but Offerpad Holds Steady",
+            "Gaming the Fed Odds for a Rate Hike Wednesday",
+            "ASML\u2019s Current Share Price of $1,575 Shouldn\u2019t Scare You."
           ],
           "spx": [
-            "Stocks could have a tough road ahead if the Fed hikes rates: Chart of the Day",
-            "Stocks fall as oil and bond yields rise",
-            "INCY Stock Gains 23% Year to Date: Buy, Sell or Hold?",
-            "The AI bubble is leaking air, some economists say. Should investors worry?",
-            "2 S&P 500 Stocks with Impressive Fundamentals and 1 We Turn Down",
-            "Why ASML Stock Is Falling Today",
-            "Why Is Astera Labs Stock Down Today?",
-            "Here's Why You Should Retain DexCom Stock in Your Portfolio for Now",
-            "RenaissanceRe Trades at a Discount to Peers: Hold or Fold?",
-            "Spencer Jakab | Stocks Have the Midterm Blues"
+            "10-year Treasuries cross above 5%, but are other market risks showing up?",
+            "3 Reasons to Sell WSM and 1 Stock to Buy Instead",
+            "My Forever Portfolio: 3 Dividend-Paying Value Stocks That Are Too Cheap to Ignore.",
+            "2 Reasons to Watch URI and 1 to Stay Cautious",
+            "3 Reasons to Sell BKV and 1 Stock to Buy Instead",
+            "United Rentals Stock Drops 15% in a Month: Time to Buy the Dip?",
+            "2 Reasons to Like YUM (and 1 Not So Much)",
+            "Stock Market Midday, Sept. 15: Stocks Slide on AI and Bond Jitters",
+            "Stock Market Today: Dow Dives, Oil Play Tests New Entry; Bitcoin Falls Ahead Of Clarity Act Vote (Live Coverage)"
           ]
         }
       },
@@ -1345,62 +1342,61 @@
         "auto_note": "TSLA PUT | $-22.29 (-5.92%) | dollar_loser_1 | Strike $340.0 exp 2026-09-09 (4DTE) | IV 32.4% | SPY +nan% | MACRO: rate hike, war"
       },
       "news_scan": {
-        "scanned_at": "2026-09-14 19:30:39 PST",
-        "gap_days": 9,
-        "ticker_sentiment": "bearish",
+        "scanned_at": "2026-09-15 17:42:57 PST",
+        "gap_days": 10,
+        "ticker_sentiment": "neutral",
         "spy_sentiment": "bearish",
-        "spx_sentiment": "neutral",
+        "spx_sentiment": "bearish",
         "keywords_found": [
+          "surge",
           "warning"
         ],
         "spy_keywords": [
-          "surge",
-          "jumps",
-          "rallies",
-          "warning",
+          "downgrade",
           "falls",
-          "drops",
-          "tumbles"
+          "drops"
         ],
-        "spx_keywords": [],
+        "spx_keywords": [
+          "falls",
+          "drops"
+        ],
         "decision": "hold",
-        "decision_reason": "bearish keywords confirmed PUT thesis",
+        "decision_reason": "neutral keywords confirmed PUT thesis",
         "raw_headlines": {
           "ticker": [
-            "Elon Musk: I've been 'sounding the alarm' on AI for a while",
-            "VFS Stock Pressured As Tesla Gains A Legal Foothold In VinFast\u2019s Home Market",
-            "From Industrial Revolution to AI Revolution: Cathie Wood\u2019s Bold Thesis on Why Global GDP Could Double",
-            "Update: Equities Fall Intraday Amid AI Safety Warnings",
-            "Update: US Equity Indexes Retreat as 10-Year Treasury Yield Crosses 5% Threshold, Crude Oil Extends Gains",
-            "Tesla Slips Nearly 2% as Musk's AI Caution Complicates the Autonomy Story",
-            "Millions of Tesla Owners Are About to Get a Software Update That Lets The Car Intervene and Steer Even If They Never Turned on Full Self-Driving.",
-            "Tesla Fans, Don't Miss Oct. 1: Something Big Could Finally Happen",
-            "Nvidia Triggers Key Signals As AI Warnings Mount; Is Nvidia A Sell Now?",
-            "Tesla Expands Into Vietnam as Competition Intensifies in China"
+            "Musk hints (again) at possible SpaceX, Tesla merger",
+            "Wall Street pushes back on Anthropic's warning as AI spending expected to roll on: Chart of the Day",
+            "\u201cSpaceX Has To Buy It. Period. End Of Story.\u201d Cramer\u2019s Answer For Tesla, Down 19.97% This Year.",
+            "Musk Promises Tesla Reveal On October 1 That Will Have To Be Seen To Be Believed. Bettors Give It A 4% Chance Of Happening",
+            "Bitcoin\u2019s Correlation With Gold Just Hit a Six-Year High. Is BTC Finally Digital Gold?",
+            "SpaceX Readies For Starship Flight 14 Next Week, Musk Plans Ship Catch",
+            "Gary Black Explains Tesla\u2019s US EV Market Share Surge, Points to Legacy Retreat, Model Y Rejig: \u2018It\u2019s Implausible\u2026\u2019",
+            "Anthropic Could Be The 11th Most Valuable Company in the World",
+            "Elon Musk comments on AI slowdown amid his own big AI bets",
+            "Nvidia, Coinbase, Robinhood, Coherent, and More Stocks That Explain Today\u2019s Market"
           ],
           "spy": [
-            "Coca-Cola Stock Is Up 29% in 2026: What Will It Take to Break Through $100?",
-            "Texas Instruments Is Up 55% in 2026: This Is the Secret Tech Stock You\u2019re Missing Out On",
-            "CHWY Is Still Down 34% This Year: Did CHWY Stock Just Find a Bottom?",
-            "Corning Tumbles 12% on $2B At-the-Market Equity Offering; Coherent Sinks 11%, Lumentum Drops 9%, Fabrinet Slides 6%",
-            "Netflix Climbs 4%, Alphabet Ticks Up, Amazon Barely Budges as New Streaming Policy Alliance Launches",
-            "U.S. Household Wealth Explodes by Record $12.5 Trillion in Q2 \u2014 Largest Jump Ever Recorded",
-            "Roblox Jumps 10% as Wedbush Lifts Target to $48 While Staying Neutral; Take-Two and GameStop Nudge Higher",
-            "Caterpillar Falls 4% While Deere Edges Higher: Is the Data Center Power Trade Unwinding?",
-            "10-Year Treasury Yield Just Passed 5%, Here\u2019s What Happened To The Market When The Same Thing Happened In 2007",
-            "Cybersecurity Stocks Surge as AI Safety Warnings Spark Security Bid: CrowdStrike and Zscaler Jump 12%, Palo Alto Rallies 11%"
+            "Joby Slips and Is Down 53% This Year as the eVTOL Trade Keeps Unwinding; Archer Dips, EHang Eases",
+            "Norwegian Falls 3% as Wells Fargo Trims Carnival Target on Caribbean Pricing Pressure; Carnival Slips, Royal Caribbean Dips",
+            "12 Investment Must Reads for This Week (Sept. 15, 2026)",
+            "Offshore Oil Stocks Rally While the Broad Market Slips: Transocean Climbs 6%, Valaris Rises 6%, W&T Offshore Gains 6%",
+            "Ciena Rises 4% as Optics Selloff Unwinds; Coherent Edges Higher, Corning Holds Steady",
+            "TeraWulf Falls 5% as AI Infrastructure Names Extend a Month-Long Slide; IREN Drops 4%, Applied Digital Declines 3%",
+            "Hewlett Packard Enterprise Rises 4% a Day After Evercore ISI Downgrade; Dell Climbs 4%, Super Micro Holds Steady",
+            "Rate Hike Jitters Rattle iBuyer Stocks: Opendoor Falls 4%, Zillow Slides 2% but Offerpad Holds Steady",
+            "Gaming the Fed Odds for a Rate Hike Wednesday",
+            "ASML\u2019s Current Share Price of $1,575 Shouldn\u2019t Scare You."
           ],
           "spx": [
-            "Stocks could have a tough road ahead if the Fed hikes rates: Chart of the Day",
-            "Stocks fall as oil and bond yields rise",
-            "INCY Stock Gains 23% Year to Date: Buy, Sell or Hold?",
-            "The AI bubble is leaking air, some economists say. Should investors worry?",
-            "2 S&P 500 Stocks with Impressive Fundamentals and 1 We Turn Down",
-            "Why ASML Stock Is Falling Today",
-            "Why Is Astera Labs Stock Down Today?",
-            "Here's Why You Should Retain DexCom Stock in Your Portfolio for Now",
-            "RenaissanceRe Trades at a Discount to Peers: Hold or Fold?",
-            "Spencer Jakab | Stocks Have the Midterm Blues"
+            "10-year Treasuries cross above 5%, but are other market risks showing up?",
+            "3 Reasons to Sell WSM and 1 Stock to Buy Instead",
+            "My Forever Portfolio: 3 Dividend-Paying Value Stocks That Are Too Cheap to Ignore.",
+            "2 Reasons to Watch URI and 1 to Stay Cautious",
+            "3 Reasons to Sell BKV and 1 Stock to Buy Instead",
+            "United Rentals Stock Drops 15% in a Month: Time to Buy the Dip?",
+            "2 Reasons to Like YUM (and 1 Not So Much)",
+            "Stock Market Midday, Sept. 15: Stocks Slide on AI and Bond Jitters",
+            "Stock Market Today: Dow Dives, Oil Play Tests New Entry; Bitcoin Falls Ahead Of Clarity Act Vote (Live Coverage)"
           ]
         }
       },
@@ -1443,22 +1439,21 @@
         "auto_note": "DDOG CALL | $+15.04 (+7.15%) | dollar_gainer_1 | Strike $240.0 exp 2026-09-11 (1DTE) | IV 68.4% | SPY +nan% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-09-14 19:30:39 PST",
-        "gap_days": 4,
+        "scanned_at": "2026-09-15 17:42:57 PST",
+        "gap_days": 5,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "bearish",
-        "spx_sentiment": "neutral",
+        "spx_sentiment": "bearish",
         "keywords_found": [],
         "spy_keywords": [
-          "surge",
-          "jumps",
-          "rallies",
-          "warning",
+          "downgrade",
           "falls",
-          "drops",
-          "tumbles"
+          "drops"
         ],
-        "spx_keywords": [],
+        "spx_keywords": [
+          "falls",
+          "drops"
+        ],
         "decision": "sell",
         "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
         "raw_headlines": {
@@ -1470,28 +1465,27 @@
             "AI Agents Create Their Own Monitoring Problem. Datadog and Dynatrace Are Racing to Own It"
           ],
           "spy": [
-            "Coca-Cola Stock Is Up 29% in 2026: What Will It Take to Break Through $100?",
-            "Texas Instruments Is Up 55% in 2026: This Is the Secret Tech Stock You\u2019re Missing Out On",
-            "CHWY Is Still Down 34% This Year: Did CHWY Stock Just Find a Bottom?",
-            "Corning Tumbles 12% on $2B At-the-Market Equity Offering; Coherent Sinks 11%, Lumentum Drops 9%, Fabrinet Slides 6%",
-            "Netflix Climbs 4%, Alphabet Ticks Up, Amazon Barely Budges as New Streaming Policy Alliance Launches",
-            "U.S. Household Wealth Explodes by Record $12.5 Trillion in Q2 \u2014 Largest Jump Ever Recorded",
-            "Roblox Jumps 10% as Wedbush Lifts Target to $48 While Staying Neutral; Take-Two and GameStop Nudge Higher",
-            "Caterpillar Falls 4% While Deere Edges Higher: Is the Data Center Power Trade Unwinding?",
-            "10-Year Treasury Yield Just Passed 5%, Here\u2019s What Happened To The Market When The Same Thing Happened In 2007",
-            "Cybersecurity Stocks Surge as AI Safety Warnings Spark Security Bid: CrowdStrike and Zscaler Jump 12%, Palo Alto Rallies 11%"
+            "Joby Slips and Is Down 53% This Year as the eVTOL Trade Keeps Unwinding; Archer Dips, EHang Eases",
+            "Norwegian Falls 3% as Wells Fargo Trims Carnival Target on Caribbean Pricing Pressure; Carnival Slips, Royal Caribbean Dips",
+            "12 Investment Must Reads for This Week (Sept. 15, 2026)",
+            "Offshore Oil Stocks Rally While the Broad Market Slips: Transocean Climbs 6%, Valaris Rises 6%, W&T Offshore Gains 6%",
+            "Ciena Rises 4% as Optics Selloff Unwinds; Coherent Edges Higher, Corning Holds Steady",
+            "TeraWulf Falls 5% as AI Infrastructure Names Extend a Month-Long Slide; IREN Drops 4%, Applied Digital Declines 3%",
+            "Hewlett Packard Enterprise Rises 4% a Day After Evercore ISI Downgrade; Dell Climbs 4%, Super Micro Holds Steady",
+            "Rate Hike Jitters Rattle iBuyer Stocks: Opendoor Falls 4%, Zillow Slides 2% but Offerpad Holds Steady",
+            "Gaming the Fed Odds for a Rate Hike Wednesday",
+            "ASML\u2019s Current Share Price of $1,575 Shouldn\u2019t Scare You."
           ],
           "spx": [
-            "Stocks could have a tough road ahead if the Fed hikes rates: Chart of the Day",
-            "Stocks fall as oil and bond yields rise",
-            "INCY Stock Gains 23% Year to Date: Buy, Sell or Hold?",
-            "The AI bubble is leaking air, some economists say. Should investors worry?",
-            "2 S&P 500 Stocks with Impressive Fundamentals and 1 We Turn Down",
-            "Why ASML Stock Is Falling Today",
-            "Why Is Astera Labs Stock Down Today?",
-            "Here's Why You Should Retain DexCom Stock in Your Portfolio for Now",
-            "RenaissanceRe Trades at a Discount to Peers: Hold or Fold?",
-            "Spencer Jakab | Stocks Have the Midterm Blues"
+            "10-year Treasuries cross above 5%, but are other market risks showing up?",
+            "3 Reasons to Sell WSM and 1 Stock to Buy Instead",
+            "My Forever Portfolio: 3 Dividend-Paying Value Stocks That Are Too Cheap to Ignore.",
+            "2 Reasons to Watch URI and 1 to Stay Cautious",
+            "3 Reasons to Sell BKV and 1 Stock to Buy Instead",
+            "United Rentals Stock Drops 15% in a Month: Time to Buy the Dip?",
+            "2 Reasons to Like YUM (and 1 Not So Much)",
+            "Stock Market Midday, Sept. 15: Stocks Slide on AI and Bond Jitters",
+            "Stock Market Today: Dow Dives, Oil Play Tests New Entry; Bitcoin Falls Ahead Of Clarity Act Vote (Live Coverage)"
           ]
         }
       },
@@ -1537,49 +1531,47 @@
         "auto_note": "RGTZ CALL | $+14.18 (+402.84%) | dollar_gainer_1 | Strike $8.0 exp 2026-09-18 (7DTE) | IV 0.0% | SPY +nan% | MACRO: rate hike, china"
       },
       "news_scan": {
-        "scanned_at": "2026-09-14 19:30:39 PST",
-        "gap_days": 3,
+        "scanned_at": "2026-09-15 17:42:57 PST",
+        "gap_days": 4,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "bearish",
-        "spx_sentiment": "neutral",
+        "spx_sentiment": "bearish",
         "keywords_found": [],
         "spy_keywords": [
-          "surge",
-          "jumps",
-          "rallies",
-          "warning",
+          "downgrade",
           "falls",
-          "drops",
-          "tumbles"
+          "drops"
         ],
-        "spx_keywords": [],
+        "spx_keywords": [
+          "falls",
+          "drops"
+        ],
         "decision": "sell",
         "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
         "raw_headlines": {
           "ticker": [],
           "spy": [
-            "Coca-Cola Stock Is Up 29% in 2026: What Will It Take to Break Through $100?",
-            "Texas Instruments Is Up 55% in 2026: This Is the Secret Tech Stock You\u2019re Missing Out On",
-            "CHWY Is Still Down 34% This Year: Did CHWY Stock Just Find a Bottom?",
-            "Corning Tumbles 12% on $2B At-the-Market Equity Offering; Coherent Sinks 11%, Lumentum Drops 9%, Fabrinet Slides 6%",
-            "Netflix Climbs 4%, Alphabet Ticks Up, Amazon Barely Budges as New Streaming Policy Alliance Launches",
-            "U.S. Household Wealth Explodes by Record $12.5 Trillion in Q2 \u2014 Largest Jump Ever Recorded",
-            "Roblox Jumps 10% as Wedbush Lifts Target to $48 While Staying Neutral; Take-Two and GameStop Nudge Higher",
-            "Caterpillar Falls 4% While Deere Edges Higher: Is the Data Center Power Trade Unwinding?",
-            "10-Year Treasury Yield Just Passed 5%, Here\u2019s What Happened To The Market When The Same Thing Happened In 2007",
-            "Cybersecurity Stocks Surge as AI Safety Warnings Spark Security Bid: CrowdStrike and Zscaler Jump 12%, Palo Alto Rallies 11%"
+            "Joby Slips and Is Down 53% This Year as the eVTOL Trade Keeps Unwinding; Archer Dips, EHang Eases",
+            "Norwegian Falls 3% as Wells Fargo Trims Carnival Target on Caribbean Pricing Pressure; Carnival Slips, Royal Caribbean Dips",
+            "12 Investment Must Reads for This Week (Sept. 15, 2026)",
+            "Offshore Oil Stocks Rally While the Broad Market Slips: Transocean Climbs 6%, Valaris Rises 6%, W&T Offshore Gains 6%",
+            "Ciena Rises 4% as Optics Selloff Unwinds; Coherent Edges Higher, Corning Holds Steady",
+            "TeraWulf Falls 5% as AI Infrastructure Names Extend a Month-Long Slide; IREN Drops 4%, Applied Digital Declines 3%",
+            "Hewlett Packard Enterprise Rises 4% a Day After Evercore ISI Downgrade; Dell Climbs 4%, Super Micro Holds Steady",
+            "Rate Hike Jitters Rattle iBuyer Stocks: Opendoor Falls 4%, Zillow Slides 2% but Offerpad Holds Steady",
+            "Gaming the Fed Odds for a Rate Hike Wednesday",
+            "ASML\u2019s Current Share Price of $1,575 Shouldn\u2019t Scare You."
           ],
           "spx": [
-            "Stocks could have a tough road ahead if the Fed hikes rates: Chart of the Day",
-            "Stocks fall as oil and bond yields rise",
-            "INCY Stock Gains 23% Year to Date: Buy, Sell or Hold?",
-            "The AI bubble is leaking air, some economists say. Should investors worry?",
-            "2 S&P 500 Stocks with Impressive Fundamentals and 1 We Turn Down",
-            "Why ASML Stock Is Falling Today",
-            "Why Is Astera Labs Stock Down Today?",
-            "Here's Why You Should Retain DexCom Stock in Your Portfolio for Now",
-            "RenaissanceRe Trades at a Discount to Peers: Hold or Fold?",
-            "Spencer Jakab | Stocks Have the Midterm Blues"
+            "10-year Treasuries cross above 5%, but are other market risks showing up?",
+            "3 Reasons to Sell WSM and 1 Stock to Buy Instead",
+            "My Forever Portfolio: 3 Dividend-Paying Value Stocks That Are Too Cheap to Ignore.",
+            "2 Reasons to Watch URI and 1 to Stay Cautious",
+            "3 Reasons to Sell BKV and 1 Stock to Buy Instead",
+            "United Rentals Stock Drops 15% in a Month: Time to Buy the Dip?",
+            "2 Reasons to Like YUM (and 1 Not So Much)",
+            "Stock Market Midday, Sept. 15: Stocks Slide on AI and Bond Jitters",
+            "Stock Market Today: Dow Dives, Oil Play Tests New Entry; Bitcoin Falls Ahead Of Clarity Act Vote (Live Coverage)"
           ]
         }
       },
@@ -1624,52 +1616,49 @@
         "auto_note": "VICR CALL | $+19.86 (+11.15%) | dollar_gainer_1 | Strike $240.0 exp 2026-09-18 (6DTE) | IV 86.0% | SPY +nan% | MACRO: fed"
       },
       "news_scan": {
-        "scanned_at": "2026-09-14 19:30:39 PST",
-        "gap_days": 2,
+        "scanned_at": "2026-09-15 17:42:57 PST",
+        "gap_days": 3,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "bearish",
-        "spx_sentiment": "neutral",
+        "spx_sentiment": "bearish",
         "keywords_found": [],
         "spy_keywords": [
-          "surge",
-          "jumps",
-          "rallies",
-          "warning",
+          "downgrade",
           "falls",
-          "drops",
-          "tumbles"
+          "drops"
         ],
-        "spx_keywords": [],
+        "spx_keywords": [
+          "falls",
+          "drops"
+        ],
         "decision": "sell",
         "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
         "raw_headlines": {
           "ticker": [
-            "Is it the Right Time to Buy TTMI Stock at a P/S Multiple of 2.59X?",
-            "Merrimack, Hooksett land Vicor manufacturing expansion"
+            "Is it the Right Time to Buy TTMI Stock at a P/S Multiple of 2.59X?"
           ],
           "spy": [
-            "Coca-Cola Stock Is Up 29% in 2026: What Will It Take to Break Through $100?",
-            "Texas Instruments Is Up 55% in 2026: This Is the Secret Tech Stock You\u2019re Missing Out On",
-            "CHWY Is Still Down 34% This Year: Did CHWY Stock Just Find a Bottom?",
-            "Corning Tumbles 12% on $2B At-the-Market Equity Offering; Coherent Sinks 11%, Lumentum Drops 9%, Fabrinet Slides 6%",
-            "Netflix Climbs 4%, Alphabet Ticks Up, Amazon Barely Budges as New Streaming Policy Alliance Launches",
-            "U.S. Household Wealth Explodes by Record $12.5 Trillion in Q2 \u2014 Largest Jump Ever Recorded",
-            "Roblox Jumps 10% as Wedbush Lifts Target to $48 While Staying Neutral; Take-Two and GameStop Nudge Higher",
-            "Caterpillar Falls 4% While Deere Edges Higher: Is the Data Center Power Trade Unwinding?",
-            "10-Year Treasury Yield Just Passed 5%, Here\u2019s What Happened To The Market When The Same Thing Happened In 2007",
-            "Cybersecurity Stocks Surge as AI Safety Warnings Spark Security Bid: CrowdStrike and Zscaler Jump 12%, Palo Alto Rallies 11%"
+            "Joby Slips and Is Down 53% This Year as the eVTOL Trade Keeps Unwinding; Archer Dips, EHang Eases",
+            "Norwegian Falls 3% as Wells Fargo Trims Carnival Target on Caribbean Pricing Pressure; Carnival Slips, Royal Caribbean Dips",
+            "12 Investment Must Reads for This Week (Sept. 15, 2026)",
+            "Offshore Oil Stocks Rally While the Broad Market Slips: Transocean Climbs 6%, Valaris Rises 6%, W&T Offshore Gains 6%",
+            "Ciena Rises 4% as Optics Selloff Unwinds; Coherent Edges Higher, Corning Holds Steady",
+            "TeraWulf Falls 5% as AI Infrastructure Names Extend a Month-Long Slide; IREN Drops 4%, Applied Digital Declines 3%",
+            "Hewlett Packard Enterprise Rises 4% a Day After Evercore ISI Downgrade; Dell Climbs 4%, Super Micro Holds Steady",
+            "Rate Hike Jitters Rattle iBuyer Stocks: Opendoor Falls 4%, Zillow Slides 2% but Offerpad Holds Steady",
+            "Gaming the Fed Odds for a Rate Hike Wednesday",
+            "ASML\u2019s Current Share Price of $1,575 Shouldn\u2019t Scare You."
           ],
           "spx": [
-            "Stocks could have a tough road ahead if the Fed hikes rates: Chart of the Day",
-            "Stocks fall as oil and bond yields rise",
-            "INCY Stock Gains 23% Year to Date: Buy, Sell or Hold?",
-            "The AI bubble is leaking air, some economists say. Should investors worry?",
-            "2 S&P 500 Stocks with Impressive Fundamentals and 1 We Turn Down",
-            "Why ASML Stock Is Falling Today",
-            "Why Is Astera Labs Stock Down Today?",
-            "Here's Why You Should Retain DexCom Stock in Your Portfolio for Now",
-            "RenaissanceRe Trades at a Discount to Peers: Hold or Fold?",
-            "Spencer Jakab | Stocks Have the Midterm Blues"
+            "10-year Treasuries cross above 5%, but are other market risks showing up?",
+            "3 Reasons to Sell WSM and 1 Stock to Buy Instead",
+            "My Forever Portfolio: 3 Dividend-Paying Value Stocks That Are Too Cheap to Ignore.",
+            "2 Reasons to Watch URI and 1 to Stay Cautious",
+            "3 Reasons to Sell BKV and 1 Stock to Buy Instead",
+            "United Rentals Stock Drops 15% in a Month: Time to Buy the Dip?",
+            "2 Reasons to Like YUM (and 1 Not So Much)",
+            "Stock Market Midday, Sept. 15: Stocks Slide on AI and Bond Jitters",
+            "Stock Market Today: Dow Dives, Oil Play Tests New Entry; Bitcoin Falls Ahead Of Clarity Act Vote (Live Coverage)"
           ]
         }
       },
@@ -1714,22 +1703,21 @@
         "auto_note": "LEU PUT | $-13.56 (-8.18%) | dollar_loser_1 | Strike $135.0 exp 2026-09-18 (6DTE) | IV 56.5% | SPY +nan% | MACRO: fed"
       },
       "news_scan": {
-        "scanned_at": "2026-09-14 19:30:39 PST",
-        "gap_days": 2,
+        "scanned_at": "2026-09-15 17:42:57 PST",
+        "gap_days": 3,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "bearish",
-        "spx_sentiment": "neutral",
+        "spx_sentiment": "bearish",
         "keywords_found": [],
         "spy_keywords": [
-          "surge",
-          "jumps",
-          "rallies",
-          "warning",
+          "downgrade",
           "falls",
-          "drops",
-          "tumbles"
+          "drops"
         ],
-        "spx_keywords": [],
+        "spx_keywords": [
+          "falls",
+          "drops"
+        ],
         "decision": "hold",
         "decision_reason": "neutral keywords confirmed PUT thesis",
         "raw_headlines": {
@@ -1737,28 +1725,27 @@
             "Russia accuses Ukraine of Zaporizhzhia fuel attack as Odesa strikes continue"
           ],
           "spy": [
-            "Coca-Cola Stock Is Up 29% in 2026: What Will It Take to Break Through $100?",
-            "Texas Instruments Is Up 55% in 2026: This Is the Secret Tech Stock You\u2019re Missing Out On",
-            "CHWY Is Still Down 34% This Year: Did CHWY Stock Just Find a Bottom?",
-            "Corning Tumbles 12% on $2B At-the-Market Equity Offering; Coherent Sinks 11%, Lumentum Drops 9%, Fabrinet Slides 6%",
-            "Netflix Climbs 4%, Alphabet Ticks Up, Amazon Barely Budges as New Streaming Policy Alliance Launches",
-            "U.S. Household Wealth Explodes by Record $12.5 Trillion in Q2 \u2014 Largest Jump Ever Recorded",
-            "Roblox Jumps 10% as Wedbush Lifts Target to $48 While Staying Neutral; Take-Two and GameStop Nudge Higher",
-            "Caterpillar Falls 4% While Deere Edges Higher: Is the Data Center Power Trade Unwinding?",
-            "10-Year Treasury Yield Just Passed 5%, Here\u2019s What Happened To The Market When The Same Thing Happened In 2007",
-            "Cybersecurity Stocks Surge as AI Safety Warnings Spark Security Bid: CrowdStrike and Zscaler Jump 12%, Palo Alto Rallies 11%"
+            "Joby Slips and Is Down 53% This Year as the eVTOL Trade Keeps Unwinding; Archer Dips, EHang Eases",
+            "Norwegian Falls 3% as Wells Fargo Trims Carnival Target on Caribbean Pricing Pressure; Carnival Slips, Royal Caribbean Dips",
+            "12 Investment Must Reads for This Week (Sept. 15, 2026)",
+            "Offshore Oil Stocks Rally While the Broad Market Slips: Transocean Climbs 6%, Valaris Rises 6%, W&T Offshore Gains 6%",
+            "Ciena Rises 4% as Optics Selloff Unwinds; Coherent Edges Higher, Corning Holds Steady",
+            "TeraWulf Falls 5% as AI Infrastructure Names Extend a Month-Long Slide; IREN Drops 4%, Applied Digital Declines 3%",
+            "Hewlett Packard Enterprise Rises 4% a Day After Evercore ISI Downgrade; Dell Climbs 4%, Super Micro Holds Steady",
+            "Rate Hike Jitters Rattle iBuyer Stocks: Opendoor Falls 4%, Zillow Slides 2% but Offerpad Holds Steady",
+            "Gaming the Fed Odds for a Rate Hike Wednesday",
+            "ASML\u2019s Current Share Price of $1,575 Shouldn\u2019t Scare You."
           ],
           "spx": [
-            "Stocks could have a tough road ahead if the Fed hikes rates: Chart of the Day",
-            "Stocks fall as oil and bond yields rise",
-            "INCY Stock Gains 23% Year to Date: Buy, Sell or Hold?",
-            "The AI bubble is leaking air, some economists say. Should investors worry?",
-            "2 S&P 500 Stocks with Impressive Fundamentals and 1 We Turn Down",
-            "Why ASML Stock Is Falling Today",
-            "Why Is Astera Labs Stock Down Today?",
-            "Here's Why You Should Retain DexCom Stock in Your Portfolio for Now",
-            "RenaissanceRe Trades at a Discount to Peers: Hold or Fold?",
-            "Spencer Jakab | Stocks Have the Midterm Blues"
+            "10-year Treasuries cross above 5%, but are other market risks showing up?",
+            "3 Reasons to Sell WSM and 1 Stock to Buy Instead",
+            "My Forever Portfolio: 3 Dividend-Paying Value Stocks That Are Too Cheap to Ignore.",
+            "2 Reasons to Watch URI and 1 to Stay Cautious",
+            "3 Reasons to Sell BKV and 1 Stock to Buy Instead",
+            "United Rentals Stock Drops 15% in a Month: Time to Buy the Dip?",
+            "2 Reasons to Like YUM (and 1 Not So Much)",
+            "Stock Market Midday, Sept. 15: Stocks Slide on AI and Bond Jitters",
+            "Stock Market Today: Dow Dives, Oil Play Tests New Entry; Bitcoin Falls Ahead Of Clarity Act Vote (Live Coverage)"
           ]
         }
       },
@@ -1800,7 +1787,64 @@
         "macro_keywords": [],
         "auto_note": "PANW CALL | $+43.29 (+13.09%) | dollar_gainer_1 | Strike $420.0 exp 2026-09-18 (3DTE) | IV 71.1% | SPY +nan% | No macro triggers"
       },
-      "news_scan": null,
+      "news_scan": {
+        "scanned_at": "2026-09-15 17:42:57 PST",
+        "gap_days": 0,
+        "ticker_sentiment": "bearish",
+        "spy_sentiment": "bearish",
+        "spx_sentiment": "bearish",
+        "keywords_found": [
+          "concern"
+        ],
+        "spy_keywords": [
+          "downgrade",
+          "falls",
+          "drops"
+        ],
+        "spx_keywords": [
+          "falls",
+          "drops"
+        ],
+        "decision": "sell",
+        "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
+        "raw_headlines": {
+          "ticker": [
+            "'I'm not sure AI would make the top 50' in betting market on human extinction: Okta CEO",
+            "Time to Boost Cybersecurity ETF Exposure as AI Safety Concerns Rise",
+            "AI Is Boosting Cybersecurity. CrowdStrike and 4 More Stocks to Buy.",
+            "Zacks Investment Ideas feature highlights: Palo Alto Networks, Fortinet, Okta, CrowdStrike and RUM Group",
+            "Can Verizon's 6G Acceleration Initiatives and AI Trials Drive Growth?",
+            "Is CrowdStrike Stock Betting That Its Record Quarter Is The New Normal?",
+            "What Actually Lifted Okta Stock To A One-Year High?",
+            "Company News for Sep 15, 2026",
+            "Stocks Fall Pre-Bell as Traders Await Fed Rate Decision Amid Rising Treasury Yields, Oil Prices",
+            "Palo Alto Networks (PANW) Backs New Security Testing Model And 6G Forum"
+          ],
+          "spy": [
+            "Joby Slips and Is Down 53% This Year as the eVTOL Trade Keeps Unwinding; Archer Dips, EHang Eases",
+            "Norwegian Falls 3% as Wells Fargo Trims Carnival Target on Caribbean Pricing Pressure; Carnival Slips, Royal Caribbean Dips",
+            "12 Investment Must Reads for This Week (Sept. 15, 2026)",
+            "Offshore Oil Stocks Rally While the Broad Market Slips: Transocean Climbs 6%, Valaris Rises 6%, W&T Offshore Gains 6%",
+            "Ciena Rises 4% as Optics Selloff Unwinds; Coherent Edges Higher, Corning Holds Steady",
+            "TeraWulf Falls 5% as AI Infrastructure Names Extend a Month-Long Slide; IREN Drops 4%, Applied Digital Declines 3%",
+            "Hewlett Packard Enterprise Rises 4% a Day After Evercore ISI Downgrade; Dell Climbs 4%, Super Micro Holds Steady",
+            "Rate Hike Jitters Rattle iBuyer Stocks: Opendoor Falls 4%, Zillow Slides 2% but Offerpad Holds Steady",
+            "Gaming the Fed Odds for a Rate Hike Wednesday",
+            "ASML\u2019s Current Share Price of $1,575 Shouldn\u2019t Scare You."
+          ],
+          "spx": [
+            "10-year Treasuries cross above 5%, but are other market risks showing up?",
+            "3 Reasons to Sell WSM and 1 Stock to Buy Instead",
+            "My Forever Portfolio: 3 Dividend-Paying Value Stocks That Are Too Cheap to Ignore.",
+            "2 Reasons to Watch URI and 1 to Stay Cautious",
+            "3 Reasons to Sell BKV and 1 Stock to Buy Instead",
+            "United Rentals Stock Drops 15% in a Month: Time to Buy the Dip?",
+            "2 Reasons to Like YUM (and 1 Not So Much)",
+            "Stock Market Midday, Sept. 15: Stocks Slide on AI and Bond Jitters",
+            "Stock Market Today: Dow Dives, Oil Play Tests New Entry; Bitcoin Falls Ahead Of Clarity Act Vote (Live Coverage)"
+          ]
+        }
+      },
       "exit": null,
       "fomo": null
     },
@@ -1839,7 +1883,62 @@
         "macro_keywords": [],
         "auto_note": "TER PUT | $-50.52 (-13.30%) | dollar_loser_1 | Strike $280.0 exp 2026-09-18 (3DTE) | IV 90.0% | SPY +nan% | No macro triggers"
       },
-      "news_scan": null,
+      "news_scan": {
+        "scanned_at": "2026-09-15 17:42:57 PST",
+        "gap_days": 0,
+        "ticker_sentiment": "neutral",
+        "spy_sentiment": "bearish",
+        "spx_sentiment": "bearish",
+        "keywords_found": [],
+        "spy_keywords": [
+          "downgrade",
+          "falls",
+          "drops"
+        ],
+        "spx_keywords": [
+          "falls",
+          "drops"
+        ],
+        "decision": "hold",
+        "decision_reason": "neutral keywords confirmed PUT thesis",
+        "raw_headlines": {
+          "ticker": [
+            "Teradyne India Office Expands Semiconductor Manufacturing Support in Bengaluru",
+            "Top Robotics Stocks to Add to Your Portfolio for Impressive Returns",
+            "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Tuesday as Traders Prepare for Fed Meeting",
+            "Update: US Equity Futures Drop Pre-Bell as 10-Year Treasury Yield Surpasses 5% Ahead of Fed Decision",
+            "Lattice Semiconductor, Amkor, Himax, Teradyne, and Entegris Stocks Trade Down, What You Need To Know",
+            "Is Teradyne Stock Asking Too Much Of Its Test Business?",
+            "Which Tech Stocks Are Getting Hit Hardest Today",
+            "Oracle, Corning, Alphabet, GE Vernova, CrowdStrike, SpaceX, and More Stocks That Explain Today\u2019s Market",
+            "Can AEHR's Diversification Strengthen Its Growth Outlook?",
+            "Buy These 5 Top-Ranked Wide Moat Stocks to Strengthen Your Portfolio"
+          ],
+          "spy": [
+            "Joby Slips and Is Down 53% This Year as the eVTOL Trade Keeps Unwinding; Archer Dips, EHang Eases",
+            "Norwegian Falls 3% as Wells Fargo Trims Carnival Target on Caribbean Pricing Pressure; Carnival Slips, Royal Caribbean Dips",
+            "12 Investment Must Reads for This Week (Sept. 15, 2026)",
+            "Offshore Oil Stocks Rally While the Broad Market Slips: Transocean Climbs 6%, Valaris Rises 6%, W&T Offshore Gains 6%",
+            "Ciena Rises 4% as Optics Selloff Unwinds; Coherent Edges Higher, Corning Holds Steady",
+            "TeraWulf Falls 5% as AI Infrastructure Names Extend a Month-Long Slide; IREN Drops 4%, Applied Digital Declines 3%",
+            "Hewlett Packard Enterprise Rises 4% a Day After Evercore ISI Downgrade; Dell Climbs 4%, Super Micro Holds Steady",
+            "Rate Hike Jitters Rattle iBuyer Stocks: Opendoor Falls 4%, Zillow Slides 2% but Offerpad Holds Steady",
+            "Gaming the Fed Odds for a Rate Hike Wednesday",
+            "ASML\u2019s Current Share Price of $1,575 Shouldn\u2019t Scare You."
+          ],
+          "spx": [
+            "10-year Treasuries cross above 5%, but are other market risks showing up?",
+            "3 Reasons to Sell WSM and 1 Stock to Buy Instead",
+            "My Forever Portfolio: 3 Dividend-Paying Value Stocks That Are Too Cheap to Ignore.",
+            "2 Reasons to Watch URI and 1 to Stay Cautious",
+            "3 Reasons to Sell BKV and 1 Stock to Buy Instead",
+            "United Rentals Stock Drops 15% in a Month: Time to Buy the Dip?",
+            "2 Reasons to Like YUM (and 1 Not So Much)",
+            "Stock Market Midday, Sept. 15: Stocks Slide on AI and Bond Jitters",
+            "Stock Market Today: Dow Dives, Oil Play Tests New Entry; Bitcoin Falls Ahead Of Clarity Act Vote (Live Coverage)"
+          ]
+        }
+      },
       "exit": null,
       "fomo": null
     }
