@@ -1,250 +1,250 @@
 {
   "topGainers": [
     {
-      "ticker": "ZS",
-      "name": "ZSCALER INC COM",
+      "ticker": "BBNX",
+      "name": "BETA BIONICS INC COM",
       "sector": "Unknown",
-      "price": 191.73,
-      "changePct": 16.52,
-      "changeDollar": 27.19
+      "price": 18.71,
+      "changePct": 11.84,
+      "changeDollar": 1.98
+    },
+    {
+      "ticker": "SDGR",
+      "name": "SCHRODINGER INC COM",
+      "sector": "Unknown",
+      "price": 22.77,
+      "changePct": 9.73,
+      "changeDollar": 2.02
+    },
+    {
+      "ticker": "QCML",
+      "name": "GRANITESHARES ETF TR 2X LONG QCOM ETF",
+      "sector": "Unknown",
+      "price": 19.64,
+      "changePct": 9.66,
+      "changeDollar": 1.73
     },
     {
       "ticker": "TENB",
       "name": "TENABLE HLDGS INC COM",
       "sector": "Unknown",
-      "price": 35.08,
-      "changePct": 16.51,
-      "changeDollar": 4.97
+      "price": 38.38,
+      "changePct": 9.41,
+      "changeDollar": 3.3
     },
     {
-      "ticker": "XXRP",
-      "name": "LISTED FDS TR TEUCR 2X XRP ETF",
+      "ticker": "QRVO",
+      "name": "QORVO INC COM",
       "sector": "Unknown",
-      "price": 35.66,
-      "changePct": 15.18,
-      "changeDollar": 4.7
+      "price": 117.65,
+      "changePct": 8.96,
+      "changeDollar": 9.67
     },
     {
-      "ticker": "CRCA",
-      "name": "PROSHARES TR ULTRA CRCL NEW",
+      "ticker": "KRMN",
+      "name": "KARMAN HLDGS INC COMMON STOCK",
       "sector": "Unknown",
-      "price": 25.7,
-      "changePct": 14.99,
-      "changeDollar": 3.35
+      "price": 37.42,
+      "changePct": 7.71,
+      "changeDollar": 2.68
     },
     {
-      "ticker": "PANW",
-      "name": "PALO ALTO NETWORKS INC COM",
+      "ticker": "CVI",
+      "name": "CVR ENERGY INC COM",
       "sector": "Unknown",
-      "price": 373.94,
-      "changePct": 13.09,
-      "changeDollar": 43.29
+      "price": 52.08,
+      "changePct": 7.09,
+      "changeDollar": 3.45
     },
     {
-      "ticker": "IOT",
-      "name": "SAMSARA INC COM CL A",
+      "ticker": "FTRE",
+      "name": "FORTREA HLDGS INC COMMON STOCK",
       "sector": "Unknown",
-      "price": 42.91,
-      "changePct": 11.8,
-      "changeDollar": 4.53
+      "price": 18.64,
+      "changePct": 7.06,
+      "changeDollar": 1.23
     },
     {
-      "ticker": "BUG",
-      "name": "GLOBAL X FDS CYBRSCURTY ETF",
+      "ticker": "SM",
+      "name": "SM ENERGY COMPANY COM",
       "sector": "Unknown",
-      "price": 44.31,
-      "changePct": 10.66,
-      "changeDollar": 4.27
+      "price": 41.47,
+      "changePct": 6.25,
+      "changeDollar": 2.44
     },
     {
-      "ticker": "APPN",
-      "name": "APPIAN CORP CL A",
+      "ticker": "SPCQ",
+      "name": "Defiance Daily Target 2X Short SPCX ETF",
       "sector": "Unknown",
-      "price": 38.31,
-      "changePct": 10.21,
-      "changeDollar": 3.55
-    },
-    {
-      "ticker": "MSTU",
-      "name": "T-Rex 2X Long MSTR Daily Target ETF",
-      "sector": "Unknown",
-      "price": 33.26,
-      "changePct": 9.37,
-      "changeDollar": 2.85
-    },
-    {
-      "ticker": "COIN",
-      "name": "COINBASE GLOBAL INC COM CL A",
-      "sector": "Unknown",
-      "price": 191.45,
-      "changePct": 9.24,
-      "changeDollar": 16.19
+      "price": 12.09,
+      "changePct": 5.87,
+      "changeDollar": 0.67
     }
   ],
   "topLosers": [
     {
-      "ticker": "ARMG",
-      "name": "THEMES ETF TR LEVERAGE SHARES",
+      "ticker": "ENVA",
+      "name": "ENOVA INTL INC COM",
       "sector": "Unknown",
-      "price": 15.13,
-      "changePct": -19.73,
-      "changeDollar": -3.72
+      "price": 173.07,
+      "changePct": -23.66,
+      "changeDollar": -53.65
     },
     {
-      "ticker": "KORU",
-      "name": "DIREXION SHARES ETF TRUST DAIL MS KORE ETF",
+      "ticker": "ETHT",
+      "name": "PROSHARES TR ULTRA ETHER ETF",
       "sector": "Unknown",
-      "price": 18.57,
-      "changePct": -19.51,
-      "changeDollar": -4.5
+      "price": 16.3,
+      "changePct": -8.38,
+      "changeDollar": -1.49
     },
     {
-      "ticker": "SOXL",
-      "name": "DIREXION SHARES ETF TRUST DAI SEM BUL ETF",
+      "ticker": "DFTX",
+      "name": "DEFINIUM THERAPEUTICS INC COM SHS",
       "sector": "Unknown",
-      "price": 101.13,
-      "changePct": -16.98,
-      "changeDollar": -20.69
+      "price": 37.08,
+      "changePct": -7.88,
+      "changeDollar": -3.17
     },
     {
-      "ticker": "SMCL",
-      "name": "GRANITESHARES ETF TR 2X LO SMCI DA ET",
+      "ticker": "DRIP",
+      "name": "DIREXION SHARES ETF TRUST DAILY S&P OIL &",
       "sector": "Unknown",
-      "price": 15.75,
-      "changePct": -16.8,
-      "changeDollar": -3.18
+      "price": 30.74,
+      "changePct": -7.13,
+      "changeDollar": -2.36
     },
     {
-      "ticker": "SKUU",
-      "name": "GRANITESHARES ETF TR 2X LNG SK HYNIX",
+      "ticker": "GPGI",
+      "name": "GPGI INC COM CL A",
       "sector": "Unknown",
-      "price": 26.07,
-      "changePct": -15.25,
-      "changeDollar": -4.69
+      "price": 12.13,
+      "changePct": -6.55,
+      "changeDollar": -0.85
     },
     {
-      "ticker": "CWVX",
-      "name": "Tradr 2X Long CRWV Daily ETF",
+      "ticker": "TXRH",
+      "name": "TEXAS ROADHOUSE INC COM",
       "sector": "Unknown",
-      "price": 14.05,
-      "changePct": -13.43,
-      "changeDollar": -2.18
+      "price": 169.34,
+      "changePct": -6.5,
+      "changeDollar": -11.78
     },
     {
-      "ticker": "TER",
-      "name": "TERADYNE INC COM",
+      "ticker": "EYE",
+      "name": "NATIONAL VISION HLDGS INC COM",
       "sector": "Unknown",
-      "price": 329.2,
-      "changePct": -13.3,
-      "changeDollar": -50.52
+      "price": 16.38,
+      "changePct": -6.45,
+      "changeDollar": -1.13
     },
     {
-      "ticker": "BEG",
-      "name": "THEMES ETF TR LEVERAGE SHS 2X",
+      "ticker": "FIGR",
+      "name": "FIGURE TECHNOLOGY SOLUTIO COM CL A",
       "sector": "Unknown",
-      "price": 45.28,
-      "changePct": -13.24,
-      "changeDollar": -6.91
+      "price": 33.55,
+      "changePct": -5.89,
+      "changeDollar": -2.1
     },
     {
-      "ticker": "VIAV",
-      "name": "VIAVI SOLUTIONS INC COM",
+      "ticker": "ASO",
+      "name": "ACADEMY SPORTS & OUTDOORS INC COM",
       "sector": "Unknown",
-      "price": 33.82,
-      "changePct": -12.72,
-      "changeDollar": -4.93
+      "price": 51.18,
+      "changePct": -5.66,
+      "changeDollar": -3.07
     },
     {
-      "ticker": "SHAZ",
-      "name": "SHARONAI HOLDINGS INC COM CL A",
+      "ticker": "QXO",
+      "name": "QXO INC COM NEW",
       "sector": "Unknown",
-      "price": 51.91,
-      "changePct": -12.62,
-      "changeDollar": -7.5
+      "price": 11.44,
+      "changePct": -5.53,
+      "changeDollar": -0.67
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "PANW",
-      "name": "PALO ALTO NETWORKS INC COM",
+      "ticker": "QRVO",
+      "name": "QORVO INC COM",
       "sector": "Unknown",
-      "price": 373.94,
-      "changePct": 13.09,
-      "changeDollar": 43.29
+      "price": 117.65,
+      "changePct": 8.96,
+      "changeDollar": 9.67
     },
     {
-      "ticker": "ZS",
-      "name": "ZSCALER INC COM",
+      "ticker": "CVI",
+      "name": "CVR ENERGY INC COM",
       "sector": "Unknown",
-      "price": 191.73,
-      "changePct": 16.52,
-      "changeDollar": 27.19
-    },
-    {
-      "ticker": "COIN",
-      "name": "COINBASE GLOBAL INC COM CL A",
-      "sector": "Unknown",
-      "price": 191.45,
-      "changePct": 9.24,
-      "changeDollar": 16.19
+      "price": 52.08,
+      "changePct": 7.09,
+      "changeDollar": 3.45
     },
     {
       "ticker": "TENB",
       "name": "TENABLE HLDGS INC COM",
       "sector": "Unknown",
-      "price": 35.08,
-      "changePct": 16.51,
-      "changeDollar": 4.97
+      "price": 38.38,
+      "changePct": 9.41,
+      "changeDollar": 3.3
     },
     {
-      "ticker": "XXRP",
-      "name": "LISTED FDS TR TEUCR 2X XRP ETF",
+      "ticker": "KRMN",
+      "name": "KARMAN HLDGS INC COMMON STOCK",
       "sector": "Unknown",
-      "price": 35.66,
-      "changePct": 15.18,
-      "changeDollar": 4.7
+      "price": 37.42,
+      "changePct": 7.71,
+      "changeDollar": 2.68
+    },
+    {
+      "ticker": "SM",
+      "name": "SM ENERGY COMPANY COM",
+      "sector": "Unknown",
+      "price": 41.47,
+      "changePct": 6.25,
+      "changeDollar": 2.44
     }
   ],
   "dollarLosers": [
     {
-      "ticker": "TER",
-      "name": "TERADYNE INC COM",
+      "ticker": "ENVA",
+      "name": "ENOVA INTL INC COM",
       "sector": "Unknown",
-      "price": 329.2,
-      "changePct": -13.3,
-      "changeDollar": -50.52
+      "price": 173.07,
+      "changePct": -23.66,
+      "changeDollar": -53.65
     },
     {
-      "ticker": "SOXL",
-      "name": "DIREXION SHARES ETF TRUST DAI SEM BUL ETF",
+      "ticker": "TXRH",
+      "name": "TEXAS ROADHOUSE INC COM",
       "sector": "Unknown",
-      "price": 101.13,
-      "changePct": -16.98,
-      "changeDollar": -20.69
+      "price": 169.34,
+      "changePct": -6.5,
+      "changeDollar": -11.78
     },
     {
-      "ticker": "SHAZ",
-      "name": "SHARONAI HOLDINGS INC COM CL A",
+      "ticker": "DFTX",
+      "name": "DEFINIUM THERAPEUTICS INC COM SHS",
       "sector": "Unknown",
-      "price": 51.91,
-      "changePct": -12.62,
-      "changeDollar": -7.5
+      "price": 37.08,
+      "changePct": -7.88,
+      "changeDollar": -3.17
     },
     {
-      "ticker": "BEG",
-      "name": "THEMES ETF TR LEVERAGE SHS 2X",
+      "ticker": "ASO",
+      "name": "ACADEMY SPORTS & OUTDOORS INC COM",
       "sector": "Unknown",
-      "price": 45.28,
-      "changePct": -13.24,
-      "changeDollar": -6.91
+      "price": 51.18,
+      "changePct": -5.66,
+      "changeDollar": -3.07
     },
     {
-      "ticker": "VIAV",
-      "name": "VIAVI SOLUTIONS INC COM",
+      "ticker": "DRIP",
+      "name": "DIREXION SHARES ETF TRUST DAILY S&P OIL &",
       "sector": "Unknown",
-      "price": 33.82,
-      "changePct": -12.72,
-      "changeDollar": -4.93
+      "price": 30.74,
+      "changePct": -7.13,
+      "changeDollar": -2.36
     }
   ]
 }
