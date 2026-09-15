@@ -218,5 +218,27 @@
     "youtube_id": null,
     "images": [],
     "published": true
+  },
+  {
+    "id": 18,
+    "date": "2026-09-15",
+    "ticker": "PANW",
+    "type": "CALL",
+    "trade_id": 18,
+    "title": "PANW CALL \u2014 2026-09-15",
+    "youtube_id": null,
+    "images": [],
+    "published": true
+  },
+  {
+    "id": 19,
+    "date": "2026-09-15",
+    "ticker": "TER",
+    "type": "PUT",
+    "trade_id": 19,
+    "title": "TER PUT \u2014 2026-09-15",
+    "youtube_id": null,
+    "images": [],
+    "published": true
   }
 ]

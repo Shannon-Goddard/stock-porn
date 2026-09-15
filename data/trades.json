@@ -1764,6 +1764,84 @@
       },
       "exit": null,
       "fomo": null
+    },
+    {
+      "id": 18,
+      "status": "open",
+      "entry": {
+        "date": "2026-09-15",
+        "time": "15:55 PST",
+        "ticker": "PANW",
+        "name": "PALO ALTO NETWORKS INC COM",
+        "sector": "Unknown",
+        "type": "CALL",
+        "strike": 420.0,
+        "expiration": "2026-09-18",
+        "dte_at_entry": 3,
+        "T_at_entry": 0.008219,
+        "stock_price_at_entry": 373.94,
+        "premium": 0.82,
+        "cost": 82.0,
+        "bid": 0.68,
+        "spread": 0.14,
+        "iv_at_entry": 0.7107,
+        "otm_pct": 12.32,
+        "expected_move": {
+          "one_sigma_pct": 6.44,
+          "upper": 398.03,
+          "lower": 349.85,
+          "strike_position": "outside"
+        },
+        "signal_rank": "dollar_gainer_1",
+        "signal_pct": 13.09,
+        "signal_dollar": 43.29,
+        "spy_change": NaN,
+        "macro_active": false,
+        "macro_keywords": [],
+        "auto_note": "PANW CALL | $+43.29 (+13.09%) | dollar_gainer_1 | Strike $420.0 exp 2026-09-18 (3DTE) | IV 71.1% | SPY +nan% | No macro triggers"
+      },
+      "news_scan": null,
+      "exit": null,
+      "fomo": null
+    },
+    {
+      "id": 19,
+      "status": "open",
+      "entry": {
+        "date": "2026-09-15",
+        "time": "15:55 PST",
+        "ticker": "TER",
+        "name": "TERADYNE INC COM",
+        "sector": "Unknown",
+        "type": "PUT",
+        "strike": 280.0,
+        "expiration": "2026-09-18",
+        "dte_at_entry": 3,
+        "T_at_entry": 0.008219,
+        "stock_price_at_entry": 329.2,
+        "premium": 0.9,
+        "cost": 90.0,
+        "bid": 0.1,
+        "spread": 0.8,
+        "iv_at_entry": 0.8999,
+        "otm_pct": 14.95,
+        "expected_move": {
+          "one_sigma_pct": 8.16,
+          "upper": 356.06,
+          "lower": 302.34,
+          "strike_position": "outside"
+        },
+        "signal_rank": "dollar_loser_1",
+        "signal_pct": -13.3,
+        "signal_dollar": -50.52,
+        "spy_change": NaN,
+        "macro_active": false,
+        "macro_keywords": [],
+        "auto_note": "TER PUT | $-50.52 (-13.30%) | dollar_loser_1 | Strike $280.0 exp 2026-09-18 (3DTE) | IV 90.0% | SPY +nan% | No macro triggers"
+      },
+      "news_scan": null,
+      "exit": null,
+      "fomo": null
     }
   ]
 }
