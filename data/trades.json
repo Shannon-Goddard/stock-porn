@@ -1248,11 +1248,11 @@
         "auto_note": "ALAB CALL | $+27.58 (+9.75%) | dollar_gainer_1 | Strike $390.0 exp 2026-09-11 (6DTE) | IV 88.2% | SPY +nan% | MACRO: rate hike, war"
       },
       "news_scan": {
-        "scanned_at": "2026-09-15 17:42:57 PST",
+        "scanned_at": "2026-09-15 18:19:07 PST",
         "gap_days": 10,
         "ticker_sentiment": "bullish",
         "spy_sentiment": "bearish",
-        "spx_sentiment": "bearish",
+        "spx_sentiment": "bullish",
         "keywords_found": [
           "surge"
         ],
@@ -1262,8 +1262,9 @@
           "drops"
         ],
         "spx_keywords": [
-          "falls",
-          "drops"
+          "surge",
+          "jumps",
+          "falls"
         ],
         "decision": "hold",
         "decision_reason": "bullish keywords confirmed CALL thesis",
@@ -1288,15 +1289,15 @@
             "ASML\u2019s Current Share Price of $1,575 Shouldn\u2019t Scare You."
           ],
           "spx": [
-            "10-year Treasuries cross above 5%, but are other market risks showing up?",
-            "3 Reasons to Sell WSM and 1 Stock to Buy Instead",
-            "My Forever Portfolio: 3 Dividend-Paying Value Stocks That Are Too Cheap to Ignore.",
-            "2 Reasons to Watch URI and 1 to Stay Cautious",
-            "3 Reasons to Sell BKV and 1 Stock to Buy Instead",
-            "United Rentals Stock Drops 15% in a Month: Time to Buy the Dip?",
-            "2 Reasons to Like YUM (and 1 Not So Much)",
-            "Stock Market Midday, Sept. 15: Stocks Slide on AI and Bond Jitters",
-            "Stock Market Today: Dow Dives, Oil Play Tests New Entry; Bitcoin Falls Ahead Of Clarity Act Vote (Live Coverage)"
+            "Bessent grilled on the claim that \u2018K-shaped economy is over\u2019",
+            "Stock Market Today: Dow Dives, This Loan Play Craters; Bitcoin Falls Ahead Of Clarity Act Vote (Live Coverage)",
+            "3 Reasons DCI is Risky and 1 Stock to Buy Instead",
+            "3 Reasons CMRC is Risky and 1 Stock to Buy Instead",
+            "GE Vernova Is \u2018Wired to Win,\u2019 Analyst Says. What It Means for the Stock.",
+            "Update: Equities Fall Intraday as Yields, Oil Surge Ahead of Fed Decision",
+            "PPIH's Q2 Earnings Rise Y/Y on Strong North America, MENA Sales",
+            "Update: US Equity Indexes Decline as Benchmark Treasury Yield Hits Highest in Almost Two Decades, Crude Oil Jumps",
+            "3 Reasons to Sell WSM and 1 Stock to Buy Instead"
           ]
         }
       },
@@ -1342,11 +1343,11 @@
         "auto_note": "TSLA PUT | $-22.29 (-5.92%) | dollar_loser_1 | Strike $340.0 exp 2026-09-09 (4DTE) | IV 32.4% | SPY +nan% | MACRO: rate hike, war"
       },
       "news_scan": {
-        "scanned_at": "2026-09-15 17:42:57 PST",
+        "scanned_at": "2026-09-15 18:19:07 PST",
         "gap_days": 10,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "bearish",
-        "spx_sentiment": "bearish",
+        "spx_sentiment": "bullish",
         "keywords_found": [
           "surge",
           "warning"
@@ -1357,8 +1358,9 @@
           "drops"
         ],
         "spx_keywords": [
-          "falls",
-          "drops"
+          "surge",
+          "jumps",
+          "falls"
         ],
         "decision": "hold",
         "decision_reason": "neutral keywords confirmed PUT thesis",
@@ -1366,14 +1368,14 @@
           "ticker": [
             "Musk hints (again) at possible SpaceX, Tesla merger",
             "Wall Street pushes back on Anthropic's warning as AI spending expected to roll on: Chart of the Day",
+            "Regulators Press Tesla on Whether Cybercab May Have Option for Human Control",
             "\u201cSpaceX Has To Buy It. Period. End Of Story.\u201d Cramer\u2019s Answer For Tesla, Down 19.97% This Year.",
+            "Nvidia, Coinbase, Skyworks, Axon, Tesla, Applied Aerospace, and More Stocks That Explain Today\u2019s Market",
+            "AI Doomerism Unleashed: \u2018Most Predictions Are Wrong\u2019",
             "Musk Promises Tesla Reveal On October 1 That Will Have To Be Seen To Be Believed. Bettors Give It A 4% Chance Of Happening",
             "Bitcoin\u2019s Correlation With Gold Just Hit a Six-Year High. Is BTC Finally Digital Gold?",
             "SpaceX Readies For Starship Flight 14 Next Week, Musk Plans Ship Catch",
-            "Gary Black Explains Tesla\u2019s US EV Market Share Surge, Points to Legacy Retreat, Model Y Rejig: \u2018It\u2019s Implausible\u2026\u2019",
-            "Anthropic Could Be The 11th Most Valuable Company in the World",
-            "Elon Musk comments on AI slowdown amid his own big AI bets",
-            "Nvidia, Coinbase, Robinhood, Coherent, and More Stocks That Explain Today\u2019s Market"
+            "Gary Black Explains Tesla\u2019s US EV Market Share Surge, Points to Legacy Retreat, Model Y Rejig: \u2018It\u2019s Implausible\u2026\u2019"
           ],
           "spy": [
             "Joby Slips and Is Down 53% This Year as the eVTOL Trade Keeps Unwinding; Archer Dips, EHang Eases",
@@ -1388,15 +1390,15 @@
             "ASML\u2019s Current Share Price of $1,575 Shouldn\u2019t Scare You."
           ],
           "spx": [
-            "10-year Treasuries cross above 5%, but are other market risks showing up?",
-            "3 Reasons to Sell WSM and 1 Stock to Buy Instead",
-            "My Forever Portfolio: 3 Dividend-Paying Value Stocks That Are Too Cheap to Ignore.",
-            "2 Reasons to Watch URI and 1 to Stay Cautious",
-            "3 Reasons to Sell BKV and 1 Stock to Buy Instead",
-            "United Rentals Stock Drops 15% in a Month: Time to Buy the Dip?",
-            "2 Reasons to Like YUM (and 1 Not So Much)",
-            "Stock Market Midday, Sept. 15: Stocks Slide on AI and Bond Jitters",
-            "Stock Market Today: Dow Dives, Oil Play Tests New Entry; Bitcoin Falls Ahead Of Clarity Act Vote (Live Coverage)"
+            "Bessent grilled on the claim that \u2018K-shaped economy is over\u2019",
+            "Stock Market Today: Dow Dives, This Loan Play Craters; Bitcoin Falls Ahead Of Clarity Act Vote (Live Coverage)",
+            "3 Reasons DCI is Risky and 1 Stock to Buy Instead",
+            "3 Reasons CMRC is Risky and 1 Stock to Buy Instead",
+            "GE Vernova Is \u2018Wired to Win,\u2019 Analyst Says. What It Means for the Stock.",
+            "Update: Equities Fall Intraday as Yields, Oil Surge Ahead of Fed Decision",
+            "PPIH's Q2 Earnings Rise Y/Y on Strong North America, MENA Sales",
+            "Update: US Equity Indexes Decline as Benchmark Treasury Yield Hits Highest in Almost Two Decades, Crude Oil Jumps",
+            "3 Reasons to Sell WSM and 1 Stock to Buy Instead"
           ]
         }
       },
@@ -1439,11 +1441,11 @@
         "auto_note": "DDOG CALL | $+15.04 (+7.15%) | dollar_gainer_1 | Strike $240.0 exp 2026-09-11 (1DTE) | IV 68.4% | SPY +nan% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-09-15 17:42:57 PST",
+        "scanned_at": "2026-09-15 18:19:07 PST",
         "gap_days": 5,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "bearish",
-        "spx_sentiment": "bearish",
+        "spx_sentiment": "bullish",
         "keywords_found": [],
         "spy_keywords": [
           "downgrade",
@@ -1451,8 +1453,9 @@
           "drops"
         ],
         "spx_keywords": [
-          "falls",
-          "drops"
+          "surge",
+          "jumps",
+          "falls"
         ],
         "decision": "sell",
         "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
@@ -1477,15 +1480,15 @@
             "ASML\u2019s Current Share Price of $1,575 Shouldn\u2019t Scare You."
           ],
           "spx": [
-            "10-year Treasuries cross above 5%, but are other market risks showing up?",
-            "3 Reasons to Sell WSM and 1 Stock to Buy Instead",
-            "My Forever Portfolio: 3 Dividend-Paying Value Stocks That Are Too Cheap to Ignore.",
-            "2 Reasons to Watch URI and 1 to Stay Cautious",
-            "3 Reasons to Sell BKV and 1 Stock to Buy Instead",
-            "United Rentals Stock Drops 15% in a Month: Time to Buy the Dip?",
-            "2 Reasons to Like YUM (and 1 Not So Much)",
-            "Stock Market Midday, Sept. 15: Stocks Slide on AI and Bond Jitters",
-            "Stock Market Today: Dow Dives, Oil Play Tests New Entry; Bitcoin Falls Ahead Of Clarity Act Vote (Live Coverage)"
+            "Bessent grilled on the claim that \u2018K-shaped economy is over\u2019",
+            "Stock Market Today: Dow Dives, This Loan Play Craters; Bitcoin Falls Ahead Of Clarity Act Vote (Live Coverage)",
+            "3 Reasons DCI is Risky and 1 Stock to Buy Instead",
+            "3 Reasons CMRC is Risky and 1 Stock to Buy Instead",
+            "GE Vernova Is \u2018Wired to Win,\u2019 Analyst Says. What It Means for the Stock.",
+            "Update: Equities Fall Intraday as Yields, Oil Surge Ahead of Fed Decision",
+            "PPIH's Q2 Earnings Rise Y/Y on Strong North America, MENA Sales",
+            "Update: US Equity Indexes Decline as Benchmark Treasury Yield Hits Highest in Almost Two Decades, Crude Oil Jumps",
+            "3 Reasons to Sell WSM and 1 Stock to Buy Instead"
           ]
         }
       },
@@ -1531,11 +1534,11 @@
         "auto_note": "RGTZ CALL | $+14.18 (+402.84%) | dollar_gainer_1 | Strike $8.0 exp 2026-09-18 (7DTE) | IV 0.0% | SPY +nan% | MACRO: rate hike, china"
       },
       "news_scan": {
-        "scanned_at": "2026-09-15 17:42:57 PST",
+        "scanned_at": "2026-09-15 18:19:07 PST",
         "gap_days": 4,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "bearish",
-        "spx_sentiment": "bearish",
+        "spx_sentiment": "bullish",
         "keywords_found": [],
         "spy_keywords": [
           "downgrade",
@@ -1543,8 +1546,9 @@
           "drops"
         ],
         "spx_keywords": [
-          "falls",
-          "drops"
+          "surge",
+          "jumps",
+          "falls"
         ],
         "decision": "sell",
         "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
@@ -1563,15 +1567,15 @@
             "ASML\u2019s Current Share Price of $1,575 Shouldn\u2019t Scare You."
           ],
           "spx": [
-            "10-year Treasuries cross above 5%, but are other market risks showing up?",
-            "3 Reasons to Sell WSM and 1 Stock to Buy Instead",
-            "My Forever Portfolio: 3 Dividend-Paying Value Stocks That Are Too Cheap to Ignore.",
-            "2 Reasons to Watch URI and 1 to Stay Cautious",
-            "3 Reasons to Sell BKV and 1 Stock to Buy Instead",
-            "United Rentals Stock Drops 15% in a Month: Time to Buy the Dip?",
-            "2 Reasons to Like YUM (and 1 Not So Much)",
-            "Stock Market Midday, Sept. 15: Stocks Slide on AI and Bond Jitters",
-            "Stock Market Today: Dow Dives, Oil Play Tests New Entry; Bitcoin Falls Ahead Of Clarity Act Vote (Live Coverage)"
+            "Bessent grilled on the claim that \u2018K-shaped economy is over\u2019",
+            "Stock Market Today: Dow Dives, This Loan Play Craters; Bitcoin Falls Ahead Of Clarity Act Vote (Live Coverage)",
+            "3 Reasons DCI is Risky and 1 Stock to Buy Instead",
+            "3 Reasons CMRC is Risky and 1 Stock to Buy Instead",
+            "GE Vernova Is \u2018Wired to Win,\u2019 Analyst Says. What It Means for the Stock.",
+            "Update: Equities Fall Intraday as Yields, Oil Surge Ahead of Fed Decision",
+            "PPIH's Q2 Earnings Rise Y/Y on Strong North America, MENA Sales",
+            "Update: US Equity Indexes Decline as Benchmark Treasury Yield Hits Highest in Almost Two Decades, Crude Oil Jumps",
+            "3 Reasons to Sell WSM and 1 Stock to Buy Instead"
           ]
         }
       },
@@ -1616,11 +1620,11 @@
         "auto_note": "VICR CALL | $+19.86 (+11.15%) | dollar_gainer_1 | Strike $240.0 exp 2026-09-18 (6DTE) | IV 86.0% | SPY +nan% | MACRO: fed"
       },
       "news_scan": {
-        "scanned_at": "2026-09-15 17:42:57 PST",
+        "scanned_at": "2026-09-15 18:19:07 PST",
         "gap_days": 3,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "bearish",
-        "spx_sentiment": "bearish",
+        "spx_sentiment": "bullish",
         "keywords_found": [],
         "spy_keywords": [
           "downgrade",
@@ -1628,8 +1632,9 @@
           "drops"
         ],
         "spx_keywords": [
-          "falls",
-          "drops"
+          "surge",
+          "jumps",
+          "falls"
         ],
         "decision": "sell",
         "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
@@ -1650,15 +1655,15 @@
             "ASML\u2019s Current Share Price of $1,575 Shouldn\u2019t Scare You."
           ],
           "spx": [
-            "10-year Treasuries cross above 5%, but are other market risks showing up?",
-            "3 Reasons to Sell WSM and 1 Stock to Buy Instead",
-            "My Forever Portfolio: 3 Dividend-Paying Value Stocks That Are Too Cheap to Ignore.",
-            "2 Reasons to Watch URI and 1 to Stay Cautious",
-            "3 Reasons to Sell BKV and 1 Stock to Buy Instead",
-            "United Rentals Stock Drops 15% in a Month: Time to Buy the Dip?",
-            "2 Reasons to Like YUM (and 1 Not So Much)",
-            "Stock Market Midday, Sept. 15: Stocks Slide on AI and Bond Jitters",
-            "Stock Market Today: Dow Dives, Oil Play Tests New Entry; Bitcoin Falls Ahead Of Clarity Act Vote (Live Coverage)"
+            "Bessent grilled on the claim that \u2018K-shaped economy is over\u2019",
+            "Stock Market Today: Dow Dives, This Loan Play Craters; Bitcoin Falls Ahead Of Clarity Act Vote (Live Coverage)",
+            "3 Reasons DCI is Risky and 1 Stock to Buy Instead",
+            "3 Reasons CMRC is Risky and 1 Stock to Buy Instead",
+            "GE Vernova Is \u2018Wired to Win,\u2019 Analyst Says. What It Means for the Stock.",
+            "Update: Equities Fall Intraday as Yields, Oil Surge Ahead of Fed Decision",
+            "PPIH's Q2 Earnings Rise Y/Y on Strong North America, MENA Sales",
+            "Update: US Equity Indexes Decline as Benchmark Treasury Yield Hits Highest in Almost Two Decades, Crude Oil Jumps",
+            "3 Reasons to Sell WSM and 1 Stock to Buy Instead"
           ]
         }
       },
@@ -1703,11 +1708,11 @@
         "auto_note": "LEU PUT | $-13.56 (-8.18%) | dollar_loser_1 | Strike $135.0 exp 2026-09-18 (6DTE) | IV 56.5% | SPY +nan% | MACRO: fed"
       },
       "news_scan": {
-        "scanned_at": "2026-09-15 17:42:57 PST",
+        "scanned_at": "2026-09-15 18:19:07 PST",
         "gap_days": 3,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "bearish",
-        "spx_sentiment": "bearish",
+        "spx_sentiment": "bullish",
         "keywords_found": [],
         "spy_keywords": [
           "downgrade",
@@ -1715,8 +1720,9 @@
           "drops"
         ],
         "spx_keywords": [
-          "falls",
-          "drops"
+          "surge",
+          "jumps",
+          "falls"
         ],
         "decision": "hold",
         "decision_reason": "neutral keywords confirmed PUT thesis",
@@ -1737,15 +1743,15 @@
             "ASML\u2019s Current Share Price of $1,575 Shouldn\u2019t Scare You."
           ],
           "spx": [
-            "10-year Treasuries cross above 5%, but are other market risks showing up?",
-            "3 Reasons to Sell WSM and 1 Stock to Buy Instead",
-            "My Forever Portfolio: 3 Dividend-Paying Value Stocks That Are Too Cheap to Ignore.",
-            "2 Reasons to Watch URI and 1 to Stay Cautious",
-            "3 Reasons to Sell BKV and 1 Stock to Buy Instead",
-            "United Rentals Stock Drops 15% in a Month: Time to Buy the Dip?",
-            "2 Reasons to Like YUM (and 1 Not So Much)",
-            "Stock Market Midday, Sept. 15: Stocks Slide on AI and Bond Jitters",
-            "Stock Market Today: Dow Dives, Oil Play Tests New Entry; Bitcoin Falls Ahead Of Clarity Act Vote (Live Coverage)"
+            "Bessent grilled on the claim that \u2018K-shaped economy is over\u2019",
+            "Stock Market Today: Dow Dives, This Loan Play Craters; Bitcoin Falls Ahead Of Clarity Act Vote (Live Coverage)",
+            "3 Reasons DCI is Risky and 1 Stock to Buy Instead",
+            "3 Reasons CMRC is Risky and 1 Stock to Buy Instead",
+            "GE Vernova Is \u2018Wired to Win,\u2019 Analyst Says. What It Means for the Stock.",
+            "Update: Equities Fall Intraday as Yields, Oil Surge Ahead of Fed Decision",
+            "PPIH's Q2 Earnings Rise Y/Y on Strong North America, MENA Sales",
+            "Update: US Equity Indexes Decline as Benchmark Treasury Yield Hits Highest in Almost Two Decades, Crude Oil Jumps",
+            "3 Reasons to Sell WSM and 1 Stock to Buy Instead"
           ]
         }
       },
@@ -1788,11 +1794,11 @@
         "auto_note": "PANW CALL | $+43.29 (+13.09%) | dollar_gainer_1 | Strike $420.0 exp 2026-09-18 (3DTE) | IV 71.1% | SPY +nan% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-09-15 17:42:57 PST",
+        "scanned_at": "2026-09-15 18:19:07 PST",
         "gap_days": 0,
         "ticker_sentiment": "bearish",
         "spy_sentiment": "bearish",
-        "spx_sentiment": "bearish",
+        "spx_sentiment": "bullish",
         "keywords_found": [
           "concern"
         ],
@@ -1802,8 +1808,9 @@
           "drops"
         ],
         "spx_keywords": [
-          "falls",
-          "drops"
+          "surge",
+          "jumps",
+          "falls"
         ],
         "decision": "sell",
         "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
@@ -1833,15 +1840,15 @@
             "ASML\u2019s Current Share Price of $1,575 Shouldn\u2019t Scare You."
           ],
           "spx": [
-            "10-year Treasuries cross above 5%, but are other market risks showing up?",
-            "3 Reasons to Sell WSM and 1 Stock to Buy Instead",
-            "My Forever Portfolio: 3 Dividend-Paying Value Stocks That Are Too Cheap to Ignore.",
-            "2 Reasons to Watch URI and 1 to Stay Cautious",
-            "3 Reasons to Sell BKV and 1 Stock to Buy Instead",
-            "United Rentals Stock Drops 15% in a Month: Time to Buy the Dip?",
-            "2 Reasons to Like YUM (and 1 Not So Much)",
-            "Stock Market Midday, Sept. 15: Stocks Slide on AI and Bond Jitters",
-            "Stock Market Today: Dow Dives, Oil Play Tests New Entry; Bitcoin Falls Ahead Of Clarity Act Vote (Live Coverage)"
+            "Bessent grilled on the claim that \u2018K-shaped economy is over\u2019",
+            "Stock Market Today: Dow Dives, This Loan Play Craters; Bitcoin Falls Ahead Of Clarity Act Vote (Live Coverage)",
+            "3 Reasons DCI is Risky and 1 Stock to Buy Instead",
+            "3 Reasons CMRC is Risky and 1 Stock to Buy Instead",
+            "GE Vernova Is \u2018Wired to Win,\u2019 Analyst Says. What It Means for the Stock.",
+            "Update: Equities Fall Intraday as Yields, Oil Surge Ahead of Fed Decision",
+            "PPIH's Q2 Earnings Rise Y/Y on Strong North America, MENA Sales",
+            "Update: US Equity Indexes Decline as Benchmark Treasury Yield Hits Highest in Almost Two Decades, Crude Oil Jumps",
+            "3 Reasons to Sell WSM and 1 Stock to Buy Instead"
           ]
         }
       },
@@ -1884,11 +1891,11 @@
         "auto_note": "TER PUT | $-50.52 (-13.30%) | dollar_loser_1 | Strike $280.0 exp 2026-09-18 (3DTE) | IV 90.0% | SPY +nan% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-09-15 17:42:57 PST",
+        "scanned_at": "2026-09-15 18:19:07 PST",
         "gap_days": 0,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "bearish",
-        "spx_sentiment": "bearish",
+        "spx_sentiment": "bullish",
         "keywords_found": [],
         "spy_keywords": [
           "downgrade",
@@ -1896,8 +1903,9 @@
           "drops"
         ],
         "spx_keywords": [
-          "falls",
-          "drops"
+          "surge",
+          "jumps",
+          "falls"
         ],
         "decision": "hold",
         "decision_reason": "neutral keywords confirmed PUT thesis",
@@ -1927,15 +1935,15 @@
             "ASML\u2019s Current Share Price of $1,575 Shouldn\u2019t Scare You."
           ],
           "spx": [
-            "10-year Treasuries cross above 5%, but are other market risks showing up?",
-            "3 Reasons to Sell WSM and 1 Stock to Buy Instead",
-            "My Forever Portfolio: 3 Dividend-Paying Value Stocks That Are Too Cheap to Ignore.",
-            "2 Reasons to Watch URI and 1 to Stay Cautious",
-            "3 Reasons to Sell BKV and 1 Stock to Buy Instead",
-            "United Rentals Stock Drops 15% in a Month: Time to Buy the Dip?",
-            "2 Reasons to Like YUM (and 1 Not So Much)",
-            "Stock Market Midday, Sept. 15: Stocks Slide on AI and Bond Jitters",
-            "Stock Market Today: Dow Dives, Oil Play Tests New Entry; Bitcoin Falls Ahead Of Clarity Act Vote (Live Coverage)"
+            "Bessent grilled on the claim that \u2018K-shaped economy is over\u2019",
+            "Stock Market Today: Dow Dives, This Loan Play Craters; Bitcoin Falls Ahead Of Clarity Act Vote (Live Coverage)",
+            "3 Reasons DCI is Risky and 1 Stock to Buy Instead",
+            "3 Reasons CMRC is Risky and 1 Stock to Buy Instead",
+            "GE Vernova Is \u2018Wired to Win,\u2019 Analyst Says. What It Means for the Stock.",
+            "Update: Equities Fall Intraday as Yields, Oil Surge Ahead of Fed Decision",
+            "PPIH's Q2 Earnings Rise Y/Y on Strong North America, MENA Sales",
+            "Update: US Equity Indexes Decline as Benchmark Treasury Yield Hits Highest in Almost Two Decades, Crude Oil Jumps",
+            "3 Reasons to Sell WSM and 1 Stock to Buy Instead"
           ]
         }
       },
