@@ -4,247 +4,247 @@
       "ticker": "BBNX",
       "name": "BETA BIONICS INC COM",
       "sector": "Unknown",
-      "price": 18.71,
-      "changePct": 11.84,
-      "changeDollar": 1.98
+      "price": 19.23,
+      "changePct": 14.94,
+      "changeDollar": 2.5
     },
     {
-      "ticker": "SDGR",
-      "name": "SCHRODINGER INC COM",
+      "ticker": "SWKS",
+      "name": "SKYWORKS SOLUTIONS INC COM",
       "sector": "Unknown",
-      "price": 22.77,
-      "changePct": 9.73,
-      "changeDollar": 2.02
-    },
-    {
-      "ticker": "QCML",
-      "name": "GRANITESHARES ETF TR 2X LONG QCOM ETF",
-      "sector": "Unknown",
-      "price": 19.64,
-      "changePct": 9.66,
-      "changeDollar": 1.73
-    },
-    {
-      "ticker": "TENB",
-      "name": "TENABLE HLDGS INC COM",
-      "sector": "Unknown",
-      "price": 38.38,
-      "changePct": 9.41,
-      "changeDollar": 3.3
+      "price": 90.0,
+      "changePct": 13.55,
+      "changeDollar": 10.74
     },
     {
       "ticker": "QRVO",
       "name": "QORVO INC COM",
       "sector": "Unknown",
-      "price": 117.65,
-      "changePct": 8.96,
-      "changeDollar": 9.67
-    },
-    {
-      "ticker": "KRMN",
-      "name": "KARMAN HLDGS INC COMMON STOCK",
-      "sector": "Unknown",
-      "price": 37.42,
-      "changePct": 7.71,
-      "changeDollar": 2.68
-    },
-    {
-      "ticker": "CVI",
-      "name": "CVR ENERGY INC COM",
-      "sector": "Unknown",
-      "price": 52.08,
-      "changePct": 7.09,
-      "changeDollar": 3.45
-    },
-    {
-      "ticker": "FTRE",
-      "name": "FORTREA HLDGS INC COMMON STOCK",
-      "sector": "Unknown",
-      "price": 18.64,
-      "changePct": 7.06,
-      "changeDollar": 1.23
-    },
-    {
-      "ticker": "SM",
-      "name": "SM ENERGY COMPANY COM",
-      "sector": "Unknown",
-      "price": 41.47,
-      "changePct": 6.25,
-      "changeDollar": 2.44
+      "price": 118.06,
+      "changePct": 9.34,
+      "changeDollar": 10.08
     },
     {
       "ticker": "SPCQ",
       "name": "Defiance Daily Target 2X Short SPCX ETF",
       "sector": "Unknown",
-      "price": 12.09,
-      "changePct": 5.87,
-      "changeDollar": 0.67
-    }
-  ],
-  "topLosers": [
-    {
-      "ticker": "ENVA",
-      "name": "ENOVA INTL INC COM",
-      "sector": "Unknown",
-      "price": 173.07,
-      "changePct": -23.66,
-      "changeDollar": -53.65
-    },
-    {
-      "ticker": "ETHT",
-      "name": "PROSHARES TR ULTRA ETHER ETF",
-      "sector": "Unknown",
-      "price": 16.3,
-      "changePct": -8.38,
-      "changeDollar": -1.49
-    },
-    {
-      "ticker": "DFTX",
-      "name": "DEFINIUM THERAPEUTICS INC COM SHS",
-      "sector": "Unknown",
-      "price": 37.08,
-      "changePct": -7.88,
-      "changeDollar": -3.17
-    },
-    {
-      "ticker": "DRIP",
-      "name": "DIREXION SHARES ETF TRUST DAILY S&P OIL &",
-      "sector": "Unknown",
-      "price": 30.74,
-      "changePct": -7.13,
-      "changeDollar": -2.36
-    },
-    {
-      "ticker": "GPGI",
-      "name": "GPGI INC COM CL A",
-      "sector": "Unknown",
-      "price": 12.13,
-      "changePct": -6.55,
-      "changeDollar": -0.85
-    },
-    {
-      "ticker": "TXRH",
-      "name": "TEXAS ROADHOUSE INC COM",
-      "sector": "Unknown",
-      "price": 169.34,
-      "changePct": -6.5,
-      "changeDollar": -11.78
-    },
-    {
-      "ticker": "EYE",
-      "name": "NATIONAL VISION HLDGS INC COM",
-      "sector": "Unknown",
-      "price": 16.38,
-      "changePct": -6.45,
-      "changeDollar": -1.13
-    },
-    {
-      "ticker": "FIGR",
-      "name": "FIGURE TECHNOLOGY SOLUTIO COM CL A",
-      "sector": "Unknown",
-      "price": 33.55,
-      "changePct": -5.89,
-      "changeDollar": -2.1
-    },
-    {
-      "ticker": "ASO",
-      "name": "ACADEMY SPORTS & OUTDOORS INC COM",
-      "sector": "Unknown",
-      "price": 51.18,
-      "changePct": -5.66,
-      "changeDollar": -3.07
-    },
-    {
-      "ticker": "QXO",
-      "name": "QXO INC COM NEW",
-      "sector": "Unknown",
-      "price": 11.44,
-      "changePct": -5.53,
-      "changeDollar": -0.67
-    }
-  ],
-  "dollarGainers": [
-    {
-      "ticker": "QRVO",
-      "name": "QORVO INC COM",
-      "sector": "Unknown",
-      "price": 117.65,
-      "changePct": 8.96,
-      "changeDollar": 9.67
-    },
-    {
-      "ticker": "CVI",
-      "name": "CVR ENERGY INC COM",
-      "sector": "Unknown",
-      "price": 52.08,
-      "changePct": 7.09,
-      "changeDollar": 3.45
-    },
-    {
-      "ticker": "TENB",
-      "name": "TENABLE HLDGS INC COM",
-      "sector": "Unknown",
-      "price": 38.38,
-      "changePct": 9.41,
-      "changeDollar": 3.3
+      "price": 12.34,
+      "changePct": 8.06,
+      "changeDollar": 0.92
     },
     {
       "ticker": "KRMN",
       "name": "KARMAN HLDGS INC COMMON STOCK",
       "sector": "Unknown",
-      "price": 37.42,
-      "changePct": 7.71,
-      "changeDollar": 2.68
+      "price": 37.47,
+      "changePct": 7.86,
+      "changeDollar": 2.73
     },
     {
-      "ticker": "SM",
-      "name": "SM ENERGY COMPANY COM",
+      "ticker": "QLYS",
+      "name": "QUALYS INC COM",
       "sector": "Unknown",
-      "price": 41.47,
-      "changePct": 6.25,
-      "changeDollar": 2.44
+      "price": 185.37,
+      "changePct": 7.21,
+      "changeDollar": 12.46
+    },
+    {
+      "ticker": "WAY",
+      "name": "WAYSTAR HLDG CORP COM",
+      "sector": "Unknown",
+      "price": 26.67,
+      "changePct": 7.11,
+      "changeDollar": 1.77
+    },
+    {
+      "ticker": "ILMN",
+      "name": "ILLUMINA INC COM",
+      "sector": "Unknown",
+      "price": 222.29,
+      "changePct": 6.76,
+      "changeDollar": 14.08
+    },
+    {
+      "ticker": "GUSH",
+      "name": "DIREXION SHARES ETF TRUST DAILY S&P OIL &",
+      "sector": "Unknown",
+      "price": 50.14,
+      "changePct": 6.23,
+      "changeDollar": 2.94
+    },
+    {
+      "ticker": "SDRL",
+      "name": "SEADRILL LTD COM",
+      "sector": "Unknown",
+      "price": 49.76,
+      "changePct": 6.17,
+      "changeDollar": 2.89
+    }
+  ],
+  "topLosers": [
+    {
+      "ticker": "CRCA",
+      "name": "PROSHARES TR ULTRA CRCL NEW",
+      "sector": "Unknown",
+      "price": 19.73,
+      "changePct": -23.23,
+      "changeDollar": -5.97
+    },
+    {
+      "ticker": "XXRP",
+      "name": "LISTED FDS TR TEUCR 2X XRP ETF",
+      "sector": "Unknown",
+      "price": 27.45,
+      "changePct": -23.02,
+      "changeDollar": -8.21
+    },
+    {
+      "ticker": "MAMA",
+      "name": "MAMAS CREATIONS INC COM",
+      "sector": "Unknown",
+      "price": 13.14,
+      "changePct": -11.69,
+      "changeDollar": -1.74
+    },
+    {
+      "ticker": "XRP",
+      "name": "BITWISE XRP ETF BENEFICIAL INT",
+      "sector": "Unknown",
+      "price": 14.47,
+      "changePct": -11.61,
+      "changeDollar": -1.9
+    },
+    {
+      "ticker": "CRCL",
+      "name": "CIRCLE INTERNET GROUP INC COM CL A",
+      "sector": "Unknown",
+      "price": 86.3,
+      "changePct": -11.41,
+      "changeDollar": -11.12
+    },
+    {
+      "ticker": "MSTX",
+      "name": "TIDAL TRUST II DE 2X LO MS ETF",
+      "sector": "Unknown",
+      "price": 13.64,
+      "changePct": -10.79,
+      "changeDollar": -1.65
+    },
+    {
+      "ticker": "MNR",
+      "name": "MACH NATURAL RESOURCES LP COM UN LT PA IN",
+      "sector": "Unknown",
+      "price": 11.2,
+      "changePct": -10.33,
+      "changeDollar": -1.29
+    },
+    {
+      "ticker": "ETHU",
+      "name": "2x Ether ETF",
+      "sector": "Unknown",
+      "price": 24.9,
+      "changePct": -10.21,
+      "changeDollar": -2.83
+    },
+    {
+      "ticker": "COIN",
+      "name": "COINBASE GLOBAL INC COM CL A",
+      "sector": "Unknown",
+      "price": 172.11,
+      "changePct": -10.1,
+      "changeDollar": -19.34
+    },
+    {
+      "ticker": "BOBS",
+      "name": "BOBS DISC FURNITURE INC COM SHS",
+      "sector": "Unknown",
+      "price": 14.56,
+      "changePct": -9.85,
+      "changeDollar": -1.59
+    }
+  ],
+  "dollarGainers": [
+    {
+      "ticker": "ILMN",
+      "name": "ILLUMINA INC COM",
+      "sector": "Unknown",
+      "price": 222.29,
+      "changePct": 6.76,
+      "changeDollar": 14.08
+    },
+    {
+      "ticker": "QLYS",
+      "name": "QUALYS INC COM",
+      "sector": "Unknown",
+      "price": 185.37,
+      "changePct": 7.21,
+      "changeDollar": 12.46
+    },
+    {
+      "ticker": "SWKS",
+      "name": "SKYWORKS SOLUTIONS INC COM",
+      "sector": "Unknown",
+      "price": 90.0,
+      "changePct": 13.55,
+      "changeDollar": 10.74
+    },
+    {
+      "ticker": "QRVO",
+      "name": "QORVO INC COM",
+      "sector": "Unknown",
+      "price": 118.06,
+      "changePct": 9.34,
+      "changeDollar": 10.08
+    },
+    {
+      "ticker": "GUSH",
+      "name": "DIREXION SHARES ETF TRUST DAILY S&P OIL &",
+      "sector": "Unknown",
+      "price": 50.14,
+      "changePct": 6.23,
+      "changeDollar": 2.94
     }
   ],
   "dollarLosers": [
     {
-      "ticker": "ENVA",
-      "name": "ENOVA INTL INC COM",
+      "ticker": "COIN",
+      "name": "COINBASE GLOBAL INC COM CL A",
       "sector": "Unknown",
-      "price": 173.07,
-      "changePct": -23.66,
-      "changeDollar": -53.65
+      "price": 172.11,
+      "changePct": -10.1,
+      "changeDollar": -19.34
     },
     {
-      "ticker": "TXRH",
-      "name": "TEXAS ROADHOUSE INC COM",
+      "ticker": "CRCL",
+      "name": "CIRCLE INTERNET GROUP INC COM CL A",
       "sector": "Unknown",
-      "price": 169.34,
-      "changePct": -6.5,
-      "changeDollar": -11.78
+      "price": 86.3,
+      "changePct": -11.41,
+      "changeDollar": -11.12
     },
     {
-      "ticker": "DFTX",
-      "name": "DEFINIUM THERAPEUTICS INC COM SHS",
+      "ticker": "XXRP",
+      "name": "LISTED FDS TR TEUCR 2X XRP ETF",
       "sector": "Unknown",
-      "price": 37.08,
-      "changePct": -7.88,
-      "changeDollar": -3.17
+      "price": 27.45,
+      "changePct": -23.02,
+      "changeDollar": -8.21
     },
     {
-      "ticker": "ASO",
-      "name": "ACADEMY SPORTS & OUTDOORS INC COM",
+      "ticker": "CRCA",
+      "name": "PROSHARES TR ULTRA CRCL NEW",
       "sector": "Unknown",
-      "price": 51.18,
-      "changePct": -5.66,
-      "changeDollar": -3.07
+      "price": 19.73,
+      "changePct": -23.23,
+      "changeDollar": -5.97
     },
     {
-      "ticker": "DRIP",
-      "name": "DIREXION SHARES ETF TRUST DAILY S&P OIL &",
+      "ticker": "ETHU",
+      "name": "2x Ether ETF",
       "sector": "Unknown",
-      "price": 30.74,
-      "changePct": -7.13,
-      "changeDollar": -2.36
+      "price": 24.9,
+      "changePct": -10.21,
+      "changeDollar": -2.83
     }
   ]
 }
