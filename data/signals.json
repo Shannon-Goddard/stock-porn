@@ -1,28 +1,28 @@
 {
   "topGainers": [
     {
-      "ticker": "BBNX",
-      "name": "BETA BIONICS INC COM",
+      "ticker": "ARQT",
+      "name": "ARCUTIS BIOTHERAPEUTICS INC COM",
       "sector": "Unknown",
-      "price": 22.18,
-      "changePct": 15.34,
-      "changeDollar": 2.95
+      "price": 26.14,
+      "changePct": 11.19,
+      "changeDollar": 2.63
     },
     {
-      "ticker": "COHX",
-      "name": "Tradr 2X Long COHR Daily ETF",
+      "ticker": "FPS",
+      "name": "FORGENT POWER SOLUTIONS INC COM SHS CL A",
       "sector": "Unknown",
-      "price": 23.12,
-      "changePct": 13.89,
-      "changeDollar": 2.82
+      "price": 34.84,
+      "changePct": 11.1,
+      "changeDollar": 3.48
     },
     {
-      "ticker": "CIFR",
-      "name": "CIPHER DIGITAL INC COM",
+      "ticker": "SMTC",
+      "name": "SEMTECH CORP COM",
       "sector": "Unknown",
-      "price": 16.72,
-      "changePct": 10.8,
-      "changeDollar": 1.63
+      "price": 167.55,
+      "changePct": 11.03,
+      "changeDollar": 16.64
     },
     {
       "ticker": "SPCF",
@@ -33,28 +33,36 @@
       "changeDollar": 1.55
     },
     {
-      "ticker": "SPCU",
-      "name": "Defiance Daily Target 2X Long SPCX ETF",
+      "ticker": "MAMA",
+      "name": "MAMAS CREATIONS INC COM",
       "sector": "Unknown",
-      "price": 13.51,
-      "changePct": 9.93,
-      "changeDollar": 1.22
+      "price": 14.25,
+      "changePct": 8.45,
+      "changeDollar": 1.11
     },
     {
-      "ticker": "BYND",
-      "name": "BEYOND MEAT INC COM",
+      "ticker": "INTW",
+      "name": "GRANITESHARES ETF TR 2X LONG INTC ETF",
       "sector": "Unknown",
-      "price": 10.95,
-      "changePct": 9.61,
-      "changeDollar": 0.96
+      "price": 22.86,
+      "changePct": 8.14,
+      "changeDollar": 1.72
     },
     {
-      "ticker": "FTAI",
-      "name": "FTAI AVIATION LTD SHS",
+      "ticker": "DRIP",
+      "name": "DIREXION SHARES ETF TRUST DAILY S&P OIL &",
       "sector": "Unknown",
-      "price": 189.83,
-      "changePct": 7.59,
-      "changeDollar": 13.39
+      "price": 33.37,
+      "changePct": 7.96,
+      "changeDollar": 2.46
+    },
+    {
+      "ticker": "TNDM",
+      "name": "TANDEM DIABETES CARE INC COM NEW",
+      "sector": "Unknown",
+      "price": 17.53,
+      "changePct": 7.68,
+      "changeDollar": 1.25
     },
     {
       "ticker": "COHR",
@@ -65,38 +73,22 @@
       "changeDollar": 18.76
     },
     {
-      "ticker": "XMTR",
-      "name": "XOMETRY INC CLASS A COM",
+      "ticker": "SMCX",
+      "name": "TIDAL TRUST II DEFI DA SMCI ETF",
       "sector": "Unknown",
-      "price": 93.15,
-      "changePct": 6.36,
-      "changeDollar": 5.57
-    },
-    {
-      "ticker": "PNTG",
-      "name": "PENNANT GROUP INC COM",
-      "sector": "Unknown",
-      "price": 42.48,
-      "changePct": 6.28,
-      "changeDollar": 2.51
+      "price": 11.33,
+      "changePct": 6.69,
+      "changeDollar": 0.71
     }
   ],
   "topLosers": [
     {
-      "ticker": "CRCG",
-      "name": "THEMES ETF TR LEVERAGE SHS 2X",
+      "ticker": "SPCQ",
+      "name": "Defiance Daily Target 2X Short SPCX ETF",
       "sector": "Unknown",
-      "price": 11.6,
-      "changePct": -13.88,
-      "changeDollar": -1.87
-    },
-    {
-      "ticker": "JBHT",
-      "name": "HUNT J B TRANS SVCS INC COM",
-      "sector": "Unknown",
-      "price": 236.73,
-      "changePct": -13.3,
-      "changeDollar": -36.32
+      "price": 10.9,
+      "changePct": -11.67,
+      "changeDollar": -1.44
     },
     {
       "ticker": "SNK",
@@ -123,44 +115,52 @@
       "changeDollar": -3.45
     },
     {
-      "ticker": "MGY",
-      "name": "MAGNOLIA OIL & GAS CORP CL A",
+      "ticker": "CRK",
+      "name": "COMSTOCK RES INC COM",
       "sector": "Unknown",
-      "price": 26.1,
-      "changePct": -8.58,
-      "changeDollar": -2.45
+      "price": 13.1,
+      "changePct": -8.46,
+      "changeDollar": -1.21
     },
     {
-      "ticker": "SYNA",
-      "name": "SYNAPTICS INC COM",
+      "ticker": "AR",
+      "name": "ANTERO RESOURCES CORP COM",
       "sector": "Unknown",
-      "price": 89.24,
-      "changePct": -8.3,
-      "changeDollar": -8.08
+      "price": 35.68,
+      "changePct": -8.11,
+      "changeDollar": -3.15
     },
     {
-      "ticker": "CHYM",
-      "name": "CHIME FINL INC COM SHS CL A",
+      "ticker": "FANG",
+      "name": "DIAMONDBACK ENERGY INC COM",
       "sector": "Unknown",
-      "price": 31.25,
-      "changePct": -7.02,
-      "changeDollar": -2.36
+      "price": 194.54,
+      "changePct": -8.03,
+      "changeDollar": -16.99
     },
     {
-      "ticker": "BMNG",
-      "name": "THEMES ETF TR LEVERAGE SHS 2X",
+      "ticker": "ELVN",
+      "name": "ENLIVEN THERAPEUTICS INC COM",
       "sector": "Unknown",
-      "price": 21.75,
-      "changePct": -6.89,
-      "changeDollar": -1.61
+      "price": 49.12,
+      "changePct": -7.95,
+      "changeDollar": -4.24
     },
     {
-      "ticker": "BMNU",
-      "name": "T-REX 2X Long BMNR Daily Target ETF",
+      "ticker": "GUSH",
+      "name": "DIREXION SHARES ETF TRUST DAILY S&P OIL &",
       "sector": "Unknown",
-      "price": 15.98,
-      "changePct": -6.82,
-      "changeDollar": -1.17
+      "price": 46.26,
+      "changePct": -7.74,
+      "changeDollar": -3.88
+    },
+    {
+      "ticker": "CSIQ",
+      "name": "CANADIAN SOLAR INC COM",
+      "sector": "Unknown",
+      "price": 11.34,
+      "changePct": -7.35,
+      "changeDollar": -0.9
     }
   ],
   "dollarGainers": [
@@ -173,54 +173,46 @@
       "changeDollar": 18.76
     },
     {
-      "ticker": "FTAI",
-      "name": "FTAI AVIATION LTD SHS",
+      "ticker": "SMTC",
+      "name": "SEMTECH CORP COM",
       "sector": "Unknown",
-      "price": 189.83,
-      "changePct": 7.59,
-      "changeDollar": 13.39
+      "price": 167.55,
+      "changePct": 11.03,
+      "changeDollar": 16.64
     },
     {
-      "ticker": "XMTR",
-      "name": "XOMETRY INC CLASS A COM",
+      "ticker": "FPS",
+      "name": "FORGENT POWER SOLUTIONS INC COM SHS CL A",
       "sector": "Unknown",
-      "price": 93.15,
-      "changePct": 6.36,
-      "changeDollar": 5.57
+      "price": 34.84,
+      "changePct": 11.1,
+      "changeDollar": 3.48
     },
     {
-      "ticker": "BBNX",
-      "name": "BETA BIONICS INC COM",
+      "ticker": "ARQT",
+      "name": "ARCUTIS BIOTHERAPEUTICS INC COM",
       "sector": "Unknown",
-      "price": 22.18,
-      "changePct": 15.34,
-      "changeDollar": 2.95
+      "price": 26.14,
+      "changePct": 11.19,
+      "changeDollar": 2.63
     },
     {
-      "ticker": "COHX",
-      "name": "Tradr 2X Long COHR Daily ETF",
+      "ticker": "DRIP",
+      "name": "DIREXION SHARES ETF TRUST DAILY S&P OIL &",
       "sector": "Unknown",
-      "price": 23.12,
-      "changePct": 13.89,
-      "changeDollar": 2.82
+      "price": 33.37,
+      "changePct": 7.96,
+      "changeDollar": 2.46
     }
   ],
   "dollarLosers": [
     {
-      "ticker": "JBHT",
-      "name": "HUNT J B TRANS SVCS INC COM",
+      "ticker": "FANG",
+      "name": "DIAMONDBACK ENERGY INC COM",
       "sector": "Unknown",
-      "price": 236.73,
-      "changePct": -13.3,
-      "changeDollar": -36.32
-    },
-    {
-      "ticker": "SYNA",
-      "name": "SYNAPTICS INC COM",
-      "sector": "Unknown",
-      "price": 89.24,
-      "changePct": -8.3,
-      "changeDollar": -8.08
+      "price": 194.54,
+      "changePct": -8.03,
+      "changeDollar": -16.99
     },
     {
       "ticker": "ON",
@@ -231,20 +223,28 @@
       "changeDollar": -6.6
     },
     {
+      "ticker": "ELVN",
+      "name": "ENLIVEN THERAPEUTICS INC COM",
+      "sector": "Unknown",
+      "price": 49.12,
+      "changePct": -7.95,
+      "changeDollar": -4.24
+    },
+    {
+      "ticker": "GUSH",
+      "name": "DIREXION SHARES ETF TRUST DAILY S&P OIL &",
+      "sector": "Unknown",
+      "price": 46.26,
+      "changePct": -7.74,
+      "changeDollar": -3.88
+    },
+    {
       "ticker": "GPCR",
       "name": "STRUCTURE THERAPEUTICS INC SPONSORED ADS",
       "sector": "Unknown",
       "price": 35.5,
       "changePct": -8.86,
       "changeDollar": -3.45
-    },
-    {
-      "ticker": "MGY",
-      "name": "MAGNOLIA OIL & GAS CORP CL A",
-      "sector": "Unknown",
-      "price": 26.1,
-      "changePct": -8.58,
-      "changeDollar": -2.45
     }
   ]
 }
