@@ -1,250 +1,250 @@
 {
   "topGainers": [
     {
-      "ticker": "CONI",
-      "name": "GRANITESHARES ETF TR 2X SHORT COIN",
-      "sector": "Unknown",
-      "price": 30.58,
-      "changePct": 20.25,
-      "changeDollar": 5.15
-    },
-    {
       "ticker": "BBNX",
       "name": "BETA BIONICS INC COM",
       "sector": "Unknown",
-      "price": 19.23,
-      "changePct": 14.94,
-      "changeDollar": 2.5
+      "price": 22.18,
+      "changePct": 15.34,
+      "changeDollar": 2.95
     },
     {
-      "ticker": "SWKS",
-      "name": "SKYWORKS SOLUTIONS INC COM",
+      "ticker": "COHX",
+      "name": "Tradr 2X Long COHR Daily ETF",
       "sector": "Unknown",
-      "price": 90.0,
-      "changePct": 13.55,
-      "changeDollar": 10.74
+      "price": 23.12,
+      "changePct": 13.89,
+      "changeDollar": 2.82
     },
     {
-      "ticker": "FTRE",
-      "name": "FORTREA HLDGS INC COMMON STOCK",
+      "ticker": "CIFR",
+      "name": "CIPHER DIGITAL INC COM",
       "sector": "Unknown",
-      "price": 19.73,
-      "changePct": 13.33,
-      "changeDollar": 2.32
+      "price": 16.72,
+      "changePct": 10.8,
+      "changeDollar": 1.63
     },
     {
-      "ticker": "ARQQ",
-      "name": "ARQIT QUANTUM INC COM NEW",
+      "ticker": "SPCF",
+      "name": "PROSHARES TR ULTRA SPACEX",
       "sector": "Unknown",
-      "price": 18.27,
-      "changePct": 12.15,
-      "changeDollar": 1.98
+      "price": 16.96,
+      "changePct": 10.06,
+      "changeDollar": 1.55
     },
     {
-      "ticker": "RVTY",
-      "name": "REVVITY INC COM",
+      "ticker": "SPCU",
+      "name": "Defiance Daily Target 2X Long SPCX ETF",
       "sector": "Unknown",
-      "price": 140.19,
-      "changePct": 9.11,
-      "changeDollar": 11.7
+      "price": 13.51,
+      "changePct": 9.93,
+      "changeDollar": 1.22
     },
     {
-      "ticker": "KRMN",
-      "name": "KARMAN HLDGS INC COMMON STOCK",
+      "ticker": "BYND",
+      "name": "BEYOND MEAT INC COM",
       "sector": "Unknown",
-      "price": 37.47,
-      "changePct": 7.86,
-      "changeDollar": 2.73
+      "price": 10.95,
+      "changePct": 9.61,
+      "changeDollar": 0.96
     },
     {
-      "ticker": "MRCY",
-      "name": "MERCURY SYS INC COM",
+      "ticker": "FTAI",
+      "name": "FTAI AVIATION LTD SHS",
       "sector": "Unknown",
-      "price": 87.01,
-      "changePct": 7.38,
-      "changeDollar": 5.98
+      "price": 189.83,
+      "changePct": 7.59,
+      "changeDollar": 13.39
     },
     {
-      "ticker": "QLYS",
-      "name": "QUALYS INC COM",
+      "ticker": "COHR",
+      "name": "COHERENT CORP COM",
       "sector": "Unknown",
-      "price": 185.37,
-      "changePct": 7.21,
-      "changeDollar": 12.46
+      "price": 289.93,
+      "changePct": 6.92,
+      "changeDollar": 18.76
+    },
+    {
+      "ticker": "XMTR",
+      "name": "XOMETRY INC CLASS A COM",
+      "sector": "Unknown",
+      "price": 93.15,
+      "changePct": 6.36,
+      "changeDollar": 5.57
+    },
+    {
+      "ticker": "PNTG",
+      "name": "PENNANT GROUP INC COM",
+      "sector": "Unknown",
+      "price": 42.48,
+      "changePct": 6.28,
+      "changeDollar": 2.51
+    }
+  ],
+  "topLosers": [
+    {
+      "ticker": "CRCG",
+      "name": "THEMES ETF TR LEVERAGE SHS 2X",
+      "sector": "Unknown",
+      "price": 11.6,
+      "changePct": -13.88,
+      "changeDollar": -1.87
+    },
+    {
+      "ticker": "JBHT",
+      "name": "HUNT J B TRANS SVCS INC COM",
+      "sector": "Unknown",
+      "price": 236.73,
+      "changePct": -13.3,
+      "changeDollar": -36.32
     },
     {
       "ticker": "SNK",
       "name": "GraniteShares 2x Short SpaceX Daily ETF",
       "sector": "Unknown",
-      "price": 16.41,
-      "changePct": 6.28,
-      "changeDollar": 0.97
-    }
-  ],
-  "topLosers": [
-    {
-      "ticker": "WULX",
-      "name": "Tradr 2X Long WULF Daily ETF",
-      "sector": "Unknown",
-      "price": 12.46,
-      "changePct": -12.68,
-      "changeDollar": -1.81
+      "price": 14.7,
+      "changePct": -10.42,
+      "changeDollar": -1.71
     },
     {
-      "ticker": "ARWR",
-      "name": "ARROWHEAD PHARMACEUTICALS INC COM",
+      "ticker": "ON",
+      "name": "ON SEMICONDUCTOR CORP COM",
       "sector": "Unknown",
-      "price": 70.67,
-      "changePct": -12.4,
-      "changeDollar": -10.0
+      "price": 66.6,
+      "changePct": -9.02,
+      "changeDollar": -6.6
     },
     {
-      "ticker": "MAMA",
-      "name": "MAMAS CREATIONS INC COM",
+      "ticker": "GPCR",
+      "name": "STRUCTURE THERAPEUTICS INC SPONSORED ADS",
       "sector": "Unknown",
-      "price": 13.14,
-      "changePct": -11.69,
-      "changeDollar": -1.74
+      "price": 35.5,
+      "changePct": -8.86,
+      "changeDollar": -3.45
     },
     {
-      "ticker": "XRPZ",
-      "name": "FRANKLIN XRP TRUST FRANKLIN XRP ETF",
+      "ticker": "MGY",
+      "name": "MAGNOLIA OIL & GAS CORP CL A",
       "sector": "Unknown",
-      "price": 14.05,
-      "changePct": -11.58,
-      "changeDollar": -1.84
+      "price": 26.1,
+      "changePct": -8.58,
+      "changeDollar": -2.45
     },
     {
-      "ticker": "CRCL",
-      "name": "CIRCLE INTERNET GROUP INC COM CL A",
+      "ticker": "SYNA",
+      "name": "SYNAPTICS INC COM",
       "sector": "Unknown",
-      "price": 86.3,
-      "changePct": -11.41,
-      "changeDollar": -11.12
+      "price": 89.24,
+      "changePct": -8.3,
+      "changeDollar": -8.08
     },
     {
-      "ticker": "AXON",
-      "name": "AXON ENTERPRISE INC COM",
+      "ticker": "CHYM",
+      "name": "CHIME FINL INC COM SHS CL A",
       "sector": "Unknown",
-      "price": 442.08,
-      "changePct": -9.81,
-      "changeDollar": -48.1
+      "price": 31.25,
+      "changePct": -7.02,
+      "changeDollar": -2.36
     },
     {
-      "ticker": "ASND",
-      "name": "ASCENDIS PHARMA A/S ORD SHS",
+      "ticker": "BMNG",
+      "name": "THEMES ETF TR LEVERAGE SHS 2X",
       "sector": "Unknown",
-      "price": 239.77,
-      "changePct": -9.49,
-      "changeDollar": -25.15
+      "price": 21.75,
+      "changePct": -6.89,
+      "changeDollar": -1.61
     },
     {
-      "ticker": "EYE",
-      "name": "NATIONAL VISION HLDGS INC COM",
+      "ticker": "BMNU",
+      "name": "T-REX 2X Long BMNR Daily Target ETF",
       "sector": "Unknown",
-      "price": 15.85,
-      "changePct": -9.48,
-      "changeDollar": -1.66
-    },
-    {
-      "ticker": "DFTX",
-      "name": "DEFINIUM THERAPEUTICS INC COM SHS",
-      "sector": "Unknown",
-      "price": 36.82,
-      "changePct": -8.52,
-      "changeDollar": -3.43
-    },
-    {
-      "ticker": "FUBO",
-      "name": "FUBOTV INC COM NEW CL A",
-      "sector": "Unknown",
-      "price": 10.91,
-      "changePct": -8.09,
-      "changeDollar": -0.96
+      "price": 15.98,
+      "changePct": -6.82,
+      "changeDollar": -1.17
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "QLYS",
-      "name": "QUALYS INC COM",
+      "ticker": "COHR",
+      "name": "COHERENT CORP COM",
       "sector": "Unknown",
-      "price": 185.37,
-      "changePct": 7.21,
-      "changeDollar": 12.46
+      "price": 289.93,
+      "changePct": 6.92,
+      "changeDollar": 18.76
     },
     {
-      "ticker": "RVTY",
-      "name": "REVVITY INC COM",
+      "ticker": "FTAI",
+      "name": "FTAI AVIATION LTD SHS",
       "sector": "Unknown",
-      "price": 140.19,
-      "changePct": 9.11,
-      "changeDollar": 11.7
+      "price": 189.83,
+      "changePct": 7.59,
+      "changeDollar": 13.39
     },
     {
-      "ticker": "SWKS",
-      "name": "SKYWORKS SOLUTIONS INC COM",
+      "ticker": "XMTR",
+      "name": "XOMETRY INC CLASS A COM",
       "sector": "Unknown",
-      "price": 90.0,
-      "changePct": 13.55,
-      "changeDollar": 10.74
+      "price": 93.15,
+      "changePct": 6.36,
+      "changeDollar": 5.57
     },
     {
-      "ticker": "MRCY",
-      "name": "MERCURY SYS INC COM",
+      "ticker": "BBNX",
+      "name": "BETA BIONICS INC COM",
       "sector": "Unknown",
-      "price": 87.01,
-      "changePct": 7.38,
-      "changeDollar": 5.98
+      "price": 22.18,
+      "changePct": 15.34,
+      "changeDollar": 2.95
     },
     {
-      "ticker": "CONI",
-      "name": "GRANITESHARES ETF TR 2X SHORT COIN",
+      "ticker": "COHX",
+      "name": "Tradr 2X Long COHR Daily ETF",
       "sector": "Unknown",
-      "price": 30.58,
-      "changePct": 20.25,
-      "changeDollar": 5.15
+      "price": 23.12,
+      "changePct": 13.89,
+      "changeDollar": 2.82
     }
   ],
   "dollarLosers": [
     {
-      "ticker": "AXON",
-      "name": "AXON ENTERPRISE INC COM",
+      "ticker": "JBHT",
+      "name": "HUNT J B TRANS SVCS INC COM",
       "sector": "Unknown",
-      "price": 442.08,
-      "changePct": -9.81,
-      "changeDollar": -48.1
+      "price": 236.73,
+      "changePct": -13.3,
+      "changeDollar": -36.32
     },
     {
-      "ticker": "ASND",
-      "name": "ASCENDIS PHARMA A/S ORD SHS",
+      "ticker": "SYNA",
+      "name": "SYNAPTICS INC COM",
       "sector": "Unknown",
-      "price": 239.77,
-      "changePct": -9.49,
-      "changeDollar": -25.15
+      "price": 89.24,
+      "changePct": -8.3,
+      "changeDollar": -8.08
     },
     {
-      "ticker": "CRCL",
-      "name": "CIRCLE INTERNET GROUP INC COM CL A",
+      "ticker": "ON",
+      "name": "ON SEMICONDUCTOR CORP COM",
       "sector": "Unknown",
-      "price": 86.3,
-      "changePct": -11.41,
-      "changeDollar": -11.12
+      "price": 66.6,
+      "changePct": -9.02,
+      "changeDollar": -6.6
     },
     {
-      "ticker": "ARWR",
-      "name": "ARROWHEAD PHARMACEUTICALS INC COM",
+      "ticker": "GPCR",
+      "name": "STRUCTURE THERAPEUTICS INC SPONSORED ADS",
       "sector": "Unknown",
-      "price": 70.67,
-      "changePct": -12.4,
-      "changeDollar": -10.0
+      "price": 35.5,
+      "changePct": -8.86,
+      "changeDollar": -3.45
     },
     {
-      "ticker": "DFTX",
-      "name": "DEFINIUM THERAPEUTICS INC COM SHS",
+      "ticker": "MGY",
+      "name": "MAGNOLIA OIL & GAS CORP CL A",
       "sector": "Unknown",
-      "price": 36.82,
-      "changePct": -8.52,
-      "changeDollar": -3.43
+      "price": 26.1,
+      "changePct": -8.58,
+      "changeDollar": -2.45
     }
   ]
 }
