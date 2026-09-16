@@ -240,5 +240,27 @@
     "youtube_id": null,
     "images": [],
     "published": true
+  },
+  {
+    "id": 20,
+    "date": "2026-09-16",
+    "ticker": "QLYS",
+    "type": "CALL",
+    "trade_id": 20,
+    "title": "QLYS CALL \u2014 2026-09-16",
+    "youtube_id": null,
+    "images": [],
+    "published": true
+  },
+  {
+    "id": 21,
+    "date": "2026-09-16",
+    "ticker": "AXON",
+    "type": "PUT",
+    "trade_id": 21,
+    "title": "AXON PUT \u2014 2026-09-16",
+    "youtube_id": null,
+    "images": [],
+    "published": true
   }
 ]

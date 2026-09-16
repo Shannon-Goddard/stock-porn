@@ -1949,6 +1949,90 @@
       },
       "exit": null,
       "fomo": null
+    },
+    {
+      "id": 20,
+      "status": "open",
+      "entry": {
+        "date": "2026-09-16",
+        "time": "15:55 PST",
+        "ticker": "QLYS",
+        "name": "QUALYS INC COM",
+        "sector": "Unknown",
+        "type": "CALL",
+        "strike": 210.0,
+        "expiration": "2026-09-18",
+        "dte_at_entry": 2,
+        "T_at_entry": 0.005479,
+        "stock_price_at_entry": 185.37,
+        "premium": 0.45,
+        "cost": 45.0,
+        "bid": null,
+        "spread": null,
+        "iv_at_entry": 0.7852,
+        "otm_pct": 13.29,
+        "expected_move": {
+          "one_sigma_pct": 5.81,
+          "upper": 196.14,
+          "lower": 174.6,
+          "strike_position": "outside"
+        },
+        "signal_rank": "dollar_gainer_1",
+        "signal_pct": 7.21,
+        "signal_dollar": 12.46,
+        "spy_change": NaN,
+        "macro_active": true,
+        "macro_keywords": [
+          "fed",
+          "rate hike"
+        ],
+        "auto_note": "QLYS CALL | $+12.46 (+7.21%) | dollar_gainer_1 | Strike $210.0 exp 2026-09-18 (2DTE) | IV 78.5% | SPY +nan% | MACRO: fed, rate hike"
+      },
+      "news_scan": null,
+      "exit": null,
+      "fomo": null
+    },
+    {
+      "id": 21,
+      "status": "open",
+      "entry": {
+        "date": "2026-09-16",
+        "time": "15:55 PST",
+        "ticker": "AXON",
+        "name": "AXON ENTERPRISE INC COM",
+        "sector": "Unknown",
+        "type": "PUT",
+        "strike": 390.0,
+        "expiration": "2026-09-18",
+        "dte_at_entry": 2,
+        "T_at_entry": 0.005479,
+        "stock_price_at_entry": 442.08,
+        "premium": 0.65,
+        "cost": 65.0,
+        "bid": 0.25,
+        "spread": 0.4,
+        "iv_at_entry": 0.7803,
+        "otm_pct": 11.78,
+        "expected_move": {
+          "one_sigma_pct": 5.78,
+          "upper": 467.61,
+          "lower": 416.55,
+          "strike_position": "outside"
+        },
+        "signal_rank": "dollar_loser_1",
+        "signal_pct": -9.81,
+        "signal_dollar": -48.1,
+        "spy_change": NaN,
+        "macro_active": true,
+        "macro_keywords": [
+          "fed",
+          "rate hike"
+        ],
+        "auto_note": "AXON PUT | $-48.10 (-9.81%) | dollar_loser_1 | Strike $390.0 exp 2026-09-18 (2DTE) | IV 78.0% | SPY +nan% | MACRO: fed, rate hike"
+      },
+      "news_scan": null,
+      "exit": null,
+      "fomo": null
     }
   ]
 }
