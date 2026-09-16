@@ -1248,11 +1248,11 @@
         "auto_note": "ALAB CALL | $+27.58 (+9.75%) | dollar_gainer_1 | Strike $390.0 exp 2026-09-11 (6DTE) | IV 88.2% | SPY +nan% | MACRO: rate hike, war"
       },
       "news_scan": {
-        "scanned_at": "2026-09-16 17:40:36 PST",
+        "scanned_at": "2026-09-16 18:16:12 PST",
         "gap_days": 11,
         "ticker_sentiment": "bullish",
         "spy_sentiment": "bearish",
-        "spx_sentiment": "bearish",
+        "spx_sentiment": "bullish",
         "keywords_found": [
           "surge"
         ],
@@ -1262,8 +1262,7 @@
           "drops"
         ],
         "spx_keywords": [
-          "warning",
-          "plunges"
+          "surge"
         ],
         "decision": "hold",
         "decision_reason": "bullish keywords confirmed CALL thesis",
@@ -1280,6 +1279,7 @@
             "Are Computer and Technology Stocks Lagging  Astera Labs, Inc. (ALAB) This Year?"
           ],
           "spy": [
+            "Bloom Energy Gains 4% as S&P 500 Entry Nears; FuelCell Energy Ticks Up, Plug Power Slips",
             "SoundHound AI Drops 4% as Selling Concentrates in Speculative Software Names; UiPath Falls 3%, C3.ai Dips",
             "First Solar Retreats 5% After Dropping ITC Patent Case It Calls Procedural; Enphase Energy Slips, Sunrun Holds Steady",
             "Robinhood Sinks 5% After Prosecutors Reportedly Charge Two Former Engineers Over Crypto Trades; Webull Drops 9%",
@@ -1288,20 +1288,18 @@
             "EV Charging Stocks Climb as Small Caps Catch a Bid: Blink Charging Jumps 6%, ChargePoint Rises 4%, EVgo Ticks Up",
             "Red Cat Sinks 6% as Speculative Drone Names Extend Month-Long Slide; Unusual Machines Drops 4%, AeroVironment Barely Budges",
             "Optics Stocks Rally as Oversold Bounce Takes Hold: Coherent Jumps 6%, Lumentum Climbs 5%, Applied Optoelectronics Advances 3%",
-            "Retail Sales, Imports Come In Warm Ahead of FOMC Decision",
-            "Dell Rises 5% Despite Fresh Silver Lake Share Sale Filings; Super Micro Climbs 3%, Hewlett Packard Enterprise Ticks Up"
+            "Retail Sales, Imports Come In Warm Ahead of FOMC Decision"
           ],
           "spx": [
-            "Federal Reserve interest rate hikes usually pound stocks, but then something surprising happens",
-            "Bessent grilled on the claim that \u2018K-shaped economy is over\u2019",
-            "AXR Stock Dips Post Q1 Earnings as Revenues Fall, Home Sale Margin Down",
-            "Stock Market Today: Nasdaq Leads Gains As Fed News Looms; Oil Ship Stocks Sail North (Live Coverage)",
-            "Don't freak out says Jim Cramer as he sends scary 2026 market verdict",
-            "Lumentum Stock Leads the S&P 500 While Corning Can\u2019t Keep Up",
-            "J.B. Hunt Stock Plunges. Diesel Prices Are High Enough to Hit Earnings.",
-            "S&P 500 Trucking Stock Craters On CFO's Warning",
-            "2 Reasons GE Vernova Stock Is Soaring",
-            "Ed Yardeni, Wall Street\u2019s Biggest Stock Market Bull, Takes a Cautious Turn"
+            "The Fed Just Hiked And It Isn't Done. The S&P 500 Is Fine With It. (Live Coverage)",
+            "Stocks wobble but no sign of panic as yields surge",
+            "Bloom Energy Gains 4% as S&P 500 Entry Nears; FuelCell Energy Ticks Up, Plug Power Slips",
+            "Update: US Equity Indexes Mixed as Fed Almost Certain to Tighten Monetary Policy, Crude Oil Slumps",
+            "Carnival selloff overdone, a buying opportunity into earnings: Stifel",
+            "The Dow, S&P 500, and Nasdaq Split Ahead of a Near-Certain Rate Hike",
+            "Update: Equities Mixed Intraday Ahead of Fed Decision",
+            "Does a Fed Interest Rate Hike Make Stocks Go Down?",
+            "FEIM Stock Climbs 34% as Q1 Earnings Surge Year Over Year"
           ]
         }
       },
@@ -1347,11 +1345,11 @@
         "auto_note": "TSLA PUT | $-22.29 (-5.92%) | dollar_loser_1 | Strike $340.0 exp 2026-09-09 (4DTE) | IV 32.4% | SPY +nan% | MACRO: rate hike, war"
       },
       "news_scan": {
-        "scanned_at": "2026-09-16 17:40:36 PST",
+        "scanned_at": "2026-09-16 18:16:12 PST",
         "gap_days": 11,
         "ticker_sentiment": "bearish",
         "spy_sentiment": "bearish",
-        "spx_sentiment": "bearish",
+        "spx_sentiment": "bullish",
         "keywords_found": [
           "weak"
         ],
@@ -1361,13 +1359,13 @@
           "drops"
         ],
         "spx_keywords": [
-          "warning",
-          "plunges"
+          "surge"
         ],
         "decision": "hold",
         "decision_reason": "bearish keywords confirmed PUT thesis",
         "raw_headlines": {
           "ticker": [
+            "SpaceX stock pops ahead of Starship launch",
             "Tesla must prove Cybercab is legal to sell, NHTSA says",
             "Starship Test: SpaceX's Quest for the Holy Grail of Rocketry",
             "May Mobility is going public in a $1.4B SPAC deal",
@@ -1376,10 +1374,10 @@
             "Tesla Tanked This Year: One Of Tech\u2019s Biggest Bulls Says 70% Are On The Horizon",
             "Goldman Slashes Tesla\u2019s Q3 Delivery Forecast \u2014 Says Weaker Sales Across Largest Markets May Offset Export Strength",
             "Tesla\u2019s Cybercab Is In Trouble",
-            "Will Tesla's Long-Awaited Roadster Debut With a Radical New Design?",
-            "Waymo Is Scaling Robotaxis. But Consumer Cars Could Be The Real Prize."
+            "Will Tesla's Long-Awaited Roadster Debut With a Radical New Design?"
           ],
           "spy": [
+            "Bloom Energy Gains 4% as S&P 500 Entry Nears; FuelCell Energy Ticks Up, Plug Power Slips",
             "SoundHound AI Drops 4% as Selling Concentrates in Speculative Software Names; UiPath Falls 3%, C3.ai Dips",
             "First Solar Retreats 5% After Dropping ITC Patent Case It Calls Procedural; Enphase Energy Slips, Sunrun Holds Steady",
             "Robinhood Sinks 5% After Prosecutors Reportedly Charge Two Former Engineers Over Crypto Trades; Webull Drops 9%",
@@ -1388,20 +1386,18 @@
             "EV Charging Stocks Climb as Small Caps Catch a Bid: Blink Charging Jumps 6%, ChargePoint Rises 4%, EVgo Ticks Up",
             "Red Cat Sinks 6% as Speculative Drone Names Extend Month-Long Slide; Unusual Machines Drops 4%, AeroVironment Barely Budges",
             "Optics Stocks Rally as Oversold Bounce Takes Hold: Coherent Jumps 6%, Lumentum Climbs 5%, Applied Optoelectronics Advances 3%",
-            "Retail Sales, Imports Come In Warm Ahead of FOMC Decision",
-            "Dell Rises 5% Despite Fresh Silver Lake Share Sale Filings; Super Micro Climbs 3%, Hewlett Packard Enterprise Ticks Up"
+            "Retail Sales, Imports Come In Warm Ahead of FOMC Decision"
           ],
           "spx": [
-            "Federal Reserve interest rate hikes usually pound stocks, but then something surprising happens",
-            "Bessent grilled on the claim that \u2018K-shaped economy is over\u2019",
-            "AXR Stock Dips Post Q1 Earnings as Revenues Fall, Home Sale Margin Down",
-            "Stock Market Today: Nasdaq Leads Gains As Fed News Looms; Oil Ship Stocks Sail North (Live Coverage)",
-            "Don't freak out says Jim Cramer as he sends scary 2026 market verdict",
-            "Lumentum Stock Leads the S&P 500 While Corning Can\u2019t Keep Up",
-            "J.B. Hunt Stock Plunges. Diesel Prices Are High Enough to Hit Earnings.",
-            "S&P 500 Trucking Stock Craters On CFO's Warning",
-            "2 Reasons GE Vernova Stock Is Soaring",
-            "Ed Yardeni, Wall Street\u2019s Biggest Stock Market Bull, Takes a Cautious Turn"
+            "The Fed Just Hiked And It Isn't Done. The S&P 500 Is Fine With It. (Live Coverage)",
+            "Stocks wobble but no sign of panic as yields surge",
+            "Bloom Energy Gains 4% as S&P 500 Entry Nears; FuelCell Energy Ticks Up, Plug Power Slips",
+            "Update: US Equity Indexes Mixed as Fed Almost Certain to Tighten Monetary Policy, Crude Oil Slumps",
+            "Carnival selloff overdone, a buying opportunity into earnings: Stifel",
+            "The Dow, S&P 500, and Nasdaq Split Ahead of a Near-Certain Rate Hike",
+            "Update: Equities Mixed Intraday Ahead of Fed Decision",
+            "Does a Fed Interest Rate Hike Make Stocks Go Down?",
+            "FEIM Stock Climbs 34% as Q1 Earnings Surge Year Over Year"
           ]
         }
       },
@@ -1444,11 +1440,11 @@
         "auto_note": "DDOG CALL | $+15.04 (+7.15%) | dollar_gainer_1 | Strike $240.0 exp 2026-09-11 (1DTE) | IV 68.4% | SPY +nan% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-09-16 17:40:36 PST",
+        "scanned_at": "2026-09-16 18:16:12 PST",
         "gap_days": 6,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "bearish",
-        "spx_sentiment": "bearish",
+        "spx_sentiment": "bullish",
         "keywords_found": [],
         "spy_keywords": [
           "jumps",
@@ -1456,8 +1452,7 @@
           "drops"
         ],
         "spx_keywords": [
-          "warning",
-          "plunges"
+          "surge"
         ],
         "decision": "sell",
         "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
@@ -1470,6 +1465,7 @@
             "Investors Heavily Search Datadog, Inc. (DDOG): Here is What You Need to Know"
           ],
           "spy": [
+            "Bloom Energy Gains 4% as S&P 500 Entry Nears; FuelCell Energy Ticks Up, Plug Power Slips",
             "SoundHound AI Drops 4% as Selling Concentrates in Speculative Software Names; UiPath Falls 3%, C3.ai Dips",
             "First Solar Retreats 5% After Dropping ITC Patent Case It Calls Procedural; Enphase Energy Slips, Sunrun Holds Steady",
             "Robinhood Sinks 5% After Prosecutors Reportedly Charge Two Former Engineers Over Crypto Trades; Webull Drops 9%",
@@ -1478,20 +1474,18 @@
             "EV Charging Stocks Climb as Small Caps Catch a Bid: Blink Charging Jumps 6%, ChargePoint Rises 4%, EVgo Ticks Up",
             "Red Cat Sinks 6% as Speculative Drone Names Extend Month-Long Slide; Unusual Machines Drops 4%, AeroVironment Barely Budges",
             "Optics Stocks Rally as Oversold Bounce Takes Hold: Coherent Jumps 6%, Lumentum Climbs 5%, Applied Optoelectronics Advances 3%",
-            "Retail Sales, Imports Come In Warm Ahead of FOMC Decision",
-            "Dell Rises 5% Despite Fresh Silver Lake Share Sale Filings; Super Micro Climbs 3%, Hewlett Packard Enterprise Ticks Up"
+            "Retail Sales, Imports Come In Warm Ahead of FOMC Decision"
           ],
           "spx": [
-            "Federal Reserve interest rate hikes usually pound stocks, but then something surprising happens",
-            "Bessent grilled on the claim that \u2018K-shaped economy is over\u2019",
-            "AXR Stock Dips Post Q1 Earnings as Revenues Fall, Home Sale Margin Down",
-            "Stock Market Today: Nasdaq Leads Gains As Fed News Looms; Oil Ship Stocks Sail North (Live Coverage)",
-            "Don't freak out says Jim Cramer as he sends scary 2026 market verdict",
-            "Lumentum Stock Leads the S&P 500 While Corning Can\u2019t Keep Up",
-            "J.B. Hunt Stock Plunges. Diesel Prices Are High Enough to Hit Earnings.",
-            "S&P 500 Trucking Stock Craters On CFO's Warning",
-            "2 Reasons GE Vernova Stock Is Soaring",
-            "Ed Yardeni, Wall Street\u2019s Biggest Stock Market Bull, Takes a Cautious Turn"
+            "The Fed Just Hiked And It Isn't Done. The S&P 500 Is Fine With It. (Live Coverage)",
+            "Stocks wobble but no sign of panic as yields surge",
+            "Bloom Energy Gains 4% as S&P 500 Entry Nears; FuelCell Energy Ticks Up, Plug Power Slips",
+            "Update: US Equity Indexes Mixed as Fed Almost Certain to Tighten Monetary Policy, Crude Oil Slumps",
+            "Carnival selloff overdone, a buying opportunity into earnings: Stifel",
+            "The Dow, S&P 500, and Nasdaq Split Ahead of a Near-Certain Rate Hike",
+            "Update: Equities Mixed Intraday Ahead of Fed Decision",
+            "Does a Fed Interest Rate Hike Make Stocks Go Down?",
+            "FEIM Stock Climbs 34% as Q1 Earnings Surge Year Over Year"
           ]
         }
       },
@@ -1537,11 +1531,11 @@
         "auto_note": "RGTZ CALL | $+14.18 (+402.84%) | dollar_gainer_1 | Strike $8.0 exp 2026-09-18 (7DTE) | IV 0.0% | SPY +nan% | MACRO: rate hike, china"
       },
       "news_scan": {
-        "scanned_at": "2026-09-16 17:40:36 PST",
+        "scanned_at": "2026-09-16 18:16:12 PST",
         "gap_days": 5,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "bearish",
-        "spx_sentiment": "bearish",
+        "spx_sentiment": "bullish",
         "keywords_found": [],
         "spy_keywords": [
           "jumps",
@@ -1549,14 +1543,14 @@
           "drops"
         ],
         "spx_keywords": [
-          "warning",
-          "plunges"
+          "surge"
         ],
         "decision": "sell",
         "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
         "raw_headlines": {
           "ticker": [],
           "spy": [
+            "Bloom Energy Gains 4% as S&P 500 Entry Nears; FuelCell Energy Ticks Up, Plug Power Slips",
             "SoundHound AI Drops 4% as Selling Concentrates in Speculative Software Names; UiPath Falls 3%, C3.ai Dips",
             "First Solar Retreats 5% After Dropping ITC Patent Case It Calls Procedural; Enphase Energy Slips, Sunrun Holds Steady",
             "Robinhood Sinks 5% After Prosecutors Reportedly Charge Two Former Engineers Over Crypto Trades; Webull Drops 9%",
@@ -1565,20 +1559,18 @@
             "EV Charging Stocks Climb as Small Caps Catch a Bid: Blink Charging Jumps 6%, ChargePoint Rises 4%, EVgo Ticks Up",
             "Red Cat Sinks 6% as Speculative Drone Names Extend Month-Long Slide; Unusual Machines Drops 4%, AeroVironment Barely Budges",
             "Optics Stocks Rally as Oversold Bounce Takes Hold: Coherent Jumps 6%, Lumentum Climbs 5%, Applied Optoelectronics Advances 3%",
-            "Retail Sales, Imports Come In Warm Ahead of FOMC Decision",
-            "Dell Rises 5% Despite Fresh Silver Lake Share Sale Filings; Super Micro Climbs 3%, Hewlett Packard Enterprise Ticks Up"
+            "Retail Sales, Imports Come In Warm Ahead of FOMC Decision"
           ],
           "spx": [
-            "Federal Reserve interest rate hikes usually pound stocks, but then something surprising happens",
-            "Bessent grilled on the claim that \u2018K-shaped economy is over\u2019",
-            "AXR Stock Dips Post Q1 Earnings as Revenues Fall, Home Sale Margin Down",
-            "Stock Market Today: Nasdaq Leads Gains As Fed News Looms; Oil Ship Stocks Sail North (Live Coverage)",
-            "Don't freak out says Jim Cramer as he sends scary 2026 market verdict",
-            "Lumentum Stock Leads the S&P 500 While Corning Can\u2019t Keep Up",
-            "J.B. Hunt Stock Plunges. Diesel Prices Are High Enough to Hit Earnings.",
-            "S&P 500 Trucking Stock Craters On CFO's Warning",
-            "2 Reasons GE Vernova Stock Is Soaring",
-            "Ed Yardeni, Wall Street\u2019s Biggest Stock Market Bull, Takes a Cautious Turn"
+            "The Fed Just Hiked And It Isn't Done. The S&P 500 Is Fine With It. (Live Coverage)",
+            "Stocks wobble but no sign of panic as yields surge",
+            "Bloom Energy Gains 4% as S&P 500 Entry Nears; FuelCell Energy Ticks Up, Plug Power Slips",
+            "Update: US Equity Indexes Mixed as Fed Almost Certain to Tighten Monetary Policy, Crude Oil Slumps",
+            "Carnival selloff overdone, a buying opportunity into earnings: Stifel",
+            "The Dow, S&P 500, and Nasdaq Split Ahead of a Near-Certain Rate Hike",
+            "Update: Equities Mixed Intraday Ahead of Fed Decision",
+            "Does a Fed Interest Rate Hike Make Stocks Go Down?",
+            "FEIM Stock Climbs 34% as Q1 Earnings Surge Year Over Year"
           ]
         }
       },
@@ -1623,11 +1615,11 @@
         "auto_note": "VICR CALL | $+19.86 (+11.15%) | dollar_gainer_1 | Strike $240.0 exp 2026-09-18 (6DTE) | IV 86.0% | SPY +nan% | MACRO: fed"
       },
       "news_scan": {
-        "scanned_at": "2026-09-16 17:40:36 PST",
+        "scanned_at": "2026-09-16 18:16:12 PST",
         "gap_days": 4,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "bearish",
-        "spx_sentiment": "bearish",
+        "spx_sentiment": "bullish",
         "keywords_found": [],
         "spy_keywords": [
           "jumps",
@@ -1635,8 +1627,7 @@
           "drops"
         ],
         "spx_keywords": [
-          "warning",
-          "plunges"
+          "surge"
         ],
         "decision": "sell",
         "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
@@ -1645,6 +1636,7 @@
             "Is it the Right Time to Buy TTMI Stock at a P/S Multiple of 2.59X?"
           ],
           "spy": [
+            "Bloom Energy Gains 4% as S&P 500 Entry Nears; FuelCell Energy Ticks Up, Plug Power Slips",
             "SoundHound AI Drops 4% as Selling Concentrates in Speculative Software Names; UiPath Falls 3%, C3.ai Dips",
             "First Solar Retreats 5% After Dropping ITC Patent Case It Calls Procedural; Enphase Energy Slips, Sunrun Holds Steady",
             "Robinhood Sinks 5% After Prosecutors Reportedly Charge Two Former Engineers Over Crypto Trades; Webull Drops 9%",
@@ -1653,20 +1645,18 @@
             "EV Charging Stocks Climb as Small Caps Catch a Bid: Blink Charging Jumps 6%, ChargePoint Rises 4%, EVgo Ticks Up",
             "Red Cat Sinks 6% as Speculative Drone Names Extend Month-Long Slide; Unusual Machines Drops 4%, AeroVironment Barely Budges",
             "Optics Stocks Rally as Oversold Bounce Takes Hold: Coherent Jumps 6%, Lumentum Climbs 5%, Applied Optoelectronics Advances 3%",
-            "Retail Sales, Imports Come In Warm Ahead of FOMC Decision",
-            "Dell Rises 5% Despite Fresh Silver Lake Share Sale Filings; Super Micro Climbs 3%, Hewlett Packard Enterprise Ticks Up"
+            "Retail Sales, Imports Come In Warm Ahead of FOMC Decision"
           ],
           "spx": [
-            "Federal Reserve interest rate hikes usually pound stocks, but then something surprising happens",
-            "Bessent grilled on the claim that \u2018K-shaped economy is over\u2019",
-            "AXR Stock Dips Post Q1 Earnings as Revenues Fall, Home Sale Margin Down",
-            "Stock Market Today: Nasdaq Leads Gains As Fed News Looms; Oil Ship Stocks Sail North (Live Coverage)",
-            "Don't freak out says Jim Cramer as he sends scary 2026 market verdict",
-            "Lumentum Stock Leads the S&P 500 While Corning Can\u2019t Keep Up",
-            "J.B. Hunt Stock Plunges. Diesel Prices Are High Enough to Hit Earnings.",
-            "S&P 500 Trucking Stock Craters On CFO's Warning",
-            "2 Reasons GE Vernova Stock Is Soaring",
-            "Ed Yardeni, Wall Street\u2019s Biggest Stock Market Bull, Takes a Cautious Turn"
+            "The Fed Just Hiked And It Isn't Done. The S&P 500 Is Fine With It. (Live Coverage)",
+            "Stocks wobble but no sign of panic as yields surge",
+            "Bloom Energy Gains 4% as S&P 500 Entry Nears; FuelCell Energy Ticks Up, Plug Power Slips",
+            "Update: US Equity Indexes Mixed as Fed Almost Certain to Tighten Monetary Policy, Crude Oil Slumps",
+            "Carnival selloff overdone, a buying opportunity into earnings: Stifel",
+            "The Dow, S&P 500, and Nasdaq Split Ahead of a Near-Certain Rate Hike",
+            "Update: Equities Mixed Intraday Ahead of Fed Decision",
+            "Does a Fed Interest Rate Hike Make Stocks Go Down?",
+            "FEIM Stock Climbs 34% as Q1 Earnings Surge Year Over Year"
           ]
         }
       },
@@ -1711,11 +1701,11 @@
         "auto_note": "LEU PUT | $-13.56 (-8.18%) | dollar_loser_1 | Strike $135.0 exp 2026-09-18 (6DTE) | IV 56.5% | SPY +nan% | MACRO: fed"
       },
       "news_scan": {
-        "scanned_at": "2026-09-16 17:40:36 PST",
+        "scanned_at": "2026-09-16 18:16:12 PST",
         "gap_days": 4,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "bearish",
-        "spx_sentiment": "bearish",
+        "spx_sentiment": "bullish",
         "keywords_found": [],
         "spy_keywords": [
           "jumps",
@@ -1723,14 +1713,14 @@
           "drops"
         ],
         "spx_keywords": [
-          "warning",
-          "plunges"
+          "surge"
         ],
         "decision": "hold",
         "decision_reason": "neutral keywords confirmed PUT thesis",
         "raw_headlines": {
           "ticker": [],
           "spy": [
+            "Bloom Energy Gains 4% as S&P 500 Entry Nears; FuelCell Energy Ticks Up, Plug Power Slips",
             "SoundHound AI Drops 4% as Selling Concentrates in Speculative Software Names; UiPath Falls 3%, C3.ai Dips",
             "First Solar Retreats 5% After Dropping ITC Patent Case It Calls Procedural; Enphase Energy Slips, Sunrun Holds Steady",
             "Robinhood Sinks 5% After Prosecutors Reportedly Charge Two Former Engineers Over Crypto Trades; Webull Drops 9%",
@@ -1739,20 +1729,18 @@
             "EV Charging Stocks Climb as Small Caps Catch a Bid: Blink Charging Jumps 6%, ChargePoint Rises 4%, EVgo Ticks Up",
             "Red Cat Sinks 6% as Speculative Drone Names Extend Month-Long Slide; Unusual Machines Drops 4%, AeroVironment Barely Budges",
             "Optics Stocks Rally as Oversold Bounce Takes Hold: Coherent Jumps 6%, Lumentum Climbs 5%, Applied Optoelectronics Advances 3%",
-            "Retail Sales, Imports Come In Warm Ahead of FOMC Decision",
-            "Dell Rises 5% Despite Fresh Silver Lake Share Sale Filings; Super Micro Climbs 3%, Hewlett Packard Enterprise Ticks Up"
+            "Retail Sales, Imports Come In Warm Ahead of FOMC Decision"
           ],
           "spx": [
-            "Federal Reserve interest rate hikes usually pound stocks, but then something surprising happens",
-            "Bessent grilled on the claim that \u2018K-shaped economy is over\u2019",
-            "AXR Stock Dips Post Q1 Earnings as Revenues Fall, Home Sale Margin Down",
-            "Stock Market Today: Nasdaq Leads Gains As Fed News Looms; Oil Ship Stocks Sail North (Live Coverage)",
-            "Don't freak out says Jim Cramer as he sends scary 2026 market verdict",
-            "Lumentum Stock Leads the S&P 500 While Corning Can\u2019t Keep Up",
-            "J.B. Hunt Stock Plunges. Diesel Prices Are High Enough to Hit Earnings.",
-            "S&P 500 Trucking Stock Craters On CFO's Warning",
-            "2 Reasons GE Vernova Stock Is Soaring",
-            "Ed Yardeni, Wall Street\u2019s Biggest Stock Market Bull, Takes a Cautious Turn"
+            "The Fed Just Hiked And It Isn't Done. The S&P 500 Is Fine With It. (Live Coverage)",
+            "Stocks wobble but no sign of panic as yields surge",
+            "Bloom Energy Gains 4% as S&P 500 Entry Nears; FuelCell Energy Ticks Up, Plug Power Slips",
+            "Update: US Equity Indexes Mixed as Fed Almost Certain to Tighten Monetary Policy, Crude Oil Slumps",
+            "Carnival selloff overdone, a buying opportunity into earnings: Stifel",
+            "The Dow, S&P 500, and Nasdaq Split Ahead of a Near-Certain Rate Hike",
+            "Update: Equities Mixed Intraday Ahead of Fed Decision",
+            "Does a Fed Interest Rate Hike Make Stocks Go Down?",
+            "FEIM Stock Climbs 34% as Q1 Earnings Surge Year Over Year"
           ]
         }
       },
@@ -1795,11 +1783,11 @@
         "auto_note": "PANW CALL | $+43.29 (+13.09%) | dollar_gainer_1 | Strike $420.0 exp 2026-09-18 (3DTE) | IV 71.1% | SPY +nan% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-09-16 17:40:36 PST",
+        "scanned_at": "2026-09-16 18:16:12 PST",
         "gap_days": 1,
         "ticker_sentiment": "bearish",
         "spy_sentiment": "bearish",
-        "spx_sentiment": "bearish",
+        "spx_sentiment": "bullish",
         "keywords_found": [
           "concern"
         ],
@@ -1809,8 +1797,7 @@
           "drops"
         ],
         "spx_keywords": [
-          "warning",
-          "plunges"
+          "surge"
         ],
         "decision": "sell",
         "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
@@ -1828,6 +1815,7 @@
             "Time to Boost Cybersecurity ETF Exposure as AI Safety Concerns Rise"
           ],
           "spy": [
+            "Bloom Energy Gains 4% as S&P 500 Entry Nears; FuelCell Energy Ticks Up, Plug Power Slips",
             "SoundHound AI Drops 4% as Selling Concentrates in Speculative Software Names; UiPath Falls 3%, C3.ai Dips",
             "First Solar Retreats 5% After Dropping ITC Patent Case It Calls Procedural; Enphase Energy Slips, Sunrun Holds Steady",
             "Robinhood Sinks 5% After Prosecutors Reportedly Charge Two Former Engineers Over Crypto Trades; Webull Drops 9%",
@@ -1836,20 +1824,18 @@
             "EV Charging Stocks Climb as Small Caps Catch a Bid: Blink Charging Jumps 6%, ChargePoint Rises 4%, EVgo Ticks Up",
             "Red Cat Sinks 6% as Speculative Drone Names Extend Month-Long Slide; Unusual Machines Drops 4%, AeroVironment Barely Budges",
             "Optics Stocks Rally as Oversold Bounce Takes Hold: Coherent Jumps 6%, Lumentum Climbs 5%, Applied Optoelectronics Advances 3%",
-            "Retail Sales, Imports Come In Warm Ahead of FOMC Decision",
-            "Dell Rises 5% Despite Fresh Silver Lake Share Sale Filings; Super Micro Climbs 3%, Hewlett Packard Enterprise Ticks Up"
+            "Retail Sales, Imports Come In Warm Ahead of FOMC Decision"
           ],
           "spx": [
-            "Federal Reserve interest rate hikes usually pound stocks, but then something surprising happens",
-            "Bessent grilled on the claim that \u2018K-shaped economy is over\u2019",
-            "AXR Stock Dips Post Q1 Earnings as Revenues Fall, Home Sale Margin Down",
-            "Stock Market Today: Nasdaq Leads Gains As Fed News Looms; Oil Ship Stocks Sail North (Live Coverage)",
-            "Don't freak out says Jim Cramer as he sends scary 2026 market verdict",
-            "Lumentum Stock Leads the S&P 500 While Corning Can\u2019t Keep Up",
-            "J.B. Hunt Stock Plunges. Diesel Prices Are High Enough to Hit Earnings.",
-            "S&P 500 Trucking Stock Craters On CFO's Warning",
-            "2 Reasons GE Vernova Stock Is Soaring",
-            "Ed Yardeni, Wall Street\u2019s Biggest Stock Market Bull, Takes a Cautious Turn"
+            "The Fed Just Hiked And It Isn't Done. The S&P 500 Is Fine With It. (Live Coverage)",
+            "Stocks wobble but no sign of panic as yields surge",
+            "Bloom Energy Gains 4% as S&P 500 Entry Nears; FuelCell Energy Ticks Up, Plug Power Slips",
+            "Update: US Equity Indexes Mixed as Fed Almost Certain to Tighten Monetary Policy, Crude Oil Slumps",
+            "Carnival selloff overdone, a buying opportunity into earnings: Stifel",
+            "The Dow, S&P 500, and Nasdaq Split Ahead of a Near-Certain Rate Hike",
+            "Update: Equities Mixed Intraday Ahead of Fed Decision",
+            "Does a Fed Interest Rate Hike Make Stocks Go Down?",
+            "FEIM Stock Climbs 34% as Q1 Earnings Surge Year Over Year"
           ]
         }
       },
@@ -1892,11 +1878,11 @@
         "auto_note": "TER PUT | $-50.52 (-13.30%) | dollar_loser_1 | Strike $280.0 exp 2026-09-18 (3DTE) | IV 90.0% | SPY +nan% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-09-16 17:40:36 PST",
+        "scanned_at": "2026-09-16 18:16:12 PST",
         "gap_days": 1,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "bearish",
-        "spx_sentiment": "bearish",
+        "spx_sentiment": "bullish",
         "keywords_found": [],
         "spy_keywords": [
           "jumps",
@@ -1904,14 +1890,14 @@
           "drops"
         ],
         "spx_keywords": [
-          "warning",
-          "plunges"
+          "surge"
         ],
         "decision": "hold",
         "decision_reason": "neutral keywords confirmed PUT thesis",
         "raw_headlines": {
           "ticker": [
             "ASX vs. TER: Which AI Semiconductor Stock Should You Buy Right Now?",
+            "How Is Teradyne Stock Performance Compared to Other Semiconductor Stocks",
             "Teradyne Looks Expensive Until You Price The AI Chips It Has Not Tested Yet",
             "Teradyne India Office Expands Semiconductor Manufacturing Support in Bengaluru",
             "Top Robotics Stocks to Add to Your Portfolio for Impressive Returns",
@@ -1919,10 +1905,10 @@
             "Update: US Equity Futures Drop Pre-Bell as 10-Year Treasury Yield Surpasses 5% Ahead of Fed Decision",
             "Lattice Semiconductor, Amkor, Himax, Teradyne, and Entegris Stocks Trade Down, What You Need To Know",
             "Is Teradyne Stock Asking Too Much Of Its Test Business?",
-            "Which Tech Stocks Are Getting Hit Hardest Today",
-            "Oracle, Corning, Alphabet, GE Vernova, CrowdStrike, SpaceX, and More Stocks That Explain Today\u2019s Market"
+            "Which Tech Stocks Are Getting Hit Hardest Today"
           ],
           "spy": [
+            "Bloom Energy Gains 4% as S&P 500 Entry Nears; FuelCell Energy Ticks Up, Plug Power Slips",
             "SoundHound AI Drops 4% as Selling Concentrates in Speculative Software Names; UiPath Falls 3%, C3.ai Dips",
             "First Solar Retreats 5% After Dropping ITC Patent Case It Calls Procedural; Enphase Energy Slips, Sunrun Holds Steady",
             "Robinhood Sinks 5% After Prosecutors Reportedly Charge Two Former Engineers Over Crypto Trades; Webull Drops 9%",
@@ -1931,20 +1917,18 @@
             "EV Charging Stocks Climb as Small Caps Catch a Bid: Blink Charging Jumps 6%, ChargePoint Rises 4%, EVgo Ticks Up",
             "Red Cat Sinks 6% as Speculative Drone Names Extend Month-Long Slide; Unusual Machines Drops 4%, AeroVironment Barely Budges",
             "Optics Stocks Rally as Oversold Bounce Takes Hold: Coherent Jumps 6%, Lumentum Climbs 5%, Applied Optoelectronics Advances 3%",
-            "Retail Sales, Imports Come In Warm Ahead of FOMC Decision",
-            "Dell Rises 5% Despite Fresh Silver Lake Share Sale Filings; Super Micro Climbs 3%, Hewlett Packard Enterprise Ticks Up"
+            "Retail Sales, Imports Come In Warm Ahead of FOMC Decision"
           ],
           "spx": [
-            "Federal Reserve interest rate hikes usually pound stocks, but then something surprising happens",
-            "Bessent grilled on the claim that \u2018K-shaped economy is over\u2019",
-            "AXR Stock Dips Post Q1 Earnings as Revenues Fall, Home Sale Margin Down",
-            "Stock Market Today: Nasdaq Leads Gains As Fed News Looms; Oil Ship Stocks Sail North (Live Coverage)",
-            "Don't freak out says Jim Cramer as he sends scary 2026 market verdict",
-            "Lumentum Stock Leads the S&P 500 While Corning Can\u2019t Keep Up",
-            "J.B. Hunt Stock Plunges. Diesel Prices Are High Enough to Hit Earnings.",
-            "S&P 500 Trucking Stock Craters On CFO's Warning",
-            "2 Reasons GE Vernova Stock Is Soaring",
-            "Ed Yardeni, Wall Street\u2019s Biggest Stock Market Bull, Takes a Cautious Turn"
+            "The Fed Just Hiked And It Isn't Done. The S&P 500 Is Fine With It. (Live Coverage)",
+            "Stocks wobble but no sign of panic as yields surge",
+            "Bloom Energy Gains 4% as S&P 500 Entry Nears; FuelCell Energy Ticks Up, Plug Power Slips",
+            "Update: US Equity Indexes Mixed as Fed Almost Certain to Tighten Monetary Policy, Crude Oil Slumps",
+            "Carnival selloff overdone, a buying opportunity into earnings: Stifel",
+            "The Dow, S&P 500, and Nasdaq Split Ahead of a Near-Certain Rate Hike",
+            "Update: Equities Mixed Intraday Ahead of Fed Decision",
+            "Does a Fed Interest Rate Hike Make Stocks Go Down?",
+            "FEIM Stock Climbs 34% as Q1 Earnings Surge Year Over Year"
           ]
         }
       },
@@ -1990,11 +1974,11 @@
         "auto_note": "QLYS CALL | $+12.46 (+7.21%) | dollar_gainer_1 | Strike $210.0 exp 2026-09-18 (2DTE) | IV 78.5% | SPY +nan% | MACRO: fed, rate hike"
       },
       "news_scan": {
-        "scanned_at": "2026-09-16 17:40:36 PST",
+        "scanned_at": "2026-09-16 18:16:12 PST",
         "gap_days": 0,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "bearish",
-        "spx_sentiment": "bearish",
+        "spx_sentiment": "bullish",
         "keywords_found": [],
         "spy_keywords": [
           "jumps",
@@ -2002,8 +1986,7 @@
           "drops"
         ],
         "spx_keywords": [
-          "warning",
-          "plunges"
+          "surge"
         ],
         "decision": "sell",
         "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
@@ -2016,6 +1999,7 @@
             "2 Top Cybersecurity Stocks to Buy Amid AI Safety Fears: FTNT, QLYS"
           ],
           "spy": [
+            "Bloom Energy Gains 4% as S&P 500 Entry Nears; FuelCell Energy Ticks Up, Plug Power Slips",
             "SoundHound AI Drops 4% as Selling Concentrates in Speculative Software Names; UiPath Falls 3%, C3.ai Dips",
             "First Solar Retreats 5% After Dropping ITC Patent Case It Calls Procedural; Enphase Energy Slips, Sunrun Holds Steady",
             "Robinhood Sinks 5% After Prosecutors Reportedly Charge Two Former Engineers Over Crypto Trades; Webull Drops 9%",
@@ -2024,20 +2008,18 @@
             "EV Charging Stocks Climb as Small Caps Catch a Bid: Blink Charging Jumps 6%, ChargePoint Rises 4%, EVgo Ticks Up",
             "Red Cat Sinks 6% as Speculative Drone Names Extend Month-Long Slide; Unusual Machines Drops 4%, AeroVironment Barely Budges",
             "Optics Stocks Rally as Oversold Bounce Takes Hold: Coherent Jumps 6%, Lumentum Climbs 5%, Applied Optoelectronics Advances 3%",
-            "Retail Sales, Imports Come In Warm Ahead of FOMC Decision",
-            "Dell Rises 5% Despite Fresh Silver Lake Share Sale Filings; Super Micro Climbs 3%, Hewlett Packard Enterprise Ticks Up"
+            "Retail Sales, Imports Come In Warm Ahead of FOMC Decision"
           ],
           "spx": [
-            "Federal Reserve interest rate hikes usually pound stocks, but then something surprising happens",
-            "Bessent grilled on the claim that \u2018K-shaped economy is over\u2019",
-            "AXR Stock Dips Post Q1 Earnings as Revenues Fall, Home Sale Margin Down",
-            "Stock Market Today: Nasdaq Leads Gains As Fed News Looms; Oil Ship Stocks Sail North (Live Coverage)",
-            "Don't freak out says Jim Cramer as he sends scary 2026 market verdict",
-            "Lumentum Stock Leads the S&P 500 While Corning Can\u2019t Keep Up",
-            "J.B. Hunt Stock Plunges. Diesel Prices Are High Enough to Hit Earnings.",
-            "S&P 500 Trucking Stock Craters On CFO's Warning",
-            "2 Reasons GE Vernova Stock Is Soaring",
-            "Ed Yardeni, Wall Street\u2019s Biggest Stock Market Bull, Takes a Cautious Turn"
+            "The Fed Just Hiked And It Isn't Done. The S&P 500 Is Fine With It. (Live Coverage)",
+            "Stocks wobble but no sign of panic as yields surge",
+            "Bloom Energy Gains 4% as S&P 500 Entry Nears; FuelCell Energy Ticks Up, Plug Power Slips",
+            "Update: US Equity Indexes Mixed as Fed Almost Certain to Tighten Monetary Policy, Crude Oil Slumps",
+            "Carnival selloff overdone, a buying opportunity into earnings: Stifel",
+            "The Dow, S&P 500, and Nasdaq Split Ahead of a Near-Certain Rate Hike",
+            "Update: Equities Mixed Intraday Ahead of Fed Decision",
+            "Does a Fed Interest Rate Hike Make Stocks Go Down?",
+            "FEIM Stock Climbs 34% as Q1 Earnings Surge Year Over Year"
           ]
         }
       },
@@ -2083,11 +2065,11 @@
         "auto_note": "AXON PUT | $-48.10 (-9.81%) | dollar_loser_1 | Strike $390.0 exp 2026-09-18 (2DTE) | IV 78.0% | SPY +nan% | MACRO: fed, rate hike"
       },
       "news_scan": {
-        "scanned_at": "2026-09-16 17:40:36 PST",
+        "scanned_at": "2026-09-16 18:16:12 PST",
         "gap_days": 0,
         "ticker_sentiment": "bullish",
         "spy_sentiment": "bearish",
-        "spx_sentiment": "bearish",
+        "spx_sentiment": "bullish",
         "keywords_found": [
           "jumps"
         ],
@@ -2097,8 +2079,7 @@
           "drops"
         ],
         "spx_keywords": [
-          "warning",
-          "plunges"
+          "surge"
         ],
         "decision": "hold",
         "decision_reason": "bullish keywords confirmed PUT thesis",
@@ -2116,6 +2097,7 @@
             "Update: Equities Log Back-to-Back Declines Before Fed Decision as Yields, Oil Jump"
           ],
           "spy": [
+            "Bloom Energy Gains 4% as S&P 500 Entry Nears; FuelCell Energy Ticks Up, Plug Power Slips",
             "SoundHound AI Drops 4% as Selling Concentrates in Speculative Software Names; UiPath Falls 3%, C3.ai Dips",
             "First Solar Retreats 5% After Dropping ITC Patent Case It Calls Procedural; Enphase Energy Slips, Sunrun Holds Steady",
             "Robinhood Sinks 5% After Prosecutors Reportedly Charge Two Former Engineers Over Crypto Trades; Webull Drops 9%",
@@ -2124,20 +2106,18 @@
             "EV Charging Stocks Climb as Small Caps Catch a Bid: Blink Charging Jumps 6%, ChargePoint Rises 4%, EVgo Ticks Up",
             "Red Cat Sinks 6% as Speculative Drone Names Extend Month-Long Slide; Unusual Machines Drops 4%, AeroVironment Barely Budges",
             "Optics Stocks Rally as Oversold Bounce Takes Hold: Coherent Jumps 6%, Lumentum Climbs 5%, Applied Optoelectronics Advances 3%",
-            "Retail Sales, Imports Come In Warm Ahead of FOMC Decision",
-            "Dell Rises 5% Despite Fresh Silver Lake Share Sale Filings; Super Micro Climbs 3%, Hewlett Packard Enterprise Ticks Up"
+            "Retail Sales, Imports Come In Warm Ahead of FOMC Decision"
           ],
           "spx": [
-            "Federal Reserve interest rate hikes usually pound stocks, but then something surprising happens",
-            "Bessent grilled on the claim that \u2018K-shaped economy is over\u2019",
-            "AXR Stock Dips Post Q1 Earnings as Revenues Fall, Home Sale Margin Down",
-            "Stock Market Today: Nasdaq Leads Gains As Fed News Looms; Oil Ship Stocks Sail North (Live Coverage)",
-            "Don't freak out says Jim Cramer as he sends scary 2026 market verdict",
-            "Lumentum Stock Leads the S&P 500 While Corning Can\u2019t Keep Up",
-            "J.B. Hunt Stock Plunges. Diesel Prices Are High Enough to Hit Earnings.",
-            "S&P 500 Trucking Stock Craters On CFO's Warning",
-            "2 Reasons GE Vernova Stock Is Soaring",
-            "Ed Yardeni, Wall Street\u2019s Biggest Stock Market Bull, Takes a Cautious Turn"
+            "The Fed Just Hiked And It Isn't Done. The S&P 500 Is Fine With It. (Live Coverage)",
+            "Stocks wobble but no sign of panic as yields surge",
+            "Bloom Energy Gains 4% as S&P 500 Entry Nears; FuelCell Energy Ticks Up, Plug Power Slips",
+            "Update: US Equity Indexes Mixed as Fed Almost Certain to Tighten Monetary Policy, Crude Oil Slumps",
+            "Carnival selloff overdone, a buying opportunity into earnings: Stifel",
+            "The Dow, S&P 500, and Nasdaq Split Ahead of a Near-Certain Rate Hike",
+            "Update: Equities Mixed Intraday Ahead of Fed Decision",
+            "Does a Fed Interest Rate Hike Make Stocks Go Down?",
+            "FEIM Stock Climbs 34% as Q1 Earnings Surge Year Over Year"
           ]
         }
       },
