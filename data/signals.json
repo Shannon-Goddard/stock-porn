@@ -1,12 +1,12 @@
 {
   "topGainers": [
     {
-      "ticker": "SDGR",
-      "name": "SCHRODINGER INC COM",
+      "ticker": "SMCL",
+      "name": "GRANITESHARES ETF TR 2X LO SMCI DA ET",
       "sector": "Unknown",
-      "price": 30.24,
-      "changePct": 26.37,
-      "changeDollar": 6.31
+      "price": 18.78,
+      "changePct": 19.31,
+      "changeDollar": 3.04
     },
     {
       "ticker": "IONX",
@@ -17,36 +17,12 @@
       "changeDollar": 3.73
     },
     {
-      "ticker": "GNRC",
-      "name": "GENERAC HLDGS INC COM",
+      "ticker": "SMCX",
+      "name": "TIDAL TRUST II DEFI DA SMCI ETF",
       "sector": "Unknown",
-      "price": 207.23,
-      "changePct": 18.34,
-      "changeDollar": 32.12
-    },
-    {
-      "ticker": "VICR",
-      "name": "VICOR CORP COM",
-      "sector": "Unknown",
-      "price": 216.39,
-      "changePct": 17.66,
-      "changeDollar": 32.48
-    },
-    {
-      "ticker": "ARMG",
-      "name": "THEMES ETF TR LEVERAGE SHARES",
-      "sector": "Unknown",
-      "price": 18.45,
-      "changePct": 16.85,
-      "changeDollar": 2.66
-    },
-    {
-      "ticker": "BHVN",
-      "name": "BIOHAVEN LTD COM",
-      "sector": "Unknown",
-      "price": 13.89,
-      "changePct": 15.56,
-      "changeDollar": 1.87
+      "price": 13.46,
+      "changePct": 18.8,
+      "changeDollar": 2.13
     },
     {
       "ticker": "INTW",
@@ -57,20 +33,12 @@
       "changeDollar": 3.49
     },
     {
-      "ticker": "RKLX",
-      "name": "TIDAL TRUST II DEFIANCE DAILY",
+      "ticker": "FCEL",
+      "name": "FUELCELL ENERGY INC COM NEW",
       "sector": "Unknown",
-      "price": 16.57,
-      "changePct": 12.72,
-      "changeDollar": 1.87
-    },
-    {
-      "ticker": "XE",
-      "name": "X-ENERGY INC COM CL A",
-      "sector": "Unknown",
-      "price": 16.33,
-      "changePct": 12.08,
-      "changeDollar": 1.76
+      "price": 17.71,
+      "changePct": 14.26,
+      "changeDollar": 2.21
     },
     {
       "ticker": "SNDU",
@@ -79,16 +47,48 @@
       "price": 22.81,
       "changePct": 11.98,
       "changeDollar": 2.44
+    },
+    {
+      "ticker": "KORU",
+      "name": "DIREXION SHARES ETF TRUST DAIL MS KORE ETF",
+      "sector": "Unknown",
+      "price": 20.41,
+      "changePct": 11.65,
+      "changeDollar": 2.13
+    },
+    {
+      "ticker": "CRCG",
+      "name": "THEMES ETF TR LEVERAGE SHS 2X",
+      "sector": "Unknown",
+      "price": 12.94,
+      "changePct": 11.55,
+      "changeDollar": 1.34
+    },
+    {
+      "ticker": "MUU",
+      "name": "DIREXION SHARES ETF TRUST DLY MU BULL 2X",
+      "sector": "Unknown",
+      "price": 31.28,
+      "changePct": 10.65,
+      "changeDollar": 3.01
+    },
+    {
+      "ticker": "HOOG",
+      "name": "THEMES ETF TR LEVERAGE SHS 2X",
+      "sector": "Unknown",
+      "price": 31.09,
+      "changePct": 10.29,
+      "changeDollar": 2.9
     }
   ],
   "topLosers": [
     {
-      "ticker": "ALMU",
-      "name": "AELUMA INC COM",
+      "ticker": "SNDQ",
+      "name": "Tradr 2X Short SNDK Daily ETF",
       "sector": "Unknown",
-      "price": 11.55,
-      "changePct": -14.07,
-      "changeDollar": -1.89
+      "price": 13.25,
+      "changePct": -12.37,
+      "changeDollar": -1.87
     },
     {
       "ticker": "AN",
@@ -99,36 +99,12 @@
       "changeDollar": -20.49
     },
     {
-      "ticker": "DKNG",
-      "name": "DRAFTKINGS INC NEW COM CL A",
+      "ticker": "UVIX",
+      "name": "2x Long VIX Futures ETF",
       "sector": "Unknown",
-      "price": 22.47,
-      "changePct": -7.64,
-      "changeDollar": -1.86
-    },
-    {
-      "ticker": "TTAN",
-      "name": "SERVICETITAN INC SHS CL A",
-      "sector": "Unknown",
-      "price": 54.25,
-      "changePct": -7.53,
-      "changeDollar": -4.42
-    },
-    {
-      "ticker": "REAX",
-      "name": "REAL REMAX GROUP INC",
-      "sector": "Unknown",
-      "price": 17.61,
-      "changePct": -7.41,
-      "changeDollar": -1.41
-    },
-    {
-      "ticker": "SRAD",
-      "name": "SPORTRADAR GROUP AG CLASS A ORD SHS",
-      "sector": "Unknown",
-      "price": 12.36,
-      "changePct": -6.58,
-      "changeDollar": -0.87
+      "price": 37.39,
+      "changePct": -8.09,
+      "changeDollar": -3.29
     },
     {
       "ticker": "ZSL",
@@ -139,55 +115,55 @@
       "changeDollar": -1.65
     },
     {
-      "ticker": "NSIT",
-      "name": "INSIGHT ENTERPRISES INC COM",
+      "ticker": "PNTG",
+      "name": "PENNANT GROUP INC COM",
       "sector": "Unknown",
-      "price": 154.65,
-      "changePct": -6.38,
-      "changeDollar": -10.54
+      "price": 40.03,
+      "changePct": -5.77,
+      "changeDollar": -2.45
     },
     {
-      "ticker": "IART",
-      "name": "INTEGRA LIFESCIENCES HLDGS CP COM NEW",
+      "ticker": "JXN",
+      "name": "JACKSON FINANCIAL INC COM CL A",
       "sector": "Unknown",
-      "price": 15.1,
-      "changePct": -5.98,
-      "changeDollar": -0.96
+      "price": 129.38,
+      "changePct": -5.63,
+      "changeDollar": -7.72
     },
     {
-      "ticker": "RDTL",
-      "name": "GRANITESHARES ETF TR 2X LONG RDDT DA",
+      "ticker": "DVA",
+      "name": "DAVITA INC COM",
       "sector": "Unknown",
-      "price": 13.17,
-      "changePct": -5.93,
-      "changeDollar": -0.83
+      "price": 183.09,
+      "changePct": -5.56,
+      "changeDollar": -10.77
+    },
+    {
+      "ticker": "SPCQ",
+      "name": "Defiance Daily Target 2X Short SPCX ETF",
+      "sector": "Unknown",
+      "price": 10.32,
+      "changePct": -5.32,
+      "changeDollar": -0.58
+    },
+    {
+      "ticker": "EAT",
+      "name": "BRINKER INTL INC COM",
+      "sector": "Unknown",
+      "price": 199.56,
+      "changePct": -5.25,
+      "changeDollar": -11.05
+    },
+    {
+      "ticker": "SNK",
+      "name": "GraniteShares 2x Short SpaceX Daily ETF",
+      "sector": "Unknown",
+      "price": 13.94,
+      "changePct": -5.17,
+      "changeDollar": -0.76
     }
   ],
   "dollarGainers": [
-    {
-      "ticker": "VICR",
-      "name": "VICOR CORP COM",
-      "sector": "Unknown",
-      "price": 216.39,
-      "changePct": 17.66,
-      "changeDollar": 32.48
-    },
-    {
-      "ticker": "GNRC",
-      "name": "GENERAC HLDGS INC COM",
-      "sector": "Unknown",
-      "price": 207.23,
-      "changePct": 18.34,
-      "changeDollar": 32.12
-    },
-    {
-      "ticker": "SDGR",
-      "name": "SCHRODINGER INC COM",
-      "sector": "Unknown",
-      "price": 30.24,
-      "changePct": 26.37,
-      "changeDollar": 6.31
-    },
     {
       "ticker": "IONX",
       "name": "TIDAL TRUST II DEF LON ION ETF",
@@ -203,6 +179,30 @@
       "price": 26.35,
       "changePct": 15.27,
       "changeDollar": 3.49
+    },
+    {
+      "ticker": "SMCL",
+      "name": "GRANITESHARES ETF TR 2X LO SMCI DA ET",
+      "sector": "Unknown",
+      "price": 18.78,
+      "changePct": 19.31,
+      "changeDollar": 3.04
+    },
+    {
+      "ticker": "MUU",
+      "name": "DIREXION SHARES ETF TRUST DLY MU BULL 2X",
+      "sector": "Unknown",
+      "price": 31.28,
+      "changePct": 10.65,
+      "changeDollar": 3.01
+    },
+    {
+      "ticker": "HOOG",
+      "name": "THEMES ETF TR LEVERAGE SHS 2X",
+      "sector": "Unknown",
+      "price": 31.09,
+      "changePct": 10.29,
+      "changeDollar": 2.9
     }
   ],
   "dollarLosers": [
@@ -215,36 +215,36 @@
       "changeDollar": -20.49
     },
     {
-      "ticker": "NSIT",
-      "name": "INSIGHT ENTERPRISES INC COM",
+      "ticker": "EAT",
+      "name": "BRINKER INTL INC COM",
       "sector": "Unknown",
-      "price": 154.65,
-      "changePct": -6.38,
-      "changeDollar": -10.54
+      "price": 199.56,
+      "changePct": -5.25,
+      "changeDollar": -11.05
     },
     {
-      "ticker": "TTAN",
-      "name": "SERVICETITAN INC SHS CL A",
+      "ticker": "DVA",
+      "name": "DAVITA INC COM",
       "sector": "Unknown",
-      "price": 54.25,
-      "changePct": -7.53,
-      "changeDollar": -4.42
+      "price": 183.09,
+      "changePct": -5.56,
+      "changeDollar": -10.77
     },
     {
-      "ticker": "ALMU",
-      "name": "AELUMA INC COM",
+      "ticker": "JXN",
+      "name": "JACKSON FINANCIAL INC COM CL A",
       "sector": "Unknown",
-      "price": 11.55,
-      "changePct": -14.07,
-      "changeDollar": -1.89
+      "price": 129.38,
+      "changePct": -5.63,
+      "changeDollar": -7.72
     },
     {
-      "ticker": "DKNG",
-      "name": "DRAFTKINGS INC NEW COM CL A",
+      "ticker": "UVIX",
+      "name": "2x Long VIX Futures ETF",
       "sector": "Unknown",
-      "price": 22.47,
-      "changePct": -7.64,
-      "changeDollar": -1.86
+      "price": 37.39,
+      "changePct": -8.09,
+      "changeDollar": -3.29
     }
   ]
 }
