@@ -262,5 +262,27 @@
     "youtube_id": null,
     "images": [],
     "published": true
+  },
+  {
+    "id": 22,
+    "date": "2026-09-17",
+    "ticker": "COHR",
+    "type": "CALL",
+    "trade_id": 22,
+    "title": "COHR CALL \u2014 2026-09-17",
+    "youtube_id": null,
+    "images": [],
+    "published": true
+  },
+  {
+    "id": 23,
+    "date": "2026-09-17",
+    "ticker": "FANG",
+    "type": "PUT",
+    "trade_id": 23,
+    "title": "FANG PUT \u2014 2026-09-17",
+    "youtube_id": null,
+    "images": [],
+    "published": true
   }
 ]

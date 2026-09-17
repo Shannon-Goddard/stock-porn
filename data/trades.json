@@ -2123,6 +2123,90 @@
       },
       "exit": null,
       "fomo": null
+    },
+    {
+      "id": 22,
+      "status": "open",
+      "entry": {
+        "date": "2026-09-17",
+        "time": "15:55 PST",
+        "ticker": "COHR",
+        "name": "COHERENT CORP COM",
+        "sector": "Unknown",
+        "type": "CALL",
+        "strike": 320.0,
+        "expiration": "2026-09-18",
+        "dte_at_entry": 1,
+        "T_at_entry": 0.00274,
+        "stock_price_at_entry": 289.93,
+        "premium": 0.85,
+        "cost": 85.0,
+        "bid": 0.3,
+        "spread": 0.55,
+        "iv_at_entry": 0.8848,
+        "otm_pct": 10.37,
+        "expected_move": {
+          "one_sigma_pct": 4.63,
+          "upper": 303.36,
+          "lower": 276.5,
+          "strike_position": "outside"
+        },
+        "signal_rank": "dollar_gainer_1",
+        "signal_pct": 6.92,
+        "signal_dollar": 18.76,
+        "spy_change": NaN,
+        "macro_active": true,
+        "macro_keywords": [
+          "fed",
+          "war"
+        ],
+        "auto_note": "COHR CALL | $+18.76 (+6.92%) | dollar_gainer_1 | Strike $320.0 exp 2026-09-18 (1DTE) | IV 88.5% | SPY +nan% | MACRO: fed, war"
+      },
+      "news_scan": null,
+      "exit": null,
+      "fomo": null
+    },
+    {
+      "id": 23,
+      "status": "open",
+      "entry": {
+        "date": "2026-09-17",
+        "time": "15:55 PST",
+        "ticker": "FANG",
+        "name": "DIAMONDBACK ENERGY INC COM",
+        "sector": "Unknown",
+        "type": "PUT",
+        "strike": 185.0,
+        "expiration": "2026-09-18",
+        "dte_at_entry": 1,
+        "T_at_entry": 0.00274,
+        "stock_price_at_entry": 194.54,
+        "premium": 0.6,
+        "cost": 60.0,
+        "bid": 0.15,
+        "spread": 0.45,
+        "iv_at_entry": 0.5391,
+        "otm_pct": 4.9,
+        "expected_move": {
+          "one_sigma_pct": 2.82,
+          "upper": 200.03,
+          "lower": 189.05,
+          "strike_position": "outside"
+        },
+        "signal_rank": "dollar_loser_1",
+        "signal_pct": -8.03,
+        "signal_dollar": -16.99,
+        "spy_change": NaN,
+        "macro_active": true,
+        "macro_keywords": [
+          "fed",
+          "war"
+        ],
+        "auto_note": "FANG PUT | $-16.99 (-8.03%) | dollar_loser_1 | Strike $185.0 exp 2026-09-18 (1DTE) | IV 53.9% | SPY +nan% | MACRO: fed, war"
+      },
+      "news_scan": null,
+      "exit": null,
+      "fomo": null
     }
   ]
 }
