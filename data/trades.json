@@ -1248,58 +1248,56 @@
         "auto_note": "ALAB CALL | $+27.58 (+9.75%) | dollar_gainer_1 | Strike $390.0 exp 2026-09-11 (6DTE) | IV 88.2% | SPY +nan% | MACRO: rate hike, war"
       },
       "news_scan": {
-        "scanned_at": "2026-09-16 18:16:12 PST",
-        "gap_days": 11,
-        "ticker_sentiment": "bullish",
-        "spy_sentiment": "bearish",
+        "scanned_at": "2026-09-17 17:41:03 PST",
+        "gap_days": 12,
+        "ticker_sentiment": "neutral",
+        "spy_sentiment": "bullish",
         "spx_sentiment": "bullish",
-        "keywords_found": [
-          "surge"
-        ],
+        "keywords_found": [],
         "spy_keywords": [
-          "jumps",
-          "falls",
-          "drops"
+          "surge",
+          "jumps"
         ],
         "spx_keywords": [
-          "surge"
+          "soars"
         ],
         "decision": "hold",
-        "decision_reason": "bullish keywords confirmed CALL thesis",
+        "decision_reason": "neutral keywords confirmed CALL thesis",
         "raw_headlines": {
           "ticker": [
+            "Why Is Astera Labs (ALAB) Expanding Leo Memory Controllers For AI And Cloud?",
+            "Grab Cheers Investors With Share Repurchase Completion Plans",
             "ALAB Broadens Leo Portfolio: Can It Stay Ahead of MRVL & CRDO?",
             "Grab to Gain From Majority Stake Buyout in Atome Financial: Here's How",
             "Credo Powers AI Networks With New 1.6T ZeroFlap Optics Launch",
             "3 AI Infrastructure Stocks Institutions Love but Most Retail Investors Never Heard Of",
             "Astera Labs vs. KLA: Which Semiconductor Stock Has More Upside?",
             "Can Credo's OmniConnect Unlock a New AI Inference Growth Engine?",
-            "Why Is Astera Labs Stock Down Today?",
-            "ADI's Communications Segment Surges on AI Demand: What's Ahead?",
-            "Are Computer and Technology Stocks Lagging  Astera Labs, Inc. (ALAB) This Year?"
+            "Why Is Astera Labs Stock Down Today?"
           ],
           "spy": [
-            "Bloom Energy Gains 4% as S&P 500 Entry Nears; FuelCell Energy Ticks Up, Plug Power Slips",
-            "SoundHound AI Drops 4% as Selling Concentrates in Speculative Software Names; UiPath Falls 3%, C3.ai Dips",
-            "First Solar Retreats 5% After Dropping ITC Patent Case It Calls Procedural; Enphase Energy Slips, Sunrun Holds Steady",
-            "Robinhood Sinks 5% After Prosecutors Reportedly Charge Two Former Engineers Over Crypto Trades; Webull Drops 9%",
-            "Oil Producers Slide as Crude Retreats: EOG Resources Drops 6%, ConocoPhillips and Occidental Petroleum Fall 5%",
-            "Bitget Publishes 45th Consecutive Monthly Proof-of-Reserves Report at 122% Reserve Ratio",
-            "EV Charging Stocks Climb as Small Caps Catch a Bid: Blink Charging Jumps 6%, ChargePoint Rises 4%, EVgo Ticks Up",
-            "Red Cat Sinks 6% as Speculative Drone Names Extend Month-Long Slide; Unusual Machines Drops 4%, AeroVironment Barely Budges",
-            "Optics Stocks Rally as Oversold Bounce Takes Hold: Coherent Jumps 6%, Lumentum Climbs 5%, Applied Optoelectronics Advances 3%",
-            "Retail Sales, Imports Come In Warm Ahead of FOMC Decision"
+            "Oklo Jumps 13%, NuScale Power Climbs 10%: Does the House Data Center Power Vote Reach Nuclear?",
+            "BlackBerry Climbs 6%, Mobileye Rises 5%: Is the Software-Defined Vehicle Trade Waking Up?",
+            "Automaker Stocks Rally as Rotation Lifts Cyclicals: General Motors Climbs 4%, Stellantis Rises 4%, Ford Gains 3%, Tesla Adds 2%",
+            "Why CoreWeave Is Tumbling Hard While the Market Is Soaring",
+            "FuelCell Jumps 13% as House Shifts Data Center Power Costs to Operators; Plug Power Climbs 7%, Bloom Energy Rises 3%",
+            "Generac Surges 16% on $2.4B Amazon Data Center Generator Deal; Caterpillar Ticks Up, Cummins Sits Out the Rally",
+            "The Strategist Who Wanted 8,400 on the S&P 500 Just Cut His Number, and It Is Not Because Earnings Got Worse",
+            "Democrat Sweep Odds Just Hit a Record 60%. History Says This Is Exactly When Midterm-Year Stock Drawdowns Happen.",
+            "Worried About an AI Slowdown? Check Out the Staples.",
+            "Applied Digital and TeraWulf Climb 5% as Oversold AI Capacity Names Bounce; Cipher Digital Edges Higher"
           ],
           "spx": [
-            "The Fed Just Hiked And It Isn't Done. The S&P 500 Is Fine With It. (Live Coverage)",
-            "Stocks wobble but no sign of panic as yields surge",
-            "Bloom Energy Gains 4% as S&P 500 Entry Nears; FuelCell Energy Ticks Up, Plug Power Slips",
-            "Update: US Equity Indexes Mixed as Fed Almost Certain to Tighten Monetary Policy, Crude Oil Slumps",
-            "Carnival selloff overdone, a buying opportunity into earnings: Stifel",
-            "The Dow, S&P 500, and Nasdaq Split Ahead of a Near-Certain Rate Hike",
-            "Update: Equities Mixed Intraday Ahead of Fed Decision",
-            "Does a Fed Interest Rate Hike Make Stocks Go Down?",
-            "FEIM Stock Climbs 34% as Q1 Earnings Surge Year Over Year"
+            "Stock market today: Dow, S&P 500, Nasdaq rise as oil slips, Fed rate hike pacifies markets' inflation worries",
+            "3 Reasons We\u2019re Fans of TTM Technologies (TTMI)",
+            "Stock Market Today: Nasdaq Dwarfs Dow's Gain; This AI Chip Leader Breaks Out To All-Time High (Live Coverage)",
+            "Genpact (G): Buy, Sell, or Hold Post Q2 Earnings?",
+            "Stock Market Midday, Sept. 17: Stocks Rebound From Post Fed Sell-off, Generac soars 20%",
+            "BlackBerry Climbs 6%, Mobileye Rises 5%: Is the Software-Defined Vehicle Trade Waking Up?",
+            "Bitcoin Bounces as Markets Brace for the Fed\u2019s Next Move",
+            "3 Reasons to Sell RKT and 1 Stock to Buy Instead",
+            "3 Reasons RNST is Risky and 1 Stock to Buy Instead",
+            "Stock Market Sell-Off: Is It Really Safe to Invest Right Now? Here's What History Says."
           ]
         }
       },
@@ -1345,59 +1343,59 @@
         "auto_note": "TSLA PUT | $-22.29 (-5.92%) | dollar_loser_1 | Strike $340.0 exp 2026-09-09 (4DTE) | IV 32.4% | SPY +nan% | MACRO: rate hike, war"
       },
       "news_scan": {
-        "scanned_at": "2026-09-16 18:16:12 PST",
-        "gap_days": 11,
+        "scanned_at": "2026-09-17 17:41:03 PST",
+        "gap_days": 12,
         "ticker_sentiment": "bearish",
-        "spy_sentiment": "bearish",
+        "spy_sentiment": "bullish",
         "spx_sentiment": "bullish",
         "keywords_found": [
-          "weak"
+          "restructuring"
         ],
         "spy_keywords": [
-          "jumps",
-          "falls",
-          "drops"
+          "surge",
+          "jumps"
         ],
         "spx_keywords": [
-          "surge"
+          "soars"
         ],
         "decision": "hold",
         "decision_reason": "bearish keywords confirmed PUT thesis",
         "raw_headlines": {
           "ticker": [
             "SpaceX stock pops ahead of Starship launch",
-            "Tesla must prove Cybercab is legal to sell, NHTSA says",
-            "Starship Test: SpaceX's Quest for the Holy Grail of Rocketry",
-            "May Mobility is going public in a $1.4B SPAC deal",
-            "Elon Musk Says 'Excitement\u2019 is Guaranteed at Tesla Roadster Reveal in October: Audience Would Need to \u2018Vouch\u2019 That 'This Is Not AI'",
-            "Tesla-SpaceX Merger: Not If, But When Musk Makes It Official",
-            "Tesla Tanked This Year: One Of Tech\u2019s Biggest Bulls Says 70% Are On The Horizon",
-            "Goldman Slashes Tesla\u2019s Q3 Delivery Forecast \u2014 Says Weaker Sales Across Largest Markets May Offset Export Strength",
-            "Tesla\u2019s Cybercab Is In Trouble",
-            "Will Tesla's Long-Awaited Roadster Debut With a Radical New Design?"
+            "Elon Musk warns one AI milestone dwarfs nuclear weapons",
+            "Elon Musk sends strong message to SpaceX and Tesla investors",
+            "Automaker Stocks Rally as Rotation Lifts Cyclicals: General Motors Climbs 4%, Stellantis Rises 4%, Ford Gains 3%, Tesla Adds 2%",
+            "Jim Cramer on Tesla (TSLA): \u201cMy Only Solution to It Is That SpaceX Has to Buy It\u201d",
+            "BYD Just Reported Record Monthly Sales. Here's What That Means for Tesla Stock.",
+            "Lucid\u2019s Robotaxi Push Expands With Bolt Deal In Europe \u2014 CEO Silvio Napoli Says AlixPartners Has Concluded Restructuring Work",
+            "A Struggling Rival Shows Just How Hard it is to Challenge Tesla (TSLA)\u2019s Semi Truck",
+            "Tesla (TSLA)\u2019s Driverless Cybercab Draws a Federal Safety Probe Right Out of the Gate",
+            "Tesla expands Semi charging network with new California truck hubs"
           ],
           "spy": [
-            "Bloom Energy Gains 4% as S&P 500 Entry Nears; FuelCell Energy Ticks Up, Plug Power Slips",
-            "SoundHound AI Drops 4% as Selling Concentrates in Speculative Software Names; UiPath Falls 3%, C3.ai Dips",
-            "First Solar Retreats 5% After Dropping ITC Patent Case It Calls Procedural; Enphase Energy Slips, Sunrun Holds Steady",
-            "Robinhood Sinks 5% After Prosecutors Reportedly Charge Two Former Engineers Over Crypto Trades; Webull Drops 9%",
-            "Oil Producers Slide as Crude Retreats: EOG Resources Drops 6%, ConocoPhillips and Occidental Petroleum Fall 5%",
-            "Bitget Publishes 45th Consecutive Monthly Proof-of-Reserves Report at 122% Reserve Ratio",
-            "EV Charging Stocks Climb as Small Caps Catch a Bid: Blink Charging Jumps 6%, ChargePoint Rises 4%, EVgo Ticks Up",
-            "Red Cat Sinks 6% as Speculative Drone Names Extend Month-Long Slide; Unusual Machines Drops 4%, AeroVironment Barely Budges",
-            "Optics Stocks Rally as Oversold Bounce Takes Hold: Coherent Jumps 6%, Lumentum Climbs 5%, Applied Optoelectronics Advances 3%",
-            "Retail Sales, Imports Come In Warm Ahead of FOMC Decision"
+            "Oklo Jumps 13%, NuScale Power Climbs 10%: Does the House Data Center Power Vote Reach Nuclear?",
+            "BlackBerry Climbs 6%, Mobileye Rises 5%: Is the Software-Defined Vehicle Trade Waking Up?",
+            "Automaker Stocks Rally as Rotation Lifts Cyclicals: General Motors Climbs 4%, Stellantis Rises 4%, Ford Gains 3%, Tesla Adds 2%",
+            "Why CoreWeave Is Tumbling Hard While the Market Is Soaring",
+            "FuelCell Jumps 13% as House Shifts Data Center Power Costs to Operators; Plug Power Climbs 7%, Bloom Energy Rises 3%",
+            "Generac Surges 16% on $2.4B Amazon Data Center Generator Deal; Caterpillar Ticks Up, Cummins Sits Out the Rally",
+            "The Strategist Who Wanted 8,400 on the S&P 500 Just Cut His Number, and It Is Not Because Earnings Got Worse",
+            "Democrat Sweep Odds Just Hit a Record 60%. History Says This Is Exactly When Midterm-Year Stock Drawdowns Happen.",
+            "Worried About an AI Slowdown? Check Out the Staples.",
+            "Applied Digital and TeraWulf Climb 5% as Oversold AI Capacity Names Bounce; Cipher Digital Edges Higher"
           ],
           "spx": [
-            "The Fed Just Hiked And It Isn't Done. The S&P 500 Is Fine With It. (Live Coverage)",
-            "Stocks wobble but no sign of panic as yields surge",
-            "Bloom Energy Gains 4% as S&P 500 Entry Nears; FuelCell Energy Ticks Up, Plug Power Slips",
-            "Update: US Equity Indexes Mixed as Fed Almost Certain to Tighten Monetary Policy, Crude Oil Slumps",
-            "Carnival selloff overdone, a buying opportunity into earnings: Stifel",
-            "The Dow, S&P 500, and Nasdaq Split Ahead of a Near-Certain Rate Hike",
-            "Update: Equities Mixed Intraday Ahead of Fed Decision",
-            "Does a Fed Interest Rate Hike Make Stocks Go Down?",
-            "FEIM Stock Climbs 34% as Q1 Earnings Surge Year Over Year"
+            "Stock market today: Dow, S&P 500, Nasdaq rise as oil slips, Fed rate hike pacifies markets' inflation worries",
+            "3 Reasons We\u2019re Fans of TTM Technologies (TTMI)",
+            "Stock Market Today: Nasdaq Dwarfs Dow's Gain; This AI Chip Leader Breaks Out To All-Time High (Live Coverage)",
+            "Genpact (G): Buy, Sell, or Hold Post Q2 Earnings?",
+            "Stock Market Midday, Sept. 17: Stocks Rebound From Post Fed Sell-off, Generac soars 20%",
+            "BlackBerry Climbs 6%, Mobileye Rises 5%: Is the Software-Defined Vehicle Trade Waking Up?",
+            "Bitcoin Bounces as Markets Brace for the Fed\u2019s Next Move",
+            "3 Reasons to Sell RKT and 1 Stock to Buy Instead",
+            "3 Reasons RNST is Risky and 1 Stock to Buy Instead",
+            "Stock Market Sell-Off: Is It Really Safe to Invest Right Now? Here's What History Says."
           ]
         }
       },
@@ -1440,52 +1438,55 @@
         "auto_note": "DDOG CALL | $+15.04 (+7.15%) | dollar_gainer_1 | Strike $240.0 exp 2026-09-11 (1DTE) | IV 68.4% | SPY +nan% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-09-16 18:16:12 PST",
-        "gap_days": 6,
+        "scanned_at": "2026-09-17 17:41:03 PST",
+        "gap_days": 7,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bearish",
+        "spy_sentiment": "bullish",
         "spx_sentiment": "bullish",
         "keywords_found": [],
         "spy_keywords": [
-          "jumps",
-          "falls",
-          "drops"
+          "surge",
+          "jumps"
         ],
         "spx_keywords": [
-          "surge"
+          "soars"
         ],
-        "decision": "sell",
-        "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
+        "decision": "hold",
+        "decision_reason": "neutral keywords confirmed CALL thesis",
         "raw_headlines": {
           "ticker": [
+            "Datadog's Enterprise Customer Expansion Accelerates: What's Ahead?",
+            "2 Software Stocks on Our Watchlist and 1 Facing Challenges",
+            "3 Cybersecurity Stocks With AI Risk Demand Investors Should Watch",
+            "Datadog's Chief Product Officer Sells 12,700 Shares for $2.8 Million as the Stock Delivers a 59% One-Year Return",
             "Datadog (DDOG) Stock Could Be A Bargain On Cash Flow",
             "CSCO's Splunk AI Push Gains Momentum: Can It Outpace DDOG & CRWD?",
             "Is Analyst Optimism Enough To Justify Datadog\u2019s (DDOG) Premium Valuation In Observability And Security?",
-            "How Is Datadog\u2019s Stock Performance Compared to Other Cloud Computing Stocks",
-            "Investors Heavily Search Datadog, Inc. (DDOG): Here is What You Need to Know"
+            "How Is Datadog\u2019s Stock Performance Compared to Other Cloud Computing Stocks"
           ],
           "spy": [
-            "Bloom Energy Gains 4% as S&P 500 Entry Nears; FuelCell Energy Ticks Up, Plug Power Slips",
-            "SoundHound AI Drops 4% as Selling Concentrates in Speculative Software Names; UiPath Falls 3%, C3.ai Dips",
-            "First Solar Retreats 5% After Dropping ITC Patent Case It Calls Procedural; Enphase Energy Slips, Sunrun Holds Steady",
-            "Robinhood Sinks 5% After Prosecutors Reportedly Charge Two Former Engineers Over Crypto Trades; Webull Drops 9%",
-            "Oil Producers Slide as Crude Retreats: EOG Resources Drops 6%, ConocoPhillips and Occidental Petroleum Fall 5%",
-            "Bitget Publishes 45th Consecutive Monthly Proof-of-Reserves Report at 122% Reserve Ratio",
-            "EV Charging Stocks Climb as Small Caps Catch a Bid: Blink Charging Jumps 6%, ChargePoint Rises 4%, EVgo Ticks Up",
-            "Red Cat Sinks 6% as Speculative Drone Names Extend Month-Long Slide; Unusual Machines Drops 4%, AeroVironment Barely Budges",
-            "Optics Stocks Rally as Oversold Bounce Takes Hold: Coherent Jumps 6%, Lumentum Climbs 5%, Applied Optoelectronics Advances 3%",
-            "Retail Sales, Imports Come In Warm Ahead of FOMC Decision"
+            "Oklo Jumps 13%, NuScale Power Climbs 10%: Does the House Data Center Power Vote Reach Nuclear?",
+            "BlackBerry Climbs 6%, Mobileye Rises 5%: Is the Software-Defined Vehicle Trade Waking Up?",
+            "Automaker Stocks Rally as Rotation Lifts Cyclicals: General Motors Climbs 4%, Stellantis Rises 4%, Ford Gains 3%, Tesla Adds 2%",
+            "Why CoreWeave Is Tumbling Hard While the Market Is Soaring",
+            "FuelCell Jumps 13% as House Shifts Data Center Power Costs to Operators; Plug Power Climbs 7%, Bloom Energy Rises 3%",
+            "Generac Surges 16% on $2.4B Amazon Data Center Generator Deal; Caterpillar Ticks Up, Cummins Sits Out the Rally",
+            "The Strategist Who Wanted 8,400 on the S&P 500 Just Cut His Number, and It Is Not Because Earnings Got Worse",
+            "Democrat Sweep Odds Just Hit a Record 60%. History Says This Is Exactly When Midterm-Year Stock Drawdowns Happen.",
+            "Worried About an AI Slowdown? Check Out the Staples.",
+            "Applied Digital and TeraWulf Climb 5% as Oversold AI Capacity Names Bounce; Cipher Digital Edges Higher"
           ],
           "spx": [
-            "The Fed Just Hiked And It Isn't Done. The S&P 500 Is Fine With It. (Live Coverage)",
-            "Stocks wobble but no sign of panic as yields surge",
-            "Bloom Energy Gains 4% as S&P 500 Entry Nears; FuelCell Energy Ticks Up, Plug Power Slips",
-            "Update: US Equity Indexes Mixed as Fed Almost Certain to Tighten Monetary Policy, Crude Oil Slumps",
-            "Carnival selloff overdone, a buying opportunity into earnings: Stifel",
-            "The Dow, S&P 500, and Nasdaq Split Ahead of a Near-Certain Rate Hike",
-            "Update: Equities Mixed Intraday Ahead of Fed Decision",
-            "Does a Fed Interest Rate Hike Make Stocks Go Down?",
-            "FEIM Stock Climbs 34% as Q1 Earnings Surge Year Over Year"
+            "Stock market today: Dow, S&P 500, Nasdaq rise as oil slips, Fed rate hike pacifies markets' inflation worries",
+            "3 Reasons We\u2019re Fans of TTM Technologies (TTMI)",
+            "Stock Market Today: Nasdaq Dwarfs Dow's Gain; This AI Chip Leader Breaks Out To All-Time High (Live Coverage)",
+            "Genpact (G): Buy, Sell, or Hold Post Q2 Earnings?",
+            "Stock Market Midday, Sept. 17: Stocks Rebound From Post Fed Sell-off, Generac soars 20%",
+            "BlackBerry Climbs 6%, Mobileye Rises 5%: Is the Software-Defined Vehicle Trade Waking Up?",
+            "Bitcoin Bounces as Markets Brace for the Fed\u2019s Next Move",
+            "3 Reasons to Sell RKT and 1 Stock to Buy Instead",
+            "3 Reasons RNST is Risky and 1 Stock to Buy Instead",
+            "Stock Market Sell-Off: Is It Really Safe to Invest Right Now? Here's What History Says."
           ]
         }
       },
@@ -1531,46 +1532,46 @@
         "auto_note": "RGTZ CALL | $+14.18 (+402.84%) | dollar_gainer_1 | Strike $8.0 exp 2026-09-18 (7DTE) | IV 0.0% | SPY +nan% | MACRO: rate hike, china"
       },
       "news_scan": {
-        "scanned_at": "2026-09-16 18:16:12 PST",
-        "gap_days": 5,
+        "scanned_at": "2026-09-17 17:41:03 PST",
+        "gap_days": 6,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bearish",
+        "spy_sentiment": "bullish",
         "spx_sentiment": "bullish",
         "keywords_found": [],
         "spy_keywords": [
-          "jumps",
-          "falls",
-          "drops"
+          "surge",
+          "jumps"
         ],
         "spx_keywords": [
-          "surge"
+          "soars"
         ],
-        "decision": "sell",
-        "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
+        "decision": "hold",
+        "decision_reason": "neutral keywords confirmed CALL thesis",
         "raw_headlines": {
           "ticker": [],
           "spy": [
-            "Bloom Energy Gains 4% as S&P 500 Entry Nears; FuelCell Energy Ticks Up, Plug Power Slips",
-            "SoundHound AI Drops 4% as Selling Concentrates in Speculative Software Names; UiPath Falls 3%, C3.ai Dips",
-            "First Solar Retreats 5% After Dropping ITC Patent Case It Calls Procedural; Enphase Energy Slips, Sunrun Holds Steady",
-            "Robinhood Sinks 5% After Prosecutors Reportedly Charge Two Former Engineers Over Crypto Trades; Webull Drops 9%",
-            "Oil Producers Slide as Crude Retreats: EOG Resources Drops 6%, ConocoPhillips and Occidental Petroleum Fall 5%",
-            "Bitget Publishes 45th Consecutive Monthly Proof-of-Reserves Report at 122% Reserve Ratio",
-            "EV Charging Stocks Climb as Small Caps Catch a Bid: Blink Charging Jumps 6%, ChargePoint Rises 4%, EVgo Ticks Up",
-            "Red Cat Sinks 6% as Speculative Drone Names Extend Month-Long Slide; Unusual Machines Drops 4%, AeroVironment Barely Budges",
-            "Optics Stocks Rally as Oversold Bounce Takes Hold: Coherent Jumps 6%, Lumentum Climbs 5%, Applied Optoelectronics Advances 3%",
-            "Retail Sales, Imports Come In Warm Ahead of FOMC Decision"
+            "Oklo Jumps 13%, NuScale Power Climbs 10%: Does the House Data Center Power Vote Reach Nuclear?",
+            "BlackBerry Climbs 6%, Mobileye Rises 5%: Is the Software-Defined Vehicle Trade Waking Up?",
+            "Automaker Stocks Rally as Rotation Lifts Cyclicals: General Motors Climbs 4%, Stellantis Rises 4%, Ford Gains 3%, Tesla Adds 2%",
+            "Why CoreWeave Is Tumbling Hard While the Market Is Soaring",
+            "FuelCell Jumps 13% as House Shifts Data Center Power Costs to Operators; Plug Power Climbs 7%, Bloom Energy Rises 3%",
+            "Generac Surges 16% on $2.4B Amazon Data Center Generator Deal; Caterpillar Ticks Up, Cummins Sits Out the Rally",
+            "The Strategist Who Wanted 8,400 on the S&P 500 Just Cut His Number, and It Is Not Because Earnings Got Worse",
+            "Democrat Sweep Odds Just Hit a Record 60%. History Says This Is Exactly When Midterm-Year Stock Drawdowns Happen.",
+            "Worried About an AI Slowdown? Check Out the Staples.",
+            "Applied Digital and TeraWulf Climb 5% as Oversold AI Capacity Names Bounce; Cipher Digital Edges Higher"
           ],
           "spx": [
-            "The Fed Just Hiked And It Isn't Done. The S&P 500 Is Fine With It. (Live Coverage)",
-            "Stocks wobble but no sign of panic as yields surge",
-            "Bloom Energy Gains 4% as S&P 500 Entry Nears; FuelCell Energy Ticks Up, Plug Power Slips",
-            "Update: US Equity Indexes Mixed as Fed Almost Certain to Tighten Monetary Policy, Crude Oil Slumps",
-            "Carnival selloff overdone, a buying opportunity into earnings: Stifel",
-            "The Dow, S&P 500, and Nasdaq Split Ahead of a Near-Certain Rate Hike",
-            "Update: Equities Mixed Intraday Ahead of Fed Decision",
-            "Does a Fed Interest Rate Hike Make Stocks Go Down?",
-            "FEIM Stock Climbs 34% as Q1 Earnings Surge Year Over Year"
+            "Stock market today: Dow, S&P 500, Nasdaq rise as oil slips, Fed rate hike pacifies markets' inflation worries",
+            "3 Reasons We\u2019re Fans of TTM Technologies (TTMI)",
+            "Stock Market Today: Nasdaq Dwarfs Dow's Gain; This AI Chip Leader Breaks Out To All-Time High (Live Coverage)",
+            "Genpact (G): Buy, Sell, or Hold Post Q2 Earnings?",
+            "Stock Market Midday, Sept. 17: Stocks Rebound From Post Fed Sell-off, Generac soars 20%",
+            "BlackBerry Climbs 6%, Mobileye Rises 5%: Is the Software-Defined Vehicle Trade Waking Up?",
+            "Bitcoin Bounces as Markets Brace for the Fed\u2019s Next Move",
+            "3 Reasons to Sell RKT and 1 Stock to Buy Instead",
+            "3 Reasons RNST is Risky and 1 Stock to Buy Instead",
+            "Stock Market Sell-Off: Is It Really Safe to Invest Right Now? Here's What History Says."
           ]
         }
       },
@@ -1615,48 +1616,53 @@
         "auto_note": "VICR CALL | $+19.86 (+11.15%) | dollar_gainer_1 | Strike $240.0 exp 2026-09-18 (6DTE) | IV 86.0% | SPY +nan% | MACRO: fed"
       },
       "news_scan": {
-        "scanned_at": "2026-09-16 18:16:12 PST",
-        "gap_days": 4,
+        "scanned_at": "2026-09-17 17:41:03 PST",
+        "gap_days": 5,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bearish",
+        "spy_sentiment": "bullish",
         "spx_sentiment": "bullish",
         "keywords_found": [],
         "spy_keywords": [
-          "jumps",
-          "falls",
-          "drops"
+          "surge",
+          "jumps"
         ],
         "spx_keywords": [
-          "surge"
+          "soars"
         ],
-        "decision": "sell",
-        "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
+        "decision": "hold",
+        "decision_reason": "neutral keywords confirmed CALL thesis",
         "raw_headlines": {
           "ticker": [
-            "Is it the Right Time to Buy TTMI Stock at a P/S Multiple of 2.59X?"
+            "3 Stocks Put Traders Are Targeting Today",
+            "Why Is Vicor Stock Surging Thursday?",
+            "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Thursday Amid Economic Data, Fed Rate Hike",
+            "Vicor Shares Rise 11% Following AI Power Delivery Technology Licensing Agreement",
+            "Why Is VICR Stock Jumping Over 10% Overnight?",
+            "Vicor (VICR) Plans Two More ChiP Fabs. Can Utilization Justify Expansion?"
           ],
           "spy": [
-            "Bloom Energy Gains 4% as S&P 500 Entry Nears; FuelCell Energy Ticks Up, Plug Power Slips",
-            "SoundHound AI Drops 4% as Selling Concentrates in Speculative Software Names; UiPath Falls 3%, C3.ai Dips",
-            "First Solar Retreats 5% After Dropping ITC Patent Case It Calls Procedural; Enphase Energy Slips, Sunrun Holds Steady",
-            "Robinhood Sinks 5% After Prosecutors Reportedly Charge Two Former Engineers Over Crypto Trades; Webull Drops 9%",
-            "Oil Producers Slide as Crude Retreats: EOG Resources Drops 6%, ConocoPhillips and Occidental Petroleum Fall 5%",
-            "Bitget Publishes 45th Consecutive Monthly Proof-of-Reserves Report at 122% Reserve Ratio",
-            "EV Charging Stocks Climb as Small Caps Catch a Bid: Blink Charging Jumps 6%, ChargePoint Rises 4%, EVgo Ticks Up",
-            "Red Cat Sinks 6% as Speculative Drone Names Extend Month-Long Slide; Unusual Machines Drops 4%, AeroVironment Barely Budges",
-            "Optics Stocks Rally as Oversold Bounce Takes Hold: Coherent Jumps 6%, Lumentum Climbs 5%, Applied Optoelectronics Advances 3%",
-            "Retail Sales, Imports Come In Warm Ahead of FOMC Decision"
+            "Oklo Jumps 13%, NuScale Power Climbs 10%: Does the House Data Center Power Vote Reach Nuclear?",
+            "BlackBerry Climbs 6%, Mobileye Rises 5%: Is the Software-Defined Vehicle Trade Waking Up?",
+            "Automaker Stocks Rally as Rotation Lifts Cyclicals: General Motors Climbs 4%, Stellantis Rises 4%, Ford Gains 3%, Tesla Adds 2%",
+            "Why CoreWeave Is Tumbling Hard While the Market Is Soaring",
+            "FuelCell Jumps 13% as House Shifts Data Center Power Costs to Operators; Plug Power Climbs 7%, Bloom Energy Rises 3%",
+            "Generac Surges 16% on $2.4B Amazon Data Center Generator Deal; Caterpillar Ticks Up, Cummins Sits Out the Rally",
+            "The Strategist Who Wanted 8,400 on the S&P 500 Just Cut His Number, and It Is Not Because Earnings Got Worse",
+            "Democrat Sweep Odds Just Hit a Record 60%. History Says This Is Exactly When Midterm-Year Stock Drawdowns Happen.",
+            "Worried About an AI Slowdown? Check Out the Staples.",
+            "Applied Digital and TeraWulf Climb 5% as Oversold AI Capacity Names Bounce; Cipher Digital Edges Higher"
           ],
           "spx": [
-            "The Fed Just Hiked And It Isn't Done. The S&P 500 Is Fine With It. (Live Coverage)",
-            "Stocks wobble but no sign of panic as yields surge",
-            "Bloom Energy Gains 4% as S&P 500 Entry Nears; FuelCell Energy Ticks Up, Plug Power Slips",
-            "Update: US Equity Indexes Mixed as Fed Almost Certain to Tighten Monetary Policy, Crude Oil Slumps",
-            "Carnival selloff overdone, a buying opportunity into earnings: Stifel",
-            "The Dow, S&P 500, and Nasdaq Split Ahead of a Near-Certain Rate Hike",
-            "Update: Equities Mixed Intraday Ahead of Fed Decision",
-            "Does a Fed Interest Rate Hike Make Stocks Go Down?",
-            "FEIM Stock Climbs 34% as Q1 Earnings Surge Year Over Year"
+            "Stock market today: Dow, S&P 500, Nasdaq rise as oil slips, Fed rate hike pacifies markets' inflation worries",
+            "3 Reasons We\u2019re Fans of TTM Technologies (TTMI)",
+            "Stock Market Today: Nasdaq Dwarfs Dow's Gain; This AI Chip Leader Breaks Out To All-Time High (Live Coverage)",
+            "Genpact (G): Buy, Sell, or Hold Post Q2 Earnings?",
+            "Stock Market Midday, Sept. 17: Stocks Rebound From Post Fed Sell-off, Generac soars 20%",
+            "BlackBerry Climbs 6%, Mobileye Rises 5%: Is the Software-Defined Vehicle Trade Waking Up?",
+            "Bitcoin Bounces as Markets Brace for the Fed\u2019s Next Move",
+            "3 Reasons to Sell RKT and 1 Stock to Buy Instead",
+            "3 Reasons RNST is Risky and 1 Stock to Buy Instead",
+            "Stock Market Sell-Off: Is It Really Safe to Invest Right Now? Here's What History Says."
           ]
         }
       },
@@ -1701,46 +1707,48 @@
         "auto_note": "LEU PUT | $-13.56 (-8.18%) | dollar_loser_1 | Strike $135.0 exp 2026-09-18 (6DTE) | IV 56.5% | SPY +nan% | MACRO: fed"
       },
       "news_scan": {
-        "scanned_at": "2026-09-16 18:16:12 PST",
-        "gap_days": 4,
+        "scanned_at": "2026-09-17 17:41:03 PST",
+        "gap_days": 5,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bearish",
+        "spy_sentiment": "bullish",
         "spx_sentiment": "bullish",
         "keywords_found": [],
         "spy_keywords": [
-          "jumps",
-          "falls",
-          "drops"
+          "surge",
+          "jumps"
         ],
         "spx_keywords": [
-          "surge"
+          "soars"
         ],
-        "decision": "hold",
-        "decision_reason": "neutral keywords confirmed PUT thesis",
+        "decision": "sell",
+        "decision_reason": "no confirmation for PUT thesis \u2014 sell at open",
         "raw_headlines": {
-          "ticker": [],
+          "ticker": [
+            "The Nuclear Stock Boom Could Keep Decaying"
+          ],
           "spy": [
-            "Bloom Energy Gains 4% as S&P 500 Entry Nears; FuelCell Energy Ticks Up, Plug Power Slips",
-            "SoundHound AI Drops 4% as Selling Concentrates in Speculative Software Names; UiPath Falls 3%, C3.ai Dips",
-            "First Solar Retreats 5% After Dropping ITC Patent Case It Calls Procedural; Enphase Energy Slips, Sunrun Holds Steady",
-            "Robinhood Sinks 5% After Prosecutors Reportedly Charge Two Former Engineers Over Crypto Trades; Webull Drops 9%",
-            "Oil Producers Slide as Crude Retreats: EOG Resources Drops 6%, ConocoPhillips and Occidental Petroleum Fall 5%",
-            "Bitget Publishes 45th Consecutive Monthly Proof-of-Reserves Report at 122% Reserve Ratio",
-            "EV Charging Stocks Climb as Small Caps Catch a Bid: Blink Charging Jumps 6%, ChargePoint Rises 4%, EVgo Ticks Up",
-            "Red Cat Sinks 6% as Speculative Drone Names Extend Month-Long Slide; Unusual Machines Drops 4%, AeroVironment Barely Budges",
-            "Optics Stocks Rally as Oversold Bounce Takes Hold: Coherent Jumps 6%, Lumentum Climbs 5%, Applied Optoelectronics Advances 3%",
-            "Retail Sales, Imports Come In Warm Ahead of FOMC Decision"
+            "Oklo Jumps 13%, NuScale Power Climbs 10%: Does the House Data Center Power Vote Reach Nuclear?",
+            "BlackBerry Climbs 6%, Mobileye Rises 5%: Is the Software-Defined Vehicle Trade Waking Up?",
+            "Automaker Stocks Rally as Rotation Lifts Cyclicals: General Motors Climbs 4%, Stellantis Rises 4%, Ford Gains 3%, Tesla Adds 2%",
+            "Why CoreWeave Is Tumbling Hard While the Market Is Soaring",
+            "FuelCell Jumps 13% as House Shifts Data Center Power Costs to Operators; Plug Power Climbs 7%, Bloom Energy Rises 3%",
+            "Generac Surges 16% on $2.4B Amazon Data Center Generator Deal; Caterpillar Ticks Up, Cummins Sits Out the Rally",
+            "The Strategist Who Wanted 8,400 on the S&P 500 Just Cut His Number, and It Is Not Because Earnings Got Worse",
+            "Democrat Sweep Odds Just Hit a Record 60%. History Says This Is Exactly When Midterm-Year Stock Drawdowns Happen.",
+            "Worried About an AI Slowdown? Check Out the Staples.",
+            "Applied Digital and TeraWulf Climb 5% as Oversold AI Capacity Names Bounce; Cipher Digital Edges Higher"
           ],
           "spx": [
-            "The Fed Just Hiked And It Isn't Done. The S&P 500 Is Fine With It. (Live Coverage)",
-            "Stocks wobble but no sign of panic as yields surge",
-            "Bloom Energy Gains 4% as S&P 500 Entry Nears; FuelCell Energy Ticks Up, Plug Power Slips",
-            "Update: US Equity Indexes Mixed as Fed Almost Certain to Tighten Monetary Policy, Crude Oil Slumps",
-            "Carnival selloff overdone, a buying opportunity into earnings: Stifel",
-            "The Dow, S&P 500, and Nasdaq Split Ahead of a Near-Certain Rate Hike",
-            "Update: Equities Mixed Intraday Ahead of Fed Decision",
-            "Does a Fed Interest Rate Hike Make Stocks Go Down?",
-            "FEIM Stock Climbs 34% as Q1 Earnings Surge Year Over Year"
+            "Stock market today: Dow, S&P 500, Nasdaq rise as oil slips, Fed rate hike pacifies markets' inflation worries",
+            "3 Reasons We\u2019re Fans of TTM Technologies (TTMI)",
+            "Stock Market Today: Nasdaq Dwarfs Dow's Gain; This AI Chip Leader Breaks Out To All-Time High (Live Coverage)",
+            "Genpact (G): Buy, Sell, or Hold Post Q2 Earnings?",
+            "Stock Market Midday, Sept. 17: Stocks Rebound From Post Fed Sell-off, Generac soars 20%",
+            "BlackBerry Climbs 6%, Mobileye Rises 5%: Is the Software-Defined Vehicle Trade Waking Up?",
+            "Bitcoin Bounces as Markets Brace for the Fed\u2019s Next Move",
+            "3 Reasons to Sell RKT and 1 Stock to Buy Instead",
+            "3 Reasons RNST is Risky and 1 Stock to Buy Instead",
+            "Stock Market Sell-Off: Is It Really Safe to Invest Right Now? Here's What History Says."
           ]
         }
       },
@@ -1783,59 +1791,62 @@
         "auto_note": "PANW CALL | $+43.29 (+13.09%) | dollar_gainer_1 | Strike $420.0 exp 2026-09-18 (3DTE) | IV 71.1% | SPY +nan% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-09-16 18:16:12 PST",
-        "gap_days": 1,
-        "ticker_sentiment": "bearish",
-        "spy_sentiment": "bearish",
+        "scanned_at": "2026-09-17 17:41:03 PST",
+        "gap_days": 2,
+        "ticker_sentiment": "neutral",
+        "spy_sentiment": "bullish",
         "spx_sentiment": "bullish",
         "keywords_found": [
-          "concern"
+          "upgrade",
+          "upgraded",
+          "downgrade",
+          "downgraded"
         ],
         "spy_keywords": [
-          "jumps",
-          "falls",
-          "drops"
+          "surge",
+          "jumps"
         ],
         "spx_keywords": [
-          "surge"
+          "soars"
         ],
-        "decision": "sell",
-        "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
+        "decision": "hold",
+        "decision_reason": "neutral keywords confirmed CALL thesis",
         "raw_headlines": {
           "ticker": [
+            "Can Palo Alto Networks' SASE Push Help It Challenge FTNT and ZS?",
+            "Semiconductor Stocks Just Tumbled. This Tech ETF Soared 6% Instead. Here's Why.",
+            "Lyft downgraded, Trip.com upgraded: Wall Street's top analyst calls",
             "'Agents are like teenagers': Security must keep pace with AI, Cisco president says",
+            "The Ultimate Cyber Shield: CrowdStrike Rises Past $235",
             "Dow Jones Futures Rise As Oil Prices, Yields Fall Before Fed Rate Hike; Will Market Rally Bid Bond Voyage?",
             "CRWD, PANW Stocks Extend AI-Fueled Rally As Cybersecurity Bets Outpace Software",
             "What Growth Are You Paying For In Zscaler Stock?",
             "What Are You Actually Buying In Cloudflare Stock?",
-            "Why Did Cisco Stop Leading With Its Campus Refresh?",
-            "Palo Alto Networks (PANW) Is Up 12.2% After New AI Guidance And Capital Moves - Has The Bull Case Changed?",
-            "How Much Slowdown Is Rubrik Stock Priced For?",
-            "CrowdStrike Advances 3% as the AI Security Bid Outruns a Falling Tech Tape; Okta Ticks Up, Palo Alto Barely Budges",
-            "Time to Boost Cybersecurity ETF Exposure as AI Safety Concerns Rise"
+            "Why Did Cisco Stop Leading With Its Campus Refresh?"
           ],
           "spy": [
-            "Bloom Energy Gains 4% as S&P 500 Entry Nears; FuelCell Energy Ticks Up, Plug Power Slips",
-            "SoundHound AI Drops 4% as Selling Concentrates in Speculative Software Names; UiPath Falls 3%, C3.ai Dips",
-            "First Solar Retreats 5% After Dropping ITC Patent Case It Calls Procedural; Enphase Energy Slips, Sunrun Holds Steady",
-            "Robinhood Sinks 5% After Prosecutors Reportedly Charge Two Former Engineers Over Crypto Trades; Webull Drops 9%",
-            "Oil Producers Slide as Crude Retreats: EOG Resources Drops 6%, ConocoPhillips and Occidental Petroleum Fall 5%",
-            "Bitget Publishes 45th Consecutive Monthly Proof-of-Reserves Report at 122% Reserve Ratio",
-            "EV Charging Stocks Climb as Small Caps Catch a Bid: Blink Charging Jumps 6%, ChargePoint Rises 4%, EVgo Ticks Up",
-            "Red Cat Sinks 6% as Speculative Drone Names Extend Month-Long Slide; Unusual Machines Drops 4%, AeroVironment Barely Budges",
-            "Optics Stocks Rally as Oversold Bounce Takes Hold: Coherent Jumps 6%, Lumentum Climbs 5%, Applied Optoelectronics Advances 3%",
-            "Retail Sales, Imports Come In Warm Ahead of FOMC Decision"
+            "Oklo Jumps 13%, NuScale Power Climbs 10%: Does the House Data Center Power Vote Reach Nuclear?",
+            "BlackBerry Climbs 6%, Mobileye Rises 5%: Is the Software-Defined Vehicle Trade Waking Up?",
+            "Automaker Stocks Rally as Rotation Lifts Cyclicals: General Motors Climbs 4%, Stellantis Rises 4%, Ford Gains 3%, Tesla Adds 2%",
+            "Why CoreWeave Is Tumbling Hard While the Market Is Soaring",
+            "FuelCell Jumps 13% as House Shifts Data Center Power Costs to Operators; Plug Power Climbs 7%, Bloom Energy Rises 3%",
+            "Generac Surges 16% on $2.4B Amazon Data Center Generator Deal; Caterpillar Ticks Up, Cummins Sits Out the Rally",
+            "The Strategist Who Wanted 8,400 on the S&P 500 Just Cut His Number, and It Is Not Because Earnings Got Worse",
+            "Democrat Sweep Odds Just Hit a Record 60%. History Says This Is Exactly When Midterm-Year Stock Drawdowns Happen.",
+            "Worried About an AI Slowdown? Check Out the Staples.",
+            "Applied Digital and TeraWulf Climb 5% as Oversold AI Capacity Names Bounce; Cipher Digital Edges Higher"
           ],
           "spx": [
-            "The Fed Just Hiked And It Isn't Done. The S&P 500 Is Fine With It. (Live Coverage)",
-            "Stocks wobble but no sign of panic as yields surge",
-            "Bloom Energy Gains 4% as S&P 500 Entry Nears; FuelCell Energy Ticks Up, Plug Power Slips",
-            "Update: US Equity Indexes Mixed as Fed Almost Certain to Tighten Monetary Policy, Crude Oil Slumps",
-            "Carnival selloff overdone, a buying opportunity into earnings: Stifel",
-            "The Dow, S&P 500, and Nasdaq Split Ahead of a Near-Certain Rate Hike",
-            "Update: Equities Mixed Intraday Ahead of Fed Decision",
-            "Does a Fed Interest Rate Hike Make Stocks Go Down?",
-            "FEIM Stock Climbs 34% as Q1 Earnings Surge Year Over Year"
+            "Stock market today: Dow, S&P 500, Nasdaq rise as oil slips, Fed rate hike pacifies markets' inflation worries",
+            "3 Reasons We\u2019re Fans of TTM Technologies (TTMI)",
+            "Stock Market Today: Nasdaq Dwarfs Dow's Gain; This AI Chip Leader Breaks Out To All-Time High (Live Coverage)",
+            "Genpact (G): Buy, Sell, or Hold Post Q2 Earnings?",
+            "Stock Market Midday, Sept. 17: Stocks Rebound From Post Fed Sell-off, Generac soars 20%",
+            "BlackBerry Climbs 6%, Mobileye Rises 5%: Is the Software-Defined Vehicle Trade Waking Up?",
+            "Bitcoin Bounces as Markets Brace for the Fed\u2019s Next Move",
+            "3 Reasons to Sell RKT and 1 Stock to Buy Instead",
+            "3 Reasons RNST is Risky and 1 Stock to Buy Instead",
+            "Stock Market Sell-Off: Is It Really Safe to Invest Right Now? Here's What History Says."
           ]
         }
       },
@@ -1878,24 +1889,24 @@
         "auto_note": "TER PUT | $-50.52 (-13.30%) | dollar_loser_1 | Strike $280.0 exp 2026-09-18 (3DTE) | IV 90.0% | SPY +nan% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-09-16 18:16:12 PST",
-        "gap_days": 1,
+        "scanned_at": "2026-09-17 17:41:03 PST",
+        "gap_days": 2,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bearish",
+        "spy_sentiment": "bullish",
         "spx_sentiment": "bullish",
         "keywords_found": [],
         "spy_keywords": [
-          "jumps",
-          "falls",
-          "drops"
+          "surge",
+          "jumps"
         ],
         "spx_keywords": [
-          "surge"
+          "soars"
         ],
-        "decision": "hold",
-        "decision_reason": "neutral keywords confirmed PUT thesis",
+        "decision": "sell",
+        "decision_reason": "no confirmation for PUT thesis \u2014 sell at open",
         "raw_headlines": {
           "ticker": [
+            "Teradyne (TER) Advances While Market Declines: Some Information for Investors",
             "ASX vs. TER: Which AI Semiconductor Stock Should You Buy Right Now?",
             "How Is Teradyne Stock Performance Compared to Other Semiconductor Stocks",
             "Teradyne Looks Expensive Until You Price The AI Chips It Has Not Tested Yet",
@@ -1904,31 +1915,31 @@
             "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Tuesday as Traders Prepare for Fed Meeting",
             "Update: US Equity Futures Drop Pre-Bell as 10-Year Treasury Yield Surpasses 5% Ahead of Fed Decision",
             "Lattice Semiconductor, Amkor, Himax, Teradyne, and Entegris Stocks Trade Down, What You Need To Know",
-            "Is Teradyne Stock Asking Too Much Of Its Test Business?",
-            "Which Tech Stocks Are Getting Hit Hardest Today"
+            "Is Teradyne Stock Asking Too Much Of Its Test Business?"
           ],
           "spy": [
-            "Bloom Energy Gains 4% as S&P 500 Entry Nears; FuelCell Energy Ticks Up, Plug Power Slips",
-            "SoundHound AI Drops 4% as Selling Concentrates in Speculative Software Names; UiPath Falls 3%, C3.ai Dips",
-            "First Solar Retreats 5% After Dropping ITC Patent Case It Calls Procedural; Enphase Energy Slips, Sunrun Holds Steady",
-            "Robinhood Sinks 5% After Prosecutors Reportedly Charge Two Former Engineers Over Crypto Trades; Webull Drops 9%",
-            "Oil Producers Slide as Crude Retreats: EOG Resources Drops 6%, ConocoPhillips and Occidental Petroleum Fall 5%",
-            "Bitget Publishes 45th Consecutive Monthly Proof-of-Reserves Report at 122% Reserve Ratio",
-            "EV Charging Stocks Climb as Small Caps Catch a Bid: Blink Charging Jumps 6%, ChargePoint Rises 4%, EVgo Ticks Up",
-            "Red Cat Sinks 6% as Speculative Drone Names Extend Month-Long Slide; Unusual Machines Drops 4%, AeroVironment Barely Budges",
-            "Optics Stocks Rally as Oversold Bounce Takes Hold: Coherent Jumps 6%, Lumentum Climbs 5%, Applied Optoelectronics Advances 3%",
-            "Retail Sales, Imports Come In Warm Ahead of FOMC Decision"
+            "Oklo Jumps 13%, NuScale Power Climbs 10%: Does the House Data Center Power Vote Reach Nuclear?",
+            "BlackBerry Climbs 6%, Mobileye Rises 5%: Is the Software-Defined Vehicle Trade Waking Up?",
+            "Automaker Stocks Rally as Rotation Lifts Cyclicals: General Motors Climbs 4%, Stellantis Rises 4%, Ford Gains 3%, Tesla Adds 2%",
+            "Why CoreWeave Is Tumbling Hard While the Market Is Soaring",
+            "FuelCell Jumps 13% as House Shifts Data Center Power Costs to Operators; Plug Power Climbs 7%, Bloom Energy Rises 3%",
+            "Generac Surges 16% on $2.4B Amazon Data Center Generator Deal; Caterpillar Ticks Up, Cummins Sits Out the Rally",
+            "The Strategist Who Wanted 8,400 on the S&P 500 Just Cut His Number, and It Is Not Because Earnings Got Worse",
+            "Democrat Sweep Odds Just Hit a Record 60%. History Says This Is Exactly When Midterm-Year Stock Drawdowns Happen.",
+            "Worried About an AI Slowdown? Check Out the Staples.",
+            "Applied Digital and TeraWulf Climb 5% as Oversold AI Capacity Names Bounce; Cipher Digital Edges Higher"
           ],
           "spx": [
-            "The Fed Just Hiked And It Isn't Done. The S&P 500 Is Fine With It. (Live Coverage)",
-            "Stocks wobble but no sign of panic as yields surge",
-            "Bloom Energy Gains 4% as S&P 500 Entry Nears; FuelCell Energy Ticks Up, Plug Power Slips",
-            "Update: US Equity Indexes Mixed as Fed Almost Certain to Tighten Monetary Policy, Crude Oil Slumps",
-            "Carnival selloff overdone, a buying opportunity into earnings: Stifel",
-            "The Dow, S&P 500, and Nasdaq Split Ahead of a Near-Certain Rate Hike",
-            "Update: Equities Mixed Intraday Ahead of Fed Decision",
-            "Does a Fed Interest Rate Hike Make Stocks Go Down?",
-            "FEIM Stock Climbs 34% as Q1 Earnings Surge Year Over Year"
+            "Stock market today: Dow, S&P 500, Nasdaq rise as oil slips, Fed rate hike pacifies markets' inflation worries",
+            "3 Reasons We\u2019re Fans of TTM Technologies (TTMI)",
+            "Stock Market Today: Nasdaq Dwarfs Dow's Gain; This AI Chip Leader Breaks Out To All-Time High (Live Coverage)",
+            "Genpact (G): Buy, Sell, or Hold Post Q2 Earnings?",
+            "Stock Market Midday, Sept. 17: Stocks Rebound From Post Fed Sell-off, Generac soars 20%",
+            "BlackBerry Climbs 6%, Mobileye Rises 5%: Is the Software-Defined Vehicle Trade Waking Up?",
+            "Bitcoin Bounces as Markets Brace for the Fed\u2019s Next Move",
+            "3 Reasons to Sell RKT and 1 Stock to Buy Instead",
+            "3 Reasons RNST is Risky and 1 Stock to Buy Instead",
+            "Stock Market Sell-Off: Is It Really Safe to Invest Right Now? Here's What History Says."
           ]
         }
       },
@@ -1974,22 +1985,21 @@
         "auto_note": "QLYS CALL | $+12.46 (+7.21%) | dollar_gainer_1 | Strike $210.0 exp 2026-09-18 (2DTE) | IV 78.5% | SPY +nan% | MACRO: fed, rate hike"
       },
       "news_scan": {
-        "scanned_at": "2026-09-16 18:16:12 PST",
-        "gap_days": 0,
+        "scanned_at": "2026-09-17 17:41:03 PST",
+        "gap_days": 1,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bearish",
+        "spy_sentiment": "bullish",
         "spx_sentiment": "bullish",
         "keywords_found": [],
         "spy_keywords": [
-          "jumps",
-          "falls",
-          "drops"
+          "surge",
+          "jumps"
         ],
         "spx_keywords": [
-          "surge"
+          "soars"
         ],
-        "decision": "sell",
-        "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
+        "decision": "hold",
+        "decision_reason": "neutral keywords confirmed CALL thesis",
         "raw_headlines": {
           "ticker": [
             "Dow Jones Futures Rise As Oil Prices, Yields Fall Before Fed Rate Hike; Will Market Rally Bid Bond Voyage?",
@@ -1999,27 +2009,28 @@
             "2 Top Cybersecurity Stocks to Buy Amid AI Safety Fears: FTNT, QLYS"
           ],
           "spy": [
-            "Bloom Energy Gains 4% as S&P 500 Entry Nears; FuelCell Energy Ticks Up, Plug Power Slips",
-            "SoundHound AI Drops 4% as Selling Concentrates in Speculative Software Names; UiPath Falls 3%, C3.ai Dips",
-            "First Solar Retreats 5% After Dropping ITC Patent Case It Calls Procedural; Enphase Energy Slips, Sunrun Holds Steady",
-            "Robinhood Sinks 5% After Prosecutors Reportedly Charge Two Former Engineers Over Crypto Trades; Webull Drops 9%",
-            "Oil Producers Slide as Crude Retreats: EOG Resources Drops 6%, ConocoPhillips and Occidental Petroleum Fall 5%",
-            "Bitget Publishes 45th Consecutive Monthly Proof-of-Reserves Report at 122% Reserve Ratio",
-            "EV Charging Stocks Climb as Small Caps Catch a Bid: Blink Charging Jumps 6%, ChargePoint Rises 4%, EVgo Ticks Up",
-            "Red Cat Sinks 6% as Speculative Drone Names Extend Month-Long Slide; Unusual Machines Drops 4%, AeroVironment Barely Budges",
-            "Optics Stocks Rally as Oversold Bounce Takes Hold: Coherent Jumps 6%, Lumentum Climbs 5%, Applied Optoelectronics Advances 3%",
-            "Retail Sales, Imports Come In Warm Ahead of FOMC Decision"
+            "Oklo Jumps 13%, NuScale Power Climbs 10%: Does the House Data Center Power Vote Reach Nuclear?",
+            "BlackBerry Climbs 6%, Mobileye Rises 5%: Is the Software-Defined Vehicle Trade Waking Up?",
+            "Automaker Stocks Rally as Rotation Lifts Cyclicals: General Motors Climbs 4%, Stellantis Rises 4%, Ford Gains 3%, Tesla Adds 2%",
+            "Why CoreWeave Is Tumbling Hard While the Market Is Soaring",
+            "FuelCell Jumps 13% as House Shifts Data Center Power Costs to Operators; Plug Power Climbs 7%, Bloom Energy Rises 3%",
+            "Generac Surges 16% on $2.4B Amazon Data Center Generator Deal; Caterpillar Ticks Up, Cummins Sits Out the Rally",
+            "The Strategist Who Wanted 8,400 on the S&P 500 Just Cut His Number, and It Is Not Because Earnings Got Worse",
+            "Democrat Sweep Odds Just Hit a Record 60%. History Says This Is Exactly When Midterm-Year Stock Drawdowns Happen.",
+            "Worried About an AI Slowdown? Check Out the Staples.",
+            "Applied Digital and TeraWulf Climb 5% as Oversold AI Capacity Names Bounce; Cipher Digital Edges Higher"
           ],
           "spx": [
-            "The Fed Just Hiked And It Isn't Done. The S&P 500 Is Fine With It. (Live Coverage)",
-            "Stocks wobble but no sign of panic as yields surge",
-            "Bloom Energy Gains 4% as S&P 500 Entry Nears; FuelCell Energy Ticks Up, Plug Power Slips",
-            "Update: US Equity Indexes Mixed as Fed Almost Certain to Tighten Monetary Policy, Crude Oil Slumps",
-            "Carnival selloff overdone, a buying opportunity into earnings: Stifel",
-            "The Dow, S&P 500, and Nasdaq Split Ahead of a Near-Certain Rate Hike",
-            "Update: Equities Mixed Intraday Ahead of Fed Decision",
-            "Does a Fed Interest Rate Hike Make Stocks Go Down?",
-            "FEIM Stock Climbs 34% as Q1 Earnings Surge Year Over Year"
+            "Stock market today: Dow, S&P 500, Nasdaq rise as oil slips, Fed rate hike pacifies markets' inflation worries",
+            "3 Reasons We\u2019re Fans of TTM Technologies (TTMI)",
+            "Stock Market Today: Nasdaq Dwarfs Dow's Gain; This AI Chip Leader Breaks Out To All-Time High (Live Coverage)",
+            "Genpact (G): Buy, Sell, or Hold Post Q2 Earnings?",
+            "Stock Market Midday, Sept. 17: Stocks Rebound From Post Fed Sell-off, Generac soars 20%",
+            "BlackBerry Climbs 6%, Mobileye Rises 5%: Is the Software-Defined Vehicle Trade Waking Up?",
+            "Bitcoin Bounces as Markets Brace for the Fed\u2019s Next Move",
+            "3 Reasons to Sell RKT and 1 Stock to Buy Instead",
+            "3 Reasons RNST is Risky and 1 Stock to Buy Instead",
+            "Stock Market Sell-Off: Is It Really Safe to Invest Right Now? Here's What History Says."
           ]
         }
       },
@@ -2065,59 +2076,57 @@
         "auto_note": "AXON PUT | $-48.10 (-9.81%) | dollar_loser_1 | Strike $390.0 exp 2026-09-18 (2DTE) | IV 78.0% | SPY +nan% | MACRO: fed, rate hike"
       },
       "news_scan": {
-        "scanned_at": "2026-09-16 18:16:12 PST",
-        "gap_days": 0,
-        "ticker_sentiment": "bullish",
-        "spy_sentiment": "bearish",
+        "scanned_at": "2026-09-17 17:41:03 PST",
+        "gap_days": 1,
+        "ticker_sentiment": "neutral",
+        "spy_sentiment": "bullish",
         "spx_sentiment": "bullish",
-        "keywords_found": [
+        "keywords_found": [],
+        "spy_keywords": [
+          "surge",
           "jumps"
         ],
-        "spy_keywords": [
-          "jumps",
-          "falls",
-          "drops"
-        ],
         "spx_keywords": [
-          "surge"
+          "soars"
         ],
-        "decision": "hold",
-        "decision_reason": "bullish keywords confirmed PUT thesis",
+        "decision": "sell",
+        "decision_reason": "no confirmation for PUT thesis \u2014 sell at open",
         "raw_headlines": {
           "ticker": [
+            "Strength Seen in Axon (AXON): Can Its 6.0% Jump Turn into More Strength?",
+            "Fund Capitalizes on Axon Enterprise (AXON) in AI-Related Selloff",
+            "Jim Cramer Explains Why AppLovin (APP) Stock Is Going Down",
+            "Is Axon Stock Underperforming the Nasdaq?",
+            "Why Did Axon Stock Fall Ten Percent On A Convertible That Pays No Interest?",
+            "US Equity Markets End Lower After Federal Reserve Increases Policy Rate",
             "Why Axon Got Slammed By Convertible: It's The Cash Flow",
             "Company News for Sep 16, 2026",
             "Investors Heavily Search Axon Enterprise, Inc (AXON): Here is What You Need to Know",
-            "Is Axon Enterprise (AXON) Still Below Fair Value On Its $1b Convertible Notes Offering?",
-            "Axon Enterprise (AXON) Is Down 9.8% After $1 Billion Zero-Coupon Convertible Notes Offering - What's Changed",
-            "Axon Enterprise (AXON) Dips More Than Broader Market: What You Should Know",
-            "Why Axon (AXON) Stock Is Trading Lower Today",
-            "Why Rule Breakers Dig Stocks With Multiple Futures",
-            "US Equity Markets End Lower as 10-Year Treasury Yield Climbs to Highest Since 2007, Oil Jumps",
-            "Update: Equities Log Back-to-Back Declines Before Fed Decision as Yields, Oil Jump"
+            "Is Axon Enterprise (AXON) Still Below Fair Value On Its $1b Convertible Notes Offering?"
           ],
           "spy": [
-            "Bloom Energy Gains 4% as S&P 500 Entry Nears; FuelCell Energy Ticks Up, Plug Power Slips",
-            "SoundHound AI Drops 4% as Selling Concentrates in Speculative Software Names; UiPath Falls 3%, C3.ai Dips",
-            "First Solar Retreats 5% After Dropping ITC Patent Case It Calls Procedural; Enphase Energy Slips, Sunrun Holds Steady",
-            "Robinhood Sinks 5% After Prosecutors Reportedly Charge Two Former Engineers Over Crypto Trades; Webull Drops 9%",
-            "Oil Producers Slide as Crude Retreats: EOG Resources Drops 6%, ConocoPhillips and Occidental Petroleum Fall 5%",
-            "Bitget Publishes 45th Consecutive Monthly Proof-of-Reserves Report at 122% Reserve Ratio",
-            "EV Charging Stocks Climb as Small Caps Catch a Bid: Blink Charging Jumps 6%, ChargePoint Rises 4%, EVgo Ticks Up",
-            "Red Cat Sinks 6% as Speculative Drone Names Extend Month-Long Slide; Unusual Machines Drops 4%, AeroVironment Barely Budges",
-            "Optics Stocks Rally as Oversold Bounce Takes Hold: Coherent Jumps 6%, Lumentum Climbs 5%, Applied Optoelectronics Advances 3%",
-            "Retail Sales, Imports Come In Warm Ahead of FOMC Decision"
+            "Oklo Jumps 13%, NuScale Power Climbs 10%: Does the House Data Center Power Vote Reach Nuclear?",
+            "BlackBerry Climbs 6%, Mobileye Rises 5%: Is the Software-Defined Vehicle Trade Waking Up?",
+            "Automaker Stocks Rally as Rotation Lifts Cyclicals: General Motors Climbs 4%, Stellantis Rises 4%, Ford Gains 3%, Tesla Adds 2%",
+            "Why CoreWeave Is Tumbling Hard While the Market Is Soaring",
+            "FuelCell Jumps 13% as House Shifts Data Center Power Costs to Operators; Plug Power Climbs 7%, Bloom Energy Rises 3%",
+            "Generac Surges 16% on $2.4B Amazon Data Center Generator Deal; Caterpillar Ticks Up, Cummins Sits Out the Rally",
+            "The Strategist Who Wanted 8,400 on the S&P 500 Just Cut His Number, and It Is Not Because Earnings Got Worse",
+            "Democrat Sweep Odds Just Hit a Record 60%. History Says This Is Exactly When Midterm-Year Stock Drawdowns Happen.",
+            "Worried About an AI Slowdown? Check Out the Staples.",
+            "Applied Digital and TeraWulf Climb 5% as Oversold AI Capacity Names Bounce; Cipher Digital Edges Higher"
           ],
           "spx": [
-            "The Fed Just Hiked And It Isn't Done. The S&P 500 Is Fine With It. (Live Coverage)",
-            "Stocks wobble but no sign of panic as yields surge",
-            "Bloom Energy Gains 4% as S&P 500 Entry Nears; FuelCell Energy Ticks Up, Plug Power Slips",
-            "Update: US Equity Indexes Mixed as Fed Almost Certain to Tighten Monetary Policy, Crude Oil Slumps",
-            "Carnival selloff overdone, a buying opportunity into earnings: Stifel",
-            "The Dow, S&P 500, and Nasdaq Split Ahead of a Near-Certain Rate Hike",
-            "Update: Equities Mixed Intraday Ahead of Fed Decision",
-            "Does a Fed Interest Rate Hike Make Stocks Go Down?",
-            "FEIM Stock Climbs 34% as Q1 Earnings Surge Year Over Year"
+            "Stock market today: Dow, S&P 500, Nasdaq rise as oil slips, Fed rate hike pacifies markets' inflation worries",
+            "3 Reasons We\u2019re Fans of TTM Technologies (TTMI)",
+            "Stock Market Today: Nasdaq Dwarfs Dow's Gain; This AI Chip Leader Breaks Out To All-Time High (Live Coverage)",
+            "Genpact (G): Buy, Sell, or Hold Post Q2 Earnings?",
+            "Stock Market Midday, Sept. 17: Stocks Rebound From Post Fed Sell-off, Generac soars 20%",
+            "BlackBerry Climbs 6%, Mobileye Rises 5%: Is the Software-Defined Vehicle Trade Waking Up?",
+            "Bitcoin Bounces as Markets Brace for the Fed\u2019s Next Move",
+            "3 Reasons to Sell RKT and 1 Stock to Buy Instead",
+            "3 Reasons RNST is Risky and 1 Stock to Buy Instead",
+            "Stock Market Sell-Off: Is It Really Safe to Invest Right Now? Here's What History Says."
           ]
         }
       },
@@ -2162,7 +2171,65 @@
         ],
         "auto_note": "COHR CALL | $+18.76 (+6.92%) | dollar_gainer_1 | Strike $320.0 exp 2026-09-18 (1DTE) | IV 88.5% | SPY +nan% | MACRO: fed, war"
       },
-      "news_scan": null,
+      "news_scan": {
+        "scanned_at": "2026-09-17 17:41:03 PST",
+        "gap_days": 0,
+        "ticker_sentiment": "bullish",
+        "spy_sentiment": "bullish",
+        "spx_sentiment": "bullish",
+        "keywords_found": [
+          "revenue growth",
+          "jumps",
+          "concern"
+        ],
+        "spy_keywords": [
+          "surge",
+          "jumps"
+        ],
+        "spx_keywords": [
+          "soars"
+        ],
+        "decision": "hold",
+        "decision_reason": "bullish keywords confirmed CALL thesis",
+        "raw_headlines": {
+          "ticker": [
+            "Ciena Stock Rises as These Numbers Leave Wall Street Pleasantly Surprised",
+            "Coherent (COHR): Unmet Hyperscaler Demand Fuels Aggressive Capacity Expansion",
+            "OpenAI Reveals 6 \u2018Concerning\u2019 Incidents. Why Marvell, Other Hot AI Stocks Are Rising.",
+            "Coherent Corp. (COHR): A Critical Player in AI Data Center Buildouts",
+            "AXT Inc. (AXTI) Draws Bullish Analyst Attention \u2014 Here\u2019s Why",
+            "AXT Rises 10% After Being Named Co-Packaged Optics Winner",
+            "CIEN Targets 30% Revenue Growth Through 2029 \u2014 Peers COHR, GLW And AAOI Rally After Guidance",
+            "Lumentum Stock Leads the S&P 500 While Corning Can\u2019t Keep Up",
+            "AXT's Geographic Reach Expands: Can It Drive More Revenue Growth?",
+            "Optics Stocks Rally as Oversold Bounce Takes Hold: Coherent Jumps 6%, Lumentum Climbs 5%, Applied Optoelectronics Advances 3%"
+          ],
+          "spy": [
+            "Oklo Jumps 13%, NuScale Power Climbs 10%: Does the House Data Center Power Vote Reach Nuclear?",
+            "BlackBerry Climbs 6%, Mobileye Rises 5%: Is the Software-Defined Vehicle Trade Waking Up?",
+            "Automaker Stocks Rally as Rotation Lifts Cyclicals: General Motors Climbs 4%, Stellantis Rises 4%, Ford Gains 3%, Tesla Adds 2%",
+            "Why CoreWeave Is Tumbling Hard While the Market Is Soaring",
+            "FuelCell Jumps 13% as House Shifts Data Center Power Costs to Operators; Plug Power Climbs 7%, Bloom Energy Rises 3%",
+            "Generac Surges 16% on $2.4B Amazon Data Center Generator Deal; Caterpillar Ticks Up, Cummins Sits Out the Rally",
+            "The Strategist Who Wanted 8,400 on the S&P 500 Just Cut His Number, and It Is Not Because Earnings Got Worse",
+            "Democrat Sweep Odds Just Hit a Record 60%. History Says This Is Exactly When Midterm-Year Stock Drawdowns Happen.",
+            "Worried About an AI Slowdown? Check Out the Staples.",
+            "Applied Digital and TeraWulf Climb 5% as Oversold AI Capacity Names Bounce; Cipher Digital Edges Higher"
+          ],
+          "spx": [
+            "Stock market today: Dow, S&P 500, Nasdaq rise as oil slips, Fed rate hike pacifies markets' inflation worries",
+            "3 Reasons We\u2019re Fans of TTM Technologies (TTMI)",
+            "Stock Market Today: Nasdaq Dwarfs Dow's Gain; This AI Chip Leader Breaks Out To All-Time High (Live Coverage)",
+            "Genpact (G): Buy, Sell, or Hold Post Q2 Earnings?",
+            "Stock Market Midday, Sept. 17: Stocks Rebound From Post Fed Sell-off, Generac soars 20%",
+            "BlackBerry Climbs 6%, Mobileye Rises 5%: Is the Software-Defined Vehicle Trade Waking Up?",
+            "Bitcoin Bounces as Markets Brace for the Fed\u2019s Next Move",
+            "3 Reasons to Sell RKT and 1 Stock to Buy Instead",
+            "3 Reasons RNST is Risky and 1 Stock to Buy Instead",
+            "Stock Market Sell-Off: Is It Really Safe to Invest Right Now? Here's What History Says."
+          ]
+        }
+      },
       "exit": null,
       "fomo": null
     },
@@ -2204,7 +2271,58 @@
         ],
         "auto_note": "FANG PUT | $-16.99 (-8.03%) | dollar_loser_1 | Strike $185.0 exp 2026-09-18 (1DTE) | IV 53.9% | SPY +nan% | MACRO: fed, war"
       },
-      "news_scan": null,
+      "news_scan": {
+        "scanned_at": "2026-09-17 17:41:03 PST",
+        "gap_days": 0,
+        "ticker_sentiment": "neutral",
+        "spy_sentiment": "bullish",
+        "spx_sentiment": "bullish",
+        "keywords_found": [],
+        "spy_keywords": [
+          "surge",
+          "jumps"
+        ],
+        "spx_keywords": [
+          "soars"
+        ],
+        "decision": "sell",
+        "decision_reason": "no confirmation for PUT thesis \u2014 sell at open",
+        "raw_headlines": {
+          "ticker": [
+            "Stocks to Watch: Lennar, Generac, Volvo",
+            "Company News for Sep 17, 2026",
+            "US Stock Market Today: S&P 500 Futures Edge Higher As Fed Rate Decision Looms",
+            "Oil Heiress\u2019s $1.9 Billion Stock Sale Sinks Diamondback Shares",
+            "Diamondback Energy, Permian Resources, APA Corporation, Viper Energy, and Comstock Resources Shares Are Falling, What You Need To Know",
+            "Diamondback Energy (FANG) Gains As Market Dips: What You Should Know",
+            "Bloom Energy vs. Diamondback Energy: Which Industrials Stock Is a Better Buy in 2026?"
+          ],
+          "spy": [
+            "Oklo Jumps 13%, NuScale Power Climbs 10%: Does the House Data Center Power Vote Reach Nuclear?",
+            "BlackBerry Climbs 6%, Mobileye Rises 5%: Is the Software-Defined Vehicle Trade Waking Up?",
+            "Automaker Stocks Rally as Rotation Lifts Cyclicals: General Motors Climbs 4%, Stellantis Rises 4%, Ford Gains 3%, Tesla Adds 2%",
+            "Why CoreWeave Is Tumbling Hard While the Market Is Soaring",
+            "FuelCell Jumps 13% as House Shifts Data Center Power Costs to Operators; Plug Power Climbs 7%, Bloom Energy Rises 3%",
+            "Generac Surges 16% on $2.4B Amazon Data Center Generator Deal; Caterpillar Ticks Up, Cummins Sits Out the Rally",
+            "The Strategist Who Wanted 8,400 on the S&P 500 Just Cut His Number, and It Is Not Because Earnings Got Worse",
+            "Democrat Sweep Odds Just Hit a Record 60%. History Says This Is Exactly When Midterm-Year Stock Drawdowns Happen.",
+            "Worried About an AI Slowdown? Check Out the Staples.",
+            "Applied Digital and TeraWulf Climb 5% as Oversold AI Capacity Names Bounce; Cipher Digital Edges Higher"
+          ],
+          "spx": [
+            "Stock market today: Dow, S&P 500, Nasdaq rise as oil slips, Fed rate hike pacifies markets' inflation worries",
+            "3 Reasons We\u2019re Fans of TTM Technologies (TTMI)",
+            "Stock Market Today: Nasdaq Dwarfs Dow's Gain; This AI Chip Leader Breaks Out To All-Time High (Live Coverage)",
+            "Genpact (G): Buy, Sell, or Hold Post Q2 Earnings?",
+            "Stock Market Midday, Sept. 17: Stocks Rebound From Post Fed Sell-off, Generac soars 20%",
+            "BlackBerry Climbs 6%, Mobileye Rises 5%: Is the Software-Defined Vehicle Trade Waking Up?",
+            "Bitcoin Bounces as Markets Brace for the Fed\u2019s Next Move",
+            "3 Reasons to Sell RKT and 1 Stock to Buy Instead",
+            "3 Reasons RNST is Risky and 1 Stock to Buy Instead",
+            "Stock Market Sell-Off: Is It Really Safe to Invest Right Now? Here's What History Says."
+          ]
+        }
+      },
       "exit": null,
       "fomo": null
     }
