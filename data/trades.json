@@ -1248,20 +1248,18 @@
         "auto_note": "ALAB CALL | $+27.58 (+9.75%) | dollar_gainer_1 | Strike $390.0 exp 2026-09-11 (6DTE) | IV 88.2% | SPY +nan% | MACRO: rate hike, war"
       },
       "news_scan": {
-        "scanned_at": "2026-09-18 17:08:12 PST",
+        "scanned_at": "2026-09-18 17:44:31 PST",
         "gap_days": 13,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "bearish",
-        "spx_sentiment": "bullish",
+        "spx_sentiment": "neutral",
         "keywords_found": [],
         "spy_keywords": [
-          "rallies",
+          "jumps",
           "falls",
           "drops"
         ],
-        "spx_keywords": [
-          "jumps"
-        ],
+        "spx_keywords": [],
         "decision": "sell",
         "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
         "raw_headlines": {
@@ -1275,28 +1273,28 @@
             "3 AI Infrastructure Stocks Institutions Love but Most Retail Investors Never Heard Of"
           ],
           "spy": [
+            "PepsiCo Falls 3% While Consumer Staples Hold Firm; Keurig Dr. Pepper Eases, Coca-Cola Barely Budges",
             "Enphase Energy Drops 5% as Solar Selling Resumes; First Solar and Sunrun Fall 4%",
             "Lam Research Climbs 5% as Chip Equipment Names Outrun the Sector; Applied Materials Rises 4%, KLA Corp. Gains 3%",
+            "SanDisk Jumps 6% as Storage Bid Concentrates in One Name; Western Digital Rises 3%, Micron Ticks Up",
             "NuScale Power Drops 7% as Nuclear Stocks Hand Back the Vote Rally; Oklo Falls 5%, Centrus Energy Slides 3%",
             "Amazon\u2019s AI Bet is Already Starting to Pay Off",
+            "Red Cat and Unusual Machines Fall 3% as Drone Selloff Extends; Ondas Slips",
             "Automaker Stocks Reverse as Rotation Trade Unwinds: General Motors and Stellantis Fall 4%, Ford Pulls Back",
-            "Betting On A Tesla Roadster By 2027: A No-Brainer or Brainless?",
-            "Alibaba Climbs 3%, PDD and JD.com Tick Up: Is China Technology Finding Buyers Again?",
-            "Exchange-Traded Funds, Equity Futures Mixed Pre-Bell Friday as Tech Rally Continues",
-            "Bitmine Climbs 4% as Ethereum Rallies Despite CLARITY Act Failure; Sharplink Gains 3%",
-            "Netflix Falls 4% as Wells Fargo Cuts Rating to Underweight With $57 Target; Disney Barely Budges"
+            "Rocket Lab Slides 5% as Space Names Give Back Gains; AST SpaceMobile Drops 6%, Planet Labs Sinks 4%",
+            "Betting On A Tesla Roadster By 2027: A No-Brainer or Brainless?"
           ],
           "spx": [
             "S&P 500 wavers after best one-day rally in six weeks: AlphaCheck",
-            "Why Sandisk Stock Rallied Today",
-            "3 Reasons BANR is Risky and 1 Stock to Buy Instead",
-            "Stock Market Midday, Sept. 18: Stocks Slip, Crypto Gains",
-            "Will Micron Follow Nvidia and Give Investors a Huge Dividend Hike?",
-            "ServisFirst Bancshares (SFBS): Buy, Sell, or Hold Post Q2 Earnings?",
-            "Lazard Stock Slides 20% Over 8 Straight Down Days",
-            "Global shares fall, Treasury yields rise as central banks double down on inflation fight",
-            "The Bond Market Will Keep Driving Stocks\u2014At Least Until Earnings Season",
-            "Update: US Equity Indexes Fall as Benchmark Treasury Yield Jumps Back Above 5%"
+            "2 Reasons to Avoid APAM and 1 Stock to Buy Instead",
+            "The Dow Is Down for a Third Straight Week and the Nasdaq Is Somehow Up",
+            "3 Reasons BG is Risky and 1 Stock to Buy Instead",
+            "Is This Biotech Stock Too Cheap to Ignore After Its Latest Pullback?",
+            "Should You Buy Copart Stock On The ACV Deal?",
+            "3 Reasons SG is Risky and 1 Stock to Buy Instead",
+            "Stock Market Today: Dow Pressured As Yields Hit 5%; Chip Gear Players Jump, Lead Nasdaq 100 (Live Coverage)",
+            "Should You Buy Home Depot Stock Near Its Lowest Price-To-Sales In Ten Years?",
+            "Here's Why Investors Must Hold WCN Stock in Their Portfolios Now"
           ]
         }
       },
@@ -1342,60 +1340,58 @@
         "auto_note": "TSLA PUT | $-22.29 (-5.92%) | dollar_loser_1 | Strike $340.0 exp 2026-09-09 (4DTE) | IV 32.4% | SPY +nan% | MACRO: rate hike, war"
       },
       "news_scan": {
-        "scanned_at": "2026-09-18 17:08:12 PST",
+        "scanned_at": "2026-09-18 17:44:31 PST",
         "gap_days": 13,
         "ticker_sentiment": "bearish",
         "spy_sentiment": "bearish",
-        "spx_sentiment": "bullish",
+        "spx_sentiment": "neutral",
         "keywords_found": [
           "falls"
         ],
         "spy_keywords": [
-          "rallies",
+          "jumps",
           "falls",
           "drops"
         ],
-        "spx_keywords": [
-          "jumps"
-        ],
+        "spx_keywords": [],
         "decision": "hold",
         "decision_reason": "bearish keywords confirmed PUT thesis",
         "raw_headlines": {
           "ticker": [
             "Trump takes aim at Warsh after Fed hike",
             "SpaceX stock falls as Starship's test flight slips to Sept. 28, retail investors sell shares",
+            "Tesla Slips 1% as $16.8 Billion AI Fab Meets a Naming Fight",
             "Auto industry urges Trump to keep Chinese automakers out ahead of Xi meeting",
             "What's Going On With Tesla Stock Friday",
             "Tesla Stock Fell After Its Last 4 Delivery Reports, Even a Big Beat. Here's What History Says to Expect in October.",
             "FSS vs. TSLA: Which Stock Is the Better Value Option?",
             "Waymo Is Doing So Much More Than Most Understand, Keeping Me Buying Alphabet Hand Over Fist",
             "Inside Tesla\u2019s Shanghai Gigafactory and What It Means for the Stock.",
-            "Eisman: Tesla\u2019s Multiple Is Crazy Unless You \u201cBelieve that Tesla\u2019s Robotaxi Business will Conquer the World.\u201d \u201cCount Me As a Skeptic\u201d",
-            "Elon Musk\u2019s Tesla And SpaceX Sue Nanotech Firm TERA-Print Over \u2018Terafab\u2019 Name For Planned $16.8 Billion Texas AI Chip Factory"
+            "Eisman: Tesla\u2019s Multiple Is Crazy Unless You \u201cBelieve that Tesla\u2019s Robotaxi Business will Conquer the World.\u201d \u201cCount Me As a Skeptic\u201d"
           ],
           "spy": [
+            "PepsiCo Falls 3% While Consumer Staples Hold Firm; Keurig Dr. Pepper Eases, Coca-Cola Barely Budges",
             "Enphase Energy Drops 5% as Solar Selling Resumes; First Solar and Sunrun Fall 4%",
             "Lam Research Climbs 5% as Chip Equipment Names Outrun the Sector; Applied Materials Rises 4%, KLA Corp. Gains 3%",
+            "SanDisk Jumps 6% as Storage Bid Concentrates in One Name; Western Digital Rises 3%, Micron Ticks Up",
             "NuScale Power Drops 7% as Nuclear Stocks Hand Back the Vote Rally; Oklo Falls 5%, Centrus Energy Slides 3%",
             "Amazon\u2019s AI Bet is Already Starting to Pay Off",
+            "Red Cat and Unusual Machines Fall 3% as Drone Selloff Extends; Ondas Slips",
             "Automaker Stocks Reverse as Rotation Trade Unwinds: General Motors and Stellantis Fall 4%, Ford Pulls Back",
-            "Betting On A Tesla Roadster By 2027: A No-Brainer or Brainless?",
-            "Alibaba Climbs 3%, PDD and JD.com Tick Up: Is China Technology Finding Buyers Again?",
-            "Exchange-Traded Funds, Equity Futures Mixed Pre-Bell Friday as Tech Rally Continues",
-            "Bitmine Climbs 4% as Ethereum Rallies Despite CLARITY Act Failure; Sharplink Gains 3%",
-            "Netflix Falls 4% as Wells Fargo Cuts Rating to Underweight With $57 Target; Disney Barely Budges"
+            "Rocket Lab Slides 5% as Space Names Give Back Gains; AST SpaceMobile Drops 6%, Planet Labs Sinks 4%",
+            "Betting On A Tesla Roadster By 2027: A No-Brainer or Brainless?"
           ],
           "spx": [
             "S&P 500 wavers after best one-day rally in six weeks: AlphaCheck",
-            "Why Sandisk Stock Rallied Today",
-            "3 Reasons BANR is Risky and 1 Stock to Buy Instead",
-            "Stock Market Midday, Sept. 18: Stocks Slip, Crypto Gains",
-            "Will Micron Follow Nvidia and Give Investors a Huge Dividend Hike?",
-            "ServisFirst Bancshares (SFBS): Buy, Sell, or Hold Post Q2 Earnings?",
-            "Lazard Stock Slides 20% Over 8 Straight Down Days",
-            "Global shares fall, Treasury yields rise as central banks double down on inflation fight",
-            "The Bond Market Will Keep Driving Stocks\u2014At Least Until Earnings Season",
-            "Update: US Equity Indexes Fall as Benchmark Treasury Yield Jumps Back Above 5%"
+            "2 Reasons to Avoid APAM and 1 Stock to Buy Instead",
+            "The Dow Is Down for a Third Straight Week and the Nasdaq Is Somehow Up",
+            "3 Reasons BG is Risky and 1 Stock to Buy Instead",
+            "Is This Biotech Stock Too Cheap to Ignore After Its Latest Pullback?",
+            "Should You Buy Copart Stock On The ACV Deal?",
+            "3 Reasons SG is Risky and 1 Stock to Buy Instead",
+            "Stock Market Today: Dow Pressured As Yields Hit 5%; Chip Gear Players Jump, Lead Nasdaq 100 (Live Coverage)",
+            "Should You Buy Home Depot Stock Near Its Lowest Price-To-Sales In Ten Years?",
+            "Here's Why Investors Must Hold WCN Stock in Their Portfolios Now"
           ]
         }
       },
@@ -1438,20 +1434,18 @@
         "auto_note": "DDOG CALL | $+15.04 (+7.15%) | dollar_gainer_1 | Strike $240.0 exp 2026-09-11 (1DTE) | IV 68.4% | SPY +nan% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-09-18 17:08:12 PST",
+        "scanned_at": "2026-09-18 17:44:31 PST",
         "gap_days": 8,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "bearish",
-        "spx_sentiment": "bullish",
+        "spx_sentiment": "neutral",
         "keywords_found": [],
         "spy_keywords": [
-          "rallies",
+          "jumps",
           "falls",
           "drops"
         ],
-        "spx_keywords": [
-          "jumps"
-        ],
+        "spx_keywords": [],
         "decision": "sell",
         "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
         "raw_headlines": {
@@ -1466,28 +1460,28 @@
             "Is Analyst Optimism Enough To Justify Datadog\u2019s (DDOG) Premium Valuation In Observability And Security?"
           ],
           "spy": [
+            "PepsiCo Falls 3% While Consumer Staples Hold Firm; Keurig Dr. Pepper Eases, Coca-Cola Barely Budges",
             "Enphase Energy Drops 5% as Solar Selling Resumes; First Solar and Sunrun Fall 4%",
             "Lam Research Climbs 5% as Chip Equipment Names Outrun the Sector; Applied Materials Rises 4%, KLA Corp. Gains 3%",
+            "SanDisk Jumps 6% as Storage Bid Concentrates in One Name; Western Digital Rises 3%, Micron Ticks Up",
             "NuScale Power Drops 7% as Nuclear Stocks Hand Back the Vote Rally; Oklo Falls 5%, Centrus Energy Slides 3%",
             "Amazon\u2019s AI Bet is Already Starting to Pay Off",
+            "Red Cat and Unusual Machines Fall 3% as Drone Selloff Extends; Ondas Slips",
             "Automaker Stocks Reverse as Rotation Trade Unwinds: General Motors and Stellantis Fall 4%, Ford Pulls Back",
-            "Betting On A Tesla Roadster By 2027: A No-Brainer or Brainless?",
-            "Alibaba Climbs 3%, PDD and JD.com Tick Up: Is China Technology Finding Buyers Again?",
-            "Exchange-Traded Funds, Equity Futures Mixed Pre-Bell Friday as Tech Rally Continues",
-            "Bitmine Climbs 4% as Ethereum Rallies Despite CLARITY Act Failure; Sharplink Gains 3%",
-            "Netflix Falls 4% as Wells Fargo Cuts Rating to Underweight With $57 Target; Disney Barely Budges"
+            "Rocket Lab Slides 5% as Space Names Give Back Gains; AST SpaceMobile Drops 6%, Planet Labs Sinks 4%",
+            "Betting On A Tesla Roadster By 2027: A No-Brainer or Brainless?"
           ],
           "spx": [
             "S&P 500 wavers after best one-day rally in six weeks: AlphaCheck",
-            "Why Sandisk Stock Rallied Today",
-            "3 Reasons BANR is Risky and 1 Stock to Buy Instead",
-            "Stock Market Midday, Sept. 18: Stocks Slip, Crypto Gains",
-            "Will Micron Follow Nvidia and Give Investors a Huge Dividend Hike?",
-            "ServisFirst Bancshares (SFBS): Buy, Sell, or Hold Post Q2 Earnings?",
-            "Lazard Stock Slides 20% Over 8 Straight Down Days",
-            "Global shares fall, Treasury yields rise as central banks double down on inflation fight",
-            "The Bond Market Will Keep Driving Stocks\u2014At Least Until Earnings Season",
-            "Update: US Equity Indexes Fall as Benchmark Treasury Yield Jumps Back Above 5%"
+            "2 Reasons to Avoid APAM and 1 Stock to Buy Instead",
+            "The Dow Is Down for a Third Straight Week and the Nasdaq Is Somehow Up",
+            "3 Reasons BG is Risky and 1 Stock to Buy Instead",
+            "Is This Biotech Stock Too Cheap to Ignore After Its Latest Pullback?",
+            "Should You Buy Copart Stock On The ACV Deal?",
+            "3 Reasons SG is Risky and 1 Stock to Buy Instead",
+            "Stock Market Today: Dow Pressured As Yields Hit 5%; Chip Gear Players Jump, Lead Nasdaq 100 (Live Coverage)",
+            "Should You Buy Home Depot Stock Near Its Lowest Price-To-Sales In Ten Years?",
+            "Here's Why Investors Must Hold WCN Stock in Their Portfolios Now"
           ]
         }
       },
@@ -1533,47 +1527,45 @@
         "auto_note": "RGTZ CALL | $+14.18 (+402.84%) | dollar_gainer_1 | Strike $8.0 exp 2026-09-18 (7DTE) | IV 0.0% | SPY +nan% | MACRO: rate hike, china"
       },
       "news_scan": {
-        "scanned_at": "2026-09-18 17:08:12 PST",
+        "scanned_at": "2026-09-18 17:44:31 PST",
         "gap_days": 7,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "bearish",
-        "spx_sentiment": "bullish",
+        "spx_sentiment": "neutral",
         "keywords_found": [],
         "spy_keywords": [
-          "rallies",
+          "jumps",
           "falls",
           "drops"
         ],
-        "spx_keywords": [
-          "jumps"
-        ],
+        "spx_keywords": [],
         "decision": "sell",
         "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
         "raw_headlines": {
           "ticker": [],
           "spy": [
+            "PepsiCo Falls 3% While Consumer Staples Hold Firm; Keurig Dr. Pepper Eases, Coca-Cola Barely Budges",
             "Enphase Energy Drops 5% as Solar Selling Resumes; First Solar and Sunrun Fall 4%",
             "Lam Research Climbs 5% as Chip Equipment Names Outrun the Sector; Applied Materials Rises 4%, KLA Corp. Gains 3%",
+            "SanDisk Jumps 6% as Storage Bid Concentrates in One Name; Western Digital Rises 3%, Micron Ticks Up",
             "NuScale Power Drops 7% as Nuclear Stocks Hand Back the Vote Rally; Oklo Falls 5%, Centrus Energy Slides 3%",
             "Amazon\u2019s AI Bet is Already Starting to Pay Off",
+            "Red Cat and Unusual Machines Fall 3% as Drone Selloff Extends; Ondas Slips",
             "Automaker Stocks Reverse as Rotation Trade Unwinds: General Motors and Stellantis Fall 4%, Ford Pulls Back",
-            "Betting On A Tesla Roadster By 2027: A No-Brainer or Brainless?",
-            "Alibaba Climbs 3%, PDD and JD.com Tick Up: Is China Technology Finding Buyers Again?",
-            "Exchange-Traded Funds, Equity Futures Mixed Pre-Bell Friday as Tech Rally Continues",
-            "Bitmine Climbs 4% as Ethereum Rallies Despite CLARITY Act Failure; Sharplink Gains 3%",
-            "Netflix Falls 4% as Wells Fargo Cuts Rating to Underweight With $57 Target; Disney Barely Budges"
+            "Rocket Lab Slides 5% as Space Names Give Back Gains; AST SpaceMobile Drops 6%, Planet Labs Sinks 4%",
+            "Betting On A Tesla Roadster By 2027: A No-Brainer or Brainless?"
           ],
           "spx": [
             "S&P 500 wavers after best one-day rally in six weeks: AlphaCheck",
-            "Why Sandisk Stock Rallied Today",
-            "3 Reasons BANR is Risky and 1 Stock to Buy Instead",
-            "Stock Market Midday, Sept. 18: Stocks Slip, Crypto Gains",
-            "Will Micron Follow Nvidia and Give Investors a Huge Dividend Hike?",
-            "ServisFirst Bancshares (SFBS): Buy, Sell, or Hold Post Q2 Earnings?",
-            "Lazard Stock Slides 20% Over 8 Straight Down Days",
-            "Global shares fall, Treasury yields rise as central banks double down on inflation fight",
-            "The Bond Market Will Keep Driving Stocks\u2014At Least Until Earnings Season",
-            "Update: US Equity Indexes Fall as Benchmark Treasury Yield Jumps Back Above 5%"
+            "2 Reasons to Avoid APAM and 1 Stock to Buy Instead",
+            "The Dow Is Down for a Third Straight Week and the Nasdaq Is Somehow Up",
+            "3 Reasons BG is Risky and 1 Stock to Buy Instead",
+            "Is This Biotech Stock Too Cheap to Ignore After Its Latest Pullback?",
+            "Should You Buy Copart Stock On The ACV Deal?",
+            "3 Reasons SG is Risky and 1 Stock to Buy Instead",
+            "Stock Market Today: Dow Pressured As Yields Hit 5%; Chip Gear Players Jump, Lead Nasdaq 100 (Live Coverage)",
+            "Should You Buy Home Depot Stock Near Its Lowest Price-To-Sales In Ten Years?",
+            "Here's Why Investors Must Hold WCN Stock in Their Portfolios Now"
           ]
         }
       },
@@ -1618,22 +1610,20 @@
         "auto_note": "VICR CALL | $+19.86 (+11.15%) | dollar_gainer_1 | Strike $240.0 exp 2026-09-18 (6DTE) | IV 86.0% | SPY +nan% | MACRO: fed"
       },
       "news_scan": {
-        "scanned_at": "2026-09-18 17:08:12 PST",
+        "scanned_at": "2026-09-18 17:44:31 PST",
         "gap_days": 6,
         "ticker_sentiment": "bullish",
         "spy_sentiment": "bearish",
-        "spx_sentiment": "bullish",
+        "spx_sentiment": "neutral",
         "keywords_found": [
           "surge"
         ],
         "spy_keywords": [
-          "rallies",
+          "jumps",
           "falls",
           "drops"
         ],
-        "spx_keywords": [
-          "jumps"
-        ],
+        "spx_keywords": [],
         "decision": "hold",
         "decision_reason": "bullish keywords confirmed CALL thesis",
         "raw_headlines": {
@@ -1649,28 +1639,28 @@
             "Vicor (VICR) Plans Two More ChiP Fabs. Can Utilization Justify Expansion?"
           ],
           "spy": [
+            "PepsiCo Falls 3% While Consumer Staples Hold Firm; Keurig Dr. Pepper Eases, Coca-Cola Barely Budges",
             "Enphase Energy Drops 5% as Solar Selling Resumes; First Solar and Sunrun Fall 4%",
             "Lam Research Climbs 5% as Chip Equipment Names Outrun the Sector; Applied Materials Rises 4%, KLA Corp. Gains 3%",
+            "SanDisk Jumps 6% as Storage Bid Concentrates in One Name; Western Digital Rises 3%, Micron Ticks Up",
             "NuScale Power Drops 7% as Nuclear Stocks Hand Back the Vote Rally; Oklo Falls 5%, Centrus Energy Slides 3%",
             "Amazon\u2019s AI Bet is Already Starting to Pay Off",
+            "Red Cat and Unusual Machines Fall 3% as Drone Selloff Extends; Ondas Slips",
             "Automaker Stocks Reverse as Rotation Trade Unwinds: General Motors and Stellantis Fall 4%, Ford Pulls Back",
-            "Betting On A Tesla Roadster By 2027: A No-Brainer or Brainless?",
-            "Alibaba Climbs 3%, PDD and JD.com Tick Up: Is China Technology Finding Buyers Again?",
-            "Exchange-Traded Funds, Equity Futures Mixed Pre-Bell Friday as Tech Rally Continues",
-            "Bitmine Climbs 4% as Ethereum Rallies Despite CLARITY Act Failure; Sharplink Gains 3%",
-            "Netflix Falls 4% as Wells Fargo Cuts Rating to Underweight With $57 Target; Disney Barely Budges"
+            "Rocket Lab Slides 5% as Space Names Give Back Gains; AST SpaceMobile Drops 6%, Planet Labs Sinks 4%",
+            "Betting On A Tesla Roadster By 2027: A No-Brainer or Brainless?"
           ],
           "spx": [
             "S&P 500 wavers after best one-day rally in six weeks: AlphaCheck",
-            "Why Sandisk Stock Rallied Today",
-            "3 Reasons BANR is Risky and 1 Stock to Buy Instead",
-            "Stock Market Midday, Sept. 18: Stocks Slip, Crypto Gains",
-            "Will Micron Follow Nvidia and Give Investors a Huge Dividend Hike?",
-            "ServisFirst Bancshares (SFBS): Buy, Sell, or Hold Post Q2 Earnings?",
-            "Lazard Stock Slides 20% Over 8 Straight Down Days",
-            "Global shares fall, Treasury yields rise as central banks double down on inflation fight",
-            "The Bond Market Will Keep Driving Stocks\u2014At Least Until Earnings Season",
-            "Update: US Equity Indexes Fall as Benchmark Treasury Yield Jumps Back Above 5%"
+            "2 Reasons to Avoid APAM and 1 Stock to Buy Instead",
+            "The Dow Is Down for a Third Straight Week and the Nasdaq Is Somehow Up",
+            "3 Reasons BG is Risky and 1 Stock to Buy Instead",
+            "Is This Biotech Stock Too Cheap to Ignore After Its Latest Pullback?",
+            "Should You Buy Copart Stock On The ACV Deal?",
+            "3 Reasons SG is Risky and 1 Stock to Buy Instead",
+            "Stock Market Today: Dow Pressured As Yields Hit 5%; Chip Gear Players Jump, Lead Nasdaq 100 (Live Coverage)",
+            "Should You Buy Home Depot Stock Near Its Lowest Price-To-Sales In Ten Years?",
+            "Here's Why Investors Must Hold WCN Stock in Their Portfolios Now"
           ]
         }
       },
@@ -1715,23 +1705,21 @@
         "auto_note": "LEU PUT | $-13.56 (-8.18%) | dollar_loser_1 | Strike $135.0 exp 2026-09-18 (6DTE) | IV 56.5% | SPY +nan% | MACRO: fed"
       },
       "news_scan": {
-        "scanned_at": "2026-09-18 17:08:12 PST",
+        "scanned_at": "2026-09-18 17:44:31 PST",
         "gap_days": 6,
         "ticker_sentiment": "bearish",
         "spy_sentiment": "bearish",
-        "spx_sentiment": "bullish",
+        "spx_sentiment": "neutral",
         "keywords_found": [
           "falls",
           "drops"
         ],
         "spy_keywords": [
-          "rallies",
+          "jumps",
           "falls",
           "drops"
         ],
-        "spx_keywords": [
-          "jumps"
-        ],
+        "spx_keywords": [],
         "decision": "hold",
         "decision_reason": "bearish keywords confirmed PUT thesis",
         "raw_headlines": {
@@ -1743,28 +1731,28 @@
             "The Nuclear Stock Boom Could Keep Decaying"
           ],
           "spy": [
+            "PepsiCo Falls 3% While Consumer Staples Hold Firm; Keurig Dr. Pepper Eases, Coca-Cola Barely Budges",
             "Enphase Energy Drops 5% as Solar Selling Resumes; First Solar and Sunrun Fall 4%",
             "Lam Research Climbs 5% as Chip Equipment Names Outrun the Sector; Applied Materials Rises 4%, KLA Corp. Gains 3%",
+            "SanDisk Jumps 6% as Storage Bid Concentrates in One Name; Western Digital Rises 3%, Micron Ticks Up",
             "NuScale Power Drops 7% as Nuclear Stocks Hand Back the Vote Rally; Oklo Falls 5%, Centrus Energy Slides 3%",
             "Amazon\u2019s AI Bet is Already Starting to Pay Off",
+            "Red Cat and Unusual Machines Fall 3% as Drone Selloff Extends; Ondas Slips",
             "Automaker Stocks Reverse as Rotation Trade Unwinds: General Motors and Stellantis Fall 4%, Ford Pulls Back",
-            "Betting On A Tesla Roadster By 2027: A No-Brainer or Brainless?",
-            "Alibaba Climbs 3%, PDD and JD.com Tick Up: Is China Technology Finding Buyers Again?",
-            "Exchange-Traded Funds, Equity Futures Mixed Pre-Bell Friday as Tech Rally Continues",
-            "Bitmine Climbs 4% as Ethereum Rallies Despite CLARITY Act Failure; Sharplink Gains 3%",
-            "Netflix Falls 4% as Wells Fargo Cuts Rating to Underweight With $57 Target; Disney Barely Budges"
+            "Rocket Lab Slides 5% as Space Names Give Back Gains; AST SpaceMobile Drops 6%, Planet Labs Sinks 4%",
+            "Betting On A Tesla Roadster By 2027: A No-Brainer or Brainless?"
           ],
           "spx": [
             "S&P 500 wavers after best one-day rally in six weeks: AlphaCheck",
-            "Why Sandisk Stock Rallied Today",
-            "3 Reasons BANR is Risky and 1 Stock to Buy Instead",
-            "Stock Market Midday, Sept. 18: Stocks Slip, Crypto Gains",
-            "Will Micron Follow Nvidia and Give Investors a Huge Dividend Hike?",
-            "ServisFirst Bancshares (SFBS): Buy, Sell, or Hold Post Q2 Earnings?",
-            "Lazard Stock Slides 20% Over 8 Straight Down Days",
-            "Global shares fall, Treasury yields rise as central banks double down on inflation fight",
-            "The Bond Market Will Keep Driving Stocks\u2014At Least Until Earnings Season",
-            "Update: US Equity Indexes Fall as Benchmark Treasury Yield Jumps Back Above 5%"
+            "2 Reasons to Avoid APAM and 1 Stock to Buy Instead",
+            "The Dow Is Down for a Third Straight Week and the Nasdaq Is Somehow Up",
+            "3 Reasons BG is Risky and 1 Stock to Buy Instead",
+            "Is This Biotech Stock Too Cheap to Ignore After Its Latest Pullback?",
+            "Should You Buy Copart Stock On The ACV Deal?",
+            "3 Reasons SG is Risky and 1 Stock to Buy Instead",
+            "Stock Market Today: Dow Pressured As Yields Hit 5%; Chip Gear Players Jump, Lead Nasdaq 100 (Live Coverage)",
+            "Should You Buy Home Depot Stock Near Its Lowest Price-To-Sales In Ten Years?",
+            "Here's Why Investors Must Hold WCN Stock in Their Portfolios Now"
           ]
         }
       },
@@ -1807,11 +1795,11 @@
         "auto_note": "PANW CALL | $+43.29 (+13.09%) | dollar_gainer_1 | Strike $420.0 exp 2026-09-18 (3DTE) | IV 71.1% | SPY +nan% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-09-18 17:08:12 PST",
+        "scanned_at": "2026-09-18 17:44:31 PST",
         "gap_days": 3,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "bearish",
-        "spx_sentiment": "bullish",
+        "spx_sentiment": "neutral",
         "keywords_found": [
           "upgrade",
           "upgraded",
@@ -1819,13 +1807,11 @@
           "downgraded"
         ],
         "spy_keywords": [
-          "rallies",
+          "jumps",
           "falls",
           "drops"
         ],
-        "spx_keywords": [
-          "jumps"
-        ],
+        "spx_keywords": [],
         "decision": "sell",
         "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
         "raw_headlines": {
@@ -1842,28 +1828,28 @@
             "'Agents are like teenagers': Security must keep pace with AI, Cisco president says"
           ],
           "spy": [
+            "PepsiCo Falls 3% While Consumer Staples Hold Firm; Keurig Dr. Pepper Eases, Coca-Cola Barely Budges",
             "Enphase Energy Drops 5% as Solar Selling Resumes; First Solar and Sunrun Fall 4%",
             "Lam Research Climbs 5% as Chip Equipment Names Outrun the Sector; Applied Materials Rises 4%, KLA Corp. Gains 3%",
+            "SanDisk Jumps 6% as Storage Bid Concentrates in One Name; Western Digital Rises 3%, Micron Ticks Up",
             "NuScale Power Drops 7% as Nuclear Stocks Hand Back the Vote Rally; Oklo Falls 5%, Centrus Energy Slides 3%",
             "Amazon\u2019s AI Bet is Already Starting to Pay Off",
+            "Red Cat and Unusual Machines Fall 3% as Drone Selloff Extends; Ondas Slips",
             "Automaker Stocks Reverse as Rotation Trade Unwinds: General Motors and Stellantis Fall 4%, Ford Pulls Back",
-            "Betting On A Tesla Roadster By 2027: A No-Brainer or Brainless?",
-            "Alibaba Climbs 3%, PDD and JD.com Tick Up: Is China Technology Finding Buyers Again?",
-            "Exchange-Traded Funds, Equity Futures Mixed Pre-Bell Friday as Tech Rally Continues",
-            "Bitmine Climbs 4% as Ethereum Rallies Despite CLARITY Act Failure; Sharplink Gains 3%",
-            "Netflix Falls 4% as Wells Fargo Cuts Rating to Underweight With $57 Target; Disney Barely Budges"
+            "Rocket Lab Slides 5% as Space Names Give Back Gains; AST SpaceMobile Drops 6%, Planet Labs Sinks 4%",
+            "Betting On A Tesla Roadster By 2027: A No-Brainer or Brainless?"
           ],
           "spx": [
             "S&P 500 wavers after best one-day rally in six weeks: AlphaCheck",
-            "Why Sandisk Stock Rallied Today",
-            "3 Reasons BANR is Risky and 1 Stock to Buy Instead",
-            "Stock Market Midday, Sept. 18: Stocks Slip, Crypto Gains",
-            "Will Micron Follow Nvidia and Give Investors a Huge Dividend Hike?",
-            "ServisFirst Bancshares (SFBS): Buy, Sell, or Hold Post Q2 Earnings?",
-            "Lazard Stock Slides 20% Over 8 Straight Down Days",
-            "Global shares fall, Treasury yields rise as central banks double down on inflation fight",
-            "The Bond Market Will Keep Driving Stocks\u2014At Least Until Earnings Season",
-            "Update: US Equity Indexes Fall as Benchmark Treasury Yield Jumps Back Above 5%"
+            "2 Reasons to Avoid APAM and 1 Stock to Buy Instead",
+            "The Dow Is Down for a Third Straight Week and the Nasdaq Is Somehow Up",
+            "3 Reasons BG is Risky and 1 Stock to Buy Instead",
+            "Is This Biotech Stock Too Cheap to Ignore After Its Latest Pullback?",
+            "Should You Buy Copart Stock On The ACV Deal?",
+            "3 Reasons SG is Risky and 1 Stock to Buy Instead",
+            "Stock Market Today: Dow Pressured As Yields Hit 5%; Chip Gear Players Jump, Lead Nasdaq 100 (Live Coverage)",
+            "Should You Buy Home Depot Stock Near Its Lowest Price-To-Sales In Ten Years?",
+            "Here's Why Investors Must Hold WCN Stock in Their Portfolios Now"
           ]
         }
       },
@@ -1906,20 +1892,18 @@
         "auto_note": "TER PUT | $-50.52 (-13.30%) | dollar_loser_1 | Strike $280.0 exp 2026-09-18 (3DTE) | IV 90.0% | SPY +nan% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-09-18 17:08:12 PST",
+        "scanned_at": "2026-09-18 17:44:31 PST",
         "gap_days": 3,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "bearish",
-        "spx_sentiment": "bullish",
+        "spx_sentiment": "neutral",
         "keywords_found": [],
         "spy_keywords": [
-          "rallies",
+          "jumps",
           "falls",
           "drops"
         ],
-        "spx_keywords": [
-          "jumps"
-        ],
+        "spx_keywords": [],
         "decision": "hold",
         "decision_reason": "neutral keywords confirmed PUT thesis",
         "raw_headlines": {
@@ -1932,28 +1916,28 @@
             "Teradyne Looks Expensive Until You Price The AI Chips It Has Not Tested Yet"
           ],
           "spy": [
+            "PepsiCo Falls 3% While Consumer Staples Hold Firm; Keurig Dr. Pepper Eases, Coca-Cola Barely Budges",
             "Enphase Energy Drops 5% as Solar Selling Resumes; First Solar and Sunrun Fall 4%",
             "Lam Research Climbs 5% as Chip Equipment Names Outrun the Sector; Applied Materials Rises 4%, KLA Corp. Gains 3%",
+            "SanDisk Jumps 6% as Storage Bid Concentrates in One Name; Western Digital Rises 3%, Micron Ticks Up",
             "NuScale Power Drops 7% as Nuclear Stocks Hand Back the Vote Rally; Oklo Falls 5%, Centrus Energy Slides 3%",
             "Amazon\u2019s AI Bet is Already Starting to Pay Off",
+            "Red Cat and Unusual Machines Fall 3% as Drone Selloff Extends; Ondas Slips",
             "Automaker Stocks Reverse as Rotation Trade Unwinds: General Motors and Stellantis Fall 4%, Ford Pulls Back",
-            "Betting On A Tesla Roadster By 2027: A No-Brainer or Brainless?",
-            "Alibaba Climbs 3%, PDD and JD.com Tick Up: Is China Technology Finding Buyers Again?",
-            "Exchange-Traded Funds, Equity Futures Mixed Pre-Bell Friday as Tech Rally Continues",
-            "Bitmine Climbs 4% as Ethereum Rallies Despite CLARITY Act Failure; Sharplink Gains 3%",
-            "Netflix Falls 4% as Wells Fargo Cuts Rating to Underweight With $57 Target; Disney Barely Budges"
+            "Rocket Lab Slides 5% as Space Names Give Back Gains; AST SpaceMobile Drops 6%, Planet Labs Sinks 4%",
+            "Betting On A Tesla Roadster By 2027: A No-Brainer or Brainless?"
           ],
           "spx": [
             "S&P 500 wavers after best one-day rally in six weeks: AlphaCheck",
-            "Why Sandisk Stock Rallied Today",
-            "3 Reasons BANR is Risky and 1 Stock to Buy Instead",
-            "Stock Market Midday, Sept. 18: Stocks Slip, Crypto Gains",
-            "Will Micron Follow Nvidia and Give Investors a Huge Dividend Hike?",
-            "ServisFirst Bancshares (SFBS): Buy, Sell, or Hold Post Q2 Earnings?",
-            "Lazard Stock Slides 20% Over 8 Straight Down Days",
-            "Global shares fall, Treasury yields rise as central banks double down on inflation fight",
-            "The Bond Market Will Keep Driving Stocks\u2014At Least Until Earnings Season",
-            "Update: US Equity Indexes Fall as Benchmark Treasury Yield Jumps Back Above 5%"
+            "2 Reasons to Avoid APAM and 1 Stock to Buy Instead",
+            "The Dow Is Down for a Third Straight Week and the Nasdaq Is Somehow Up",
+            "3 Reasons BG is Risky and 1 Stock to Buy Instead",
+            "Is This Biotech Stock Too Cheap to Ignore After Its Latest Pullback?",
+            "Should You Buy Copart Stock On The ACV Deal?",
+            "3 Reasons SG is Risky and 1 Stock to Buy Instead",
+            "Stock Market Today: Dow Pressured As Yields Hit 5%; Chip Gear Players Jump, Lead Nasdaq 100 (Live Coverage)",
+            "Should You Buy Home Depot Stock Near Its Lowest Price-To-Sales In Ten Years?",
+            "Here's Why Investors Must Hold WCN Stock in Their Portfolios Now"
           ]
         }
       },
@@ -1999,20 +1983,18 @@
         "auto_note": "QLYS CALL | $+12.46 (+7.21%) | dollar_gainer_1 | Strike $210.0 exp 2026-09-18 (2DTE) | IV 78.5% | SPY +nan% | MACRO: fed, rate hike"
       },
       "news_scan": {
-        "scanned_at": "2026-09-18 17:08:12 PST",
+        "scanned_at": "2026-09-18 17:44:31 PST",
         "gap_days": 2,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "bearish",
-        "spx_sentiment": "bullish",
+        "spx_sentiment": "neutral",
         "keywords_found": [],
         "spy_keywords": [
-          "rallies",
+          "jumps",
           "falls",
           "drops"
         ],
-        "spx_keywords": [
-          "jumps"
-        ],
+        "spx_keywords": [],
         "decision": "sell",
         "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
         "raw_headlines": {
@@ -2021,28 +2003,28 @@
             "Qualys (QLYS): Buy, Sell, or Hold Post Q2 Earnings?"
           ],
           "spy": [
+            "PepsiCo Falls 3% While Consumer Staples Hold Firm; Keurig Dr. Pepper Eases, Coca-Cola Barely Budges",
             "Enphase Energy Drops 5% as Solar Selling Resumes; First Solar and Sunrun Fall 4%",
             "Lam Research Climbs 5% as Chip Equipment Names Outrun the Sector; Applied Materials Rises 4%, KLA Corp. Gains 3%",
+            "SanDisk Jumps 6% as Storage Bid Concentrates in One Name; Western Digital Rises 3%, Micron Ticks Up",
             "NuScale Power Drops 7% as Nuclear Stocks Hand Back the Vote Rally; Oklo Falls 5%, Centrus Energy Slides 3%",
             "Amazon\u2019s AI Bet is Already Starting to Pay Off",
+            "Red Cat and Unusual Machines Fall 3% as Drone Selloff Extends; Ondas Slips",
             "Automaker Stocks Reverse as Rotation Trade Unwinds: General Motors and Stellantis Fall 4%, Ford Pulls Back",
-            "Betting On A Tesla Roadster By 2027: A No-Brainer or Brainless?",
-            "Alibaba Climbs 3%, PDD and JD.com Tick Up: Is China Technology Finding Buyers Again?",
-            "Exchange-Traded Funds, Equity Futures Mixed Pre-Bell Friday as Tech Rally Continues",
-            "Bitmine Climbs 4% as Ethereum Rallies Despite CLARITY Act Failure; Sharplink Gains 3%",
-            "Netflix Falls 4% as Wells Fargo Cuts Rating to Underweight With $57 Target; Disney Barely Budges"
+            "Rocket Lab Slides 5% as Space Names Give Back Gains; AST SpaceMobile Drops 6%, Planet Labs Sinks 4%",
+            "Betting On A Tesla Roadster By 2027: A No-Brainer or Brainless?"
           ],
           "spx": [
             "S&P 500 wavers after best one-day rally in six weeks: AlphaCheck",
-            "Why Sandisk Stock Rallied Today",
-            "3 Reasons BANR is Risky and 1 Stock to Buy Instead",
-            "Stock Market Midday, Sept. 18: Stocks Slip, Crypto Gains",
-            "Will Micron Follow Nvidia and Give Investors a Huge Dividend Hike?",
-            "ServisFirst Bancshares (SFBS): Buy, Sell, or Hold Post Q2 Earnings?",
-            "Lazard Stock Slides 20% Over 8 Straight Down Days",
-            "Global shares fall, Treasury yields rise as central banks double down on inflation fight",
-            "The Bond Market Will Keep Driving Stocks\u2014At Least Until Earnings Season",
-            "Update: US Equity Indexes Fall as Benchmark Treasury Yield Jumps Back Above 5%"
+            "2 Reasons to Avoid APAM and 1 Stock to Buy Instead",
+            "The Dow Is Down for a Third Straight Week and the Nasdaq Is Somehow Up",
+            "3 Reasons BG is Risky and 1 Stock to Buy Instead",
+            "Is This Biotech Stock Too Cheap to Ignore After Its Latest Pullback?",
+            "Should You Buy Copart Stock On The ACV Deal?",
+            "3 Reasons SG is Risky and 1 Stock to Buy Instead",
+            "Stock Market Today: Dow Pressured As Yields Hit 5%; Chip Gear Players Jump, Lead Nasdaq 100 (Live Coverage)",
+            "Should You Buy Home Depot Stock Near Its Lowest Price-To-Sales In Ten Years?",
+            "Here's Why Investors Must Hold WCN Stock in Their Portfolios Now"
           ]
         }
       },
@@ -2088,22 +2070,20 @@
         "auto_note": "AXON PUT | $-48.10 (-9.81%) | dollar_loser_1 | Strike $390.0 exp 2026-09-18 (2DTE) | IV 78.0% | SPY +nan% | MACRO: fed, rate hike"
       },
       "news_scan": {
-        "scanned_at": "2026-09-18 17:08:12 PST",
+        "scanned_at": "2026-09-18 17:44:31 PST",
         "gap_days": 2,
         "ticker_sentiment": "bearish",
         "spy_sentiment": "bearish",
-        "spx_sentiment": "bullish",
+        "spx_sentiment": "neutral",
         "keywords_found": [
           "drops"
         ],
         "spy_keywords": [
-          "rallies",
+          "jumps",
           "falls",
           "drops"
         ],
-        "spx_keywords": [
-          "jumps"
-        ],
+        "spx_keywords": [],
         "decision": "hold",
         "decision_reason": "bearish keywords confirmed PUT thesis",
         "raw_headlines": {
@@ -2120,28 +2100,28 @@
             "Why Axon Got Slammed By Convertible: It's The Cash Flow"
           ],
           "spy": [
+            "PepsiCo Falls 3% While Consumer Staples Hold Firm; Keurig Dr. Pepper Eases, Coca-Cola Barely Budges",
             "Enphase Energy Drops 5% as Solar Selling Resumes; First Solar and Sunrun Fall 4%",
             "Lam Research Climbs 5% as Chip Equipment Names Outrun the Sector; Applied Materials Rises 4%, KLA Corp. Gains 3%",
+            "SanDisk Jumps 6% as Storage Bid Concentrates in One Name; Western Digital Rises 3%, Micron Ticks Up",
             "NuScale Power Drops 7% as Nuclear Stocks Hand Back the Vote Rally; Oklo Falls 5%, Centrus Energy Slides 3%",
             "Amazon\u2019s AI Bet is Already Starting to Pay Off",
+            "Red Cat and Unusual Machines Fall 3% as Drone Selloff Extends; Ondas Slips",
             "Automaker Stocks Reverse as Rotation Trade Unwinds: General Motors and Stellantis Fall 4%, Ford Pulls Back",
-            "Betting On A Tesla Roadster By 2027: A No-Brainer or Brainless?",
-            "Alibaba Climbs 3%, PDD and JD.com Tick Up: Is China Technology Finding Buyers Again?",
-            "Exchange-Traded Funds, Equity Futures Mixed Pre-Bell Friday as Tech Rally Continues",
-            "Bitmine Climbs 4% as Ethereum Rallies Despite CLARITY Act Failure; Sharplink Gains 3%",
-            "Netflix Falls 4% as Wells Fargo Cuts Rating to Underweight With $57 Target; Disney Barely Budges"
+            "Rocket Lab Slides 5% as Space Names Give Back Gains; AST SpaceMobile Drops 6%, Planet Labs Sinks 4%",
+            "Betting On A Tesla Roadster By 2027: A No-Brainer or Brainless?"
           ],
           "spx": [
             "S&P 500 wavers after best one-day rally in six weeks: AlphaCheck",
-            "Why Sandisk Stock Rallied Today",
-            "3 Reasons BANR is Risky and 1 Stock to Buy Instead",
-            "Stock Market Midday, Sept. 18: Stocks Slip, Crypto Gains",
-            "Will Micron Follow Nvidia and Give Investors a Huge Dividend Hike?",
-            "ServisFirst Bancshares (SFBS): Buy, Sell, or Hold Post Q2 Earnings?",
-            "Lazard Stock Slides 20% Over 8 Straight Down Days",
-            "Global shares fall, Treasury yields rise as central banks double down on inflation fight",
-            "The Bond Market Will Keep Driving Stocks\u2014At Least Until Earnings Season",
-            "Update: US Equity Indexes Fall as Benchmark Treasury Yield Jumps Back Above 5%"
+            "2 Reasons to Avoid APAM and 1 Stock to Buy Instead",
+            "The Dow Is Down for a Third Straight Week and the Nasdaq Is Somehow Up",
+            "3 Reasons BG is Risky and 1 Stock to Buy Instead",
+            "Is This Biotech Stock Too Cheap to Ignore After Its Latest Pullback?",
+            "Should You Buy Copart Stock On The ACV Deal?",
+            "3 Reasons SG is Risky and 1 Stock to Buy Instead",
+            "Stock Market Today: Dow Pressured As Yields Hit 5%; Chip Gear Players Jump, Lead Nasdaq 100 (Live Coverage)",
+            "Should You Buy Home Depot Stock Near Its Lowest Price-To-Sales In Ten Years?",
+            "Here's Why Investors Must Hold WCN Stock in Their Portfolios Now"
           ]
         }
       },
@@ -2187,24 +2167,22 @@
         "auto_note": "COHR CALL | $+18.76 (+6.92%) | dollar_gainer_1 | Strike $320.0 exp 2026-09-18 (1DTE) | IV 88.5% | SPY +nan% | MACRO: fed, war"
       },
       "news_scan": {
-        "scanned_at": "2026-09-18 17:08:12 PST",
+        "scanned_at": "2026-09-18 17:44:31 PST",
         "gap_days": 1,
         "ticker_sentiment": "bullish",
         "spy_sentiment": "bearish",
-        "spx_sentiment": "bullish",
+        "spx_sentiment": "neutral",
         "keywords_found": [
           "revenue growth",
           "jumps",
           "concern"
         ],
         "spy_keywords": [
-          "rallies",
+          "jumps",
           "falls",
           "drops"
         ],
-        "spx_keywords": [
-          "jumps"
-        ],
+        "spx_keywords": [],
         "decision": "hold",
         "decision_reason": "bullish keywords confirmed CALL thesis",
         "raw_headlines": {
@@ -2221,28 +2199,28 @@
             "CIEN Targets 30% Revenue Growth Through 2029 \u2014 Peers COHR, GLW And AAOI Rally After Guidance"
           ],
           "spy": [
+            "PepsiCo Falls 3% While Consumer Staples Hold Firm; Keurig Dr. Pepper Eases, Coca-Cola Barely Budges",
             "Enphase Energy Drops 5% as Solar Selling Resumes; First Solar and Sunrun Fall 4%",
             "Lam Research Climbs 5% as Chip Equipment Names Outrun the Sector; Applied Materials Rises 4%, KLA Corp. Gains 3%",
+            "SanDisk Jumps 6% as Storage Bid Concentrates in One Name; Western Digital Rises 3%, Micron Ticks Up",
             "NuScale Power Drops 7% as Nuclear Stocks Hand Back the Vote Rally; Oklo Falls 5%, Centrus Energy Slides 3%",
             "Amazon\u2019s AI Bet is Already Starting to Pay Off",
+            "Red Cat and Unusual Machines Fall 3% as Drone Selloff Extends; Ondas Slips",
             "Automaker Stocks Reverse as Rotation Trade Unwinds: General Motors and Stellantis Fall 4%, Ford Pulls Back",
-            "Betting On A Tesla Roadster By 2027: A No-Brainer or Brainless?",
-            "Alibaba Climbs 3%, PDD and JD.com Tick Up: Is China Technology Finding Buyers Again?",
-            "Exchange-Traded Funds, Equity Futures Mixed Pre-Bell Friday as Tech Rally Continues",
-            "Bitmine Climbs 4% as Ethereum Rallies Despite CLARITY Act Failure; Sharplink Gains 3%",
-            "Netflix Falls 4% as Wells Fargo Cuts Rating to Underweight With $57 Target; Disney Barely Budges"
+            "Rocket Lab Slides 5% as Space Names Give Back Gains; AST SpaceMobile Drops 6%, Planet Labs Sinks 4%",
+            "Betting On A Tesla Roadster By 2027: A No-Brainer or Brainless?"
           ],
           "spx": [
             "S&P 500 wavers after best one-day rally in six weeks: AlphaCheck",
-            "Why Sandisk Stock Rallied Today",
-            "3 Reasons BANR is Risky and 1 Stock to Buy Instead",
-            "Stock Market Midday, Sept. 18: Stocks Slip, Crypto Gains",
-            "Will Micron Follow Nvidia and Give Investors a Huge Dividend Hike?",
-            "ServisFirst Bancshares (SFBS): Buy, Sell, or Hold Post Q2 Earnings?",
-            "Lazard Stock Slides 20% Over 8 Straight Down Days",
-            "Global shares fall, Treasury yields rise as central banks double down on inflation fight",
-            "The Bond Market Will Keep Driving Stocks\u2014At Least Until Earnings Season",
-            "Update: US Equity Indexes Fall as Benchmark Treasury Yield Jumps Back Above 5%"
+            "2 Reasons to Avoid APAM and 1 Stock to Buy Instead",
+            "The Dow Is Down for a Third Straight Week and the Nasdaq Is Somehow Up",
+            "3 Reasons BG is Risky and 1 Stock to Buy Instead",
+            "Is This Biotech Stock Too Cheap to Ignore After Its Latest Pullback?",
+            "Should You Buy Copart Stock On The ACV Deal?",
+            "3 Reasons SG is Risky and 1 Stock to Buy Instead",
+            "Stock Market Today: Dow Pressured As Yields Hit 5%; Chip Gear Players Jump, Lead Nasdaq 100 (Live Coverage)",
+            "Should You Buy Home Depot Stock Near Its Lowest Price-To-Sales In Ten Years?",
+            "Here's Why Investors Must Hold WCN Stock in Their Portfolios Now"
           ]
         }
       },
@@ -2288,20 +2266,18 @@
         "auto_note": "FANG PUT | $-16.99 (-8.03%) | dollar_loser_1 | Strike $185.0 exp 2026-09-18 (1DTE) | IV 53.9% | SPY +nan% | MACRO: fed, war"
       },
       "news_scan": {
-        "scanned_at": "2026-09-18 17:08:12 PST",
+        "scanned_at": "2026-09-18 17:44:31 PST",
         "gap_days": 1,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "bearish",
-        "spx_sentiment": "bullish",
+        "spx_sentiment": "neutral",
         "keywords_found": [],
         "spy_keywords": [
-          "rallies",
+          "jumps",
           "falls",
           "drops"
         ],
-        "spx_keywords": [
-          "jumps"
-        ],
+        "spx_keywords": [],
         "decision": "hold",
         "decision_reason": "neutral keywords confirmed PUT thesis",
         "raw_headlines": {
@@ -2315,28 +2291,28 @@
             "Diamondback Energy (FANG) Gains As Market Dips: What You Should Know"
           ],
           "spy": [
+            "PepsiCo Falls 3% While Consumer Staples Hold Firm; Keurig Dr. Pepper Eases, Coca-Cola Barely Budges",
             "Enphase Energy Drops 5% as Solar Selling Resumes; First Solar and Sunrun Fall 4%",
             "Lam Research Climbs 5% as Chip Equipment Names Outrun the Sector; Applied Materials Rises 4%, KLA Corp. Gains 3%",
+            "SanDisk Jumps 6% as Storage Bid Concentrates in One Name; Western Digital Rises 3%, Micron Ticks Up",
             "NuScale Power Drops 7% as Nuclear Stocks Hand Back the Vote Rally; Oklo Falls 5%, Centrus Energy Slides 3%",
             "Amazon\u2019s AI Bet is Already Starting to Pay Off",
+            "Red Cat and Unusual Machines Fall 3% as Drone Selloff Extends; Ondas Slips",
             "Automaker Stocks Reverse as Rotation Trade Unwinds: General Motors and Stellantis Fall 4%, Ford Pulls Back",
-            "Betting On A Tesla Roadster By 2027: A No-Brainer or Brainless?",
-            "Alibaba Climbs 3%, PDD and JD.com Tick Up: Is China Technology Finding Buyers Again?",
-            "Exchange-Traded Funds, Equity Futures Mixed Pre-Bell Friday as Tech Rally Continues",
-            "Bitmine Climbs 4% as Ethereum Rallies Despite CLARITY Act Failure; Sharplink Gains 3%",
-            "Netflix Falls 4% as Wells Fargo Cuts Rating to Underweight With $57 Target; Disney Barely Budges"
+            "Rocket Lab Slides 5% as Space Names Give Back Gains; AST SpaceMobile Drops 6%, Planet Labs Sinks 4%",
+            "Betting On A Tesla Roadster By 2027: A No-Brainer or Brainless?"
           ],
           "spx": [
             "S&P 500 wavers after best one-day rally in six weeks: AlphaCheck",
-            "Why Sandisk Stock Rallied Today",
-            "3 Reasons BANR is Risky and 1 Stock to Buy Instead",
-            "Stock Market Midday, Sept. 18: Stocks Slip, Crypto Gains",
-            "Will Micron Follow Nvidia and Give Investors a Huge Dividend Hike?",
-            "ServisFirst Bancshares (SFBS): Buy, Sell, or Hold Post Q2 Earnings?",
-            "Lazard Stock Slides 20% Over 8 Straight Down Days",
-            "Global shares fall, Treasury yields rise as central banks double down on inflation fight",
-            "The Bond Market Will Keep Driving Stocks\u2014At Least Until Earnings Season",
-            "Update: US Equity Indexes Fall as Benchmark Treasury Yield Jumps Back Above 5%"
+            "2 Reasons to Avoid APAM and 1 Stock to Buy Instead",
+            "The Dow Is Down for a Third Straight Week and the Nasdaq Is Somehow Up",
+            "3 Reasons BG is Risky and 1 Stock to Buy Instead",
+            "Is This Biotech Stock Too Cheap to Ignore After Its Latest Pullback?",
+            "Should You Buy Copart Stock On The ACV Deal?",
+            "3 Reasons SG is Risky and 1 Stock to Buy Instead",
+            "Stock Market Today: Dow Pressured As Yields Hit 5%; Chip Gear Players Jump, Lead Nasdaq 100 (Live Coverage)",
+            "Should You Buy Home Depot Stock Near Its Lowest Price-To-Sales In Ten Years?",
+            "Here's Why Investors Must Hold WCN Stock in Their Portfolios Now"
           ]
         }
       },
