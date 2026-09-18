@@ -1248,54 +1248,55 @@
         "auto_note": "ALAB CALL | $+27.58 (+9.75%) | dollar_gainer_1 | Strike $390.0 exp 2026-09-11 (6DTE) | IV 88.2% | SPY +nan% | MACRO: rate hike, war"
       },
       "news_scan": {
-        "scanned_at": "2026-09-17 18:22:59 PST",
-        "gap_days": 12,
+        "scanned_at": "2026-09-18 17:08:12 PST",
+        "gap_days": 13,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bullish",
-        "spx_sentiment": "neutral",
+        "spy_sentiment": "bearish",
+        "spx_sentiment": "bullish",
         "keywords_found": [],
         "spy_keywords": [
-          "surge",
+          "rallies",
+          "falls",
+          "drops"
+        ],
+        "spx_keywords": [
           "jumps"
         ],
-        "spx_keywords": [],
-        "decision": "hold",
-        "decision_reason": "neutral keywords confirmed CALL thesis",
+        "decision": "sell",
+        "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
         "raw_headlines": {
           "ticker": [
+            "AMD Leads Chip Stocks Higher Amid Sector Rebound",
             "Why Is Astera Labs (ALAB) Expanding Leo Memory Controllers For AI And Cloud?",
             "Grab Cheers Investors With Share Repurchase Completion Plans",
             "ALAB Broadens Leo Portfolio: Can It Stay Ahead of MRVL & CRDO?",
             "Grab to Gain From Majority Stake Buyout in Atome Financial: Here's How",
             "Credo Powers AI Networks With New 1.6T ZeroFlap Optics Launch",
-            "3 AI Infrastructure Stocks Institutions Love but Most Retail Investors Never Heard Of",
-            "Astera Labs vs. KLA: Which Semiconductor Stock Has More Upside?",
-            "Can Credo's OmniConnect Unlock a New AI Inference Growth Engine?",
-            "Why Is Astera Labs Stock Down Today?"
+            "3 AI Infrastructure Stocks Institutions Love but Most Retail Investors Never Heard Of"
           ],
           "spy": [
-            "Boomers Held Bitcoin ETFs Through a 54% Crash but the S&P 500 Rose 16%",
-            "Sunrun and First Solar Rise 6% as Solar Selloff Unwinds; SolarEdge Climbs 4%",
-            "Rocket Lab Jumps 6% as FCC Clears First Hurdle on Iridium Deal; Iridium Communications Barely Budges",
-            "Oklo Jumps 13%, NuScale Power Climbs 10%: Does the House Data Center Power Vote Reach Nuclear?",
-            "BlackBerry Climbs 6%, Mobileye Rises 5%: Is the Software-Defined Vehicle Trade Waking Up?",
-            "Automaker Stocks Rally as Rotation Lifts Cyclicals: General Motors Climbs 4%, Stellantis Rises 4%, Ford Gains 3%, Tesla Adds 2%",
-            "Why CoreWeave Is Tumbling Hard While the Market Is Soaring",
-            "FuelCell Jumps 13% as House Shifts Data Center Power Costs to Operators; Plug Power Climbs 7%, Bloom Energy Rises 3%",
-            "Generac Surges 16% on $2.4B Amazon Data Center Generator Deal; Caterpillar Ticks Up, Cummins Sits Out the Rally",
-            "The Strategist Who Wanted 8,400 on the S&P 500 Just Cut His Number, and It Is Not Because Earnings Got Worse"
+            "Enphase Energy Drops 5% as Solar Selling Resumes; First Solar and Sunrun Fall 4%",
+            "Lam Research Climbs 5% as Chip Equipment Names Outrun the Sector; Applied Materials Rises 4%, KLA Corp. Gains 3%",
+            "NuScale Power Drops 7% as Nuclear Stocks Hand Back the Vote Rally; Oklo Falls 5%, Centrus Energy Slides 3%",
+            "Amazon\u2019s AI Bet is Already Starting to Pay Off",
+            "Automaker Stocks Reverse as Rotation Trade Unwinds: General Motors and Stellantis Fall 4%, Ford Pulls Back",
+            "Betting On A Tesla Roadster By 2027: A No-Brainer or Brainless?",
+            "Alibaba Climbs 3%, PDD and JD.com Tick Up: Is China Technology Finding Buyers Again?",
+            "Exchange-Traded Funds, Equity Futures Mixed Pre-Bell Friday as Tech Rally Continues",
+            "Bitmine Climbs 4% as Ethereum Rallies Despite CLARITY Act Failure; Sharplink Gains 3%",
+            "Netflix Falls 4% as Wells Fargo Cuts Rating to Underweight With $57 Target; Disney Barely Budges"
           ],
           "spx": [
-            "Stock market today: Dow, S&P 500, Nasdaq rise as oil slips, Fed rate hike pacifies markets' inflation worries",
-            "Stock market today: Dow sinks 600 points, S&P 500 and Nasdaq fall as Fed hikes rates, bond yields rise",
-            "2 Reasons to Like COST (and 1 Not So Much)",
-            "Goldman Sachs sees major AI catalyst for Meta stock",
-            "3 Reasons to Sell EBAY and 1 Stock to Buy Instead",
-            "Stock Market Today: Dow Gains 300 Points; Palantir Higher Amid AI Regulation Debate (Live Coverage)",
-            "Prediction: September Will Be Volatile, but Stocks Will Rally After November Midterms",
-            "Update: US Equity Indexes Rise as Treasury Yields Slump After Fed Reaffirms Commitment to Controlling Inflation",
-            "History Says This Will Happen to Nvidia's Stock in 2027 (Hint: You're Going to Want to Buy Now)",
-            "Update: Equities Rise Intraday as Bond Yields Retreat Following Fed Decision"
+            "S&P 500 wavers after best one-day rally in six weeks: AlphaCheck",
+            "Why Sandisk Stock Rallied Today",
+            "3 Reasons BANR is Risky and 1 Stock to Buy Instead",
+            "Stock Market Midday, Sept. 18: Stocks Slip, Crypto Gains",
+            "Will Micron Follow Nvidia and Give Investors a Huge Dividend Hike?",
+            "ServisFirst Bancshares (SFBS): Buy, Sell, or Hold Post Q2 Earnings?",
+            "Lazard Stock Slides 20% Over 8 Straight Down Days",
+            "Global shares fall, Treasury yields rise as central banks double down on inflation fight",
+            "The Bond Market Will Keep Driving Stocks\u2014At Least Until Earnings Season",
+            "Update: US Equity Indexes Fall as Benchmark Treasury Yield Jumps Back Above 5%"
           ]
         }
       },
@@ -1341,57 +1342,60 @@
         "auto_note": "TSLA PUT | $-22.29 (-5.92%) | dollar_loser_1 | Strike $340.0 exp 2026-09-09 (4DTE) | IV 32.4% | SPY +nan% | MACRO: rate hike, war"
       },
       "news_scan": {
-        "scanned_at": "2026-09-17 18:22:59 PST",
-        "gap_days": 12,
+        "scanned_at": "2026-09-18 17:08:12 PST",
+        "gap_days": 13,
         "ticker_sentiment": "bearish",
-        "spy_sentiment": "bullish",
-        "spx_sentiment": "neutral",
+        "spy_sentiment": "bearish",
+        "spx_sentiment": "bullish",
         "keywords_found": [
-          "restructuring"
+          "falls"
         ],
         "spy_keywords": [
-          "surge",
+          "rallies",
+          "falls",
+          "drops"
+        ],
+        "spx_keywords": [
           "jumps"
         ],
-        "spx_keywords": [],
         "decision": "hold",
         "decision_reason": "bearish keywords confirmed PUT thesis",
         "raw_headlines": {
           "ticker": [
-            "SpaceX stock pops ahead of Starship launch",
-            "Goldman Slashes Tesla Q3 Delivery Forecast to 435,000: What Do Prediction Markets Say?",
-            "Elon Musk warns one AI milestone dwarfs nuclear weapons",
-            "Elon Musk sends strong message to SpaceX and Tesla investors",
-            "Automaker Stocks Rally as Rotation Lifts Cyclicals: General Motors Climbs 4%, Stellantis Rises 4%, Ford Gains 3%, Tesla Adds 2%",
-            "Jim Cramer on Tesla (TSLA): \u201cMy Only Solution to It Is That SpaceX Has to Buy It\u201d",
-            "BYD Just Reported Record Monthly Sales. Here's What That Means for Tesla Stock.",
-            "Lucid\u2019s Robotaxi Push Expands With Bolt Deal In Europe \u2014 CEO Silvio Napoli Says AlixPartners Has Concluded Restructuring Work",
-            "A Struggling Rival Shows Just How Hard it is to Challenge Tesla (TSLA)\u2019s Semi Truck",
-            "Tesla (TSLA)\u2019s Driverless Cybercab Draws a Federal Safety Probe Right Out of the Gate"
+            "Trump takes aim at Warsh after Fed hike",
+            "SpaceX stock falls as Starship's test flight slips to Sept. 28, retail investors sell shares",
+            "Auto industry urges Trump to keep Chinese automakers out ahead of Xi meeting",
+            "What's Going On With Tesla Stock Friday",
+            "Tesla Stock Fell After Its Last 4 Delivery Reports, Even a Big Beat. Here's What History Says to Expect in October.",
+            "FSS vs. TSLA: Which Stock Is the Better Value Option?",
+            "Waymo Is Doing So Much More Than Most Understand, Keeping Me Buying Alphabet Hand Over Fist",
+            "Inside Tesla\u2019s Shanghai Gigafactory and What It Means for the Stock.",
+            "Eisman: Tesla\u2019s Multiple Is Crazy Unless You \u201cBelieve that Tesla\u2019s Robotaxi Business will Conquer the World.\u201d \u201cCount Me As a Skeptic\u201d",
+            "Elon Musk\u2019s Tesla And SpaceX Sue Nanotech Firm TERA-Print Over \u2018Terafab\u2019 Name For Planned $16.8 Billion Texas AI Chip Factory"
           ],
           "spy": [
-            "Boomers Held Bitcoin ETFs Through a 54% Crash but the S&P 500 Rose 16%",
-            "Sunrun and First Solar Rise 6% as Solar Selloff Unwinds; SolarEdge Climbs 4%",
-            "Rocket Lab Jumps 6% as FCC Clears First Hurdle on Iridium Deal; Iridium Communications Barely Budges",
-            "Oklo Jumps 13%, NuScale Power Climbs 10%: Does the House Data Center Power Vote Reach Nuclear?",
-            "BlackBerry Climbs 6%, Mobileye Rises 5%: Is the Software-Defined Vehicle Trade Waking Up?",
-            "Automaker Stocks Rally as Rotation Lifts Cyclicals: General Motors Climbs 4%, Stellantis Rises 4%, Ford Gains 3%, Tesla Adds 2%",
-            "Why CoreWeave Is Tumbling Hard While the Market Is Soaring",
-            "FuelCell Jumps 13% as House Shifts Data Center Power Costs to Operators; Plug Power Climbs 7%, Bloom Energy Rises 3%",
-            "Generac Surges 16% on $2.4B Amazon Data Center Generator Deal; Caterpillar Ticks Up, Cummins Sits Out the Rally",
-            "The Strategist Who Wanted 8,400 on the S&P 500 Just Cut His Number, and It Is Not Because Earnings Got Worse"
+            "Enphase Energy Drops 5% as Solar Selling Resumes; First Solar and Sunrun Fall 4%",
+            "Lam Research Climbs 5% as Chip Equipment Names Outrun the Sector; Applied Materials Rises 4%, KLA Corp. Gains 3%",
+            "NuScale Power Drops 7% as Nuclear Stocks Hand Back the Vote Rally; Oklo Falls 5%, Centrus Energy Slides 3%",
+            "Amazon\u2019s AI Bet is Already Starting to Pay Off",
+            "Automaker Stocks Reverse as Rotation Trade Unwinds: General Motors and Stellantis Fall 4%, Ford Pulls Back",
+            "Betting On A Tesla Roadster By 2027: A No-Brainer or Brainless?",
+            "Alibaba Climbs 3%, PDD and JD.com Tick Up: Is China Technology Finding Buyers Again?",
+            "Exchange-Traded Funds, Equity Futures Mixed Pre-Bell Friday as Tech Rally Continues",
+            "Bitmine Climbs 4% as Ethereum Rallies Despite CLARITY Act Failure; Sharplink Gains 3%",
+            "Netflix Falls 4% as Wells Fargo Cuts Rating to Underweight With $57 Target; Disney Barely Budges"
           ],
           "spx": [
-            "Stock market today: Dow, S&P 500, Nasdaq rise as oil slips, Fed rate hike pacifies markets' inflation worries",
-            "Stock market today: Dow sinks 600 points, S&P 500 and Nasdaq fall as Fed hikes rates, bond yields rise",
-            "2 Reasons to Like COST (and 1 Not So Much)",
-            "Goldman Sachs sees major AI catalyst for Meta stock",
-            "3 Reasons to Sell EBAY and 1 Stock to Buy Instead",
-            "Stock Market Today: Dow Gains 300 Points; Palantir Higher Amid AI Regulation Debate (Live Coverage)",
-            "Prediction: September Will Be Volatile, but Stocks Will Rally After November Midterms",
-            "Update: US Equity Indexes Rise as Treasury Yields Slump After Fed Reaffirms Commitment to Controlling Inflation",
-            "History Says This Will Happen to Nvidia's Stock in 2027 (Hint: You're Going to Want to Buy Now)",
-            "Update: Equities Rise Intraday as Bond Yields Retreat Following Fed Decision"
+            "S&P 500 wavers after best one-day rally in six weeks: AlphaCheck",
+            "Why Sandisk Stock Rallied Today",
+            "3 Reasons BANR is Risky and 1 Stock to Buy Instead",
+            "Stock Market Midday, Sept. 18: Stocks Slip, Crypto Gains",
+            "Will Micron Follow Nvidia and Give Investors a Huge Dividend Hike?",
+            "ServisFirst Bancshares (SFBS): Buy, Sell, or Hold Post Q2 Earnings?",
+            "Lazard Stock Slides 20% Over 8 Straight Down Days",
+            "Global shares fall, Treasury yields rise as central banks double down on inflation fight",
+            "The Bond Market Will Keep Driving Stocks\u2014At Least Until Earnings Season",
+            "Update: US Equity Indexes Fall as Benchmark Treasury Yield Jumps Back Above 5%"
           ]
         }
       },
@@ -1434,53 +1438,56 @@
         "auto_note": "DDOG CALL | $+15.04 (+7.15%) | dollar_gainer_1 | Strike $240.0 exp 2026-09-11 (1DTE) | IV 68.4% | SPY +nan% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-09-17 18:22:59 PST",
-        "gap_days": 7,
+        "scanned_at": "2026-09-18 17:08:12 PST",
+        "gap_days": 8,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bullish",
-        "spx_sentiment": "neutral",
+        "spy_sentiment": "bearish",
+        "spx_sentiment": "bullish",
         "keywords_found": [],
         "spy_keywords": [
-          "surge",
+          "rallies",
+          "falls",
+          "drops"
+        ],
+        "spx_keywords": [
           "jumps"
         ],
-        "spx_keywords": [],
-        "decision": "hold",
-        "decision_reason": "neutral keywords confirmed CALL thesis",
+        "decision": "sell",
+        "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
         "raw_headlines": {
           "ticker": [
+            "Datadog (DDOG) Outpaces Stock Market Gains: What You Should Know",
             "Datadog's Enterprise Customer Expansion Accelerates: What's Ahead?",
             "2 Software Stocks on Our Watchlist and 1 Facing Challenges",
             "3 Cybersecurity Stocks With AI Risk Demand Investors Should Watch",
             "Datadog's Chief Product Officer Sells 12,700 Shares for $2.8 Million as the Stock Delivers a 59% One-Year Return",
             "Datadog (DDOG) Stock Could Be A Bargain On Cash Flow",
             "CSCO's Splunk AI Push Gains Momentum: Can It Outpace DDOG & CRWD?",
-            "Is Analyst Optimism Enough To Justify Datadog\u2019s (DDOG) Premium Valuation In Observability And Security?",
-            "How Is Datadog\u2019s Stock Performance Compared to Other Cloud Computing Stocks"
+            "Is Analyst Optimism Enough To Justify Datadog\u2019s (DDOG) Premium Valuation In Observability And Security?"
           ],
           "spy": [
-            "Boomers Held Bitcoin ETFs Through a 54% Crash but the S&P 500 Rose 16%",
-            "Sunrun and First Solar Rise 6% as Solar Selloff Unwinds; SolarEdge Climbs 4%",
-            "Rocket Lab Jumps 6% as FCC Clears First Hurdle on Iridium Deal; Iridium Communications Barely Budges",
-            "Oklo Jumps 13%, NuScale Power Climbs 10%: Does the House Data Center Power Vote Reach Nuclear?",
-            "BlackBerry Climbs 6%, Mobileye Rises 5%: Is the Software-Defined Vehicle Trade Waking Up?",
-            "Automaker Stocks Rally as Rotation Lifts Cyclicals: General Motors Climbs 4%, Stellantis Rises 4%, Ford Gains 3%, Tesla Adds 2%",
-            "Why CoreWeave Is Tumbling Hard While the Market Is Soaring",
-            "FuelCell Jumps 13% as House Shifts Data Center Power Costs to Operators; Plug Power Climbs 7%, Bloom Energy Rises 3%",
-            "Generac Surges 16% on $2.4B Amazon Data Center Generator Deal; Caterpillar Ticks Up, Cummins Sits Out the Rally",
-            "The Strategist Who Wanted 8,400 on the S&P 500 Just Cut His Number, and It Is Not Because Earnings Got Worse"
+            "Enphase Energy Drops 5% as Solar Selling Resumes; First Solar and Sunrun Fall 4%",
+            "Lam Research Climbs 5% as Chip Equipment Names Outrun the Sector; Applied Materials Rises 4%, KLA Corp. Gains 3%",
+            "NuScale Power Drops 7% as Nuclear Stocks Hand Back the Vote Rally; Oklo Falls 5%, Centrus Energy Slides 3%",
+            "Amazon\u2019s AI Bet is Already Starting to Pay Off",
+            "Automaker Stocks Reverse as Rotation Trade Unwinds: General Motors and Stellantis Fall 4%, Ford Pulls Back",
+            "Betting On A Tesla Roadster By 2027: A No-Brainer or Brainless?",
+            "Alibaba Climbs 3%, PDD and JD.com Tick Up: Is China Technology Finding Buyers Again?",
+            "Exchange-Traded Funds, Equity Futures Mixed Pre-Bell Friday as Tech Rally Continues",
+            "Bitmine Climbs 4% as Ethereum Rallies Despite CLARITY Act Failure; Sharplink Gains 3%",
+            "Netflix Falls 4% as Wells Fargo Cuts Rating to Underweight With $57 Target; Disney Barely Budges"
           ],
           "spx": [
-            "Stock market today: Dow, S&P 500, Nasdaq rise as oil slips, Fed rate hike pacifies markets' inflation worries",
-            "Stock market today: Dow sinks 600 points, S&P 500 and Nasdaq fall as Fed hikes rates, bond yields rise",
-            "2 Reasons to Like COST (and 1 Not So Much)",
-            "Goldman Sachs sees major AI catalyst for Meta stock",
-            "3 Reasons to Sell EBAY and 1 Stock to Buy Instead",
-            "Stock Market Today: Dow Gains 300 Points; Palantir Higher Amid AI Regulation Debate (Live Coverage)",
-            "Prediction: September Will Be Volatile, but Stocks Will Rally After November Midterms",
-            "Update: US Equity Indexes Rise as Treasury Yields Slump After Fed Reaffirms Commitment to Controlling Inflation",
-            "History Says This Will Happen to Nvidia's Stock in 2027 (Hint: You're Going to Want to Buy Now)",
-            "Update: Equities Rise Intraday as Bond Yields Retreat Following Fed Decision"
+            "S&P 500 wavers after best one-day rally in six weeks: AlphaCheck",
+            "Why Sandisk Stock Rallied Today",
+            "3 Reasons BANR is Risky and 1 Stock to Buy Instead",
+            "Stock Market Midday, Sept. 18: Stocks Slip, Crypto Gains",
+            "Will Micron Follow Nvidia and Give Investors a Huge Dividend Hike?",
+            "ServisFirst Bancshares (SFBS): Buy, Sell, or Hold Post Q2 Earnings?",
+            "Lazard Stock Slides 20% Over 8 Straight Down Days",
+            "Global shares fall, Treasury yields rise as central banks double down on inflation fight",
+            "The Bond Market Will Keep Driving Stocks\u2014At Least Until Earnings Season",
+            "Update: US Equity Indexes Fall as Benchmark Treasury Yield Jumps Back Above 5%"
           ]
         }
       },
@@ -1526,44 +1533,47 @@
         "auto_note": "RGTZ CALL | $+14.18 (+402.84%) | dollar_gainer_1 | Strike $8.0 exp 2026-09-18 (7DTE) | IV 0.0% | SPY +nan% | MACRO: rate hike, china"
       },
       "news_scan": {
-        "scanned_at": "2026-09-17 18:22:59 PST",
-        "gap_days": 6,
+        "scanned_at": "2026-09-18 17:08:12 PST",
+        "gap_days": 7,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bullish",
-        "spx_sentiment": "neutral",
+        "spy_sentiment": "bearish",
+        "spx_sentiment": "bullish",
         "keywords_found": [],
         "spy_keywords": [
-          "surge",
+          "rallies",
+          "falls",
+          "drops"
+        ],
+        "spx_keywords": [
           "jumps"
         ],
-        "spx_keywords": [],
-        "decision": "hold",
-        "decision_reason": "neutral keywords confirmed CALL thesis",
+        "decision": "sell",
+        "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
         "raw_headlines": {
           "ticker": [],
           "spy": [
-            "Boomers Held Bitcoin ETFs Through a 54% Crash but the S&P 500 Rose 16%",
-            "Sunrun and First Solar Rise 6% as Solar Selloff Unwinds; SolarEdge Climbs 4%",
-            "Rocket Lab Jumps 6% as FCC Clears First Hurdle on Iridium Deal; Iridium Communications Barely Budges",
-            "Oklo Jumps 13%, NuScale Power Climbs 10%: Does the House Data Center Power Vote Reach Nuclear?",
-            "BlackBerry Climbs 6%, Mobileye Rises 5%: Is the Software-Defined Vehicle Trade Waking Up?",
-            "Automaker Stocks Rally as Rotation Lifts Cyclicals: General Motors Climbs 4%, Stellantis Rises 4%, Ford Gains 3%, Tesla Adds 2%",
-            "Why CoreWeave Is Tumbling Hard While the Market Is Soaring",
-            "FuelCell Jumps 13% as House Shifts Data Center Power Costs to Operators; Plug Power Climbs 7%, Bloom Energy Rises 3%",
-            "Generac Surges 16% on $2.4B Amazon Data Center Generator Deal; Caterpillar Ticks Up, Cummins Sits Out the Rally",
-            "The Strategist Who Wanted 8,400 on the S&P 500 Just Cut His Number, and It Is Not Because Earnings Got Worse"
+            "Enphase Energy Drops 5% as Solar Selling Resumes; First Solar and Sunrun Fall 4%",
+            "Lam Research Climbs 5% as Chip Equipment Names Outrun the Sector; Applied Materials Rises 4%, KLA Corp. Gains 3%",
+            "NuScale Power Drops 7% as Nuclear Stocks Hand Back the Vote Rally; Oklo Falls 5%, Centrus Energy Slides 3%",
+            "Amazon\u2019s AI Bet is Already Starting to Pay Off",
+            "Automaker Stocks Reverse as Rotation Trade Unwinds: General Motors and Stellantis Fall 4%, Ford Pulls Back",
+            "Betting On A Tesla Roadster By 2027: A No-Brainer or Brainless?",
+            "Alibaba Climbs 3%, PDD and JD.com Tick Up: Is China Technology Finding Buyers Again?",
+            "Exchange-Traded Funds, Equity Futures Mixed Pre-Bell Friday as Tech Rally Continues",
+            "Bitmine Climbs 4% as Ethereum Rallies Despite CLARITY Act Failure; Sharplink Gains 3%",
+            "Netflix Falls 4% as Wells Fargo Cuts Rating to Underweight With $57 Target; Disney Barely Budges"
           ],
           "spx": [
-            "Stock market today: Dow, S&P 500, Nasdaq rise as oil slips, Fed rate hike pacifies markets' inflation worries",
-            "Stock market today: Dow sinks 600 points, S&P 500 and Nasdaq fall as Fed hikes rates, bond yields rise",
-            "2 Reasons to Like COST (and 1 Not So Much)",
-            "Goldman Sachs sees major AI catalyst for Meta stock",
-            "3 Reasons to Sell EBAY and 1 Stock to Buy Instead",
-            "Stock Market Today: Dow Gains 300 Points; Palantir Higher Amid AI Regulation Debate (Live Coverage)",
-            "Prediction: September Will Be Volatile, but Stocks Will Rally After November Midterms",
-            "Update: US Equity Indexes Rise as Treasury Yields Slump After Fed Reaffirms Commitment to Controlling Inflation",
-            "History Says This Will Happen to Nvidia's Stock in 2027 (Hint: You're Going to Want to Buy Now)",
-            "Update: Equities Rise Intraday as Bond Yields Retreat Following Fed Decision"
+            "S&P 500 wavers after best one-day rally in six weeks: AlphaCheck",
+            "Why Sandisk Stock Rallied Today",
+            "3 Reasons BANR is Risky and 1 Stock to Buy Instead",
+            "Stock Market Midday, Sept. 18: Stocks Slip, Crypto Gains",
+            "Will Micron Follow Nvidia and Give Investors a Huge Dividend Hike?",
+            "ServisFirst Bancshares (SFBS): Buy, Sell, or Hold Post Q2 Earnings?",
+            "Lazard Stock Slides 20% Over 8 Straight Down Days",
+            "Global shares fall, Treasury yields rise as central banks double down on inflation fight",
+            "The Bond Market Will Keep Driving Stocks\u2014At Least Until Earnings Season",
+            "Update: US Equity Indexes Fall as Benchmark Treasury Yield Jumps Back Above 5%"
           ]
         }
       },
@@ -1608,21 +1618,29 @@
         "auto_note": "VICR CALL | $+19.86 (+11.15%) | dollar_gainer_1 | Strike $240.0 exp 2026-09-18 (6DTE) | IV 86.0% | SPY +nan% | MACRO: fed"
       },
       "news_scan": {
-        "scanned_at": "2026-09-17 18:22:59 PST",
-        "gap_days": 5,
-        "ticker_sentiment": "neutral",
-        "spy_sentiment": "bullish",
-        "spx_sentiment": "neutral",
-        "keywords_found": [],
+        "scanned_at": "2026-09-18 17:08:12 PST",
+        "gap_days": 6,
+        "ticker_sentiment": "bullish",
+        "spy_sentiment": "bearish",
+        "spx_sentiment": "bullish",
+        "keywords_found": [
+          "surge"
+        ],
         "spy_keywords": [
-          "surge",
+          "rallies",
+          "falls",
+          "drops"
+        ],
+        "spx_keywords": [
           "jumps"
         ],
-        "spx_keywords": [],
         "decision": "hold",
-        "decision_reason": "neutral keywords confirmed CALL thesis",
+        "decision_reason": "bullish keywords confirmed CALL thesis",
         "raw_headlines": {
           "ticker": [
+            "Vicor (VICR) Surges 17.7%: Is This an Indication of Further Gains?",
+            "Vicor Stock Surges 18% Following AI License Agreement",
+            "These 5 Green Stocks Have Crushed Clean Energy ETFs, S&P 500 And AI Funds In 2026",
             "3 Stocks Put Traders Are Targeting Today",
             "Why Is Vicor Stock Surging Thursday?",
             "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Thursday Amid Economic Data, Fed Rate Hike",
@@ -1631,28 +1649,28 @@
             "Vicor (VICR) Plans Two More ChiP Fabs. Can Utilization Justify Expansion?"
           ],
           "spy": [
-            "Boomers Held Bitcoin ETFs Through a 54% Crash but the S&P 500 Rose 16%",
-            "Sunrun and First Solar Rise 6% as Solar Selloff Unwinds; SolarEdge Climbs 4%",
-            "Rocket Lab Jumps 6% as FCC Clears First Hurdle on Iridium Deal; Iridium Communications Barely Budges",
-            "Oklo Jumps 13%, NuScale Power Climbs 10%: Does the House Data Center Power Vote Reach Nuclear?",
-            "BlackBerry Climbs 6%, Mobileye Rises 5%: Is the Software-Defined Vehicle Trade Waking Up?",
-            "Automaker Stocks Rally as Rotation Lifts Cyclicals: General Motors Climbs 4%, Stellantis Rises 4%, Ford Gains 3%, Tesla Adds 2%",
-            "Why CoreWeave Is Tumbling Hard While the Market Is Soaring",
-            "FuelCell Jumps 13% as House Shifts Data Center Power Costs to Operators; Plug Power Climbs 7%, Bloom Energy Rises 3%",
-            "Generac Surges 16% on $2.4B Amazon Data Center Generator Deal; Caterpillar Ticks Up, Cummins Sits Out the Rally",
-            "The Strategist Who Wanted 8,400 on the S&P 500 Just Cut His Number, and It Is Not Because Earnings Got Worse"
+            "Enphase Energy Drops 5% as Solar Selling Resumes; First Solar and Sunrun Fall 4%",
+            "Lam Research Climbs 5% as Chip Equipment Names Outrun the Sector; Applied Materials Rises 4%, KLA Corp. Gains 3%",
+            "NuScale Power Drops 7% as Nuclear Stocks Hand Back the Vote Rally; Oklo Falls 5%, Centrus Energy Slides 3%",
+            "Amazon\u2019s AI Bet is Already Starting to Pay Off",
+            "Automaker Stocks Reverse as Rotation Trade Unwinds: General Motors and Stellantis Fall 4%, Ford Pulls Back",
+            "Betting On A Tesla Roadster By 2027: A No-Brainer or Brainless?",
+            "Alibaba Climbs 3%, PDD and JD.com Tick Up: Is China Technology Finding Buyers Again?",
+            "Exchange-Traded Funds, Equity Futures Mixed Pre-Bell Friday as Tech Rally Continues",
+            "Bitmine Climbs 4% as Ethereum Rallies Despite CLARITY Act Failure; Sharplink Gains 3%",
+            "Netflix Falls 4% as Wells Fargo Cuts Rating to Underweight With $57 Target; Disney Barely Budges"
           ],
           "spx": [
-            "Stock market today: Dow, S&P 500, Nasdaq rise as oil slips, Fed rate hike pacifies markets' inflation worries",
-            "Stock market today: Dow sinks 600 points, S&P 500 and Nasdaq fall as Fed hikes rates, bond yields rise",
-            "2 Reasons to Like COST (and 1 Not So Much)",
-            "Goldman Sachs sees major AI catalyst for Meta stock",
-            "3 Reasons to Sell EBAY and 1 Stock to Buy Instead",
-            "Stock Market Today: Dow Gains 300 Points; Palantir Higher Amid AI Regulation Debate (Live Coverage)",
-            "Prediction: September Will Be Volatile, but Stocks Will Rally After November Midterms",
-            "Update: US Equity Indexes Rise as Treasury Yields Slump After Fed Reaffirms Commitment to Controlling Inflation",
-            "History Says This Will Happen to Nvidia's Stock in 2027 (Hint: You're Going to Want to Buy Now)",
-            "Update: Equities Rise Intraday as Bond Yields Retreat Following Fed Decision"
+            "S&P 500 wavers after best one-day rally in six weeks: AlphaCheck",
+            "Why Sandisk Stock Rallied Today",
+            "3 Reasons BANR is Risky and 1 Stock to Buy Instead",
+            "Stock Market Midday, Sept. 18: Stocks Slip, Crypto Gains",
+            "Will Micron Follow Nvidia and Give Investors a Huge Dividend Hike?",
+            "ServisFirst Bancshares (SFBS): Buy, Sell, or Hold Post Q2 Earnings?",
+            "Lazard Stock Slides 20% Over 8 Straight Down Days",
+            "Global shares fall, Treasury yields rise as central banks double down on inflation fight",
+            "The Bond Market Will Keep Driving Stocks\u2014At Least Until Earnings Season",
+            "Update: US Equity Indexes Fall as Benchmark Treasury Yield Jumps Back Above 5%"
           ]
         }
       },
@@ -1697,44 +1715,56 @@
         "auto_note": "LEU PUT | $-13.56 (-8.18%) | dollar_loser_1 | Strike $135.0 exp 2026-09-18 (6DTE) | IV 56.5% | SPY +nan% | MACRO: fed"
       },
       "news_scan": {
-        "scanned_at": "2026-09-17 18:22:59 PST",
-        "gap_days": 5,
-        "ticker_sentiment": "neutral",
-        "spy_sentiment": "bullish",
-        "spx_sentiment": "neutral",
-        "keywords_found": [],
+        "scanned_at": "2026-09-18 17:08:12 PST",
+        "gap_days": 6,
+        "ticker_sentiment": "bearish",
+        "spy_sentiment": "bearish",
+        "spx_sentiment": "bullish",
+        "keywords_found": [
+          "falls",
+          "drops"
+        ],
         "spy_keywords": [
-          "surge",
+          "rallies",
+          "falls",
+          "drops"
+        ],
+        "spx_keywords": [
           "jumps"
         ],
-        "spx_keywords": [],
-        "decision": "sell",
-        "decision_reason": "no confirmation for PUT thesis \u2014 sell at open",
+        "decision": "hold",
+        "decision_reason": "bearish keywords confirmed PUT thesis",
         "raw_headlines": {
-          "ticker": [],
+          "ticker": [
+            "NuScale Power Drops 7% as Nuclear Stocks Hand Back the Vote Rally; Oklo Falls 5%, Centrus Energy Slides 3%",
+            "1 High-Flying Stock Worth Your Attention and 2 We Ignore",
+            "Why Did Nuclear Stocks OKLO, SMR, NNE, LEU, XE Jump On Thursday?",
+            "Why Is Centrus Energy (LEU) Stock Soaring Today",
+            "The Nuclear Stock Boom Could Keep Decaying"
+          ],
           "spy": [
-            "Boomers Held Bitcoin ETFs Through a 54% Crash but the S&P 500 Rose 16%",
-            "Sunrun and First Solar Rise 6% as Solar Selloff Unwinds; SolarEdge Climbs 4%",
-            "Rocket Lab Jumps 6% as FCC Clears First Hurdle on Iridium Deal; Iridium Communications Barely Budges",
-            "Oklo Jumps 13%, NuScale Power Climbs 10%: Does the House Data Center Power Vote Reach Nuclear?",
-            "BlackBerry Climbs 6%, Mobileye Rises 5%: Is the Software-Defined Vehicle Trade Waking Up?",
-            "Automaker Stocks Rally as Rotation Lifts Cyclicals: General Motors Climbs 4%, Stellantis Rises 4%, Ford Gains 3%, Tesla Adds 2%",
-            "Why CoreWeave Is Tumbling Hard While the Market Is Soaring",
-            "FuelCell Jumps 13% as House Shifts Data Center Power Costs to Operators; Plug Power Climbs 7%, Bloom Energy Rises 3%",
-            "Generac Surges 16% on $2.4B Amazon Data Center Generator Deal; Caterpillar Ticks Up, Cummins Sits Out the Rally",
-            "The Strategist Who Wanted 8,400 on the S&P 500 Just Cut His Number, and It Is Not Because Earnings Got Worse"
+            "Enphase Energy Drops 5% as Solar Selling Resumes; First Solar and Sunrun Fall 4%",
+            "Lam Research Climbs 5% as Chip Equipment Names Outrun the Sector; Applied Materials Rises 4%, KLA Corp. Gains 3%",
+            "NuScale Power Drops 7% as Nuclear Stocks Hand Back the Vote Rally; Oklo Falls 5%, Centrus Energy Slides 3%",
+            "Amazon\u2019s AI Bet is Already Starting to Pay Off",
+            "Automaker Stocks Reverse as Rotation Trade Unwinds: General Motors and Stellantis Fall 4%, Ford Pulls Back",
+            "Betting On A Tesla Roadster By 2027: A No-Brainer or Brainless?",
+            "Alibaba Climbs 3%, PDD and JD.com Tick Up: Is China Technology Finding Buyers Again?",
+            "Exchange-Traded Funds, Equity Futures Mixed Pre-Bell Friday as Tech Rally Continues",
+            "Bitmine Climbs 4% as Ethereum Rallies Despite CLARITY Act Failure; Sharplink Gains 3%",
+            "Netflix Falls 4% as Wells Fargo Cuts Rating to Underweight With $57 Target; Disney Barely Budges"
           ],
           "spx": [
-            "Stock market today: Dow, S&P 500, Nasdaq rise as oil slips, Fed rate hike pacifies markets' inflation worries",
-            "Stock market today: Dow sinks 600 points, S&P 500 and Nasdaq fall as Fed hikes rates, bond yields rise",
-            "2 Reasons to Like COST (and 1 Not So Much)",
-            "Goldman Sachs sees major AI catalyst for Meta stock",
-            "3 Reasons to Sell EBAY and 1 Stock to Buy Instead",
-            "Stock Market Today: Dow Gains 300 Points; Palantir Higher Amid AI Regulation Debate (Live Coverage)",
-            "Prediction: September Will Be Volatile, but Stocks Will Rally After November Midterms",
-            "Update: US Equity Indexes Rise as Treasury Yields Slump After Fed Reaffirms Commitment to Controlling Inflation",
-            "History Says This Will Happen to Nvidia's Stock in 2027 (Hint: You're Going to Want to Buy Now)",
-            "Update: Equities Rise Intraday as Bond Yields Retreat Following Fed Decision"
+            "S&P 500 wavers after best one-day rally in six weeks: AlphaCheck",
+            "Why Sandisk Stock Rallied Today",
+            "3 Reasons BANR is Risky and 1 Stock to Buy Instead",
+            "Stock Market Midday, Sept. 18: Stocks Slip, Crypto Gains",
+            "Will Micron Follow Nvidia and Give Investors a Huge Dividend Hike?",
+            "ServisFirst Bancshares (SFBS): Buy, Sell, or Hold Post Q2 Earnings?",
+            "Lazard Stock Slides 20% Over 8 Straight Down Days",
+            "Global shares fall, Treasury yields rise as central banks double down on inflation fight",
+            "The Bond Market Will Keep Driving Stocks\u2014At Least Until Earnings Season",
+            "Update: US Equity Indexes Fall as Benchmark Treasury Yield Jumps Back Above 5%"
           ]
         }
       },
@@ -1777,11 +1807,11 @@
         "auto_note": "PANW CALL | $+43.29 (+13.09%) | dollar_gainer_1 | Strike $420.0 exp 2026-09-18 (3DTE) | IV 71.1% | SPY +nan% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-09-17 18:22:59 PST",
-        "gap_days": 2,
+        "scanned_at": "2026-09-18 17:08:12 PST",
+        "gap_days": 3,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bullish",
-        "spx_sentiment": "neutral",
+        "spy_sentiment": "bearish",
+        "spx_sentiment": "bullish",
         "keywords_found": [
           "upgrade",
           "upgraded",
@@ -1789,48 +1819,51 @@
           "downgraded"
         ],
         "spy_keywords": [
-          "surge",
+          "rallies",
+          "falls",
+          "drops"
+        ],
+        "spx_keywords": [
           "jumps"
         ],
-        "spx_keywords": [],
-        "decision": "hold",
-        "decision_reason": "neutral keywords confirmed CALL thesis",
+        "decision": "sell",
+        "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
         "raw_headlines": {
           "ticker": [
+            "Why Palo Alto Networks Stock Dropped Today",
+            "CrowdStrike and Palo Alto Networks Are Soaring, but Is the Rally Already Priced In?",
+            "3 Software Stocks That Fall Short",
+            "Cybersecurity Stocks Have Run Sharply Amid Tech Rotation: Freedom Capital's Jay Woods Says This Stock Has Ample Room To Run",
+            "Jim Cramer Prefers Palo Alto (PANW) Over SentinelOne (S)",
+            "Is Cisco Stock Priced For Orders That Are Not Yet Revenue?",
             "Can Palo Alto Networks' SASE Push Help It Challenge FTNT and ZS?",
             "Semiconductor Stocks Just Tumbled. This Tech ETF Soared 6% Instead. Here's Why.",
             "Lyft downgraded, Trip.com upgraded: Wall Street's top analyst calls",
-            "'Agents are like teenagers': Security must keep pace with AI, Cisco president says",
-            "The Ultimate Cyber Shield: CrowdStrike Rises Past $235",
-            "Dow Jones Futures Rise As Oil Prices, Yields Fall Before Fed Rate Hike; Will Market Rally Bid Bond Voyage?",
-            "CRWD, PANW Stocks Extend AI-Fueled Rally As Cybersecurity Bets Outpace Software",
-            "What Growth Are You Paying For In Zscaler Stock?",
-            "What Are You Actually Buying In Cloudflare Stock?",
-            "Why Did Cisco Stop Leading With Its Campus Refresh?"
+            "'Agents are like teenagers': Security must keep pace with AI, Cisco president says"
           ],
           "spy": [
-            "Boomers Held Bitcoin ETFs Through a 54% Crash but the S&P 500 Rose 16%",
-            "Sunrun and First Solar Rise 6% as Solar Selloff Unwinds; SolarEdge Climbs 4%",
-            "Rocket Lab Jumps 6% as FCC Clears First Hurdle on Iridium Deal; Iridium Communications Barely Budges",
-            "Oklo Jumps 13%, NuScale Power Climbs 10%: Does the House Data Center Power Vote Reach Nuclear?",
-            "BlackBerry Climbs 6%, Mobileye Rises 5%: Is the Software-Defined Vehicle Trade Waking Up?",
-            "Automaker Stocks Rally as Rotation Lifts Cyclicals: General Motors Climbs 4%, Stellantis Rises 4%, Ford Gains 3%, Tesla Adds 2%",
-            "Why CoreWeave Is Tumbling Hard While the Market Is Soaring",
-            "FuelCell Jumps 13% as House Shifts Data Center Power Costs to Operators; Plug Power Climbs 7%, Bloom Energy Rises 3%",
-            "Generac Surges 16% on $2.4B Amazon Data Center Generator Deal; Caterpillar Ticks Up, Cummins Sits Out the Rally",
-            "The Strategist Who Wanted 8,400 on the S&P 500 Just Cut His Number, and It Is Not Because Earnings Got Worse"
+            "Enphase Energy Drops 5% as Solar Selling Resumes; First Solar and Sunrun Fall 4%",
+            "Lam Research Climbs 5% as Chip Equipment Names Outrun the Sector; Applied Materials Rises 4%, KLA Corp. Gains 3%",
+            "NuScale Power Drops 7% as Nuclear Stocks Hand Back the Vote Rally; Oklo Falls 5%, Centrus Energy Slides 3%",
+            "Amazon\u2019s AI Bet is Already Starting to Pay Off",
+            "Automaker Stocks Reverse as Rotation Trade Unwinds: General Motors and Stellantis Fall 4%, Ford Pulls Back",
+            "Betting On A Tesla Roadster By 2027: A No-Brainer or Brainless?",
+            "Alibaba Climbs 3%, PDD and JD.com Tick Up: Is China Technology Finding Buyers Again?",
+            "Exchange-Traded Funds, Equity Futures Mixed Pre-Bell Friday as Tech Rally Continues",
+            "Bitmine Climbs 4% as Ethereum Rallies Despite CLARITY Act Failure; Sharplink Gains 3%",
+            "Netflix Falls 4% as Wells Fargo Cuts Rating to Underweight With $57 Target; Disney Barely Budges"
           ],
           "spx": [
-            "Stock market today: Dow, S&P 500, Nasdaq rise as oil slips, Fed rate hike pacifies markets' inflation worries",
-            "Stock market today: Dow sinks 600 points, S&P 500 and Nasdaq fall as Fed hikes rates, bond yields rise",
-            "2 Reasons to Like COST (and 1 Not So Much)",
-            "Goldman Sachs sees major AI catalyst for Meta stock",
-            "3 Reasons to Sell EBAY and 1 Stock to Buy Instead",
-            "Stock Market Today: Dow Gains 300 Points; Palantir Higher Amid AI Regulation Debate (Live Coverage)",
-            "Prediction: September Will Be Volatile, but Stocks Will Rally After November Midterms",
-            "Update: US Equity Indexes Rise as Treasury Yields Slump After Fed Reaffirms Commitment to Controlling Inflation",
-            "History Says This Will Happen to Nvidia's Stock in 2027 (Hint: You're Going to Want to Buy Now)",
-            "Update: Equities Rise Intraday as Bond Yields Retreat Following Fed Decision"
+            "S&P 500 wavers after best one-day rally in six weeks: AlphaCheck",
+            "Why Sandisk Stock Rallied Today",
+            "3 Reasons BANR is Risky and 1 Stock to Buy Instead",
+            "Stock Market Midday, Sept. 18: Stocks Slip, Crypto Gains",
+            "Will Micron Follow Nvidia and Give Investors a Huge Dividend Hike?",
+            "ServisFirst Bancshares (SFBS): Buy, Sell, or Hold Post Q2 Earnings?",
+            "Lazard Stock Slides 20% Over 8 Straight Down Days",
+            "Global shares fall, Treasury yields rise as central banks double down on inflation fight",
+            "The Bond Market Will Keep Driving Stocks\u2014At Least Until Earnings Season",
+            "Update: US Equity Indexes Fall as Benchmark Treasury Yield Jumps Back Above 5%"
           ]
         }
       },
@@ -1873,55 +1906,54 @@
         "auto_note": "TER PUT | $-50.52 (-13.30%) | dollar_loser_1 | Strike $280.0 exp 2026-09-18 (3DTE) | IV 90.0% | SPY +nan% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-09-17 18:22:59 PST",
-        "gap_days": 2,
+        "scanned_at": "2026-09-18 17:08:12 PST",
+        "gap_days": 3,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bullish",
-        "spx_sentiment": "neutral",
+        "spy_sentiment": "bearish",
+        "spx_sentiment": "bullish",
         "keywords_found": [],
         "spy_keywords": [
-          "surge",
+          "rallies",
+          "falls",
+          "drops"
+        ],
+        "spx_keywords": [
           "jumps"
         ],
-        "spx_keywords": [],
-        "decision": "sell",
-        "decision_reason": "no confirmation for PUT thesis \u2014 sell at open",
+        "decision": "hold",
+        "decision_reason": "neutral keywords confirmed PUT thesis",
         "raw_headlines": {
           "ticker": [
+            "Teradyne (TER) Opens Bengaluru Office To Support India Chip Manufacturing",
+            "SentinelOne, Marvell Technology, FormFactor, Teradyne, and Intel Shares Are Soaring, What You Need To Know",
             "Teradyne (TER) Advances While Market Declines: Some Information for Investors",
             "ASX vs. TER: Which AI Semiconductor Stock Should You Buy Right Now?",
             "How Is Teradyne Stock Performance Compared to Other Semiconductor Stocks",
-            "Teradyne Looks Expensive Until You Price The AI Chips It Has Not Tested Yet",
-            "Teradyne India Office Expands Semiconductor Manufacturing Support in Bengaluru",
-            "Top Robotics Stocks to Add to Your Portfolio for Impressive Returns",
-            "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Tuesday as Traders Prepare for Fed Meeting",
-            "Update: US Equity Futures Drop Pre-Bell as 10-Year Treasury Yield Surpasses 5% Ahead of Fed Decision",
-            "Lattice Semiconductor, Amkor, Himax, Teradyne, and Entegris Stocks Trade Down, What You Need To Know",
-            "Is Teradyne Stock Asking Too Much Of Its Test Business?"
+            "Teradyne Looks Expensive Until You Price The AI Chips It Has Not Tested Yet"
           ],
           "spy": [
-            "Boomers Held Bitcoin ETFs Through a 54% Crash but the S&P 500 Rose 16%",
-            "Sunrun and First Solar Rise 6% as Solar Selloff Unwinds; SolarEdge Climbs 4%",
-            "Rocket Lab Jumps 6% as FCC Clears First Hurdle on Iridium Deal; Iridium Communications Barely Budges",
-            "Oklo Jumps 13%, NuScale Power Climbs 10%: Does the House Data Center Power Vote Reach Nuclear?",
-            "BlackBerry Climbs 6%, Mobileye Rises 5%: Is the Software-Defined Vehicle Trade Waking Up?",
-            "Automaker Stocks Rally as Rotation Lifts Cyclicals: General Motors Climbs 4%, Stellantis Rises 4%, Ford Gains 3%, Tesla Adds 2%",
-            "Why CoreWeave Is Tumbling Hard While the Market Is Soaring",
-            "FuelCell Jumps 13% as House Shifts Data Center Power Costs to Operators; Plug Power Climbs 7%, Bloom Energy Rises 3%",
-            "Generac Surges 16% on $2.4B Amazon Data Center Generator Deal; Caterpillar Ticks Up, Cummins Sits Out the Rally",
-            "The Strategist Who Wanted 8,400 on the S&P 500 Just Cut His Number, and It Is Not Because Earnings Got Worse"
+            "Enphase Energy Drops 5% as Solar Selling Resumes; First Solar and Sunrun Fall 4%",
+            "Lam Research Climbs 5% as Chip Equipment Names Outrun the Sector; Applied Materials Rises 4%, KLA Corp. Gains 3%",
+            "NuScale Power Drops 7% as Nuclear Stocks Hand Back the Vote Rally; Oklo Falls 5%, Centrus Energy Slides 3%",
+            "Amazon\u2019s AI Bet is Already Starting to Pay Off",
+            "Automaker Stocks Reverse as Rotation Trade Unwinds: General Motors and Stellantis Fall 4%, Ford Pulls Back",
+            "Betting On A Tesla Roadster By 2027: A No-Brainer or Brainless?",
+            "Alibaba Climbs 3%, PDD and JD.com Tick Up: Is China Technology Finding Buyers Again?",
+            "Exchange-Traded Funds, Equity Futures Mixed Pre-Bell Friday as Tech Rally Continues",
+            "Bitmine Climbs 4% as Ethereum Rallies Despite CLARITY Act Failure; Sharplink Gains 3%",
+            "Netflix Falls 4% as Wells Fargo Cuts Rating to Underweight With $57 Target; Disney Barely Budges"
           ],
           "spx": [
-            "Stock market today: Dow, S&P 500, Nasdaq rise as oil slips, Fed rate hike pacifies markets' inflation worries",
-            "Stock market today: Dow sinks 600 points, S&P 500 and Nasdaq fall as Fed hikes rates, bond yields rise",
-            "2 Reasons to Like COST (and 1 Not So Much)",
-            "Goldman Sachs sees major AI catalyst for Meta stock",
-            "3 Reasons to Sell EBAY and 1 Stock to Buy Instead",
-            "Stock Market Today: Dow Gains 300 Points; Palantir Higher Amid AI Regulation Debate (Live Coverage)",
-            "Prediction: September Will Be Volatile, but Stocks Will Rally After November Midterms",
-            "Update: US Equity Indexes Rise as Treasury Yields Slump After Fed Reaffirms Commitment to Controlling Inflation",
-            "History Says This Will Happen to Nvidia's Stock in 2027 (Hint: You're Going to Want to Buy Now)",
-            "Update: Equities Rise Intraday as Bond Yields Retreat Following Fed Decision"
+            "S&P 500 wavers after best one-day rally in six weeks: AlphaCheck",
+            "Why Sandisk Stock Rallied Today",
+            "3 Reasons BANR is Risky and 1 Stock to Buy Instead",
+            "Stock Market Midday, Sept. 18: Stocks Slip, Crypto Gains",
+            "Will Micron Follow Nvidia and Give Investors a Huge Dividend Hike?",
+            "ServisFirst Bancshares (SFBS): Buy, Sell, or Hold Post Q2 Earnings?",
+            "Lazard Stock Slides 20% Over 8 Straight Down Days",
+            "Global shares fall, Treasury yields rise as central banks double down on inflation fight",
+            "The Bond Market Will Keep Driving Stocks\u2014At Least Until Earnings Season",
+            "Update: US Equity Indexes Fall as Benchmark Treasury Yield Jumps Back Above 5%"
           ]
         }
       },
@@ -1967,50 +1999,50 @@
         "auto_note": "QLYS CALL | $+12.46 (+7.21%) | dollar_gainer_1 | Strike $210.0 exp 2026-09-18 (2DTE) | IV 78.5% | SPY +nan% | MACRO: fed, rate hike"
       },
       "news_scan": {
-        "scanned_at": "2026-09-17 18:22:59 PST",
-        "gap_days": 1,
+        "scanned_at": "2026-09-18 17:08:12 PST",
+        "gap_days": 2,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bullish",
-        "spx_sentiment": "neutral",
+        "spy_sentiment": "bearish",
+        "spx_sentiment": "bullish",
         "keywords_found": [],
         "spy_keywords": [
-          "surge",
+          "rallies",
+          "falls",
+          "drops"
+        ],
+        "spx_keywords": [
           "jumps"
         ],
-        "spx_keywords": [],
-        "decision": "hold",
-        "decision_reason": "neutral keywords confirmed CALL thesis",
+        "decision": "sell",
+        "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
         "raw_headlines": {
           "ticker": [
             "Dow Jones Futures Rise As Oil Prices, Yields Fall Before Fed Rate Hike; Will Market Rally Bid Bond Voyage?",
-            "Qualys (QLYS): Buy, Sell, or Hold Post Q2 Earnings?",
-            "Zacks Investment Ideas feature highlights: Fortinet and Qualys",
-            "Cloudflare, Paylocity, GitLab, Commvault, and Qualys Shares Are Soaring, What You Need To Know",
-            "2 Top Cybersecurity Stocks to Buy Amid AI Safety Fears: FTNT, QLYS"
+            "Qualys (QLYS): Buy, Sell, or Hold Post Q2 Earnings?"
           ],
           "spy": [
-            "Boomers Held Bitcoin ETFs Through a 54% Crash but the S&P 500 Rose 16%",
-            "Sunrun and First Solar Rise 6% as Solar Selloff Unwinds; SolarEdge Climbs 4%",
-            "Rocket Lab Jumps 6% as FCC Clears First Hurdle on Iridium Deal; Iridium Communications Barely Budges",
-            "Oklo Jumps 13%, NuScale Power Climbs 10%: Does the House Data Center Power Vote Reach Nuclear?",
-            "BlackBerry Climbs 6%, Mobileye Rises 5%: Is the Software-Defined Vehicle Trade Waking Up?",
-            "Automaker Stocks Rally as Rotation Lifts Cyclicals: General Motors Climbs 4%, Stellantis Rises 4%, Ford Gains 3%, Tesla Adds 2%",
-            "Why CoreWeave Is Tumbling Hard While the Market Is Soaring",
-            "FuelCell Jumps 13% as House Shifts Data Center Power Costs to Operators; Plug Power Climbs 7%, Bloom Energy Rises 3%",
-            "Generac Surges 16% on $2.4B Amazon Data Center Generator Deal; Caterpillar Ticks Up, Cummins Sits Out the Rally",
-            "The Strategist Who Wanted 8,400 on the S&P 500 Just Cut His Number, and It Is Not Because Earnings Got Worse"
+            "Enphase Energy Drops 5% as Solar Selling Resumes; First Solar and Sunrun Fall 4%",
+            "Lam Research Climbs 5% as Chip Equipment Names Outrun the Sector; Applied Materials Rises 4%, KLA Corp. Gains 3%",
+            "NuScale Power Drops 7% as Nuclear Stocks Hand Back the Vote Rally; Oklo Falls 5%, Centrus Energy Slides 3%",
+            "Amazon\u2019s AI Bet is Already Starting to Pay Off",
+            "Automaker Stocks Reverse as Rotation Trade Unwinds: General Motors and Stellantis Fall 4%, Ford Pulls Back",
+            "Betting On A Tesla Roadster By 2027: A No-Brainer or Brainless?",
+            "Alibaba Climbs 3%, PDD and JD.com Tick Up: Is China Technology Finding Buyers Again?",
+            "Exchange-Traded Funds, Equity Futures Mixed Pre-Bell Friday as Tech Rally Continues",
+            "Bitmine Climbs 4% as Ethereum Rallies Despite CLARITY Act Failure; Sharplink Gains 3%",
+            "Netflix Falls 4% as Wells Fargo Cuts Rating to Underweight With $57 Target; Disney Barely Budges"
           ],
           "spx": [
-            "Stock market today: Dow, S&P 500, Nasdaq rise as oil slips, Fed rate hike pacifies markets' inflation worries",
-            "Stock market today: Dow sinks 600 points, S&P 500 and Nasdaq fall as Fed hikes rates, bond yields rise",
-            "2 Reasons to Like COST (and 1 Not So Much)",
-            "Goldman Sachs sees major AI catalyst for Meta stock",
-            "3 Reasons to Sell EBAY and 1 Stock to Buy Instead",
-            "Stock Market Today: Dow Gains 300 Points; Palantir Higher Amid AI Regulation Debate (Live Coverage)",
-            "Prediction: September Will Be Volatile, but Stocks Will Rally After November Midterms",
-            "Update: US Equity Indexes Rise as Treasury Yields Slump After Fed Reaffirms Commitment to Controlling Inflation",
-            "History Says This Will Happen to Nvidia's Stock in 2027 (Hint: You're Going to Want to Buy Now)",
-            "Update: Equities Rise Intraday as Bond Yields Retreat Following Fed Decision"
+            "S&P 500 wavers after best one-day rally in six weeks: AlphaCheck",
+            "Why Sandisk Stock Rallied Today",
+            "3 Reasons BANR is Risky and 1 Stock to Buy Instead",
+            "Stock Market Midday, Sept. 18: Stocks Slip, Crypto Gains",
+            "Will Micron Follow Nvidia and Give Investors a Huge Dividend Hike?",
+            "ServisFirst Bancshares (SFBS): Buy, Sell, or Hold Post Q2 Earnings?",
+            "Lazard Stock Slides 20% Over 8 Straight Down Days",
+            "Global shares fall, Treasury yields rise as central banks double down on inflation fight",
+            "The Bond Market Will Keep Driving Stocks\u2014At Least Until Earnings Season",
+            "Update: US Equity Indexes Fall as Benchmark Treasury Yield Jumps Back Above 5%"
           ]
         }
       },
@@ -2056,55 +2088,60 @@
         "auto_note": "AXON PUT | $-48.10 (-9.81%) | dollar_loser_1 | Strike $390.0 exp 2026-09-18 (2DTE) | IV 78.0% | SPY +nan% | MACRO: fed, rate hike"
       },
       "news_scan": {
-        "scanned_at": "2026-09-17 18:22:59 PST",
-        "gap_days": 1,
-        "ticker_sentiment": "neutral",
-        "spy_sentiment": "bullish",
-        "spx_sentiment": "neutral",
-        "keywords_found": [],
+        "scanned_at": "2026-09-18 17:08:12 PST",
+        "gap_days": 2,
+        "ticker_sentiment": "bearish",
+        "spy_sentiment": "bearish",
+        "spx_sentiment": "bullish",
+        "keywords_found": [
+          "drops"
+        ],
         "spy_keywords": [
-          "surge",
+          "rallies",
+          "falls",
+          "drops"
+        ],
+        "spx_keywords": [
           "jumps"
         ],
-        "spx_keywords": [],
-        "decision": "sell",
-        "decision_reason": "no confirmation for PUT thesis \u2014 sell at open",
+        "decision": "hold",
+        "decision_reason": "bearish keywords confirmed PUT thesis",
         "raw_headlines": {
           "ticker": [
+            "1 Industrials Stock with Exciting Potential and 2 That Underwhelm",
+            "Axon Rebounded 6% Wednesday. Here\u2019s What Could Drive the Stock Through 2026",
+            "Axon Enterprise (AXON) Stock Drops Despite Market Gains: Important Facts to Note",
             "Strength Seen in Axon (AXON): Can Its 6.0% Jump Turn into More Strength?",
             "Fund Capitalizes on Axon Enterprise (AXON) in AI-Related Selloff",
             "Jim Cramer Explains Why AppLovin (APP) Stock Is Going Down",
             "Is Axon Stock Underperforming the Nasdaq?",
             "Why Did Axon Stock Fall Ten Percent On A Convertible That Pays No Interest?",
             "US Equity Markets End Lower After Federal Reserve Increases Policy Rate",
-            "Why Axon Got Slammed By Convertible: It's The Cash Flow",
-            "Company News for Sep 16, 2026",
-            "Investors Heavily Search Axon Enterprise, Inc (AXON): Here is What You Need to Know",
-            "Is Axon Enterprise (AXON) Still Below Fair Value On Its $1b Convertible Notes Offering?"
+            "Why Axon Got Slammed By Convertible: It's The Cash Flow"
           ],
           "spy": [
-            "Boomers Held Bitcoin ETFs Through a 54% Crash but the S&P 500 Rose 16%",
-            "Sunrun and First Solar Rise 6% as Solar Selloff Unwinds; SolarEdge Climbs 4%",
-            "Rocket Lab Jumps 6% as FCC Clears First Hurdle on Iridium Deal; Iridium Communications Barely Budges",
-            "Oklo Jumps 13%, NuScale Power Climbs 10%: Does the House Data Center Power Vote Reach Nuclear?",
-            "BlackBerry Climbs 6%, Mobileye Rises 5%: Is the Software-Defined Vehicle Trade Waking Up?",
-            "Automaker Stocks Rally as Rotation Lifts Cyclicals: General Motors Climbs 4%, Stellantis Rises 4%, Ford Gains 3%, Tesla Adds 2%",
-            "Why CoreWeave Is Tumbling Hard While the Market Is Soaring",
-            "FuelCell Jumps 13% as House Shifts Data Center Power Costs to Operators; Plug Power Climbs 7%, Bloom Energy Rises 3%",
-            "Generac Surges 16% on $2.4B Amazon Data Center Generator Deal; Caterpillar Ticks Up, Cummins Sits Out the Rally",
-            "The Strategist Who Wanted 8,400 on the S&P 500 Just Cut His Number, and It Is Not Because Earnings Got Worse"
+            "Enphase Energy Drops 5% as Solar Selling Resumes; First Solar and Sunrun Fall 4%",
+            "Lam Research Climbs 5% as Chip Equipment Names Outrun the Sector; Applied Materials Rises 4%, KLA Corp. Gains 3%",
+            "NuScale Power Drops 7% as Nuclear Stocks Hand Back the Vote Rally; Oklo Falls 5%, Centrus Energy Slides 3%",
+            "Amazon\u2019s AI Bet is Already Starting to Pay Off",
+            "Automaker Stocks Reverse as Rotation Trade Unwinds: General Motors and Stellantis Fall 4%, Ford Pulls Back",
+            "Betting On A Tesla Roadster By 2027: A No-Brainer or Brainless?",
+            "Alibaba Climbs 3%, PDD and JD.com Tick Up: Is China Technology Finding Buyers Again?",
+            "Exchange-Traded Funds, Equity Futures Mixed Pre-Bell Friday as Tech Rally Continues",
+            "Bitmine Climbs 4% as Ethereum Rallies Despite CLARITY Act Failure; Sharplink Gains 3%",
+            "Netflix Falls 4% as Wells Fargo Cuts Rating to Underweight With $57 Target; Disney Barely Budges"
           ],
           "spx": [
-            "Stock market today: Dow, S&P 500, Nasdaq rise as oil slips, Fed rate hike pacifies markets' inflation worries",
-            "Stock market today: Dow sinks 600 points, S&P 500 and Nasdaq fall as Fed hikes rates, bond yields rise",
-            "2 Reasons to Like COST (and 1 Not So Much)",
-            "Goldman Sachs sees major AI catalyst for Meta stock",
-            "3 Reasons to Sell EBAY and 1 Stock to Buy Instead",
-            "Stock Market Today: Dow Gains 300 Points; Palantir Higher Amid AI Regulation Debate (Live Coverage)",
-            "Prediction: September Will Be Volatile, but Stocks Will Rally After November Midterms",
-            "Update: US Equity Indexes Rise as Treasury Yields Slump After Fed Reaffirms Commitment to Controlling Inflation",
-            "History Says This Will Happen to Nvidia's Stock in 2027 (Hint: You're Going to Want to Buy Now)",
-            "Update: Equities Rise Intraday as Bond Yields Retreat Following Fed Decision"
+            "S&P 500 wavers after best one-day rally in six weeks: AlphaCheck",
+            "Why Sandisk Stock Rallied Today",
+            "3 Reasons BANR is Risky and 1 Stock to Buy Instead",
+            "Stock Market Midday, Sept. 18: Stocks Slip, Crypto Gains",
+            "Will Micron Follow Nvidia and Give Investors a Huge Dividend Hike?",
+            "ServisFirst Bancshares (SFBS): Buy, Sell, or Hold Post Q2 Earnings?",
+            "Lazard Stock Slides 20% Over 8 Straight Down Days",
+            "Global shares fall, Treasury yields rise as central banks double down on inflation fight",
+            "The Bond Market Will Keep Driving Stocks\u2014At Least Until Earnings Season",
+            "Update: US Equity Indexes Fall as Benchmark Treasury Yield Jumps Back Above 5%"
           ]
         }
       },
@@ -2150,59 +2187,62 @@
         "auto_note": "COHR CALL | $+18.76 (+6.92%) | dollar_gainer_1 | Strike $320.0 exp 2026-09-18 (1DTE) | IV 88.5% | SPY +nan% | MACRO: fed, war"
       },
       "news_scan": {
-        "scanned_at": "2026-09-17 18:22:59 PST",
-        "gap_days": 0,
+        "scanned_at": "2026-09-18 17:08:12 PST",
+        "gap_days": 1,
         "ticker_sentiment": "bullish",
-        "spy_sentiment": "bullish",
-        "spx_sentiment": "neutral",
+        "spy_sentiment": "bearish",
+        "spx_sentiment": "bullish",
         "keywords_found": [
           "revenue growth",
           "jumps",
           "concern"
         ],
         "spy_keywords": [
-          "surge",
+          "rallies",
+          "falls",
+          "drops"
+        ],
+        "spx_keywords": [
           "jumps"
         ],
-        "spx_keywords": [],
         "decision": "hold",
         "decision_reason": "bullish keywords confirmed CALL thesis",
         "raw_headlines": {
           "ticker": [
+            "Netflix, Nucor, On Holding, StubHub, Xenon, Coinbase, and More Stocks That Explain Today\u2019s Market",
+            "Lumentum Climbs 3% as Optics Buying Extends; Coherent Rises 5%, Corning Jumps 3%",
+            "Bull of the Day: AXT (AXTI)",
             "Ciena Stock Rises as These Numbers Leave Wall Street Pleasantly Surprised",
             "Coherent (COHR): Unmet Hyperscaler Demand Fuels Aggressive Capacity Expansion",
             "OpenAI Reveals 6 \u2018Concerning\u2019 Incidents. Why Marvell, Other Hot AI Stocks Are Rising.",
             "Coherent Corp. (COHR): A Critical Player in AI Data Center Buildouts",
             "AXT Inc. (AXTI) Draws Bullish Analyst Attention \u2014 Here\u2019s Why",
             "AXT Rises 10% After Being Named Co-Packaged Optics Winner",
-            "CIEN Targets 30% Revenue Growth Through 2029 \u2014 Peers COHR, GLW And AAOI Rally After Guidance",
-            "Lumentum Stock Leads the S&P 500 While Corning Can\u2019t Keep Up",
-            "AXT's Geographic Reach Expands: Can It Drive More Revenue Growth?",
-            "Optics Stocks Rally as Oversold Bounce Takes Hold: Coherent Jumps 6%, Lumentum Climbs 5%, Applied Optoelectronics Advances 3%"
+            "CIEN Targets 30% Revenue Growth Through 2029 \u2014 Peers COHR, GLW And AAOI Rally After Guidance"
           ],
           "spy": [
-            "Boomers Held Bitcoin ETFs Through a 54% Crash but the S&P 500 Rose 16%",
-            "Sunrun and First Solar Rise 6% as Solar Selloff Unwinds; SolarEdge Climbs 4%",
-            "Rocket Lab Jumps 6% as FCC Clears First Hurdle on Iridium Deal; Iridium Communications Barely Budges",
-            "Oklo Jumps 13%, NuScale Power Climbs 10%: Does the House Data Center Power Vote Reach Nuclear?",
-            "BlackBerry Climbs 6%, Mobileye Rises 5%: Is the Software-Defined Vehicle Trade Waking Up?",
-            "Automaker Stocks Rally as Rotation Lifts Cyclicals: General Motors Climbs 4%, Stellantis Rises 4%, Ford Gains 3%, Tesla Adds 2%",
-            "Why CoreWeave Is Tumbling Hard While the Market Is Soaring",
-            "FuelCell Jumps 13% as House Shifts Data Center Power Costs to Operators; Plug Power Climbs 7%, Bloom Energy Rises 3%",
-            "Generac Surges 16% on $2.4B Amazon Data Center Generator Deal; Caterpillar Ticks Up, Cummins Sits Out the Rally",
-            "The Strategist Who Wanted 8,400 on the S&P 500 Just Cut His Number, and It Is Not Because Earnings Got Worse"
+            "Enphase Energy Drops 5% as Solar Selling Resumes; First Solar and Sunrun Fall 4%",
+            "Lam Research Climbs 5% as Chip Equipment Names Outrun the Sector; Applied Materials Rises 4%, KLA Corp. Gains 3%",
+            "NuScale Power Drops 7% as Nuclear Stocks Hand Back the Vote Rally; Oklo Falls 5%, Centrus Energy Slides 3%",
+            "Amazon\u2019s AI Bet is Already Starting to Pay Off",
+            "Automaker Stocks Reverse as Rotation Trade Unwinds: General Motors and Stellantis Fall 4%, Ford Pulls Back",
+            "Betting On A Tesla Roadster By 2027: A No-Brainer or Brainless?",
+            "Alibaba Climbs 3%, PDD and JD.com Tick Up: Is China Technology Finding Buyers Again?",
+            "Exchange-Traded Funds, Equity Futures Mixed Pre-Bell Friday as Tech Rally Continues",
+            "Bitmine Climbs 4% as Ethereum Rallies Despite CLARITY Act Failure; Sharplink Gains 3%",
+            "Netflix Falls 4% as Wells Fargo Cuts Rating to Underweight With $57 Target; Disney Barely Budges"
           ],
           "spx": [
-            "Stock market today: Dow, S&P 500, Nasdaq rise as oil slips, Fed rate hike pacifies markets' inflation worries",
-            "Stock market today: Dow sinks 600 points, S&P 500 and Nasdaq fall as Fed hikes rates, bond yields rise",
-            "2 Reasons to Like COST (and 1 Not So Much)",
-            "Goldman Sachs sees major AI catalyst for Meta stock",
-            "3 Reasons to Sell EBAY and 1 Stock to Buy Instead",
-            "Stock Market Today: Dow Gains 300 Points; Palantir Higher Amid AI Regulation Debate (Live Coverage)",
-            "Prediction: September Will Be Volatile, but Stocks Will Rally After November Midterms",
-            "Update: US Equity Indexes Rise as Treasury Yields Slump After Fed Reaffirms Commitment to Controlling Inflation",
-            "History Says This Will Happen to Nvidia's Stock in 2027 (Hint: You're Going to Want to Buy Now)",
-            "Update: Equities Rise Intraday as Bond Yields Retreat Following Fed Decision"
+            "S&P 500 wavers after best one-day rally in six weeks: AlphaCheck",
+            "Why Sandisk Stock Rallied Today",
+            "3 Reasons BANR is Risky and 1 Stock to Buy Instead",
+            "Stock Market Midday, Sept. 18: Stocks Slip, Crypto Gains",
+            "Will Micron Follow Nvidia and Give Investors a Huge Dividend Hike?",
+            "ServisFirst Bancshares (SFBS): Buy, Sell, or Hold Post Q2 Earnings?",
+            "Lazard Stock Slides 20% Over 8 Straight Down Days",
+            "Global shares fall, Treasury yields rise as central banks double down on inflation fight",
+            "The Bond Market Will Keep Driving Stocks\u2014At Least Until Earnings Season",
+            "Update: US Equity Indexes Fall as Benchmark Treasury Yield Jumps Back Above 5%"
           ]
         }
       },
@@ -2248,52 +2288,55 @@
         "auto_note": "FANG PUT | $-16.99 (-8.03%) | dollar_loser_1 | Strike $185.0 exp 2026-09-18 (1DTE) | IV 53.9% | SPY +nan% | MACRO: fed, war"
       },
       "news_scan": {
-        "scanned_at": "2026-09-17 18:22:59 PST",
-        "gap_days": 0,
+        "scanned_at": "2026-09-18 17:08:12 PST",
+        "gap_days": 1,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bullish",
-        "spx_sentiment": "neutral",
+        "spy_sentiment": "bearish",
+        "spx_sentiment": "bullish",
         "keywords_found": [],
         "spy_keywords": [
-          "surge",
+          "rallies",
+          "falls",
+          "drops"
+        ],
+        "spx_keywords": [
           "jumps"
         ],
-        "spx_keywords": [],
-        "decision": "sell",
-        "decision_reason": "no confirmation for PUT thesis \u2014 sell at open",
+        "decision": "hold",
+        "decision_reason": "neutral keywords confirmed PUT thesis",
         "raw_headlines": {
           "ticker": [
-            "Stocks to Watch: Lennar, Generac, Volvo",
+            "3 Oil And Gas Stocks For Higher Energy Prices On Russia Sanctions",
+            "Stocks to Watch Recap: Lennar, Generac, Volvo",
             "Company News for Sep 17, 2026",
-            "US Stock Market Today: S&P 500 Futures Edge Higher As Fed Rate Decision Looms",
+            "US Stock Market Today: S&P 500 Futures Edge Higher After Fed Raises Rates",
             "Oil Heiress\u2019s $1.9 Billion Stock Sale Sinks Diamondback Shares",
             "Diamondback Energy, Permian Resources, APA Corporation, Viper Energy, and Comstock Resources Shares Are Falling, What You Need To Know",
-            "Diamondback Energy (FANG) Gains As Market Dips: What You Should Know",
-            "Bloom Energy vs. Diamondback Energy: Which Industrials Stock Is a Better Buy in 2026?"
+            "Diamondback Energy (FANG) Gains As Market Dips: What You Should Know"
           ],
           "spy": [
-            "Boomers Held Bitcoin ETFs Through a 54% Crash but the S&P 500 Rose 16%",
-            "Sunrun and First Solar Rise 6% as Solar Selloff Unwinds; SolarEdge Climbs 4%",
-            "Rocket Lab Jumps 6% as FCC Clears First Hurdle on Iridium Deal; Iridium Communications Barely Budges",
-            "Oklo Jumps 13%, NuScale Power Climbs 10%: Does the House Data Center Power Vote Reach Nuclear?",
-            "BlackBerry Climbs 6%, Mobileye Rises 5%: Is the Software-Defined Vehicle Trade Waking Up?",
-            "Automaker Stocks Rally as Rotation Lifts Cyclicals: General Motors Climbs 4%, Stellantis Rises 4%, Ford Gains 3%, Tesla Adds 2%",
-            "Why CoreWeave Is Tumbling Hard While the Market Is Soaring",
-            "FuelCell Jumps 13% as House Shifts Data Center Power Costs to Operators; Plug Power Climbs 7%, Bloom Energy Rises 3%",
-            "Generac Surges 16% on $2.4B Amazon Data Center Generator Deal; Caterpillar Ticks Up, Cummins Sits Out the Rally",
-            "The Strategist Who Wanted 8,400 on the S&P 500 Just Cut His Number, and It Is Not Because Earnings Got Worse"
+            "Enphase Energy Drops 5% as Solar Selling Resumes; First Solar and Sunrun Fall 4%",
+            "Lam Research Climbs 5% as Chip Equipment Names Outrun the Sector; Applied Materials Rises 4%, KLA Corp. Gains 3%",
+            "NuScale Power Drops 7% as Nuclear Stocks Hand Back the Vote Rally; Oklo Falls 5%, Centrus Energy Slides 3%",
+            "Amazon\u2019s AI Bet is Already Starting to Pay Off",
+            "Automaker Stocks Reverse as Rotation Trade Unwinds: General Motors and Stellantis Fall 4%, Ford Pulls Back",
+            "Betting On A Tesla Roadster By 2027: A No-Brainer or Brainless?",
+            "Alibaba Climbs 3%, PDD and JD.com Tick Up: Is China Technology Finding Buyers Again?",
+            "Exchange-Traded Funds, Equity Futures Mixed Pre-Bell Friday as Tech Rally Continues",
+            "Bitmine Climbs 4% as Ethereum Rallies Despite CLARITY Act Failure; Sharplink Gains 3%",
+            "Netflix Falls 4% as Wells Fargo Cuts Rating to Underweight With $57 Target; Disney Barely Budges"
           ],
           "spx": [
-            "Stock market today: Dow, S&P 500, Nasdaq rise as oil slips, Fed rate hike pacifies markets' inflation worries",
-            "Stock market today: Dow sinks 600 points, S&P 500 and Nasdaq fall as Fed hikes rates, bond yields rise",
-            "2 Reasons to Like COST (and 1 Not So Much)",
-            "Goldman Sachs sees major AI catalyst for Meta stock",
-            "3 Reasons to Sell EBAY and 1 Stock to Buy Instead",
-            "Stock Market Today: Dow Gains 300 Points; Palantir Higher Amid AI Regulation Debate (Live Coverage)",
-            "Prediction: September Will Be Volatile, but Stocks Will Rally After November Midterms",
-            "Update: US Equity Indexes Rise as Treasury Yields Slump After Fed Reaffirms Commitment to Controlling Inflation",
-            "History Says This Will Happen to Nvidia's Stock in 2027 (Hint: You're Going to Want to Buy Now)",
-            "Update: Equities Rise Intraday as Bond Yields Retreat Following Fed Decision"
+            "S&P 500 wavers after best one-day rally in six weeks: AlphaCheck",
+            "Why Sandisk Stock Rallied Today",
+            "3 Reasons BANR is Risky and 1 Stock to Buy Instead",
+            "Stock Market Midday, Sept. 18: Stocks Slip, Crypto Gains",
+            "Will Micron Follow Nvidia and Give Investors a Huge Dividend Hike?",
+            "ServisFirst Bancshares (SFBS): Buy, Sell, or Hold Post Q2 Earnings?",
+            "Lazard Stock Slides 20% Over 8 Straight Down Days",
+            "Global shares fall, Treasury yields rise as central banks double down on inflation fight",
+            "The Bond Market Will Keep Driving Stocks\u2014At Least Until Earnings Season",
+            "Update: US Equity Indexes Fall as Benchmark Treasury Yield Jumps Back Above 5%"
           ]
         }
       },
