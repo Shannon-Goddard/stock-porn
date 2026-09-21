@@ -1,250 +1,250 @@
 {
   "topGainers": [
     {
-      "ticker": "SOLT",
-      "name": "VOLATILITY SHS TR 2X SOLANA ETF",
+      "ticker": "ARMG",
+      "name": "THEMES ETF TR LEVERAGE SHARES",
       "sector": "Unknown",
-      "price": 71.2,
-      "changePct": 26.71,
-      "changeDollar": 15.01
+      "price": 26.53,
+      "changePct": 33.38,
+      "changeDollar": 6.64
     },
     {
-      "ticker": "XXRP",
-      "name": "LISTED FDS TR TEUCR 2X XRP ETF",
+      "ticker": "METU",
+      "name": "DIREXION SHARES ETF TRUST DLY META BULL 2X",
       "sector": "Unknown",
-      "price": 32.31,
-      "changePct": 17.62,
-      "changeDollar": 4.84
+      "price": 32.96,
+      "changePct": 24.85,
+      "changeDollar": 6.56
     },
     {
-      "ticker": "MARA",
-      "name": "MARA HOLDINGS INC COM",
+      "ticker": "LABX",
+      "name": "Tradr 2X Long ALAB Daily ETF",
       "sector": "Unknown",
-      "price": 13.24,
-      "changePct": 13.75,
-      "changeDollar": 1.6
+      "price": 13.81,
+      "changePct": 23.75,
+      "changeDollar": 2.65
     },
     {
-      "ticker": "BSOL",
-      "name": "BITWISE SOLANA STAKING ETF COM SHS OF BENEF",
+      "ticker": "MSTU",
+      "name": "T-Rex 2X Long MSTR Daily Target ETF",
       "sector": "Unknown",
-      "price": 15.73,
-      "changePct": 13.41,
-      "changeDollar": 1.86
+      "price": 47.35,
+      "changePct": 16.46,
+      "changeDollar": 6.69
     },
     {
-      "ticker": "FSOL",
-      "name": "FIDELITY SOLANA FD BENEFICIAL INT",
+      "ticker": "BMNU",
+      "name": "T-REX 2X Long BMNR Daily Target ETF",
       "sector": "Unknown",
-      "price": 13.46,
-      "changePct": 13.2,
-      "changeDollar": 1.57
+      "price": 23.43,
+      "changePct": 14.91,
+      "changeDollar": 3.04
     },
     {
-      "ticker": "BITU",
-      "name": "PROSHARES TR ULTRA BITCON ETF",
+      "ticker": "RKLX",
+      "name": "TIDAL TRUST II DEFIANCE DAILY",
       "sector": "Unknown",
-      "price": 14.47,
-      "changePct": 12.17,
-      "changeDollar": 1.57
+      "price": 17.18,
+      "changePct": 14.76,
+      "changeDollar": 2.21
     },
     {
-      "ticker": "GLXY",
-      "name": "GALAXY DIGITAL INC. CL A",
+      "ticker": "HELP",
+      "name": "CYBIN INC COM NEW",
       "sector": "Unknown",
-      "price": 24.69,
-      "changePct": 10.82,
-      "changeDollar": 2.41
+      "price": 13.98,
+      "changePct": 13.02,
+      "changeDollar": 1.61
     },
     {
-      "ticker": "GLNK",
-      "name": "GRAYSCALE CHAINLINK TR ETF SHS",
+      "ticker": "SECZ",
+      "name": "SECURITIZE CORP COM SHS",
       "sector": "Unknown",
-      "price": 10.96,
-      "changePct": 9.16,
-      "changeDollar": 0.92
+      "price": 12.2,
+      "changePct": 12.34,
+      "changeDollar": 1.34
     },
     {
-      "ticker": "HUT",
-      "name": "HUT 8 CORP COM",
+      "ticker": "DOCN",
+      "name": "DIGITALOCEAN HLDGS INC COM",
       "sector": "Unknown",
-      "price": 98.74,
-      "changePct": 8.52,
-      "changeDollar": 7.75
+      "price": 145.99,
+      "changePct": 12.18,
+      "changeDollar": 15.85
     },
     {
-      "ticker": "TETH",
-      "name": "21Shares Ethereum Staking ETF",
+      "ticker": "META",
+      "name": "META PLATFORMS INC CL A",
       "sector": "Unknown",
-      "price": 13.18,
-      "changePct": 7.86,
-      "changeDollar": 0.96
+      "price": 746.52,
+      "changePct": 12.13,
+      "changeDollar": 80.77
     }
   ],
   "topLosers": [
     {
-      "ticker": "XENE",
-      "name": "XENON PHARMACEUTICALS INC COM",
+      "ticker": "SMST",
+      "name": "TIDAL TRUST II DEFI DA TA 2025",
       "sector": "Unknown",
-      "price": 39.75,
-      "changePct": -30.69,
-      "changeDollar": -17.6
+      "price": 11.61,
+      "changePct": -16.11,
+      "changeDollar": -2.23
     },
     {
-      "ticker": "SNDQ",
-      "name": "Tradr 2X Short SNDK Daily ETF",
+      "ticker": "SOXS",
+      "name": "DIREXION SHARES ETF TRUST DAI SEM 3X ETF",
       "sector": "Unknown",
-      "price": 10.36,
-      "changePct": -21.81,
-      "changeDollar": -2.89
+      "price": 35.73,
+      "changePct": -13.88,
+      "changeDollar": -5.76
     },
     {
-      "ticker": "APPX",
-      "name": "INVESTMENT MANAGERS SER TR II TRADR 2X LONG",
+      "ticker": "NVO",
+      "name": "NOVO-NORDISK A S ADR",
       "sector": "Unknown",
-      "price": 12.33,
-      "changePct": -8.4,
-      "changeDollar": -1.13
+      "price": 39.69,
+      "changePct": -8.23,
+      "changeDollar": -3.56
     },
     {
-      "ticker": "CEPU",
-      "name": "CENTRAL PUERTO S A SPONSORED ADR",
+      "ticker": "UTI",
+      "name": "UNIVERSAL TECHNICAL INST INC COM",
       "sector": "Unknown",
-      "price": 13.46,
-      "changePct": -7.04,
-      "changeDollar": -1.02
+      "price": 20.12,
+      "changePct": -6.29,
+      "changeDollar": -1.35
     },
     {
-      "ticker": "WRBY",
-      "name": "WARBY PARKER INC CL A COM",
+      "ticker": "EE",
+      "name": "EXCELERATE ENERGY INC CL A COM",
       "sector": "Unknown",
-      "price": 22.5,
-      "changePct": -6.95,
-      "changeDollar": -1.68
+      "price": 34.08,
+      "changePct": -5.39,
+      "changeDollar": -1.94
     },
     {
-      "ticker": "DLLL",
-      "name": "GRANITESHARES ETF TR 2X LONG DELL ETF",
+      "ticker": "PLNT",
+      "name": "PLANET FITNESS MASTER ISSUER L CL A",
       "sector": "Unknown",
-      "price": 36.73,
-      "changePct": -6.73,
-      "changeDollar": -2.65
+      "price": 46.94,
+      "changePct": -5.15,
+      "changeDollar": -2.55
     },
     {
-      "ticker": "ASTS",
-      "name": "AST SPACEMOBILE INC COM CL A",
+      "ticker": "OBE",
+      "name": "OBSIDIAN ENERGY LTD COM",
       "sector": "Unknown",
-      "price": 58.52,
-      "changePct": -6.68,
-      "changeDollar": -4.19
+      "price": 11.65,
+      "changePct": -4.98,
+      "changeDollar": -0.61
     },
     {
-      "ticker": "SMCX",
-      "name": "TIDAL TRUST II DEFI DA SMCI ETF",
+      "ticker": "GEO",
+      "name": "GEO GROUP INC COM",
       "sector": "Unknown",
-      "price": 12.6,
-      "changePct": -6.39,
-      "changeDollar": -0.86
+      "price": 30.19,
+      "changePct": -4.94,
+      "changeDollar": -1.57
     },
     {
-      "ticker": "BITI",
-      "name": "PROSHARES TR SHOR BITC ET NEW",
+      "ticker": "NOG",
+      "name": "NORTHERN OIL & GAS INC COM",
       "sector": "Unknown",
-      "price": 18.18,
-      "changePct": -6.14,
-      "changeDollar": -1.19
+      "price": 24.0,
+      "changePct": -4.19,
+      "changeDollar": -1.05
     },
     {
-      "ticker": "IONX",
-      "name": "TIDAL TRUST II DEF LON ION ETF",
+      "ticker": "VET",
+      "name": "VERMILION ENERGY INC COM",
       "sector": "Unknown",
-      "price": 22.11,
-      "changePct": -6.11,
-      "changeDollar": -1.44
+      "price": 12.01,
+      "changePct": -4.15,
+      "changeDollar": -0.52
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "SOLT",
-      "name": "VOLATILITY SHS TR 2X SOLANA ETF",
+      "ticker": "META",
+      "name": "META PLATFORMS INC CL A",
       "sector": "Unknown",
-      "price": 71.2,
-      "changePct": 26.71,
-      "changeDollar": 15.01
+      "price": 746.52,
+      "changePct": 12.13,
+      "changeDollar": 80.77
     },
     {
-      "ticker": "HUT",
-      "name": "HUT 8 CORP COM",
+      "ticker": "DOCN",
+      "name": "DIGITALOCEAN HLDGS INC COM",
       "sector": "Unknown",
-      "price": 98.74,
-      "changePct": 8.52,
-      "changeDollar": 7.75
+      "price": 145.99,
+      "changePct": 12.18,
+      "changeDollar": 15.85
     },
     {
-      "ticker": "XXRP",
-      "name": "LISTED FDS TR TEUCR 2X XRP ETF",
+      "ticker": "MSTU",
+      "name": "T-Rex 2X Long MSTR Daily Target ETF",
       "sector": "Unknown",
-      "price": 32.31,
-      "changePct": 17.62,
-      "changeDollar": 4.84
+      "price": 47.35,
+      "changePct": 16.46,
+      "changeDollar": 6.69
     },
     {
-      "ticker": "GLXY",
-      "name": "GALAXY DIGITAL INC. CL A",
+      "ticker": "ARMG",
+      "name": "THEMES ETF TR LEVERAGE SHARES",
       "sector": "Unknown",
-      "price": 24.69,
-      "changePct": 10.82,
-      "changeDollar": 2.41
+      "price": 26.53,
+      "changePct": 33.38,
+      "changeDollar": 6.64
     },
     {
-      "ticker": "BSOL",
-      "name": "BITWISE SOLANA STAKING ETF COM SHS OF BENEF",
+      "ticker": "METU",
+      "name": "DIREXION SHARES ETF TRUST DLY META BULL 2X",
       "sector": "Unknown",
-      "price": 15.73,
-      "changePct": 13.41,
-      "changeDollar": 1.86
+      "price": 32.96,
+      "changePct": 24.85,
+      "changeDollar": 6.56
     }
   ],
   "dollarLosers": [
     {
-      "ticker": "XENE",
-      "name": "XENON PHARMACEUTICALS INC COM",
+      "ticker": "SOXS",
+      "name": "DIREXION SHARES ETF TRUST DAI SEM 3X ETF",
       "sector": "Unknown",
-      "price": 39.75,
-      "changePct": -30.69,
-      "changeDollar": -17.6
+      "price": 35.73,
+      "changePct": -13.88,
+      "changeDollar": -5.76
     },
     {
-      "ticker": "ASTS",
-      "name": "AST SPACEMOBILE INC COM CL A",
+      "ticker": "NVO",
+      "name": "NOVO-NORDISK A S ADR",
       "sector": "Unknown",
-      "price": 58.52,
-      "changePct": -6.68,
-      "changeDollar": -4.19
+      "price": 39.69,
+      "changePct": -8.23,
+      "changeDollar": -3.56
     },
     {
-      "ticker": "SNDQ",
-      "name": "Tradr 2X Short SNDK Daily ETF",
+      "ticker": "PLNT",
+      "name": "PLANET FITNESS MASTER ISSUER L CL A",
       "sector": "Unknown",
-      "price": 10.36,
-      "changePct": -21.81,
-      "changeDollar": -2.89
+      "price": 46.94,
+      "changePct": -5.15,
+      "changeDollar": -2.55
     },
     {
-      "ticker": "DLLL",
-      "name": "GRANITESHARES ETF TR 2X LONG DELL ETF",
+      "ticker": "SMST",
+      "name": "TIDAL TRUST II DEFI DA TA 2025",
       "sector": "Unknown",
-      "price": 36.73,
-      "changePct": -6.73,
-      "changeDollar": -2.65
+      "price": 11.61,
+      "changePct": -16.11,
+      "changeDollar": -2.23
     },
     {
-      "ticker": "WRBY",
-      "name": "WARBY PARKER INC CL A COM",
+      "ticker": "EE",
+      "name": "EXCELERATE ENERGY INC CL A COM",
       "sector": "Unknown",
-      "price": 22.5,
-      "changePct": -6.95,
-      "changeDollar": -1.68
+      "price": 34.08,
+      "changePct": -5.39,
+      "changeDollar": -1.94
     }
   ]
 }
