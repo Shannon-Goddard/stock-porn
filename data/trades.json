@@ -1248,53 +1248,58 @@
         "auto_note": "ALAB CALL | $+27.58 (+9.75%) | dollar_gainer_1 | Strike $390.0 exp 2026-09-11 (6DTE) | IV 88.2% | SPY +nan% | MACRO: rate hike, war"
       },
       "news_scan": {
-        "scanned_at": "2026-09-18 17:44:31 PST",
-        "gap_days": 13,
-        "ticker_sentiment": "neutral",
-        "spy_sentiment": "bearish",
-        "spx_sentiment": "neutral",
-        "keywords_found": [],
-        "spy_keywords": [
-          "jumps",
-          "falls",
-          "drops"
+        "scanned_at": "2026-09-21 18:50:39 PST",
+        "gap_days": 16,
+        "ticker_sentiment": "bearish",
+        "spy_sentiment": "bullish",
+        "spx_sentiment": "bearish",
+        "keywords_found": [
+          "weak"
         ],
-        "spx_keywords": [],
-        "decision": "sell",
-        "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
+        "spy_keywords": [
+          "surge",
+          "jumps",
+          "falls"
+        ],
+        "spx_keywords": [
+          "surge",
+          "warning",
+          "falls"
+        ],
+        "decision": "hold",
+        "decision_reason": "bearish keywords confirmed CALL thesis",
         "raw_headlines": {
           "ticker": [
-            "AMD Leads Chip Stocks Higher Amid Sector Rebound",
-            "Why Is Astera Labs (ALAB) Expanding Leo Memory Controllers For AI And Cloud?",
-            "Grab Cheers Investors With Share Repurchase Completion Plans",
-            "ALAB Broadens Leo Portfolio: Can It Stay Ahead of MRVL & CRDO?",
-            "Grab to Gain From Majority Stake Buyout in Atome Financial: Here's How",
-            "Credo Powers AI Networks With New 1.6T ZeroFlap Optics Launch",
-            "3 AI Infrastructure Stocks Institutions Love but Most Retail Investors Never Heard Of"
+            "Tech Stocks Break Out: The Next Leg of the Bull Market",
+            "CRDO Down 20.3% in a Month: Is the Weakness an Opportunity?",
+            "Marvell Technology Fell Hard Over 3 Months: It Has Momentum and a Wall Street Pro\u2019s Confidence That 78% Gains are Coming",
+            "Credo Technology Crashed for 3 Months: This Wall Street Pro Says It\u2019s About to Double",
+            "Astera Labs vs. Qualcomm: Which Semiconductor Stock Is a Better Buy in 2026?",
+            "Chip Stocks Break Through Ceiling As Sector Rebounds. Macom Is A Standout."
           ],
           "spy": [
-            "PepsiCo Falls 3% While Consumer Staples Hold Firm; Keurig Dr. Pepper Eases, Coca-Cola Barely Budges",
-            "Enphase Energy Drops 5% as Solar Selling Resumes; First Solar and Sunrun Fall 4%",
-            "Lam Research Climbs 5% as Chip Equipment Names Outrun the Sector; Applied Materials Rises 4%, KLA Corp. Gains 3%",
-            "SanDisk Jumps 6% as Storage Bid Concentrates in One Name; Western Digital Rises 3%, Micron Ticks Up",
-            "NuScale Power Drops 7% as Nuclear Stocks Hand Back the Vote Rally; Oklo Falls 5%, Centrus Energy Slides 3%",
-            "Amazon\u2019s AI Bet is Already Starting to Pay Off",
-            "Red Cat and Unusual Machines Fall 3% as Drone Selloff Extends; Ondas Slips",
-            "Automaker Stocks Reverse as Rotation Trade Unwinds: General Motors and Stellantis Fall 4%, Ford Pulls Back",
-            "Rocket Lab Slides 5% as Space Names Give Back Gains; AST SpaceMobile Drops 6%, Planet Labs Sinks 4%",
-            "Betting On A Tesla Roadster By 2027: A No-Brainer or Brainless?"
+            "AMC Spikes 7% as Refinancing Pushes Maturities From 2029 to 2031; Cinemark and IMAX Edge Higher",
+            "BlackBerry Climbs 5% on Cramer Buy Call Ahead of Earnings; Aptiv Inches Higher, Mobileye Sits Tight",
+            "S&P 500 Will \u2018Easily\u2019 Top 8,000 Before Historic Crash, \u2018Black Swan\u2019 Fund Manager Says",
+            "Moderna Surges 9% as Phase 3 Melanoma Data Wins Presidential Symposium Slot; Merck and BioNTech Edge Higher",
+            "Rocket Lab Climbs 7% as Cantor Reiterates $122 Target on Launch Record; Intuitive Machines Jumps 10%, AST SpaceMobile Rises 6%",
+            "Super Micro Computer Looks Very Intriguing Right Now",
+            "Trading Week Starts Up on Quiet Pre-Market",
+            "Oklo Climbs 5% as Nuclear Names Bounce Back From Last Week\u2019s Selloff; NuScale Power Gains 4%, Uranium Energy Rises 3%",
+            "At $336 Apple Is Expensive, or Is It?",
+            "Novo Nordisk Falls 7% as Post-Wegovy Growth Plan Fails to Ease Competition Fears; Eli Lilly Slips, Viking Therapeutics Edges Higher"
           ],
           "spx": [
-            "S&P 500 wavers after best one-day rally in six weeks: AlphaCheck",
-            "2 Reasons to Avoid APAM and 1 Stock to Buy Instead",
-            "The Dow Is Down for a Third Straight Week and the Nasdaq Is Somehow Up",
-            "3 Reasons BG is Risky and 1 Stock to Buy Instead",
-            "Is This Biotech Stock Too Cheap to Ignore After Its Latest Pullback?",
-            "Should You Buy Copart Stock On The ACV Deal?",
-            "3 Reasons SG is Risky and 1 Stock to Buy Instead",
-            "Stock Market Today: Dow Pressured As Yields Hit 5%; Chip Gear Players Jump, Lead Nasdaq 100 (Live Coverage)",
-            "Should You Buy Home Depot Stock Near Its Lowest Price-To-Sales In Ten Years?",
-            "Here's Why Investors Must Hold WCN Stock in Their Portfolios Now"
+            "Stock market today: Nasdaq surges 2%, Dow and S&P 500 gain as chip stocks rally, oil prices fall",
+            "Resilient market warning signs and a John Summit NYSE DJ set",
+            "Could You Have Seen Accenture Stock's Rebound Coming?",
+            "Nasdaq, S&P 500 Near Highs as Oil Falls",
+            "Why Is XRP Up Today?",
+            "UPS Is Today\u2019s Worst Stock in the S&P 500 After Slowed Amazon Shipments",
+            "Eli Lilly Stock Is On Track to Do Something It Hasn't Done Since 2016",
+            "Update: US Equity Indexes Advance as Communication Services, Technology Giants Jump Amid Slumping Crude Oil",
+            "VOO and SPYM Track the Same S&P 500, Yet Only One Is Allowed in Your Kid\u2019s Trump Account",
+            "Update: Equities Rise Intraday as Chip Stocks Rally"
           ]
         }
       },
@@ -1340,58 +1345,60 @@
         "auto_note": "TSLA PUT | $-22.29 (-5.92%) | dollar_loser_1 | Strike $340.0 exp 2026-09-09 (4DTE) | IV 32.4% | SPY +nan% | MACRO: rate hike, war"
       },
       "news_scan": {
-        "scanned_at": "2026-09-18 17:44:31 PST",
-        "gap_days": 13,
-        "ticker_sentiment": "bearish",
-        "spy_sentiment": "bearish",
-        "spx_sentiment": "neutral",
-        "keywords_found": [
+        "scanned_at": "2026-09-21 18:50:39 PST",
+        "gap_days": 16,
+        "ticker_sentiment": "neutral",
+        "spy_sentiment": "bullish",
+        "spx_sentiment": "bearish",
+        "keywords_found": [],
+        "spy_keywords": [
+          "surge",
+          "jumps",
           "falls"
         ],
-        "spy_keywords": [
-          "jumps",
-          "falls",
-          "drops"
+        "spx_keywords": [
+          "surge",
+          "warning",
+          "falls"
         ],
-        "spx_keywords": [],
-        "decision": "hold",
-        "decision_reason": "bearish keywords confirmed PUT thesis",
+        "decision": "sell",
+        "decision_reason": "no confirmation for PUT thesis \u2014 sell at open",
         "raw_headlines": {
           "ticker": [
-            "Trump takes aim at Warsh after Fed hike",
-            "SpaceX stock falls as Starship's test flight slips to Sept. 28, retail investors sell shares",
-            "Tesla Slips 1% as $16.8 Billion AI Fab Meets a Naming Fight",
-            "Auto industry urges Trump to keep Chinese automakers out ahead of Xi meeting",
-            "What's Going On With Tesla Stock Friday",
-            "Tesla Stock Fell After Its Last 4 Delivery Reports, Even a Big Beat. Here's What History Says to Expect in October.",
-            "FSS vs. TSLA: Which Stock Is the Better Value Option?",
-            "Waymo Is Doing So Much More Than Most Understand, Keeping Me Buying Alphabet Hand Over Fist",
-            "Inside Tesla\u2019s Shanghai Gigafactory and What It Means for the Stock.",
-            "Eisman: Tesla\u2019s Multiple Is Crazy Unless You \u201cBelieve that Tesla\u2019s Robotaxi Business will Conquer the World.\u201d \u201cCount Me As a Skeptic\u201d"
+            "Elon Musk wants to live on Mars: Maye Musk on her son's ambitions",
+            "Tesla Heads Into High-Stakes California Court Fight",
+            "Sector Update: Consumer Stocks Mixed Monday Afternoon",
+            "TSLA, RUN Stocks In Focus \u2014 580 MW Heat-Wave Battery Drop Lifts Tesla And Sunrun Despite 2026 Losses",
+            "Uber faces growing AV competition but BofA sees limited market share erosion",
+            "Tesla Opens Roadster Preorders; More SpaceX Merger Talks Surface",
+            "Hugging Face Proves These Two AI Hyperscalers Were Best Protected Against AI Threats",
+            "Elon Musk Puts Boring Company to Biggest Test Yet",
+            "Did Elon Musk Just Drop a Big Hint About a Possible SpaceX-Tesla Merger?",
+            "Tesla Optimus sales revenue unlikely before 2029, Oppenheimer says"
           ],
           "spy": [
-            "PepsiCo Falls 3% While Consumer Staples Hold Firm; Keurig Dr. Pepper Eases, Coca-Cola Barely Budges",
-            "Enphase Energy Drops 5% as Solar Selling Resumes; First Solar and Sunrun Fall 4%",
-            "Lam Research Climbs 5% as Chip Equipment Names Outrun the Sector; Applied Materials Rises 4%, KLA Corp. Gains 3%",
-            "SanDisk Jumps 6% as Storage Bid Concentrates in One Name; Western Digital Rises 3%, Micron Ticks Up",
-            "NuScale Power Drops 7% as Nuclear Stocks Hand Back the Vote Rally; Oklo Falls 5%, Centrus Energy Slides 3%",
-            "Amazon\u2019s AI Bet is Already Starting to Pay Off",
-            "Red Cat and Unusual Machines Fall 3% as Drone Selloff Extends; Ondas Slips",
-            "Automaker Stocks Reverse as Rotation Trade Unwinds: General Motors and Stellantis Fall 4%, Ford Pulls Back",
-            "Rocket Lab Slides 5% as Space Names Give Back Gains; AST SpaceMobile Drops 6%, Planet Labs Sinks 4%",
-            "Betting On A Tesla Roadster By 2027: A No-Brainer or Brainless?"
+            "AMC Spikes 7% as Refinancing Pushes Maturities From 2029 to 2031; Cinemark and IMAX Edge Higher",
+            "BlackBerry Climbs 5% on Cramer Buy Call Ahead of Earnings; Aptiv Inches Higher, Mobileye Sits Tight",
+            "S&P 500 Will \u2018Easily\u2019 Top 8,000 Before Historic Crash, \u2018Black Swan\u2019 Fund Manager Says",
+            "Moderna Surges 9% as Phase 3 Melanoma Data Wins Presidential Symposium Slot; Merck and BioNTech Edge Higher",
+            "Rocket Lab Climbs 7% as Cantor Reiterates $122 Target on Launch Record; Intuitive Machines Jumps 10%, AST SpaceMobile Rises 6%",
+            "Super Micro Computer Looks Very Intriguing Right Now",
+            "Trading Week Starts Up on Quiet Pre-Market",
+            "Oklo Climbs 5% as Nuclear Names Bounce Back From Last Week\u2019s Selloff; NuScale Power Gains 4%, Uranium Energy Rises 3%",
+            "At $336 Apple Is Expensive, or Is It?",
+            "Novo Nordisk Falls 7% as Post-Wegovy Growth Plan Fails to Ease Competition Fears; Eli Lilly Slips, Viking Therapeutics Edges Higher"
           ],
           "spx": [
-            "S&P 500 wavers after best one-day rally in six weeks: AlphaCheck",
-            "2 Reasons to Avoid APAM and 1 Stock to Buy Instead",
-            "The Dow Is Down for a Third Straight Week and the Nasdaq Is Somehow Up",
-            "3 Reasons BG is Risky and 1 Stock to Buy Instead",
-            "Is This Biotech Stock Too Cheap to Ignore After Its Latest Pullback?",
-            "Should You Buy Copart Stock On The ACV Deal?",
-            "3 Reasons SG is Risky and 1 Stock to Buy Instead",
-            "Stock Market Today: Dow Pressured As Yields Hit 5%; Chip Gear Players Jump, Lead Nasdaq 100 (Live Coverage)",
-            "Should You Buy Home Depot Stock Near Its Lowest Price-To-Sales In Ten Years?",
-            "Here's Why Investors Must Hold WCN Stock in Their Portfolios Now"
+            "Stock market today: Nasdaq surges 2%, Dow and S&P 500 gain as chip stocks rally, oil prices fall",
+            "Resilient market warning signs and a John Summit NYSE DJ set",
+            "Could You Have Seen Accenture Stock's Rebound Coming?",
+            "Nasdaq, S&P 500 Near Highs as Oil Falls",
+            "Why Is XRP Up Today?",
+            "UPS Is Today\u2019s Worst Stock in the S&P 500 After Slowed Amazon Shipments",
+            "Eli Lilly Stock Is On Track to Do Something It Hasn't Done Since 2016",
+            "Update: US Equity Indexes Advance as Communication Services, Technology Giants Jump Amid Slumping Crude Oil",
+            "VOO and SPYM Track the Same S&P 500, Yet Only One Is Allowed in Your Kid\u2019s Trump Account",
+            "Update: Equities Rise Intraday as Chip Stocks Rally"
           ]
         }
       },
@@ -1434,54 +1441,54 @@
         "auto_note": "DDOG CALL | $+15.04 (+7.15%) | dollar_gainer_1 | Strike $240.0 exp 2026-09-11 (1DTE) | IV 68.4% | SPY +nan% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-09-18 17:44:31 PST",
-        "gap_days": 8,
-        "ticker_sentiment": "neutral",
-        "spy_sentiment": "bearish",
-        "spx_sentiment": "neutral",
-        "keywords_found": [],
-        "spy_keywords": [
-          "jumps",
-          "falls",
-          "drops"
+        "scanned_at": "2026-09-21 18:50:39 PST",
+        "gap_days": 11,
+        "ticker_sentiment": "bullish",
+        "spy_sentiment": "bullish",
+        "spx_sentiment": "bearish",
+        "keywords_found": [
+          "soars"
         ],
-        "spx_keywords": [],
-        "decision": "sell",
-        "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
+        "spy_keywords": [
+          "surge",
+          "jumps",
+          "falls"
+        ],
+        "spx_keywords": [
+          "surge",
+          "warning",
+          "falls"
+        ],
+        "decision": "hold",
+        "decision_reason": "bullish keywords confirmed CALL thesis",
         "raw_headlines": {
           "ticker": [
-            "Datadog (DDOG) Outpaces Stock Market Gains: What You Should Know",
-            "Datadog's Enterprise Customer Expansion Accelerates: What's Ahead?",
-            "2 Software Stocks on Our Watchlist and 1 Facing Challenges",
-            "3 Cybersecurity Stocks With AI Risk Demand Investors Should Watch",
-            "Datadog's Chief Product Officer Sells 12,700 Shares for $2.8 Million as the Stock Delivers a 59% One-Year Return",
-            "Datadog (DDOG) Stock Could Be A Bargain On Cash Flow",
-            "CSCO's Splunk AI Push Gains Momentum: Can It Outpace DDOG & CRWD?",
-            "Is Analyst Optimism Enough To Justify Datadog\u2019s (DDOG) Premium Valuation In Observability And Security?"
+            "Fastly Soars 14% on AI Firewall Launch; Cloudflare Climbs 7%, Datadog Rises 5%",
+            "1 S&P 500 Stock for Long-Term Investors and 2 We Find Risky"
           ],
           "spy": [
-            "PepsiCo Falls 3% While Consumer Staples Hold Firm; Keurig Dr. Pepper Eases, Coca-Cola Barely Budges",
-            "Enphase Energy Drops 5% as Solar Selling Resumes; First Solar and Sunrun Fall 4%",
-            "Lam Research Climbs 5% as Chip Equipment Names Outrun the Sector; Applied Materials Rises 4%, KLA Corp. Gains 3%",
-            "SanDisk Jumps 6% as Storage Bid Concentrates in One Name; Western Digital Rises 3%, Micron Ticks Up",
-            "NuScale Power Drops 7% as Nuclear Stocks Hand Back the Vote Rally; Oklo Falls 5%, Centrus Energy Slides 3%",
-            "Amazon\u2019s AI Bet is Already Starting to Pay Off",
-            "Red Cat and Unusual Machines Fall 3% as Drone Selloff Extends; Ondas Slips",
-            "Automaker Stocks Reverse as Rotation Trade Unwinds: General Motors and Stellantis Fall 4%, Ford Pulls Back",
-            "Rocket Lab Slides 5% as Space Names Give Back Gains; AST SpaceMobile Drops 6%, Planet Labs Sinks 4%",
-            "Betting On A Tesla Roadster By 2027: A No-Brainer or Brainless?"
+            "AMC Spikes 7% as Refinancing Pushes Maturities From 2029 to 2031; Cinemark and IMAX Edge Higher",
+            "BlackBerry Climbs 5% on Cramer Buy Call Ahead of Earnings; Aptiv Inches Higher, Mobileye Sits Tight",
+            "S&P 500 Will \u2018Easily\u2019 Top 8,000 Before Historic Crash, \u2018Black Swan\u2019 Fund Manager Says",
+            "Moderna Surges 9% as Phase 3 Melanoma Data Wins Presidential Symposium Slot; Merck and BioNTech Edge Higher",
+            "Rocket Lab Climbs 7% as Cantor Reiterates $122 Target on Launch Record; Intuitive Machines Jumps 10%, AST SpaceMobile Rises 6%",
+            "Super Micro Computer Looks Very Intriguing Right Now",
+            "Trading Week Starts Up on Quiet Pre-Market",
+            "Oklo Climbs 5% as Nuclear Names Bounce Back From Last Week\u2019s Selloff; NuScale Power Gains 4%, Uranium Energy Rises 3%",
+            "At $336 Apple Is Expensive, or Is It?",
+            "Novo Nordisk Falls 7% as Post-Wegovy Growth Plan Fails to Ease Competition Fears; Eli Lilly Slips, Viking Therapeutics Edges Higher"
           ],
           "spx": [
-            "S&P 500 wavers after best one-day rally in six weeks: AlphaCheck",
-            "2 Reasons to Avoid APAM and 1 Stock to Buy Instead",
-            "The Dow Is Down for a Third Straight Week and the Nasdaq Is Somehow Up",
-            "3 Reasons BG is Risky and 1 Stock to Buy Instead",
-            "Is This Biotech Stock Too Cheap to Ignore After Its Latest Pullback?",
-            "Should You Buy Copart Stock On The ACV Deal?",
-            "3 Reasons SG is Risky and 1 Stock to Buy Instead",
-            "Stock Market Today: Dow Pressured As Yields Hit 5%; Chip Gear Players Jump, Lead Nasdaq 100 (Live Coverage)",
-            "Should You Buy Home Depot Stock Near Its Lowest Price-To-Sales In Ten Years?",
-            "Here's Why Investors Must Hold WCN Stock in Their Portfolios Now"
+            "Stock market today: Nasdaq surges 2%, Dow and S&P 500 gain as chip stocks rally, oil prices fall",
+            "Resilient market warning signs and a John Summit NYSE DJ set",
+            "Could You Have Seen Accenture Stock's Rebound Coming?",
+            "Nasdaq, S&P 500 Near Highs as Oil Falls",
+            "Why Is XRP Up Today?",
+            "UPS Is Today\u2019s Worst Stock in the S&P 500 After Slowed Amazon Shipments",
+            "Eli Lilly Stock Is On Track to Do Something It Hasn't Done Since 2016",
+            "Update: US Equity Indexes Advance as Communication Services, Technology Giants Jump Amid Slumping Crude Oil",
+            "VOO and SPYM Track the Same S&P 500, Yet Only One Is Allowed in Your Kid\u2019s Trump Account",
+            "Update: Equities Rise Intraday as Chip Stocks Rally"
           ]
         }
       },
@@ -1527,45 +1534,49 @@
         "auto_note": "RGTZ CALL | $+14.18 (+402.84%) | dollar_gainer_1 | Strike $8.0 exp 2026-09-18 (7DTE) | IV 0.0% | SPY +nan% | MACRO: rate hike, china"
       },
       "news_scan": {
-        "scanned_at": "2026-09-18 17:44:31 PST",
-        "gap_days": 7,
+        "scanned_at": "2026-09-21 18:50:39 PST",
+        "gap_days": 10,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bearish",
-        "spx_sentiment": "neutral",
+        "spy_sentiment": "bullish",
+        "spx_sentiment": "bearish",
         "keywords_found": [],
         "spy_keywords": [
+          "surge",
           "jumps",
-          "falls",
-          "drops"
+          "falls"
         ],
-        "spx_keywords": [],
-        "decision": "sell",
-        "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
+        "spx_keywords": [
+          "surge",
+          "warning",
+          "falls"
+        ],
+        "decision": "hold",
+        "decision_reason": "neutral keywords confirmed CALL thesis",
         "raw_headlines": {
           "ticker": [],
           "spy": [
-            "PepsiCo Falls 3% While Consumer Staples Hold Firm; Keurig Dr. Pepper Eases, Coca-Cola Barely Budges",
-            "Enphase Energy Drops 5% as Solar Selling Resumes; First Solar and Sunrun Fall 4%",
-            "Lam Research Climbs 5% as Chip Equipment Names Outrun the Sector; Applied Materials Rises 4%, KLA Corp. Gains 3%",
-            "SanDisk Jumps 6% as Storage Bid Concentrates in One Name; Western Digital Rises 3%, Micron Ticks Up",
-            "NuScale Power Drops 7% as Nuclear Stocks Hand Back the Vote Rally; Oklo Falls 5%, Centrus Energy Slides 3%",
-            "Amazon\u2019s AI Bet is Already Starting to Pay Off",
-            "Red Cat and Unusual Machines Fall 3% as Drone Selloff Extends; Ondas Slips",
-            "Automaker Stocks Reverse as Rotation Trade Unwinds: General Motors and Stellantis Fall 4%, Ford Pulls Back",
-            "Rocket Lab Slides 5% as Space Names Give Back Gains; AST SpaceMobile Drops 6%, Planet Labs Sinks 4%",
-            "Betting On A Tesla Roadster By 2027: A No-Brainer or Brainless?"
+            "AMC Spikes 7% as Refinancing Pushes Maturities From 2029 to 2031; Cinemark and IMAX Edge Higher",
+            "BlackBerry Climbs 5% on Cramer Buy Call Ahead of Earnings; Aptiv Inches Higher, Mobileye Sits Tight",
+            "S&P 500 Will \u2018Easily\u2019 Top 8,000 Before Historic Crash, \u2018Black Swan\u2019 Fund Manager Says",
+            "Moderna Surges 9% as Phase 3 Melanoma Data Wins Presidential Symposium Slot; Merck and BioNTech Edge Higher",
+            "Rocket Lab Climbs 7% as Cantor Reiterates $122 Target on Launch Record; Intuitive Machines Jumps 10%, AST SpaceMobile Rises 6%",
+            "Super Micro Computer Looks Very Intriguing Right Now",
+            "Trading Week Starts Up on Quiet Pre-Market",
+            "Oklo Climbs 5% as Nuclear Names Bounce Back From Last Week\u2019s Selloff; NuScale Power Gains 4%, Uranium Energy Rises 3%",
+            "At $336 Apple Is Expensive, or Is It?",
+            "Novo Nordisk Falls 7% as Post-Wegovy Growth Plan Fails to Ease Competition Fears; Eli Lilly Slips, Viking Therapeutics Edges Higher"
           ],
           "spx": [
-            "S&P 500 wavers after best one-day rally in six weeks: AlphaCheck",
-            "2 Reasons to Avoid APAM and 1 Stock to Buy Instead",
-            "The Dow Is Down for a Third Straight Week and the Nasdaq Is Somehow Up",
-            "3 Reasons BG is Risky and 1 Stock to Buy Instead",
-            "Is This Biotech Stock Too Cheap to Ignore After Its Latest Pullback?",
-            "Should You Buy Copart Stock On The ACV Deal?",
-            "3 Reasons SG is Risky and 1 Stock to Buy Instead",
-            "Stock Market Today: Dow Pressured As Yields Hit 5%; Chip Gear Players Jump, Lead Nasdaq 100 (Live Coverage)",
-            "Should You Buy Home Depot Stock Near Its Lowest Price-To-Sales In Ten Years?",
-            "Here's Why Investors Must Hold WCN Stock in Their Portfolios Now"
+            "Stock market today: Nasdaq surges 2%, Dow and S&P 500 gain as chip stocks rally, oil prices fall",
+            "Resilient market warning signs and a John Summit NYSE DJ set",
+            "Could You Have Seen Accenture Stock's Rebound Coming?",
+            "Nasdaq, S&P 500 Near Highs as Oil Falls",
+            "Why Is XRP Up Today?",
+            "UPS Is Today\u2019s Worst Stock in the S&P 500 After Slowed Amazon Shipments",
+            "Eli Lilly Stock Is On Track to Do Something It Hasn't Done Since 2016",
+            "Update: US Equity Indexes Advance as Communication Services, Technology Giants Jump Amid Slumping Crude Oil",
+            "VOO and SPYM Track the Same S&P 500, Yet Only One Is Allowed in Your Kid\u2019s Trump Account",
+            "Update: Equities Rise Intraday as Chip Stocks Rally"
           ]
         }
       },
@@ -1610,57 +1621,52 @@
         "auto_note": "VICR CALL | $+19.86 (+11.15%) | dollar_gainer_1 | Strike $240.0 exp 2026-09-18 (6DTE) | IV 86.0% | SPY +nan% | MACRO: fed"
       },
       "news_scan": {
-        "scanned_at": "2026-09-18 17:44:31 PST",
-        "gap_days": 6,
-        "ticker_sentiment": "bullish",
-        "spy_sentiment": "bearish",
-        "spx_sentiment": "neutral",
-        "keywords_found": [
-          "surge"
-        ],
+        "scanned_at": "2026-09-21 18:50:39 PST",
+        "gap_days": 9,
+        "ticker_sentiment": "neutral",
+        "spy_sentiment": "bullish",
+        "spx_sentiment": "bearish",
+        "keywords_found": [],
         "spy_keywords": [
+          "surge",
           "jumps",
-          "falls",
-          "drops"
+          "falls"
         ],
-        "spx_keywords": [],
+        "spx_keywords": [
+          "surge",
+          "warning",
+          "falls"
+        ],
         "decision": "hold",
-        "decision_reason": "bullish keywords confirmed CALL thesis",
+        "decision_reason": "neutral keywords confirmed CALL thesis",
         "raw_headlines": {
           "ticker": [
-            "Vicor (VICR) Surges 17.7%: Is This an Indication of Further Gains?",
-            "Vicor Stock Surges 18% Following AI License Agreement",
-            "These 5 Green Stocks Have Crushed Clean Energy ETFs, S&P 500 And AI Funds In 2026",
-            "3 Stocks Put Traders Are Targeting Today",
-            "Why Is Vicor Stock Surging Thursday?",
-            "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Thursday Amid Economic Data, Fed Rate Hike",
-            "Vicor Shares Rise 11% Following AI Power Delivery Technology Licensing Agreement",
-            "Why Is VICR Stock Jumping Over 10% Overnight?",
-            "Vicor (VICR) Plans Two More ChiP Fabs. Can Utilization Justify Expansion?"
+            "Vicor (VICR) Is Up 12.5% After Licensing Its AI Power Technology Is The Bull Case Changing?",
+            "Vicor (VICR) Stock Looks Fully Valued After A 302% Run"
           ],
           "spy": [
-            "PepsiCo Falls 3% While Consumer Staples Hold Firm; Keurig Dr. Pepper Eases, Coca-Cola Barely Budges",
-            "Enphase Energy Drops 5% as Solar Selling Resumes; First Solar and Sunrun Fall 4%",
-            "Lam Research Climbs 5% as Chip Equipment Names Outrun the Sector; Applied Materials Rises 4%, KLA Corp. Gains 3%",
-            "SanDisk Jumps 6% as Storage Bid Concentrates in One Name; Western Digital Rises 3%, Micron Ticks Up",
-            "NuScale Power Drops 7% as Nuclear Stocks Hand Back the Vote Rally; Oklo Falls 5%, Centrus Energy Slides 3%",
-            "Amazon\u2019s AI Bet is Already Starting to Pay Off",
-            "Red Cat and Unusual Machines Fall 3% as Drone Selloff Extends; Ondas Slips",
-            "Automaker Stocks Reverse as Rotation Trade Unwinds: General Motors and Stellantis Fall 4%, Ford Pulls Back",
-            "Rocket Lab Slides 5% as Space Names Give Back Gains; AST SpaceMobile Drops 6%, Planet Labs Sinks 4%",
-            "Betting On A Tesla Roadster By 2027: A No-Brainer or Brainless?"
+            "AMC Spikes 7% as Refinancing Pushes Maturities From 2029 to 2031; Cinemark and IMAX Edge Higher",
+            "BlackBerry Climbs 5% on Cramer Buy Call Ahead of Earnings; Aptiv Inches Higher, Mobileye Sits Tight",
+            "S&P 500 Will \u2018Easily\u2019 Top 8,000 Before Historic Crash, \u2018Black Swan\u2019 Fund Manager Says",
+            "Moderna Surges 9% as Phase 3 Melanoma Data Wins Presidential Symposium Slot; Merck and BioNTech Edge Higher",
+            "Rocket Lab Climbs 7% as Cantor Reiterates $122 Target on Launch Record; Intuitive Machines Jumps 10%, AST SpaceMobile Rises 6%",
+            "Super Micro Computer Looks Very Intriguing Right Now",
+            "Trading Week Starts Up on Quiet Pre-Market",
+            "Oklo Climbs 5% as Nuclear Names Bounce Back From Last Week\u2019s Selloff; NuScale Power Gains 4%, Uranium Energy Rises 3%",
+            "At $336 Apple Is Expensive, or Is It?",
+            "Novo Nordisk Falls 7% as Post-Wegovy Growth Plan Fails to Ease Competition Fears; Eli Lilly Slips, Viking Therapeutics Edges Higher"
           ],
           "spx": [
-            "S&P 500 wavers after best one-day rally in six weeks: AlphaCheck",
-            "2 Reasons to Avoid APAM and 1 Stock to Buy Instead",
-            "The Dow Is Down for a Third Straight Week and the Nasdaq Is Somehow Up",
-            "3 Reasons BG is Risky and 1 Stock to Buy Instead",
-            "Is This Biotech Stock Too Cheap to Ignore After Its Latest Pullback?",
-            "Should You Buy Copart Stock On The ACV Deal?",
-            "3 Reasons SG is Risky and 1 Stock to Buy Instead",
-            "Stock Market Today: Dow Pressured As Yields Hit 5%; Chip Gear Players Jump, Lead Nasdaq 100 (Live Coverage)",
-            "Should You Buy Home Depot Stock Near Its Lowest Price-To-Sales In Ten Years?",
-            "Here's Why Investors Must Hold WCN Stock in Their Portfolios Now"
+            "Stock market today: Nasdaq surges 2%, Dow and S&P 500 gain as chip stocks rally, oil prices fall",
+            "Resilient market warning signs and a John Summit NYSE DJ set",
+            "Could You Have Seen Accenture Stock's Rebound Coming?",
+            "Nasdaq, S&P 500 Near Highs as Oil Falls",
+            "Why Is XRP Up Today?",
+            "UPS Is Today\u2019s Worst Stock in the S&P 500 After Slowed Amazon Shipments",
+            "Eli Lilly Stock Is On Track to Do Something It Hasn't Done Since 2016",
+            "Update: US Equity Indexes Advance as Communication Services, Technology Giants Jump Amid Slumping Crude Oil",
+            "VOO and SPYM Track the Same S&P 500, Yet Only One Is Allowed in Your Kid\u2019s Trump Account",
+            "Update: Equities Rise Intraday as Chip Stocks Rally"
           ]
         }
       },
@@ -1705,54 +1711,54 @@
         "auto_note": "LEU PUT | $-13.56 (-8.18%) | dollar_loser_1 | Strike $135.0 exp 2026-09-18 (6DTE) | IV 56.5% | SPY +nan% | MACRO: fed"
       },
       "news_scan": {
-        "scanned_at": "2026-09-18 17:44:31 PST",
-        "gap_days": 6,
-        "ticker_sentiment": "bearish",
-        "spy_sentiment": "bearish",
-        "spx_sentiment": "neutral",
-        "keywords_found": [
-          "falls",
-          "drops"
-        ],
+        "scanned_at": "2026-09-21 18:50:39 PST",
+        "gap_days": 9,
+        "ticker_sentiment": "neutral",
+        "spy_sentiment": "bullish",
+        "spx_sentiment": "bearish",
+        "keywords_found": [],
         "spy_keywords": [
+          "surge",
           "jumps",
-          "falls",
-          "drops"
+          "falls"
         ],
-        "spx_keywords": [],
-        "decision": "hold",
-        "decision_reason": "bearish keywords confirmed PUT thesis",
+        "spx_keywords": [
+          "surge",
+          "warning",
+          "falls"
+        ],
+        "decision": "sell",
+        "decision_reason": "no confirmation for PUT thesis \u2014 sell at open",
         "raw_headlines": {
           "ticker": [
-            "NuScale Power Drops 7% as Nuclear Stocks Hand Back the Vote Rally; Oklo Falls 5%, Centrus Energy Slides 3%",
-            "1 High-Flying Stock Worth Your Attention and 2 We Ignore",
-            "Why Did Nuclear Stocks OKLO, SMR, NNE, LEU, XE Jump On Thursday?",
-            "Why Is Centrus Energy (LEU) Stock Soaring Today",
-            "The Nuclear Stock Boom Could Keep Decaying"
+            "1 Small-Cap Stock with Exciting Potential and 2 We Find Risky",
+            "A Safer Way to Bet on Nuclear",
+            "Centrus Energy (LEU) Lands New HALEU Deal with Antares",
+            "Centrus Energy (LEU) Signs Two HALEU Supply Agreements Backing Reactor And Security Demand"
           ],
           "spy": [
-            "PepsiCo Falls 3% While Consumer Staples Hold Firm; Keurig Dr. Pepper Eases, Coca-Cola Barely Budges",
-            "Enphase Energy Drops 5% as Solar Selling Resumes; First Solar and Sunrun Fall 4%",
-            "Lam Research Climbs 5% as Chip Equipment Names Outrun the Sector; Applied Materials Rises 4%, KLA Corp. Gains 3%",
-            "SanDisk Jumps 6% as Storage Bid Concentrates in One Name; Western Digital Rises 3%, Micron Ticks Up",
-            "NuScale Power Drops 7% as Nuclear Stocks Hand Back the Vote Rally; Oklo Falls 5%, Centrus Energy Slides 3%",
-            "Amazon\u2019s AI Bet is Already Starting to Pay Off",
-            "Red Cat and Unusual Machines Fall 3% as Drone Selloff Extends; Ondas Slips",
-            "Automaker Stocks Reverse as Rotation Trade Unwinds: General Motors and Stellantis Fall 4%, Ford Pulls Back",
-            "Rocket Lab Slides 5% as Space Names Give Back Gains; AST SpaceMobile Drops 6%, Planet Labs Sinks 4%",
-            "Betting On A Tesla Roadster By 2027: A No-Brainer or Brainless?"
+            "AMC Spikes 7% as Refinancing Pushes Maturities From 2029 to 2031; Cinemark and IMAX Edge Higher",
+            "BlackBerry Climbs 5% on Cramer Buy Call Ahead of Earnings; Aptiv Inches Higher, Mobileye Sits Tight",
+            "S&P 500 Will \u2018Easily\u2019 Top 8,000 Before Historic Crash, \u2018Black Swan\u2019 Fund Manager Says",
+            "Moderna Surges 9% as Phase 3 Melanoma Data Wins Presidential Symposium Slot; Merck and BioNTech Edge Higher",
+            "Rocket Lab Climbs 7% as Cantor Reiterates $122 Target on Launch Record; Intuitive Machines Jumps 10%, AST SpaceMobile Rises 6%",
+            "Super Micro Computer Looks Very Intriguing Right Now",
+            "Trading Week Starts Up on Quiet Pre-Market",
+            "Oklo Climbs 5% as Nuclear Names Bounce Back From Last Week\u2019s Selloff; NuScale Power Gains 4%, Uranium Energy Rises 3%",
+            "At $336 Apple Is Expensive, or Is It?",
+            "Novo Nordisk Falls 7% as Post-Wegovy Growth Plan Fails to Ease Competition Fears; Eli Lilly Slips, Viking Therapeutics Edges Higher"
           ],
           "spx": [
-            "S&P 500 wavers after best one-day rally in six weeks: AlphaCheck",
-            "2 Reasons to Avoid APAM and 1 Stock to Buy Instead",
-            "The Dow Is Down for a Third Straight Week and the Nasdaq Is Somehow Up",
-            "3 Reasons BG is Risky and 1 Stock to Buy Instead",
-            "Is This Biotech Stock Too Cheap to Ignore After Its Latest Pullback?",
-            "Should You Buy Copart Stock On The ACV Deal?",
-            "3 Reasons SG is Risky and 1 Stock to Buy Instead",
-            "Stock Market Today: Dow Pressured As Yields Hit 5%; Chip Gear Players Jump, Lead Nasdaq 100 (Live Coverage)",
-            "Should You Buy Home Depot Stock Near Its Lowest Price-To-Sales In Ten Years?",
-            "Here's Why Investors Must Hold WCN Stock in Their Portfolios Now"
+            "Stock market today: Nasdaq surges 2%, Dow and S&P 500 gain as chip stocks rally, oil prices fall",
+            "Resilient market warning signs and a John Summit NYSE DJ set",
+            "Could You Have Seen Accenture Stock's Rebound Coming?",
+            "Nasdaq, S&P 500 Near Highs as Oil Falls",
+            "Why Is XRP Up Today?",
+            "UPS Is Today\u2019s Worst Stock in the S&P 500 After Slowed Amazon Shipments",
+            "Eli Lilly Stock Is On Track to Do Something It Hasn't Done Since 2016",
+            "Update: US Equity Indexes Advance as Communication Services, Technology Giants Jump Amid Slumping Crude Oil",
+            "VOO and SPYM Track the Same S&P 500, Yet Only One Is Allowed in Your Kid\u2019s Trump Account",
+            "Update: Equities Rise Intraday as Chip Stocks Rally"
           ]
         }
       },
@@ -1795,61 +1801,63 @@
         "auto_note": "PANW CALL | $+43.29 (+13.09%) | dollar_gainer_1 | Strike $420.0 exp 2026-09-18 (3DTE) | IV 71.1% | SPY +nan% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-09-18 17:44:31 PST",
-        "gap_days": 3,
+        "scanned_at": "2026-09-21 18:50:39 PST",
+        "gap_days": 6,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bearish",
-        "spx_sentiment": "neutral",
+        "spy_sentiment": "bullish",
+        "spx_sentiment": "bearish",
         "keywords_found": [
-          "upgrade",
-          "upgraded",
-          "downgrade",
-          "downgraded"
+          "surge",
+          "warning"
         ],
         "spy_keywords": [
+          "surge",
           "jumps",
-          "falls",
-          "drops"
+          "falls"
         ],
-        "spx_keywords": [],
-        "decision": "sell",
-        "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
+        "spx_keywords": [
+          "surge",
+          "warning",
+          "falls"
+        ],
+        "decision": "hold",
+        "decision_reason": "neutral keywords confirmed CALL thesis",
         "raw_headlines": {
           "ticker": [
-            "Why Palo Alto Networks Stock Dropped Today",
-            "CrowdStrike and Palo Alto Networks Are Soaring, but Is the Rally Already Priced In?",
-            "3 Software Stocks That Fall Short",
-            "Cybersecurity Stocks Have Run Sharply Amid Tech Rotation: Freedom Capital's Jay Woods Says This Stock Has Ample Room To Run",
-            "Jim Cramer Prefers Palo Alto (PANW) Over SentinelOne (S)",
-            "Is Cisco Stock Priced For Orders That Are Not Yet Revenue?",
-            "Can Palo Alto Networks' SASE Push Help It Challenge FTNT and ZS?",
-            "Semiconductor Stocks Just Tumbled. This Tech ETF Soared 6% Instead. Here's Why.",
-            "Lyft downgraded, Trip.com upgraded: Wall Street's top analyst calls",
-            "'Agents are like teenagers': Security must keep pace with AI, Cisco president says"
+            "Cybersecurity Stocks Extend Gains on AI Safety Warnings: CrowdStrike and Okta Rise 4%, Palo Alto Ticks Up",
+            "Zscaler's AI Bookings Jump 50%: Can AI Products Drive Growth?",
+            "Palo Alto Networks, Inc. (PANW) is Attracting Investor Attention: Here is What You Should Know",
+            "Palo Alto Networks' 100% Rally Hits a Valuation Roadblock",
+            "2 Growth Stocks to Add to Your Roster and 1 Facing Headwinds",
+            "Morgan Stanley Raises Palo Alto Networks Price Target to $410 on AI Security Demand",
+            "Palo Alto Networks Stock Jumped 10% Last Week. One Analyst Isn\u2019t Buying It.",
+            "Nike\u2019s stock collapse raises new questions about its Dow position",
+            "The AI Slowdown Trade Has Some Winners: CrowdStrike and Palo Alto Rally While Chips Fall",
+            "Why CrowdStrike, Palo Alto Networks, SentinelOne, and Other Cybersecurity Stocks Surged This Week"
           ],
           "spy": [
-            "PepsiCo Falls 3% While Consumer Staples Hold Firm; Keurig Dr. Pepper Eases, Coca-Cola Barely Budges",
-            "Enphase Energy Drops 5% as Solar Selling Resumes; First Solar and Sunrun Fall 4%",
-            "Lam Research Climbs 5% as Chip Equipment Names Outrun the Sector; Applied Materials Rises 4%, KLA Corp. Gains 3%",
-            "SanDisk Jumps 6% as Storage Bid Concentrates in One Name; Western Digital Rises 3%, Micron Ticks Up",
-            "NuScale Power Drops 7% as Nuclear Stocks Hand Back the Vote Rally; Oklo Falls 5%, Centrus Energy Slides 3%",
-            "Amazon\u2019s AI Bet is Already Starting to Pay Off",
-            "Red Cat and Unusual Machines Fall 3% as Drone Selloff Extends; Ondas Slips",
-            "Automaker Stocks Reverse as Rotation Trade Unwinds: General Motors and Stellantis Fall 4%, Ford Pulls Back",
-            "Rocket Lab Slides 5% as Space Names Give Back Gains; AST SpaceMobile Drops 6%, Planet Labs Sinks 4%",
-            "Betting On A Tesla Roadster By 2027: A No-Brainer or Brainless?"
+            "AMC Spikes 7% as Refinancing Pushes Maturities From 2029 to 2031; Cinemark and IMAX Edge Higher",
+            "BlackBerry Climbs 5% on Cramer Buy Call Ahead of Earnings; Aptiv Inches Higher, Mobileye Sits Tight",
+            "S&P 500 Will \u2018Easily\u2019 Top 8,000 Before Historic Crash, \u2018Black Swan\u2019 Fund Manager Says",
+            "Moderna Surges 9% as Phase 3 Melanoma Data Wins Presidential Symposium Slot; Merck and BioNTech Edge Higher",
+            "Rocket Lab Climbs 7% as Cantor Reiterates $122 Target on Launch Record; Intuitive Machines Jumps 10%, AST SpaceMobile Rises 6%",
+            "Super Micro Computer Looks Very Intriguing Right Now",
+            "Trading Week Starts Up on Quiet Pre-Market",
+            "Oklo Climbs 5% as Nuclear Names Bounce Back From Last Week\u2019s Selloff; NuScale Power Gains 4%, Uranium Energy Rises 3%",
+            "At $336 Apple Is Expensive, or Is It?",
+            "Novo Nordisk Falls 7% as Post-Wegovy Growth Plan Fails to Ease Competition Fears; Eli Lilly Slips, Viking Therapeutics Edges Higher"
           ],
           "spx": [
-            "S&P 500 wavers after best one-day rally in six weeks: AlphaCheck",
-            "2 Reasons to Avoid APAM and 1 Stock to Buy Instead",
-            "The Dow Is Down for a Third Straight Week and the Nasdaq Is Somehow Up",
-            "3 Reasons BG is Risky and 1 Stock to Buy Instead",
-            "Is This Biotech Stock Too Cheap to Ignore After Its Latest Pullback?",
-            "Should You Buy Copart Stock On The ACV Deal?",
-            "3 Reasons SG is Risky and 1 Stock to Buy Instead",
-            "Stock Market Today: Dow Pressured As Yields Hit 5%; Chip Gear Players Jump, Lead Nasdaq 100 (Live Coverage)",
-            "Should You Buy Home Depot Stock Near Its Lowest Price-To-Sales In Ten Years?",
-            "Here's Why Investors Must Hold WCN Stock in Their Portfolios Now"
+            "Stock market today: Nasdaq surges 2%, Dow and S&P 500 gain as chip stocks rally, oil prices fall",
+            "Resilient market warning signs and a John Summit NYSE DJ set",
+            "Could You Have Seen Accenture Stock's Rebound Coming?",
+            "Nasdaq, S&P 500 Near Highs as Oil Falls",
+            "Why Is XRP Up Today?",
+            "UPS Is Today\u2019s Worst Stock in the S&P 500 After Slowed Amazon Shipments",
+            "Eli Lilly Stock Is On Track to Do Something It Hasn't Done Since 2016",
+            "Update: US Equity Indexes Advance as Communication Services, Technology Giants Jump Amid Slumping Crude Oil",
+            "VOO and SPYM Track the Same S&P 500, Yet Only One Is Allowed in Your Kid\u2019s Trump Account",
+            "Update: Equities Rise Intraday as Chip Stocks Rally"
           ]
         }
       },
@@ -1892,52 +1900,53 @@
         "auto_note": "TER PUT | $-50.52 (-13.30%) | dollar_loser_1 | Strike $280.0 exp 2026-09-18 (3DTE) | IV 90.0% | SPY +nan% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-09-18 17:44:31 PST",
-        "gap_days": 3,
+        "scanned_at": "2026-09-21 18:50:39 PST",
+        "gap_days": 6,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bearish",
-        "spx_sentiment": "neutral",
+        "spy_sentiment": "bullish",
+        "spx_sentiment": "bearish",
         "keywords_found": [],
         "spy_keywords": [
+          "surge",
           "jumps",
-          "falls",
-          "drops"
+          "falls"
         ],
-        "spx_keywords": [],
-        "decision": "hold",
-        "decision_reason": "neutral keywords confirmed PUT thesis",
+        "spx_keywords": [
+          "surge",
+          "warning",
+          "falls"
+        ],
+        "decision": "sell",
+        "decision_reason": "no confirmation for PUT thesis \u2014 sell at open",
         "raw_headlines": {
           "ticker": [
-            "Teradyne (TER) Opens Bengaluru Office To Support India Chip Manufacturing",
-            "SentinelOne, Marvell Technology, FormFactor, Teradyne, and Intel Shares Are Soaring, What You Need To Know",
-            "Teradyne (TER) Advances While Market Declines: Some Information for Investors",
-            "ASX vs. TER: Which AI Semiconductor Stock Should You Buy Right Now?",
-            "How Is Teradyne Stock Performance Compared to Other Semiconductor Stocks",
-            "Teradyne Looks Expensive Until You Price The AI Chips It Has Not Tested Yet"
+            "Will AI Expansion Drive CEVA's Shares to Further Heights?",
+            "AEHR at 18.59X Sales: Market Loves Its AI Story, But is Love Blind?",
+            "3 AI Infrastructure Stocks Retail Investors Are Watching As US China Trade Rules Shift"
           ],
           "spy": [
-            "PepsiCo Falls 3% While Consumer Staples Hold Firm; Keurig Dr. Pepper Eases, Coca-Cola Barely Budges",
-            "Enphase Energy Drops 5% as Solar Selling Resumes; First Solar and Sunrun Fall 4%",
-            "Lam Research Climbs 5% as Chip Equipment Names Outrun the Sector; Applied Materials Rises 4%, KLA Corp. Gains 3%",
-            "SanDisk Jumps 6% as Storage Bid Concentrates in One Name; Western Digital Rises 3%, Micron Ticks Up",
-            "NuScale Power Drops 7% as Nuclear Stocks Hand Back the Vote Rally; Oklo Falls 5%, Centrus Energy Slides 3%",
-            "Amazon\u2019s AI Bet is Already Starting to Pay Off",
-            "Red Cat and Unusual Machines Fall 3% as Drone Selloff Extends; Ondas Slips",
-            "Automaker Stocks Reverse as Rotation Trade Unwinds: General Motors and Stellantis Fall 4%, Ford Pulls Back",
-            "Rocket Lab Slides 5% as Space Names Give Back Gains; AST SpaceMobile Drops 6%, Planet Labs Sinks 4%",
-            "Betting On A Tesla Roadster By 2027: A No-Brainer or Brainless?"
+            "AMC Spikes 7% as Refinancing Pushes Maturities From 2029 to 2031; Cinemark and IMAX Edge Higher",
+            "BlackBerry Climbs 5% on Cramer Buy Call Ahead of Earnings; Aptiv Inches Higher, Mobileye Sits Tight",
+            "S&P 500 Will \u2018Easily\u2019 Top 8,000 Before Historic Crash, \u2018Black Swan\u2019 Fund Manager Says",
+            "Moderna Surges 9% as Phase 3 Melanoma Data Wins Presidential Symposium Slot; Merck and BioNTech Edge Higher",
+            "Rocket Lab Climbs 7% as Cantor Reiterates $122 Target on Launch Record; Intuitive Machines Jumps 10%, AST SpaceMobile Rises 6%",
+            "Super Micro Computer Looks Very Intriguing Right Now",
+            "Trading Week Starts Up on Quiet Pre-Market",
+            "Oklo Climbs 5% as Nuclear Names Bounce Back From Last Week\u2019s Selloff; NuScale Power Gains 4%, Uranium Energy Rises 3%",
+            "At $336 Apple Is Expensive, or Is It?",
+            "Novo Nordisk Falls 7% as Post-Wegovy Growth Plan Fails to Ease Competition Fears; Eli Lilly Slips, Viking Therapeutics Edges Higher"
           ],
           "spx": [
-            "S&P 500 wavers after best one-day rally in six weeks: AlphaCheck",
-            "2 Reasons to Avoid APAM and 1 Stock to Buy Instead",
-            "The Dow Is Down for a Third Straight Week and the Nasdaq Is Somehow Up",
-            "3 Reasons BG is Risky and 1 Stock to Buy Instead",
-            "Is This Biotech Stock Too Cheap to Ignore After Its Latest Pullback?",
-            "Should You Buy Copart Stock On The ACV Deal?",
-            "3 Reasons SG is Risky and 1 Stock to Buy Instead",
-            "Stock Market Today: Dow Pressured As Yields Hit 5%; Chip Gear Players Jump, Lead Nasdaq 100 (Live Coverage)",
-            "Should You Buy Home Depot Stock Near Its Lowest Price-To-Sales In Ten Years?",
-            "Here's Why Investors Must Hold WCN Stock in Their Portfolios Now"
+            "Stock market today: Nasdaq surges 2%, Dow and S&P 500 gain as chip stocks rally, oil prices fall",
+            "Resilient market warning signs and a John Summit NYSE DJ set",
+            "Could You Have Seen Accenture Stock's Rebound Coming?",
+            "Nasdaq, S&P 500 Near Highs as Oil Falls",
+            "Why Is XRP Up Today?",
+            "UPS Is Today\u2019s Worst Stock in the S&P 500 After Slowed Amazon Shipments",
+            "Eli Lilly Stock Is On Track to Do Something It Hasn't Done Since 2016",
+            "Update: US Equity Indexes Advance as Communication Services, Technology Giants Jump Amid Slumping Crude Oil",
+            "VOO and SPYM Track the Same S&P 500, Yet Only One Is Allowed in Your Kid\u2019s Trump Account",
+            "Update: Equities Rise Intraday as Chip Stocks Rally"
           ]
         }
       },
@@ -1983,48 +1992,49 @@
         "auto_note": "QLYS CALL | $+12.46 (+7.21%) | dollar_gainer_1 | Strike $210.0 exp 2026-09-18 (2DTE) | IV 78.5% | SPY +nan% | MACRO: fed, rate hike"
       },
       "news_scan": {
-        "scanned_at": "2026-09-18 17:44:31 PST",
-        "gap_days": 2,
+        "scanned_at": "2026-09-21 18:50:39 PST",
+        "gap_days": 5,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bearish",
-        "spx_sentiment": "neutral",
+        "spy_sentiment": "bullish",
+        "spx_sentiment": "bearish",
         "keywords_found": [],
         "spy_keywords": [
+          "surge",
           "jumps",
-          "falls",
-          "drops"
+          "falls"
         ],
-        "spx_keywords": [],
-        "decision": "sell",
-        "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
+        "spx_keywords": [
+          "surge",
+          "warning",
+          "falls"
+        ],
+        "decision": "hold",
+        "decision_reason": "neutral keywords confirmed CALL thesis",
         "raw_headlines": {
-          "ticker": [
-            "Dow Jones Futures Rise As Oil Prices, Yields Fall Before Fed Rate Hike; Will Market Rally Bid Bond Voyage?",
-            "Qualys (QLYS): Buy, Sell, or Hold Post Q2 Earnings?"
-          ],
+          "ticker": [],
           "spy": [
-            "PepsiCo Falls 3% While Consumer Staples Hold Firm; Keurig Dr. Pepper Eases, Coca-Cola Barely Budges",
-            "Enphase Energy Drops 5% as Solar Selling Resumes; First Solar and Sunrun Fall 4%",
-            "Lam Research Climbs 5% as Chip Equipment Names Outrun the Sector; Applied Materials Rises 4%, KLA Corp. Gains 3%",
-            "SanDisk Jumps 6% as Storage Bid Concentrates in One Name; Western Digital Rises 3%, Micron Ticks Up",
-            "NuScale Power Drops 7% as Nuclear Stocks Hand Back the Vote Rally; Oklo Falls 5%, Centrus Energy Slides 3%",
-            "Amazon\u2019s AI Bet is Already Starting to Pay Off",
-            "Red Cat and Unusual Machines Fall 3% as Drone Selloff Extends; Ondas Slips",
-            "Automaker Stocks Reverse as Rotation Trade Unwinds: General Motors and Stellantis Fall 4%, Ford Pulls Back",
-            "Rocket Lab Slides 5% as Space Names Give Back Gains; AST SpaceMobile Drops 6%, Planet Labs Sinks 4%",
-            "Betting On A Tesla Roadster By 2027: A No-Brainer or Brainless?"
+            "AMC Spikes 7% as Refinancing Pushes Maturities From 2029 to 2031; Cinemark and IMAX Edge Higher",
+            "BlackBerry Climbs 5% on Cramer Buy Call Ahead of Earnings; Aptiv Inches Higher, Mobileye Sits Tight",
+            "S&P 500 Will \u2018Easily\u2019 Top 8,000 Before Historic Crash, \u2018Black Swan\u2019 Fund Manager Says",
+            "Moderna Surges 9% as Phase 3 Melanoma Data Wins Presidential Symposium Slot; Merck and BioNTech Edge Higher",
+            "Rocket Lab Climbs 7% as Cantor Reiterates $122 Target on Launch Record; Intuitive Machines Jumps 10%, AST SpaceMobile Rises 6%",
+            "Super Micro Computer Looks Very Intriguing Right Now",
+            "Trading Week Starts Up on Quiet Pre-Market",
+            "Oklo Climbs 5% as Nuclear Names Bounce Back From Last Week\u2019s Selloff; NuScale Power Gains 4%, Uranium Energy Rises 3%",
+            "At $336 Apple Is Expensive, or Is It?",
+            "Novo Nordisk Falls 7% as Post-Wegovy Growth Plan Fails to Ease Competition Fears; Eli Lilly Slips, Viking Therapeutics Edges Higher"
           ],
           "spx": [
-            "S&P 500 wavers after best one-day rally in six weeks: AlphaCheck",
-            "2 Reasons to Avoid APAM and 1 Stock to Buy Instead",
-            "The Dow Is Down for a Third Straight Week and the Nasdaq Is Somehow Up",
-            "3 Reasons BG is Risky and 1 Stock to Buy Instead",
-            "Is This Biotech Stock Too Cheap to Ignore After Its Latest Pullback?",
-            "Should You Buy Copart Stock On The ACV Deal?",
-            "3 Reasons SG is Risky and 1 Stock to Buy Instead",
-            "Stock Market Today: Dow Pressured As Yields Hit 5%; Chip Gear Players Jump, Lead Nasdaq 100 (Live Coverage)",
-            "Should You Buy Home Depot Stock Near Its Lowest Price-To-Sales In Ten Years?",
-            "Here's Why Investors Must Hold WCN Stock in Their Portfolios Now"
+            "Stock market today: Nasdaq surges 2%, Dow and S&P 500 gain as chip stocks rally, oil prices fall",
+            "Resilient market warning signs and a John Summit NYSE DJ set",
+            "Could You Have Seen Accenture Stock's Rebound Coming?",
+            "Nasdaq, S&P 500 Near Highs as Oil Falls",
+            "Why Is XRP Up Today?",
+            "UPS Is Today\u2019s Worst Stock in the S&P 500 After Slowed Amazon Shipments",
+            "Eli Lilly Stock Is On Track to Do Something It Hasn't Done Since 2016",
+            "Update: US Equity Indexes Advance as Communication Services, Technology Giants Jump Amid Slumping Crude Oil",
+            "VOO and SPYM Track the Same S&P 500, Yet Only One Is Allowed in Your Kid\u2019s Trump Account",
+            "Update: Equities Rise Intraday as Chip Stocks Rally"
           ]
         }
       },
@@ -2070,58 +2080,53 @@
         "auto_note": "AXON PUT | $-48.10 (-9.81%) | dollar_loser_1 | Strike $390.0 exp 2026-09-18 (2DTE) | IV 78.0% | SPY +nan% | MACRO: fed, rate hike"
       },
       "news_scan": {
-        "scanned_at": "2026-09-18 17:44:31 PST",
-        "gap_days": 2,
-        "ticker_sentiment": "bearish",
-        "spy_sentiment": "bearish",
-        "spx_sentiment": "neutral",
-        "keywords_found": [
-          "drops"
-        ],
+        "scanned_at": "2026-09-21 18:50:39 PST",
+        "gap_days": 5,
+        "ticker_sentiment": "neutral",
+        "spy_sentiment": "bullish",
+        "spx_sentiment": "bearish",
+        "keywords_found": [],
         "spy_keywords": [
+          "surge",
           "jumps",
-          "falls",
-          "drops"
+          "falls"
         ],
-        "spx_keywords": [],
-        "decision": "hold",
-        "decision_reason": "bearish keywords confirmed PUT thesis",
+        "spx_keywords": [
+          "surge",
+          "warning",
+          "falls"
+        ],
+        "decision": "sell",
+        "decision_reason": "no confirmation for PUT thesis \u2014 sell at open",
         "raw_headlines": {
           "ticker": [
-            "1 Industrials Stock with Exciting Potential and 2 That Underwhelm",
-            "Axon Rebounded 6% Wednesday. Here\u2019s What Could Drive the Stock Through 2026",
-            "Axon Enterprise (AXON) Stock Drops Despite Market Gains: Important Facts to Note",
-            "Strength Seen in Axon (AXON): Can Its 6.0% Jump Turn into More Strength?",
-            "Fund Capitalizes on Axon Enterprise (AXON) in AI-Related Selloff",
-            "Jim Cramer Explains Why AppLovin (APP) Stock Is Going Down",
-            "Is Axon Stock Underperforming the Nasdaq?",
-            "Why Did Axon Stock Fall Ten Percent On A Convertible That Pays No Interest?",
-            "US Equity Markets End Lower After Federal Reserve Increases Policy Rate",
-            "Why Axon Got Slammed By Convertible: It's The Cash Flow"
+            "Axon Enterprise (AXON) Prices $1B of Zero-Coupon Notes. What is the Real Cost?",
+            "Axon (AXON) Stock Looks Fairly Valued As 149% Run Meets Funding Test",
+            "Stocks making big moves this week: Sabre, DocuSign, Dave & Buster's, RUM Group, and Axon"
           ],
           "spy": [
-            "PepsiCo Falls 3% While Consumer Staples Hold Firm; Keurig Dr. Pepper Eases, Coca-Cola Barely Budges",
-            "Enphase Energy Drops 5% as Solar Selling Resumes; First Solar and Sunrun Fall 4%",
-            "Lam Research Climbs 5% as Chip Equipment Names Outrun the Sector; Applied Materials Rises 4%, KLA Corp. Gains 3%",
-            "SanDisk Jumps 6% as Storage Bid Concentrates in One Name; Western Digital Rises 3%, Micron Ticks Up",
-            "NuScale Power Drops 7% as Nuclear Stocks Hand Back the Vote Rally; Oklo Falls 5%, Centrus Energy Slides 3%",
-            "Amazon\u2019s AI Bet is Already Starting to Pay Off",
-            "Red Cat and Unusual Machines Fall 3% as Drone Selloff Extends; Ondas Slips",
-            "Automaker Stocks Reverse as Rotation Trade Unwinds: General Motors and Stellantis Fall 4%, Ford Pulls Back",
-            "Rocket Lab Slides 5% as Space Names Give Back Gains; AST SpaceMobile Drops 6%, Planet Labs Sinks 4%",
-            "Betting On A Tesla Roadster By 2027: A No-Brainer or Brainless?"
+            "AMC Spikes 7% as Refinancing Pushes Maturities From 2029 to 2031; Cinemark and IMAX Edge Higher",
+            "BlackBerry Climbs 5% on Cramer Buy Call Ahead of Earnings; Aptiv Inches Higher, Mobileye Sits Tight",
+            "S&P 500 Will \u2018Easily\u2019 Top 8,000 Before Historic Crash, \u2018Black Swan\u2019 Fund Manager Says",
+            "Moderna Surges 9% as Phase 3 Melanoma Data Wins Presidential Symposium Slot; Merck and BioNTech Edge Higher",
+            "Rocket Lab Climbs 7% as Cantor Reiterates $122 Target on Launch Record; Intuitive Machines Jumps 10%, AST SpaceMobile Rises 6%",
+            "Super Micro Computer Looks Very Intriguing Right Now",
+            "Trading Week Starts Up on Quiet Pre-Market",
+            "Oklo Climbs 5% as Nuclear Names Bounce Back From Last Week\u2019s Selloff; NuScale Power Gains 4%, Uranium Energy Rises 3%",
+            "At $336 Apple Is Expensive, or Is It?",
+            "Novo Nordisk Falls 7% as Post-Wegovy Growth Plan Fails to Ease Competition Fears; Eli Lilly Slips, Viking Therapeutics Edges Higher"
           ],
           "spx": [
-            "S&P 500 wavers after best one-day rally in six weeks: AlphaCheck",
-            "2 Reasons to Avoid APAM and 1 Stock to Buy Instead",
-            "The Dow Is Down for a Third Straight Week and the Nasdaq Is Somehow Up",
-            "3 Reasons BG is Risky and 1 Stock to Buy Instead",
-            "Is This Biotech Stock Too Cheap to Ignore After Its Latest Pullback?",
-            "Should You Buy Copart Stock On The ACV Deal?",
-            "3 Reasons SG is Risky and 1 Stock to Buy Instead",
-            "Stock Market Today: Dow Pressured As Yields Hit 5%; Chip Gear Players Jump, Lead Nasdaq 100 (Live Coverage)",
-            "Should You Buy Home Depot Stock Near Its Lowest Price-To-Sales In Ten Years?",
-            "Here's Why Investors Must Hold WCN Stock in Their Portfolios Now"
+            "Stock market today: Nasdaq surges 2%, Dow and S&P 500 gain as chip stocks rally, oil prices fall",
+            "Resilient market warning signs and a John Summit NYSE DJ set",
+            "Could You Have Seen Accenture Stock's Rebound Coming?",
+            "Nasdaq, S&P 500 Near Highs as Oil Falls",
+            "Why Is XRP Up Today?",
+            "UPS Is Today\u2019s Worst Stock in the S&P 500 After Slowed Amazon Shipments",
+            "Eli Lilly Stock Is On Track to Do Something It Hasn't Done Since 2016",
+            "Update: US Equity Indexes Advance as Communication Services, Technology Giants Jump Amid Slumping Crude Oil",
+            "VOO and SPYM Track the Same S&P 500, Yet Only One Is Allowed in Your Kid\u2019s Trump Account",
+            "Update: Equities Rise Intraday as Chip Stocks Rally"
           ]
         }
       },
@@ -2167,60 +2172,60 @@
         "auto_note": "COHR CALL | $+18.76 (+6.92%) | dollar_gainer_1 | Strike $320.0 exp 2026-09-18 (1DTE) | IV 88.5% | SPY +nan% | MACRO: fed, war"
       },
       "news_scan": {
-        "scanned_at": "2026-09-18 17:44:31 PST",
-        "gap_days": 1,
-        "ticker_sentiment": "bullish",
-        "spy_sentiment": "bearish",
-        "spx_sentiment": "neutral",
-        "keywords_found": [
-          "revenue growth",
-          "jumps",
-          "concern"
-        ],
+        "scanned_at": "2026-09-21 18:50:39 PST",
+        "gap_days": 4,
+        "ticker_sentiment": "neutral",
+        "spy_sentiment": "bullish",
+        "spx_sentiment": "bearish",
+        "keywords_found": [],
         "spy_keywords": [
+          "surge",
           "jumps",
-          "falls",
-          "drops"
+          "falls"
         ],
-        "spx_keywords": [],
+        "spx_keywords": [
+          "surge",
+          "warning",
+          "falls"
+        ],
         "decision": "hold",
-        "decision_reason": "bullish keywords confirmed CALL thesis",
+        "decision_reason": "neutral keywords confirmed CALL thesis",
         "raw_headlines": {
           "ticker": [
-            "Netflix, Nucor, On Holding, StubHub, Xenon, Coinbase, and More Stocks That Explain Today\u2019s Market",
-            "Lumentum Climbs 3% as Optics Buying Extends; Coherent Rises 5%, Corning Jumps 3%",
-            "Bull of the Day: AXT (AXTI)",
-            "Ciena Stock Rises as These Numbers Leave Wall Street Pleasantly Surprised",
-            "Coherent (COHR): Unmet Hyperscaler Demand Fuels Aggressive Capacity Expansion",
-            "OpenAI Reveals 6 \u2018Concerning\u2019 Incidents. Why Marvell, Other Hot AI Stocks Are Rising.",
-            "Coherent Corp. (COHR): A Critical Player in AI Data Center Buildouts",
-            "AXT Inc. (AXTI) Draws Bullish Analyst Attention \u2014 Here\u2019s Why",
-            "AXT Rises 10% After Being Named Co-Packaged Optics Winner",
-            "CIEN Targets 30% Revenue Growth Through 2029 \u2014 Peers COHR, GLW And AAOI Rally After Guidance"
+            "Corning Climbs 6% as AI Optical Interconnect Demo Highlights Its Fiber; Lumentum, Coherent and Applied Optoelectronics Rise 4%",
+            "Here's Why You Should Hold Corpay's Stock in Your Portfolio Now",
+            "Why This AI Bottleneck Means Ciena Stock Has 58% Upside",
+            "Lumentum Shares Rise 12% in a Month: Is There More Upside Ahead?",
+            "NVIDIA Just Named AI's Next Bottleneck\u2014And These 3 Stocks Sit Right In It",
+            "Coherent (COHR) Squeezes Key Optical Network Gear Into a Plug-In Module",
+            "Is Coherent (COHR) Too Rich Or Still Reasonable On Cash Flow?",
+            "Coherent (COHR) Stock Trades Up, Here Is Why",
+            "Netflix, Nucor, On Holding, Xenon, Accenture, Coinbase, and More Stocks That Explain Today\u2019s Market",
+            "Bet on These Photonics ETFs to Exploit the Next Wave of AI Revolution"
           ],
           "spy": [
-            "PepsiCo Falls 3% While Consumer Staples Hold Firm; Keurig Dr. Pepper Eases, Coca-Cola Barely Budges",
-            "Enphase Energy Drops 5% as Solar Selling Resumes; First Solar and Sunrun Fall 4%",
-            "Lam Research Climbs 5% as Chip Equipment Names Outrun the Sector; Applied Materials Rises 4%, KLA Corp. Gains 3%",
-            "SanDisk Jumps 6% as Storage Bid Concentrates in One Name; Western Digital Rises 3%, Micron Ticks Up",
-            "NuScale Power Drops 7% as Nuclear Stocks Hand Back the Vote Rally; Oklo Falls 5%, Centrus Energy Slides 3%",
-            "Amazon\u2019s AI Bet is Already Starting to Pay Off",
-            "Red Cat and Unusual Machines Fall 3% as Drone Selloff Extends; Ondas Slips",
-            "Automaker Stocks Reverse as Rotation Trade Unwinds: General Motors and Stellantis Fall 4%, Ford Pulls Back",
-            "Rocket Lab Slides 5% as Space Names Give Back Gains; AST SpaceMobile Drops 6%, Planet Labs Sinks 4%",
-            "Betting On A Tesla Roadster By 2027: A No-Brainer or Brainless?"
+            "AMC Spikes 7% as Refinancing Pushes Maturities From 2029 to 2031; Cinemark and IMAX Edge Higher",
+            "BlackBerry Climbs 5% on Cramer Buy Call Ahead of Earnings; Aptiv Inches Higher, Mobileye Sits Tight",
+            "S&P 500 Will \u2018Easily\u2019 Top 8,000 Before Historic Crash, \u2018Black Swan\u2019 Fund Manager Says",
+            "Moderna Surges 9% as Phase 3 Melanoma Data Wins Presidential Symposium Slot; Merck and BioNTech Edge Higher",
+            "Rocket Lab Climbs 7% as Cantor Reiterates $122 Target on Launch Record; Intuitive Machines Jumps 10%, AST SpaceMobile Rises 6%",
+            "Super Micro Computer Looks Very Intriguing Right Now",
+            "Trading Week Starts Up on Quiet Pre-Market",
+            "Oklo Climbs 5% as Nuclear Names Bounce Back From Last Week\u2019s Selloff; NuScale Power Gains 4%, Uranium Energy Rises 3%",
+            "At $336 Apple Is Expensive, or Is It?",
+            "Novo Nordisk Falls 7% as Post-Wegovy Growth Plan Fails to Ease Competition Fears; Eli Lilly Slips, Viking Therapeutics Edges Higher"
           ],
           "spx": [
-            "S&P 500 wavers after best one-day rally in six weeks: AlphaCheck",
-            "2 Reasons to Avoid APAM and 1 Stock to Buy Instead",
-            "The Dow Is Down for a Third Straight Week and the Nasdaq Is Somehow Up",
-            "3 Reasons BG is Risky and 1 Stock to Buy Instead",
-            "Is This Biotech Stock Too Cheap to Ignore After Its Latest Pullback?",
-            "Should You Buy Copart Stock On The ACV Deal?",
-            "3 Reasons SG is Risky and 1 Stock to Buy Instead",
-            "Stock Market Today: Dow Pressured As Yields Hit 5%; Chip Gear Players Jump, Lead Nasdaq 100 (Live Coverage)",
-            "Should You Buy Home Depot Stock Near Its Lowest Price-To-Sales In Ten Years?",
-            "Here's Why Investors Must Hold WCN Stock in Their Portfolios Now"
+            "Stock market today: Nasdaq surges 2%, Dow and S&P 500 gain as chip stocks rally, oil prices fall",
+            "Resilient market warning signs and a John Summit NYSE DJ set",
+            "Could You Have Seen Accenture Stock's Rebound Coming?",
+            "Nasdaq, S&P 500 Near Highs as Oil Falls",
+            "Why Is XRP Up Today?",
+            "UPS Is Today\u2019s Worst Stock in the S&P 500 After Slowed Amazon Shipments",
+            "Eli Lilly Stock Is On Track to Do Something It Hasn't Done Since 2016",
+            "Update: US Equity Indexes Advance as Communication Services, Technology Giants Jump Amid Slumping Crude Oil",
+            "VOO and SPYM Track the Same S&P 500, Yet Only One Is Allowed in Your Kid\u2019s Trump Account",
+            "Update: Equities Rise Intraday as Chip Stocks Rally"
           ]
         }
       },
@@ -2266,53 +2271,54 @@
         "auto_note": "FANG PUT | $-16.99 (-8.03%) | dollar_loser_1 | Strike $185.0 exp 2026-09-18 (1DTE) | IV 53.9% | SPY +nan% | MACRO: fed, war"
       },
       "news_scan": {
-        "scanned_at": "2026-09-18 17:44:31 PST",
-        "gap_days": 1,
+        "scanned_at": "2026-09-21 18:50:39 PST",
+        "gap_days": 4,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bearish",
-        "spx_sentiment": "neutral",
+        "spy_sentiment": "bullish",
+        "spx_sentiment": "bearish",
         "keywords_found": [],
         "spy_keywords": [
+          "surge",
           "jumps",
-          "falls",
-          "drops"
+          "falls"
         ],
-        "spx_keywords": [],
-        "decision": "hold",
-        "decision_reason": "neutral keywords confirmed PUT thesis",
+        "spx_keywords": [
+          "surge",
+          "warning",
+          "falls"
+        ],
+        "decision": "sell",
+        "decision_reason": "no confirmation for PUT thesis \u2014 sell at open",
         "raw_headlines": {
           "ticker": [
-            "3 Oil And Gas Stocks For Higher Energy Prices On Russia Sanctions",
-            "Stocks to Watch Recap: Lennar, Generac, Volvo",
-            "Company News for Sep 17, 2026",
-            "US Stock Market Today: S&P 500 Futures Edge Higher After Fed Raises Rates",
-            "Oil Heiress\u2019s $1.9 Billion Stock Sale Sinks Diamondback Shares",
-            "Diamondback Energy, Permian Resources, APA Corporation, Viper Energy, and Comstock Resources Shares Are Falling, What You Need To Know",
-            "Diamondback Energy (FANG) Gains As Market Dips: What You Should Know"
+            "Diamondback Energy Is Down 11% This Year While the Permian Basin Keeps Pumping. Is FANG Stock a Buy?",
+            "This Overlooked Pipeline Stock Just Became a Rival's Joint-Venture Partner Without Anyone Noticing",
+            "2 Energy Stocks with Impressive Fundamentals and 1 We Find Risky",
+            "This Diamondback Insider Is One of the World\u2019s Richest People. She Just Sold $2 Billion of Stock."
           ],
           "spy": [
-            "PepsiCo Falls 3% While Consumer Staples Hold Firm; Keurig Dr. Pepper Eases, Coca-Cola Barely Budges",
-            "Enphase Energy Drops 5% as Solar Selling Resumes; First Solar and Sunrun Fall 4%",
-            "Lam Research Climbs 5% as Chip Equipment Names Outrun the Sector; Applied Materials Rises 4%, KLA Corp. Gains 3%",
-            "SanDisk Jumps 6% as Storage Bid Concentrates in One Name; Western Digital Rises 3%, Micron Ticks Up",
-            "NuScale Power Drops 7% as Nuclear Stocks Hand Back the Vote Rally; Oklo Falls 5%, Centrus Energy Slides 3%",
-            "Amazon\u2019s AI Bet is Already Starting to Pay Off",
-            "Red Cat and Unusual Machines Fall 3% as Drone Selloff Extends; Ondas Slips",
-            "Automaker Stocks Reverse as Rotation Trade Unwinds: General Motors and Stellantis Fall 4%, Ford Pulls Back",
-            "Rocket Lab Slides 5% as Space Names Give Back Gains; AST SpaceMobile Drops 6%, Planet Labs Sinks 4%",
-            "Betting On A Tesla Roadster By 2027: A No-Brainer or Brainless?"
+            "AMC Spikes 7% as Refinancing Pushes Maturities From 2029 to 2031; Cinemark and IMAX Edge Higher",
+            "BlackBerry Climbs 5% on Cramer Buy Call Ahead of Earnings; Aptiv Inches Higher, Mobileye Sits Tight",
+            "S&P 500 Will \u2018Easily\u2019 Top 8,000 Before Historic Crash, \u2018Black Swan\u2019 Fund Manager Says",
+            "Moderna Surges 9% as Phase 3 Melanoma Data Wins Presidential Symposium Slot; Merck and BioNTech Edge Higher",
+            "Rocket Lab Climbs 7% as Cantor Reiterates $122 Target on Launch Record; Intuitive Machines Jumps 10%, AST SpaceMobile Rises 6%",
+            "Super Micro Computer Looks Very Intriguing Right Now",
+            "Trading Week Starts Up on Quiet Pre-Market",
+            "Oklo Climbs 5% as Nuclear Names Bounce Back From Last Week\u2019s Selloff; NuScale Power Gains 4%, Uranium Energy Rises 3%",
+            "At $336 Apple Is Expensive, or Is It?",
+            "Novo Nordisk Falls 7% as Post-Wegovy Growth Plan Fails to Ease Competition Fears; Eli Lilly Slips, Viking Therapeutics Edges Higher"
           ],
           "spx": [
-            "S&P 500 wavers after best one-day rally in six weeks: AlphaCheck",
-            "2 Reasons to Avoid APAM and 1 Stock to Buy Instead",
-            "The Dow Is Down for a Third Straight Week and the Nasdaq Is Somehow Up",
-            "3 Reasons BG is Risky and 1 Stock to Buy Instead",
-            "Is This Biotech Stock Too Cheap to Ignore After Its Latest Pullback?",
-            "Should You Buy Copart Stock On The ACV Deal?",
-            "3 Reasons SG is Risky and 1 Stock to Buy Instead",
-            "Stock Market Today: Dow Pressured As Yields Hit 5%; Chip Gear Players Jump, Lead Nasdaq 100 (Live Coverage)",
-            "Should You Buy Home Depot Stock Near Its Lowest Price-To-Sales In Ten Years?",
-            "Here's Why Investors Must Hold WCN Stock in Their Portfolios Now"
+            "Stock market today: Nasdaq surges 2%, Dow and S&P 500 gain as chip stocks rally, oil prices fall",
+            "Resilient market warning signs and a John Summit NYSE DJ set",
+            "Could You Have Seen Accenture Stock's Rebound Coming?",
+            "Nasdaq, S&P 500 Near Highs as Oil Falls",
+            "Why Is XRP Up Today?",
+            "UPS Is Today\u2019s Worst Stock in the S&P 500 After Slowed Amazon Shipments",
+            "Eli Lilly Stock Is On Track to Do Something It Hasn't Done Since 2016",
+            "Update: US Equity Indexes Advance as Communication Services, Technology Giants Jump Amid Slumping Crude Oil",
+            "VOO and SPYM Track the Same S&P 500, Yet Only One Is Allowed in Your Kid\u2019s Trump Account",
+            "Update: Equities Rise Intraday as Chip Stocks Rally"
           ]
         }
       },
