@@ -1248,7 +1248,7 @@
         "auto_note": "ALAB CALL | $+27.58 (+9.75%) | dollar_gainer_1 | Strike $390.0 exp 2026-09-11 (6DTE) | IV 88.2% | SPY +nan% | MACRO: rate hike, war"
       },
       "news_scan": {
-        "scanned_at": "2026-09-21 18:50:39 PST",
+        "scanned_at": "2026-09-21 19:37:18 PST",
         "gap_days": 16,
         "ticker_sentiment": "bearish",
         "spy_sentiment": "bullish",
@@ -1258,8 +1258,7 @@
         ],
         "spy_keywords": [
           "surge",
-          "jumps",
-          "falls"
+          "jumps"
         ],
         "spx_keywords": [
           "surge",
@@ -1278,6 +1277,7 @@
             "Chip Stocks Break Through Ceiling As Sector Rebounds. Macom Is A Standout."
           ],
           "spy": [
+            "Opendoor Gains 5% but Is Still Down 24% in a Month. Will the Bulls or Bears Win?",
             "AMC Spikes 7% as Refinancing Pushes Maturities From 2029 to 2031; Cinemark and IMAX Edge Higher",
             "BlackBerry Climbs 5% on Cramer Buy Call Ahead of Earnings; Aptiv Inches Higher, Mobileye Sits Tight",
             "S&P 500 Will \u2018Easily\u2019 Top 8,000 Before Historic Crash, \u2018Black Swan\u2019 Fund Manager Says",
@@ -1286,20 +1286,19 @@
             "Super Micro Computer Looks Very Intriguing Right Now",
             "Trading Week Starts Up on Quiet Pre-Market",
             "Oklo Climbs 5% as Nuclear Names Bounce Back From Last Week\u2019s Selloff; NuScale Power Gains 4%, Uranium Energy Rises 3%",
-            "At $336 Apple Is Expensive, or Is It?",
-            "Novo Nordisk Falls 7% as Post-Wegovy Growth Plan Fails to Ease Competition Fears; Eli Lilly Slips, Viking Therapeutics Edges Higher"
+            "At $336 Apple Is Expensive, or Is It?"
           ],
           "spx": [
             "Stock market today: Nasdaq surges 2%, Dow and S&P 500 gain as chip stocks rally, oil prices fall",
             "Resilient market warning signs and a John Summit NYSE DJ set",
+            "3 Reasons Investors Watch Workiva (WK)",
+            "3 Reasons to Avoid NX and 1 Stock to Buy Instead",
+            "Why Did Bloom Energy Stock More Than Triple In A Year?",
+            "Will Bitcoin become legal tender in the U.S.? Plus, why crypto isn\u2019t waiting for CLARITY",
+            "Why Rate Hikes Might Not Crash the Market in 2026",
             "Could You Have Seen Accenture Stock's Rebound Coming?",
             "Nasdaq, S&P 500 Near Highs as Oil Falls",
-            "Why Is XRP Up Today?",
-            "UPS Is Today\u2019s Worst Stock in the S&P 500 After Slowed Amazon Shipments",
-            "Eli Lilly Stock Is On Track to Do Something It Hasn't Done Since 2016",
-            "Update: US Equity Indexes Advance as Communication Services, Technology Giants Jump Amid Slumping Crude Oil",
-            "VOO and SPYM Track the Same S&P 500, Yet Only One Is Allowed in Your Kid\u2019s Trump Account",
-            "Update: Equities Rise Intraday as Chip Stocks Rally"
+            "Why Is XRP Up Today?"
           ]
         }
       },
@@ -1345,7 +1344,7 @@
         "auto_note": "TSLA PUT | $-22.29 (-5.92%) | dollar_loser_1 | Strike $340.0 exp 2026-09-09 (4DTE) | IV 32.4% | SPY +nan% | MACRO: rate hike, war"
       },
       "news_scan": {
-        "scanned_at": "2026-09-21 18:50:39 PST",
+        "scanned_at": "2026-09-21 19:37:18 PST",
         "gap_days": 16,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "bullish",
@@ -1353,8 +1352,7 @@
         "keywords_found": [],
         "spy_keywords": [
           "surge",
-          "jumps",
-          "falls"
+          "jumps"
         ],
         "spx_keywords": [
           "surge",
@@ -1365,18 +1363,19 @@
         "decision_reason": "no confirmation for PUT thesis \u2014 sell at open",
         "raw_headlines": {
           "ticker": [
+            "Maye Musk: Elon really wants to live on Mars in the coming decades",
             "Elon Musk wants to live on Mars: Maye Musk on her son's ambitions",
+            "Tesla Stock Rises After Major Self-Driving Win in Europe",
             "Tesla Heads Into High-Stakes California Court Fight",
             "Sector Update: Consumer Stocks Mixed Monday Afternoon",
             "TSLA, RUN Stocks In Focus \u2014 580 MW Heat-Wave Battery Drop Lifts Tesla And Sunrun Despite 2026 Losses",
             "Uber faces growing AV competition but BofA sees limited market share erosion",
             "Tesla Opens Roadster Preorders; More SpaceX Merger Talks Surface",
             "Hugging Face Proves These Two AI Hyperscalers Were Best Protected Against AI Threats",
-            "Elon Musk Puts Boring Company to Biggest Test Yet",
-            "Did Elon Musk Just Drop a Big Hint About a Possible SpaceX-Tesla Merger?",
-            "Tesla Optimus sales revenue unlikely before 2029, Oppenheimer says"
+            "Elon Musk Puts Boring Company to Biggest Test Yet"
           ],
           "spy": [
+            "Opendoor Gains 5% but Is Still Down 24% in a Month. Will the Bulls or Bears Win?",
             "AMC Spikes 7% as Refinancing Pushes Maturities From 2029 to 2031; Cinemark and IMAX Edge Higher",
             "BlackBerry Climbs 5% on Cramer Buy Call Ahead of Earnings; Aptiv Inches Higher, Mobileye Sits Tight",
             "S&P 500 Will \u2018Easily\u2019 Top 8,000 Before Historic Crash, \u2018Black Swan\u2019 Fund Manager Says",
@@ -1385,20 +1384,19 @@
             "Super Micro Computer Looks Very Intriguing Right Now",
             "Trading Week Starts Up on Quiet Pre-Market",
             "Oklo Climbs 5% as Nuclear Names Bounce Back From Last Week\u2019s Selloff; NuScale Power Gains 4%, Uranium Energy Rises 3%",
-            "At $336 Apple Is Expensive, or Is It?",
-            "Novo Nordisk Falls 7% as Post-Wegovy Growth Plan Fails to Ease Competition Fears; Eli Lilly Slips, Viking Therapeutics Edges Higher"
+            "At $336 Apple Is Expensive, or Is It?"
           ],
           "spx": [
             "Stock market today: Nasdaq surges 2%, Dow and S&P 500 gain as chip stocks rally, oil prices fall",
             "Resilient market warning signs and a John Summit NYSE DJ set",
+            "3 Reasons Investors Watch Workiva (WK)",
+            "3 Reasons to Avoid NX and 1 Stock to Buy Instead",
+            "Why Did Bloom Energy Stock More Than Triple In A Year?",
+            "Will Bitcoin become legal tender in the U.S.? Plus, why crypto isn\u2019t waiting for CLARITY",
+            "Why Rate Hikes Might Not Crash the Market in 2026",
             "Could You Have Seen Accenture Stock's Rebound Coming?",
             "Nasdaq, S&P 500 Near Highs as Oil Falls",
-            "Why Is XRP Up Today?",
-            "UPS Is Today\u2019s Worst Stock in the S&P 500 After Slowed Amazon Shipments",
-            "Eli Lilly Stock Is On Track to Do Something It Hasn't Done Since 2016",
-            "Update: US Equity Indexes Advance as Communication Services, Technology Giants Jump Amid Slumping Crude Oil",
-            "VOO and SPYM Track the Same S&P 500, Yet Only One Is Allowed in Your Kid\u2019s Trump Account",
-            "Update: Equities Rise Intraday as Chip Stocks Rally"
+            "Why Is XRP Up Today?"
           ]
         }
       },
@@ -1441,7 +1439,7 @@
         "auto_note": "DDOG CALL | $+15.04 (+7.15%) | dollar_gainer_1 | Strike $240.0 exp 2026-09-11 (1DTE) | IV 68.4% | SPY +nan% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-09-21 18:50:39 PST",
+        "scanned_at": "2026-09-21 19:37:18 PST",
         "gap_days": 11,
         "ticker_sentiment": "bullish",
         "spy_sentiment": "bullish",
@@ -1451,8 +1449,7 @@
         ],
         "spy_keywords": [
           "surge",
-          "jumps",
-          "falls"
+          "jumps"
         ],
         "spx_keywords": [
           "surge",
@@ -1467,6 +1464,7 @@
             "1 S&P 500 Stock for Long-Term Investors and 2 We Find Risky"
           ],
           "spy": [
+            "Opendoor Gains 5% but Is Still Down 24% in a Month. Will the Bulls or Bears Win?",
             "AMC Spikes 7% as Refinancing Pushes Maturities From 2029 to 2031; Cinemark and IMAX Edge Higher",
             "BlackBerry Climbs 5% on Cramer Buy Call Ahead of Earnings; Aptiv Inches Higher, Mobileye Sits Tight",
             "S&P 500 Will \u2018Easily\u2019 Top 8,000 Before Historic Crash, \u2018Black Swan\u2019 Fund Manager Says",
@@ -1475,20 +1473,19 @@
             "Super Micro Computer Looks Very Intriguing Right Now",
             "Trading Week Starts Up on Quiet Pre-Market",
             "Oklo Climbs 5% as Nuclear Names Bounce Back From Last Week\u2019s Selloff; NuScale Power Gains 4%, Uranium Energy Rises 3%",
-            "At $336 Apple Is Expensive, or Is It?",
-            "Novo Nordisk Falls 7% as Post-Wegovy Growth Plan Fails to Ease Competition Fears; Eli Lilly Slips, Viking Therapeutics Edges Higher"
+            "At $336 Apple Is Expensive, or Is It?"
           ],
           "spx": [
             "Stock market today: Nasdaq surges 2%, Dow and S&P 500 gain as chip stocks rally, oil prices fall",
             "Resilient market warning signs and a John Summit NYSE DJ set",
+            "3 Reasons Investors Watch Workiva (WK)",
+            "3 Reasons to Avoid NX and 1 Stock to Buy Instead",
+            "Why Did Bloom Energy Stock More Than Triple In A Year?",
+            "Will Bitcoin become legal tender in the U.S.? Plus, why crypto isn\u2019t waiting for CLARITY",
+            "Why Rate Hikes Might Not Crash the Market in 2026",
             "Could You Have Seen Accenture Stock's Rebound Coming?",
             "Nasdaq, S&P 500 Near Highs as Oil Falls",
-            "Why Is XRP Up Today?",
-            "UPS Is Today\u2019s Worst Stock in the S&P 500 After Slowed Amazon Shipments",
-            "Eli Lilly Stock Is On Track to Do Something It Hasn't Done Since 2016",
-            "Update: US Equity Indexes Advance as Communication Services, Technology Giants Jump Amid Slumping Crude Oil",
-            "VOO and SPYM Track the Same S&P 500, Yet Only One Is Allowed in Your Kid\u2019s Trump Account",
-            "Update: Equities Rise Intraday as Chip Stocks Rally"
+            "Why Is XRP Up Today?"
           ]
         }
       },
@@ -1534,7 +1531,7 @@
         "auto_note": "RGTZ CALL | $+14.18 (+402.84%) | dollar_gainer_1 | Strike $8.0 exp 2026-09-18 (7DTE) | IV 0.0% | SPY +nan% | MACRO: rate hike, china"
       },
       "news_scan": {
-        "scanned_at": "2026-09-21 18:50:39 PST",
+        "scanned_at": "2026-09-21 19:37:18 PST",
         "gap_days": 10,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "bullish",
@@ -1542,8 +1539,7 @@
         "keywords_found": [],
         "spy_keywords": [
           "surge",
-          "jumps",
-          "falls"
+          "jumps"
         ],
         "spx_keywords": [
           "surge",
@@ -1555,6 +1551,7 @@
         "raw_headlines": {
           "ticker": [],
           "spy": [
+            "Opendoor Gains 5% but Is Still Down 24% in a Month. Will the Bulls or Bears Win?",
             "AMC Spikes 7% as Refinancing Pushes Maturities From 2029 to 2031; Cinemark and IMAX Edge Higher",
             "BlackBerry Climbs 5% on Cramer Buy Call Ahead of Earnings; Aptiv Inches Higher, Mobileye Sits Tight",
             "S&P 500 Will \u2018Easily\u2019 Top 8,000 Before Historic Crash, \u2018Black Swan\u2019 Fund Manager Says",
@@ -1563,20 +1560,19 @@
             "Super Micro Computer Looks Very Intriguing Right Now",
             "Trading Week Starts Up on Quiet Pre-Market",
             "Oklo Climbs 5% as Nuclear Names Bounce Back From Last Week\u2019s Selloff; NuScale Power Gains 4%, Uranium Energy Rises 3%",
-            "At $336 Apple Is Expensive, or Is It?",
-            "Novo Nordisk Falls 7% as Post-Wegovy Growth Plan Fails to Ease Competition Fears; Eli Lilly Slips, Viking Therapeutics Edges Higher"
+            "At $336 Apple Is Expensive, or Is It?"
           ],
           "spx": [
             "Stock market today: Nasdaq surges 2%, Dow and S&P 500 gain as chip stocks rally, oil prices fall",
             "Resilient market warning signs and a John Summit NYSE DJ set",
+            "3 Reasons Investors Watch Workiva (WK)",
+            "3 Reasons to Avoid NX and 1 Stock to Buy Instead",
+            "Why Did Bloom Energy Stock More Than Triple In A Year?",
+            "Will Bitcoin become legal tender in the U.S.? Plus, why crypto isn\u2019t waiting for CLARITY",
+            "Why Rate Hikes Might Not Crash the Market in 2026",
             "Could You Have Seen Accenture Stock's Rebound Coming?",
             "Nasdaq, S&P 500 Near Highs as Oil Falls",
-            "Why Is XRP Up Today?",
-            "UPS Is Today\u2019s Worst Stock in the S&P 500 After Slowed Amazon Shipments",
-            "Eli Lilly Stock Is On Track to Do Something It Hasn't Done Since 2016",
-            "Update: US Equity Indexes Advance as Communication Services, Technology Giants Jump Amid Slumping Crude Oil",
-            "VOO and SPYM Track the Same S&P 500, Yet Only One Is Allowed in Your Kid\u2019s Trump Account",
-            "Update: Equities Rise Intraday as Chip Stocks Rally"
+            "Why Is XRP Up Today?"
           ]
         }
       },
@@ -1621,7 +1617,7 @@
         "auto_note": "VICR CALL | $+19.86 (+11.15%) | dollar_gainer_1 | Strike $240.0 exp 2026-09-18 (6DTE) | IV 86.0% | SPY +nan% | MACRO: fed"
       },
       "news_scan": {
-        "scanned_at": "2026-09-21 18:50:39 PST",
+        "scanned_at": "2026-09-21 19:37:18 PST",
         "gap_days": 9,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "bullish",
@@ -1629,8 +1625,7 @@
         "keywords_found": [],
         "spy_keywords": [
           "surge",
-          "jumps",
-          "falls"
+          "jumps"
         ],
         "spx_keywords": [
           "surge",
@@ -1641,10 +1636,10 @@
         "decision_reason": "neutral keywords confirmed CALL thesis",
         "raw_headlines": {
           "ticker": [
-            "Vicor (VICR) Is Up 12.5% After Licensing Its AI Power Technology Is The Bull Case Changing?",
-            "Vicor (VICR) Stock Looks Fully Valued After A 302% Run"
+            "Vicor (VICR) Is Up 12.5% After Licensing Its AI Power Technology Is The Bull Case Changing?"
           ],
           "spy": [
+            "Opendoor Gains 5% but Is Still Down 24% in a Month. Will the Bulls or Bears Win?",
             "AMC Spikes 7% as Refinancing Pushes Maturities From 2029 to 2031; Cinemark and IMAX Edge Higher",
             "BlackBerry Climbs 5% on Cramer Buy Call Ahead of Earnings; Aptiv Inches Higher, Mobileye Sits Tight",
             "S&P 500 Will \u2018Easily\u2019 Top 8,000 Before Historic Crash, \u2018Black Swan\u2019 Fund Manager Says",
@@ -1653,20 +1648,19 @@
             "Super Micro Computer Looks Very Intriguing Right Now",
             "Trading Week Starts Up on Quiet Pre-Market",
             "Oklo Climbs 5% as Nuclear Names Bounce Back From Last Week\u2019s Selloff; NuScale Power Gains 4%, Uranium Energy Rises 3%",
-            "At $336 Apple Is Expensive, or Is It?",
-            "Novo Nordisk Falls 7% as Post-Wegovy Growth Plan Fails to Ease Competition Fears; Eli Lilly Slips, Viking Therapeutics Edges Higher"
+            "At $336 Apple Is Expensive, or Is It?"
           ],
           "spx": [
             "Stock market today: Nasdaq surges 2%, Dow and S&P 500 gain as chip stocks rally, oil prices fall",
             "Resilient market warning signs and a John Summit NYSE DJ set",
+            "3 Reasons Investors Watch Workiva (WK)",
+            "3 Reasons to Avoid NX and 1 Stock to Buy Instead",
+            "Why Did Bloom Energy Stock More Than Triple In A Year?",
+            "Will Bitcoin become legal tender in the U.S.? Plus, why crypto isn\u2019t waiting for CLARITY",
+            "Why Rate Hikes Might Not Crash the Market in 2026",
             "Could You Have Seen Accenture Stock's Rebound Coming?",
             "Nasdaq, S&P 500 Near Highs as Oil Falls",
-            "Why Is XRP Up Today?",
-            "UPS Is Today\u2019s Worst Stock in the S&P 500 After Slowed Amazon Shipments",
-            "Eli Lilly Stock Is On Track to Do Something It Hasn't Done Since 2016",
-            "Update: US Equity Indexes Advance as Communication Services, Technology Giants Jump Amid Slumping Crude Oil",
-            "VOO and SPYM Track the Same S&P 500, Yet Only One Is Allowed in Your Kid\u2019s Trump Account",
-            "Update: Equities Rise Intraday as Chip Stocks Rally"
+            "Why Is XRP Up Today?"
           ]
         }
       },
@@ -1711,7 +1705,7 @@
         "auto_note": "LEU PUT | $-13.56 (-8.18%) | dollar_loser_1 | Strike $135.0 exp 2026-09-18 (6DTE) | IV 56.5% | SPY +nan% | MACRO: fed"
       },
       "news_scan": {
-        "scanned_at": "2026-09-21 18:50:39 PST",
+        "scanned_at": "2026-09-21 19:37:18 PST",
         "gap_days": 9,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "bullish",
@@ -1719,8 +1713,7 @@
         "keywords_found": [],
         "spy_keywords": [
           "surge",
-          "jumps",
-          "falls"
+          "jumps"
         ],
         "spx_keywords": [
           "surge",
@@ -1737,6 +1730,7 @@
             "Centrus Energy (LEU) Signs Two HALEU Supply Agreements Backing Reactor And Security Demand"
           ],
           "spy": [
+            "Opendoor Gains 5% but Is Still Down 24% in a Month. Will the Bulls or Bears Win?",
             "AMC Spikes 7% as Refinancing Pushes Maturities From 2029 to 2031; Cinemark and IMAX Edge Higher",
             "BlackBerry Climbs 5% on Cramer Buy Call Ahead of Earnings; Aptiv Inches Higher, Mobileye Sits Tight",
             "S&P 500 Will \u2018Easily\u2019 Top 8,000 Before Historic Crash, \u2018Black Swan\u2019 Fund Manager Says",
@@ -1745,20 +1739,19 @@
             "Super Micro Computer Looks Very Intriguing Right Now",
             "Trading Week Starts Up on Quiet Pre-Market",
             "Oklo Climbs 5% as Nuclear Names Bounce Back From Last Week\u2019s Selloff; NuScale Power Gains 4%, Uranium Energy Rises 3%",
-            "At $336 Apple Is Expensive, or Is It?",
-            "Novo Nordisk Falls 7% as Post-Wegovy Growth Plan Fails to Ease Competition Fears; Eli Lilly Slips, Viking Therapeutics Edges Higher"
+            "At $336 Apple Is Expensive, or Is It?"
           ],
           "spx": [
             "Stock market today: Nasdaq surges 2%, Dow and S&P 500 gain as chip stocks rally, oil prices fall",
             "Resilient market warning signs and a John Summit NYSE DJ set",
+            "3 Reasons Investors Watch Workiva (WK)",
+            "3 Reasons to Avoid NX and 1 Stock to Buy Instead",
+            "Why Did Bloom Energy Stock More Than Triple In A Year?",
+            "Will Bitcoin become legal tender in the U.S.? Plus, why crypto isn\u2019t waiting for CLARITY",
+            "Why Rate Hikes Might Not Crash the Market in 2026",
             "Could You Have Seen Accenture Stock's Rebound Coming?",
             "Nasdaq, S&P 500 Near Highs as Oil Falls",
-            "Why Is XRP Up Today?",
-            "UPS Is Today\u2019s Worst Stock in the S&P 500 After Slowed Amazon Shipments",
-            "Eli Lilly Stock Is On Track to Do Something It Hasn't Done Since 2016",
-            "Update: US Equity Indexes Advance as Communication Services, Technology Giants Jump Amid Slumping Crude Oil",
-            "VOO and SPYM Track the Same S&P 500, Yet Only One Is Allowed in Your Kid\u2019s Trump Account",
-            "Update: Equities Rise Intraday as Chip Stocks Rally"
+            "Why Is XRP Up Today?"
           ]
         }
       },
@@ -1801,19 +1794,18 @@
         "auto_note": "PANW CALL | $+43.29 (+13.09%) | dollar_gainer_1 | Strike $420.0 exp 2026-09-18 (3DTE) | IV 71.1% | SPY +nan% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-09-21 18:50:39 PST",
+        "scanned_at": "2026-09-21 19:37:18 PST",
         "gap_days": 6,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "bullish",
         "spx_sentiment": "bearish",
         "keywords_found": [
-          "surge",
+          "jumps",
           "warning"
         ],
         "spy_keywords": [
           "surge",
-          "jumps",
-          "falls"
+          "jumps"
         ],
         "spx_keywords": [
           "surge",
@@ -1824,6 +1816,8 @@
         "decision_reason": "neutral keywords confirmed CALL thesis",
         "raw_headlines": {
           "ticker": [
+            "3 Reasons to Sell PANW and 1 Stock to Buy Instead",
+            "Palo Alto Jumps 2.4% as S&P 100 Meets AI Security Growth",
             "Cybersecurity Stocks Extend Gains on AI Safety Warnings: CrowdStrike and Okta Rise 4%, Palo Alto Ticks Up",
             "Zscaler's AI Bookings Jump 50%: Can AI Products Drive Growth?",
             "Palo Alto Networks, Inc. (PANW) is Attracting Investor Attention: Here is What You Should Know",
@@ -1831,11 +1825,10 @@
             "2 Growth Stocks to Add to Your Roster and 1 Facing Headwinds",
             "Morgan Stanley Raises Palo Alto Networks Price Target to $410 on AI Security Demand",
             "Palo Alto Networks Stock Jumped 10% Last Week. One Analyst Isn\u2019t Buying It.",
-            "Nike\u2019s stock collapse raises new questions about its Dow position",
-            "The AI Slowdown Trade Has Some Winners: CrowdStrike and Palo Alto Rally While Chips Fall",
-            "Why CrowdStrike, Palo Alto Networks, SentinelOne, and Other Cybersecurity Stocks Surged This Week"
+            "Nike\u2019s stock collapse raises new questions about its Dow position"
           ],
           "spy": [
+            "Opendoor Gains 5% but Is Still Down 24% in a Month. Will the Bulls or Bears Win?",
             "AMC Spikes 7% as Refinancing Pushes Maturities From 2029 to 2031; Cinemark and IMAX Edge Higher",
             "BlackBerry Climbs 5% on Cramer Buy Call Ahead of Earnings; Aptiv Inches Higher, Mobileye Sits Tight",
             "S&P 500 Will \u2018Easily\u2019 Top 8,000 Before Historic Crash, \u2018Black Swan\u2019 Fund Manager Says",
@@ -1844,20 +1837,19 @@
             "Super Micro Computer Looks Very Intriguing Right Now",
             "Trading Week Starts Up on Quiet Pre-Market",
             "Oklo Climbs 5% as Nuclear Names Bounce Back From Last Week\u2019s Selloff; NuScale Power Gains 4%, Uranium Energy Rises 3%",
-            "At $336 Apple Is Expensive, or Is It?",
-            "Novo Nordisk Falls 7% as Post-Wegovy Growth Plan Fails to Ease Competition Fears; Eli Lilly Slips, Viking Therapeutics Edges Higher"
+            "At $336 Apple Is Expensive, or Is It?"
           ],
           "spx": [
             "Stock market today: Nasdaq surges 2%, Dow and S&P 500 gain as chip stocks rally, oil prices fall",
             "Resilient market warning signs and a John Summit NYSE DJ set",
+            "3 Reasons Investors Watch Workiva (WK)",
+            "3 Reasons to Avoid NX and 1 Stock to Buy Instead",
+            "Why Did Bloom Energy Stock More Than Triple In A Year?",
+            "Will Bitcoin become legal tender in the U.S.? Plus, why crypto isn\u2019t waiting for CLARITY",
+            "Why Rate Hikes Might Not Crash the Market in 2026",
             "Could You Have Seen Accenture Stock's Rebound Coming?",
             "Nasdaq, S&P 500 Near Highs as Oil Falls",
-            "Why Is XRP Up Today?",
-            "UPS Is Today\u2019s Worst Stock in the S&P 500 After Slowed Amazon Shipments",
-            "Eli Lilly Stock Is On Track to Do Something It Hasn't Done Since 2016",
-            "Update: US Equity Indexes Advance as Communication Services, Technology Giants Jump Amid Slumping Crude Oil",
-            "VOO and SPYM Track the Same S&P 500, Yet Only One Is Allowed in Your Kid\u2019s Trump Account",
-            "Update: Equities Rise Intraday as Chip Stocks Rally"
+            "Why Is XRP Up Today?"
           ]
         }
       },
@@ -1900,7 +1892,7 @@
         "auto_note": "TER PUT | $-50.52 (-13.30%) | dollar_loser_1 | Strike $280.0 exp 2026-09-18 (3DTE) | IV 90.0% | SPY +nan% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-09-21 18:50:39 PST",
+        "scanned_at": "2026-09-21 19:37:18 PST",
         "gap_days": 6,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "bullish",
@@ -1908,8 +1900,7 @@
         "keywords_found": [],
         "spy_keywords": [
           "surge",
-          "jumps",
-          "falls"
+          "jumps"
         ],
         "spx_keywords": [
           "surge",
@@ -1925,6 +1916,7 @@
             "3 AI Infrastructure Stocks Retail Investors Are Watching As US China Trade Rules Shift"
           ],
           "spy": [
+            "Opendoor Gains 5% but Is Still Down 24% in a Month. Will the Bulls or Bears Win?",
             "AMC Spikes 7% as Refinancing Pushes Maturities From 2029 to 2031; Cinemark and IMAX Edge Higher",
             "BlackBerry Climbs 5% on Cramer Buy Call Ahead of Earnings; Aptiv Inches Higher, Mobileye Sits Tight",
             "S&P 500 Will \u2018Easily\u2019 Top 8,000 Before Historic Crash, \u2018Black Swan\u2019 Fund Manager Says",
@@ -1933,20 +1925,19 @@
             "Super Micro Computer Looks Very Intriguing Right Now",
             "Trading Week Starts Up on Quiet Pre-Market",
             "Oklo Climbs 5% as Nuclear Names Bounce Back From Last Week\u2019s Selloff; NuScale Power Gains 4%, Uranium Energy Rises 3%",
-            "At $336 Apple Is Expensive, or Is It?",
-            "Novo Nordisk Falls 7% as Post-Wegovy Growth Plan Fails to Ease Competition Fears; Eli Lilly Slips, Viking Therapeutics Edges Higher"
+            "At $336 Apple Is Expensive, or Is It?"
           ],
           "spx": [
             "Stock market today: Nasdaq surges 2%, Dow and S&P 500 gain as chip stocks rally, oil prices fall",
             "Resilient market warning signs and a John Summit NYSE DJ set",
+            "3 Reasons Investors Watch Workiva (WK)",
+            "3 Reasons to Avoid NX and 1 Stock to Buy Instead",
+            "Why Did Bloom Energy Stock More Than Triple In A Year?",
+            "Will Bitcoin become legal tender in the U.S.? Plus, why crypto isn\u2019t waiting for CLARITY",
+            "Why Rate Hikes Might Not Crash the Market in 2026",
             "Could You Have Seen Accenture Stock's Rebound Coming?",
             "Nasdaq, S&P 500 Near Highs as Oil Falls",
-            "Why Is XRP Up Today?",
-            "UPS Is Today\u2019s Worst Stock in the S&P 500 After Slowed Amazon Shipments",
-            "Eli Lilly Stock Is On Track to Do Something It Hasn't Done Since 2016",
-            "Update: US Equity Indexes Advance as Communication Services, Technology Giants Jump Amid Slumping Crude Oil",
-            "VOO and SPYM Track the Same S&P 500, Yet Only One Is Allowed in Your Kid\u2019s Trump Account",
-            "Update: Equities Rise Intraday as Chip Stocks Rally"
+            "Why Is XRP Up Today?"
           ]
         }
       },
@@ -1992,7 +1983,7 @@
         "auto_note": "QLYS CALL | $+12.46 (+7.21%) | dollar_gainer_1 | Strike $210.0 exp 2026-09-18 (2DTE) | IV 78.5% | SPY +nan% | MACRO: fed, rate hike"
       },
       "news_scan": {
-        "scanned_at": "2026-09-21 18:50:39 PST",
+        "scanned_at": "2026-09-21 19:37:18 PST",
         "gap_days": 5,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "bullish",
@@ -2000,8 +1991,7 @@
         "keywords_found": [],
         "spy_keywords": [
           "surge",
-          "jumps",
-          "falls"
+          "jumps"
         ],
         "spx_keywords": [
           "surge",
@@ -2013,6 +2003,7 @@
         "raw_headlines": {
           "ticker": [],
           "spy": [
+            "Opendoor Gains 5% but Is Still Down 24% in a Month. Will the Bulls or Bears Win?",
             "AMC Spikes 7% as Refinancing Pushes Maturities From 2029 to 2031; Cinemark and IMAX Edge Higher",
             "BlackBerry Climbs 5% on Cramer Buy Call Ahead of Earnings; Aptiv Inches Higher, Mobileye Sits Tight",
             "S&P 500 Will \u2018Easily\u2019 Top 8,000 Before Historic Crash, \u2018Black Swan\u2019 Fund Manager Says",
@@ -2021,20 +2012,19 @@
             "Super Micro Computer Looks Very Intriguing Right Now",
             "Trading Week Starts Up on Quiet Pre-Market",
             "Oklo Climbs 5% as Nuclear Names Bounce Back From Last Week\u2019s Selloff; NuScale Power Gains 4%, Uranium Energy Rises 3%",
-            "At $336 Apple Is Expensive, or Is It?",
-            "Novo Nordisk Falls 7% as Post-Wegovy Growth Plan Fails to Ease Competition Fears; Eli Lilly Slips, Viking Therapeutics Edges Higher"
+            "At $336 Apple Is Expensive, or Is It?"
           ],
           "spx": [
             "Stock market today: Nasdaq surges 2%, Dow and S&P 500 gain as chip stocks rally, oil prices fall",
             "Resilient market warning signs and a John Summit NYSE DJ set",
+            "3 Reasons Investors Watch Workiva (WK)",
+            "3 Reasons to Avoid NX and 1 Stock to Buy Instead",
+            "Why Did Bloom Energy Stock More Than Triple In A Year?",
+            "Will Bitcoin become legal tender in the U.S.? Plus, why crypto isn\u2019t waiting for CLARITY",
+            "Why Rate Hikes Might Not Crash the Market in 2026",
             "Could You Have Seen Accenture Stock's Rebound Coming?",
             "Nasdaq, S&P 500 Near Highs as Oil Falls",
-            "Why Is XRP Up Today?",
-            "UPS Is Today\u2019s Worst Stock in the S&P 500 After Slowed Amazon Shipments",
-            "Eli Lilly Stock Is On Track to Do Something It Hasn't Done Since 2016",
-            "Update: US Equity Indexes Advance as Communication Services, Technology Giants Jump Amid Slumping Crude Oil",
-            "VOO and SPYM Track the Same S&P 500, Yet Only One Is Allowed in Your Kid\u2019s Trump Account",
-            "Update: Equities Rise Intraday as Chip Stocks Rally"
+            "Why Is XRP Up Today?"
           ]
         }
       },
@@ -2080,7 +2070,7 @@
         "auto_note": "AXON PUT | $-48.10 (-9.81%) | dollar_loser_1 | Strike $390.0 exp 2026-09-18 (2DTE) | IV 78.0% | SPY +nan% | MACRO: fed, rate hike"
       },
       "news_scan": {
-        "scanned_at": "2026-09-21 18:50:39 PST",
+        "scanned_at": "2026-09-21 19:37:18 PST",
         "gap_days": 5,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "bullish",
@@ -2088,8 +2078,7 @@
         "keywords_found": [],
         "spy_keywords": [
           "surge",
-          "jumps",
-          "falls"
+          "jumps"
         ],
         "spx_keywords": [
           "surge",
@@ -2105,6 +2094,7 @@
             "Stocks making big moves this week: Sabre, DocuSign, Dave & Buster's, RUM Group, and Axon"
           ],
           "spy": [
+            "Opendoor Gains 5% but Is Still Down 24% in a Month. Will the Bulls or Bears Win?",
             "AMC Spikes 7% as Refinancing Pushes Maturities From 2029 to 2031; Cinemark and IMAX Edge Higher",
             "BlackBerry Climbs 5% on Cramer Buy Call Ahead of Earnings; Aptiv Inches Higher, Mobileye Sits Tight",
             "S&P 500 Will \u2018Easily\u2019 Top 8,000 Before Historic Crash, \u2018Black Swan\u2019 Fund Manager Says",
@@ -2113,20 +2103,19 @@
             "Super Micro Computer Looks Very Intriguing Right Now",
             "Trading Week Starts Up on Quiet Pre-Market",
             "Oklo Climbs 5% as Nuclear Names Bounce Back From Last Week\u2019s Selloff; NuScale Power Gains 4%, Uranium Energy Rises 3%",
-            "At $336 Apple Is Expensive, or Is It?",
-            "Novo Nordisk Falls 7% as Post-Wegovy Growth Plan Fails to Ease Competition Fears; Eli Lilly Slips, Viking Therapeutics Edges Higher"
+            "At $336 Apple Is Expensive, or Is It?"
           ],
           "spx": [
             "Stock market today: Nasdaq surges 2%, Dow and S&P 500 gain as chip stocks rally, oil prices fall",
             "Resilient market warning signs and a John Summit NYSE DJ set",
+            "3 Reasons Investors Watch Workiva (WK)",
+            "3 Reasons to Avoid NX and 1 Stock to Buy Instead",
+            "Why Did Bloom Energy Stock More Than Triple In A Year?",
+            "Will Bitcoin become legal tender in the U.S.? Plus, why crypto isn\u2019t waiting for CLARITY",
+            "Why Rate Hikes Might Not Crash the Market in 2026",
             "Could You Have Seen Accenture Stock's Rebound Coming?",
             "Nasdaq, S&P 500 Near Highs as Oil Falls",
-            "Why Is XRP Up Today?",
-            "UPS Is Today\u2019s Worst Stock in the S&P 500 After Slowed Amazon Shipments",
-            "Eli Lilly Stock Is On Track to Do Something It Hasn't Done Since 2016",
-            "Update: US Equity Indexes Advance as Communication Services, Technology Giants Jump Amid Slumping Crude Oil",
-            "VOO and SPYM Track the Same S&P 500, Yet Only One Is Allowed in Your Kid\u2019s Trump Account",
-            "Update: Equities Rise Intraday as Chip Stocks Rally"
+            "Why Is XRP Up Today?"
           ]
         }
       },
@@ -2172,7 +2161,7 @@
         "auto_note": "COHR CALL | $+18.76 (+6.92%) | dollar_gainer_1 | Strike $320.0 exp 2026-09-18 (1DTE) | IV 88.5% | SPY +nan% | MACRO: fed, war"
       },
       "news_scan": {
-        "scanned_at": "2026-09-21 18:50:39 PST",
+        "scanned_at": "2026-09-21 19:37:18 PST",
         "gap_days": 4,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "bullish",
@@ -2180,8 +2169,7 @@
         "keywords_found": [],
         "spy_keywords": [
           "surge",
-          "jumps",
-          "falls"
+          "jumps"
         ],
         "spx_keywords": [
           "surge",
@@ -2200,10 +2188,10 @@
             "Coherent (COHR) Squeezes Key Optical Network Gear Into a Plug-In Module",
             "Is Coherent (COHR) Too Rich Or Still Reasonable On Cash Flow?",
             "Coherent (COHR) Stock Trades Up, Here Is Why",
-            "Netflix, Nucor, On Holding, Xenon, Accenture, Coinbase, and More Stocks That Explain Today\u2019s Market",
-            "Bet on These Photonics ETFs to Exploit the Next Wave of AI Revolution"
+            "Netflix, Nucor, On Holding, Xenon, Accenture, Coinbase, and More Stocks That Explain Today\u2019s Market"
           ],
           "spy": [
+            "Opendoor Gains 5% but Is Still Down 24% in a Month. Will the Bulls or Bears Win?",
             "AMC Spikes 7% as Refinancing Pushes Maturities From 2029 to 2031; Cinemark and IMAX Edge Higher",
             "BlackBerry Climbs 5% on Cramer Buy Call Ahead of Earnings; Aptiv Inches Higher, Mobileye Sits Tight",
             "S&P 500 Will \u2018Easily\u2019 Top 8,000 Before Historic Crash, \u2018Black Swan\u2019 Fund Manager Says",
@@ -2212,20 +2200,19 @@
             "Super Micro Computer Looks Very Intriguing Right Now",
             "Trading Week Starts Up on Quiet Pre-Market",
             "Oklo Climbs 5% as Nuclear Names Bounce Back From Last Week\u2019s Selloff; NuScale Power Gains 4%, Uranium Energy Rises 3%",
-            "At $336 Apple Is Expensive, or Is It?",
-            "Novo Nordisk Falls 7% as Post-Wegovy Growth Plan Fails to Ease Competition Fears; Eli Lilly Slips, Viking Therapeutics Edges Higher"
+            "At $336 Apple Is Expensive, or Is It?"
           ],
           "spx": [
             "Stock market today: Nasdaq surges 2%, Dow and S&P 500 gain as chip stocks rally, oil prices fall",
             "Resilient market warning signs and a John Summit NYSE DJ set",
+            "3 Reasons Investors Watch Workiva (WK)",
+            "3 Reasons to Avoid NX and 1 Stock to Buy Instead",
+            "Why Did Bloom Energy Stock More Than Triple In A Year?",
+            "Will Bitcoin become legal tender in the U.S.? Plus, why crypto isn\u2019t waiting for CLARITY",
+            "Why Rate Hikes Might Not Crash the Market in 2026",
             "Could You Have Seen Accenture Stock's Rebound Coming?",
             "Nasdaq, S&P 500 Near Highs as Oil Falls",
-            "Why Is XRP Up Today?",
-            "UPS Is Today\u2019s Worst Stock in the S&P 500 After Slowed Amazon Shipments",
-            "Eli Lilly Stock Is On Track to Do Something It Hasn't Done Since 2016",
-            "Update: US Equity Indexes Advance as Communication Services, Technology Giants Jump Amid Slumping Crude Oil",
-            "VOO and SPYM Track the Same S&P 500, Yet Only One Is Allowed in Your Kid\u2019s Trump Account",
-            "Update: Equities Rise Intraday as Chip Stocks Rally"
+            "Why Is XRP Up Today?"
           ]
         }
       },
@@ -2271,7 +2258,7 @@
         "auto_note": "FANG PUT | $-16.99 (-8.03%) | dollar_loser_1 | Strike $185.0 exp 2026-09-18 (1DTE) | IV 53.9% | SPY +nan% | MACRO: fed, war"
       },
       "news_scan": {
-        "scanned_at": "2026-09-21 18:50:39 PST",
+        "scanned_at": "2026-09-21 19:37:18 PST",
         "gap_days": 4,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "bullish",
@@ -2279,8 +2266,7 @@
         "keywords_found": [],
         "spy_keywords": [
           "surge",
-          "jumps",
-          "falls"
+          "jumps"
         ],
         "spx_keywords": [
           "surge",
@@ -2293,10 +2279,10 @@
           "ticker": [
             "Diamondback Energy Is Down 11% This Year While the Permian Basin Keeps Pumping. Is FANG Stock a Buy?",
             "This Overlooked Pipeline Stock Just Became a Rival's Joint-Venture Partner Without Anyone Noticing",
-            "2 Energy Stocks with Impressive Fundamentals and 1 We Find Risky",
-            "This Diamondback Insider Is One of the World\u2019s Richest People. She Just Sold $2 Billion of Stock."
+            "2 Energy Stocks with Impressive Fundamentals and 1 We Find Risky"
           ],
           "spy": [
+            "Opendoor Gains 5% but Is Still Down 24% in a Month. Will the Bulls or Bears Win?",
             "AMC Spikes 7% as Refinancing Pushes Maturities From 2029 to 2031; Cinemark and IMAX Edge Higher",
             "BlackBerry Climbs 5% on Cramer Buy Call Ahead of Earnings; Aptiv Inches Higher, Mobileye Sits Tight",
             "S&P 500 Will \u2018Easily\u2019 Top 8,000 Before Historic Crash, \u2018Black Swan\u2019 Fund Manager Says",
@@ -2305,20 +2291,19 @@
             "Super Micro Computer Looks Very Intriguing Right Now",
             "Trading Week Starts Up on Quiet Pre-Market",
             "Oklo Climbs 5% as Nuclear Names Bounce Back From Last Week\u2019s Selloff; NuScale Power Gains 4%, Uranium Energy Rises 3%",
-            "At $336 Apple Is Expensive, or Is It?",
-            "Novo Nordisk Falls 7% as Post-Wegovy Growth Plan Fails to Ease Competition Fears; Eli Lilly Slips, Viking Therapeutics Edges Higher"
+            "At $336 Apple Is Expensive, or Is It?"
           ],
           "spx": [
             "Stock market today: Nasdaq surges 2%, Dow and S&P 500 gain as chip stocks rally, oil prices fall",
             "Resilient market warning signs and a John Summit NYSE DJ set",
+            "3 Reasons Investors Watch Workiva (WK)",
+            "3 Reasons to Avoid NX and 1 Stock to Buy Instead",
+            "Why Did Bloom Energy Stock More Than Triple In A Year?",
+            "Will Bitcoin become legal tender in the U.S.? Plus, why crypto isn\u2019t waiting for CLARITY",
+            "Why Rate Hikes Might Not Crash the Market in 2026",
             "Could You Have Seen Accenture Stock's Rebound Coming?",
             "Nasdaq, S&P 500 Near Highs as Oil Falls",
-            "Why Is XRP Up Today?",
-            "UPS Is Today\u2019s Worst Stock in the S&P 500 After Slowed Amazon Shipments",
-            "Eli Lilly Stock Is On Track to Do Something It Hasn't Done Since 2016",
-            "Update: US Equity Indexes Advance as Communication Services, Technology Giants Jump Amid Slumping Crude Oil",
-            "VOO and SPYM Track the Same S&P 500, Yet Only One Is Allowed in Your Kid\u2019s Trump Account",
-            "Update: Equities Rise Intraday as Chip Stocks Rally"
+            "Why Is XRP Up Today?"
           ]
         }
       },
