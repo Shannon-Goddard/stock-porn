@@ -1,250 +1,250 @@
 {
   "topGainers": [
     {
-      "ticker": "ARMG",
-      "name": "THEMES ETF TR LEVERAGE SHARES",
+      "ticker": "VKTX",
+      "name": "VIKING THERAPEUTICS INC COM",
       "sector": "Unknown",
-      "price": 26.75,
-      "changePct": 34.49,
-      "changeDollar": 6.86
+      "price": 38.77,
+      "changePct": 28.76,
+      "changeDollar": 8.66
     },
     {
       "ticker": "LABX",
       "name": "Tradr 2X Long ALAB Daily ETF",
       "sector": "Unknown",
-      "price": 13.84,
-      "changePct": 24.01,
-      "changeDollar": 2.68
+      "price": 16.05,
+      "changePct": 15.9,
+      "changeDollar": 2.2
     },
     {
-      "ticker": "METU",
-      "name": "DIREXION SHARES ETF TRUST DLY META BULL 2X",
+      "ticker": "SNDU",
+      "name": "T-REX 2X Long SNDK Daily Target ETF",
       "sector": "Unknown",
-      "price": 32.42,
-      "changePct": 22.8,
-      "changeDollar": 6.02
-    },
-    {
-      "ticker": "AMDL",
-      "name": "GRANITESHARES ETF TR GRANITE 2X LONG",
-      "sector": "Unknown",
-      "price": 80.37,
-      "changePct": 19.94,
-      "changeDollar": 13.36
-    },
-    {
-      "ticker": "MSTX",
-      "name": "TIDAL TRUST II DE 2X LO MS ETF",
-      "sector": "Unknown",
-      "price": 22.3,
-      "changePct": 19.06,
-      "changeDollar": 3.57
-    },
-    {
-      "ticker": "BMNU",
-      "name": "T-REX 2X Long BMNR Daily Target ETF",
-      "sector": "Unknown",
-      "price": 24.06,
-      "changePct": 18.0,
+      "price": 30.72,
+      "changePct": 13.57,
       "changeDollar": 3.67
     },
     {
-      "ticker": "ARM",
-      "name": "ARM HOLDINGS PLC SPONSORED ADS",
+      "ticker": "SNXX",
+      "name": "Tradr 2X Long SNDK Daily ETF",
       "sector": "Unknown",
-      "price": 322.9,
-      "changePct": 17.16,
-      "changeDollar": 47.29
+      "price": 19.88,
+      "changePct": 13.41,
+      "changeDollar": 2.35
     },
     {
-      "ticker": "AXTI",
-      "name": "AXT INC COM",
+      "ticker": "BLLN",
+      "name": "BILLIONTOONE INC CL A",
       "sector": "Unknown",
-      "price": 79.93,
-      "changePct": 14.14,
-      "changeDollar": 9.9
+      "price": 116.12,
+      "changePct": 11.8,
+      "changeDollar": 12.26
     },
     {
-      "ticker": "FIVN",
-      "name": "FIVE9 INC COM",
+      "ticker": "ABSI",
+      "name": "ABSCI CORPORATION COM",
       "sector": "Unknown",
-      "price": 37.01,
-      "changePct": 13.98,
-      "changeDollar": 4.54
+      "price": 10.93,
+      "changePct": 11.3,
+      "changeDollar": 1.11
+    },
+    {
+      "ticker": "TTAN",
+      "name": "SERVICETITAN INC SHS CL A",
+      "sector": "Unknown",
+      "price": 62.03,
+      "changePct": 9.75,
+      "changeDollar": 5.51
+    },
+    {
+      "ticker": "ONON",
+      "name": "ON HLDG AG NAMEN AKT A",
+      "sector": "Unknown",
+      "price": 29.7,
+      "changePct": 8.75,
+      "changeDollar": 2.39
     },
     {
       "ticker": "XXRP",
       "name": "LISTED FDS TR TEUCR 2X XRP ETF",
       "sector": "Unknown",
-      "price": 36.56,
-      "changePct": 13.15,
-      "changeDollar": 4.25
+      "price": 39.75,
+      "changePct": 8.73,
+      "changeDollar": 3.19
+    },
+    {
+      "ticker": "TNGX",
+      "name": "TANGO THERAPEUTICS INC COM",
+      "sector": "Unknown",
+      "price": 24.1,
+      "changePct": 7.93,
+      "changeDollar": 1.77
     }
   ],
   "topLosers": [
     {
-      "ticker": "NVOX",
-      "name": "TIDAL TRUST II DEFIANCE DLY TRG",
+      "ticker": "KOLD",
+      "name": "PROSHARES TR II ULSHT BLOOMB GAS",
       "sector": "Unknown",
-      "price": 10.44,
-      "changePct": -15.88,
-      "changeDollar": -1.97
+      "price": 27.29,
+      "changePct": -8.08,
+      "changeDollar": -2.4
     },
     {
-      "ticker": "SOXS",
-      "name": "DIREXION SHARES ETF TRUST DAI SEM 3X ETF",
+      "ticker": "LPLA",
+      "name": "LPL FINL HLDGS INC COM",
       "sector": "Unknown",
-      "price": 35.33,
-      "changePct": -14.85,
-      "changeDollar": -6.16
+      "price": 310.36,
+      "changePct": -6.59,
+      "changeDollar": -21.9
     },
     {
-      "ticker": "NVO",
-      "name": "NOVO-NORDISK A S ADR",
+      "ticker": "CSCO",
+      "name": "CISCO SYS INC COM",
       "sector": "Unknown",
-      "price": 39.8,
-      "changePct": -7.96,
-      "changeDollar": -3.44
+      "price": 104.99,
+      "changePct": -5.8,
+      "changeDollar": -6.47
     },
     {
-      "ticker": "RSI",
-      "name": "RUSH STREET INTERACTIVE INC COM",
+      "ticker": "UVIX",
+      "name": "2x Long VIX Futures ETF",
       "sector": "Unknown",
-      "price": 21.57,
-      "changePct": -7.42,
-      "changeDollar": -1.73
+      "price": 35.24,
+      "changePct": -5.52,
+      "changeDollar": -2.06
     },
     {
-      "ticker": "REPX",
-      "name": "RILEY EXPLORATION PERMIAN INC COM",
+      "ticker": "SCHW",
+      "name": "CHARLES SCHWAB CORP (THE) COM",
       "sector": "Unknown",
-      "price": 40.62,
-      "changePct": -6.92,
-      "changeDollar": -3.02
+      "price": 101.07,
+      "changePct": -5.44,
+      "changeDollar": -5.81
     },
     {
-      "ticker": "BITI",
-      "name": "PROSHARES TR SHOR BITC ET NEW",
+      "ticker": "JMKE",
+      "name": "JERSEY MIKES SUBS INC COM SHS CL A",
       "sector": "Unknown",
-      "price": 17.01,
-      "changePct": -6.44,
-      "changeDollar": -1.17
-    },
-    {
-      "ticker": "AAOZ",
-      "name": "Tradr 2X Short AAOI Daily ETF",
-      "sector": "Unknown",
-      "price": 12.12,
-      "changePct": -6.12,
-      "changeDollar": -0.79
-    },
-    {
-      "ticker": "SMMT",
-      "name": "SUMMIT THERAPEUTICS INC COM",
-      "sector": "Unknown",
-      "price": 16.9,
-      "changePct": -5.32,
-      "changeDollar": -0.95
-    },
-    {
-      "ticker": "MPC",
-      "name": "MARATHON PETE CORP COM",
-      "sector": "Unknown",
-      "price": 402.38,
-      "changePct": -5.3,
-      "changeDollar": -22.51
-    },
-    {
-      "ticker": "LI",
-      "name": "LI AUTO INC SPONSORED ADS",
-      "sector": "Unknown",
-      "price": 11.52,
+      "price": 18.2,
       "changePct": -5.11,
-      "changeDollar": -0.62
+      "changeDollar": -0.98
+    },
+    {
+      "ticker": "AVEX",
+      "name": "AEVEX CORP COM CL A",
+      "sector": "Unknown",
+      "price": 15.67,
+      "changePct": -5.09,
+      "changeDollar": -0.84
+    },
+    {
+      "ticker": "APPN",
+      "name": "APPIAN CORP CL A",
+      "sector": "Unknown",
+      "price": 36.84,
+      "changePct": -4.61,
+      "changeDollar": -1.78
+    },
+    {
+      "ticker": "CGNX",
+      "name": "COGNEX CORP COM",
+      "sector": "Unknown",
+      "price": 59.2,
+      "changePct": -4.5,
+      "changeDollar": -2.79
+    },
+    {
+      "ticker": "P",
+      "name": "EVERPURE INC CL A",
+      "sector": "Unknown",
+      "price": 108.55,
+      "changePct": -4.5,
+      "changeDollar": -5.11
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "ARM",
-      "name": "ARM HOLDINGS PLC SPONSORED ADS",
+      "ticker": "BLLN",
+      "name": "BILLIONTOONE INC CL A",
       "sector": "Unknown",
-      "price": 322.9,
-      "changePct": 17.16,
-      "changeDollar": 47.29
+      "price": 116.12,
+      "changePct": 11.8,
+      "changeDollar": 12.26
     },
     {
-      "ticker": "AMDL",
-      "name": "GRANITESHARES ETF TR GRANITE 2X LONG",
+      "ticker": "VKTX",
+      "name": "VIKING THERAPEUTICS INC COM",
       "sector": "Unknown",
-      "price": 80.37,
-      "changePct": 19.94,
-      "changeDollar": 13.36
+      "price": 38.77,
+      "changePct": 28.76,
+      "changeDollar": 8.66
     },
     {
-      "ticker": "AXTI",
-      "name": "AXT INC COM",
+      "ticker": "TTAN",
+      "name": "SERVICETITAN INC SHS CL A",
       "sector": "Unknown",
-      "price": 79.93,
-      "changePct": 14.14,
-      "changeDollar": 9.9
+      "price": 62.03,
+      "changePct": 9.75,
+      "changeDollar": 5.51
     },
     {
-      "ticker": "ARMG",
-      "name": "THEMES ETF TR LEVERAGE SHARES",
+      "ticker": "SNDU",
+      "name": "T-REX 2X Long SNDK Daily Target ETF",
       "sector": "Unknown",
-      "price": 26.75,
-      "changePct": 34.49,
-      "changeDollar": 6.86
+      "price": 30.72,
+      "changePct": 13.57,
+      "changeDollar": 3.67
     },
     {
-      "ticker": "METU",
-      "name": "DIREXION SHARES ETF TRUST DLY META BULL 2X",
+      "ticker": "XXRP",
+      "name": "LISTED FDS TR TEUCR 2X XRP ETF",
       "sector": "Unknown",
-      "price": 32.42,
-      "changePct": 22.8,
-      "changeDollar": 6.02
+      "price": 39.75,
+      "changePct": 8.73,
+      "changeDollar": 3.19
     }
   ],
   "dollarLosers": [
     {
-      "ticker": "MPC",
-      "name": "MARATHON PETE CORP COM",
+      "ticker": "LPLA",
+      "name": "LPL FINL HLDGS INC COM",
       "sector": "Unknown",
-      "price": 402.38,
-      "changePct": -5.3,
-      "changeDollar": -22.51
+      "price": 310.36,
+      "changePct": -6.59,
+      "changeDollar": -21.9
     },
     {
-      "ticker": "SOXS",
-      "name": "DIREXION SHARES ETF TRUST DAI SEM 3X ETF",
+      "ticker": "CSCO",
+      "name": "CISCO SYS INC COM",
       "sector": "Unknown",
-      "price": 35.33,
-      "changePct": -14.85,
-      "changeDollar": -6.16
+      "price": 104.99,
+      "changePct": -5.8,
+      "changeDollar": -6.47
     },
     {
-      "ticker": "NVO",
-      "name": "NOVO-NORDISK A S ADR",
+      "ticker": "SCHW",
+      "name": "CHARLES SCHWAB CORP (THE) COM",
       "sector": "Unknown",
-      "price": 39.8,
-      "changePct": -7.96,
-      "changeDollar": -3.44
+      "price": 101.07,
+      "changePct": -5.44,
+      "changeDollar": -5.81
     },
     {
-      "ticker": "REPX",
-      "name": "RILEY EXPLORATION PERMIAN INC COM",
+      "ticker": "P",
+      "name": "EVERPURE INC CL A",
       "sector": "Unknown",
-      "price": 40.62,
-      "changePct": -6.92,
-      "changeDollar": -3.02
+      "price": 108.55,
+      "changePct": -4.5,
+      "changeDollar": -5.11
     },
     {
-      "ticker": "NVOX",
-      "name": "TIDAL TRUST II DEFIANCE DLY TRG",
+      "ticker": "CGNX",
+      "name": "COGNEX CORP COM",
       "sector": "Unknown",
-      "price": 10.44,
-      "changePct": -15.88,
-      "changeDollar": -1.97
+      "price": 59.2,
+      "changePct": -4.5,
+      "changeDollar": -2.79
     }
   ]
 }
