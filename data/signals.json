@@ -1,126 +1,110 @@
 {
   "topGainers": [
     {
-      "ticker": "SNDU",
-      "name": "T-REX 2X Long SNDK Daily Target ETF",
+      "ticker": "NBIZ",
+      "name": "Tradr 2X Short NBIS Daily ETF",
       "sector": "Unknown",
-      "price": 30.69,
-      "changePct": 13.46,
-      "changeDollar": 3.64
+      "price": 21.24,
+      "changePct": 290.44,
+      "changeDollar": 15.8
     },
     {
-      "ticker": "BLLN",
-      "name": "BILLIONTOONE INC CL A",
+      "ticker": "CRMX",
+      "name": "Tradr 2X Long CRML Daily ETF",
       "sector": "Unknown",
-      "price": 116.07,
-      "changePct": 11.76,
-      "changeDollar": 12.21
+      "price": 26.75,
+      "changePct": 232.71,
+      "changeDollar": 18.71
     },
     {
-      "ticker": "XRPT",
-      "name": "VOLATILITY SHS TR 2X XRP ETF",
+      "ticker": "VKTX",
+      "name": "VIKING THERAPEUTICS INC COM",
       "sector": "Unknown",
-      "price": 43.54,
-      "changePct": 10.93,
-      "changeDollar": 4.29
+      "price": 40.85,
+      "changePct": 35.67,
+      "changeDollar": 10.74
     },
     {
-      "ticker": "CUE",
-      "name": "CUE BIOPHARMA INC COM",
+      "ticker": "MAZE",
+      "name": "MAZE THERAPEUTICS INC COM",
       "sector": "Unknown",
-      "price": 30.9,
-      "changePct": 9.3,
-      "changeDollar": 2.63
+      "price": 28.38,
+      "changePct": 26.75,
+      "changeDollar": 5.99
     },
     {
-      "ticker": "TTAN",
-      "name": "SERVICETITAN INC SHS CL A",
+      "ticker": "EAF",
+      "name": "GRAFTECH INTL LTD SR NT COM NEW",
       "sector": "Unknown",
-      "price": 61.56,
-      "changePct": 8.9,
-      "changeDollar": 5.03
+      "price": 11.21,
+      "changePct": 19.76,
+      "changeDollar": 1.85
     },
     {
-      "ticker": "CRVS",
-      "name": "CORVUS PHARMACEUTICALS INC COM",
+      "ticker": "CLPT",
+      "name": "CLEARPOINT NEURO INC COM",
       "sector": "Unknown",
-      "price": 13.44,
-      "changePct": 8.21,
-      "changeDollar": 1.02
-    },
-    {
-      "ticker": "MPWR",
-      "name": "MONOLITHIC PWR SYS INC COM",
-      "sector": "Unknown",
-      "price": 1380.62,
-      "changePct": 8.06,
-      "changeDollar": 102.94
-    },
-    {
-      "ticker": "BAND",
-      "name": "BANDWIDTH INC COM CL A",
-      "sector": "Unknown",
-      "price": 58.4,
-      "changePct": 7.53,
-      "changeDollar": 4.09
-    },
-    {
-      "ticker": "NOVT",
-      "name": "NOVANTA INC COM",
-      "sector": "Unknown",
-      "price": 144.17,
-      "changePct": 7.34,
-      "changeDollar": 9.86
-    },
-    {
-      "ticker": "ARQT",
-      "name": "ARCUTIS BIOTHERAPEUTICS INC COM",
-      "sector": "Unknown",
-      "price": 27.78,
-      "changePct": 7.01,
+      "price": 15.79,
+      "changePct": 13.03,
       "changeDollar": 1.82
+    },
+    {
+      "ticker": "SNXX",
+      "name": "Tradr 2X Long SNDK Daily ETF",
+      "sector": "Unknown",
+      "price": 19.8,
+      "changePct": 12.95,
+      "changeDollar": 2.27
+    },
+    {
+      "ticker": "CNXC",
+      "name": "CONCENTRIX CORP COM",
+      "sector": "Unknown",
+      "price": 30.51,
+      "changePct": 10.82,
+      "changeDollar": 2.98
+    },
+    {
+      "ticker": "IE",
+      "name": "IVANHOE ELECTRIC INC COM",
+      "sector": "Unknown",
+      "price": 10.74,
+      "changePct": 9.04,
+      "changeDollar": 0.89
+    },
+    {
+      "ticker": "VVV",
+      "name": "VALVOLINE INC COM",
+      "sector": "Unknown",
+      "price": 28.67,
+      "changePct": 7.7,
+      "changeDollar": 2.05
     }
   ],
   "topLosers": [
     {
-      "ticker": "NKTR",
-      "name": "NEKTAR THERAPEUTICS COM NEW",
+      "ticker": "PLNT",
+      "name": "PLANET FITNESS MASTER ISSUER L CL A",
       "sector": "Unknown",
-      "price": 60.97,
-      "changePct": -8.78,
-      "changeDollar": -5.87
+      "price": 42.6,
+      "changePct": -9.46,
+      "changeDollar": -4.45
     },
     {
-      "ticker": "VITL",
-      "name": "VITAL FARMS INC COM",
+      "ticker": "DUST",
+      "name": "DIREXION SHARES ETF TRUST DAI GOL BEA ETF",
       "sector": "Unknown",
-      "price": 11.25,
-      "changePct": -8.01,
-      "changeDollar": -0.98
+      "price": 32.57,
+      "changePct": -7.86,
+      "changeDollar": -2.78
     },
     {
-      "ticker": "NYT",
-      "name": "NEW YORK TIMES CO MTN BE CL A",
+      "ticker": "COHX",
+      "name": "Tradr 2X Long COHR Daily ETF",
       "sector": "Unknown",
-      "price": 65.45,
-      "changePct": -7.2,
-      "changeDollar": -5.08
-    },
-    {
-      "ticker": "WGS",
-      "name": "GENEDX HOLDINGS CORP COM CL A",
-      "sector": "Unknown",
-      "price": 90.8,
+      "price": 26.2,
       "changePct": -7.19,
-      "changeDollar": -7.03
-    },
-    {
-      "ticker": "BSP",
-      "name": "BENDING SPOONS SPA COM SHS",
-      "sector": "Unknown",
-      "price": 36.17,
-      "changePct": -6.8,
-      "changeDollar": -2.64
+      "changeDollar": -2.03
     },
     {
       "ticker": "FAS",
@@ -139,70 +123,86 @@
       "changeDollar": -1.86
     },
     {
-      "ticker": "ECO",
-      "name": "OKEANIS ECO TANKERS COR SHS",
+      "ticker": "NPKI",
+      "name": "NPK INTERNATIONAL INC COM SHS",
       "sector": "Unknown",
-      "price": 77.54,
-      "changePct": -6.16,
-      "changeDollar": -5.09
+      "price": 11.74,
+      "changePct": -5.93,
+      "changeDollar": -0.74
     },
     {
-      "ticker": "DBX",
-      "name": "DROPBOX INC CL A",
+      "ticker": "PRM",
+      "name": "PERIMETER SOLUTIONS INC COMMON STOCK",
       "sector": "Unknown",
-      "price": 33.9,
-      "changePct": -5.86,
-      "changeDollar": -2.11
+      "price": 29.77,
+      "changePct": -5.88,
+      "changeDollar": -1.86
     },
     {
-      "ticker": "INSP",
-      "name": "INSPIRE MED SYS INC COM",
+      "ticker": "CARS",
+      "name": "CARS COM INC COM",
       "sector": "Unknown",
-      "price": 71.3,
-      "changePct": -5.84,
-      "changeDollar": -4.42
+      "price": 10.8,
+      "changePct": -5.68,
+      "changeDollar": -0.65
+    },
+    {
+      "ticker": "MGTX",
+      "name": "MEIRAGTX HLDGS PLC COM",
+      "sector": "Unknown",
+      "price": 12.35,
+      "changePct": -5.58,
+      "changeDollar": -0.73
+    },
+    {
+      "ticker": "VG",
+      "name": "VENTURE GLOBAL INC COM CL A",
+      "sector": "Unknown",
+      "price": 12.91,
+      "changePct": -5.49,
+      "changeDollar": -0.75
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "MPWR",
-      "name": "MONOLITHIC PWR SYS INC COM",
+      "ticker": "CRMX",
+      "name": "Tradr 2X Long CRML Daily ETF",
       "sector": "Unknown",
-      "price": 1380.62,
-      "changePct": 8.06,
-      "changeDollar": 102.94
+      "price": 26.75,
+      "changePct": 232.71,
+      "changeDollar": 18.71
     },
     {
-      "ticker": "BLLN",
-      "name": "BILLIONTOONE INC CL A",
+      "ticker": "NBIZ",
+      "name": "Tradr 2X Short NBIS Daily ETF",
       "sector": "Unknown",
-      "price": 116.07,
-      "changePct": 11.76,
-      "changeDollar": 12.21
+      "price": 21.24,
+      "changePct": 290.44,
+      "changeDollar": 15.8
     },
     {
-      "ticker": "NOVT",
-      "name": "NOVANTA INC COM",
+      "ticker": "VKTX",
+      "name": "VIKING THERAPEUTICS INC COM",
       "sector": "Unknown",
-      "price": 144.17,
-      "changePct": 7.34,
-      "changeDollar": 9.86
+      "price": 40.85,
+      "changePct": 35.67,
+      "changeDollar": 10.74
     },
     {
-      "ticker": "TTAN",
-      "name": "SERVICETITAN INC SHS CL A",
+      "ticker": "MAZE",
+      "name": "MAZE THERAPEUTICS INC COM",
       "sector": "Unknown",
-      "price": 61.56,
-      "changePct": 8.9,
-      "changeDollar": 5.03
+      "price": 28.38,
+      "changePct": 26.75,
+      "changeDollar": 5.99
     },
     {
-      "ticker": "XRPT",
-      "name": "VOLATILITY SHS TR 2X XRP ETF",
+      "ticker": "CNXC",
+      "name": "CONCENTRIX CORP COM",
       "sector": "Unknown",
-      "price": 43.54,
-      "changePct": 10.93,
-      "changeDollar": 4.29
+      "price": 30.51,
+      "changePct": 10.82,
+      "changeDollar": 2.98
     }
   ],
   "dollarLosers": [
@@ -215,36 +215,36 @@
       "changeDollar": -10.61
     },
     {
-      "ticker": "WGS",
-      "name": "GENEDX HOLDINGS CORP COM CL A",
+      "ticker": "PLNT",
+      "name": "PLANET FITNESS MASTER ISSUER L CL A",
       "sector": "Unknown",
-      "price": 90.8,
+      "price": 42.6,
+      "changePct": -9.46,
+      "changeDollar": -4.45
+    },
+    {
+      "ticker": "DUST",
+      "name": "DIREXION SHARES ETF TRUST DAI GOL BEA ETF",
+      "sector": "Unknown",
+      "price": 32.57,
+      "changePct": -7.86,
+      "changeDollar": -2.78
+    },
+    {
+      "ticker": "COHX",
+      "name": "Tradr 2X Long COHR Daily ETF",
+      "sector": "Unknown",
+      "price": 26.2,
       "changePct": -7.19,
-      "changeDollar": -7.03
+      "changeDollar": -2.03
     },
     {
-      "ticker": "NKTR",
-      "name": "NEKTAR THERAPEUTICS COM NEW",
+      "ticker": "GEN",
+      "name": "GEN DIGITAL INC COM",
       "sector": "Unknown",
-      "price": 60.97,
-      "changePct": -8.78,
-      "changeDollar": -5.87
-    },
-    {
-      "ticker": "ECO",
-      "name": "OKEANIS ECO TANKERS COR SHS",
-      "sector": "Unknown",
-      "price": 77.54,
-      "changePct": -6.16,
-      "changeDollar": -5.09
-    },
-    {
-      "ticker": "NYT",
-      "name": "NEW YORK TIMES CO MTN BE CL A",
-      "sector": "Unknown",
-      "price": 65.45,
-      "changePct": -7.2,
-      "changeDollar": -5.08
+      "price": 27.29,
+      "changePct": -6.38,
+      "changeDollar": -1.86
     }
   ]
 }
