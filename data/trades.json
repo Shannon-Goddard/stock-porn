@@ -2309,6 +2309,45 @@
       },
       "exit": null,
       "fomo": null
+    },
+    {
+      "id": 24,
+      "status": "open",
+      "entry": {
+        "date": "2026-09-22",
+        "time": "15:55 PST",
+        "ticker": "ARM",
+        "name": "ARM HOLDINGS PLC SPONSORED ADS",
+        "sector": "Unknown",
+        "type": "CALL",
+        "strike": 400.0,
+        "expiration": "2026-09-25",
+        "dte_at_entry": 3,
+        "T_at_entry": 0.008219,
+        "stock_price_at_entry": 322.9,
+        "premium": 0.9,
+        "cost": 90.0,
+        "bid": 0.75,
+        "spread": 0.15,
+        "iv_at_entry": 1.2026,
+        "otm_pct": 23.88,
+        "expected_move": {
+          "one_sigma_pct": 10.9,
+          "upper": 358.1,
+          "lower": 287.7,
+          "strike_position": "outside"
+        },
+        "signal_rank": "dollar_gainer_1",
+        "signal_pct": 17.16,
+        "signal_dollar": 47.29,
+        "spy_change": NaN,
+        "macro_active": false,
+        "macro_keywords": [],
+        "auto_note": "ARM CALL | $+47.29 (+17.16%) | dollar_gainer_1 | Strike $400.0 exp 2026-09-25 (3DTE) | IV 120.3% | SPY +nan% | No macro triggers"
+      },
+      "news_scan": null,
+      "exit": null,
+      "fomo": null
     }
   ]
 }
