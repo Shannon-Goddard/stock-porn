@@ -1248,26 +1248,26 @@
         "auto_note": "ALAB CALL | $+27.58 (+9.75%) | dollar_gainer_1 | Strike $390.0 exp 2026-09-11 (6DTE) | IV 88.2% | SPY +nan% | MACRO: rate hike, war"
       },
       "news_scan": {
-        "scanned_at": "2026-09-22 17:41:17 PST",
+        "scanned_at": "2026-09-22 18:11:18 PST",
         "gap_days": 17,
         "ticker_sentiment": "bearish",
-        "spy_sentiment": "bullish",
-        "spx_sentiment": "bullish",
+        "spy_sentiment": "bearish",
+        "spx_sentiment": "neutral",
         "keywords_found": [
           "weak"
         ],
         "spy_keywords": [
-          "buyback",
-          "surge",
           "jumps",
           "falls",
-          "drops"
+          "drops",
+          "tumbles"
         ],
         "spx_keywords": [
-          "jumps"
+          "surge",
+          "falls"
         ],
-        "decision": "hold",
-        "decision_reason": "bearish keywords confirmed CALL thesis",
+        "decision": "sell",
+        "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
         "raw_headlines": {
           "ticker": [
             "Why Zacks Rank #1 Astera Labs is Primed for Growth",
@@ -1279,28 +1279,28 @@
             "Astera Labs vs. Qualcomm: Which Semiconductor Stock Is a Better Buy in 2026?"
           ],
           "spy": [
+            "ETF Zoo: 6 Pundits Walk Into a Bar",
+            "Fastly Tumbles 7% as Investor Day Meets Profit Taking; Cloudflare and Akamai Edge Higher",
+            "Pinterest Sinks 5% as Month-Long Slide Deepens; Reddit Slips, Snap Stays Put",
             "AutoZone Climbs 6% as Profit Beat Offsets Revenue Miss; Advance Auto Parts Rises 6%, O\u2019Reilly Automotive Gains 4%",
             "SanDisk Jumps 6% as Rosenblatt Starts Coverage at Buy With $2,400 Target; Micron Rises 3%, Seagate Ticks Up",
             "Trade Desk Falls 4% as Index-Removal Flows Keep Pressure On; Magnite Drops 3%, AppLovin Pulls Back",
             "Defense Stocks Fall While Oil Slides on Hormuz Reopening Report: Lockheed Martin and RTX Drop 3%, Boeing Dips",
             "\u201cMarket Has to Chew Through Indigestion\u201d: Analyst Warns of 7000 Dip Before 8150 Target",
             "Paramount Skydance Rises 4% on 12-State Settlement, Warner Bros. Discovery Holds Flat as $110B Deal Nears Its Close",
-            "Moderna Adds Another 5% and Is Up 500% in 2026. Can MRNA Stock Continue the Melt-Up?",
-            "No Margin Account? This ETF Is the Most Popular Way to Short the S&P 500",
-            "On Holding Surges 13% as Investor Day Sets Ambitious Sales Target and $1B Buyback; Nike Ticks Up 2%",
-            "SoFi Rises 5% After Getting Cut in Half: Is SOFI Stock Set to Double From Here?"
+            "Moderna Adds Another 5% and Is Up 500% in 2026. Can MRNA Stock Continue the Melt-Up?"
           ],
           "spx": [
-            "The return of the AI rally: What's fueling the latest push into tech?",
-            "Here's Why You Should Retain IRTC Stock in Your Portfolio for Now",
-            "Meta\u2019s Muse Jumps to the Top of the Apple Store\u2014and Triggers a Panic in the Stock Market",
-            "Dow Jones Tech Titan Amazon Eyes Buy Point Amid Battle With Key Support Level",
-            "The Nasdaq Set a Record and the Dow Lost 270 Points on the Same Morning",
-            "Nasdaq hits record high as oil prices fall below $100",
-            "A Rejuvenated AI Trade May Not Be Enough to Save the Stock Market",
-            "3 Reasons FSS Has Explosive Upside Potential",
-            "CBL Gains More than 77% in a Year: What's Driving the Stock?",
-            "Realty Income Has Outperformed the S&P 500 in 11 of 13 Stock Market Corrections Since 1994. Here's Why I'd Hold It Forever."
+            "Stock market today: Dow slips, Nasdaq drifts higher as oil falls, AI trade powers market",
+            "Stock market today: Nasdaq surges 2% to record high, Dow and S&P 500 gain as chip stocks rally, oil  falls",
+            "Update: US Equity Indexes Mixed in Midday Trading",
+            "3 Reasons Investors Watch Skyward Specialty Insurance (SKWD)",
+            "Update: Equities Mixed Intraday as Oil Prices Fluctuate",
+            "3 Reasons MBUU is Risky and 1 Stock to Buy Instead",
+            "Goldman Sachs Just Raised the Bar for S&P 500",
+            "If a Stock Market Crash Happens, History Says This Is How Long It Could Take Investors to Recover",
+            "2 Reasons to Sell SPGI and 1 Stock to Buy Instead",
+            "Was Moderna Stock's Cancer Vaccine Run Visible In Advance?"
           ]
         }
       },
@@ -1346,24 +1346,24 @@
         "auto_note": "TSLA PUT | $-22.29 (-5.92%) | dollar_loser_1 | Strike $340.0 exp 2026-09-09 (4DTE) | IV 32.4% | SPY +nan% | MACRO: rate hike, war"
       },
       "news_scan": {
-        "scanned_at": "2026-09-22 17:41:17 PST",
+        "scanned_at": "2026-09-22 18:11:18 PST",
         "gap_days": 17,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bullish",
-        "spx_sentiment": "bullish",
+        "spy_sentiment": "bearish",
+        "spx_sentiment": "neutral",
         "keywords_found": [],
         "spy_keywords": [
-          "buyback",
-          "surge",
           "jumps",
           "falls",
-          "drops"
+          "drops",
+          "tumbles"
         ],
         "spx_keywords": [
-          "jumps"
+          "surge",
+          "falls"
         ],
-        "decision": "sell",
-        "decision_reason": "no confirmation for PUT thesis \u2014 sell at open",
+        "decision": "hold",
+        "decision_reason": "neutral keywords confirmed PUT thesis",
         "raw_headlines": {
           "ticker": [
             "How to organize AI governance: Is it a job for the pope?",
@@ -1378,28 +1378,28 @@
             "Tesla Stock Is Up. Elon Musk\u2019s EV Maker Is Investment Grade."
           ],
           "spy": [
+            "ETF Zoo: 6 Pundits Walk Into a Bar",
+            "Fastly Tumbles 7% as Investor Day Meets Profit Taking; Cloudflare and Akamai Edge Higher",
+            "Pinterest Sinks 5% as Month-Long Slide Deepens; Reddit Slips, Snap Stays Put",
             "AutoZone Climbs 6% as Profit Beat Offsets Revenue Miss; Advance Auto Parts Rises 6%, O\u2019Reilly Automotive Gains 4%",
             "SanDisk Jumps 6% as Rosenblatt Starts Coverage at Buy With $2,400 Target; Micron Rises 3%, Seagate Ticks Up",
             "Trade Desk Falls 4% as Index-Removal Flows Keep Pressure On; Magnite Drops 3%, AppLovin Pulls Back",
             "Defense Stocks Fall While Oil Slides on Hormuz Reopening Report: Lockheed Martin and RTX Drop 3%, Boeing Dips",
             "\u201cMarket Has to Chew Through Indigestion\u201d: Analyst Warns of 7000 Dip Before 8150 Target",
             "Paramount Skydance Rises 4% on 12-State Settlement, Warner Bros. Discovery Holds Flat as $110B Deal Nears Its Close",
-            "Moderna Adds Another 5% and Is Up 500% in 2026. Can MRNA Stock Continue the Melt-Up?",
-            "No Margin Account? This ETF Is the Most Popular Way to Short the S&P 500",
-            "On Holding Surges 13% as Investor Day Sets Ambitious Sales Target and $1B Buyback; Nike Ticks Up 2%",
-            "SoFi Rises 5% After Getting Cut in Half: Is SOFI Stock Set to Double From Here?"
+            "Moderna Adds Another 5% and Is Up 500% in 2026. Can MRNA Stock Continue the Melt-Up?"
           ],
           "spx": [
-            "The return of the AI rally: What's fueling the latest push into tech?",
-            "Here's Why You Should Retain IRTC Stock in Your Portfolio for Now",
-            "Meta\u2019s Muse Jumps to the Top of the Apple Store\u2014and Triggers a Panic in the Stock Market",
-            "Dow Jones Tech Titan Amazon Eyes Buy Point Amid Battle With Key Support Level",
-            "The Nasdaq Set a Record and the Dow Lost 270 Points on the Same Morning",
-            "Nasdaq hits record high as oil prices fall below $100",
-            "A Rejuvenated AI Trade May Not Be Enough to Save the Stock Market",
-            "3 Reasons FSS Has Explosive Upside Potential",
-            "CBL Gains More than 77% in a Year: What's Driving the Stock?",
-            "Realty Income Has Outperformed the S&P 500 in 11 of 13 Stock Market Corrections Since 1994. Here's Why I'd Hold It Forever."
+            "Stock market today: Dow slips, Nasdaq drifts higher as oil falls, AI trade powers market",
+            "Stock market today: Nasdaq surges 2% to record high, Dow and S&P 500 gain as chip stocks rally, oil  falls",
+            "Update: US Equity Indexes Mixed in Midday Trading",
+            "3 Reasons Investors Watch Skyward Specialty Insurance (SKWD)",
+            "Update: Equities Mixed Intraday as Oil Prices Fluctuate",
+            "3 Reasons MBUU is Risky and 1 Stock to Buy Instead",
+            "Goldman Sachs Just Raised the Bar for S&P 500",
+            "If a Stock Market Crash Happens, History Says This Is How Long It Could Take Investors to Recover",
+            "2 Reasons to Sell SPGI and 1 Stock to Buy Instead",
+            "Was Moderna Stock's Cancer Vaccine Run Visible In Advance?"
           ]
         }
       },
@@ -1442,23 +1442,23 @@
         "auto_note": "DDOG CALL | $+15.04 (+7.15%) | dollar_gainer_1 | Strike $240.0 exp 2026-09-11 (1DTE) | IV 68.4% | SPY +nan% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-09-22 17:41:17 PST",
+        "scanned_at": "2026-09-22 18:11:18 PST",
         "gap_days": 12,
         "ticker_sentiment": "bullish",
-        "spy_sentiment": "bullish",
-        "spx_sentiment": "bullish",
+        "spy_sentiment": "bearish",
+        "spx_sentiment": "neutral",
         "keywords_found": [
           "soars"
         ],
         "spy_keywords": [
-          "buyback",
-          "surge",
           "jumps",
           "falls",
-          "drops"
+          "drops",
+          "tumbles"
         ],
         "spx_keywords": [
-          "jumps"
+          "surge",
+          "falls"
         ],
         "decision": "hold",
         "decision_reason": "bullish keywords confirmed CALL thesis",
@@ -1470,28 +1470,28 @@
             "1 S&P 500 Stock for Long-Term Investors and 2 We Find Risky"
           ],
           "spy": [
+            "ETF Zoo: 6 Pundits Walk Into a Bar",
+            "Fastly Tumbles 7% as Investor Day Meets Profit Taking; Cloudflare and Akamai Edge Higher",
+            "Pinterest Sinks 5% as Month-Long Slide Deepens; Reddit Slips, Snap Stays Put",
             "AutoZone Climbs 6% as Profit Beat Offsets Revenue Miss; Advance Auto Parts Rises 6%, O\u2019Reilly Automotive Gains 4%",
             "SanDisk Jumps 6% as Rosenblatt Starts Coverage at Buy With $2,400 Target; Micron Rises 3%, Seagate Ticks Up",
             "Trade Desk Falls 4% as Index-Removal Flows Keep Pressure On; Magnite Drops 3%, AppLovin Pulls Back",
             "Defense Stocks Fall While Oil Slides on Hormuz Reopening Report: Lockheed Martin and RTX Drop 3%, Boeing Dips",
             "\u201cMarket Has to Chew Through Indigestion\u201d: Analyst Warns of 7000 Dip Before 8150 Target",
             "Paramount Skydance Rises 4% on 12-State Settlement, Warner Bros. Discovery Holds Flat as $110B Deal Nears Its Close",
-            "Moderna Adds Another 5% and Is Up 500% in 2026. Can MRNA Stock Continue the Melt-Up?",
-            "No Margin Account? This ETF Is the Most Popular Way to Short the S&P 500",
-            "On Holding Surges 13% as Investor Day Sets Ambitious Sales Target and $1B Buyback; Nike Ticks Up 2%",
-            "SoFi Rises 5% After Getting Cut in Half: Is SOFI Stock Set to Double From Here?"
+            "Moderna Adds Another 5% and Is Up 500% in 2026. Can MRNA Stock Continue the Melt-Up?"
           ],
           "spx": [
-            "The return of the AI rally: What's fueling the latest push into tech?",
-            "Here's Why You Should Retain IRTC Stock in Your Portfolio for Now",
-            "Meta\u2019s Muse Jumps to the Top of the Apple Store\u2014and Triggers a Panic in the Stock Market",
-            "Dow Jones Tech Titan Amazon Eyes Buy Point Amid Battle With Key Support Level",
-            "The Nasdaq Set a Record and the Dow Lost 270 Points on the Same Morning",
-            "Nasdaq hits record high as oil prices fall below $100",
-            "A Rejuvenated AI Trade May Not Be Enough to Save the Stock Market",
-            "3 Reasons FSS Has Explosive Upside Potential",
-            "CBL Gains More than 77% in a Year: What's Driving the Stock?",
-            "Realty Income Has Outperformed the S&P 500 in 11 of 13 Stock Market Corrections Since 1994. Here's Why I'd Hold It Forever."
+            "Stock market today: Dow slips, Nasdaq drifts higher as oil falls, AI trade powers market",
+            "Stock market today: Nasdaq surges 2% to record high, Dow and S&P 500 gain as chip stocks rally, oil  falls",
+            "Update: US Equity Indexes Mixed in Midday Trading",
+            "3 Reasons Investors Watch Skyward Specialty Insurance (SKWD)",
+            "Update: Equities Mixed Intraday as Oil Prices Fluctuate",
+            "3 Reasons MBUU is Risky and 1 Stock to Buy Instead",
+            "Goldman Sachs Just Raised the Bar for S&P 500",
+            "If a Stock Market Crash Happens, History Says This Is How Long It Could Take Investors to Recover",
+            "2 Reasons to Sell SPGI and 1 Stock to Buy Instead",
+            "Was Moderna Stock's Cancer Vaccine Run Visible In Advance?"
           ]
         }
       },
@@ -1537,49 +1537,49 @@
         "auto_note": "RGTZ CALL | $+14.18 (+402.84%) | dollar_gainer_1 | Strike $8.0 exp 2026-09-18 (7DTE) | IV 0.0% | SPY +nan% | MACRO: rate hike, china"
       },
       "news_scan": {
-        "scanned_at": "2026-09-22 17:41:17 PST",
+        "scanned_at": "2026-09-22 18:11:18 PST",
         "gap_days": 11,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bullish",
-        "spx_sentiment": "bullish",
+        "spy_sentiment": "bearish",
+        "spx_sentiment": "neutral",
         "keywords_found": [],
         "spy_keywords": [
-          "buyback",
-          "surge",
           "jumps",
           "falls",
-          "drops"
+          "drops",
+          "tumbles"
         ],
         "spx_keywords": [
-          "jumps"
+          "surge",
+          "falls"
         ],
-        "decision": "hold",
-        "decision_reason": "neutral keywords confirmed CALL thesis",
+        "decision": "sell",
+        "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
         "raw_headlines": {
           "ticker": [],
           "spy": [
+            "ETF Zoo: 6 Pundits Walk Into a Bar",
+            "Fastly Tumbles 7% as Investor Day Meets Profit Taking; Cloudflare and Akamai Edge Higher",
+            "Pinterest Sinks 5% as Month-Long Slide Deepens; Reddit Slips, Snap Stays Put",
             "AutoZone Climbs 6% as Profit Beat Offsets Revenue Miss; Advance Auto Parts Rises 6%, O\u2019Reilly Automotive Gains 4%",
             "SanDisk Jumps 6% as Rosenblatt Starts Coverage at Buy With $2,400 Target; Micron Rises 3%, Seagate Ticks Up",
             "Trade Desk Falls 4% as Index-Removal Flows Keep Pressure On; Magnite Drops 3%, AppLovin Pulls Back",
             "Defense Stocks Fall While Oil Slides on Hormuz Reopening Report: Lockheed Martin and RTX Drop 3%, Boeing Dips",
             "\u201cMarket Has to Chew Through Indigestion\u201d: Analyst Warns of 7000 Dip Before 8150 Target",
             "Paramount Skydance Rises 4% on 12-State Settlement, Warner Bros. Discovery Holds Flat as $110B Deal Nears Its Close",
-            "Moderna Adds Another 5% and Is Up 500% in 2026. Can MRNA Stock Continue the Melt-Up?",
-            "No Margin Account? This ETF Is the Most Popular Way to Short the S&P 500",
-            "On Holding Surges 13% as Investor Day Sets Ambitious Sales Target and $1B Buyback; Nike Ticks Up 2%",
-            "SoFi Rises 5% After Getting Cut in Half: Is SOFI Stock Set to Double From Here?"
+            "Moderna Adds Another 5% and Is Up 500% in 2026. Can MRNA Stock Continue the Melt-Up?"
           ],
           "spx": [
-            "The return of the AI rally: What's fueling the latest push into tech?",
-            "Here's Why You Should Retain IRTC Stock in Your Portfolio for Now",
-            "Meta\u2019s Muse Jumps to the Top of the Apple Store\u2014and Triggers a Panic in the Stock Market",
-            "Dow Jones Tech Titan Amazon Eyes Buy Point Amid Battle With Key Support Level",
-            "The Nasdaq Set a Record and the Dow Lost 270 Points on the Same Morning",
-            "Nasdaq hits record high as oil prices fall below $100",
-            "A Rejuvenated AI Trade May Not Be Enough to Save the Stock Market",
-            "3 Reasons FSS Has Explosive Upside Potential",
-            "CBL Gains More than 77% in a Year: What's Driving the Stock?",
-            "Realty Income Has Outperformed the S&P 500 in 11 of 13 Stock Market Corrections Since 1994. Here's Why I'd Hold It Forever."
+            "Stock market today: Dow slips, Nasdaq drifts higher as oil falls, AI trade powers market",
+            "Stock market today: Nasdaq surges 2% to record high, Dow and S&P 500 gain as chip stocks rally, oil  falls",
+            "Update: US Equity Indexes Mixed in Midday Trading",
+            "3 Reasons Investors Watch Skyward Specialty Insurance (SKWD)",
+            "Update: Equities Mixed Intraday as Oil Prices Fluctuate",
+            "3 Reasons MBUU is Risky and 1 Stock to Buy Instead",
+            "Goldman Sachs Just Raised the Bar for S&P 500",
+            "If a Stock Market Crash Happens, History Says This Is How Long It Could Take Investors to Recover",
+            "2 Reasons to Sell SPGI and 1 Stock to Buy Instead",
+            "Was Moderna Stock's Cancer Vaccine Run Visible In Advance?"
           ]
         }
       },
@@ -1624,24 +1624,24 @@
         "auto_note": "VICR CALL | $+19.86 (+11.15%) | dollar_gainer_1 | Strike $240.0 exp 2026-09-18 (6DTE) | IV 86.0% | SPY +nan% | MACRO: fed"
       },
       "news_scan": {
-        "scanned_at": "2026-09-22 17:41:17 PST",
+        "scanned_at": "2026-09-22 18:11:18 PST",
         "gap_days": 10,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bullish",
-        "spx_sentiment": "bullish",
+        "spy_sentiment": "bearish",
+        "spx_sentiment": "neutral",
         "keywords_found": [],
         "spy_keywords": [
-          "buyback",
-          "surge",
           "jumps",
           "falls",
-          "drops"
+          "drops",
+          "tumbles"
         ],
         "spx_keywords": [
-          "jumps"
+          "surge",
+          "falls"
         ],
-        "decision": "hold",
-        "decision_reason": "neutral keywords confirmed CALL thesis",
+        "decision": "sell",
+        "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
         "raw_headlines": {
           "ticker": [
             "This Power Parts Maker\u2019s Stock Has Gained 366% in 2026. It\u2019s Rising Again Today on Boost to Growth Guidance.",
@@ -1653,28 +1653,28 @@
             "Vicor Shares Moved Higher on a New AI Processing Deal. How Investors Should View the News."
           ],
           "spy": [
+            "ETF Zoo: 6 Pundits Walk Into a Bar",
+            "Fastly Tumbles 7% as Investor Day Meets Profit Taking; Cloudflare and Akamai Edge Higher",
+            "Pinterest Sinks 5% as Month-Long Slide Deepens; Reddit Slips, Snap Stays Put",
             "AutoZone Climbs 6% as Profit Beat Offsets Revenue Miss; Advance Auto Parts Rises 6%, O\u2019Reilly Automotive Gains 4%",
             "SanDisk Jumps 6% as Rosenblatt Starts Coverage at Buy With $2,400 Target; Micron Rises 3%, Seagate Ticks Up",
             "Trade Desk Falls 4% as Index-Removal Flows Keep Pressure On; Magnite Drops 3%, AppLovin Pulls Back",
             "Defense Stocks Fall While Oil Slides on Hormuz Reopening Report: Lockheed Martin and RTX Drop 3%, Boeing Dips",
             "\u201cMarket Has to Chew Through Indigestion\u201d: Analyst Warns of 7000 Dip Before 8150 Target",
             "Paramount Skydance Rises 4% on 12-State Settlement, Warner Bros. Discovery Holds Flat as $110B Deal Nears Its Close",
-            "Moderna Adds Another 5% and Is Up 500% in 2026. Can MRNA Stock Continue the Melt-Up?",
-            "No Margin Account? This ETF Is the Most Popular Way to Short the S&P 500",
-            "On Holding Surges 13% as Investor Day Sets Ambitious Sales Target and $1B Buyback; Nike Ticks Up 2%",
-            "SoFi Rises 5% After Getting Cut in Half: Is SOFI Stock Set to Double From Here?"
+            "Moderna Adds Another 5% and Is Up 500% in 2026. Can MRNA Stock Continue the Melt-Up?"
           ],
           "spx": [
-            "The return of the AI rally: What's fueling the latest push into tech?",
-            "Here's Why You Should Retain IRTC Stock in Your Portfolio for Now",
-            "Meta\u2019s Muse Jumps to the Top of the Apple Store\u2014and Triggers a Panic in the Stock Market",
-            "Dow Jones Tech Titan Amazon Eyes Buy Point Amid Battle With Key Support Level",
-            "The Nasdaq Set a Record and the Dow Lost 270 Points on the Same Morning",
-            "Nasdaq hits record high as oil prices fall below $100",
-            "A Rejuvenated AI Trade May Not Be Enough to Save the Stock Market",
-            "3 Reasons FSS Has Explosive Upside Potential",
-            "CBL Gains More than 77% in a Year: What's Driving the Stock?",
-            "Realty Income Has Outperformed the S&P 500 in 11 of 13 Stock Market Corrections Since 1994. Here's Why I'd Hold It Forever."
+            "Stock market today: Dow slips, Nasdaq drifts higher as oil falls, AI trade powers market",
+            "Stock market today: Nasdaq surges 2% to record high, Dow and S&P 500 gain as chip stocks rally, oil  falls",
+            "Update: US Equity Indexes Mixed in Midday Trading",
+            "3 Reasons Investors Watch Skyward Specialty Insurance (SKWD)",
+            "Update: Equities Mixed Intraday as Oil Prices Fluctuate",
+            "3 Reasons MBUU is Risky and 1 Stock to Buy Instead",
+            "Goldman Sachs Just Raised the Bar for S&P 500",
+            "If a Stock Market Crash Happens, History Says This Is How Long It Could Take Investors to Recover",
+            "2 Reasons to Sell SPGI and 1 Stock to Buy Instead",
+            "Was Moderna Stock's Cancer Vaccine Run Visible In Advance?"
           ]
         }
       },
@@ -1719,24 +1719,24 @@
         "auto_note": "LEU PUT | $-13.56 (-8.18%) | dollar_loser_1 | Strike $135.0 exp 2026-09-18 (6DTE) | IV 56.5% | SPY +nan% | MACRO: fed"
       },
       "news_scan": {
-        "scanned_at": "2026-09-22 17:41:17 PST",
+        "scanned_at": "2026-09-22 18:11:18 PST",
         "gap_days": 10,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bullish",
-        "spx_sentiment": "bullish",
+        "spy_sentiment": "bearish",
+        "spx_sentiment": "neutral",
         "keywords_found": [],
         "spy_keywords": [
-          "buyback",
-          "surge",
           "jumps",
           "falls",
-          "drops"
+          "drops",
+          "tumbles"
         ],
         "spx_keywords": [
-          "jumps"
+          "surge",
+          "falls"
         ],
-        "decision": "sell",
-        "decision_reason": "no confirmation for PUT thesis \u2014 sell at open",
+        "decision": "hold",
+        "decision_reason": "neutral keywords confirmed PUT thesis",
         "raw_headlines": {
           "ticker": [
             "1 Small-Cap Stock with Exciting Potential and 2 We Find Risky",
@@ -1744,28 +1744,28 @@
             "Centrus Energy (LEU) Lands New HALEU Deal with Antares"
           ],
           "spy": [
+            "ETF Zoo: 6 Pundits Walk Into a Bar",
+            "Fastly Tumbles 7% as Investor Day Meets Profit Taking; Cloudflare and Akamai Edge Higher",
+            "Pinterest Sinks 5% as Month-Long Slide Deepens; Reddit Slips, Snap Stays Put",
             "AutoZone Climbs 6% as Profit Beat Offsets Revenue Miss; Advance Auto Parts Rises 6%, O\u2019Reilly Automotive Gains 4%",
             "SanDisk Jumps 6% as Rosenblatt Starts Coverage at Buy With $2,400 Target; Micron Rises 3%, Seagate Ticks Up",
             "Trade Desk Falls 4% as Index-Removal Flows Keep Pressure On; Magnite Drops 3%, AppLovin Pulls Back",
             "Defense Stocks Fall While Oil Slides on Hormuz Reopening Report: Lockheed Martin and RTX Drop 3%, Boeing Dips",
             "\u201cMarket Has to Chew Through Indigestion\u201d: Analyst Warns of 7000 Dip Before 8150 Target",
             "Paramount Skydance Rises 4% on 12-State Settlement, Warner Bros. Discovery Holds Flat as $110B Deal Nears Its Close",
-            "Moderna Adds Another 5% and Is Up 500% in 2026. Can MRNA Stock Continue the Melt-Up?",
-            "No Margin Account? This ETF Is the Most Popular Way to Short the S&P 500",
-            "On Holding Surges 13% as Investor Day Sets Ambitious Sales Target and $1B Buyback; Nike Ticks Up 2%",
-            "SoFi Rises 5% After Getting Cut in Half: Is SOFI Stock Set to Double From Here?"
+            "Moderna Adds Another 5% and Is Up 500% in 2026. Can MRNA Stock Continue the Melt-Up?"
           ],
           "spx": [
-            "The return of the AI rally: What's fueling the latest push into tech?",
-            "Here's Why You Should Retain IRTC Stock in Your Portfolio for Now",
-            "Meta\u2019s Muse Jumps to the Top of the Apple Store\u2014and Triggers a Panic in the Stock Market",
-            "Dow Jones Tech Titan Amazon Eyes Buy Point Amid Battle With Key Support Level",
-            "The Nasdaq Set a Record and the Dow Lost 270 Points on the Same Morning",
-            "Nasdaq hits record high as oil prices fall below $100",
-            "A Rejuvenated AI Trade May Not Be Enough to Save the Stock Market",
-            "3 Reasons FSS Has Explosive Upside Potential",
-            "CBL Gains More than 77% in a Year: What's Driving the Stock?",
-            "Realty Income Has Outperformed the S&P 500 in 11 of 13 Stock Market Corrections Since 1994. Here's Why I'd Hold It Forever."
+            "Stock market today: Dow slips, Nasdaq drifts higher as oil falls, AI trade powers market",
+            "Stock market today: Nasdaq surges 2% to record high, Dow and S&P 500 gain as chip stocks rally, oil  falls",
+            "Update: US Equity Indexes Mixed in Midday Trading",
+            "3 Reasons Investors Watch Skyward Specialty Insurance (SKWD)",
+            "Update: Equities Mixed Intraday as Oil Prices Fluctuate",
+            "3 Reasons MBUU is Risky and 1 Stock to Buy Instead",
+            "Goldman Sachs Just Raised the Bar for S&P 500",
+            "If a Stock Market Crash Happens, History Says This Is How Long It Could Take Investors to Recover",
+            "2 Reasons to Sell SPGI and 1 Stock to Buy Instead",
+            "Was Moderna Stock's Cancer Vaccine Run Visible In Advance?"
           ]
         }
       },
@@ -1808,30 +1808,32 @@
         "auto_note": "PANW CALL | $+43.29 (+13.09%) | dollar_gainer_1 | Strike $420.0 exp 2026-09-18 (3DTE) | IV 71.1% | SPY +nan% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-09-22 17:41:17 PST",
+        "scanned_at": "2026-09-22 18:11:18 PST",
         "gap_days": 7,
-        "ticker_sentiment": "neutral",
-        "spy_sentiment": "bullish",
-        "spx_sentiment": "bullish",
+        "ticker_sentiment": "bearish",
+        "spy_sentiment": "bearish",
+        "spx_sentiment": "neutral",
         "keywords_found": [
           "jumps",
-          "warning"
+          "warning",
+          "falls"
         ],
         "spy_keywords": [
-          "buyback",
-          "surge",
           "jumps",
           "falls",
-          "drops"
+          "drops",
+          "tumbles"
         ],
         "spx_keywords": [
-          "jumps"
+          "surge",
+          "falls"
         ],
-        "decision": "hold",
-        "decision_reason": "neutral keywords confirmed CALL thesis",
+        "decision": "sell",
+        "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
         "raw_headlines": {
           "ticker": [
             "These are the cybersecurity stocks built for the AI era",
+            "Palo Alto Falls 1.2% as AI Becomes Its Own Penetration Tester",
             "Is CrowdStrike Stock A Buy Today As AI Threats Lift Demand?",
             "Fortinet Stock Jumps on Security Platform Demand: What's Ahead?",
             "Palo Alto Networks Launches AI-Powered Continuous Security Testing Service",
@@ -1839,32 +1841,31 @@
             "3 U.S. Growth Stocks Facing The Biggest AI Spending Test Right Now",
             "3 Reasons to Sell PANW and 1 Stock to Buy Instead",
             "Palo Alto Jumps 2.4% as S&P 100 Meets AI Security Growth",
-            "Cybersecurity Stocks Extend Gains on AI Safety Warnings: CrowdStrike and Okta Rise 4%, Palo Alto Ticks Up",
-            "Zscaler's AI Bookings Jump 50%: Can AI Products Drive Growth?"
+            "Cybersecurity Stocks Extend Gains on AI Safety Warnings: CrowdStrike and Okta Rise 4%, Palo Alto Ticks Up"
           ],
           "spy": [
+            "ETF Zoo: 6 Pundits Walk Into a Bar",
+            "Fastly Tumbles 7% as Investor Day Meets Profit Taking; Cloudflare and Akamai Edge Higher",
+            "Pinterest Sinks 5% as Month-Long Slide Deepens; Reddit Slips, Snap Stays Put",
             "AutoZone Climbs 6% as Profit Beat Offsets Revenue Miss; Advance Auto Parts Rises 6%, O\u2019Reilly Automotive Gains 4%",
             "SanDisk Jumps 6% as Rosenblatt Starts Coverage at Buy With $2,400 Target; Micron Rises 3%, Seagate Ticks Up",
             "Trade Desk Falls 4% as Index-Removal Flows Keep Pressure On; Magnite Drops 3%, AppLovin Pulls Back",
             "Defense Stocks Fall While Oil Slides on Hormuz Reopening Report: Lockheed Martin and RTX Drop 3%, Boeing Dips",
             "\u201cMarket Has to Chew Through Indigestion\u201d: Analyst Warns of 7000 Dip Before 8150 Target",
             "Paramount Skydance Rises 4% on 12-State Settlement, Warner Bros. Discovery Holds Flat as $110B Deal Nears Its Close",
-            "Moderna Adds Another 5% and Is Up 500% in 2026. Can MRNA Stock Continue the Melt-Up?",
-            "No Margin Account? This ETF Is the Most Popular Way to Short the S&P 500",
-            "On Holding Surges 13% as Investor Day Sets Ambitious Sales Target and $1B Buyback; Nike Ticks Up 2%",
-            "SoFi Rises 5% After Getting Cut in Half: Is SOFI Stock Set to Double From Here?"
+            "Moderna Adds Another 5% and Is Up 500% in 2026. Can MRNA Stock Continue the Melt-Up?"
           ],
           "spx": [
-            "The return of the AI rally: What's fueling the latest push into tech?",
-            "Here's Why You Should Retain IRTC Stock in Your Portfolio for Now",
-            "Meta\u2019s Muse Jumps to the Top of the Apple Store\u2014and Triggers a Panic in the Stock Market",
-            "Dow Jones Tech Titan Amazon Eyes Buy Point Amid Battle With Key Support Level",
-            "The Nasdaq Set a Record and the Dow Lost 270 Points on the Same Morning",
-            "Nasdaq hits record high as oil prices fall below $100",
-            "A Rejuvenated AI Trade May Not Be Enough to Save the Stock Market",
-            "3 Reasons FSS Has Explosive Upside Potential",
-            "CBL Gains More than 77% in a Year: What's Driving the Stock?",
-            "Realty Income Has Outperformed the S&P 500 in 11 of 13 Stock Market Corrections Since 1994. Here's Why I'd Hold It Forever."
+            "Stock market today: Dow slips, Nasdaq drifts higher as oil falls, AI trade powers market",
+            "Stock market today: Nasdaq surges 2% to record high, Dow and S&P 500 gain as chip stocks rally, oil  falls",
+            "Update: US Equity Indexes Mixed in Midday Trading",
+            "3 Reasons Investors Watch Skyward Specialty Insurance (SKWD)",
+            "Update: Equities Mixed Intraday as Oil Prices Fluctuate",
+            "3 Reasons MBUU is Risky and 1 Stock to Buy Instead",
+            "Goldman Sachs Just Raised the Bar for S&P 500",
+            "If a Stock Market Crash Happens, History Says This Is How Long It Could Take Investors to Recover",
+            "2 Reasons to Sell SPGI and 1 Stock to Buy Instead",
+            "Was Moderna Stock's Cancer Vaccine Run Visible In Advance?"
           ]
         }
       },
@@ -1907,24 +1908,24 @@
         "auto_note": "TER PUT | $-50.52 (-13.30%) | dollar_loser_1 | Strike $280.0 exp 2026-09-18 (3DTE) | IV 90.0% | SPY +nan% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-09-22 17:41:17 PST",
+        "scanned_at": "2026-09-22 18:11:18 PST",
         "gap_days": 7,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bullish",
-        "spx_sentiment": "bullish",
+        "spy_sentiment": "bearish",
+        "spx_sentiment": "neutral",
         "keywords_found": [],
         "spy_keywords": [
-          "buyback",
-          "surge",
           "jumps",
           "falls",
-          "drops"
+          "drops",
+          "tumbles"
         ],
         "spx_keywords": [
-          "jumps"
+          "surge",
+          "falls"
         ],
-        "decision": "sell",
-        "decision_reason": "no confirmation for PUT thesis \u2014 sell at open",
+        "decision": "hold",
+        "decision_reason": "neutral keywords confirmed PUT thesis",
         "raw_headlines": {
           "ticker": [
             "Teradyne Partners With GS Microelectronics On New Semiconductor Test Center \u2014 Targets AI, Silicon Photonics And Auto Chips",
@@ -1933,28 +1934,28 @@
             "3 AI Infrastructure Stocks Retail Investors Are Watching As US China Trade Rules Shift"
           ],
           "spy": [
+            "ETF Zoo: 6 Pundits Walk Into a Bar",
+            "Fastly Tumbles 7% as Investor Day Meets Profit Taking; Cloudflare and Akamai Edge Higher",
+            "Pinterest Sinks 5% as Month-Long Slide Deepens; Reddit Slips, Snap Stays Put",
             "AutoZone Climbs 6% as Profit Beat Offsets Revenue Miss; Advance Auto Parts Rises 6%, O\u2019Reilly Automotive Gains 4%",
             "SanDisk Jumps 6% as Rosenblatt Starts Coverage at Buy With $2,400 Target; Micron Rises 3%, Seagate Ticks Up",
             "Trade Desk Falls 4% as Index-Removal Flows Keep Pressure On; Magnite Drops 3%, AppLovin Pulls Back",
             "Defense Stocks Fall While Oil Slides on Hormuz Reopening Report: Lockheed Martin and RTX Drop 3%, Boeing Dips",
             "\u201cMarket Has to Chew Through Indigestion\u201d: Analyst Warns of 7000 Dip Before 8150 Target",
             "Paramount Skydance Rises 4% on 12-State Settlement, Warner Bros. Discovery Holds Flat as $110B Deal Nears Its Close",
-            "Moderna Adds Another 5% and Is Up 500% in 2026. Can MRNA Stock Continue the Melt-Up?",
-            "No Margin Account? This ETF Is the Most Popular Way to Short the S&P 500",
-            "On Holding Surges 13% as Investor Day Sets Ambitious Sales Target and $1B Buyback; Nike Ticks Up 2%",
-            "SoFi Rises 5% After Getting Cut in Half: Is SOFI Stock Set to Double From Here?"
+            "Moderna Adds Another 5% and Is Up 500% in 2026. Can MRNA Stock Continue the Melt-Up?"
           ],
           "spx": [
-            "The return of the AI rally: What's fueling the latest push into tech?",
-            "Here's Why You Should Retain IRTC Stock in Your Portfolio for Now",
-            "Meta\u2019s Muse Jumps to the Top of the Apple Store\u2014and Triggers a Panic in the Stock Market",
-            "Dow Jones Tech Titan Amazon Eyes Buy Point Amid Battle With Key Support Level",
-            "The Nasdaq Set a Record and the Dow Lost 270 Points on the Same Morning",
-            "Nasdaq hits record high as oil prices fall below $100",
-            "A Rejuvenated AI Trade May Not Be Enough to Save the Stock Market",
-            "3 Reasons FSS Has Explosive Upside Potential",
-            "CBL Gains More than 77% in a Year: What's Driving the Stock?",
-            "Realty Income Has Outperformed the S&P 500 in 11 of 13 Stock Market Corrections Since 1994. Here's Why I'd Hold It Forever."
+            "Stock market today: Dow slips, Nasdaq drifts higher as oil falls, AI trade powers market",
+            "Stock market today: Nasdaq surges 2% to record high, Dow and S&P 500 gain as chip stocks rally, oil  falls",
+            "Update: US Equity Indexes Mixed in Midday Trading",
+            "3 Reasons Investors Watch Skyward Specialty Insurance (SKWD)",
+            "Update: Equities Mixed Intraday as Oil Prices Fluctuate",
+            "3 Reasons MBUU is Risky and 1 Stock to Buy Instead",
+            "Goldman Sachs Just Raised the Bar for S&P 500",
+            "If a Stock Market Crash Happens, History Says This Is How Long It Could Take Investors to Recover",
+            "2 Reasons to Sell SPGI and 1 Stock to Buy Instead",
+            "Was Moderna Stock's Cancer Vaccine Run Visible In Advance?"
           ]
         }
       },
@@ -2000,49 +2001,49 @@
         "auto_note": "QLYS CALL | $+12.46 (+7.21%) | dollar_gainer_1 | Strike $210.0 exp 2026-09-18 (2DTE) | IV 78.5% | SPY +nan% | MACRO: fed, rate hike"
       },
       "news_scan": {
-        "scanned_at": "2026-09-22 17:41:17 PST",
+        "scanned_at": "2026-09-22 18:11:18 PST",
         "gap_days": 6,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bullish",
-        "spx_sentiment": "bullish",
+        "spy_sentiment": "bearish",
+        "spx_sentiment": "neutral",
         "keywords_found": [],
         "spy_keywords": [
-          "buyback",
-          "surge",
           "jumps",
           "falls",
-          "drops"
+          "drops",
+          "tumbles"
         ],
         "spx_keywords": [
-          "jumps"
+          "surge",
+          "falls"
         ],
-        "decision": "hold",
-        "decision_reason": "neutral keywords confirmed CALL thesis",
+        "decision": "sell",
+        "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
         "raw_headlines": {
           "ticker": [],
           "spy": [
+            "ETF Zoo: 6 Pundits Walk Into a Bar",
+            "Fastly Tumbles 7% as Investor Day Meets Profit Taking; Cloudflare and Akamai Edge Higher",
+            "Pinterest Sinks 5% as Month-Long Slide Deepens; Reddit Slips, Snap Stays Put",
             "AutoZone Climbs 6% as Profit Beat Offsets Revenue Miss; Advance Auto Parts Rises 6%, O\u2019Reilly Automotive Gains 4%",
             "SanDisk Jumps 6% as Rosenblatt Starts Coverage at Buy With $2,400 Target; Micron Rises 3%, Seagate Ticks Up",
             "Trade Desk Falls 4% as Index-Removal Flows Keep Pressure On; Magnite Drops 3%, AppLovin Pulls Back",
             "Defense Stocks Fall While Oil Slides on Hormuz Reopening Report: Lockheed Martin and RTX Drop 3%, Boeing Dips",
             "\u201cMarket Has to Chew Through Indigestion\u201d: Analyst Warns of 7000 Dip Before 8150 Target",
             "Paramount Skydance Rises 4% on 12-State Settlement, Warner Bros. Discovery Holds Flat as $110B Deal Nears Its Close",
-            "Moderna Adds Another 5% and Is Up 500% in 2026. Can MRNA Stock Continue the Melt-Up?",
-            "No Margin Account? This ETF Is the Most Popular Way to Short the S&P 500",
-            "On Holding Surges 13% as Investor Day Sets Ambitious Sales Target and $1B Buyback; Nike Ticks Up 2%",
-            "SoFi Rises 5% After Getting Cut in Half: Is SOFI Stock Set to Double From Here?"
+            "Moderna Adds Another 5% and Is Up 500% in 2026. Can MRNA Stock Continue the Melt-Up?"
           ],
           "spx": [
-            "The return of the AI rally: What's fueling the latest push into tech?",
-            "Here's Why You Should Retain IRTC Stock in Your Portfolio for Now",
-            "Meta\u2019s Muse Jumps to the Top of the Apple Store\u2014and Triggers a Panic in the Stock Market",
-            "Dow Jones Tech Titan Amazon Eyes Buy Point Amid Battle With Key Support Level",
-            "The Nasdaq Set a Record and the Dow Lost 270 Points on the Same Morning",
-            "Nasdaq hits record high as oil prices fall below $100",
-            "A Rejuvenated AI Trade May Not Be Enough to Save the Stock Market",
-            "3 Reasons FSS Has Explosive Upside Potential",
-            "CBL Gains More than 77% in a Year: What's Driving the Stock?",
-            "Realty Income Has Outperformed the S&P 500 in 11 of 13 Stock Market Corrections Since 1994. Here's Why I'd Hold It Forever."
+            "Stock market today: Dow slips, Nasdaq drifts higher as oil falls, AI trade powers market",
+            "Stock market today: Nasdaq surges 2% to record high, Dow and S&P 500 gain as chip stocks rally, oil  falls",
+            "Update: US Equity Indexes Mixed in Midday Trading",
+            "3 Reasons Investors Watch Skyward Specialty Insurance (SKWD)",
+            "Update: Equities Mixed Intraday as Oil Prices Fluctuate",
+            "3 Reasons MBUU is Risky and 1 Stock to Buy Instead",
+            "Goldman Sachs Just Raised the Bar for S&P 500",
+            "If a Stock Market Crash Happens, History Says This Is How Long It Could Take Investors to Recover",
+            "2 Reasons to Sell SPGI and 1 Stock to Buy Instead",
+            "Was Moderna Stock's Cancer Vaccine Run Visible In Advance?"
           ]
         }
       },
@@ -2088,24 +2089,24 @@
         "auto_note": "AXON PUT | $-48.10 (-9.81%) | dollar_loser_1 | Strike $390.0 exp 2026-09-18 (2DTE) | IV 78.0% | SPY +nan% | MACRO: fed, rate hike"
       },
       "news_scan": {
-        "scanned_at": "2026-09-22 17:41:17 PST",
+        "scanned_at": "2026-09-22 18:11:18 PST",
         "gap_days": 6,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bullish",
-        "spx_sentiment": "bullish",
+        "spy_sentiment": "bearish",
+        "spx_sentiment": "neutral",
         "keywords_found": [],
         "spy_keywords": [
-          "buyback",
-          "surge",
           "jumps",
           "falls",
-          "drops"
+          "drops",
+          "tumbles"
         ],
         "spx_keywords": [
-          "jumps"
+          "surge",
+          "falls"
         ],
-        "decision": "sell",
-        "decision_reason": "no confirmation for PUT thesis \u2014 sell at open",
+        "decision": "hold",
+        "decision_reason": "neutral keywords confirmed PUT thesis",
         "raw_headlines": {
           "ticker": [
             "Axon Stock Just Fell 22% in a Month. Here\u2019s the Number That Explains Why",
@@ -2113,28 +2114,28 @@
             "Axon (AXON) Stock Looks Fairly Valued As 149% Run Meets Funding Test"
           ],
           "spy": [
+            "ETF Zoo: 6 Pundits Walk Into a Bar",
+            "Fastly Tumbles 7% as Investor Day Meets Profit Taking; Cloudflare and Akamai Edge Higher",
+            "Pinterest Sinks 5% as Month-Long Slide Deepens; Reddit Slips, Snap Stays Put",
             "AutoZone Climbs 6% as Profit Beat Offsets Revenue Miss; Advance Auto Parts Rises 6%, O\u2019Reilly Automotive Gains 4%",
             "SanDisk Jumps 6% as Rosenblatt Starts Coverage at Buy With $2,400 Target; Micron Rises 3%, Seagate Ticks Up",
             "Trade Desk Falls 4% as Index-Removal Flows Keep Pressure On; Magnite Drops 3%, AppLovin Pulls Back",
             "Defense Stocks Fall While Oil Slides on Hormuz Reopening Report: Lockheed Martin and RTX Drop 3%, Boeing Dips",
             "\u201cMarket Has to Chew Through Indigestion\u201d: Analyst Warns of 7000 Dip Before 8150 Target",
             "Paramount Skydance Rises 4% on 12-State Settlement, Warner Bros. Discovery Holds Flat as $110B Deal Nears Its Close",
-            "Moderna Adds Another 5% and Is Up 500% in 2026. Can MRNA Stock Continue the Melt-Up?",
-            "No Margin Account? This ETF Is the Most Popular Way to Short the S&P 500",
-            "On Holding Surges 13% as Investor Day Sets Ambitious Sales Target and $1B Buyback; Nike Ticks Up 2%",
-            "SoFi Rises 5% After Getting Cut in Half: Is SOFI Stock Set to Double From Here?"
+            "Moderna Adds Another 5% and Is Up 500% in 2026. Can MRNA Stock Continue the Melt-Up?"
           ],
           "spx": [
-            "The return of the AI rally: What's fueling the latest push into tech?",
-            "Here's Why You Should Retain IRTC Stock in Your Portfolio for Now",
-            "Meta\u2019s Muse Jumps to the Top of the Apple Store\u2014and Triggers a Panic in the Stock Market",
-            "Dow Jones Tech Titan Amazon Eyes Buy Point Amid Battle With Key Support Level",
-            "The Nasdaq Set a Record and the Dow Lost 270 Points on the Same Morning",
-            "Nasdaq hits record high as oil prices fall below $100",
-            "A Rejuvenated AI Trade May Not Be Enough to Save the Stock Market",
-            "3 Reasons FSS Has Explosive Upside Potential",
-            "CBL Gains More than 77% in a Year: What's Driving the Stock?",
-            "Realty Income Has Outperformed the S&P 500 in 11 of 13 Stock Market Corrections Since 1994. Here's Why I'd Hold It Forever."
+            "Stock market today: Dow slips, Nasdaq drifts higher as oil falls, AI trade powers market",
+            "Stock market today: Nasdaq surges 2% to record high, Dow and S&P 500 gain as chip stocks rally, oil  falls",
+            "Update: US Equity Indexes Mixed in Midday Trading",
+            "3 Reasons Investors Watch Skyward Specialty Insurance (SKWD)",
+            "Update: Equities Mixed Intraday as Oil Prices Fluctuate",
+            "3 Reasons MBUU is Risky and 1 Stock to Buy Instead",
+            "Goldman Sachs Just Raised the Bar for S&P 500",
+            "If a Stock Market Crash Happens, History Says This Is How Long It Could Take Investors to Recover",
+            "2 Reasons to Sell SPGI and 1 Stock to Buy Instead",
+            "Was Moderna Stock's Cancer Vaccine Run Visible In Advance?"
           ]
         }
       },
@@ -2180,24 +2181,24 @@
         "auto_note": "COHR CALL | $+18.76 (+6.92%) | dollar_gainer_1 | Strike $320.0 exp 2026-09-18 (1DTE) | IV 88.5% | SPY +nan% | MACRO: fed, war"
       },
       "news_scan": {
-        "scanned_at": "2026-09-22 17:41:17 PST",
+        "scanned_at": "2026-09-22 18:11:18 PST",
         "gap_days": 5,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bullish",
-        "spx_sentiment": "bullish",
+        "spy_sentiment": "bearish",
+        "spx_sentiment": "neutral",
         "keywords_found": [],
         "spy_keywords": [
-          "buyback",
-          "surge",
           "jumps",
           "falls",
-          "drops"
+          "drops",
+          "tumbles"
         ],
         "spx_keywords": [
-          "jumps"
+          "surge",
+          "falls"
         ],
-        "decision": "hold",
-        "decision_reason": "neutral keywords confirmed CALL thesis",
+        "decision": "sell",
+        "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
         "raw_headlines": {
           "ticker": [
             "Sandisk, Lennar, Viking Therapeutics, Shopify, GameStop, and More Stocks That Explain Today\u2019s Market",
@@ -2212,28 +2213,28 @@
             "Lumentum Shares Rise 12% in a Month: Is There More Upside Ahead?"
           ],
           "spy": [
+            "ETF Zoo: 6 Pundits Walk Into a Bar",
+            "Fastly Tumbles 7% as Investor Day Meets Profit Taking; Cloudflare and Akamai Edge Higher",
+            "Pinterest Sinks 5% as Month-Long Slide Deepens; Reddit Slips, Snap Stays Put",
             "AutoZone Climbs 6% as Profit Beat Offsets Revenue Miss; Advance Auto Parts Rises 6%, O\u2019Reilly Automotive Gains 4%",
             "SanDisk Jumps 6% as Rosenblatt Starts Coverage at Buy With $2,400 Target; Micron Rises 3%, Seagate Ticks Up",
             "Trade Desk Falls 4% as Index-Removal Flows Keep Pressure On; Magnite Drops 3%, AppLovin Pulls Back",
             "Defense Stocks Fall While Oil Slides on Hormuz Reopening Report: Lockheed Martin and RTX Drop 3%, Boeing Dips",
             "\u201cMarket Has to Chew Through Indigestion\u201d: Analyst Warns of 7000 Dip Before 8150 Target",
             "Paramount Skydance Rises 4% on 12-State Settlement, Warner Bros. Discovery Holds Flat as $110B Deal Nears Its Close",
-            "Moderna Adds Another 5% and Is Up 500% in 2026. Can MRNA Stock Continue the Melt-Up?",
-            "No Margin Account? This ETF Is the Most Popular Way to Short the S&P 500",
-            "On Holding Surges 13% as Investor Day Sets Ambitious Sales Target and $1B Buyback; Nike Ticks Up 2%",
-            "SoFi Rises 5% After Getting Cut in Half: Is SOFI Stock Set to Double From Here?"
+            "Moderna Adds Another 5% and Is Up 500% in 2026. Can MRNA Stock Continue the Melt-Up?"
           ],
           "spx": [
-            "The return of the AI rally: What's fueling the latest push into tech?",
-            "Here's Why You Should Retain IRTC Stock in Your Portfolio for Now",
-            "Meta\u2019s Muse Jumps to the Top of the Apple Store\u2014and Triggers a Panic in the Stock Market",
-            "Dow Jones Tech Titan Amazon Eyes Buy Point Amid Battle With Key Support Level",
-            "The Nasdaq Set a Record and the Dow Lost 270 Points on the Same Morning",
-            "Nasdaq hits record high as oil prices fall below $100",
-            "A Rejuvenated AI Trade May Not Be Enough to Save the Stock Market",
-            "3 Reasons FSS Has Explosive Upside Potential",
-            "CBL Gains More than 77% in a Year: What's Driving the Stock?",
-            "Realty Income Has Outperformed the S&P 500 in 11 of 13 Stock Market Corrections Since 1994. Here's Why I'd Hold It Forever."
+            "Stock market today: Dow slips, Nasdaq drifts higher as oil falls, AI trade powers market",
+            "Stock market today: Nasdaq surges 2% to record high, Dow and S&P 500 gain as chip stocks rally, oil  falls",
+            "Update: US Equity Indexes Mixed in Midday Trading",
+            "3 Reasons Investors Watch Skyward Specialty Insurance (SKWD)",
+            "Update: Equities Mixed Intraday as Oil Prices Fluctuate",
+            "3 Reasons MBUU is Risky and 1 Stock to Buy Instead",
+            "Goldman Sachs Just Raised the Bar for S&P 500",
+            "If a Stock Market Crash Happens, History Says This Is How Long It Could Take Investors to Recover",
+            "2 Reasons to Sell SPGI and 1 Stock to Buy Instead",
+            "Was Moderna Stock's Cancer Vaccine Run Visible In Advance?"
           ]
         }
       },
@@ -2279,23 +2280,23 @@
         "auto_note": "FANG PUT | $-16.99 (-8.03%) | dollar_loser_1 | Strike $185.0 exp 2026-09-18 (1DTE) | IV 53.9% | SPY +nan% | MACRO: fed, war"
       },
       "news_scan": {
-        "scanned_at": "2026-09-22 17:41:17 PST",
+        "scanned_at": "2026-09-22 18:11:18 PST",
         "gap_days": 5,
         "ticker_sentiment": "bearish",
-        "spy_sentiment": "bullish",
-        "spx_sentiment": "bullish",
+        "spy_sentiment": "bearish",
+        "spx_sentiment": "neutral",
         "keywords_found": [
           "drops"
         ],
         "spy_keywords": [
-          "buyback",
-          "surge",
           "jumps",
           "falls",
-          "drops"
+          "drops",
+          "tumbles"
         ],
         "spx_keywords": [
-          "jumps"
+          "surge",
+          "falls"
         ],
         "decision": "hold",
         "decision_reason": "bearish keywords confirmed PUT thesis",
@@ -2306,28 +2307,28 @@
             "This Overlooked Pipeline Stock Just Became a Rival's Joint-Venture Partner Without Anyone Noticing"
           ],
           "spy": [
+            "ETF Zoo: 6 Pundits Walk Into a Bar",
+            "Fastly Tumbles 7% as Investor Day Meets Profit Taking; Cloudflare and Akamai Edge Higher",
+            "Pinterest Sinks 5% as Month-Long Slide Deepens; Reddit Slips, Snap Stays Put",
             "AutoZone Climbs 6% as Profit Beat Offsets Revenue Miss; Advance Auto Parts Rises 6%, O\u2019Reilly Automotive Gains 4%",
             "SanDisk Jumps 6% as Rosenblatt Starts Coverage at Buy With $2,400 Target; Micron Rises 3%, Seagate Ticks Up",
             "Trade Desk Falls 4% as Index-Removal Flows Keep Pressure On; Magnite Drops 3%, AppLovin Pulls Back",
             "Defense Stocks Fall While Oil Slides on Hormuz Reopening Report: Lockheed Martin and RTX Drop 3%, Boeing Dips",
             "\u201cMarket Has to Chew Through Indigestion\u201d: Analyst Warns of 7000 Dip Before 8150 Target",
             "Paramount Skydance Rises 4% on 12-State Settlement, Warner Bros. Discovery Holds Flat as $110B Deal Nears Its Close",
-            "Moderna Adds Another 5% and Is Up 500% in 2026. Can MRNA Stock Continue the Melt-Up?",
-            "No Margin Account? This ETF Is the Most Popular Way to Short the S&P 500",
-            "On Holding Surges 13% as Investor Day Sets Ambitious Sales Target and $1B Buyback; Nike Ticks Up 2%",
-            "SoFi Rises 5% After Getting Cut in Half: Is SOFI Stock Set to Double From Here?"
+            "Moderna Adds Another 5% and Is Up 500% in 2026. Can MRNA Stock Continue the Melt-Up?"
           ],
           "spx": [
-            "The return of the AI rally: What's fueling the latest push into tech?",
-            "Here's Why You Should Retain IRTC Stock in Your Portfolio for Now",
-            "Meta\u2019s Muse Jumps to the Top of the Apple Store\u2014and Triggers a Panic in the Stock Market",
-            "Dow Jones Tech Titan Amazon Eyes Buy Point Amid Battle With Key Support Level",
-            "The Nasdaq Set a Record and the Dow Lost 270 Points on the Same Morning",
-            "Nasdaq hits record high as oil prices fall below $100",
-            "A Rejuvenated AI Trade May Not Be Enough to Save the Stock Market",
-            "3 Reasons FSS Has Explosive Upside Potential",
-            "CBL Gains More than 77% in a Year: What's Driving the Stock?",
-            "Realty Income Has Outperformed the S&P 500 in 11 of 13 Stock Market Corrections Since 1994. Here's Why I'd Hold It Forever."
+            "Stock market today: Dow slips, Nasdaq drifts higher as oil falls, AI trade powers market",
+            "Stock market today: Nasdaq surges 2% to record high, Dow and S&P 500 gain as chip stocks rally, oil  falls",
+            "Update: US Equity Indexes Mixed in Midday Trading",
+            "3 Reasons Investors Watch Skyward Specialty Insurance (SKWD)",
+            "Update: Equities Mixed Intraday as Oil Prices Fluctuate",
+            "3 Reasons MBUU is Risky and 1 Stock to Buy Instead",
+            "Goldman Sachs Just Raised the Bar for S&P 500",
+            "If a Stock Market Crash Happens, History Says This Is How Long It Could Take Investors to Recover",
+            "2 Reasons to Sell SPGI and 1 Stock to Buy Instead",
+            "Was Moderna Stock's Cancer Vaccine Run Visible In Advance?"
           ]
         }
       },
@@ -2370,23 +2371,23 @@
         "auto_note": "ARM CALL | $+47.29 (+17.16%) | dollar_gainer_1 | Strike $400.0 exp 2026-09-25 (3DTE) | IV 120.3% | SPY +nan% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-09-22 17:41:17 PST",
+        "scanned_at": "2026-09-22 18:11:18 PST",
         "gap_days": 0,
         "ticker_sentiment": "bullish",
-        "spy_sentiment": "bullish",
-        "spx_sentiment": "bullish",
+        "spy_sentiment": "bearish",
+        "spx_sentiment": "neutral",
         "keywords_found": [
           "surge"
         ],
         "spy_keywords": [
-          "buyback",
-          "surge",
           "jumps",
           "falls",
-          "drops"
+          "drops",
+          "tumbles"
         ],
         "spx_keywords": [
-          "jumps"
+          "surge",
+          "falls"
         ],
         "decision": "hold",
         "decision_reason": "bullish keywords confirmed CALL thesis",
@@ -2404,28 +2405,28 @@
             "US Equity Markets Higher as Tech, Communication Stocks Rise Amid Drop in Government Bond Yields, Crude Oil Prices"
           ],
           "spy": [
+            "ETF Zoo: 6 Pundits Walk Into a Bar",
+            "Fastly Tumbles 7% as Investor Day Meets Profit Taking; Cloudflare and Akamai Edge Higher",
+            "Pinterest Sinks 5% as Month-Long Slide Deepens; Reddit Slips, Snap Stays Put",
             "AutoZone Climbs 6% as Profit Beat Offsets Revenue Miss; Advance Auto Parts Rises 6%, O\u2019Reilly Automotive Gains 4%",
             "SanDisk Jumps 6% as Rosenblatt Starts Coverage at Buy With $2,400 Target; Micron Rises 3%, Seagate Ticks Up",
             "Trade Desk Falls 4% as Index-Removal Flows Keep Pressure On; Magnite Drops 3%, AppLovin Pulls Back",
             "Defense Stocks Fall While Oil Slides on Hormuz Reopening Report: Lockheed Martin and RTX Drop 3%, Boeing Dips",
             "\u201cMarket Has to Chew Through Indigestion\u201d: Analyst Warns of 7000 Dip Before 8150 Target",
             "Paramount Skydance Rises 4% on 12-State Settlement, Warner Bros. Discovery Holds Flat as $110B Deal Nears Its Close",
-            "Moderna Adds Another 5% and Is Up 500% in 2026. Can MRNA Stock Continue the Melt-Up?",
-            "No Margin Account? This ETF Is the Most Popular Way to Short the S&P 500",
-            "On Holding Surges 13% as Investor Day Sets Ambitious Sales Target and $1B Buyback; Nike Ticks Up 2%",
-            "SoFi Rises 5% After Getting Cut in Half: Is SOFI Stock Set to Double From Here?"
+            "Moderna Adds Another 5% and Is Up 500% in 2026. Can MRNA Stock Continue the Melt-Up?"
           ],
           "spx": [
-            "The return of the AI rally: What's fueling the latest push into tech?",
-            "Here's Why You Should Retain IRTC Stock in Your Portfolio for Now",
-            "Meta\u2019s Muse Jumps to the Top of the Apple Store\u2014and Triggers a Panic in the Stock Market",
-            "Dow Jones Tech Titan Amazon Eyes Buy Point Amid Battle With Key Support Level",
-            "The Nasdaq Set a Record and the Dow Lost 270 Points on the Same Morning",
-            "Nasdaq hits record high as oil prices fall below $100",
-            "A Rejuvenated AI Trade May Not Be Enough to Save the Stock Market",
-            "3 Reasons FSS Has Explosive Upside Potential",
-            "CBL Gains More than 77% in a Year: What's Driving the Stock?",
-            "Realty Income Has Outperformed the S&P 500 in 11 of 13 Stock Market Corrections Since 1994. Here's Why I'd Hold It Forever."
+            "Stock market today: Dow slips, Nasdaq drifts higher as oil falls, AI trade powers market",
+            "Stock market today: Nasdaq surges 2% to record high, Dow and S&P 500 gain as chip stocks rally, oil  falls",
+            "Update: US Equity Indexes Mixed in Midday Trading",
+            "3 Reasons Investors Watch Skyward Specialty Insurance (SKWD)",
+            "Update: Equities Mixed Intraday as Oil Prices Fluctuate",
+            "3 Reasons MBUU is Risky and 1 Stock to Buy Instead",
+            "Goldman Sachs Just Raised the Bar for S&P 500",
+            "If a Stock Market Crash Happens, History Says This Is How Long It Could Take Investors to Recover",
+            "2 Reasons to Sell SPGI and 1 Stock to Buy Instead",
+            "Was Moderna Stock's Cancer Vaccine Run Visible In Advance?"
           ]
         }
       },
