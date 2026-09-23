@@ -2432,6 +2432,45 @@
       },
       "exit": null,
       "fomo": null
+    },
+    {
+      "id": 25,
+      "status": "open",
+      "entry": {
+        "date": "2026-09-23",
+        "time": "15:55 PST",
+        "ticker": "FAS",
+        "name": "DIREXION SHARES ETF TRUST DAILY FINANCIAL",
+        "sector": "Unknown",
+        "type": "PUT",
+        "strike": 145.0,
+        "expiration": "2026-09-25",
+        "dte_at_entry": 2,
+        "T_at_entry": 0.005479,
+        "stock_price_at_entry": 152.5,
+        "premium": 0.7,
+        "cost": 70.0,
+        "bid": null,
+        "spread": null,
+        "iv_at_entry": 0.5791,
+        "otm_pct": 4.92,
+        "expected_move": {
+          "one_sigma_pct": 4.29,
+          "upper": 159.04,
+          "lower": 145.96,
+          "strike_position": "at_edge"
+        },
+        "signal_rank": "dollar_loser_1",
+        "signal_pct": -6.5,
+        "signal_dollar": -10.61,
+        "spy_change": NaN,
+        "macro_active": false,
+        "macro_keywords": [],
+        "auto_note": "FAS PUT | $-10.61 (-6.50%) | dollar_loser_1 | Strike $145.0 exp 2026-09-25 (2DTE) | IV 57.9% | SPY +nan% | No macro triggers"
+      },
+      "news_scan": null,
+      "exit": null,
+      "fomo": null
     }
   ]
 }
