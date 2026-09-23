@@ -1248,29 +1248,28 @@
         "auto_note": "ALAB CALL | $+27.58 (+9.75%) | dollar_gainer_1 | Strike $390.0 exp 2026-09-11 (6DTE) | IV 88.2% | SPY +nan% | MACRO: rate hike, war"
       },
       "news_scan": {
-        "scanned_at": "2026-09-22 18:11:18 PST",
-        "gap_days": 17,
+        "scanned_at": "2026-09-23 17:54:02 PST",
+        "gap_days": 18,
         "ticker_sentiment": "bearish",
-        "spy_sentiment": "bearish",
+        "spy_sentiment": "neutral",
         "spx_sentiment": "neutral",
         "keywords_found": [
           "weak"
         ],
         "spy_keywords": [
-          "jumps",
-          "falls",
-          "drops",
-          "tumbles"
-        ],
-        "spx_keywords": [
           "surge",
-          "falls"
+          "breakthrough",
+          "falls",
+          "drops"
         ],
+        "spx_keywords": [],
         "decision": "sell",
         "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
         "raw_headlines": {
           "ticker": [
+            "Zacks Investment Ideas feature highlights: Astera Labs, SpaceX, Cloudflare, NVIDIA and Meta Platforms",
             "Why Zacks Rank #1 Astera Labs is Primed for Growth",
+            "Broadcom CEO Holds $350B Outlook Strong Amid Calls to Slow Froniter AI Development",
             "Astera Labs Stock Jumped 12% Yesterday. The Street Sees 14% More Upside, Here\u2019s Why.",
             "Tech Stocks Break Out: The Next Leg of the Bull Market",
             "CRDO Down 20.3% in a Month: Is the Weakness an Opportunity?",
@@ -1279,28 +1278,28 @@
             "Astera Labs vs. Qualcomm: Which Semiconductor Stock Is a Better Buy in 2026?"
           ],
           "spy": [
-            "ETF Zoo: 6 Pundits Walk Into a Bar",
-            "Fastly Tumbles 7% as Investor Day Meets Profit Taking; Cloudflare and Akamai Edge Higher",
-            "Pinterest Sinks 5% as Month-Long Slide Deepens; Reddit Slips, Snap Stays Put",
-            "AutoZone Climbs 6% as Profit Beat Offsets Revenue Miss; Advance Auto Parts Rises 6%, O\u2019Reilly Automotive Gains 4%",
-            "SanDisk Jumps 6% as Rosenblatt Starts Coverage at Buy With $2,400 Target; Micron Rises 3%, Seagate Ticks Up",
-            "Trade Desk Falls 4% as Index-Removal Flows Keep Pressure On; Magnite Drops 3%, AppLovin Pulls Back",
-            "Defense Stocks Fall While Oil Slides on Hormuz Reopening Report: Lockheed Martin and RTX Drop 3%, Boeing Dips",
-            "\u201cMarket Has to Chew Through Indigestion\u201d: Analyst Warns of 7000 Dip Before 8150 Target",
-            "Paramount Skydance Rises 4% on 12-State Settlement, Warner Bros. Discovery Holds Flat as $110B Deal Nears Its Close",
-            "Moderna Adds Another 5% and Is Up 500% in 2026. Can MRNA Stock Continue the Melt-Up?"
+            "DraftKings Drops 4% as Prediction-Market Spending Plans Stir Margin Doubts; Flutter Entertainment Slips, Robinhood Ticks Up",
+            "Consumer Lending Stocks Slide While Financials Barely Budge: Upstart and Affirm Drop 4%, SoFi Eases",
+            "Opendoor Slides 5% as Housing Names Fall Together; Zillow and Offerpad Drop 3%",
+            "Two Biotechs Get Beaten Down: Jaguar Health Collapses 59%, Viking Therapeutics Sinks 4%",
+            "Royal Caribbean Group Falls 5% on $3B Sandals Resorts Stake; Carnival and Norwegian Slide 3%",
+            "Fastly Just Ripped 138% This Year but It\u2019s Now Falling. Is It Time to Sell?",
+            "Intel Skyrocketed 30% Higher in 1 Month: Here\u2019s What to Do Now",
+            "Exchange-Traded Funds Lower, Equity Futures Mixed Pre-Bell Wednesday as Traders Await Developments in US-Iran Talks",
+            "Alibaba Falls 4% as Reported Beijing AI Probe Undercuts Chip Rally; Baidu Eases, JD.com Dips",
+            "IonQ Surges 11% as NVIDIA Research Center Deal Follows Error-Decoder Breakthrough; D-Wave Climbs 5%, Rigetti Rises 4%"
           ],
           "spx": [
-            "Stock market today: Dow slips, Nasdaq drifts higher as oil falls, AI trade powers market",
-            "Stock market today: Nasdaq surges 2% to record high, Dow and S&P 500 gain as chip stocks rally, oil  falls",
-            "Update: US Equity Indexes Mixed in Midday Trading",
-            "3 Reasons Investors Watch Skyward Specialty Insurance (SKWD)",
-            "Update: Equities Mixed Intraday as Oil Prices Fluctuate",
-            "3 Reasons MBUU is Risky and 1 Stock to Buy Instead",
-            "Goldman Sachs Just Raised the Bar for S&P 500",
-            "If a Stock Market Crash Happens, History Says This Is How Long It Could Take Investors to Recover",
-            "2 Reasons to Sell SPGI and 1 Stock to Buy Instead",
-            "Was Moderna Stock's Cancer Vaccine Run Visible In Advance?"
+            "Looking for consumer and investor sentiment trends? Turn to social media.",
+            "Where to find 'relative value' outside of US equities",
+            "The Economy Is Booming, So the Market Indexes Fell. Go Figure.",
+            "Vanguard S&P 500 ETF Long-Term Outlook: What History Tells Investors",
+            "Ryan Specialty Shares Gain 9% in 3 Months: What's Driving the Rally?",
+            "Stock Market Midday, Sept. 23: Stocks Slip as Treasury Yields Hit 19-Year High",
+            "Stock Market Today: Dow Off 300; These Software Firms Are Beating Alphabet (Live Coverage)",
+            "This ETF Is Up 20% in 2026. Here's Why It Could Have More Room to Run.",
+            "US Equity Indexes Fall in Midday Trading",
+            "Did UnitedHealth Name The Fix Before Its Stock Ran?"
           ]
         }
       },
@@ -1346,60 +1345,57 @@
         "auto_note": "TSLA PUT | $-22.29 (-5.92%) | dollar_loser_1 | Strike $340.0 exp 2026-09-09 (4DTE) | IV 32.4% | SPY +nan% | MACRO: rate hike, war"
       },
       "news_scan": {
-        "scanned_at": "2026-09-22 18:11:18 PST",
-        "gap_days": 17,
+        "scanned_at": "2026-09-23 17:54:02 PST",
+        "gap_days": 18,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bearish",
+        "spy_sentiment": "neutral",
         "spx_sentiment": "neutral",
         "keywords_found": [],
         "spy_keywords": [
-          "jumps",
-          "falls",
-          "drops",
-          "tumbles"
-        ],
-        "spx_keywords": [
           "surge",
-          "falls"
+          "breakthrough",
+          "falls",
+          "drops"
         ],
-        "decision": "hold",
-        "decision_reason": "neutral keywords confirmed PUT thesis",
+        "spx_keywords": [],
+        "decision": "sell",
+        "decision_reason": "no confirmation for PUT thesis \u2014 sell at open",
         "raw_headlines": {
           "ticker": [
-            "How to organize AI governance: Is it a job for the pope?",
-            "Robotaxi competition revs up, weighing on Uber and Lyft stocks",
-            "Tesla (TSLA) Heads To Civil Rights Trial After Record 580 Megawatt Battery Dispatch",
-            "Elon Musk's X adds Bitcoin trading links as crypto push expands",
-            "CME Group to Launch Bitcoin Cash and Uniswap Futures",
-            "Wall Street Loves This EV Stock. Here's Why I'm Not Buying.",
-            "Bitcoin News: X Launches Cashtag Partner Program",
-            "Robotaxi competition revs up as Uber makes $10B investment in autonomous vehicles",
-            "Goldman, Morgan Stanley Ride $17.2B China Tech Boom as AI Truce Odds Sit at 10%",
-            "Tesla Stock Is Up. Elon Musk\u2019s EV Maker Is Investment Grade."
+            "Is Tesla's evaluation based on pure faith or on hoping for the best?",
+            "Paramount Weighs A Musk Check As The Warner Deal Nears Finish Line, Says Report",
+            "I Speculated That Stanley Druckenmiller's Tesla Buy Was About FSD. Billionaire Investor Ron Baron Just Confirmed My Thesis.",
+            "Did Trump Snub Ford? The Stock Dips Ahead of Dinner With Xi.",
+            "What If Elon Musk Built a Low-Cost Energy Grid?",
+            "Uber: Insider Buying and Selling Activity to Watch Amid Panic After Tesla Cybercab Rollout",
+            "Trump\u2019s State Dinner Makes Strange Bedfellows of Tesla\u2019s Elon Musk and GM\u2019s Mary Barra",
+            "Elon Musk Just Said \"Dario Is Right\" About Slowing AI Development. Here's What That Endorsement Could Mean for Tesla's and xAI's AI Road Maps.",
+            "Elon Musk Says Tesla Has Offered FSD to Legacy Automakers, but \u2018None\u2019 Have Accepted So Far",
+            "Musk Praises Xi, Chinese AI Models Ahead Of U.S. State Visit: 'A Great Leader'"
           ],
           "spy": [
-            "ETF Zoo: 6 Pundits Walk Into a Bar",
-            "Fastly Tumbles 7% as Investor Day Meets Profit Taking; Cloudflare and Akamai Edge Higher",
-            "Pinterest Sinks 5% as Month-Long Slide Deepens; Reddit Slips, Snap Stays Put",
-            "AutoZone Climbs 6% as Profit Beat Offsets Revenue Miss; Advance Auto Parts Rises 6%, O\u2019Reilly Automotive Gains 4%",
-            "SanDisk Jumps 6% as Rosenblatt Starts Coverage at Buy With $2,400 Target; Micron Rises 3%, Seagate Ticks Up",
-            "Trade Desk Falls 4% as Index-Removal Flows Keep Pressure On; Magnite Drops 3%, AppLovin Pulls Back",
-            "Defense Stocks Fall While Oil Slides on Hormuz Reopening Report: Lockheed Martin and RTX Drop 3%, Boeing Dips",
-            "\u201cMarket Has to Chew Through Indigestion\u201d: Analyst Warns of 7000 Dip Before 8150 Target",
-            "Paramount Skydance Rises 4% on 12-State Settlement, Warner Bros. Discovery Holds Flat as $110B Deal Nears Its Close",
-            "Moderna Adds Another 5% and Is Up 500% in 2026. Can MRNA Stock Continue the Melt-Up?"
+            "DraftKings Drops 4% as Prediction-Market Spending Plans Stir Margin Doubts; Flutter Entertainment Slips, Robinhood Ticks Up",
+            "Consumer Lending Stocks Slide While Financials Barely Budge: Upstart and Affirm Drop 4%, SoFi Eases",
+            "Opendoor Slides 5% as Housing Names Fall Together; Zillow and Offerpad Drop 3%",
+            "Two Biotechs Get Beaten Down: Jaguar Health Collapses 59%, Viking Therapeutics Sinks 4%",
+            "Royal Caribbean Group Falls 5% on $3B Sandals Resorts Stake; Carnival and Norwegian Slide 3%",
+            "Fastly Just Ripped 138% This Year but It\u2019s Now Falling. Is It Time to Sell?",
+            "Intel Skyrocketed 30% Higher in 1 Month: Here\u2019s What to Do Now",
+            "Exchange-Traded Funds Lower, Equity Futures Mixed Pre-Bell Wednesday as Traders Await Developments in US-Iran Talks",
+            "Alibaba Falls 4% as Reported Beijing AI Probe Undercuts Chip Rally; Baidu Eases, JD.com Dips",
+            "IonQ Surges 11% as NVIDIA Research Center Deal Follows Error-Decoder Breakthrough; D-Wave Climbs 5%, Rigetti Rises 4%"
           ],
           "spx": [
-            "Stock market today: Dow slips, Nasdaq drifts higher as oil falls, AI trade powers market",
-            "Stock market today: Nasdaq surges 2% to record high, Dow and S&P 500 gain as chip stocks rally, oil  falls",
-            "Update: US Equity Indexes Mixed in Midday Trading",
-            "3 Reasons Investors Watch Skyward Specialty Insurance (SKWD)",
-            "Update: Equities Mixed Intraday as Oil Prices Fluctuate",
-            "3 Reasons MBUU is Risky and 1 Stock to Buy Instead",
-            "Goldman Sachs Just Raised the Bar for S&P 500",
-            "If a Stock Market Crash Happens, History Says This Is How Long It Could Take Investors to Recover",
-            "2 Reasons to Sell SPGI and 1 Stock to Buy Instead",
-            "Was Moderna Stock's Cancer Vaccine Run Visible In Advance?"
+            "Looking for consumer and investor sentiment trends? Turn to social media.",
+            "Where to find 'relative value' outside of US equities",
+            "The Economy Is Booming, So the Market Indexes Fell. Go Figure.",
+            "Vanguard S&P 500 ETF Long-Term Outlook: What History Tells Investors",
+            "Ryan Specialty Shares Gain 9% in 3 Months: What's Driving the Rally?",
+            "Stock Market Midday, Sept. 23: Stocks Slip as Treasury Yields Hit 19-Year High",
+            "Stock Market Today: Dow Off 300; These Software Firms Are Beating Alphabet (Live Coverage)",
+            "This ETF Is Up 20% in 2026. Here's Why It Could Have More Room to Run.",
+            "US Equity Indexes Fall in Midday Trading",
+            "Did UnitedHealth Name The Fix Before Its Stock Ran?"
           ]
         }
       },
@@ -1442,56 +1438,54 @@
         "auto_note": "DDOG CALL | $+15.04 (+7.15%) | dollar_gainer_1 | Strike $240.0 exp 2026-09-11 (1DTE) | IV 68.4% | SPY +nan% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-09-22 18:11:18 PST",
-        "gap_days": 12,
+        "scanned_at": "2026-09-23 17:54:02 PST",
+        "gap_days": 13,
         "ticker_sentiment": "bullish",
-        "spy_sentiment": "bearish",
+        "spy_sentiment": "neutral",
         "spx_sentiment": "neutral",
         "keywords_found": [
           "soars"
         ],
         "spy_keywords": [
-          "jumps",
-          "falls",
-          "drops",
-          "tumbles"
-        ],
-        "spx_keywords": [
           "surge",
-          "falls"
+          "breakthrough",
+          "falls",
+          "drops"
         ],
+        "spx_keywords": [],
         "decision": "hold",
         "decision_reason": "bullish keywords confirmed CALL thesis",
         "raw_headlines": {
           "ticker": [
+            "Fastly Just Ripped 138% This Year but It\u2019s Now Falling. Is It Time to Sell?",
             "Fortinet vs. Datadog: Which Cloud Security Stock Has Better Potential?",
             "Twilio, Datadog, Unity, Zscaler, and Elastic Shares Skyrocket, What You Need To Know",
             "Fastly Soars 14% on AI Firewall Launch; Cloudflare Climbs 7%, Datadog Rises 5%",
             "1 S&P 500 Stock for Long-Term Investors and 2 We Find Risky"
           ],
           "spy": [
-            "ETF Zoo: 6 Pundits Walk Into a Bar",
-            "Fastly Tumbles 7% as Investor Day Meets Profit Taking; Cloudflare and Akamai Edge Higher",
-            "Pinterest Sinks 5% as Month-Long Slide Deepens; Reddit Slips, Snap Stays Put",
-            "AutoZone Climbs 6% as Profit Beat Offsets Revenue Miss; Advance Auto Parts Rises 6%, O\u2019Reilly Automotive Gains 4%",
-            "SanDisk Jumps 6% as Rosenblatt Starts Coverage at Buy With $2,400 Target; Micron Rises 3%, Seagate Ticks Up",
-            "Trade Desk Falls 4% as Index-Removal Flows Keep Pressure On; Magnite Drops 3%, AppLovin Pulls Back",
-            "Defense Stocks Fall While Oil Slides on Hormuz Reopening Report: Lockheed Martin and RTX Drop 3%, Boeing Dips",
-            "\u201cMarket Has to Chew Through Indigestion\u201d: Analyst Warns of 7000 Dip Before 8150 Target",
-            "Paramount Skydance Rises 4% on 12-State Settlement, Warner Bros. Discovery Holds Flat as $110B Deal Nears Its Close",
-            "Moderna Adds Another 5% and Is Up 500% in 2026. Can MRNA Stock Continue the Melt-Up?"
+            "DraftKings Drops 4% as Prediction-Market Spending Plans Stir Margin Doubts; Flutter Entertainment Slips, Robinhood Ticks Up",
+            "Consumer Lending Stocks Slide While Financials Barely Budge: Upstart and Affirm Drop 4%, SoFi Eases",
+            "Opendoor Slides 5% as Housing Names Fall Together; Zillow and Offerpad Drop 3%",
+            "Two Biotechs Get Beaten Down: Jaguar Health Collapses 59%, Viking Therapeutics Sinks 4%",
+            "Royal Caribbean Group Falls 5% on $3B Sandals Resorts Stake; Carnival and Norwegian Slide 3%",
+            "Fastly Just Ripped 138% This Year but It\u2019s Now Falling. Is It Time to Sell?",
+            "Intel Skyrocketed 30% Higher in 1 Month: Here\u2019s What to Do Now",
+            "Exchange-Traded Funds Lower, Equity Futures Mixed Pre-Bell Wednesday as Traders Await Developments in US-Iran Talks",
+            "Alibaba Falls 4% as Reported Beijing AI Probe Undercuts Chip Rally; Baidu Eases, JD.com Dips",
+            "IonQ Surges 11% as NVIDIA Research Center Deal Follows Error-Decoder Breakthrough; D-Wave Climbs 5%, Rigetti Rises 4%"
           ],
           "spx": [
-            "Stock market today: Dow slips, Nasdaq drifts higher as oil falls, AI trade powers market",
-            "Stock market today: Nasdaq surges 2% to record high, Dow and S&P 500 gain as chip stocks rally, oil  falls",
-            "Update: US Equity Indexes Mixed in Midday Trading",
-            "3 Reasons Investors Watch Skyward Specialty Insurance (SKWD)",
-            "Update: Equities Mixed Intraday as Oil Prices Fluctuate",
-            "3 Reasons MBUU is Risky and 1 Stock to Buy Instead",
-            "Goldman Sachs Just Raised the Bar for S&P 500",
-            "If a Stock Market Crash Happens, History Says This Is How Long It Could Take Investors to Recover",
-            "2 Reasons to Sell SPGI and 1 Stock to Buy Instead",
-            "Was Moderna Stock's Cancer Vaccine Run Visible In Advance?"
+            "Looking for consumer and investor sentiment trends? Turn to social media.",
+            "Where to find 'relative value' outside of US equities",
+            "The Economy Is Booming, So the Market Indexes Fell. Go Figure.",
+            "Vanguard S&P 500 ETF Long-Term Outlook: What History Tells Investors",
+            "Ryan Specialty Shares Gain 9% in 3 Months: What's Driving the Rally?",
+            "Stock Market Midday, Sept. 23: Stocks Slip as Treasury Yields Hit 19-Year High",
+            "Stock Market Today: Dow Off 300; These Software Firms Are Beating Alphabet (Live Coverage)",
+            "This ETF Is Up 20% in 2026. Here's Why It Could Have More Room to Run.",
+            "US Equity Indexes Fall in Midday Trading",
+            "Did UnitedHealth Name The Fix Before Its Stock Ran?"
           ]
         }
       },
@@ -1537,49 +1531,46 @@
         "auto_note": "RGTZ CALL | $+14.18 (+402.84%) | dollar_gainer_1 | Strike $8.0 exp 2026-09-18 (7DTE) | IV 0.0% | SPY +nan% | MACRO: rate hike, china"
       },
       "news_scan": {
-        "scanned_at": "2026-09-22 18:11:18 PST",
-        "gap_days": 11,
+        "scanned_at": "2026-09-23 17:54:02 PST",
+        "gap_days": 12,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bearish",
+        "spy_sentiment": "neutral",
         "spx_sentiment": "neutral",
         "keywords_found": [],
         "spy_keywords": [
-          "jumps",
-          "falls",
-          "drops",
-          "tumbles"
-        ],
-        "spx_keywords": [
           "surge",
-          "falls"
+          "breakthrough",
+          "falls",
+          "drops"
         ],
+        "spx_keywords": [],
         "decision": "sell",
         "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
         "raw_headlines": {
           "ticker": [],
           "spy": [
-            "ETF Zoo: 6 Pundits Walk Into a Bar",
-            "Fastly Tumbles 7% as Investor Day Meets Profit Taking; Cloudflare and Akamai Edge Higher",
-            "Pinterest Sinks 5% as Month-Long Slide Deepens; Reddit Slips, Snap Stays Put",
-            "AutoZone Climbs 6% as Profit Beat Offsets Revenue Miss; Advance Auto Parts Rises 6%, O\u2019Reilly Automotive Gains 4%",
-            "SanDisk Jumps 6% as Rosenblatt Starts Coverage at Buy With $2,400 Target; Micron Rises 3%, Seagate Ticks Up",
-            "Trade Desk Falls 4% as Index-Removal Flows Keep Pressure On; Magnite Drops 3%, AppLovin Pulls Back",
-            "Defense Stocks Fall While Oil Slides on Hormuz Reopening Report: Lockheed Martin and RTX Drop 3%, Boeing Dips",
-            "\u201cMarket Has to Chew Through Indigestion\u201d: Analyst Warns of 7000 Dip Before 8150 Target",
-            "Paramount Skydance Rises 4% on 12-State Settlement, Warner Bros. Discovery Holds Flat as $110B Deal Nears Its Close",
-            "Moderna Adds Another 5% and Is Up 500% in 2026. Can MRNA Stock Continue the Melt-Up?"
+            "DraftKings Drops 4% as Prediction-Market Spending Plans Stir Margin Doubts; Flutter Entertainment Slips, Robinhood Ticks Up",
+            "Consumer Lending Stocks Slide While Financials Barely Budge: Upstart and Affirm Drop 4%, SoFi Eases",
+            "Opendoor Slides 5% as Housing Names Fall Together; Zillow and Offerpad Drop 3%",
+            "Two Biotechs Get Beaten Down: Jaguar Health Collapses 59%, Viking Therapeutics Sinks 4%",
+            "Royal Caribbean Group Falls 5% on $3B Sandals Resorts Stake; Carnival and Norwegian Slide 3%",
+            "Fastly Just Ripped 138% This Year but It\u2019s Now Falling. Is It Time to Sell?",
+            "Intel Skyrocketed 30% Higher in 1 Month: Here\u2019s What to Do Now",
+            "Exchange-Traded Funds Lower, Equity Futures Mixed Pre-Bell Wednesday as Traders Await Developments in US-Iran Talks",
+            "Alibaba Falls 4% as Reported Beijing AI Probe Undercuts Chip Rally; Baidu Eases, JD.com Dips",
+            "IonQ Surges 11% as NVIDIA Research Center Deal Follows Error-Decoder Breakthrough; D-Wave Climbs 5%, Rigetti Rises 4%"
           ],
           "spx": [
-            "Stock market today: Dow slips, Nasdaq drifts higher as oil falls, AI trade powers market",
-            "Stock market today: Nasdaq surges 2% to record high, Dow and S&P 500 gain as chip stocks rally, oil  falls",
-            "Update: US Equity Indexes Mixed in Midday Trading",
-            "3 Reasons Investors Watch Skyward Specialty Insurance (SKWD)",
-            "Update: Equities Mixed Intraday as Oil Prices Fluctuate",
-            "3 Reasons MBUU is Risky and 1 Stock to Buy Instead",
-            "Goldman Sachs Just Raised the Bar for S&P 500",
-            "If a Stock Market Crash Happens, History Says This Is How Long It Could Take Investors to Recover",
-            "2 Reasons to Sell SPGI and 1 Stock to Buy Instead",
-            "Was Moderna Stock's Cancer Vaccine Run Visible In Advance?"
+            "Looking for consumer and investor sentiment trends? Turn to social media.",
+            "Where to find 'relative value' outside of US equities",
+            "The Economy Is Booming, So the Market Indexes Fell. Go Figure.",
+            "Vanguard S&P 500 ETF Long-Term Outlook: What History Tells Investors",
+            "Ryan Specialty Shares Gain 9% in 3 Months: What's Driving the Rally?",
+            "Stock Market Midday, Sept. 23: Stocks Slip as Treasury Yields Hit 19-Year High",
+            "Stock Market Today: Dow Off 300; These Software Firms Are Beating Alphabet (Live Coverage)",
+            "This ETF Is Up 20% in 2026. Here's Why It Could Have More Room to Run.",
+            "US Equity Indexes Fall in Midday Trading",
+            "Did UnitedHealth Name The Fix Before Its Stock Ran?"
           ]
         }
       },
@@ -1624,26 +1615,26 @@
         "auto_note": "VICR CALL | $+19.86 (+11.15%) | dollar_gainer_1 | Strike $240.0 exp 2026-09-18 (6DTE) | IV 86.0% | SPY +nan% | MACRO: fed"
       },
       "news_scan": {
-        "scanned_at": "2026-09-22 18:11:18 PST",
-        "gap_days": 10,
+        "scanned_at": "2026-09-23 17:54:02 PST",
+        "gap_days": 11,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bearish",
+        "spy_sentiment": "neutral",
         "spx_sentiment": "neutral",
         "keywords_found": [],
         "spy_keywords": [
-          "jumps",
-          "falls",
-          "drops",
-          "tumbles"
-        ],
-        "spx_keywords": [
           "surge",
-          "falls"
+          "breakthrough",
+          "falls",
+          "drops"
         ],
+        "spx_keywords": [],
         "decision": "sell",
         "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
         "raw_headlines": {
           "ticker": [
+            "Vicor Stock Jumped 20% in a Day After a Guidance Raise. Here\u2019s Where It Could Go",
+            "Company News for Sep 23, 2026",
+            "Is Vicor Stock Worth Buying Before Its Second Fab Exists?",
             "This Power Parts Maker\u2019s Stock Has Gained 366% in 2026. It\u2019s Rising Again Today on Boost to Growth Guidance.",
             "Earnings Estimates Rising for Vicor (VICR): Will It Gain?",
             "How Much Upside is Left in Vicor (VICR)? Wall Street Analysts Think 60.61%",
@@ -1653,28 +1644,28 @@
             "Vicor Shares Moved Higher on a New AI Processing Deal. How Investors Should View the News."
           ],
           "spy": [
-            "ETF Zoo: 6 Pundits Walk Into a Bar",
-            "Fastly Tumbles 7% as Investor Day Meets Profit Taking; Cloudflare and Akamai Edge Higher",
-            "Pinterest Sinks 5% as Month-Long Slide Deepens; Reddit Slips, Snap Stays Put",
-            "AutoZone Climbs 6% as Profit Beat Offsets Revenue Miss; Advance Auto Parts Rises 6%, O\u2019Reilly Automotive Gains 4%",
-            "SanDisk Jumps 6% as Rosenblatt Starts Coverage at Buy With $2,400 Target; Micron Rises 3%, Seagate Ticks Up",
-            "Trade Desk Falls 4% as Index-Removal Flows Keep Pressure On; Magnite Drops 3%, AppLovin Pulls Back",
-            "Defense Stocks Fall While Oil Slides on Hormuz Reopening Report: Lockheed Martin and RTX Drop 3%, Boeing Dips",
-            "\u201cMarket Has to Chew Through Indigestion\u201d: Analyst Warns of 7000 Dip Before 8150 Target",
-            "Paramount Skydance Rises 4% on 12-State Settlement, Warner Bros. Discovery Holds Flat as $110B Deal Nears Its Close",
-            "Moderna Adds Another 5% and Is Up 500% in 2026. Can MRNA Stock Continue the Melt-Up?"
+            "DraftKings Drops 4% as Prediction-Market Spending Plans Stir Margin Doubts; Flutter Entertainment Slips, Robinhood Ticks Up",
+            "Consumer Lending Stocks Slide While Financials Barely Budge: Upstart and Affirm Drop 4%, SoFi Eases",
+            "Opendoor Slides 5% as Housing Names Fall Together; Zillow and Offerpad Drop 3%",
+            "Two Biotechs Get Beaten Down: Jaguar Health Collapses 59%, Viking Therapeutics Sinks 4%",
+            "Royal Caribbean Group Falls 5% on $3B Sandals Resorts Stake; Carnival and Norwegian Slide 3%",
+            "Fastly Just Ripped 138% This Year but It\u2019s Now Falling. Is It Time to Sell?",
+            "Intel Skyrocketed 30% Higher in 1 Month: Here\u2019s What to Do Now",
+            "Exchange-Traded Funds Lower, Equity Futures Mixed Pre-Bell Wednesday as Traders Await Developments in US-Iran Talks",
+            "Alibaba Falls 4% as Reported Beijing AI Probe Undercuts Chip Rally; Baidu Eases, JD.com Dips",
+            "IonQ Surges 11% as NVIDIA Research Center Deal Follows Error-Decoder Breakthrough; D-Wave Climbs 5%, Rigetti Rises 4%"
           ],
           "spx": [
-            "Stock market today: Dow slips, Nasdaq drifts higher as oil falls, AI trade powers market",
-            "Stock market today: Nasdaq surges 2% to record high, Dow and S&P 500 gain as chip stocks rally, oil  falls",
-            "Update: US Equity Indexes Mixed in Midday Trading",
-            "3 Reasons Investors Watch Skyward Specialty Insurance (SKWD)",
-            "Update: Equities Mixed Intraday as Oil Prices Fluctuate",
-            "3 Reasons MBUU is Risky and 1 Stock to Buy Instead",
-            "Goldman Sachs Just Raised the Bar for S&P 500",
-            "If a Stock Market Crash Happens, History Says This Is How Long It Could Take Investors to Recover",
-            "2 Reasons to Sell SPGI and 1 Stock to Buy Instead",
-            "Was Moderna Stock's Cancer Vaccine Run Visible In Advance?"
+            "Looking for consumer and investor sentiment trends? Turn to social media.",
+            "Where to find 'relative value' outside of US equities",
+            "The Economy Is Booming, So the Market Indexes Fell. Go Figure.",
+            "Vanguard S&P 500 ETF Long-Term Outlook: What History Tells Investors",
+            "Ryan Specialty Shares Gain 9% in 3 Months: What's Driving the Rally?",
+            "Stock Market Midday, Sept. 23: Stocks Slip as Treasury Yields Hit 19-Year High",
+            "Stock Market Today: Dow Off 300; These Software Firms Are Beating Alphabet (Live Coverage)",
+            "This ETF Is Up 20% in 2026. Here's Why It Could Have More Room to Run.",
+            "US Equity Indexes Fall in Midday Trading",
+            "Did UnitedHealth Name The Fix Before Its Stock Ran?"
           ]
         }
       },
@@ -1719,53 +1710,51 @@
         "auto_note": "LEU PUT | $-13.56 (-8.18%) | dollar_loser_1 | Strike $135.0 exp 2026-09-18 (6DTE) | IV 56.5% | SPY +nan% | MACRO: fed"
       },
       "news_scan": {
-        "scanned_at": "2026-09-22 18:11:18 PST",
-        "gap_days": 10,
+        "scanned_at": "2026-09-23 17:54:02 PST",
+        "gap_days": 11,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bearish",
+        "spy_sentiment": "neutral",
         "spx_sentiment": "neutral",
         "keywords_found": [],
         "spy_keywords": [
-          "jumps",
-          "falls",
-          "drops",
-          "tumbles"
-        ],
-        "spx_keywords": [
           "surge",
-          "falls"
+          "breakthrough",
+          "falls",
+          "drops"
         ],
-        "decision": "hold",
-        "decision_reason": "neutral keywords confirmed PUT thesis",
+        "spx_keywords": [],
+        "decision": "sell",
+        "decision_reason": "no confirmation for PUT thesis \u2014 sell at open",
         "raw_headlines": {
           "ticker": [
+            "Nuclear Energy Stocks Rally as Demand for Reliable Clean Power Grows",
+            "Q2 Earnings Outperformers: Centrus Energy (NYSE:LEU) And The Rest Of The Mixed or Offshore Upstream E&P Stocks",
             "1 Small-Cap Stock with Exciting Potential and 2 We Find Risky",
-            "A Safer Way to Bet on Nuclear",
-            "Centrus Energy (LEU) Lands New HALEU Deal with Antares"
+            "A Safer Way to Bet on Nuclear"
           ],
           "spy": [
-            "ETF Zoo: 6 Pundits Walk Into a Bar",
-            "Fastly Tumbles 7% as Investor Day Meets Profit Taking; Cloudflare and Akamai Edge Higher",
-            "Pinterest Sinks 5% as Month-Long Slide Deepens; Reddit Slips, Snap Stays Put",
-            "AutoZone Climbs 6% as Profit Beat Offsets Revenue Miss; Advance Auto Parts Rises 6%, O\u2019Reilly Automotive Gains 4%",
-            "SanDisk Jumps 6% as Rosenblatt Starts Coverage at Buy With $2,400 Target; Micron Rises 3%, Seagate Ticks Up",
-            "Trade Desk Falls 4% as Index-Removal Flows Keep Pressure On; Magnite Drops 3%, AppLovin Pulls Back",
-            "Defense Stocks Fall While Oil Slides on Hormuz Reopening Report: Lockheed Martin and RTX Drop 3%, Boeing Dips",
-            "\u201cMarket Has to Chew Through Indigestion\u201d: Analyst Warns of 7000 Dip Before 8150 Target",
-            "Paramount Skydance Rises 4% on 12-State Settlement, Warner Bros. Discovery Holds Flat as $110B Deal Nears Its Close",
-            "Moderna Adds Another 5% and Is Up 500% in 2026. Can MRNA Stock Continue the Melt-Up?"
+            "DraftKings Drops 4% as Prediction-Market Spending Plans Stir Margin Doubts; Flutter Entertainment Slips, Robinhood Ticks Up",
+            "Consumer Lending Stocks Slide While Financials Barely Budge: Upstart and Affirm Drop 4%, SoFi Eases",
+            "Opendoor Slides 5% as Housing Names Fall Together; Zillow and Offerpad Drop 3%",
+            "Two Biotechs Get Beaten Down: Jaguar Health Collapses 59%, Viking Therapeutics Sinks 4%",
+            "Royal Caribbean Group Falls 5% on $3B Sandals Resorts Stake; Carnival and Norwegian Slide 3%",
+            "Fastly Just Ripped 138% This Year but It\u2019s Now Falling. Is It Time to Sell?",
+            "Intel Skyrocketed 30% Higher in 1 Month: Here\u2019s What to Do Now",
+            "Exchange-Traded Funds Lower, Equity Futures Mixed Pre-Bell Wednesday as Traders Await Developments in US-Iran Talks",
+            "Alibaba Falls 4% as Reported Beijing AI Probe Undercuts Chip Rally; Baidu Eases, JD.com Dips",
+            "IonQ Surges 11% as NVIDIA Research Center Deal Follows Error-Decoder Breakthrough; D-Wave Climbs 5%, Rigetti Rises 4%"
           ],
           "spx": [
-            "Stock market today: Dow slips, Nasdaq drifts higher as oil falls, AI trade powers market",
-            "Stock market today: Nasdaq surges 2% to record high, Dow and S&P 500 gain as chip stocks rally, oil  falls",
-            "Update: US Equity Indexes Mixed in Midday Trading",
-            "3 Reasons Investors Watch Skyward Specialty Insurance (SKWD)",
-            "Update: Equities Mixed Intraday as Oil Prices Fluctuate",
-            "3 Reasons MBUU is Risky and 1 Stock to Buy Instead",
-            "Goldman Sachs Just Raised the Bar for S&P 500",
-            "If a Stock Market Crash Happens, History Says This Is How Long It Could Take Investors to Recover",
-            "2 Reasons to Sell SPGI and 1 Stock to Buy Instead",
-            "Was Moderna Stock's Cancer Vaccine Run Visible In Advance?"
+            "Looking for consumer and investor sentiment trends? Turn to social media.",
+            "Where to find 'relative value' outside of US equities",
+            "The Economy Is Booming, So the Market Indexes Fell. Go Figure.",
+            "Vanguard S&P 500 ETF Long-Term Outlook: What History Tells Investors",
+            "Ryan Specialty Shares Gain 9% in 3 Months: What's Driving the Rally?",
+            "Stock Market Midday, Sept. 23: Stocks Slip as Treasury Yields Hit 19-Year High",
+            "Stock Market Today: Dow Off 300; These Software Firms Are Beating Alphabet (Live Coverage)",
+            "This ETF Is Up 20% in 2026. Here's Why It Could Have More Room to Run.",
+            "US Equity Indexes Fall in Midday Trading",
+            "Did UnitedHealth Name The Fix Before Its Stock Ran?"
           ]
         }
       },
@@ -1808,64 +1797,62 @@
         "auto_note": "PANW CALL | $+43.29 (+13.09%) | dollar_gainer_1 | Strike $420.0 exp 2026-09-18 (3DTE) | IV 71.1% | SPY +nan% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-09-22 18:11:18 PST",
-        "gap_days": 7,
+        "scanned_at": "2026-09-23 17:54:02 PST",
+        "gap_days": 8,
         "ticker_sentiment": "bearish",
-        "spy_sentiment": "bearish",
+        "spy_sentiment": "neutral",
         "spx_sentiment": "neutral",
         "keywords_found": [
           "jumps",
-          "warning",
+          "downgrade",
+          "downgraded",
           "falls"
         ],
         "spy_keywords": [
-          "jumps",
-          "falls",
-          "drops",
-          "tumbles"
-        ],
-        "spx_keywords": [
           "surge",
-          "falls"
+          "breakthrough",
+          "falls",
+          "drops"
         ],
+        "spx_keywords": [],
         "decision": "sell",
         "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
         "raw_headlines": {
           "ticker": [
-            "These are the cybersecurity stocks built for the AI era",
+            "Stock Market Midday, Sept. 23: Stocks Slip as Treasury Yields Hit 19-Year High",
+            "Cybersecurity Stocks Rally While Large-Cap Tech Slides: CrowdStrike, Palo Alto, Okta, and Palantir Each Gain 4%",
+            "Can Prisma AIRS' $100M ARR Milestone Drive PANW's AI Security Growth?",
+            "Why Palo Alto Networks (PANW) Is Getting Fresh Attention",
+            "Why Bernstein Still Sees 46% Upside in Zscaler (ZS) but Downgraded Palo Alto (PANW)",
+            "What Happens To Cloudflare Stock If Its Growth Cools?",
             "Palo Alto Falls 1.2% as AI Becomes Its Own Penetration Tester",
             "Is CrowdStrike Stock A Buy Today As AI Threats Lift Demand?",
             "Fortinet Stock Jumps on Security Platform Demand: What's Ahead?",
-            "Palo Alto Networks Launches AI-Powered Continuous Security Testing Service",
-            "3 No-Brainer Cybersecurity Stocks to Buy With $1,000 Right Now",
-            "3 U.S. Growth Stocks Facing The Biggest AI Spending Test Right Now",
-            "3 Reasons to Sell PANW and 1 Stock to Buy Instead",
-            "Palo Alto Jumps 2.4% as S&P 100 Meets AI Security Growth",
-            "Cybersecurity Stocks Extend Gains on AI Safety Warnings: CrowdStrike and Okta Rise 4%, Palo Alto Ticks Up"
+            "Palo Alto Networks Launches AI-Powered Continuous Security Testing Service"
           ],
           "spy": [
-            "ETF Zoo: 6 Pundits Walk Into a Bar",
-            "Fastly Tumbles 7% as Investor Day Meets Profit Taking; Cloudflare and Akamai Edge Higher",
-            "Pinterest Sinks 5% as Month-Long Slide Deepens; Reddit Slips, Snap Stays Put",
-            "AutoZone Climbs 6% as Profit Beat Offsets Revenue Miss; Advance Auto Parts Rises 6%, O\u2019Reilly Automotive Gains 4%",
-            "SanDisk Jumps 6% as Rosenblatt Starts Coverage at Buy With $2,400 Target; Micron Rises 3%, Seagate Ticks Up",
-            "Trade Desk Falls 4% as Index-Removal Flows Keep Pressure On; Magnite Drops 3%, AppLovin Pulls Back",
-            "Defense Stocks Fall While Oil Slides on Hormuz Reopening Report: Lockheed Martin and RTX Drop 3%, Boeing Dips",
-            "\u201cMarket Has to Chew Through Indigestion\u201d: Analyst Warns of 7000 Dip Before 8150 Target",
-            "Paramount Skydance Rises 4% on 12-State Settlement, Warner Bros. Discovery Holds Flat as $110B Deal Nears Its Close",
-            "Moderna Adds Another 5% and Is Up 500% in 2026. Can MRNA Stock Continue the Melt-Up?"
+            "DraftKings Drops 4% as Prediction-Market Spending Plans Stir Margin Doubts; Flutter Entertainment Slips, Robinhood Ticks Up",
+            "Consumer Lending Stocks Slide While Financials Barely Budge: Upstart and Affirm Drop 4%, SoFi Eases",
+            "Opendoor Slides 5% as Housing Names Fall Together; Zillow and Offerpad Drop 3%",
+            "Two Biotechs Get Beaten Down: Jaguar Health Collapses 59%, Viking Therapeutics Sinks 4%",
+            "Royal Caribbean Group Falls 5% on $3B Sandals Resorts Stake; Carnival and Norwegian Slide 3%",
+            "Fastly Just Ripped 138% This Year but It\u2019s Now Falling. Is It Time to Sell?",
+            "Intel Skyrocketed 30% Higher in 1 Month: Here\u2019s What to Do Now",
+            "Exchange-Traded Funds Lower, Equity Futures Mixed Pre-Bell Wednesday as Traders Await Developments in US-Iran Talks",
+            "Alibaba Falls 4% as Reported Beijing AI Probe Undercuts Chip Rally; Baidu Eases, JD.com Dips",
+            "IonQ Surges 11% as NVIDIA Research Center Deal Follows Error-Decoder Breakthrough; D-Wave Climbs 5%, Rigetti Rises 4%"
           ],
           "spx": [
-            "Stock market today: Dow slips, Nasdaq drifts higher as oil falls, AI trade powers market",
-            "Stock market today: Nasdaq surges 2% to record high, Dow and S&P 500 gain as chip stocks rally, oil  falls",
-            "Update: US Equity Indexes Mixed in Midday Trading",
-            "3 Reasons Investors Watch Skyward Specialty Insurance (SKWD)",
-            "Update: Equities Mixed Intraday as Oil Prices Fluctuate",
-            "3 Reasons MBUU is Risky and 1 Stock to Buy Instead",
-            "Goldman Sachs Just Raised the Bar for S&P 500",
-            "If a Stock Market Crash Happens, History Says This Is How Long It Could Take Investors to Recover",
-            "2 Reasons to Sell SPGI and 1 Stock to Buy Instead",
-            "Was Moderna Stock's Cancer Vaccine Run Visible In Advance?"
+            "Looking for consumer and investor sentiment trends? Turn to social media.",
+            "Where to find 'relative value' outside of US equities",
+            "The Economy Is Booming, So the Market Indexes Fell. Go Figure.",
+            "Vanguard S&P 500 ETF Long-Term Outlook: What History Tells Investors",
+            "Ryan Specialty Shares Gain 9% in 3 Months: What's Driving the Rally?",
+            "Stock Market Midday, Sept. 23: Stocks Slip as Treasury Yields Hit 19-Year High",
+            "Stock Market Today: Dow Off 300; These Software Firms Are Beating Alphabet (Live Coverage)",
+            "This ETF Is Up 20% in 2026. Here's Why It Could Have More Room to Run.",
+            "US Equity Indexes Fall in Midday Trading",
+            "Did UnitedHealth Name The Fix Before Its Stock Ran?"
           ]
         }
       },
@@ -1908,54 +1895,52 @@
         "auto_note": "TER PUT | $-50.52 (-13.30%) | dollar_loser_1 | Strike $280.0 exp 2026-09-18 (3DTE) | IV 90.0% | SPY +nan% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-09-22 18:11:18 PST",
-        "gap_days": 7,
+        "scanned_at": "2026-09-23 17:54:02 PST",
+        "gap_days": 8,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bearish",
+        "spy_sentiment": "neutral",
         "spx_sentiment": "neutral",
         "keywords_found": [],
         "spy_keywords": [
-          "jumps",
-          "falls",
-          "drops",
-          "tumbles"
-        ],
-        "spx_keywords": [
           "surge",
-          "falls"
+          "breakthrough",
+          "falls",
+          "drops"
         ],
-        "decision": "hold",
-        "decision_reason": "neutral keywords confirmed PUT thesis",
+        "spx_keywords": [],
+        "decision": "sell",
+        "decision_reason": "no confirmation for PUT thesis \u2014 sell at open",
         "raw_headlines": {
           "ticker": [
+            "Power Integrations, Penguin Solutions, Photronics, Amkor, and Teradyne Shares Are Soaring, What You Need To Know",
             "Teradyne Partners With GS Microelectronics On New Semiconductor Test Center \u2014 Targets AI, Silicon Photonics And Auto Chips",
             "Will AI Expansion Drive CEVA's Shares to Further Heights?",
             "AEHR at 18.59X Sales: Market Loves Its AI Story, But is Love Blind?",
             "3 AI Infrastructure Stocks Retail Investors Are Watching As US China Trade Rules Shift"
           ],
           "spy": [
-            "ETF Zoo: 6 Pundits Walk Into a Bar",
-            "Fastly Tumbles 7% as Investor Day Meets Profit Taking; Cloudflare and Akamai Edge Higher",
-            "Pinterest Sinks 5% as Month-Long Slide Deepens; Reddit Slips, Snap Stays Put",
-            "AutoZone Climbs 6% as Profit Beat Offsets Revenue Miss; Advance Auto Parts Rises 6%, O\u2019Reilly Automotive Gains 4%",
-            "SanDisk Jumps 6% as Rosenblatt Starts Coverage at Buy With $2,400 Target; Micron Rises 3%, Seagate Ticks Up",
-            "Trade Desk Falls 4% as Index-Removal Flows Keep Pressure On; Magnite Drops 3%, AppLovin Pulls Back",
-            "Defense Stocks Fall While Oil Slides on Hormuz Reopening Report: Lockheed Martin and RTX Drop 3%, Boeing Dips",
-            "\u201cMarket Has to Chew Through Indigestion\u201d: Analyst Warns of 7000 Dip Before 8150 Target",
-            "Paramount Skydance Rises 4% on 12-State Settlement, Warner Bros. Discovery Holds Flat as $110B Deal Nears Its Close",
-            "Moderna Adds Another 5% and Is Up 500% in 2026. Can MRNA Stock Continue the Melt-Up?"
+            "DraftKings Drops 4% as Prediction-Market Spending Plans Stir Margin Doubts; Flutter Entertainment Slips, Robinhood Ticks Up",
+            "Consumer Lending Stocks Slide While Financials Barely Budge: Upstart and Affirm Drop 4%, SoFi Eases",
+            "Opendoor Slides 5% as Housing Names Fall Together; Zillow and Offerpad Drop 3%",
+            "Two Biotechs Get Beaten Down: Jaguar Health Collapses 59%, Viking Therapeutics Sinks 4%",
+            "Royal Caribbean Group Falls 5% on $3B Sandals Resorts Stake; Carnival and Norwegian Slide 3%",
+            "Fastly Just Ripped 138% This Year but It\u2019s Now Falling. Is It Time to Sell?",
+            "Intel Skyrocketed 30% Higher in 1 Month: Here\u2019s What to Do Now",
+            "Exchange-Traded Funds Lower, Equity Futures Mixed Pre-Bell Wednesday as Traders Await Developments in US-Iran Talks",
+            "Alibaba Falls 4% as Reported Beijing AI Probe Undercuts Chip Rally; Baidu Eases, JD.com Dips",
+            "IonQ Surges 11% as NVIDIA Research Center Deal Follows Error-Decoder Breakthrough; D-Wave Climbs 5%, Rigetti Rises 4%"
           ],
           "spx": [
-            "Stock market today: Dow slips, Nasdaq drifts higher as oil falls, AI trade powers market",
-            "Stock market today: Nasdaq surges 2% to record high, Dow and S&P 500 gain as chip stocks rally, oil  falls",
-            "Update: US Equity Indexes Mixed in Midday Trading",
-            "3 Reasons Investors Watch Skyward Specialty Insurance (SKWD)",
-            "Update: Equities Mixed Intraday as Oil Prices Fluctuate",
-            "3 Reasons MBUU is Risky and 1 Stock to Buy Instead",
-            "Goldman Sachs Just Raised the Bar for S&P 500",
-            "If a Stock Market Crash Happens, History Says This Is How Long It Could Take Investors to Recover",
-            "2 Reasons to Sell SPGI and 1 Stock to Buy Instead",
-            "Was Moderna Stock's Cancer Vaccine Run Visible In Advance?"
+            "Looking for consumer and investor sentiment trends? Turn to social media.",
+            "Where to find 'relative value' outside of US equities",
+            "The Economy Is Booming, So the Market Indexes Fell. Go Figure.",
+            "Vanguard S&P 500 ETF Long-Term Outlook: What History Tells Investors",
+            "Ryan Specialty Shares Gain 9% in 3 Months: What's Driving the Rally?",
+            "Stock Market Midday, Sept. 23: Stocks Slip as Treasury Yields Hit 19-Year High",
+            "Stock Market Today: Dow Off 300; These Software Firms Are Beating Alphabet (Live Coverage)",
+            "This ETF Is Up 20% in 2026. Here's Why It Could Have More Room to Run.",
+            "US Equity Indexes Fall in Midday Trading",
+            "Did UnitedHealth Name The Fix Before Its Stock Ran?"
           ]
         }
       },
@@ -2001,49 +1986,48 @@
         "auto_note": "QLYS CALL | $+12.46 (+7.21%) | dollar_gainer_1 | Strike $210.0 exp 2026-09-18 (2DTE) | IV 78.5% | SPY +nan% | MACRO: fed, rate hike"
       },
       "news_scan": {
-        "scanned_at": "2026-09-22 18:11:18 PST",
-        "gap_days": 6,
+        "scanned_at": "2026-09-23 17:54:02 PST",
+        "gap_days": 7,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bearish",
+        "spy_sentiment": "neutral",
         "spx_sentiment": "neutral",
         "keywords_found": [],
         "spy_keywords": [
-          "jumps",
-          "falls",
-          "drops",
-          "tumbles"
-        ],
-        "spx_keywords": [
           "surge",
-          "falls"
+          "breakthrough",
+          "falls",
+          "drops"
         ],
+        "spx_keywords": [],
         "decision": "sell",
         "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
         "raw_headlines": {
-          "ticker": [],
+          "ticker": [
+            "3 Small-Cap Stocks We Think Twice About"
+          ],
           "spy": [
-            "ETF Zoo: 6 Pundits Walk Into a Bar",
-            "Fastly Tumbles 7% as Investor Day Meets Profit Taking; Cloudflare and Akamai Edge Higher",
-            "Pinterest Sinks 5% as Month-Long Slide Deepens; Reddit Slips, Snap Stays Put",
-            "AutoZone Climbs 6% as Profit Beat Offsets Revenue Miss; Advance Auto Parts Rises 6%, O\u2019Reilly Automotive Gains 4%",
-            "SanDisk Jumps 6% as Rosenblatt Starts Coverage at Buy With $2,400 Target; Micron Rises 3%, Seagate Ticks Up",
-            "Trade Desk Falls 4% as Index-Removal Flows Keep Pressure On; Magnite Drops 3%, AppLovin Pulls Back",
-            "Defense Stocks Fall While Oil Slides on Hormuz Reopening Report: Lockheed Martin and RTX Drop 3%, Boeing Dips",
-            "\u201cMarket Has to Chew Through Indigestion\u201d: Analyst Warns of 7000 Dip Before 8150 Target",
-            "Paramount Skydance Rises 4% on 12-State Settlement, Warner Bros. Discovery Holds Flat as $110B Deal Nears Its Close",
-            "Moderna Adds Another 5% and Is Up 500% in 2026. Can MRNA Stock Continue the Melt-Up?"
+            "DraftKings Drops 4% as Prediction-Market Spending Plans Stir Margin Doubts; Flutter Entertainment Slips, Robinhood Ticks Up",
+            "Consumer Lending Stocks Slide While Financials Barely Budge: Upstart and Affirm Drop 4%, SoFi Eases",
+            "Opendoor Slides 5% as Housing Names Fall Together; Zillow and Offerpad Drop 3%",
+            "Two Biotechs Get Beaten Down: Jaguar Health Collapses 59%, Viking Therapeutics Sinks 4%",
+            "Royal Caribbean Group Falls 5% on $3B Sandals Resorts Stake; Carnival and Norwegian Slide 3%",
+            "Fastly Just Ripped 138% This Year but It\u2019s Now Falling. Is It Time to Sell?",
+            "Intel Skyrocketed 30% Higher in 1 Month: Here\u2019s What to Do Now",
+            "Exchange-Traded Funds Lower, Equity Futures Mixed Pre-Bell Wednesday as Traders Await Developments in US-Iran Talks",
+            "Alibaba Falls 4% as Reported Beijing AI Probe Undercuts Chip Rally; Baidu Eases, JD.com Dips",
+            "IonQ Surges 11% as NVIDIA Research Center Deal Follows Error-Decoder Breakthrough; D-Wave Climbs 5%, Rigetti Rises 4%"
           ],
           "spx": [
-            "Stock market today: Dow slips, Nasdaq drifts higher as oil falls, AI trade powers market",
-            "Stock market today: Nasdaq surges 2% to record high, Dow and S&P 500 gain as chip stocks rally, oil  falls",
-            "Update: US Equity Indexes Mixed in Midday Trading",
-            "3 Reasons Investors Watch Skyward Specialty Insurance (SKWD)",
-            "Update: Equities Mixed Intraday as Oil Prices Fluctuate",
-            "3 Reasons MBUU is Risky and 1 Stock to Buy Instead",
-            "Goldman Sachs Just Raised the Bar for S&P 500",
-            "If a Stock Market Crash Happens, History Says This Is How Long It Could Take Investors to Recover",
-            "2 Reasons to Sell SPGI and 1 Stock to Buy Instead",
-            "Was Moderna Stock's Cancer Vaccine Run Visible In Advance?"
+            "Looking for consumer and investor sentiment trends? Turn to social media.",
+            "Where to find 'relative value' outside of US equities",
+            "The Economy Is Booming, So the Market Indexes Fell. Go Figure.",
+            "Vanguard S&P 500 ETF Long-Term Outlook: What History Tells Investors",
+            "Ryan Specialty Shares Gain 9% in 3 Months: What's Driving the Rally?",
+            "Stock Market Midday, Sept. 23: Stocks Slip as Treasury Yields Hit 19-Year High",
+            "Stock Market Today: Dow Off 300; These Software Firms Are Beating Alphabet (Live Coverage)",
+            "This ETF Is Up 20% in 2026. Here's Why It Could Have More Room to Run.",
+            "US Equity Indexes Fall in Midday Trading",
+            "Did UnitedHealth Name The Fix Before Its Stock Ran?"
           ]
         }
       },
@@ -2089,53 +2073,50 @@
         "auto_note": "AXON PUT | $-48.10 (-9.81%) | dollar_loser_1 | Strike $390.0 exp 2026-09-18 (2DTE) | IV 78.0% | SPY +nan% | MACRO: fed, rate hike"
       },
       "news_scan": {
-        "scanned_at": "2026-09-22 18:11:18 PST",
-        "gap_days": 6,
+        "scanned_at": "2026-09-23 17:54:02 PST",
+        "gap_days": 7,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bearish",
+        "spy_sentiment": "neutral",
         "spx_sentiment": "neutral",
         "keywords_found": [],
         "spy_keywords": [
-          "jumps",
-          "falls",
-          "drops",
-          "tumbles"
-        ],
-        "spx_keywords": [
           "surge",
-          "falls"
+          "breakthrough",
+          "falls",
+          "drops"
         ],
-        "decision": "hold",
-        "decision_reason": "neutral keywords confirmed PUT thesis",
+        "spx_keywords": [],
+        "decision": "sell",
+        "decision_reason": "no confirmation for PUT thesis \u2014 sell at open",
         "raw_headlines": {
           "ticker": [
+            "3 Reasons AXON Has Explosive Upside Potential",
             "Axon Stock Just Fell 22% in a Month. Here\u2019s the Number That Explains Why",
-            "Axon Enterprise (AXON) Prices $1B of Zero-Coupon Notes. What is the Real Cost?",
-            "Axon (AXON) Stock Looks Fairly Valued As 149% Run Meets Funding Test"
+            "Axon Enterprise (AXON) Prices $1B of Zero-Coupon Notes. What is the Real Cost?"
           ],
           "spy": [
-            "ETF Zoo: 6 Pundits Walk Into a Bar",
-            "Fastly Tumbles 7% as Investor Day Meets Profit Taking; Cloudflare and Akamai Edge Higher",
-            "Pinterest Sinks 5% as Month-Long Slide Deepens; Reddit Slips, Snap Stays Put",
-            "AutoZone Climbs 6% as Profit Beat Offsets Revenue Miss; Advance Auto Parts Rises 6%, O\u2019Reilly Automotive Gains 4%",
-            "SanDisk Jumps 6% as Rosenblatt Starts Coverage at Buy With $2,400 Target; Micron Rises 3%, Seagate Ticks Up",
-            "Trade Desk Falls 4% as Index-Removal Flows Keep Pressure On; Magnite Drops 3%, AppLovin Pulls Back",
-            "Defense Stocks Fall While Oil Slides on Hormuz Reopening Report: Lockheed Martin and RTX Drop 3%, Boeing Dips",
-            "\u201cMarket Has to Chew Through Indigestion\u201d: Analyst Warns of 7000 Dip Before 8150 Target",
-            "Paramount Skydance Rises 4% on 12-State Settlement, Warner Bros. Discovery Holds Flat as $110B Deal Nears Its Close",
-            "Moderna Adds Another 5% and Is Up 500% in 2026. Can MRNA Stock Continue the Melt-Up?"
+            "DraftKings Drops 4% as Prediction-Market Spending Plans Stir Margin Doubts; Flutter Entertainment Slips, Robinhood Ticks Up",
+            "Consumer Lending Stocks Slide While Financials Barely Budge: Upstart and Affirm Drop 4%, SoFi Eases",
+            "Opendoor Slides 5% as Housing Names Fall Together; Zillow and Offerpad Drop 3%",
+            "Two Biotechs Get Beaten Down: Jaguar Health Collapses 59%, Viking Therapeutics Sinks 4%",
+            "Royal Caribbean Group Falls 5% on $3B Sandals Resorts Stake; Carnival and Norwegian Slide 3%",
+            "Fastly Just Ripped 138% This Year but It\u2019s Now Falling. Is It Time to Sell?",
+            "Intel Skyrocketed 30% Higher in 1 Month: Here\u2019s What to Do Now",
+            "Exchange-Traded Funds Lower, Equity Futures Mixed Pre-Bell Wednesday as Traders Await Developments in US-Iran Talks",
+            "Alibaba Falls 4% as Reported Beijing AI Probe Undercuts Chip Rally; Baidu Eases, JD.com Dips",
+            "IonQ Surges 11% as NVIDIA Research Center Deal Follows Error-Decoder Breakthrough; D-Wave Climbs 5%, Rigetti Rises 4%"
           ],
           "spx": [
-            "Stock market today: Dow slips, Nasdaq drifts higher as oil falls, AI trade powers market",
-            "Stock market today: Nasdaq surges 2% to record high, Dow and S&P 500 gain as chip stocks rally, oil  falls",
-            "Update: US Equity Indexes Mixed in Midday Trading",
-            "3 Reasons Investors Watch Skyward Specialty Insurance (SKWD)",
-            "Update: Equities Mixed Intraday as Oil Prices Fluctuate",
-            "3 Reasons MBUU is Risky and 1 Stock to Buy Instead",
-            "Goldman Sachs Just Raised the Bar for S&P 500",
-            "If a Stock Market Crash Happens, History Says This Is How Long It Could Take Investors to Recover",
-            "2 Reasons to Sell SPGI and 1 Stock to Buy Instead",
-            "Was Moderna Stock's Cancer Vaccine Run Visible In Advance?"
+            "Looking for consumer and investor sentiment trends? Turn to social media.",
+            "Where to find 'relative value' outside of US equities",
+            "The Economy Is Booming, So the Market Indexes Fell. Go Figure.",
+            "Vanguard S&P 500 ETF Long-Term Outlook: What History Tells Investors",
+            "Ryan Specialty Shares Gain 9% in 3 Months: What's Driving the Rally?",
+            "Stock Market Midday, Sept. 23: Stocks Slip as Treasury Yields Hit 19-Year High",
+            "Stock Market Today: Dow Off 300; These Software Firms Are Beating Alphabet (Live Coverage)",
+            "This ETF Is Up 20% in 2026. Here's Why It Could Have More Room to Run.",
+            "US Equity Indexes Fall in Midday Trading",
+            "Did UnitedHealth Name The Fix Before Its Stock Ran?"
           ]
         }
       },
@@ -2181,26 +2162,25 @@
         "auto_note": "COHR CALL | $+18.76 (+6.92%) | dollar_gainer_1 | Strike $320.0 exp 2026-09-18 (1DTE) | IV 88.5% | SPY +nan% | MACRO: fed, war"
       },
       "news_scan": {
-        "scanned_at": "2026-09-22 18:11:18 PST",
-        "gap_days": 5,
+        "scanned_at": "2026-09-23 17:54:02 PST",
+        "gap_days": 6,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bearish",
+        "spy_sentiment": "neutral",
         "spx_sentiment": "neutral",
         "keywords_found": [],
         "spy_keywords": [
-          "jumps",
-          "falls",
-          "drops",
-          "tumbles"
-        ],
-        "spx_keywords": [
           "surge",
-          "falls"
+          "breakthrough",
+          "falls",
+          "drops"
         ],
+        "spx_keywords": [],
         "decision": "sell",
         "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
         "raw_headlines": {
           "ticker": [
+            "This Little-Known AI Chip Stock Doubled. Its New Chips Now Double Optical Speed",
+            "Lumentum Jumped Nearly 10% While Corning Barely Moved. Is the AI Optics Trade Splitting Apart?",
             "Sandisk, Lennar, Viking Therapeutics, Shopify, GameStop, and More Stocks That Explain Today\u2019s Market",
             "One Under-the-Radar Stock With 100% Upside Potential",
             "GFS Augments Photonics Portfolio: Will SMART Partnership Boost Growth?",
@@ -2208,33 +2188,31 @@
             "Buy These 2 Technology Services Stocks to Tap Recent Northbound Trend",
             "3 US AI Infrastructure Stocks Worth Watching as Data Center Spending Builds",
             "Corning Climbs 6% as AI Optical Interconnect Demo Highlights Its Fiber; Lumentum, Coherent and Applied Optoelectronics Rise 4%",
-            "Here's Why You Should Hold Corpay's Stock in Your Portfolio Now",
-            "Why This AI Bottleneck Means Ciena Stock Has 58% Upside",
-            "Lumentum Shares Rise 12% in a Month: Is There More Upside Ahead?"
+            "Here's Why You Should Hold Corpay's Stock in Your Portfolio Now"
           ],
           "spy": [
-            "ETF Zoo: 6 Pundits Walk Into a Bar",
-            "Fastly Tumbles 7% as Investor Day Meets Profit Taking; Cloudflare and Akamai Edge Higher",
-            "Pinterest Sinks 5% as Month-Long Slide Deepens; Reddit Slips, Snap Stays Put",
-            "AutoZone Climbs 6% as Profit Beat Offsets Revenue Miss; Advance Auto Parts Rises 6%, O\u2019Reilly Automotive Gains 4%",
-            "SanDisk Jumps 6% as Rosenblatt Starts Coverage at Buy With $2,400 Target; Micron Rises 3%, Seagate Ticks Up",
-            "Trade Desk Falls 4% as Index-Removal Flows Keep Pressure On; Magnite Drops 3%, AppLovin Pulls Back",
-            "Defense Stocks Fall While Oil Slides on Hormuz Reopening Report: Lockheed Martin and RTX Drop 3%, Boeing Dips",
-            "\u201cMarket Has to Chew Through Indigestion\u201d: Analyst Warns of 7000 Dip Before 8150 Target",
-            "Paramount Skydance Rises 4% on 12-State Settlement, Warner Bros. Discovery Holds Flat as $110B Deal Nears Its Close",
-            "Moderna Adds Another 5% and Is Up 500% in 2026. Can MRNA Stock Continue the Melt-Up?"
+            "DraftKings Drops 4% as Prediction-Market Spending Plans Stir Margin Doubts; Flutter Entertainment Slips, Robinhood Ticks Up",
+            "Consumer Lending Stocks Slide While Financials Barely Budge: Upstart and Affirm Drop 4%, SoFi Eases",
+            "Opendoor Slides 5% as Housing Names Fall Together; Zillow and Offerpad Drop 3%",
+            "Two Biotechs Get Beaten Down: Jaguar Health Collapses 59%, Viking Therapeutics Sinks 4%",
+            "Royal Caribbean Group Falls 5% on $3B Sandals Resorts Stake; Carnival and Norwegian Slide 3%",
+            "Fastly Just Ripped 138% This Year but It\u2019s Now Falling. Is It Time to Sell?",
+            "Intel Skyrocketed 30% Higher in 1 Month: Here\u2019s What to Do Now",
+            "Exchange-Traded Funds Lower, Equity Futures Mixed Pre-Bell Wednesday as Traders Await Developments in US-Iran Talks",
+            "Alibaba Falls 4% as Reported Beijing AI Probe Undercuts Chip Rally; Baidu Eases, JD.com Dips",
+            "IonQ Surges 11% as NVIDIA Research Center Deal Follows Error-Decoder Breakthrough; D-Wave Climbs 5%, Rigetti Rises 4%"
           ],
           "spx": [
-            "Stock market today: Dow slips, Nasdaq drifts higher as oil falls, AI trade powers market",
-            "Stock market today: Nasdaq surges 2% to record high, Dow and S&P 500 gain as chip stocks rally, oil  falls",
-            "Update: US Equity Indexes Mixed in Midday Trading",
-            "3 Reasons Investors Watch Skyward Specialty Insurance (SKWD)",
-            "Update: Equities Mixed Intraday as Oil Prices Fluctuate",
-            "3 Reasons MBUU is Risky and 1 Stock to Buy Instead",
-            "Goldman Sachs Just Raised the Bar for S&P 500",
-            "If a Stock Market Crash Happens, History Says This Is How Long It Could Take Investors to Recover",
-            "2 Reasons to Sell SPGI and 1 Stock to Buy Instead",
-            "Was Moderna Stock's Cancer Vaccine Run Visible In Advance?"
+            "Looking for consumer and investor sentiment trends? Turn to social media.",
+            "Where to find 'relative value' outside of US equities",
+            "The Economy Is Booming, So the Market Indexes Fell. Go Figure.",
+            "Vanguard S&P 500 ETF Long-Term Outlook: What History Tells Investors",
+            "Ryan Specialty Shares Gain 9% in 3 Months: What's Driving the Rally?",
+            "Stock Market Midday, Sept. 23: Stocks Slip as Treasury Yields Hit 19-Year High",
+            "Stock Market Today: Dow Off 300; These Software Firms Are Beating Alphabet (Live Coverage)",
+            "This ETF Is Up 20% in 2026. Here's Why It Could Have More Room to Run.",
+            "US Equity Indexes Fall in Midday Trading",
+            "Did UnitedHealth Name The Fix Before Its Stock Ran?"
           ]
         }
       },
@@ -2280,55 +2258,50 @@
         "auto_note": "FANG PUT | $-16.99 (-8.03%) | dollar_loser_1 | Strike $185.0 exp 2026-09-18 (1DTE) | IV 53.9% | SPY +nan% | MACRO: fed, war"
       },
       "news_scan": {
-        "scanned_at": "2026-09-22 18:11:18 PST",
-        "gap_days": 5,
+        "scanned_at": "2026-09-23 17:54:02 PST",
+        "gap_days": 6,
         "ticker_sentiment": "bearish",
-        "spy_sentiment": "bearish",
+        "spy_sentiment": "neutral",
         "spx_sentiment": "neutral",
         "keywords_found": [
           "drops"
         ],
         "spy_keywords": [
-          "jumps",
-          "falls",
-          "drops",
-          "tumbles"
-        ],
-        "spx_keywords": [
           "surge",
-          "falls"
+          "breakthrough",
+          "falls",
+          "drops"
         ],
+        "spx_keywords": [],
         "decision": "hold",
         "decision_reason": "bearish keywords confirmed PUT thesis",
         "raw_headlines": {
           "ticker": [
-            "Diamondback Energy (FANG) Stock Drops Despite Market Gains: Important Facts to Note",
-            "Diamondback Energy Is Down 11% This Year While the Permian Basin Keeps Pumping. Is FANG Stock a Buy?",
-            "This Overlooked Pipeline Stock Just Became a Rival's Joint-Venture Partner Without Anyone Noticing"
+            "Diamondback Energy (FANG) Stock Drops Despite Market Gains: Important Facts to Note"
           ],
           "spy": [
-            "ETF Zoo: 6 Pundits Walk Into a Bar",
-            "Fastly Tumbles 7% as Investor Day Meets Profit Taking; Cloudflare and Akamai Edge Higher",
-            "Pinterest Sinks 5% as Month-Long Slide Deepens; Reddit Slips, Snap Stays Put",
-            "AutoZone Climbs 6% as Profit Beat Offsets Revenue Miss; Advance Auto Parts Rises 6%, O\u2019Reilly Automotive Gains 4%",
-            "SanDisk Jumps 6% as Rosenblatt Starts Coverage at Buy With $2,400 Target; Micron Rises 3%, Seagate Ticks Up",
-            "Trade Desk Falls 4% as Index-Removal Flows Keep Pressure On; Magnite Drops 3%, AppLovin Pulls Back",
-            "Defense Stocks Fall While Oil Slides on Hormuz Reopening Report: Lockheed Martin and RTX Drop 3%, Boeing Dips",
-            "\u201cMarket Has to Chew Through Indigestion\u201d: Analyst Warns of 7000 Dip Before 8150 Target",
-            "Paramount Skydance Rises 4% on 12-State Settlement, Warner Bros. Discovery Holds Flat as $110B Deal Nears Its Close",
-            "Moderna Adds Another 5% and Is Up 500% in 2026. Can MRNA Stock Continue the Melt-Up?"
+            "DraftKings Drops 4% as Prediction-Market Spending Plans Stir Margin Doubts; Flutter Entertainment Slips, Robinhood Ticks Up",
+            "Consumer Lending Stocks Slide While Financials Barely Budge: Upstart and Affirm Drop 4%, SoFi Eases",
+            "Opendoor Slides 5% as Housing Names Fall Together; Zillow and Offerpad Drop 3%",
+            "Two Biotechs Get Beaten Down: Jaguar Health Collapses 59%, Viking Therapeutics Sinks 4%",
+            "Royal Caribbean Group Falls 5% on $3B Sandals Resorts Stake; Carnival and Norwegian Slide 3%",
+            "Fastly Just Ripped 138% This Year but It\u2019s Now Falling. Is It Time to Sell?",
+            "Intel Skyrocketed 30% Higher in 1 Month: Here\u2019s What to Do Now",
+            "Exchange-Traded Funds Lower, Equity Futures Mixed Pre-Bell Wednesday as Traders Await Developments in US-Iran Talks",
+            "Alibaba Falls 4% as Reported Beijing AI Probe Undercuts Chip Rally; Baidu Eases, JD.com Dips",
+            "IonQ Surges 11% as NVIDIA Research Center Deal Follows Error-Decoder Breakthrough; D-Wave Climbs 5%, Rigetti Rises 4%"
           ],
           "spx": [
-            "Stock market today: Dow slips, Nasdaq drifts higher as oil falls, AI trade powers market",
-            "Stock market today: Nasdaq surges 2% to record high, Dow and S&P 500 gain as chip stocks rally, oil  falls",
-            "Update: US Equity Indexes Mixed in Midday Trading",
-            "3 Reasons Investors Watch Skyward Specialty Insurance (SKWD)",
-            "Update: Equities Mixed Intraday as Oil Prices Fluctuate",
-            "3 Reasons MBUU is Risky and 1 Stock to Buy Instead",
-            "Goldman Sachs Just Raised the Bar for S&P 500",
-            "If a Stock Market Crash Happens, History Says This Is How Long It Could Take Investors to Recover",
-            "2 Reasons to Sell SPGI and 1 Stock to Buy Instead",
-            "Was Moderna Stock's Cancer Vaccine Run Visible In Advance?"
+            "Looking for consumer and investor sentiment trends? Turn to social media.",
+            "Where to find 'relative value' outside of US equities",
+            "The Economy Is Booming, So the Market Indexes Fell. Go Figure.",
+            "Vanguard S&P 500 ETF Long-Term Outlook: What History Tells Investors",
+            "Ryan Specialty Shares Gain 9% in 3 Months: What's Driving the Rally?",
+            "Stock Market Midday, Sept. 23: Stocks Slip as Treasury Yields Hit 19-Year High",
+            "Stock Market Today: Dow Off 300; These Software Firms Are Beating Alphabet (Live Coverage)",
+            "This ETF Is Up 20% in 2026. Here's Why It Could Have More Room to Run.",
+            "US Equity Indexes Fall in Midday Trading",
+            "Did UnitedHealth Name The Fix Before Its Stock Ran?"
           ]
         }
       },
@@ -2371,62 +2344,57 @@
         "auto_note": "ARM CALL | $+47.29 (+17.16%) | dollar_gainer_1 | Strike $400.0 exp 2026-09-25 (3DTE) | IV 120.3% | SPY +nan% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-09-22 18:11:18 PST",
-        "gap_days": 0,
-        "ticker_sentiment": "bullish",
-        "spy_sentiment": "bearish",
+        "scanned_at": "2026-09-23 17:54:02 PST",
+        "gap_days": 1,
+        "ticker_sentiment": "neutral",
+        "spy_sentiment": "neutral",
         "spx_sentiment": "neutral",
-        "keywords_found": [
-          "surge"
-        ],
+        "keywords_found": [],
         "spy_keywords": [
-          "jumps",
-          "falls",
-          "drops",
-          "tumbles"
-        ],
-        "spx_keywords": [
           "surge",
-          "falls"
+          "breakthrough",
+          "falls",
+          "drops"
         ],
-        "decision": "hold",
-        "decision_reason": "bullish keywords confirmed CALL thesis",
+        "spx_keywords": [],
+        "decision": "sell",
+        "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
         "raw_headlines": {
           "ticker": [
+            "ARM Vs. AMD: Who Is Going to Win the Agentic AI CPU Revival War?",
+            "Arm Just Jumped 36% Now Its Valuation Is Raising Eyebrows",
+            "AeroVironment And 2 Top Automation Stocks To Watch",
+            "3 Trending AI Stocks to Watch: ARM, AMD, and CRWV",
+            "AMD Stock Just Sent a Huge AI Signal",
+            "Arm Gains 1.5% as Agentic AI Multiplies CPU Cores",
+            "Arm Stock: Too Good to Sell, Too Expensive to Buy",
             "Arm Just Got a Major Vote of Confidence From Its CEO",
             "US Stock Market Today: S&P 500 Futures Climb On Higher-For-Longer Rate Jitters",
-            "ARM Stock Jumped 17% Yesterday After Its CEO Said Demand Is Off the Charts. Here\u2019s What Got Investors So Excited.",
-            "ARM, Intel, AMD Surge As Meta\u2019s Muse AI Fuels Fresh Chip Demand Bets: Retail Turns Extremely Bullish",
-            "Why Intel, Arm, and Other AI Chip Stocks Soared Today",
-            "Junk-Bond Market Gets AI Jolt from SoftBank",
-            "Update: Communication Services, Tech Heavyweights Push US Equity Indexes Higher as Crude Oil Slides With Treasury Yields",
-            "Meta\u2019s Muse AI Agent Triggers Intel, Chip Stock Rally. AMD Hits $1T Market Cap.",
-            "Chip Stocks Rise As Four New Names Join SOX Index. AMD Breaks Out.",
-            "US Equity Markets Higher as Tech, Communication Stocks Rise Amid Drop in Government Bond Yields, Crude Oil Prices"
+            "ARM Stock Jumped 17% Yesterday After Its CEO Said Demand Is Off the Charts. Here\u2019s What Got Investors So Excited."
           ],
           "spy": [
-            "ETF Zoo: 6 Pundits Walk Into a Bar",
-            "Fastly Tumbles 7% as Investor Day Meets Profit Taking; Cloudflare and Akamai Edge Higher",
-            "Pinterest Sinks 5% as Month-Long Slide Deepens; Reddit Slips, Snap Stays Put",
-            "AutoZone Climbs 6% as Profit Beat Offsets Revenue Miss; Advance Auto Parts Rises 6%, O\u2019Reilly Automotive Gains 4%",
-            "SanDisk Jumps 6% as Rosenblatt Starts Coverage at Buy With $2,400 Target; Micron Rises 3%, Seagate Ticks Up",
-            "Trade Desk Falls 4% as Index-Removal Flows Keep Pressure On; Magnite Drops 3%, AppLovin Pulls Back",
-            "Defense Stocks Fall While Oil Slides on Hormuz Reopening Report: Lockheed Martin and RTX Drop 3%, Boeing Dips",
-            "\u201cMarket Has to Chew Through Indigestion\u201d: Analyst Warns of 7000 Dip Before 8150 Target",
-            "Paramount Skydance Rises 4% on 12-State Settlement, Warner Bros. Discovery Holds Flat as $110B Deal Nears Its Close",
-            "Moderna Adds Another 5% and Is Up 500% in 2026. Can MRNA Stock Continue the Melt-Up?"
+            "DraftKings Drops 4% as Prediction-Market Spending Plans Stir Margin Doubts; Flutter Entertainment Slips, Robinhood Ticks Up",
+            "Consumer Lending Stocks Slide While Financials Barely Budge: Upstart and Affirm Drop 4%, SoFi Eases",
+            "Opendoor Slides 5% as Housing Names Fall Together; Zillow and Offerpad Drop 3%",
+            "Two Biotechs Get Beaten Down: Jaguar Health Collapses 59%, Viking Therapeutics Sinks 4%",
+            "Royal Caribbean Group Falls 5% on $3B Sandals Resorts Stake; Carnival and Norwegian Slide 3%",
+            "Fastly Just Ripped 138% This Year but It\u2019s Now Falling. Is It Time to Sell?",
+            "Intel Skyrocketed 30% Higher in 1 Month: Here\u2019s What to Do Now",
+            "Exchange-Traded Funds Lower, Equity Futures Mixed Pre-Bell Wednesday as Traders Await Developments in US-Iran Talks",
+            "Alibaba Falls 4% as Reported Beijing AI Probe Undercuts Chip Rally; Baidu Eases, JD.com Dips",
+            "IonQ Surges 11% as NVIDIA Research Center Deal Follows Error-Decoder Breakthrough; D-Wave Climbs 5%, Rigetti Rises 4%"
           ],
           "spx": [
-            "Stock market today: Dow slips, Nasdaq drifts higher as oil falls, AI trade powers market",
-            "Stock market today: Nasdaq surges 2% to record high, Dow and S&P 500 gain as chip stocks rally, oil  falls",
-            "Update: US Equity Indexes Mixed in Midday Trading",
-            "3 Reasons Investors Watch Skyward Specialty Insurance (SKWD)",
-            "Update: Equities Mixed Intraday as Oil Prices Fluctuate",
-            "3 Reasons MBUU is Risky and 1 Stock to Buy Instead",
-            "Goldman Sachs Just Raised the Bar for S&P 500",
-            "If a Stock Market Crash Happens, History Says This Is How Long It Could Take Investors to Recover",
-            "2 Reasons to Sell SPGI and 1 Stock to Buy Instead",
-            "Was Moderna Stock's Cancer Vaccine Run Visible In Advance?"
+            "Looking for consumer and investor sentiment trends? Turn to social media.",
+            "Where to find 'relative value' outside of US equities",
+            "The Economy Is Booming, So the Market Indexes Fell. Go Figure.",
+            "Vanguard S&P 500 ETF Long-Term Outlook: What History Tells Investors",
+            "Ryan Specialty Shares Gain 9% in 3 Months: What's Driving the Rally?",
+            "Stock Market Midday, Sept. 23: Stocks Slip as Treasury Yields Hit 19-Year High",
+            "Stock Market Today: Dow Off 300; These Software Firms Are Beating Alphabet (Live Coverage)",
+            "This ETF Is Up 20% in 2026. Here's Why It Could Have More Room to Run.",
+            "US Equity Indexes Fall in Midday Trading",
+            "Did UnitedHealth Name The Fix Before Its Stock Ran?"
           ]
         }
       },
@@ -2468,7 +2436,59 @@
         "macro_keywords": [],
         "auto_note": "FAS PUT | $-10.61 (-6.50%) | dollar_loser_1 | Strike $145.0 exp 2026-09-25 (2DTE) | IV 57.9% | SPY +nan% | No macro triggers"
       },
-      "news_scan": null,
+      "news_scan": {
+        "scanned_at": "2026-09-23 17:54:02 PST",
+        "gap_days": 0,
+        "ticker_sentiment": "neutral",
+        "spy_sentiment": "neutral",
+        "spx_sentiment": "neutral",
+        "keywords_found": [],
+        "spy_keywords": [
+          "surge",
+          "breakthrough",
+          "falls",
+          "drops"
+        ],
+        "spx_keywords": [],
+        "decision": "sell",
+        "decision_reason": "no confirmation for PUT thesis \u2014 sell at open",
+        "raw_headlines": {
+          "ticker": [
+            "Exchange-Traded Funds, US Equities Decline After Midday",
+            "Exchange-Traded Funds Lower, Equity Futures Mixed Pre-Bell Wednesday as Traders Await Developments in US-Iran Talks",
+            "Exchange-Traded Funds Rise, US Equities Mixed After Midday",
+            "Sector Update: Financial Stocks Edge Higher Premarket Tuesday",
+            "Exchange-Traded Funds Mixed, Equity Futures Up Pre-Bell Tuesday as Oil Prices Drop Due to Possible Diplomacy in US-Iran Conflict",
+            "Exchange-Traded Funds Rise as US Equities Advance After Midday",
+            "Sector Update: Financial Stocks Advance Pre-Bell Monday",
+            "Exchange-Traded Funds Rise, Equity Futures up Pre-Bell Monday as Oil Prices Decline"
+          ],
+          "spy": [
+            "DraftKings Drops 4% as Prediction-Market Spending Plans Stir Margin Doubts; Flutter Entertainment Slips, Robinhood Ticks Up",
+            "Consumer Lending Stocks Slide While Financials Barely Budge: Upstart and Affirm Drop 4%, SoFi Eases",
+            "Opendoor Slides 5% as Housing Names Fall Together; Zillow and Offerpad Drop 3%",
+            "Two Biotechs Get Beaten Down: Jaguar Health Collapses 59%, Viking Therapeutics Sinks 4%",
+            "Royal Caribbean Group Falls 5% on $3B Sandals Resorts Stake; Carnival and Norwegian Slide 3%",
+            "Fastly Just Ripped 138% This Year but It\u2019s Now Falling. Is It Time to Sell?",
+            "Intel Skyrocketed 30% Higher in 1 Month: Here\u2019s What to Do Now",
+            "Exchange-Traded Funds Lower, Equity Futures Mixed Pre-Bell Wednesday as Traders Await Developments in US-Iran Talks",
+            "Alibaba Falls 4% as Reported Beijing AI Probe Undercuts Chip Rally; Baidu Eases, JD.com Dips",
+            "IonQ Surges 11% as NVIDIA Research Center Deal Follows Error-Decoder Breakthrough; D-Wave Climbs 5%, Rigetti Rises 4%"
+          ],
+          "spx": [
+            "Looking for consumer and investor sentiment trends? Turn to social media.",
+            "Where to find 'relative value' outside of US equities",
+            "The Economy Is Booming, So the Market Indexes Fell. Go Figure.",
+            "Vanguard S&P 500 ETF Long-Term Outlook: What History Tells Investors",
+            "Ryan Specialty Shares Gain 9% in 3 Months: What's Driving the Rally?",
+            "Stock Market Midday, Sept. 23: Stocks Slip as Treasury Yields Hit 19-Year High",
+            "Stock Market Today: Dow Off 300; These Software Firms Are Beating Alphabet (Live Coverage)",
+            "This ETF Is Up 20% in 2026. Here's Why It Could Have More Room to Run.",
+            "US Equity Indexes Fall in Midday Trading",
+            "Did UnitedHealth Name The Fix Before Its Stock Ran?"
+          ]
+        }
+      },
       "exit": null,
       "fomo": null
     }
