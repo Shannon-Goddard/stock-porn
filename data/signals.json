@@ -1,74 +1,250 @@
 {
   "topGainers": [
     {
-      "ticker": "SHEL",
-      "name": "SHELL PLC SPON ADS",
+      "ticker": "FSLY",
+      "name": "FASTLY INC CL A",
       "sector": "Unknown",
-      "price": 95.31,
-      "changePct": 1.47,
-      "changeDollar": 1.38
+      "price": 29.65,
+      "changePct": 13.69,
+      "changeDollar": 3.57
     },
     {
-      "ticker": "ADEA",
-      "name": "ADEIA INC COM",
+      "ticker": "ETHD",
+      "name": "PROSHARES TR ULTRA ETHER ETF",
       "sector": "Unknown",
-      "price": 24.91,
-      "changePct": -3.64,
-      "changeDollar": -0.94
+      "price": 24.69,
+      "changePct": 5.24,
+      "changeDollar": 1.23
+    },
+    {
+      "ticker": "IONQ",
+      "name": "IONQ INC COM",
+      "sector": "Unknown",
+      "price": 42.54,
+      "changePct": 4.42,
+      "changeDollar": 1.8
+    },
+    {
+      "ticker": "NOW",
+      "name": "SERVICENOW INC COM",
+      "sector": "Unknown",
+      "price": 140.78,
+      "changePct": 2.76,
+      "changeDollar": 3.78
+    },
+    {
+      "ticker": "BITI",
+      "name": "PROSHARES TR SHOR BITC ET NEW",
+      "sector": "Unknown",
+      "price": 17.42,
+      "changePct": 2.11,
+      "changeDollar": 0.36
+    },
+    {
+      "ticker": "TTE",
+      "name": "TOTALENERGIES SE ACT",
+      "sector": "Unknown",
+      "price": 91.67,
+      "changePct": 2.03,
+      "changeDollar": 1.82
+    },
+    {
+      "ticker": "LITZ",
+      "name": "Tradr 2X Short LITE Daily ETF",
+      "sector": "Unknown",
+      "price": 26.06,
+      "changePct": 1.8,
+      "changeDollar": 0.46
+    },
+    {
+      "ticker": "IGV",
+      "name": "iShares Expanded Tech-Software Sector ETF",
+      "sector": "Unknown",
+      "price": 108.1,
+      "changePct": 1.26,
+      "changeDollar": 1.35
+    },
+    {
+      "ticker": "GIS",
+      "name": "GENERAL MILLS INC COM",
+      "sector": "Unknown",
+      "price": 35.82,
+      "changePct": 1.04,
+      "changeDollar": 0.37
+    },
+    {
+      "ticker": "ADBE",
+      "name": "ADOBE INC COM",
+      "sector": "Unknown",
+      "price": 240.69,
+      "changePct": 1.02,
+      "changeDollar": 2.44
     }
   ],
   "topLosers": [
     {
-      "ticker": "ADEA",
-      "name": "ADEIA INC COM",
+      "ticker": "XXRP",
+      "name": "LISTED FDS TR TEUCR 2X XRP ETF",
       "sector": "Unknown",
-      "price": 24.91,
-      "changePct": -3.64,
+      "price": 35.76,
+      "changePct": -12.03,
+      "changeDollar": -4.89
+    },
+    {
+      "ticker": "BABX",
+      "name": "GRANITESHARES ETF TR 2X LNG BABA DAL",
+      "sector": "Unknown",
+      "price": 17.28,
+      "changePct": -9.48,
+      "changeDollar": -1.81
+    },
+    {
+      "ticker": "BMNU",
+      "name": "T-REX 2X Long BMNR Daily Target ETF",
+      "sector": "Unknown",
+      "price": 22.56,
+      "changePct": -8.77,
+      "changeDollar": -2.17
+    },
+    {
+      "ticker": "NBIG",
+      "name": "THEMES ETF TR LEVERAGE SHS 2X",
+      "sector": "Unknown",
+      "price": 16.96,
+      "changePct": -8.32,
+      "changeDollar": -1.54
+    },
+    {
+      "ticker": "GGLL",
+      "name": "DIREXION SHARES ETF TRUST DLY GOOGL BUL 2X",
+      "sector": "Unknown",
+      "price": 96.23,
+      "changePct": -7.66,
+      "changeDollar": -7.98
+    },
+    {
+      "ticker": "QBTX",
+      "name": "Tradr 2X Long QBTS Daily ETF",
+      "sector": "Unknown",
+      "price": 23.64,
+      "changePct": -7.48,
+      "changeDollar": -1.91
+    },
+    {
+      "ticker": "CIFU",
+      "name": "T-REX 2X Long CIFR Daily Target ETF",
+      "sector": "Unknown",
+      "price": 11.91,
+      "changePct": -7.32,
       "changeDollar": -0.94
     },
     {
-      "ticker": "SHEL",
-      "name": "SHELL PLC SPON ADS",
+      "ticker": "NAIL",
+      "name": "DIREXION SHARES ETF TRUST DAIL HO SUPP ETF",
       "sector": "Unknown",
-      "price": 95.31,
-      "changePct": 1.47,
-      "changeDollar": 1.38
+      "price": 29.98,
+      "changePct": -7.04,
+      "changeDollar": -2.27
+    },
+    {
+      "ticker": "SOLT",
+      "name": "VOLATILITY SHS TR 2X SOLANA ETF",
+      "sector": "Unknown",
+      "price": 71.17,
+      "changePct": -6.39,
+      "changeDollar": -4.86
+    },
+    {
+      "ticker": "COHX",
+      "name": "Tradr 2X Long COHR Daily ETF",
+      "sector": "Unknown",
+      "price": 24.53,
+      "changePct": -6.37,
+      "changeDollar": -1.67
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "SHEL",
-      "name": "SHELL PLC SPON ADS",
+      "ticker": "NOW",
+      "name": "SERVICENOW INC COM",
       "sector": "Unknown",
-      "price": 95.31,
-      "changePct": 1.47,
-      "changeDollar": 1.38
+      "price": 140.78,
+      "changePct": 2.76,
+      "changeDollar": 3.78
     },
     {
-      "ticker": "ADEA",
-      "name": "ADEIA INC COM",
+      "ticker": "FSLY",
+      "name": "FASTLY INC CL A",
       "sector": "Unknown",
-      "price": 24.91,
-      "changePct": -3.64,
-      "changeDollar": -0.94
+      "price": 29.65,
+      "changePct": 13.69,
+      "changeDollar": 3.57
+    },
+    {
+      "ticker": "ADBE",
+      "name": "ADOBE INC COM",
+      "sector": "Unknown",
+      "price": 240.69,
+      "changePct": 1.02,
+      "changeDollar": 2.44
+    },
+    {
+      "ticker": "TTE",
+      "name": "TOTALENERGIES SE ACT",
+      "sector": "Unknown",
+      "price": 91.67,
+      "changePct": 2.03,
+      "changeDollar": 1.82
+    },
+    {
+      "ticker": "IONQ",
+      "name": "IONQ INC COM",
+      "sector": "Unknown",
+      "price": 42.54,
+      "changePct": 4.42,
+      "changeDollar": 1.8
     }
   ],
   "dollarLosers": [
     {
-      "ticker": "SHEL",
-      "name": "SHELL PLC SPON ADS",
+      "ticker": "GGLL",
+      "name": "DIREXION SHARES ETF TRUST DLY GOOGL BUL 2X",
       "sector": "Unknown",
-      "price": 95.31,
-      "changePct": 1.47,
-      "changeDollar": 1.38
+      "price": 96.23,
+      "changePct": -7.66,
+      "changeDollar": -7.98
     },
     {
-      "ticker": "ADEA",
-      "name": "ADEIA INC COM",
+      "ticker": "XXRP",
+      "name": "LISTED FDS TR TEUCR 2X XRP ETF",
       "sector": "Unknown",
-      "price": 24.91,
-      "changePct": -3.64,
-      "changeDollar": -0.94
+      "price": 35.76,
+      "changePct": -12.03,
+      "changeDollar": -4.89
+    },
+    {
+      "ticker": "SOLT",
+      "name": "VOLATILITY SHS TR 2X SOLANA ETF",
+      "sector": "Unknown",
+      "price": 71.17,
+      "changePct": -6.39,
+      "changeDollar": -4.86
+    },
+    {
+      "ticker": "NAIL",
+      "name": "DIREXION SHARES ETF TRUST DAIL HO SUPP ETF",
+      "sector": "Unknown",
+      "price": 29.98,
+      "changePct": -7.04,
+      "changeDollar": -2.27
+    },
+    {
+      "ticker": "BMNU",
+      "name": "T-REX 2X Long BMNR Daily Target ETF",
+      "sector": "Unknown",
+      "price": 22.56,
+      "changePct": -8.77,
+      "changeDollar": -2.17
     }
   ]
 }
