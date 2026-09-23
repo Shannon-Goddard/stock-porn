@@ -1,250 +1,74 @@
 {
   "topGainers": [
     {
-      "ticker": "NBIZ",
-      "name": "Tradr 2X Short NBIS Daily ETF",
+      "ticker": "SHEL",
+      "name": "SHELL PLC SPON ADS",
       "sector": "Unknown",
-      "price": 21.24,
-      "changePct": 290.44,
-      "changeDollar": 15.8
+      "price": 95.31,
+      "changePct": 1.47,
+      "changeDollar": 1.38
     },
     {
-      "ticker": "CRMX",
-      "name": "Tradr 2X Long CRML Daily ETF",
+      "ticker": "ADEA",
+      "name": "ADEIA INC COM",
       "sector": "Unknown",
-      "price": 26.75,
-      "changePct": 232.71,
-      "changeDollar": 18.71
-    },
-    {
-      "ticker": "VKTX",
-      "name": "VIKING THERAPEUTICS INC COM",
-      "sector": "Unknown",
-      "price": 40.85,
-      "changePct": 35.67,
-      "changeDollar": 10.74
-    },
-    {
-      "ticker": "MAZE",
-      "name": "MAZE THERAPEUTICS INC COM",
-      "sector": "Unknown",
-      "price": 28.38,
-      "changePct": 26.75,
-      "changeDollar": 5.99
-    },
-    {
-      "ticker": "EAF",
-      "name": "GRAFTECH INTL LTD SR NT COM NEW",
-      "sector": "Unknown",
-      "price": 11.21,
-      "changePct": 19.76,
-      "changeDollar": 1.85
-    },
-    {
-      "ticker": "CLPT",
-      "name": "CLEARPOINT NEURO INC COM",
-      "sector": "Unknown",
-      "price": 15.79,
-      "changePct": 13.03,
-      "changeDollar": 1.82
-    },
-    {
-      "ticker": "SNXX",
-      "name": "Tradr 2X Long SNDK Daily ETF",
-      "sector": "Unknown",
-      "price": 19.8,
-      "changePct": 12.95,
-      "changeDollar": 2.27
-    },
-    {
-      "ticker": "CNXC",
-      "name": "CONCENTRIX CORP COM",
-      "sector": "Unknown",
-      "price": 30.51,
-      "changePct": 10.82,
-      "changeDollar": 2.98
-    },
-    {
-      "ticker": "IE",
-      "name": "IVANHOE ELECTRIC INC COM",
-      "sector": "Unknown",
-      "price": 10.74,
-      "changePct": 9.04,
-      "changeDollar": 0.89
-    },
-    {
-      "ticker": "VVV",
-      "name": "VALVOLINE INC COM",
-      "sector": "Unknown",
-      "price": 28.67,
-      "changePct": 7.7,
-      "changeDollar": 2.05
+      "price": 24.91,
+      "changePct": -3.64,
+      "changeDollar": -0.94
     }
   ],
   "topLosers": [
     {
-      "ticker": "PLNT",
-      "name": "PLANET FITNESS MASTER ISSUER L CL A",
+      "ticker": "ADEA",
+      "name": "ADEIA INC COM",
       "sector": "Unknown",
-      "price": 42.6,
-      "changePct": -9.46,
-      "changeDollar": -4.45
+      "price": 24.91,
+      "changePct": -3.64,
+      "changeDollar": -0.94
     },
     {
-      "ticker": "DUST",
-      "name": "DIREXION SHARES ETF TRUST DAI GOL BEA ETF",
+      "ticker": "SHEL",
+      "name": "SHELL PLC SPON ADS",
       "sector": "Unknown",
-      "price": 32.57,
-      "changePct": -7.86,
-      "changeDollar": -2.78
-    },
-    {
-      "ticker": "COHX",
-      "name": "Tradr 2X Long COHR Daily ETF",
-      "sector": "Unknown",
-      "price": 26.2,
-      "changePct": -7.19,
-      "changeDollar": -2.03
-    },
-    {
-      "ticker": "FAS",
-      "name": "DIREXION SHARES ETF TRUST DAILY FINANCIAL",
-      "sector": "Unknown",
-      "price": 152.5,
-      "changePct": -6.5,
-      "changeDollar": -10.61
-    },
-    {
-      "ticker": "GEN",
-      "name": "GEN DIGITAL INC COM",
-      "sector": "Unknown",
-      "price": 27.29,
-      "changePct": -6.38,
-      "changeDollar": -1.86
-    },
-    {
-      "ticker": "NPKI",
-      "name": "NPK INTERNATIONAL INC COM SHS",
-      "sector": "Unknown",
-      "price": 11.74,
-      "changePct": -5.93,
-      "changeDollar": -0.74
-    },
-    {
-      "ticker": "PRM",
-      "name": "PERIMETER SOLUTIONS INC COMMON STOCK",
-      "sector": "Unknown",
-      "price": 29.77,
-      "changePct": -5.88,
-      "changeDollar": -1.86
-    },
-    {
-      "ticker": "CARS",
-      "name": "CARS COM INC COM",
-      "sector": "Unknown",
-      "price": 10.8,
-      "changePct": -5.68,
-      "changeDollar": -0.65
-    },
-    {
-      "ticker": "MGTX",
-      "name": "MEIRAGTX HLDGS PLC COM",
-      "sector": "Unknown",
-      "price": 12.35,
-      "changePct": -5.58,
-      "changeDollar": -0.73
-    },
-    {
-      "ticker": "VG",
-      "name": "VENTURE GLOBAL INC COM CL A",
-      "sector": "Unknown",
-      "price": 12.91,
-      "changePct": -5.49,
-      "changeDollar": -0.75
+      "price": 95.31,
+      "changePct": 1.47,
+      "changeDollar": 1.38
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "CRMX",
-      "name": "Tradr 2X Long CRML Daily ETF",
+      "ticker": "SHEL",
+      "name": "SHELL PLC SPON ADS",
       "sector": "Unknown",
-      "price": 26.75,
-      "changePct": 232.71,
-      "changeDollar": 18.71
+      "price": 95.31,
+      "changePct": 1.47,
+      "changeDollar": 1.38
     },
     {
-      "ticker": "NBIZ",
-      "name": "Tradr 2X Short NBIS Daily ETF",
+      "ticker": "ADEA",
+      "name": "ADEIA INC COM",
       "sector": "Unknown",
-      "price": 21.24,
-      "changePct": 290.44,
-      "changeDollar": 15.8
-    },
-    {
-      "ticker": "VKTX",
-      "name": "VIKING THERAPEUTICS INC COM",
-      "sector": "Unknown",
-      "price": 40.85,
-      "changePct": 35.67,
-      "changeDollar": 10.74
-    },
-    {
-      "ticker": "MAZE",
-      "name": "MAZE THERAPEUTICS INC COM",
-      "sector": "Unknown",
-      "price": 28.38,
-      "changePct": 26.75,
-      "changeDollar": 5.99
-    },
-    {
-      "ticker": "CNXC",
-      "name": "CONCENTRIX CORP COM",
-      "sector": "Unknown",
-      "price": 30.51,
-      "changePct": 10.82,
-      "changeDollar": 2.98
+      "price": 24.91,
+      "changePct": -3.64,
+      "changeDollar": -0.94
     }
   ],
   "dollarLosers": [
     {
-      "ticker": "FAS",
-      "name": "DIREXION SHARES ETF TRUST DAILY FINANCIAL",
+      "ticker": "SHEL",
+      "name": "SHELL PLC SPON ADS",
       "sector": "Unknown",
-      "price": 152.5,
-      "changePct": -6.5,
-      "changeDollar": -10.61
+      "price": 95.31,
+      "changePct": 1.47,
+      "changeDollar": 1.38
     },
     {
-      "ticker": "PLNT",
-      "name": "PLANET FITNESS MASTER ISSUER L CL A",
+      "ticker": "ADEA",
+      "name": "ADEIA INC COM",
       "sector": "Unknown",
-      "price": 42.6,
-      "changePct": -9.46,
-      "changeDollar": -4.45
-    },
-    {
-      "ticker": "DUST",
-      "name": "DIREXION SHARES ETF TRUST DAI GOL BEA ETF",
-      "sector": "Unknown",
-      "price": 32.57,
-      "changePct": -7.86,
-      "changeDollar": -2.78
-    },
-    {
-      "ticker": "COHX",
-      "name": "Tradr 2X Long COHR Daily ETF",
-      "sector": "Unknown",
-      "price": 26.2,
-      "changePct": -7.19,
-      "changeDollar": -2.03
-    },
-    {
-      "ticker": "GEN",
-      "name": "GEN DIGITAL INC COM",
-      "sector": "Unknown",
-      "price": 27.29,
-      "changePct": -6.38,
-      "changeDollar": -1.86
+      "price": 24.91,
+      "changePct": -3.64,
+      "changeDollar": -0.94
     }
   ]
 }
