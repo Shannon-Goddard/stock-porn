@@ -1,250 +1,250 @@
 {
   "topGainers": [
     {
-      "ticker": "ETHD",
-      "name": "PROSHARES TR ULTRA ETHER ETF",
+      "ticker": "SECZ",
+      "name": "SECURITIZE CORP COM SHS",
       "sector": "Unknown",
-      "price": 24.69,
-      "changePct": 5.24,
-      "changeDollar": 1.23
+      "price": 16.53,
+      "changePct": 15.11,
+      "changeDollar": 2.17
     },
     {
-      "ticker": "IONQ",
-      "name": "IONQ INC COM",
+      "ticker": "NBIL",
+      "name": "GRANITESHARES ETF TR 2X LONG NBIS DLY",
       "sector": "Unknown",
-      "price": 42.54,
-      "changePct": 4.42,
-      "changeDollar": 1.8
+      "price": 28.22,
+      "changePct": 14.81,
+      "changeDollar": 3.64
+    },
+    {
+      "ticker": "NEBX",
+      "name": "Tradr 2X Long NBIS Daily ETF",
+      "sector": "Unknown",
+      "price": 28.94,
+      "changePct": 14.7,
+      "changeDollar": 3.71
+    },
+    {
+      "ticker": "CDNA",
+      "name": "CAREDX INC COM",
+      "sector": "Unknown",
+      "price": 61.37,
+      "changePct": 13.0,
+      "changeDollar": 7.06
+    },
+    {
+      "ticker": "BOIL",
+      "name": "PROSHARES TR II ULTRA BLOOMBERG",
+      "sector": "Unknown",
+      "price": 24.44,
+      "changePct": 12.52,
+      "changeDollar": 2.72
+    },
+    {
+      "ticker": "WRBY",
+      "name": "WARBY PARKER INC CL A COM",
+      "sector": "Unknown",
+      "price": 26.27,
+      "changePct": 12.51,
+      "changeDollar": 2.92
+    },
+    {
+      "ticker": "P",
+      "name": "EVERPURE INC CL A",
+      "sector": "Unknown",
+      "price": 121.88,
+      "changePct": 11.15,
+      "changeDollar": 12.23
+    },
+    {
+      "ticker": "VCYT",
+      "name": "VERACYTE INC COM",
+      "sector": "Unknown",
+      "price": 48.54,
+      "changePct": 10.77,
+      "changeDollar": 4.72
+    },
+    {
+      "ticker": "BLLN",
+      "name": "BILLIONTOONE INC CL A",
+      "sector": "Unknown",
+      "price": 124.9,
+      "changePct": 9.16,
+      "changeDollar": 10.48
+    },
+    {
+      "ticker": "GLNK",
+      "name": "GRAYSCALE CHAINLINK TR ETF SHS",
+      "sector": "Unknown",
+      "price": 11.78,
+      "changePct": 8.27,
+      "changeDollar": 0.9
+    }
+  ],
+  "topLosers": [
+    {
+      "ticker": "ARMG",
+      "name": "THEMES ETF TR LEVERAGE SHARES",
+      "sector": "Unknown",
+      "price": 23.86,
+      "changePct": -15.66,
+      "changeDollar": -4.43
+    },
+    {
+      "ticker": "ACAD",
+      "name": "ACADIA PHARMACEUTICALS INC COM",
+      "sector": "Unknown",
+      "price": 22.18,
+      "changePct": -12.78,
+      "changeDollar": -3.25
+    },
+    {
+      "ticker": "KOLD",
+      "name": "PROSHARES TR II ULSHT BLOOMB GAS",
+      "sector": "Unknown",
+      "price": 23.1,
+      "changePct": -12.7,
+      "changeDollar": -3.36
+    },
+    {
+      "ticker": "GEN",
+      "name": "GEN DIGITAL INC COM",
+      "sector": "Unknown",
+      "price": 23.07,
+      "changePct": -12.05,
+      "changeDollar": -3.16
+    },
+    {
+      "ticker": "KGC",
+      "name": "KINROSS GOLD CORP COM",
+      "sector": "Unknown",
+      "price": 24.42,
+      "changePct": -11.59,
+      "changeDollar": -3.2
+    },
+    {
+      "ticker": "BETR",
+      "name": "BETTER HOME & FINANCE HOLDING COM NEW CL A",
+      "sector": "Unknown",
+      "price": 10.84,
+      "changePct": -10.86,
+      "changeDollar": -1.32
+    },
+    {
+      "ticker": "QURE",
+      "name": "UNIQURE NV SHS",
+      "sector": "Unknown",
+      "price": 38.32,
+      "changePct": -10.38,
+      "changeDollar": -4.44
+    },
+    {
+      "ticker": "FSLR",
+      "name": "FIRST SOLAR INC COM",
+      "sector": "Unknown",
+      "price": 172.16,
+      "changePct": -10.32,
+      "changeDollar": -19.81
+    },
+    {
+      "ticker": "FSLY",
+      "name": "FASTLY INC CL A",
+      "sector": "Unknown",
+      "price": 26.68,
+      "changePct": -10.02,
+      "changeDollar": -2.97
     },
     {
       "ticker": "WDCX",
       "name": "Tradr 2X Long WDC Daily ETF",
       "sector": "Unknown",
-      "price": 18.98,
-      "changePct": 4.06,
-      "changeDollar": 0.74
-    },
-    {
-      "ticker": "SOXS",
-      "name": "DIREXION SHARES ETF TRUST DAI SEM 3X ETF",
-      "sector": "Unknown",
-      "price": 33.66,
-      "changePct": 3.82,
-      "changeDollar": 1.24
-    },
-    {
-      "ticker": "SBIT",
-      "name": "PROSHARES TR ULTRA BITCO ETF",
-      "sector": "Unknown",
-      "price": 29.66,
-      "changePct": 3.78,
-      "changeDollar": 1.08
-    },
-    {
-      "ticker": "FPS",
-      "name": "FORGENT POWER SOLUTIONS INC COM SHS CL A",
-      "sector": "Unknown",
-      "price": 39.88,
-      "changePct": 3.53,
-      "changeDollar": 1.36
-    },
-    {
-      "ticker": "BP",
-      "name": "BP PLC SPONSORED ADR",
-      "sector": "Unknown",
-      "price": 44.49,
-      "changePct": 3.23,
-      "changeDollar": 1.39
-    },
-    {
-      "ticker": "UVXY",
-      "name": "ProShares Ultra VIX Short-Term Futures ETF",
-      "sector": "Unknown",
-      "price": 17.04,
-      "changePct": 2.47,
-      "changeDollar": 0.41
-    },
-    {
-      "ticker": "LITZ",
-      "name": "Tradr 2X Short LITE Daily ETF",
-      "sector": "Unknown",
-      "price": 26.06,
-      "changePct": 1.8,
-      "changeDollar": 0.46
-    },
-    {
-      "ticker": "SQQQ",
-      "name": "PROSHARES TR ULTRAPRO SHORT",
-      "sector": "Unknown",
-      "price": 34.14,
-      "changePct": 1.1,
-      "changeDollar": 0.37
-    }
-  ],
-  "topLosers": [
-    {
-      "ticker": "VOYG",
-      "name": "VOYAGER TECHNOLOGIES INC COM CL A",
-      "sector": "Unknown",
-      "price": 31.4,
-      "changePct": -16.33,
-      "changeDollar": -6.13
-    },
-    {
-      "ticker": "XRPT",
-      "name": "VOLATILITY SHS TR 2X XRP ETF",
-      "sector": "Unknown",
-      "price": 38.26,
-      "changePct": -12.13,
-      "changeDollar": -5.28
-    },
-    {
-      "ticker": "QBTX",
-      "name": "Tradr 2X Long QBTS Daily ETF",
-      "sector": "Unknown",
-      "price": 23.64,
-      "changePct": -7.48,
-      "changeDollar": -1.91
-    },
-    {
-      "ticker": "SNDU",
-      "name": "T-REX 2X Long SNDK Daily Target ETF",
-      "sector": "Unknown",
-      "price": 28.41,
-      "changePct": -7.43,
-      "changeDollar": -2.28
-    },
-    {
-      "ticker": "XRP",
-      "name": "BITWISE XRP ETF BENEFICIAL INT",
-      "sector": "Unknown",
-      "price": 16.71,
-      "changePct": -5.86,
-      "changeDollar": -1.04
-    },
-    {
-      "ticker": "ASTS",
-      "name": "AST SPACEMOBILE INC COM CL A",
-      "sector": "Unknown",
-      "price": 59.98,
-      "changePct": -5.83,
-      "changeDollar": -3.71
-    },
-    {
-      "ticker": "RAM",
-      "name": "Roundhill T-REX 2X Long DRAM Daily Target ETF",
-      "sector": "Unknown",
-      "price": 14.47,
-      "changePct": -5.73,
-      "changeDollar": -0.88
-    },
-    {
-      "ticker": "MSTU",
-      "name": "T-Rex 2X Long MSTR Daily Target ETF",
-      "sector": "Unknown",
-      "price": 45.01,
-      "changePct": -5.68,
-      "changeDollar": -2.71
-    },
-    {
-      "ticker": "AVL",
-      "name": "DIREXION SHARES ETF TRUST DLY AVGO BULL 2X",
-      "sector": "Unknown",
-      "price": 36.62,
-      "changePct": -5.25,
-      "changeDollar": -2.03
-    },
-    {
-      "ticker": "RARE",
-      "name": "ULTRAGENYX PHARMACEUTICAL INC COM",
-      "sector": "Unknown",
-      "price": 14.88,
-      "changePct": -4.67,
-      "changeDollar": -0.73
+      "price": 17.1,
+      "changePct": -9.91,
+      "changeDollar": -1.88
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "IONQ",
-      "name": "IONQ INC COM",
+      "ticker": "P",
+      "name": "EVERPURE INC CL A",
       "sector": "Unknown",
-      "price": 42.54,
-      "changePct": 4.42,
-      "changeDollar": 1.8
+      "price": 121.88,
+      "changePct": 11.15,
+      "changeDollar": 12.23
     },
     {
-      "ticker": "BP",
-      "name": "BP PLC SPONSORED ADR",
+      "ticker": "BLLN",
+      "name": "BILLIONTOONE INC CL A",
       "sector": "Unknown",
-      "price": 44.49,
-      "changePct": 3.23,
-      "changeDollar": 1.39
+      "price": 124.9,
+      "changePct": 9.16,
+      "changeDollar": 10.48
     },
     {
-      "ticker": "FPS",
-      "name": "FORGENT POWER SOLUTIONS INC COM SHS CL A",
+      "ticker": "CDNA",
+      "name": "CAREDX INC COM",
       "sector": "Unknown",
-      "price": 39.88,
-      "changePct": 3.53,
-      "changeDollar": 1.36
+      "price": 61.37,
+      "changePct": 13.0,
+      "changeDollar": 7.06
     },
     {
-      "ticker": "SOXS",
-      "name": "DIREXION SHARES ETF TRUST DAI SEM 3X ETF",
+      "ticker": "VCYT",
+      "name": "VERACYTE INC COM",
       "sector": "Unknown",
-      "price": 33.66,
-      "changePct": 3.82,
-      "changeDollar": 1.24
+      "price": 48.54,
+      "changePct": 10.77,
+      "changeDollar": 4.72
     },
     {
-      "ticker": "ETHD",
-      "name": "PROSHARES TR ULTRA ETHER ETF",
+      "ticker": "NEBX",
+      "name": "Tradr 2X Long NBIS Daily ETF",
       "sector": "Unknown",
-      "price": 24.69,
-      "changePct": 5.24,
-      "changeDollar": 1.23
+      "price": 28.94,
+      "changePct": 14.7,
+      "changeDollar": 3.71
     }
   ],
   "dollarLosers": [
     {
-      "ticker": "VOYG",
-      "name": "VOYAGER TECHNOLOGIES INC COM CL A",
+      "ticker": "FSLR",
+      "name": "FIRST SOLAR INC COM",
       "sector": "Unknown",
-      "price": 31.4,
-      "changePct": -16.33,
-      "changeDollar": -6.13
+      "price": 172.16,
+      "changePct": -10.32,
+      "changeDollar": -19.81
     },
     {
-      "ticker": "XRPT",
-      "name": "VOLATILITY SHS TR 2X XRP ETF",
+      "ticker": "QURE",
+      "name": "UNIQURE NV SHS",
       "sector": "Unknown",
-      "price": 38.26,
-      "changePct": -12.13,
-      "changeDollar": -5.28
+      "price": 38.32,
+      "changePct": -10.38,
+      "changeDollar": -4.44
     },
     {
-      "ticker": "ASTS",
-      "name": "AST SPACEMOBILE INC COM CL A",
+      "ticker": "ARMG",
+      "name": "THEMES ETF TR LEVERAGE SHARES",
       "sector": "Unknown",
-      "price": 59.98,
-      "changePct": -5.83,
-      "changeDollar": -3.71
+      "price": 23.86,
+      "changePct": -15.66,
+      "changeDollar": -4.43
     },
     {
-      "ticker": "MSTU",
-      "name": "T-Rex 2X Long MSTR Daily Target ETF",
+      "ticker": "KOLD",
+      "name": "PROSHARES TR II ULSHT BLOOMB GAS",
       "sector": "Unknown",
-      "price": 45.01,
-      "changePct": -5.68,
-      "changeDollar": -2.71
+      "price": 23.1,
+      "changePct": -12.7,
+      "changeDollar": -3.36
     },
     {
-      "ticker": "SNDU",
-      "name": "T-REX 2X Long SNDK Daily Target ETF",
+      "ticker": "ACAD",
+      "name": "ACADIA PHARMACEUTICALS INC COM",
       "sector": "Unknown",
-      "price": 28.41,
-      "changePct": -7.43,
-      "changeDollar": -2.28
+      "price": 22.18,
+      "changePct": -12.78,
+      "changeDollar": -3.25
     }
   ]
 }
