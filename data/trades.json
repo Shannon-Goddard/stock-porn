@@ -1248,17 +1248,19 @@
         "auto_note": "ALAB CALL | $+27.58 (+9.75%) | dollar_gainer_1 | Strike $390.0 exp 2026-09-11 (6DTE) | IV 88.2% | SPY +nan% | MACRO: rate hike, war"
       },
       "news_scan": {
-        "scanned_at": "2026-09-23 18:28:33 PST",
-        "gap_days": 18,
-        "ticker_sentiment": "bearish",
-        "spy_sentiment": "bearish",
+        "scanned_at": "2026-09-24 17:54:17 PST",
+        "gap_days": 19,
+        "ticker_sentiment": "neutral",
+        "spy_sentiment": "neutral",
         "spx_sentiment": "bullish",
-        "keywords_found": [
-          "weak"
-        ],
+        "keywords_found": [],
         "spy_keywords": [
+          "upgrade",
+          "surge",
+          "breakthrough",
           "falls",
-          "drops"
+          "drops",
+          "tumbles"
         ],
         "spx_keywords": [
           "surge"
@@ -1267,39 +1269,36 @@
         "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
         "raw_headlines": {
           "ticker": [
+            "Astera Labs (ALAB), Why Is Fresh Attention Building Now?",
             "Zacks Investment Ideas feature highlights: Astera Labs, SpaceX, Cloudflare, NVIDIA and Meta Platforms",
             "Why Zacks Rank #1 Astera Labs is Primed for Growth",
             "Broadcom CEO Holds $350B Outlook Strong Amid Calls to Slow Froniter AI Development",
             "Astera Labs Stock Jumped 12% Yesterday. The Street Sees 14% More Upside, Here\u2019s Why.",
-            "Tech Stocks Break Out: The Next Leg of the Bull Market",
-            "CRDO Down 20.3% in a Month: Is the Weakness an Opportunity?",
-            "Marvell Technology Fell Hard Over 3 Months: It Has Momentum and a Wall Street Pro\u2019s Confidence That 78% Gains are Coming",
-            "Credo Technology Crashed for 3 Months: This Wall Street Pro Says It\u2019s About to Double",
-            "Astera Labs vs. Qualcomm: Which Semiconductor Stock Is a Better Buy in 2026?"
+            "Tech Stocks Break Out: The Next Leg of the Bull Market"
           ],
           "spy": [
-            "Consumer Lending Stocks Slide While Financials Barely Budge: Upstart and Affirm Drop 4%, SoFi Eases",
-            "These 2 Stocks Are Bucking The Broader Market Selloff To Hit New Multi-Year Highs \u2014 Here\u2019s What\u2019s Driving The Enthusiasm",
-            "DraftKings Drops 4% as Prediction-Market Spending Plans Stir Margin Doubts; Flutter Entertainment Slips, Robinhood Ticks Up",
-            "Opendoor Slides 5% as Housing Names Fall Together; Zillow and Offerpad Drop 3%",
-            "Two Biotechs Get Beaten Down: Jaguar Health Collapses 59%, Viking Therapeutics Sinks 4%",
-            "Royal Caribbean Group Falls 5% on $3B Sandals Resorts Stake; Carnival and Norwegian Slide 3%",
-            "Fastly Just Ripped 138% This Year but It\u2019s Now Falling. Is It Time to Sell?",
-            "Intel Skyrocketed 30% Higher in 1 Month: Here\u2019s What to Do Now",
-            "Exchange-Traded Funds Lower, Equity Futures Mixed Pre-Bell Wednesday as Traders Await Developments in US-Iran Talks",
-            "Alibaba Falls 4% as Reported Beijing AI Probe Undercuts Chip Rally; Baidu Eases, JD.com Dips"
+            "IonQ Rises 4% as Post-Breakthrough Buying Continues; D-Wave Quantum Gains 3%, Rigetti Adds 2%",
+            "Meta Rises 3% as Its Month-Long Run Extends on Muse Buzz; Reddit Nudges Higher",
+            "BlackBerry Falls 2% Despite Record QNX Quarter and Raised Full-Year Outlook; Mobileye Holds Steady",
+            "Klarna Falls 3% as Selling Persists Weeks After Its Guidance Cut; Affirm Advances 2%",
+            "Solar Stocks Slide as High Borrowing Costs Weigh on Project Financing: First Solar Sinks 8%, SolarEdge Falls 5%, Enphase Energy Drops 4%",
+            "Webull Drops 6% as Selling Outlasts Its Insider-Sale Headlines; Robinhood and Interactive Brokers Dip 2%",
+            "Nebius Surges 6%, CoreWeave Treads Water as JPMorgan Upgrade Flags Rising Compute Pricing; IREN Slides 4%",
+            "Viking Therapeutics Sinks 15% After Pricing Upsized $500M Offering; Jaguar Health Tumbles 25%",
+            "Bloom Energy Sinks 6% as Traders Take Profits on a 190% YTD Run; Generac and Cummins Pull Back",
+            "Fastly Sinks 8% as Selling After Investor Day Cuts Into a 164% YTD Run; Cloudflare Holds Flat"
           ],
           "spx": [
-            "Looking for consumer and investor sentiment trends? Turn to social media.",
-            "Where to find 'relative value' outside of US equities",
-            "Expedia Stock Is Among Today\u2019s Worst in the S&P 500. Blame Meta\u2019s Muse.",
-            "Why Wall Street Is Aggressively Upgrading These 5 Stocks Right Now",
-            "Update: Equities Fall Intraday, Yields Surge as Rate Hike Bets Grow",
-            "Should You Buy Carnival Stock While Europe Sails Emptier?",
-            "Update: US Equity Indexes Fall in Midday Trading Amid Rising Treasury Yields",
-            "Why Did On Holding Stock Jump If Its Near-Term Guidance Did Not Change?",
-            "The Economy Is Booming, So the Market Indexes Fell. Go Figure.",
-            "Meta\u2019s Muse AI Assistant Triggers Worries About Brokerage Stocks"
+            "Stock market today: Dow, S&P 500, Nasdaq tumble as 10-year Treasury yield surges to 2007 high",
+            "Prediction: This Is What a $1,000 Investment in Apple Will Be Worth by 2030",
+            "Billionaire Bill Ackman\u2019s Pershing Square Capital Management Has 12.7% of Its Portfolio Invested in This Beaten-Down Stock",
+            "The Tax-Loss Harvesting Trick the 1% Uses \u2014 and How Regular Investors Can Copy It",
+            "S&P 500 Turns Green on Reports of 'Phased' Hormuz Reopening",
+            "Market Indexes Fall Again as the 30-Year Yield Hits a 2004 High",
+            "Update: US Equity Indexes Drop as 30-Year Treasury Yield Surpasses Two-Decade High Amid Surging Crude Oil Prices",
+            "Wall St slips as Middle East escalations lifts oil; Trump-Xi talks in focus",
+            "Stock Market Midday, Sept. 24: Stocks Slide as Treasury Yields Climb, Oracle Declares Force Majeure",
+            "Want Reliable Dividend Income? These 2 Industrial Stocks Deliver"
           ]
         }
       },
@@ -1345,57 +1344,63 @@
         "auto_note": "TSLA PUT | $-22.29 (-5.92%) | dollar_loser_1 | Strike $340.0 exp 2026-09-09 (4DTE) | IV 32.4% | SPY +nan% | MACRO: rate hike, war"
       },
       "news_scan": {
-        "scanned_at": "2026-09-23 18:28:33 PST",
-        "gap_days": 18,
-        "ticker_sentiment": "neutral",
-        "spy_sentiment": "bearish",
+        "scanned_at": "2026-09-24 17:54:17 PST",
+        "gap_days": 19,
+        "ticker_sentiment": "bearish",
+        "spy_sentiment": "neutral",
         "spx_sentiment": "bullish",
-        "keywords_found": [],
+        "keywords_found": [
+          "falls"
+        ],
         "spy_keywords": [
+          "upgrade",
+          "surge",
+          "breakthrough",
           "falls",
-          "drops"
+          "drops",
+          "tumbles"
         ],
         "spx_keywords": [
           "surge"
         ],
         "decision": "hold",
-        "decision_reason": "neutral keywords confirmed PUT thesis",
+        "decision_reason": "bearish keywords confirmed PUT thesis",
         "raw_headlines": {
           "ticker": [
-            "Tesla Is Supplying the Trucks. Nvidia Is Supplying the Compute. This $4 Stock Sits in the Middle",
-            "Paramount Weighs A Musk Check As The Warner Deal Nears Finish Line, Says Report",
-            "I Speculated That Stanley Druckenmiller's Tesla Buy Was About FSD. Billionaire Investor Ron Baron Just Confirmed My Thesis.",
-            "Did Trump Snub Ford? The Stock Dips Ahead of Dinner With Xi.",
-            "What If Elon Musk Built a Low-Cost Energy Grid?",
-            "Uber: Insider Buying and Selling Activity to Watch Amid Panic After Tesla Cybercab Rollout",
-            "Trump\u2019s State Dinner Makes Strange Bedfellows of Tesla\u2019s Elon Musk and GM\u2019s Mary Barra",
-            "Elon Musk Just Said \"Dario Is Right\" About Slowing AI Development. Here's What That Endorsement Could Mean for Tesla's and xAI's AI Road Maps.",
-            "Elon Musk Says Tesla Has Offered FSD to Legacy Automakers, but \u2018None\u2019 Have Accepted So Far",
-            "Musk Praises Xi, Chinese AI Models Ahead Of U.S. State Visit: 'A Great Leader'"
+            "Ford Set To Lose Ground To Hyundai In Q3 Sales, Says Cox Automotive \u2014 \u2018Detroit 3\u2019 Market Share Seen Hitting Record Low",
+            "Tesla FSD Drove Over the Limit in 55% of Brussels Tests Ahead of EU Approval Vote",
+            "Prediction: The Biggest Opportunity\u00a0for Tesla Stock\u00a0May Be Just\u00a0Ahead",
+            "Tesla Semi Joins Parade Of New Model Showcases; Stock Falls",
+            "Morgan Stanley says Tesla robotics strengthens SpaceX\u2019s $300 AI case",
+            "Forget Doomsday: These 4 Real-World Risks Could Derail the AI Stock Rally",
+            "Tesla's Biggest Semi Deal Yet: Is TSLA Stock a Buy Now?",
+            "Bentley debuts its first electric car. Starting price: $250,000.",
+            "Tesla to open doors of its Nevada Semi truck factory",
+            "NEAR Crypto Tokenized Stock Launch Puts Distribution Ahead of Scale"
           ],
           "spy": [
-            "Consumer Lending Stocks Slide While Financials Barely Budge: Upstart and Affirm Drop 4%, SoFi Eases",
-            "These 2 Stocks Are Bucking The Broader Market Selloff To Hit New Multi-Year Highs \u2014 Here\u2019s What\u2019s Driving The Enthusiasm",
-            "DraftKings Drops 4% as Prediction-Market Spending Plans Stir Margin Doubts; Flutter Entertainment Slips, Robinhood Ticks Up",
-            "Opendoor Slides 5% as Housing Names Fall Together; Zillow and Offerpad Drop 3%",
-            "Two Biotechs Get Beaten Down: Jaguar Health Collapses 59%, Viking Therapeutics Sinks 4%",
-            "Royal Caribbean Group Falls 5% on $3B Sandals Resorts Stake; Carnival and Norwegian Slide 3%",
-            "Fastly Just Ripped 138% This Year but It\u2019s Now Falling. Is It Time to Sell?",
-            "Intel Skyrocketed 30% Higher in 1 Month: Here\u2019s What to Do Now",
-            "Exchange-Traded Funds Lower, Equity Futures Mixed Pre-Bell Wednesday as Traders Await Developments in US-Iran Talks",
-            "Alibaba Falls 4% as Reported Beijing AI Probe Undercuts Chip Rally; Baidu Eases, JD.com Dips"
+            "IonQ Rises 4% as Post-Breakthrough Buying Continues; D-Wave Quantum Gains 3%, Rigetti Adds 2%",
+            "Meta Rises 3% as Its Month-Long Run Extends on Muse Buzz; Reddit Nudges Higher",
+            "BlackBerry Falls 2% Despite Record QNX Quarter and Raised Full-Year Outlook; Mobileye Holds Steady",
+            "Klarna Falls 3% as Selling Persists Weeks After Its Guidance Cut; Affirm Advances 2%",
+            "Solar Stocks Slide as High Borrowing Costs Weigh on Project Financing: First Solar Sinks 8%, SolarEdge Falls 5%, Enphase Energy Drops 4%",
+            "Webull Drops 6% as Selling Outlasts Its Insider-Sale Headlines; Robinhood and Interactive Brokers Dip 2%",
+            "Nebius Surges 6%, CoreWeave Treads Water as JPMorgan Upgrade Flags Rising Compute Pricing; IREN Slides 4%",
+            "Viking Therapeutics Sinks 15% After Pricing Upsized $500M Offering; Jaguar Health Tumbles 25%",
+            "Bloom Energy Sinks 6% as Traders Take Profits on a 190% YTD Run; Generac and Cummins Pull Back",
+            "Fastly Sinks 8% as Selling After Investor Day Cuts Into a 164% YTD Run; Cloudflare Holds Flat"
           ],
           "spx": [
-            "Looking for consumer and investor sentiment trends? Turn to social media.",
-            "Where to find 'relative value' outside of US equities",
-            "Expedia Stock Is Among Today\u2019s Worst in the S&P 500. Blame Meta\u2019s Muse.",
-            "Why Wall Street Is Aggressively Upgrading These 5 Stocks Right Now",
-            "Update: Equities Fall Intraday, Yields Surge as Rate Hike Bets Grow",
-            "Should You Buy Carnival Stock While Europe Sails Emptier?",
-            "Update: US Equity Indexes Fall in Midday Trading Amid Rising Treasury Yields",
-            "Why Did On Holding Stock Jump If Its Near-Term Guidance Did Not Change?",
-            "The Economy Is Booming, So the Market Indexes Fell. Go Figure.",
-            "Meta\u2019s Muse AI Assistant Triggers Worries About Brokerage Stocks"
+            "Stock market today: Dow, S&P 500, Nasdaq tumble as 10-year Treasury yield surges to 2007 high",
+            "Prediction: This Is What a $1,000 Investment in Apple Will Be Worth by 2030",
+            "Billionaire Bill Ackman\u2019s Pershing Square Capital Management Has 12.7% of Its Portfolio Invested in This Beaten-Down Stock",
+            "The Tax-Loss Harvesting Trick the 1% Uses \u2014 and How Regular Investors Can Copy It",
+            "S&P 500 Turns Green on Reports of 'Phased' Hormuz Reopening",
+            "Market Indexes Fall Again as the 30-Year Yield Hits a 2004 High",
+            "Update: US Equity Indexes Drop as 30-Year Treasury Yield Surpasses Two-Decade High Amid Surging Crude Oil Prices",
+            "Wall St slips as Middle East escalations lifts oil; Trump-Xi talks in focus",
+            "Stock Market Midday, Sept. 24: Stocks Slide as Treasury Yields Climb, Oracle Declares Force Majeure",
+            "Want Reliable Dividend Income? These 2 Industrial Stocks Deliver"
           ]
         }
       },
@@ -1438,54 +1443,62 @@
         "auto_note": "DDOG CALL | $+15.04 (+7.15%) | dollar_gainer_1 | Strike $240.0 exp 2026-09-11 (1DTE) | IV 68.4% | SPY +nan% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-09-23 18:28:33 PST",
-        "gap_days": 13,
-        "ticker_sentiment": "bullish",
-        "spy_sentiment": "bearish",
+        "scanned_at": "2026-09-24 17:54:17 PST",
+        "gap_days": 14,
+        "ticker_sentiment": "neutral",
+        "spy_sentiment": "neutral",
         "spx_sentiment": "bullish",
         "keywords_found": [
-          "soars"
+          "soars",
+          "concern"
         ],
         "spy_keywords": [
+          "upgrade",
+          "surge",
+          "breakthrough",
           "falls",
-          "drops"
+          "drops",
+          "tumbles"
         ],
         "spx_keywords": [
           "surge"
         ],
-        "decision": "hold",
-        "decision_reason": "bullish keywords confirmed CALL thesis",
+        "decision": "sell",
+        "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
         "raw_headlines": {
           "ticker": [
+            "Fastly Sinks 8% as Selling After Investor Day Cuts Into a 164% YTD Run; Cloudflare Holds Flat",
+            "Dow Jones Futures Fall As Treasury Yields, Oil Prices Keep Rising. Meta, Everpure, Grail Are Early Movers.",
+            "Datadog (DDOG) Gains As Market Dips: What You Should Know",
+            "Trump Downplayed AI Safety Concerns, but His Investment Portfolio Bought Cybersecurity Stocks",
             "Fastly Just Ripped 138% This Year but It\u2019s Now Falling. Is It Time to Sell?",
             "Fortinet vs. Datadog: Which Cloud Security Stock Has Better Potential?",
             "Twilio, Datadog, Unity, Zscaler, and Elastic Shares Skyrocket, What You Need To Know",
-            "Fastly Soars 14% on AI Firewall Launch; Cloudflare Climbs 7%, Datadog Rises 5%",
-            "1 S&P 500 Stock for Long-Term Investors and 2 We Find Risky"
+            "Fastly Soars 14% on AI Firewall Launch; Cloudflare Climbs 7%, Datadog Rises 5%"
           ],
           "spy": [
-            "Consumer Lending Stocks Slide While Financials Barely Budge: Upstart and Affirm Drop 4%, SoFi Eases",
-            "These 2 Stocks Are Bucking The Broader Market Selloff To Hit New Multi-Year Highs \u2014 Here\u2019s What\u2019s Driving The Enthusiasm",
-            "DraftKings Drops 4% as Prediction-Market Spending Plans Stir Margin Doubts; Flutter Entertainment Slips, Robinhood Ticks Up",
-            "Opendoor Slides 5% as Housing Names Fall Together; Zillow and Offerpad Drop 3%",
-            "Two Biotechs Get Beaten Down: Jaguar Health Collapses 59%, Viking Therapeutics Sinks 4%",
-            "Royal Caribbean Group Falls 5% on $3B Sandals Resorts Stake; Carnival and Norwegian Slide 3%",
-            "Fastly Just Ripped 138% This Year but It\u2019s Now Falling. Is It Time to Sell?",
-            "Intel Skyrocketed 30% Higher in 1 Month: Here\u2019s What to Do Now",
-            "Exchange-Traded Funds Lower, Equity Futures Mixed Pre-Bell Wednesday as Traders Await Developments in US-Iran Talks",
-            "Alibaba Falls 4% as Reported Beijing AI Probe Undercuts Chip Rally; Baidu Eases, JD.com Dips"
+            "IonQ Rises 4% as Post-Breakthrough Buying Continues; D-Wave Quantum Gains 3%, Rigetti Adds 2%",
+            "Meta Rises 3% as Its Month-Long Run Extends on Muse Buzz; Reddit Nudges Higher",
+            "BlackBerry Falls 2% Despite Record QNX Quarter and Raised Full-Year Outlook; Mobileye Holds Steady",
+            "Klarna Falls 3% as Selling Persists Weeks After Its Guidance Cut; Affirm Advances 2%",
+            "Solar Stocks Slide as High Borrowing Costs Weigh on Project Financing: First Solar Sinks 8%, SolarEdge Falls 5%, Enphase Energy Drops 4%",
+            "Webull Drops 6% as Selling Outlasts Its Insider-Sale Headlines; Robinhood and Interactive Brokers Dip 2%",
+            "Nebius Surges 6%, CoreWeave Treads Water as JPMorgan Upgrade Flags Rising Compute Pricing; IREN Slides 4%",
+            "Viking Therapeutics Sinks 15% After Pricing Upsized $500M Offering; Jaguar Health Tumbles 25%",
+            "Bloom Energy Sinks 6% as Traders Take Profits on a 190% YTD Run; Generac and Cummins Pull Back",
+            "Fastly Sinks 8% as Selling After Investor Day Cuts Into a 164% YTD Run; Cloudflare Holds Flat"
           ],
           "spx": [
-            "Looking for consumer and investor sentiment trends? Turn to social media.",
-            "Where to find 'relative value' outside of US equities",
-            "Expedia Stock Is Among Today\u2019s Worst in the S&P 500. Blame Meta\u2019s Muse.",
-            "Why Wall Street Is Aggressively Upgrading These 5 Stocks Right Now",
-            "Update: Equities Fall Intraday, Yields Surge as Rate Hike Bets Grow",
-            "Should You Buy Carnival Stock While Europe Sails Emptier?",
-            "Update: US Equity Indexes Fall in Midday Trading Amid Rising Treasury Yields",
-            "Why Did On Holding Stock Jump If Its Near-Term Guidance Did Not Change?",
-            "The Economy Is Booming, So the Market Indexes Fell. Go Figure.",
-            "Meta\u2019s Muse AI Assistant Triggers Worries About Brokerage Stocks"
+            "Stock market today: Dow, S&P 500, Nasdaq tumble as 10-year Treasury yield surges to 2007 high",
+            "Prediction: This Is What a $1,000 Investment in Apple Will Be Worth by 2030",
+            "Billionaire Bill Ackman\u2019s Pershing Square Capital Management Has 12.7% of Its Portfolio Invested in This Beaten-Down Stock",
+            "The Tax-Loss Harvesting Trick the 1% Uses \u2014 and How Regular Investors Can Copy It",
+            "S&P 500 Turns Green on Reports of 'Phased' Hormuz Reopening",
+            "Market Indexes Fall Again as the 30-Year Yield Hits a 2004 High",
+            "Update: US Equity Indexes Drop as 30-Year Treasury Yield Surpasses Two-Decade High Amid Surging Crude Oil Prices",
+            "Wall St slips as Middle East escalations lifts oil; Trump-Xi talks in focus",
+            "Stock Market Midday, Sept. 24: Stocks Slide as Treasury Yields Climb, Oracle Declares Force Majeure",
+            "Want Reliable Dividend Income? These 2 Industrial Stocks Deliver"
           ]
         }
       },
@@ -1531,15 +1544,19 @@
         "auto_note": "RGTZ CALL | $+14.18 (+402.84%) | dollar_gainer_1 | Strike $8.0 exp 2026-09-18 (7DTE) | IV 0.0% | SPY +nan% | MACRO: rate hike, china"
       },
       "news_scan": {
-        "scanned_at": "2026-09-23 18:28:33 PST",
-        "gap_days": 12,
+        "scanned_at": "2026-09-24 17:54:17 PST",
+        "gap_days": 13,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bearish",
+        "spy_sentiment": "neutral",
         "spx_sentiment": "bullish",
         "keywords_found": [],
         "spy_keywords": [
+          "upgrade",
+          "surge",
+          "breakthrough",
           "falls",
-          "drops"
+          "drops",
+          "tumbles"
         ],
         "spx_keywords": [
           "surge"
@@ -1549,28 +1566,28 @@
         "raw_headlines": {
           "ticker": [],
           "spy": [
-            "Consumer Lending Stocks Slide While Financials Barely Budge: Upstart and Affirm Drop 4%, SoFi Eases",
-            "These 2 Stocks Are Bucking The Broader Market Selloff To Hit New Multi-Year Highs \u2014 Here\u2019s What\u2019s Driving The Enthusiasm",
-            "DraftKings Drops 4% as Prediction-Market Spending Plans Stir Margin Doubts; Flutter Entertainment Slips, Robinhood Ticks Up",
-            "Opendoor Slides 5% as Housing Names Fall Together; Zillow and Offerpad Drop 3%",
-            "Two Biotechs Get Beaten Down: Jaguar Health Collapses 59%, Viking Therapeutics Sinks 4%",
-            "Royal Caribbean Group Falls 5% on $3B Sandals Resorts Stake; Carnival and Norwegian Slide 3%",
-            "Fastly Just Ripped 138% This Year but It\u2019s Now Falling. Is It Time to Sell?",
-            "Intel Skyrocketed 30% Higher in 1 Month: Here\u2019s What to Do Now",
-            "Exchange-Traded Funds Lower, Equity Futures Mixed Pre-Bell Wednesday as Traders Await Developments in US-Iran Talks",
-            "Alibaba Falls 4% as Reported Beijing AI Probe Undercuts Chip Rally; Baidu Eases, JD.com Dips"
+            "IonQ Rises 4% as Post-Breakthrough Buying Continues; D-Wave Quantum Gains 3%, Rigetti Adds 2%",
+            "Meta Rises 3% as Its Month-Long Run Extends on Muse Buzz; Reddit Nudges Higher",
+            "BlackBerry Falls 2% Despite Record QNX Quarter and Raised Full-Year Outlook; Mobileye Holds Steady",
+            "Klarna Falls 3% as Selling Persists Weeks After Its Guidance Cut; Affirm Advances 2%",
+            "Solar Stocks Slide as High Borrowing Costs Weigh on Project Financing: First Solar Sinks 8%, SolarEdge Falls 5%, Enphase Energy Drops 4%",
+            "Webull Drops 6% as Selling Outlasts Its Insider-Sale Headlines; Robinhood and Interactive Brokers Dip 2%",
+            "Nebius Surges 6%, CoreWeave Treads Water as JPMorgan Upgrade Flags Rising Compute Pricing; IREN Slides 4%",
+            "Viking Therapeutics Sinks 15% After Pricing Upsized $500M Offering; Jaguar Health Tumbles 25%",
+            "Bloom Energy Sinks 6% as Traders Take Profits on a 190% YTD Run; Generac and Cummins Pull Back",
+            "Fastly Sinks 8% as Selling After Investor Day Cuts Into a 164% YTD Run; Cloudflare Holds Flat"
           ],
           "spx": [
-            "Looking for consumer and investor sentiment trends? Turn to social media.",
-            "Where to find 'relative value' outside of US equities",
-            "Expedia Stock Is Among Today\u2019s Worst in the S&P 500. Blame Meta\u2019s Muse.",
-            "Why Wall Street Is Aggressively Upgrading These 5 Stocks Right Now",
-            "Update: Equities Fall Intraday, Yields Surge as Rate Hike Bets Grow",
-            "Should You Buy Carnival Stock While Europe Sails Emptier?",
-            "Update: US Equity Indexes Fall in Midday Trading Amid Rising Treasury Yields",
-            "Why Did On Holding Stock Jump If Its Near-Term Guidance Did Not Change?",
-            "The Economy Is Booming, So the Market Indexes Fell. Go Figure.",
-            "Meta\u2019s Muse AI Assistant Triggers Worries About Brokerage Stocks"
+            "Stock market today: Dow, S&P 500, Nasdaq tumble as 10-year Treasury yield surges to 2007 high",
+            "Prediction: This Is What a $1,000 Investment in Apple Will Be Worth by 2030",
+            "Billionaire Bill Ackman\u2019s Pershing Square Capital Management Has 12.7% of Its Portfolio Invested in This Beaten-Down Stock",
+            "The Tax-Loss Harvesting Trick the 1% Uses \u2014 and How Regular Investors Can Copy It",
+            "S&P 500 Turns Green on Reports of 'Phased' Hormuz Reopening",
+            "Market Indexes Fall Again as the 30-Year Yield Hits a 2004 High",
+            "Update: US Equity Indexes Drop as 30-Year Treasury Yield Surpasses Two-Decade High Amid Surging Crude Oil Prices",
+            "Wall St slips as Middle East escalations lifts oil; Trump-Xi talks in focus",
+            "Stock Market Midday, Sept. 24: Stocks Slide as Treasury Yields Climb, Oracle Declares Force Majeure",
+            "Want Reliable Dividend Income? These 2 Industrial Stocks Deliver"
           ]
         }
       },
@@ -1615,15 +1632,19 @@
         "auto_note": "VICR CALL | $+19.86 (+11.15%) | dollar_gainer_1 | Strike $240.0 exp 2026-09-18 (6DTE) | IV 86.0% | SPY +nan% | MACRO: fed"
       },
       "news_scan": {
-        "scanned_at": "2026-09-23 18:28:33 PST",
-        "gap_days": 11,
+        "scanned_at": "2026-09-24 17:54:17 PST",
+        "gap_days": 12,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bearish",
+        "spy_sentiment": "neutral",
         "spx_sentiment": "bullish",
         "keywords_found": [],
         "spy_keywords": [
+          "upgrade",
+          "surge",
+          "breakthrough",
           "falls",
-          "drops"
+          "drops",
+          "tumbles"
         ],
         "spx_keywords": [
           "surge"
@@ -1632,6 +1653,7 @@
         "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
         "raw_headlines": {
           "ticker": [
+            "Vicor (VICR) Climbed, But What Is Behind The Attention Now?",
             "Vicor Stock Jumped 20% in a Day After a Guidance Raise. Here\u2019s Where It Could Go",
             "Company News for Sep 23, 2026",
             "Is Vicor Stock Worth Buying Before Its Second Fab Exists?",
@@ -1640,32 +1662,31 @@
             "How Much Upside is Left in Vicor (VICR)? Wall Street Analysts Think 60.61%",
             "Why Did Vicor Stock Jump Before It Raised Its Outlook?",
             "Vicor Shares Jump Nearly 9.9% After Company Raises Third-Quarter Revenue Outlook",
-            "Vicor (VICR) Licenses its Power Patents to Another AI System Maker. Shares Jump 18%",
-            "Vicor Shares Moved Higher on a New AI Processing Deal. How Investors Should View the News."
+            "Vicor (VICR) Licenses its Power Patents to Another AI System Maker. Shares Jump 18%"
           ],
           "spy": [
-            "Consumer Lending Stocks Slide While Financials Barely Budge: Upstart and Affirm Drop 4%, SoFi Eases",
-            "These 2 Stocks Are Bucking The Broader Market Selloff To Hit New Multi-Year Highs \u2014 Here\u2019s What\u2019s Driving The Enthusiasm",
-            "DraftKings Drops 4% as Prediction-Market Spending Plans Stir Margin Doubts; Flutter Entertainment Slips, Robinhood Ticks Up",
-            "Opendoor Slides 5% as Housing Names Fall Together; Zillow and Offerpad Drop 3%",
-            "Two Biotechs Get Beaten Down: Jaguar Health Collapses 59%, Viking Therapeutics Sinks 4%",
-            "Royal Caribbean Group Falls 5% on $3B Sandals Resorts Stake; Carnival and Norwegian Slide 3%",
-            "Fastly Just Ripped 138% This Year but It\u2019s Now Falling. Is It Time to Sell?",
-            "Intel Skyrocketed 30% Higher in 1 Month: Here\u2019s What to Do Now",
-            "Exchange-Traded Funds Lower, Equity Futures Mixed Pre-Bell Wednesday as Traders Await Developments in US-Iran Talks",
-            "Alibaba Falls 4% as Reported Beijing AI Probe Undercuts Chip Rally; Baidu Eases, JD.com Dips"
+            "IonQ Rises 4% as Post-Breakthrough Buying Continues; D-Wave Quantum Gains 3%, Rigetti Adds 2%",
+            "Meta Rises 3% as Its Month-Long Run Extends on Muse Buzz; Reddit Nudges Higher",
+            "BlackBerry Falls 2% Despite Record QNX Quarter and Raised Full-Year Outlook; Mobileye Holds Steady",
+            "Klarna Falls 3% as Selling Persists Weeks After Its Guidance Cut; Affirm Advances 2%",
+            "Solar Stocks Slide as High Borrowing Costs Weigh on Project Financing: First Solar Sinks 8%, SolarEdge Falls 5%, Enphase Energy Drops 4%",
+            "Webull Drops 6% as Selling Outlasts Its Insider-Sale Headlines; Robinhood and Interactive Brokers Dip 2%",
+            "Nebius Surges 6%, CoreWeave Treads Water as JPMorgan Upgrade Flags Rising Compute Pricing; IREN Slides 4%",
+            "Viking Therapeutics Sinks 15% After Pricing Upsized $500M Offering; Jaguar Health Tumbles 25%",
+            "Bloom Energy Sinks 6% as Traders Take Profits on a 190% YTD Run; Generac and Cummins Pull Back",
+            "Fastly Sinks 8% as Selling After Investor Day Cuts Into a 164% YTD Run; Cloudflare Holds Flat"
           ],
           "spx": [
-            "Looking for consumer and investor sentiment trends? Turn to social media.",
-            "Where to find 'relative value' outside of US equities",
-            "Expedia Stock Is Among Today\u2019s Worst in the S&P 500. Blame Meta\u2019s Muse.",
-            "Why Wall Street Is Aggressively Upgrading These 5 Stocks Right Now",
-            "Update: Equities Fall Intraday, Yields Surge as Rate Hike Bets Grow",
-            "Should You Buy Carnival Stock While Europe Sails Emptier?",
-            "Update: US Equity Indexes Fall in Midday Trading Amid Rising Treasury Yields",
-            "Why Did On Holding Stock Jump If Its Near-Term Guidance Did Not Change?",
-            "The Economy Is Booming, So the Market Indexes Fell. Go Figure.",
-            "Meta\u2019s Muse AI Assistant Triggers Worries About Brokerage Stocks"
+            "Stock market today: Dow, S&P 500, Nasdaq tumble as 10-year Treasury yield surges to 2007 high",
+            "Prediction: This Is What a $1,000 Investment in Apple Will Be Worth by 2030",
+            "Billionaire Bill Ackman\u2019s Pershing Square Capital Management Has 12.7% of Its Portfolio Invested in This Beaten-Down Stock",
+            "The Tax-Loss Harvesting Trick the 1% Uses \u2014 and How Regular Investors Can Copy It",
+            "S&P 500 Turns Green on Reports of 'Phased' Hormuz Reopening",
+            "Market Indexes Fall Again as the 30-Year Yield Hits a 2004 High",
+            "Update: US Equity Indexes Drop as 30-Year Treasury Yield Surpasses Two-Decade High Amid Surging Crude Oil Prices",
+            "Wall St slips as Middle East escalations lifts oil; Trump-Xi talks in focus",
+            "Stock Market Midday, Sept. 24: Stocks Slide as Treasury Yields Climb, Oracle Declares Force Majeure",
+            "Want Reliable Dividend Income? These 2 Industrial Stocks Deliver"
           ]
         }
       },
@@ -1710,51 +1731,55 @@
         "auto_note": "LEU PUT | $-13.56 (-8.18%) | dollar_loser_1 | Strike $135.0 exp 2026-09-18 (6DTE) | IV 56.5% | SPY +nan% | MACRO: fed"
       },
       "news_scan": {
-        "scanned_at": "2026-09-23 18:28:33 PST",
-        "gap_days": 11,
+        "scanned_at": "2026-09-24 17:54:17 PST",
+        "gap_days": 12,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bearish",
+        "spy_sentiment": "neutral",
         "spx_sentiment": "bullish",
         "keywords_found": [],
         "spy_keywords": [
+          "upgrade",
+          "surge",
+          "breakthrough",
           "falls",
-          "drops"
+          "drops",
+          "tumbles"
         ],
         "spx_keywords": [
           "surge"
         ],
-        "decision": "hold",
-        "decision_reason": "neutral keywords confirmed PUT thesis",
+        "decision": "sell",
+        "decision_reason": "no confirmation for PUT thesis \u2014 sell at open",
         "raw_headlines": {
           "ticker": [
+            "Is Centrus Energy the Ultimate Pick-and-Shovel Play on the Nuclear Technology Boom?",
+            "3 Reasons to Sell LEU and 1 Stock to Buy Instead",
             "Nuclear Energy Stocks Rally as Demand for Reliable Clean Power Grows",
-            "Q2 Earnings Outperformers: Centrus Energy (NYSE:LEU) And The Rest Of The Mixed or Offshore Upstream E&P Stocks",
-            "1 Small-Cap Stock with Exciting Potential and 2 We Find Risky",
-            "A Safer Way to Bet on Nuclear"
+            "Q2 Earnings Outperformers: Centrus Energy (NYSE:LEU) And The Rest Of The Mixed or Offshore Upstream E&P Stocks"
           ],
           "spy": [
-            "Consumer Lending Stocks Slide While Financials Barely Budge: Upstart and Affirm Drop 4%, SoFi Eases",
-            "These 2 Stocks Are Bucking The Broader Market Selloff To Hit New Multi-Year Highs \u2014 Here\u2019s What\u2019s Driving The Enthusiasm",
-            "DraftKings Drops 4% as Prediction-Market Spending Plans Stir Margin Doubts; Flutter Entertainment Slips, Robinhood Ticks Up",
-            "Opendoor Slides 5% as Housing Names Fall Together; Zillow and Offerpad Drop 3%",
-            "Two Biotechs Get Beaten Down: Jaguar Health Collapses 59%, Viking Therapeutics Sinks 4%",
-            "Royal Caribbean Group Falls 5% on $3B Sandals Resorts Stake; Carnival and Norwegian Slide 3%",
-            "Fastly Just Ripped 138% This Year but It\u2019s Now Falling. Is It Time to Sell?",
-            "Intel Skyrocketed 30% Higher in 1 Month: Here\u2019s What to Do Now",
-            "Exchange-Traded Funds Lower, Equity Futures Mixed Pre-Bell Wednesday as Traders Await Developments in US-Iran Talks",
-            "Alibaba Falls 4% as Reported Beijing AI Probe Undercuts Chip Rally; Baidu Eases, JD.com Dips"
+            "IonQ Rises 4% as Post-Breakthrough Buying Continues; D-Wave Quantum Gains 3%, Rigetti Adds 2%",
+            "Meta Rises 3% as Its Month-Long Run Extends on Muse Buzz; Reddit Nudges Higher",
+            "BlackBerry Falls 2% Despite Record QNX Quarter and Raised Full-Year Outlook; Mobileye Holds Steady",
+            "Klarna Falls 3% as Selling Persists Weeks After Its Guidance Cut; Affirm Advances 2%",
+            "Solar Stocks Slide as High Borrowing Costs Weigh on Project Financing: First Solar Sinks 8%, SolarEdge Falls 5%, Enphase Energy Drops 4%",
+            "Webull Drops 6% as Selling Outlasts Its Insider-Sale Headlines; Robinhood and Interactive Brokers Dip 2%",
+            "Nebius Surges 6%, CoreWeave Treads Water as JPMorgan Upgrade Flags Rising Compute Pricing; IREN Slides 4%",
+            "Viking Therapeutics Sinks 15% After Pricing Upsized $500M Offering; Jaguar Health Tumbles 25%",
+            "Bloom Energy Sinks 6% as Traders Take Profits on a 190% YTD Run; Generac and Cummins Pull Back",
+            "Fastly Sinks 8% as Selling After Investor Day Cuts Into a 164% YTD Run; Cloudflare Holds Flat"
           ],
           "spx": [
-            "Looking for consumer and investor sentiment trends? Turn to social media.",
-            "Where to find 'relative value' outside of US equities",
-            "Expedia Stock Is Among Today\u2019s Worst in the S&P 500. Blame Meta\u2019s Muse.",
-            "Why Wall Street Is Aggressively Upgrading These 5 Stocks Right Now",
-            "Update: Equities Fall Intraday, Yields Surge as Rate Hike Bets Grow",
-            "Should You Buy Carnival Stock While Europe Sails Emptier?",
-            "Update: US Equity Indexes Fall in Midday Trading Amid Rising Treasury Yields",
-            "Why Did On Holding Stock Jump If Its Near-Term Guidance Did Not Change?",
-            "The Economy Is Booming, So the Market Indexes Fell. Go Figure.",
-            "Meta\u2019s Muse AI Assistant Triggers Worries About Brokerage Stocks"
+            "Stock market today: Dow, S&P 500, Nasdaq tumble as 10-year Treasury yield surges to 2007 high",
+            "Prediction: This Is What a $1,000 Investment in Apple Will Be Worth by 2030",
+            "Billionaire Bill Ackman\u2019s Pershing Square Capital Management Has 12.7% of Its Portfolio Invested in This Beaten-Down Stock",
+            "The Tax-Loss Harvesting Trick the 1% Uses \u2014 and How Regular Investors Can Copy It",
+            "S&P 500 Turns Green on Reports of 'Phased' Hormuz Reopening",
+            "Market Indexes Fall Again as the 30-Year Yield Hits a 2004 High",
+            "Update: US Equity Indexes Drop as 30-Year Treasury Yield Surpasses Two-Decade High Amid Surging Crude Oil Prices",
+            "Wall St slips as Middle East escalations lifts oil; Trump-Xi talks in focus",
+            "Stock Market Midday, Sept. 24: Stocks Slide as Treasury Yields Climb, Oracle Declares Force Majeure",
+            "Want Reliable Dividend Income? These 2 Industrial Stocks Deliver"
           ]
         }
       },
@@ -1797,20 +1822,21 @@
         "auto_note": "PANW CALL | $+43.29 (+13.09%) | dollar_gainer_1 | Strike $420.0 exp 2026-09-18 (3DTE) | IV 71.1% | SPY +nan% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-09-23 18:28:33 PST",
-        "gap_days": 8,
+        "scanned_at": "2026-09-24 17:54:17 PST",
+        "gap_days": 9,
         "ticker_sentiment": "bearish",
-        "spy_sentiment": "bearish",
+        "spy_sentiment": "neutral",
         "spx_sentiment": "bullish",
         "keywords_found": [
-          "jumps",
-          "downgrade",
-          "downgraded",
-          "falls"
+          "warning"
         ],
         "spy_keywords": [
+          "upgrade",
+          "surge",
+          "breakthrough",
           "falls",
-          "drops"
+          "drops",
+          "tumbles"
         ],
         "spx_keywords": [
           "surge"
@@ -1819,40 +1845,40 @@
         "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
         "raw_headlines": {
           "ticker": [
-            "Palo Alto Jumps 3.5% as AI Pen Testing Becomes a Subscription",
-            "Stock Market Midday, Sept. 23: Stocks Slip as Treasury Yields Hit 19-Year High",
-            "Cybersecurity Stocks Rally While Large-Cap Tech Slides: CrowdStrike, Palo Alto, Okta, and Palantir Each Gain 4%",
-            "Can Prisma AIRS' $100M ARR Milestone Drive PANW's AI Security Growth?",
-            "Why Palo Alto Networks (PANW) Is Getting Fresh Attention",
-            "Why Bernstein Still Sees 46% Upside in Zscaler (ZS) but Downgraded Palo Alto (PANW)",
-            "What Happens To Cloudflare Stock If Its Growth Cools?",
-            "Palo Alto Falls 1.2% as AI Becomes Its Own Penetration Tester",
-            "Is CrowdStrike Stock A Buy Today As AI Threats Lift Demand?",
-            "Fortinet Stock Jumps on Security Platform Demand: What's Ahead?"
+            "Palo Alto Is Knocking on $400 as Wall Street Rushes Into Cyber. Buy, Hold, or Sell?",
+            "Palo Alto Networks, IBD Stock Of The Day, Is In Buy Area. Acquisitions Fuel AI Growth Path.",
+            "BlackBerry Lifts Full-Year Outlook as Software Solutions Unit Drives Second-Quarter Growth",
+            "Palo Alto Networks Makes Mythos and GPT-5.6 Testing Always-On. Here\u2019s Where the Stock Could Go",
+            "Palo Alto Networks (PANW) is Strengthening from Enterprise Security Consolidation Amid Rising AI Threats",
+            "Dow Jones Futures Fall As Treasury Yields, Oil Prices Keep Rising. Meta, Everpure, Grail Are Early Movers.",
+            "US Stock Market Today: S&P 500 Futures Edge Higher On Strong Eurozone Activity Data",
+            "7 Cybersecurity Stocks Riding the AI Security Boom",
+            "Has Palo Alto Networks (PANW) Become Fully Priced After AI Security Gains?",
+            "Review & Preview: The Bond Market\u2019s Warning"
           ],
           "spy": [
-            "Consumer Lending Stocks Slide While Financials Barely Budge: Upstart and Affirm Drop 4%, SoFi Eases",
-            "These 2 Stocks Are Bucking The Broader Market Selloff To Hit New Multi-Year Highs \u2014 Here\u2019s What\u2019s Driving The Enthusiasm",
-            "DraftKings Drops 4% as Prediction-Market Spending Plans Stir Margin Doubts; Flutter Entertainment Slips, Robinhood Ticks Up",
-            "Opendoor Slides 5% as Housing Names Fall Together; Zillow and Offerpad Drop 3%",
-            "Two Biotechs Get Beaten Down: Jaguar Health Collapses 59%, Viking Therapeutics Sinks 4%",
-            "Royal Caribbean Group Falls 5% on $3B Sandals Resorts Stake; Carnival and Norwegian Slide 3%",
-            "Fastly Just Ripped 138% This Year but It\u2019s Now Falling. Is It Time to Sell?",
-            "Intel Skyrocketed 30% Higher in 1 Month: Here\u2019s What to Do Now",
-            "Exchange-Traded Funds Lower, Equity Futures Mixed Pre-Bell Wednesday as Traders Await Developments in US-Iran Talks",
-            "Alibaba Falls 4% as Reported Beijing AI Probe Undercuts Chip Rally; Baidu Eases, JD.com Dips"
+            "IonQ Rises 4% as Post-Breakthrough Buying Continues; D-Wave Quantum Gains 3%, Rigetti Adds 2%",
+            "Meta Rises 3% as Its Month-Long Run Extends on Muse Buzz; Reddit Nudges Higher",
+            "BlackBerry Falls 2% Despite Record QNX Quarter and Raised Full-Year Outlook; Mobileye Holds Steady",
+            "Klarna Falls 3% as Selling Persists Weeks After Its Guidance Cut; Affirm Advances 2%",
+            "Solar Stocks Slide as High Borrowing Costs Weigh on Project Financing: First Solar Sinks 8%, SolarEdge Falls 5%, Enphase Energy Drops 4%",
+            "Webull Drops 6% as Selling Outlasts Its Insider-Sale Headlines; Robinhood and Interactive Brokers Dip 2%",
+            "Nebius Surges 6%, CoreWeave Treads Water as JPMorgan Upgrade Flags Rising Compute Pricing; IREN Slides 4%",
+            "Viking Therapeutics Sinks 15% After Pricing Upsized $500M Offering; Jaguar Health Tumbles 25%",
+            "Bloom Energy Sinks 6% as Traders Take Profits on a 190% YTD Run; Generac and Cummins Pull Back",
+            "Fastly Sinks 8% as Selling After Investor Day Cuts Into a 164% YTD Run; Cloudflare Holds Flat"
           ],
           "spx": [
-            "Looking for consumer and investor sentiment trends? Turn to social media.",
-            "Where to find 'relative value' outside of US equities",
-            "Expedia Stock Is Among Today\u2019s Worst in the S&P 500. Blame Meta\u2019s Muse.",
-            "Why Wall Street Is Aggressively Upgrading These 5 Stocks Right Now",
-            "Update: Equities Fall Intraday, Yields Surge as Rate Hike Bets Grow",
-            "Should You Buy Carnival Stock While Europe Sails Emptier?",
-            "Update: US Equity Indexes Fall in Midday Trading Amid Rising Treasury Yields",
-            "Why Did On Holding Stock Jump If Its Near-Term Guidance Did Not Change?",
-            "The Economy Is Booming, So the Market Indexes Fell. Go Figure.",
-            "Meta\u2019s Muse AI Assistant Triggers Worries About Brokerage Stocks"
+            "Stock market today: Dow, S&P 500, Nasdaq tumble as 10-year Treasury yield surges to 2007 high",
+            "Prediction: This Is What a $1,000 Investment in Apple Will Be Worth by 2030",
+            "Billionaire Bill Ackman\u2019s Pershing Square Capital Management Has 12.7% of Its Portfolio Invested in This Beaten-Down Stock",
+            "The Tax-Loss Harvesting Trick the 1% Uses \u2014 and How Regular Investors Can Copy It",
+            "S&P 500 Turns Green on Reports of 'Phased' Hormuz Reopening",
+            "Market Indexes Fall Again as the 30-Year Yield Hits a 2004 High",
+            "Update: US Equity Indexes Drop as 30-Year Treasury Yield Surpasses Two-Decade High Amid Surging Crude Oil Prices",
+            "Wall St slips as Middle East escalations lifts oil; Trump-Xi talks in focus",
+            "Stock Market Midday, Sept. 24: Stocks Slide as Treasury Yields Climb, Oracle Declares Force Majeure",
+            "Want Reliable Dividend Income? These 2 Industrial Stocks Deliver"
           ]
         }
       },
@@ -1895,52 +1921,55 @@
         "auto_note": "TER PUT | $-50.52 (-13.30%) | dollar_loser_1 | Strike $280.0 exp 2026-09-18 (3DTE) | IV 90.0% | SPY +nan% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-09-23 18:28:33 PST",
-        "gap_days": 8,
+        "scanned_at": "2026-09-24 17:54:17 PST",
+        "gap_days": 9,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bearish",
+        "spy_sentiment": "neutral",
         "spx_sentiment": "bullish",
         "keywords_found": [],
         "spy_keywords": [
+          "upgrade",
+          "surge",
+          "breakthrough",
           "falls",
-          "drops"
+          "drops",
+          "tumbles"
         ],
         "spx_keywords": [
           "surge"
         ],
-        "decision": "hold",
-        "decision_reason": "neutral keywords confirmed PUT thesis",
+        "decision": "sell",
+        "decision_reason": "no confirmation for PUT thesis \u2014 sell at open",
         "raw_headlines": {
           "ticker": [
+            "Teradyne Strengthens AI Test Portfolio: Can It Beat KLAC & COHU?",
+            "Teradyne (TER) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
             "Power Integrations, Penguin Solutions, Photronics, Amkor, and Teradyne Shares Are Soaring, What You Need To Know",
-            "Teradyne Partners With GS Microelectronics On New Semiconductor Test Center \u2014 Targets AI, Silicon Photonics And Auto Chips",
-            "Will AI Expansion Drive CEVA's Shares to Further Heights?",
-            "AEHR at 18.59X Sales: Market Loves Its AI Story, But is Love Blind?",
-            "3 AI Infrastructure Stocks Retail Investors Are Watching As US China Trade Rules Shift"
+            "Teradyne Partners With GS Microelectronics On New Semiconductor Test Center \u2014 Targets AI, Silicon Photonics And Auto Chips"
           ],
           "spy": [
-            "Consumer Lending Stocks Slide While Financials Barely Budge: Upstart and Affirm Drop 4%, SoFi Eases",
-            "These 2 Stocks Are Bucking The Broader Market Selloff To Hit New Multi-Year Highs \u2014 Here\u2019s What\u2019s Driving The Enthusiasm",
-            "DraftKings Drops 4% as Prediction-Market Spending Plans Stir Margin Doubts; Flutter Entertainment Slips, Robinhood Ticks Up",
-            "Opendoor Slides 5% as Housing Names Fall Together; Zillow and Offerpad Drop 3%",
-            "Two Biotechs Get Beaten Down: Jaguar Health Collapses 59%, Viking Therapeutics Sinks 4%",
-            "Royal Caribbean Group Falls 5% on $3B Sandals Resorts Stake; Carnival and Norwegian Slide 3%",
-            "Fastly Just Ripped 138% This Year but It\u2019s Now Falling. Is It Time to Sell?",
-            "Intel Skyrocketed 30% Higher in 1 Month: Here\u2019s What to Do Now",
-            "Exchange-Traded Funds Lower, Equity Futures Mixed Pre-Bell Wednesday as Traders Await Developments in US-Iran Talks",
-            "Alibaba Falls 4% as Reported Beijing AI Probe Undercuts Chip Rally; Baidu Eases, JD.com Dips"
+            "IonQ Rises 4% as Post-Breakthrough Buying Continues; D-Wave Quantum Gains 3%, Rigetti Adds 2%",
+            "Meta Rises 3% as Its Month-Long Run Extends on Muse Buzz; Reddit Nudges Higher",
+            "BlackBerry Falls 2% Despite Record QNX Quarter and Raised Full-Year Outlook; Mobileye Holds Steady",
+            "Klarna Falls 3% as Selling Persists Weeks After Its Guidance Cut; Affirm Advances 2%",
+            "Solar Stocks Slide as High Borrowing Costs Weigh on Project Financing: First Solar Sinks 8%, SolarEdge Falls 5%, Enphase Energy Drops 4%",
+            "Webull Drops 6% as Selling Outlasts Its Insider-Sale Headlines; Robinhood and Interactive Brokers Dip 2%",
+            "Nebius Surges 6%, CoreWeave Treads Water as JPMorgan Upgrade Flags Rising Compute Pricing; IREN Slides 4%",
+            "Viking Therapeutics Sinks 15% After Pricing Upsized $500M Offering; Jaguar Health Tumbles 25%",
+            "Bloom Energy Sinks 6% as Traders Take Profits on a 190% YTD Run; Generac and Cummins Pull Back",
+            "Fastly Sinks 8% as Selling After Investor Day Cuts Into a 164% YTD Run; Cloudflare Holds Flat"
           ],
           "spx": [
-            "Looking for consumer and investor sentiment trends? Turn to social media.",
-            "Where to find 'relative value' outside of US equities",
-            "Expedia Stock Is Among Today\u2019s Worst in the S&P 500. Blame Meta\u2019s Muse.",
-            "Why Wall Street Is Aggressively Upgrading These 5 Stocks Right Now",
-            "Update: Equities Fall Intraday, Yields Surge as Rate Hike Bets Grow",
-            "Should You Buy Carnival Stock While Europe Sails Emptier?",
-            "Update: US Equity Indexes Fall in Midday Trading Amid Rising Treasury Yields",
-            "Why Did On Holding Stock Jump If Its Near-Term Guidance Did Not Change?",
-            "The Economy Is Booming, So the Market Indexes Fell. Go Figure.",
-            "Meta\u2019s Muse AI Assistant Triggers Worries About Brokerage Stocks"
+            "Stock market today: Dow, S&P 500, Nasdaq tumble as 10-year Treasury yield surges to 2007 high",
+            "Prediction: This Is What a $1,000 Investment in Apple Will Be Worth by 2030",
+            "Billionaire Bill Ackman\u2019s Pershing Square Capital Management Has 12.7% of Its Portfolio Invested in This Beaten-Down Stock",
+            "The Tax-Loss Harvesting Trick the 1% Uses \u2014 and How Regular Investors Can Copy It",
+            "S&P 500 Turns Green on Reports of 'Phased' Hormuz Reopening",
+            "Market Indexes Fall Again as the 30-Year Yield Hits a 2004 High",
+            "Update: US Equity Indexes Drop as 30-Year Treasury Yield Surpasses Two-Decade High Amid Surging Crude Oil Prices",
+            "Wall St slips as Middle East escalations lifts oil; Trump-Xi talks in focus",
+            "Stock Market Midday, Sept. 24: Stocks Slide as Treasury Yields Climb, Oracle Declares Force Majeure",
+            "Want Reliable Dividend Income? These 2 Industrial Stocks Deliver"
           ]
         }
       },
@@ -1986,15 +2015,19 @@
         "auto_note": "QLYS CALL | $+12.46 (+7.21%) | dollar_gainer_1 | Strike $210.0 exp 2026-09-18 (2DTE) | IV 78.5% | SPY +nan% | MACRO: fed, rate hike"
       },
       "news_scan": {
-        "scanned_at": "2026-09-23 18:28:33 PST",
-        "gap_days": 7,
+        "scanned_at": "2026-09-24 17:54:17 PST",
+        "gap_days": 8,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bearish",
+        "spy_sentiment": "neutral",
         "spx_sentiment": "bullish",
         "keywords_found": [],
         "spy_keywords": [
+          "upgrade",
+          "surge",
+          "breakthrough",
           "falls",
-          "drops"
+          "drops",
+          "tumbles"
         ],
         "spx_keywords": [
           "surge"
@@ -2006,28 +2039,28 @@
             "3 Small-Cap Stocks We Think Twice About"
           ],
           "spy": [
-            "Consumer Lending Stocks Slide While Financials Barely Budge: Upstart and Affirm Drop 4%, SoFi Eases",
-            "These 2 Stocks Are Bucking The Broader Market Selloff To Hit New Multi-Year Highs \u2014 Here\u2019s What\u2019s Driving The Enthusiasm",
-            "DraftKings Drops 4% as Prediction-Market Spending Plans Stir Margin Doubts; Flutter Entertainment Slips, Robinhood Ticks Up",
-            "Opendoor Slides 5% as Housing Names Fall Together; Zillow and Offerpad Drop 3%",
-            "Two Biotechs Get Beaten Down: Jaguar Health Collapses 59%, Viking Therapeutics Sinks 4%",
-            "Royal Caribbean Group Falls 5% on $3B Sandals Resorts Stake; Carnival and Norwegian Slide 3%",
-            "Fastly Just Ripped 138% This Year but It\u2019s Now Falling. Is It Time to Sell?",
-            "Intel Skyrocketed 30% Higher in 1 Month: Here\u2019s What to Do Now",
-            "Exchange-Traded Funds Lower, Equity Futures Mixed Pre-Bell Wednesday as Traders Await Developments in US-Iran Talks",
-            "Alibaba Falls 4% as Reported Beijing AI Probe Undercuts Chip Rally; Baidu Eases, JD.com Dips"
+            "IonQ Rises 4% as Post-Breakthrough Buying Continues; D-Wave Quantum Gains 3%, Rigetti Adds 2%",
+            "Meta Rises 3% as Its Month-Long Run Extends on Muse Buzz; Reddit Nudges Higher",
+            "BlackBerry Falls 2% Despite Record QNX Quarter and Raised Full-Year Outlook; Mobileye Holds Steady",
+            "Klarna Falls 3% as Selling Persists Weeks After Its Guidance Cut; Affirm Advances 2%",
+            "Solar Stocks Slide as High Borrowing Costs Weigh on Project Financing: First Solar Sinks 8%, SolarEdge Falls 5%, Enphase Energy Drops 4%",
+            "Webull Drops 6% as Selling Outlasts Its Insider-Sale Headlines; Robinhood and Interactive Brokers Dip 2%",
+            "Nebius Surges 6%, CoreWeave Treads Water as JPMorgan Upgrade Flags Rising Compute Pricing; IREN Slides 4%",
+            "Viking Therapeutics Sinks 15% After Pricing Upsized $500M Offering; Jaguar Health Tumbles 25%",
+            "Bloom Energy Sinks 6% as Traders Take Profits on a 190% YTD Run; Generac and Cummins Pull Back",
+            "Fastly Sinks 8% as Selling After Investor Day Cuts Into a 164% YTD Run; Cloudflare Holds Flat"
           ],
           "spx": [
-            "Looking for consumer and investor sentiment trends? Turn to social media.",
-            "Where to find 'relative value' outside of US equities",
-            "Expedia Stock Is Among Today\u2019s Worst in the S&P 500. Blame Meta\u2019s Muse.",
-            "Why Wall Street Is Aggressively Upgrading These 5 Stocks Right Now",
-            "Update: Equities Fall Intraday, Yields Surge as Rate Hike Bets Grow",
-            "Should You Buy Carnival Stock While Europe Sails Emptier?",
-            "Update: US Equity Indexes Fall in Midday Trading Amid Rising Treasury Yields",
-            "Why Did On Holding Stock Jump If Its Near-Term Guidance Did Not Change?",
-            "The Economy Is Booming, So the Market Indexes Fell. Go Figure.",
-            "Meta\u2019s Muse AI Assistant Triggers Worries About Brokerage Stocks"
+            "Stock market today: Dow, S&P 500, Nasdaq tumble as 10-year Treasury yield surges to 2007 high",
+            "Prediction: This Is What a $1,000 Investment in Apple Will Be Worth by 2030",
+            "Billionaire Bill Ackman\u2019s Pershing Square Capital Management Has 12.7% of Its Portfolio Invested in This Beaten-Down Stock",
+            "The Tax-Loss Harvesting Trick the 1% Uses \u2014 and How Regular Investors Can Copy It",
+            "S&P 500 Turns Green on Reports of 'Phased' Hormuz Reopening",
+            "Market Indexes Fall Again as the 30-Year Yield Hits a 2004 High",
+            "Update: US Equity Indexes Drop as 30-Year Treasury Yield Surpasses Two-Decade High Amid Surging Crude Oil Prices",
+            "Wall St slips as Middle East escalations lifts oil; Trump-Xi talks in focus",
+            "Stock Market Midday, Sept. 24: Stocks Slide as Treasury Yields Climb, Oracle Declares Force Majeure",
+            "Want Reliable Dividend Income? These 2 Industrial Stocks Deliver"
           ]
         }
       },
@@ -2073,50 +2106,54 @@
         "auto_note": "AXON PUT | $-48.10 (-9.81%) | dollar_loser_1 | Strike $390.0 exp 2026-09-18 (2DTE) | IV 78.0% | SPY +nan% | MACRO: fed, rate hike"
       },
       "news_scan": {
-        "scanned_at": "2026-09-23 18:28:33 PST",
-        "gap_days": 7,
+        "scanned_at": "2026-09-24 17:54:17 PST",
+        "gap_days": 8,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bearish",
+        "spy_sentiment": "neutral",
         "spx_sentiment": "bullish",
         "keywords_found": [],
         "spy_keywords": [
+          "upgrade",
+          "surge",
+          "breakthrough",
           "falls",
-          "drops"
+          "drops",
+          "tumbles"
         ],
         "spx_keywords": [
           "surge"
         ],
-        "decision": "hold",
-        "decision_reason": "neutral keywords confirmed PUT thesis",
+        "decision": "sell",
+        "decision_reason": "no confirmation for PUT thesis \u2014 sell at open",
         "raw_headlines": {
           "ticker": [
+            "Axon Enterprise (AXON) Suffers a Larger Drop Than the General Market: Key Insights",
             "3 Reasons AXON Has Explosive Upside Potential",
-            "Axon Stock Just Fell 22% in a Month. Here\u2019s the Number That Explains Why",
-            "Axon Enterprise (AXON) Prices $1B of Zero-Coupon Notes. What is the Real Cost?"
+            "Axon Stock Just Fell 22% in a Month. Here\u2019s the Number That Explains Why"
           ],
           "spy": [
-            "Consumer Lending Stocks Slide While Financials Barely Budge: Upstart and Affirm Drop 4%, SoFi Eases",
-            "These 2 Stocks Are Bucking The Broader Market Selloff To Hit New Multi-Year Highs \u2014 Here\u2019s What\u2019s Driving The Enthusiasm",
-            "DraftKings Drops 4% as Prediction-Market Spending Plans Stir Margin Doubts; Flutter Entertainment Slips, Robinhood Ticks Up",
-            "Opendoor Slides 5% as Housing Names Fall Together; Zillow and Offerpad Drop 3%",
-            "Two Biotechs Get Beaten Down: Jaguar Health Collapses 59%, Viking Therapeutics Sinks 4%",
-            "Royal Caribbean Group Falls 5% on $3B Sandals Resorts Stake; Carnival and Norwegian Slide 3%",
-            "Fastly Just Ripped 138% This Year but It\u2019s Now Falling. Is It Time to Sell?",
-            "Intel Skyrocketed 30% Higher in 1 Month: Here\u2019s What to Do Now",
-            "Exchange-Traded Funds Lower, Equity Futures Mixed Pre-Bell Wednesday as Traders Await Developments in US-Iran Talks",
-            "Alibaba Falls 4% as Reported Beijing AI Probe Undercuts Chip Rally; Baidu Eases, JD.com Dips"
+            "IonQ Rises 4% as Post-Breakthrough Buying Continues; D-Wave Quantum Gains 3%, Rigetti Adds 2%",
+            "Meta Rises 3% as Its Month-Long Run Extends on Muse Buzz; Reddit Nudges Higher",
+            "BlackBerry Falls 2% Despite Record QNX Quarter and Raised Full-Year Outlook; Mobileye Holds Steady",
+            "Klarna Falls 3% as Selling Persists Weeks After Its Guidance Cut; Affirm Advances 2%",
+            "Solar Stocks Slide as High Borrowing Costs Weigh on Project Financing: First Solar Sinks 8%, SolarEdge Falls 5%, Enphase Energy Drops 4%",
+            "Webull Drops 6% as Selling Outlasts Its Insider-Sale Headlines; Robinhood and Interactive Brokers Dip 2%",
+            "Nebius Surges 6%, CoreWeave Treads Water as JPMorgan Upgrade Flags Rising Compute Pricing; IREN Slides 4%",
+            "Viking Therapeutics Sinks 15% After Pricing Upsized $500M Offering; Jaguar Health Tumbles 25%",
+            "Bloom Energy Sinks 6% as Traders Take Profits on a 190% YTD Run; Generac and Cummins Pull Back",
+            "Fastly Sinks 8% as Selling After Investor Day Cuts Into a 164% YTD Run; Cloudflare Holds Flat"
           ],
           "spx": [
-            "Looking for consumer and investor sentiment trends? Turn to social media.",
-            "Where to find 'relative value' outside of US equities",
-            "Expedia Stock Is Among Today\u2019s Worst in the S&P 500. Blame Meta\u2019s Muse.",
-            "Why Wall Street Is Aggressively Upgrading These 5 Stocks Right Now",
-            "Update: Equities Fall Intraday, Yields Surge as Rate Hike Bets Grow",
-            "Should You Buy Carnival Stock While Europe Sails Emptier?",
-            "Update: US Equity Indexes Fall in Midday Trading Amid Rising Treasury Yields",
-            "Why Did On Holding Stock Jump If Its Near-Term Guidance Did Not Change?",
-            "The Economy Is Booming, So the Market Indexes Fell. Go Figure.",
-            "Meta\u2019s Muse AI Assistant Triggers Worries About Brokerage Stocks"
+            "Stock market today: Dow, S&P 500, Nasdaq tumble as 10-year Treasury yield surges to 2007 high",
+            "Prediction: This Is What a $1,000 Investment in Apple Will Be Worth by 2030",
+            "Billionaire Bill Ackman\u2019s Pershing Square Capital Management Has 12.7% of Its Portfolio Invested in This Beaten-Down Stock",
+            "The Tax-Loss Harvesting Trick the 1% Uses \u2014 and How Regular Investors Can Copy It",
+            "S&P 500 Turns Green on Reports of 'Phased' Hormuz Reopening",
+            "Market Indexes Fall Again as the 30-Year Yield Hits a 2004 High",
+            "Update: US Equity Indexes Drop as 30-Year Treasury Yield Surpasses Two-Decade High Amid Surging Crude Oil Prices",
+            "Wall St slips as Middle East escalations lifts oil; Trump-Xi talks in focus",
+            "Stock Market Midday, Sept. 24: Stocks Slide as Treasury Yields Climb, Oracle Declares Force Majeure",
+            "Want Reliable Dividend Income? These 2 Industrial Stocks Deliver"
           ]
         }
       },
@@ -2162,15 +2199,19 @@
         "auto_note": "COHR CALL | $+18.76 (+6.92%) | dollar_gainer_1 | Strike $320.0 exp 2026-09-18 (1DTE) | IV 88.5% | SPY +nan% | MACRO: fed, war"
       },
       "news_scan": {
-        "scanned_at": "2026-09-23 18:28:33 PST",
-        "gap_days": 6,
+        "scanned_at": "2026-09-24 17:54:17 PST",
+        "gap_days": 7,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bearish",
+        "spy_sentiment": "neutral",
         "spx_sentiment": "bullish",
         "keywords_found": [],
         "spy_keywords": [
+          "upgrade",
+          "surge",
+          "breakthrough",
           "falls",
-          "drops"
+          "drops",
+          "tumbles"
         ],
         "spx_keywords": [
           "surge"
@@ -2179,6 +2220,7 @@
         "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
         "raw_headlines": {
           "ticker": [
+            "AI Data Center Boom Faces This 'Fundamental Trade-Off' With China",
             "This Little-Known AI Chip Stock Doubled. Its New Chips Now Double Optical Speed",
             "Lumentum Jumped Nearly 10% While Corning Barely Moved. Is the AI Optics Trade Splitting Apart?",
             "Sandisk, Lennar, Viking Therapeutics, Shopify, GameStop, and More Stocks That Explain Today\u2019s Market",
@@ -2186,33 +2228,31 @@
             "GFS Augments Photonics Portfolio: Will SMART Partnership Boost Growth?",
             "AI Pick-And-Shovel Stocks To Watch As Xi And Trump Meet",
             "Buy These 2 Technology Services Stocks to Tap Recent Northbound Trend",
-            "3 US AI Infrastructure Stocks Worth Watching as Data Center Spending Builds",
-            "Corning Climbs 6% as AI Optical Interconnect Demo Highlights Its Fiber; Lumentum, Coherent and Applied Optoelectronics Rise 4%",
-            "Here's Why You Should Hold Corpay's Stock in Your Portfolio Now"
+            "3 US AI Infrastructure Stocks Worth Watching as Data Center Spending Builds"
           ],
           "spy": [
-            "Consumer Lending Stocks Slide While Financials Barely Budge: Upstart and Affirm Drop 4%, SoFi Eases",
-            "These 2 Stocks Are Bucking The Broader Market Selloff To Hit New Multi-Year Highs \u2014 Here\u2019s What\u2019s Driving The Enthusiasm",
-            "DraftKings Drops 4% as Prediction-Market Spending Plans Stir Margin Doubts; Flutter Entertainment Slips, Robinhood Ticks Up",
-            "Opendoor Slides 5% as Housing Names Fall Together; Zillow and Offerpad Drop 3%",
-            "Two Biotechs Get Beaten Down: Jaguar Health Collapses 59%, Viking Therapeutics Sinks 4%",
-            "Royal Caribbean Group Falls 5% on $3B Sandals Resorts Stake; Carnival and Norwegian Slide 3%",
-            "Fastly Just Ripped 138% This Year but It\u2019s Now Falling. Is It Time to Sell?",
-            "Intel Skyrocketed 30% Higher in 1 Month: Here\u2019s What to Do Now",
-            "Exchange-Traded Funds Lower, Equity Futures Mixed Pre-Bell Wednesday as Traders Await Developments in US-Iran Talks",
-            "Alibaba Falls 4% as Reported Beijing AI Probe Undercuts Chip Rally; Baidu Eases, JD.com Dips"
+            "IonQ Rises 4% as Post-Breakthrough Buying Continues; D-Wave Quantum Gains 3%, Rigetti Adds 2%",
+            "Meta Rises 3% as Its Month-Long Run Extends on Muse Buzz; Reddit Nudges Higher",
+            "BlackBerry Falls 2% Despite Record QNX Quarter and Raised Full-Year Outlook; Mobileye Holds Steady",
+            "Klarna Falls 3% as Selling Persists Weeks After Its Guidance Cut; Affirm Advances 2%",
+            "Solar Stocks Slide as High Borrowing Costs Weigh on Project Financing: First Solar Sinks 8%, SolarEdge Falls 5%, Enphase Energy Drops 4%",
+            "Webull Drops 6% as Selling Outlasts Its Insider-Sale Headlines; Robinhood and Interactive Brokers Dip 2%",
+            "Nebius Surges 6%, CoreWeave Treads Water as JPMorgan Upgrade Flags Rising Compute Pricing; IREN Slides 4%",
+            "Viking Therapeutics Sinks 15% After Pricing Upsized $500M Offering; Jaguar Health Tumbles 25%",
+            "Bloom Energy Sinks 6% as Traders Take Profits on a 190% YTD Run; Generac and Cummins Pull Back",
+            "Fastly Sinks 8% as Selling After Investor Day Cuts Into a 164% YTD Run; Cloudflare Holds Flat"
           ],
           "spx": [
-            "Looking for consumer and investor sentiment trends? Turn to social media.",
-            "Where to find 'relative value' outside of US equities",
-            "Expedia Stock Is Among Today\u2019s Worst in the S&P 500. Blame Meta\u2019s Muse.",
-            "Why Wall Street Is Aggressively Upgrading These 5 Stocks Right Now",
-            "Update: Equities Fall Intraday, Yields Surge as Rate Hike Bets Grow",
-            "Should You Buy Carnival Stock While Europe Sails Emptier?",
-            "Update: US Equity Indexes Fall in Midday Trading Amid Rising Treasury Yields",
-            "Why Did On Holding Stock Jump If Its Near-Term Guidance Did Not Change?",
-            "The Economy Is Booming, So the Market Indexes Fell. Go Figure.",
-            "Meta\u2019s Muse AI Assistant Triggers Worries About Brokerage Stocks"
+            "Stock market today: Dow, S&P 500, Nasdaq tumble as 10-year Treasury yield surges to 2007 high",
+            "Prediction: This Is What a $1,000 Investment in Apple Will Be Worth by 2030",
+            "Billionaire Bill Ackman\u2019s Pershing Square Capital Management Has 12.7% of Its Portfolio Invested in This Beaten-Down Stock",
+            "The Tax-Loss Harvesting Trick the 1% Uses \u2014 and How Regular Investors Can Copy It",
+            "S&P 500 Turns Green on Reports of 'Phased' Hormuz Reopening",
+            "Market Indexes Fall Again as the 30-Year Yield Hits a 2004 High",
+            "Update: US Equity Indexes Drop as 30-Year Treasury Yield Surpasses Two-Decade High Amid Surging Crude Oil Prices",
+            "Wall St slips as Middle East escalations lifts oil; Trump-Xi talks in focus",
+            "Stock Market Midday, Sept. 24: Stocks Slide as Treasury Yields Climb, Oracle Declares Force Majeure",
+            "Want Reliable Dividend Income? These 2 Industrial Stocks Deliver"
           ]
         }
       },
@@ -2258,17 +2298,21 @@
         "auto_note": "FANG PUT | $-16.99 (-8.03%) | dollar_loser_1 | Strike $185.0 exp 2026-09-18 (1DTE) | IV 53.9% | SPY +nan% | MACRO: fed, war"
       },
       "news_scan": {
-        "scanned_at": "2026-09-23 18:28:33 PST",
-        "gap_days": 6,
+        "scanned_at": "2026-09-24 17:54:17 PST",
+        "gap_days": 7,
         "ticker_sentiment": "bearish",
-        "spy_sentiment": "bearish",
+        "spy_sentiment": "neutral",
         "spx_sentiment": "bullish",
         "keywords_found": [
           "drops"
         ],
         "spy_keywords": [
+          "upgrade",
+          "surge",
+          "breakthrough",
           "falls",
-          "drops"
+          "drops",
+          "tumbles"
         ],
         "spx_keywords": [
           "surge"
@@ -2281,28 +2325,28 @@
             "Diamondback Energy (FANG) Stock Drops Despite Market Gains: Important Facts to Note"
           ],
           "spy": [
-            "Consumer Lending Stocks Slide While Financials Barely Budge: Upstart and Affirm Drop 4%, SoFi Eases",
-            "These 2 Stocks Are Bucking The Broader Market Selloff To Hit New Multi-Year Highs \u2014 Here\u2019s What\u2019s Driving The Enthusiasm",
-            "DraftKings Drops 4% as Prediction-Market Spending Plans Stir Margin Doubts; Flutter Entertainment Slips, Robinhood Ticks Up",
-            "Opendoor Slides 5% as Housing Names Fall Together; Zillow and Offerpad Drop 3%",
-            "Two Biotechs Get Beaten Down: Jaguar Health Collapses 59%, Viking Therapeutics Sinks 4%",
-            "Royal Caribbean Group Falls 5% on $3B Sandals Resorts Stake; Carnival and Norwegian Slide 3%",
-            "Fastly Just Ripped 138% This Year but It\u2019s Now Falling. Is It Time to Sell?",
-            "Intel Skyrocketed 30% Higher in 1 Month: Here\u2019s What to Do Now",
-            "Exchange-Traded Funds Lower, Equity Futures Mixed Pre-Bell Wednesday as Traders Await Developments in US-Iran Talks",
-            "Alibaba Falls 4% as Reported Beijing AI Probe Undercuts Chip Rally; Baidu Eases, JD.com Dips"
+            "IonQ Rises 4% as Post-Breakthrough Buying Continues; D-Wave Quantum Gains 3%, Rigetti Adds 2%",
+            "Meta Rises 3% as Its Month-Long Run Extends on Muse Buzz; Reddit Nudges Higher",
+            "BlackBerry Falls 2% Despite Record QNX Quarter and Raised Full-Year Outlook; Mobileye Holds Steady",
+            "Klarna Falls 3% as Selling Persists Weeks After Its Guidance Cut; Affirm Advances 2%",
+            "Solar Stocks Slide as High Borrowing Costs Weigh on Project Financing: First Solar Sinks 8%, SolarEdge Falls 5%, Enphase Energy Drops 4%",
+            "Webull Drops 6% as Selling Outlasts Its Insider-Sale Headlines; Robinhood and Interactive Brokers Dip 2%",
+            "Nebius Surges 6%, CoreWeave Treads Water as JPMorgan Upgrade Flags Rising Compute Pricing; IREN Slides 4%",
+            "Viking Therapeutics Sinks 15% After Pricing Upsized $500M Offering; Jaguar Health Tumbles 25%",
+            "Bloom Energy Sinks 6% as Traders Take Profits on a 190% YTD Run; Generac and Cummins Pull Back",
+            "Fastly Sinks 8% as Selling After Investor Day Cuts Into a 164% YTD Run; Cloudflare Holds Flat"
           ],
           "spx": [
-            "Looking for consumer and investor sentiment trends? Turn to social media.",
-            "Where to find 'relative value' outside of US equities",
-            "Expedia Stock Is Among Today\u2019s Worst in the S&P 500. Blame Meta\u2019s Muse.",
-            "Why Wall Street Is Aggressively Upgrading These 5 Stocks Right Now",
-            "Update: Equities Fall Intraday, Yields Surge as Rate Hike Bets Grow",
-            "Should You Buy Carnival Stock While Europe Sails Emptier?",
-            "Update: US Equity Indexes Fall in Midday Trading Amid Rising Treasury Yields",
-            "Why Did On Holding Stock Jump If Its Near-Term Guidance Did Not Change?",
-            "The Economy Is Booming, So the Market Indexes Fell. Go Figure.",
-            "Meta\u2019s Muse AI Assistant Triggers Worries About Brokerage Stocks"
+            "Stock market today: Dow, S&P 500, Nasdaq tumble as 10-year Treasury yield surges to 2007 high",
+            "Prediction: This Is What a $1,000 Investment in Apple Will Be Worth by 2030",
+            "Billionaire Bill Ackman\u2019s Pershing Square Capital Management Has 12.7% of Its Portfolio Invested in This Beaten-Down Stock",
+            "The Tax-Loss Harvesting Trick the 1% Uses \u2014 and How Regular Investors Can Copy It",
+            "S&P 500 Turns Green on Reports of 'Phased' Hormuz Reopening",
+            "Market Indexes Fall Again as the 30-Year Yield Hits a 2004 High",
+            "Update: US Equity Indexes Drop as 30-Year Treasury Yield Surpasses Two-Decade High Amid Surging Crude Oil Prices",
+            "Wall St slips as Middle East escalations lifts oil; Trump-Xi talks in focus",
+            "Stock Market Midday, Sept. 24: Stocks Slide as Treasury Yields Climb, Oracle Declares Force Majeure",
+            "Want Reliable Dividend Income? These 2 Industrial Stocks Deliver"
           ]
         }
       },
@@ -2345,15 +2389,22 @@
         "auto_note": "ARM CALL | $+47.29 (+17.16%) | dollar_gainer_1 | Strike $400.0 exp 2026-09-25 (3DTE) | IV 120.3% | SPY +nan% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-09-23 18:28:33 PST",
-        "gap_days": 1,
-        "ticker_sentiment": "neutral",
-        "spy_sentiment": "bearish",
+        "scanned_at": "2026-09-24 17:54:17 PST",
+        "gap_days": 2,
+        "ticker_sentiment": "bearish",
+        "spy_sentiment": "neutral",
         "spx_sentiment": "bullish",
-        "keywords_found": [],
-        "spy_keywords": [
+        "keywords_found": [
           "falls",
           "drops"
+        ],
+        "spy_keywords": [
+          "upgrade",
+          "surge",
+          "breakthrough",
+          "falls",
+          "drops",
+          "tumbles"
         ],
         "spx_keywords": [
           "surge"
@@ -2362,40 +2413,40 @@
         "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
         "raw_headlines": {
           "ticker": [
+            "Arm Drops 3.3% as More AI Cores Test Royalty Economics",
+            "Bank of America Just Told Investors to Sell UPS, and the Reason Has Nothing to Do With Package Volume",
+            "Chip Stocks Retreat. Qualcomm Secures Apple Licensing Deal.",
+            "Critical Role of ARM Holdings (ARM) In Powering the Next Wave of Agentic AI",
+            "Prediction: Arm Is Our Top Pick With 83% Upside Driven by Data Center Royalty Boom",
+            "Arm vs. Taiwan Semiconductor Manufacturing: Which Chip Stock Is a Better Buy in 2026?",
+            "SoftBank Is Raising $11 Billion for OpenAI. Its Arm Stake Backs a $25 Billion Loan Facility",
+            "Arm Falls as Agentic AI Multiplies Server-Core Demand",
             "ARM Vs. AMD: Who Is Going to Win the Agentic AI CPU Revival War?",
-            "Arm Just Jumped 36% Now Its Valuation Is Raising Eyebrows",
-            "AeroVironment And 2 Top Automation Stocks To Watch",
-            "3 Trending AI Stocks to Watch: ARM, AMD, and CRWV",
-            "AMD Stock Just Sent a Huge AI Signal",
-            "Arm Gains 1.5% as Agentic AI Multiplies CPU Cores",
-            "Arm Stock: Too Good to Sell, Too Expensive to Buy",
-            "Arm Just Got a Major Vote of Confidence From Its CEO",
-            "US Stock Market Today: S&P 500 Futures Climb On Higher-For-Longer Rate Jitters",
-            "ARM Stock Jumped 17% Yesterday After Its CEO Said Demand Is Off the Charts. Here\u2019s What Got Investors So Excited."
+            "Arm Just Jumped 36% Now Its Valuation Is Raising Eyebrows"
           ],
           "spy": [
-            "Consumer Lending Stocks Slide While Financials Barely Budge: Upstart and Affirm Drop 4%, SoFi Eases",
-            "These 2 Stocks Are Bucking The Broader Market Selloff To Hit New Multi-Year Highs \u2014 Here\u2019s What\u2019s Driving The Enthusiasm",
-            "DraftKings Drops 4% as Prediction-Market Spending Plans Stir Margin Doubts; Flutter Entertainment Slips, Robinhood Ticks Up",
-            "Opendoor Slides 5% as Housing Names Fall Together; Zillow and Offerpad Drop 3%",
-            "Two Biotechs Get Beaten Down: Jaguar Health Collapses 59%, Viking Therapeutics Sinks 4%",
-            "Royal Caribbean Group Falls 5% on $3B Sandals Resorts Stake; Carnival and Norwegian Slide 3%",
-            "Fastly Just Ripped 138% This Year but It\u2019s Now Falling. Is It Time to Sell?",
-            "Intel Skyrocketed 30% Higher in 1 Month: Here\u2019s What to Do Now",
-            "Exchange-Traded Funds Lower, Equity Futures Mixed Pre-Bell Wednesday as Traders Await Developments in US-Iran Talks",
-            "Alibaba Falls 4% as Reported Beijing AI Probe Undercuts Chip Rally; Baidu Eases, JD.com Dips"
+            "IonQ Rises 4% as Post-Breakthrough Buying Continues; D-Wave Quantum Gains 3%, Rigetti Adds 2%",
+            "Meta Rises 3% as Its Month-Long Run Extends on Muse Buzz; Reddit Nudges Higher",
+            "BlackBerry Falls 2% Despite Record QNX Quarter and Raised Full-Year Outlook; Mobileye Holds Steady",
+            "Klarna Falls 3% as Selling Persists Weeks After Its Guidance Cut; Affirm Advances 2%",
+            "Solar Stocks Slide as High Borrowing Costs Weigh on Project Financing: First Solar Sinks 8%, SolarEdge Falls 5%, Enphase Energy Drops 4%",
+            "Webull Drops 6% as Selling Outlasts Its Insider-Sale Headlines; Robinhood and Interactive Brokers Dip 2%",
+            "Nebius Surges 6%, CoreWeave Treads Water as JPMorgan Upgrade Flags Rising Compute Pricing; IREN Slides 4%",
+            "Viking Therapeutics Sinks 15% After Pricing Upsized $500M Offering; Jaguar Health Tumbles 25%",
+            "Bloom Energy Sinks 6% as Traders Take Profits on a 190% YTD Run; Generac and Cummins Pull Back",
+            "Fastly Sinks 8% as Selling After Investor Day Cuts Into a 164% YTD Run; Cloudflare Holds Flat"
           ],
           "spx": [
-            "Looking for consumer and investor sentiment trends? Turn to social media.",
-            "Where to find 'relative value' outside of US equities",
-            "Expedia Stock Is Among Today\u2019s Worst in the S&P 500. Blame Meta\u2019s Muse.",
-            "Why Wall Street Is Aggressively Upgrading These 5 Stocks Right Now",
-            "Update: Equities Fall Intraday, Yields Surge as Rate Hike Bets Grow",
-            "Should You Buy Carnival Stock While Europe Sails Emptier?",
-            "Update: US Equity Indexes Fall in Midday Trading Amid Rising Treasury Yields",
-            "Why Did On Holding Stock Jump If Its Near-Term Guidance Did Not Change?",
-            "The Economy Is Booming, So the Market Indexes Fell. Go Figure.",
-            "Meta\u2019s Muse AI Assistant Triggers Worries About Brokerage Stocks"
+            "Stock market today: Dow, S&P 500, Nasdaq tumble as 10-year Treasury yield surges to 2007 high",
+            "Prediction: This Is What a $1,000 Investment in Apple Will Be Worth by 2030",
+            "Billionaire Bill Ackman\u2019s Pershing Square Capital Management Has 12.7% of Its Portfolio Invested in This Beaten-Down Stock",
+            "The Tax-Loss Harvesting Trick the 1% Uses \u2014 and How Regular Investors Can Copy It",
+            "S&P 500 Turns Green on Reports of 'Phased' Hormuz Reopening",
+            "Market Indexes Fall Again as the 30-Year Yield Hits a 2004 High",
+            "Update: US Equity Indexes Drop as 30-Year Treasury Yield Surpasses Two-Decade High Amid Surging Crude Oil Prices",
+            "Wall St slips as Middle East escalations lifts oil; Trump-Xi talks in focus",
+            "Stock Market Midday, Sept. 24: Stocks Slide as Treasury Yields Climb, Oracle Declares Force Majeure",
+            "Want Reliable Dividend Income? These 2 Industrial Stocks Deliver"
           ]
         }
       },
@@ -2438,55 +2489,59 @@
         "auto_note": "FAS PUT | $-10.61 (-6.50%) | dollar_loser_1 | Strike $145.0 exp 2026-09-25 (2DTE) | IV 57.9% | SPY +nan% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-09-23 18:28:33 PST",
-        "gap_days": 0,
+        "scanned_at": "2026-09-24 17:54:17 PST",
+        "gap_days": 1,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bearish",
+        "spy_sentiment": "neutral",
         "spx_sentiment": "bullish",
         "keywords_found": [],
         "spy_keywords": [
+          "upgrade",
+          "surge",
+          "breakthrough",
           "falls",
-          "drops"
+          "drops",
+          "tumbles"
         ],
         "spx_keywords": [
           "surge"
         ],
-        "decision": "hold",
-        "decision_reason": "neutral keywords confirmed PUT thesis",
+        "decision": "sell",
+        "decision_reason": "no confirmation for PUT thesis \u2014 sell at open",
         "raw_headlines": {
           "ticker": [
+            "Exchange-Traded Funds Mixed, US Equities Decline After Midday",
+            "Sector Update: Financial Stocks Edge Higher Pre-Bell Thursday",
+            "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Thursday Amid Ongoing Middle East Tensions Before US-China Talks",
             "Exchange-Traded Funds, US Equities Decline After Midday",
             "Exchange-Traded Funds Lower, Equity Futures Mixed Pre-Bell Wednesday as Traders Await Developments in US-Iran Talks",
             "Exchange-Traded Funds Rise, US Equities Mixed After Midday",
             "Sector Update: Financial Stocks Edge Higher Premarket Tuesday",
-            "Exchange-Traded Funds Mixed, Equity Futures Up Pre-Bell Tuesday as Oil Prices Drop Due to Possible Diplomacy in US-Iran Conflict",
-            "Exchange-Traded Funds Rise as US Equities Advance After Midday",
-            "Sector Update: Financial Stocks Advance Pre-Bell Monday",
-            "Exchange-Traded Funds Rise, Equity Futures up Pre-Bell Monday as Oil Prices Decline"
+            "Exchange-Traded Funds Mixed, Equity Futures Up Pre-Bell Tuesday as Oil Prices Drop Due to Possible Diplomacy in US-Iran Conflict"
           ],
           "spy": [
-            "Consumer Lending Stocks Slide While Financials Barely Budge: Upstart and Affirm Drop 4%, SoFi Eases",
-            "These 2 Stocks Are Bucking The Broader Market Selloff To Hit New Multi-Year Highs \u2014 Here\u2019s What\u2019s Driving The Enthusiasm",
-            "DraftKings Drops 4% as Prediction-Market Spending Plans Stir Margin Doubts; Flutter Entertainment Slips, Robinhood Ticks Up",
-            "Opendoor Slides 5% as Housing Names Fall Together; Zillow and Offerpad Drop 3%",
-            "Two Biotechs Get Beaten Down: Jaguar Health Collapses 59%, Viking Therapeutics Sinks 4%",
-            "Royal Caribbean Group Falls 5% on $3B Sandals Resorts Stake; Carnival and Norwegian Slide 3%",
-            "Fastly Just Ripped 138% This Year but It\u2019s Now Falling. Is It Time to Sell?",
-            "Intel Skyrocketed 30% Higher in 1 Month: Here\u2019s What to Do Now",
-            "Exchange-Traded Funds Lower, Equity Futures Mixed Pre-Bell Wednesday as Traders Await Developments in US-Iran Talks",
-            "Alibaba Falls 4% as Reported Beijing AI Probe Undercuts Chip Rally; Baidu Eases, JD.com Dips"
+            "IonQ Rises 4% as Post-Breakthrough Buying Continues; D-Wave Quantum Gains 3%, Rigetti Adds 2%",
+            "Meta Rises 3% as Its Month-Long Run Extends on Muse Buzz; Reddit Nudges Higher",
+            "BlackBerry Falls 2% Despite Record QNX Quarter and Raised Full-Year Outlook; Mobileye Holds Steady",
+            "Klarna Falls 3% as Selling Persists Weeks After Its Guidance Cut; Affirm Advances 2%",
+            "Solar Stocks Slide as High Borrowing Costs Weigh on Project Financing: First Solar Sinks 8%, SolarEdge Falls 5%, Enphase Energy Drops 4%",
+            "Webull Drops 6% as Selling Outlasts Its Insider-Sale Headlines; Robinhood and Interactive Brokers Dip 2%",
+            "Nebius Surges 6%, CoreWeave Treads Water as JPMorgan Upgrade Flags Rising Compute Pricing; IREN Slides 4%",
+            "Viking Therapeutics Sinks 15% After Pricing Upsized $500M Offering; Jaguar Health Tumbles 25%",
+            "Bloom Energy Sinks 6% as Traders Take Profits on a 190% YTD Run; Generac and Cummins Pull Back",
+            "Fastly Sinks 8% as Selling After Investor Day Cuts Into a 164% YTD Run; Cloudflare Holds Flat"
           ],
           "spx": [
-            "Looking for consumer and investor sentiment trends? Turn to social media.",
-            "Where to find 'relative value' outside of US equities",
-            "Expedia Stock Is Among Today\u2019s Worst in the S&P 500. Blame Meta\u2019s Muse.",
-            "Why Wall Street Is Aggressively Upgrading These 5 Stocks Right Now",
-            "Update: Equities Fall Intraday, Yields Surge as Rate Hike Bets Grow",
-            "Should You Buy Carnival Stock While Europe Sails Emptier?",
-            "Update: US Equity Indexes Fall in Midday Trading Amid Rising Treasury Yields",
-            "Why Did On Holding Stock Jump If Its Near-Term Guidance Did Not Change?",
-            "The Economy Is Booming, So the Market Indexes Fell. Go Figure.",
-            "Meta\u2019s Muse AI Assistant Triggers Worries About Brokerage Stocks"
+            "Stock market today: Dow, S&P 500, Nasdaq tumble as 10-year Treasury yield surges to 2007 high",
+            "Prediction: This Is What a $1,000 Investment in Apple Will Be Worth by 2030",
+            "Billionaire Bill Ackman\u2019s Pershing Square Capital Management Has 12.7% of Its Portfolio Invested in This Beaten-Down Stock",
+            "The Tax-Loss Harvesting Trick the 1% Uses \u2014 and How Regular Investors Can Copy It",
+            "S&P 500 Turns Green on Reports of 'Phased' Hormuz Reopening",
+            "Market Indexes Fall Again as the 30-Year Yield Hits a 2004 High",
+            "Update: US Equity Indexes Drop as 30-Year Treasury Yield Surpasses Two-Decade High Amid Surging Crude Oil Prices",
+            "Wall St slips as Middle East escalations lifts oil; Trump-Xi talks in focus",
+            "Stock Market Midday, Sept. 24: Stocks Slide as Treasury Yields Climb, Oracle Declares Force Majeure",
+            "Want Reliable Dividend Income? These 2 Industrial Stocks Deliver"
           ]
         }
       },
@@ -2530,7 +2585,67 @@
         ],
         "auto_note": "IONQ CALL | $+1.80 (+4.42%) | dollar_gainer_1 | Strike $43.0 exp 2026-09-25 (1DTE) | IV 84.7% | SPY +nan% | MACRO: rate hike"
       },
-      "news_scan": null,
+      "news_scan": {
+        "scanned_at": "2026-09-24 17:54:17 PST",
+        "gap_days": 0,
+        "ticker_sentiment": "bullish",
+        "spy_sentiment": "neutral",
+        "spx_sentiment": "bullish",
+        "keywords_found": [
+          "breakthrough"
+        ],
+        "spy_keywords": [
+          "upgrade",
+          "surge",
+          "breakthrough",
+          "falls",
+          "drops",
+          "tumbles"
+        ],
+        "spx_keywords": [
+          "surge"
+        ],
+        "decision": "hold",
+        "decision_reason": "bullish keywords confirmed CALL thesis",
+        "raw_headlines": {
+          "ticker": [
+            "IonQ Rises 4% as Post-Breakthrough Buying Continues; D-Wave Quantum Gains 3%, Rigetti Adds 2%",
+            "Here's How QUBT's Fab 2 Could Accelerate Quantum Manufacturing",
+            "IonQ Superion 256 Platform Selected by Florida International University for First Florida Deployment",
+            "IonQ Just Solved Quantum Computing\u2019s Hardest Problem. The Stock Is Still Down 43% in a Year.",
+            "Company News for Sep 24, 2026",
+            "Everyone\u2019s Talking About IonQ. Smart Money Is Watching Nvidia Instead.",
+            "IonQ Removes Major Quantum Barrier, Driving Investor Debate Over Commercial Timelines",
+            "IonQ Cleared One of Quantum Computing's Biggest Hurdles. Should You Buy the Stock?",
+            "BigBear.ai vs. IONQ: Comparing Revenue Trends Between an Artificial Intelligence Upstart and a Quantum Computer Company",
+            "Nvidia once rattled IonQ stock. Now it plans to install IonQ tech"
+          ],
+          "spy": [
+            "IonQ Rises 4% as Post-Breakthrough Buying Continues; D-Wave Quantum Gains 3%, Rigetti Adds 2%",
+            "Meta Rises 3% as Its Month-Long Run Extends on Muse Buzz; Reddit Nudges Higher",
+            "BlackBerry Falls 2% Despite Record QNX Quarter and Raised Full-Year Outlook; Mobileye Holds Steady",
+            "Klarna Falls 3% as Selling Persists Weeks After Its Guidance Cut; Affirm Advances 2%",
+            "Solar Stocks Slide as High Borrowing Costs Weigh on Project Financing: First Solar Sinks 8%, SolarEdge Falls 5%, Enphase Energy Drops 4%",
+            "Webull Drops 6% as Selling Outlasts Its Insider-Sale Headlines; Robinhood and Interactive Brokers Dip 2%",
+            "Nebius Surges 6%, CoreWeave Treads Water as JPMorgan Upgrade Flags Rising Compute Pricing; IREN Slides 4%",
+            "Viking Therapeutics Sinks 15% After Pricing Upsized $500M Offering; Jaguar Health Tumbles 25%",
+            "Bloom Energy Sinks 6% as Traders Take Profits on a 190% YTD Run; Generac and Cummins Pull Back",
+            "Fastly Sinks 8% as Selling After Investor Day Cuts Into a 164% YTD Run; Cloudflare Holds Flat"
+          ],
+          "spx": [
+            "Stock market today: Dow, S&P 500, Nasdaq tumble as 10-year Treasury yield surges to 2007 high",
+            "Prediction: This Is What a $1,000 Investment in Apple Will Be Worth by 2030",
+            "Billionaire Bill Ackman\u2019s Pershing Square Capital Management Has 12.7% of Its Portfolio Invested in This Beaten-Down Stock",
+            "The Tax-Loss Harvesting Trick the 1% Uses \u2014 and How Regular Investors Can Copy It",
+            "S&P 500 Turns Green on Reports of 'Phased' Hormuz Reopening",
+            "Market Indexes Fall Again as the 30-Year Yield Hits a 2004 High",
+            "Update: US Equity Indexes Drop as 30-Year Treasury Yield Surpasses Two-Decade High Amid Surging Crude Oil Prices",
+            "Wall St slips as Middle East escalations lifts oil; Trump-Xi talks in focus",
+            "Stock Market Midday, Sept. 24: Stocks Slide as Treasury Yields Climb, Oracle Declares Force Majeure",
+            "Want Reliable Dividend Income? These 2 Industrial Stocks Deliver"
+          ]
+        }
+      },
       "exit": null,
       "fomo": null
     }
