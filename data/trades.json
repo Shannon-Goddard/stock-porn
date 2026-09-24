@@ -2492,6 +2492,47 @@
       },
       "exit": null,
       "fomo": null
+    },
+    {
+      "id": 26,
+      "status": "open",
+      "entry": {
+        "date": "2026-09-24",
+        "time": "15:55 PST",
+        "ticker": "IONQ",
+        "name": "IONQ INC COM",
+        "sector": "Unknown",
+        "type": "CALL",
+        "strike": 43.0,
+        "expiration": "2026-09-25",
+        "dte_at_entry": 1,
+        "T_at_entry": 0.00274,
+        "stock_price_at_entry": 42.54,
+        "premium": 0.89,
+        "cost": 89.0,
+        "bid": 0.82,
+        "spread": 0.07,
+        "iv_at_entry": 0.8467,
+        "otm_pct": 1.08,
+        "expected_move": {
+          "one_sigma_pct": 4.43,
+          "upper": 44.43,
+          "lower": 40.65,
+          "strike_position": "inside"
+        },
+        "signal_rank": "dollar_gainer_1",
+        "signal_pct": 4.42,
+        "signal_dollar": 1.8,
+        "spy_change": NaN,
+        "macro_active": true,
+        "macro_keywords": [
+          "rate hike"
+        ],
+        "auto_note": "IONQ CALL | $+1.80 (+4.42%) | dollar_gainer_1 | Strike $43.0 exp 2026-09-25 (1DTE) | IV 84.7% | SPY +nan% | MACRO: rate hike"
+      },
+      "news_scan": null,
+      "exit": null,
+      "fomo": null
     }
   ]
 }
