@@ -1,28 +1,28 @@
 {
   "topGainers": [
     {
-      "ticker": "SECZ",
-      "name": "SECURITIZE CORP COM SHS",
+      "ticker": "DNA",
+      "name": "GINKGO BIOWORKS HOLDINGS INC CL A NEW",
       "sector": "Unknown",
-      "price": 16.53,
-      "changePct": 15.11,
-      "changeDollar": 2.17
+      "price": 10.25,
+      "changePct": 19.46,
+      "changeDollar": 1.67
     },
     {
-      "ticker": "NBIL",
-      "name": "GRANITESHARES ETF TR 2X LONG NBIS DLY",
+      "ticker": "TWST",
+      "name": "TWIST BIOSCIENCE CORP COM",
       "sector": "Unknown",
-      "price": 28.22,
-      "changePct": 14.81,
-      "changeDollar": 3.64
+      "price": 184.03,
+      "changePct": 16.11,
+      "changeDollar": 25.53
     },
     {
-      "ticker": "NEBX",
-      "name": "Tradr 2X Long NBIS Daily ETF",
+      "ticker": "GRAL",
+      "name": "GRAIL INC COM",
       "sector": "Unknown",
-      "price": 28.94,
-      "changePct": 14.7,
-      "changeDollar": 3.71
+      "price": 125.21,
+      "changePct": 15.38,
+      "changeDollar": 16.69
     },
     {
       "ticker": "CDNA",
@@ -41,36 +41,28 @@
       "changeDollar": 2.72
     },
     {
-      "ticker": "WRBY",
-      "name": "WARBY PARKER INC CL A COM",
+      "ticker": "IONL",
+      "name": "GRANITESHARES ETF TR 2X LONG IONQ",
       "sector": "Unknown",
-      "price": 26.27,
-      "changePct": 12.51,
-      "changeDollar": 2.92
+      "price": 15.98,
+      "changePct": 11.05,
+      "changeDollar": 1.59
     },
     {
-      "ticker": "P",
-      "name": "EVERPURE INC CL A",
+      "ticker": "METU",
+      "name": "DIREXION SHARES ETF TRUST DLY META BULL 2X",
       "sector": "Unknown",
-      "price": 121.88,
-      "changePct": 11.15,
-      "changeDollar": 12.23
+      "price": 35.39,
+      "changePct": 8.86,
+      "changeDollar": 2.88
     },
     {
-      "ticker": "VCYT",
-      "name": "VERACYTE INC COM",
+      "ticker": "FBL",
+      "name": "GRANITESHARES ETF TR 2X LONG META ETF",
       "sector": "Unknown",
-      "price": 48.54,
-      "changePct": 10.77,
-      "changeDollar": 4.72
-    },
-    {
-      "ticker": "BLLN",
-      "name": "BILLIONTOONE INC CL A",
-      "sector": "Unknown",
-      "price": 124.9,
-      "changePct": 9.16,
-      "changeDollar": 10.48
+      "price": 36.76,
+      "changePct": 8.85,
+      "changeDollar": 2.99
     },
     {
       "ticker": "GLNK",
@@ -79,32 +71,24 @@
       "price": 11.78,
       "changePct": 8.27,
       "changeDollar": 0.9
+    },
+    {
+      "ticker": "AXTX",
+      "name": "Tradr 2X Long AXTI Daily ETF",
+      "sector": "Unknown",
+      "price": 33.57,
+      "changePct": 8.22,
+      "changeDollar": 2.55
     }
   ],
   "topLosers": [
     {
-      "ticker": "ARMG",
-      "name": "THEMES ETF TR LEVERAGE SHARES",
+      "ticker": "NBIZ",
+      "name": "Tradr 2X Short NBIS Daily ETF",
       "sector": "Unknown",
-      "price": 23.86,
-      "changePct": -15.66,
-      "changeDollar": -4.43
-    },
-    {
-      "ticker": "ACAD",
-      "name": "ACADIA PHARMACEUTICALS INC COM",
-      "sector": "Unknown",
-      "price": 22.18,
-      "changePct": -12.78,
-      "changeDollar": -3.25
-    },
-    {
-      "ticker": "KOLD",
-      "name": "PROSHARES TR II ULSHT BLOOMB GAS",
-      "sector": "Unknown",
-      "price": 23.1,
-      "changePct": -12.7,
-      "changeDollar": -3.36
+      "price": 19.58,
+      "changePct": -14.8,
+      "changeDollar": -3.4
     },
     {
       "ticker": "GEN",
@@ -131,54 +115,70 @@
       "changeDollar": -1.32
     },
     {
-      "ticker": "QURE",
-      "name": "UNIQURE NV SHS",
+      "ticker": "DAN",
+      "name": "DANA INC COM",
       "sector": "Unknown",
-      "price": 38.32,
-      "changePct": -10.38,
-      "changeDollar": -4.44
+      "price": 27.35,
+      "changePct": -7.91,
+      "changeDollar": -2.35
     },
     {
-      "ticker": "FSLR",
-      "name": "FIRST SOLAR INC COM",
+      "ticker": "DK",
+      "name": "DELEK US HLDGS INC NEW COM",
       "sector": "Unknown",
-      "price": 172.16,
-      "changePct": -10.32,
-      "changeDollar": -19.81
+      "price": 66.91,
+      "changePct": -7.4,
+      "changeDollar": -5.35
     },
     {
-      "ticker": "FSLY",
-      "name": "FASTLY INC CL A",
+      "ticker": "PTRN",
+      "name": "PATTERN GROUP INC COM SER A",
       "sector": "Unknown",
-      "price": 26.68,
-      "changePct": -10.02,
-      "changeDollar": -2.97
+      "price": 17.94,
+      "changePct": -7.33,
+      "changeDollar": -1.42
     },
     {
-      "ticker": "WDCX",
-      "name": "Tradr 2X Long WDC Daily ETF",
+      "ticker": "ZBIO",
+      "name": "ZENAS BIOPHARMA INC COM",
       "sector": "Unknown",
-      "price": 17.1,
-      "changePct": -9.91,
-      "changeDollar": -1.88
+      "price": 27.5,
+      "changePct": -7.19,
+      "changeDollar": -2.13
+    },
+    {
+      "ticker": "SNDG",
+      "name": "Leverage Shares 2X Long SNDK Daily ETF",
+      "sector": "Unknown",
+      "price": 10.6,
+      "changePct": -6.85,
+      "changeDollar": -0.78
+    },
+    {
+      "ticker": "SNDU",
+      "name": "T-REX 2X Long SNDK Daily Target ETF",
+      "sector": "Unknown",
+      "price": 26.48,
+      "changePct": -6.79,
+      "changeDollar": -1.93
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "P",
-      "name": "EVERPURE INC CL A",
+      "ticker": "TWST",
+      "name": "TWIST BIOSCIENCE CORP COM",
       "sector": "Unknown",
-      "price": 121.88,
-      "changePct": 11.15,
-      "changeDollar": 12.23
+      "price": 184.03,
+      "changePct": 16.11,
+      "changeDollar": 25.53
     },
     {
-      "ticker": "BLLN",
-      "name": "BILLIONTOONE INC CL A",
+      "ticker": "GRAL",
+      "name": "GRAIL INC COM",
       "sector": "Unknown",
-      "price": 124.9,
-      "changePct": 9.16,
-      "changeDollar": 10.48
+      "price": 125.21,
+      "changePct": 15.38,
+      "changeDollar": 16.69
     },
     {
       "ticker": "CDNA",
@@ -189,62 +189,62 @@
       "changeDollar": 7.06
     },
     {
-      "ticker": "VCYT",
-      "name": "VERACYTE INC COM",
+      "ticker": "FBL",
+      "name": "GRANITESHARES ETF TR 2X LONG META ETF",
       "sector": "Unknown",
-      "price": 48.54,
-      "changePct": 10.77,
-      "changeDollar": 4.72
+      "price": 36.76,
+      "changePct": 8.85,
+      "changeDollar": 2.99
     },
     {
-      "ticker": "NEBX",
-      "name": "Tradr 2X Long NBIS Daily ETF",
+      "ticker": "METU",
+      "name": "DIREXION SHARES ETF TRUST DLY META BULL 2X",
       "sector": "Unknown",
-      "price": 28.94,
-      "changePct": 14.7,
-      "changeDollar": 3.71
+      "price": 35.39,
+      "changePct": 8.86,
+      "changeDollar": 2.88
     }
   ],
   "dollarLosers": [
     {
-      "ticker": "FSLR",
-      "name": "FIRST SOLAR INC COM",
+      "ticker": "DK",
+      "name": "DELEK US HLDGS INC NEW COM",
       "sector": "Unknown",
-      "price": 172.16,
-      "changePct": -10.32,
-      "changeDollar": -19.81
+      "price": 66.91,
+      "changePct": -7.4,
+      "changeDollar": -5.35
     },
     {
-      "ticker": "QURE",
-      "name": "UNIQURE NV SHS",
+      "ticker": "NBIZ",
+      "name": "Tradr 2X Short NBIS Daily ETF",
       "sector": "Unknown",
-      "price": 38.32,
-      "changePct": -10.38,
-      "changeDollar": -4.44
+      "price": 19.58,
+      "changePct": -14.8,
+      "changeDollar": -3.4
     },
     {
-      "ticker": "ARMG",
-      "name": "THEMES ETF TR LEVERAGE SHARES",
+      "ticker": "KGC",
+      "name": "KINROSS GOLD CORP COM",
       "sector": "Unknown",
-      "price": 23.86,
-      "changePct": -15.66,
-      "changeDollar": -4.43
+      "price": 24.42,
+      "changePct": -11.59,
+      "changeDollar": -3.2
     },
     {
-      "ticker": "KOLD",
-      "name": "PROSHARES TR II ULSHT BLOOMB GAS",
+      "ticker": "GEN",
+      "name": "GEN DIGITAL INC COM",
       "sector": "Unknown",
-      "price": 23.1,
-      "changePct": -12.7,
-      "changeDollar": -3.36
+      "price": 23.07,
+      "changePct": -12.05,
+      "changeDollar": -3.16
     },
     {
-      "ticker": "ACAD",
-      "name": "ACADIA PHARMACEUTICALS INC COM",
+      "ticker": "DAN",
+      "name": "DANA INC COM",
       "sector": "Unknown",
-      "price": 22.18,
-      "changePct": -12.78,
-      "changeDollar": -3.25
+      "price": 27.35,
+      "changePct": -7.91,
+      "changeDollar": -2.35
     }
   ]
 }
