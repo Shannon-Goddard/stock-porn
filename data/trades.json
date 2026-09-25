@@ -1248,28 +1248,35 @@
         "auto_note": "ALAB CALL | $+27.58 (+9.75%) | dollar_gainer_1 | Strike $390.0 exp 2026-09-11 (6DTE) | IV 88.2% | SPY +nan% | MACRO: rate hike, war"
       },
       "news_scan": {
-        "scanned_at": "2026-09-25 18:00:59 PST",
+        "scanned_at": "2026-09-25 18:45:43 PST",
         "gap_days": 20,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bearish",
-        "spx_sentiment": "neutral",
+        "spy_sentiment": "bullish",
+        "spx_sentiment": "bullish",
         "keywords_found": [],
         "spy_keywords": [
+          "upgrade",
           "soars",
+          "jumps",
           "drops",
           "tumbles"
         ],
-        "spx_keywords": [],
-        "decision": "sell",
-        "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
+        "spx_keywords": [
+          "jumps"
+        ],
+        "decision": "hold",
+        "decision_reason": "neutral keywords confirmed CALL thesis",
         "raw_headlines": {
           "ticker": [
             "These are stocks getting lifted up by Meta's Muse",
+            "What Makes Credo Technology Stock A Buy Today?",
             "Astera Labs vs. Marvell Technology: Which Tech Stock Is a Better Buy in 2026?",
             "Astera Labs (ALAB), Why Is Fresh Attention Building Now?",
             "Zacks Investment Ideas feature highlights: Astera Labs, SpaceX, Cloudflare, NVIDIA and Meta Platforms"
           ],
           "spy": [
+            "Datadog Climbs 6%, Approaches 52-Week High While Software Group Slips; Oracle and Cloudflare Decline",
+            "Humana Jumps 7% on Barclays Upgrade and $515 Target; UnitedHealth Nudges Higher",
             "Dell Rises 7% as Morgan Stanley Lifts Odds on $756 Bull Case; Hewlett Packard Enterprise Edges Higher",
             "BlackBerry Drops 7% as Post-Earnings Rally Unwinds Despite Record QNX Quarter; MobilEye Adds 2%",
             "Michael Burry Ignores AI Cheers and Hunts for Mispriced Risk",
@@ -1277,21 +1284,19 @@
             "Microsoft Climbs 4% as Oppenheimer Lifts Target to $570 on Copilot Enterprise Pivot; Alphabet Ticks Up",
             "Zscaler Sinks 9% on Chief Revenue Officer Exit, Fastly Drops 6% as Citi Questions AI Traffic Payoff",
             "GameStop Tumbles 8% Despite Ryan Cohen\u2019s $26M Insider Buy; eBay Ticks Up",
-            "Jaguar Health Soars 32% as Rare-Disease Pipeline News Meets Thin Post-Split Float",
-            "Micron at $1080: The Street Loves What It Sees Underneath The Headlines",
-            "Bond Market Alarm Bells Are Ringing, But Mohamed El-Erian Says Psychology May Be Fueling the Fear More Than Fundamentals"
+            "Jaguar Health Soars 32% as Rare-Disease Pipeline News Meets Thin Post-Split Float"
           ],
           "spx": [
-            "How to fix overvalued AI companies and a McDonald's market play",
-            "Stock market today: Dow, S&P 500, Nasdaq trims losses as hopes of Hormuz deal offset rising bond yields",
+            "Stock market today: Dow, S&P 500, Nasdaq rise as investors shake off bond sell-off woes",
+            "Update: US Equity Indexes Jump as Crude Oil Slides Following Iran's Conditional Plan to Reopen Hormuz Chokepoint",
+            "Stock Market Today: Dow Gains 400 Points As Microsoft Jumps; Oil's Retreat Punches Chevron (Live Coverage)",
+            "The Dow Leads Market Indexes Higher as Microsoft Adds 120 Points",
+            "3 Reasons HOPE is Risky and 1 Stock to Buy Instead",
+            "2 Reasons to Watch EWBC and 1 to Stay Cautious",
             "Update: Equities Rise Intraday as Oil Prices Fall Following Iran's Proposal",
             "Is CoreWeave Stock Making Your Portfolio's Bad Days Worse?",
-            "2 Reasons to Avoid QCRH and 1 Stock to Buy Instead",
-            "2 S&P 500 Stocks Worth Your Attention and 1 We Turn Down",
-            "Stock Market Today: Dow Leads Charge Amid U.S.-Iran Peace Talks; Arista Networks Eyes Buy Point (Live Coverage)",
-            "Pfizer Stock Paid Out $49B: So Why Did Investors Lose Money?",
-            "Michael Burry Ignores AI Cheers and Hunts for Mispriced Risk",
-            "Update: US Equity Indexes Rise as Crude Oil Slumps After Iran's Conditional Proposal to Reopen Strait of Hormuz"
+            "How the Bulls Could Finish 2026 at All-Time Highs",
+            "2 Reasons to Avoid QCRH and 1 Stock to Buy Instead"
           ]
         }
       },
@@ -1337,22 +1342,24 @@
         "auto_note": "TSLA PUT | $-22.29 (-5.92%) | dollar_loser_1 | Strike $340.0 exp 2026-09-09 (4DTE) | IV 32.4% | SPY +nan% | MACRO: rate hike, war"
       },
       "news_scan": {
-        "scanned_at": "2026-09-25 18:00:59 PST",
+        "scanned_at": "2026-09-25 18:45:43 PST",
         "gap_days": 20,
-        "ticker_sentiment": "bearish",
-        "spy_sentiment": "bearish",
-        "spx_sentiment": "neutral",
-        "keywords_found": [
-          "drops"
-        ],
+        "ticker_sentiment": "neutral",
+        "spy_sentiment": "bullish",
+        "spx_sentiment": "bullish",
+        "keywords_found": [],
         "spy_keywords": [
+          "upgrade",
           "soars",
+          "jumps",
           "drops",
           "tumbles"
         ],
-        "spx_keywords": [],
-        "decision": "hold",
-        "decision_reason": "bearish keywords confirmed PUT thesis",
+        "spx_keywords": [
+          "jumps"
+        ],
+        "decision": "sell",
+        "decision_reason": "no confirmation for PUT thesis \u2014 sell at open",
         "raw_headlines": {
           "ticker": [
             "How to fix overvalued AI companies and a McDonald's market play",
@@ -1360,13 +1367,15 @@
             "AMD CEO Lisa Su is having a September to remember",
             "Tech stocks gain after tech titan dinner with Trump and China's Xi Jinping: AlphaCheck",
             "Sector Update: Consumer Stocks Advance Friday Afternoon",
+            "Tesla Stock: Tent-Shape Options Strategy Strives To Surpass $3,700 In Profit",
             "Tesla Starts Semi Deliveries. Here's The Final Production Target \u2014 With No Timeline",
+            "What Musk\u2019s Tesla and SpaceX Stocks Are Doing After That White House State Dinner",
             "Elon Musk Sighs At EU-Wide FSD Approval Delay \u2014 TSLA Stock Slips",
-            "Whether You Buy Tesla Depends On The Chances That Tesla Actually Becomes an AI Firm",
-            "Tesla Stock Drops as Europe Delays FSD Scale",
-            "Bentley set to challenge Tesla and Ferrari after huge new launch"
+            "Whether You Buy Tesla Depends On The Chances That Tesla Actually Becomes an AI Firm"
           ],
           "spy": [
+            "Datadog Climbs 6%, Approaches 52-Week High While Software Group Slips; Oracle and Cloudflare Decline",
+            "Humana Jumps 7% on Barclays Upgrade and $515 Target; UnitedHealth Nudges Higher",
             "Dell Rises 7% as Morgan Stanley Lifts Odds on $756 Bull Case; Hewlett Packard Enterprise Edges Higher",
             "BlackBerry Drops 7% as Post-Earnings Rally Unwinds Despite Record QNX Quarter; MobilEye Adds 2%",
             "Michael Burry Ignores AI Cheers and Hunts for Mispriced Risk",
@@ -1374,21 +1383,19 @@
             "Microsoft Climbs 4% as Oppenheimer Lifts Target to $570 on Copilot Enterprise Pivot; Alphabet Ticks Up",
             "Zscaler Sinks 9% on Chief Revenue Officer Exit, Fastly Drops 6% as Citi Questions AI Traffic Payoff",
             "GameStop Tumbles 8% Despite Ryan Cohen\u2019s $26M Insider Buy; eBay Ticks Up",
-            "Jaguar Health Soars 32% as Rare-Disease Pipeline News Meets Thin Post-Split Float",
-            "Micron at $1080: The Street Loves What It Sees Underneath The Headlines",
-            "Bond Market Alarm Bells Are Ringing, But Mohamed El-Erian Says Psychology May Be Fueling the Fear More Than Fundamentals"
+            "Jaguar Health Soars 32% as Rare-Disease Pipeline News Meets Thin Post-Split Float"
           ],
           "spx": [
-            "How to fix overvalued AI companies and a McDonald's market play",
-            "Stock market today: Dow, S&P 500, Nasdaq trims losses as hopes of Hormuz deal offset rising bond yields",
+            "Stock market today: Dow, S&P 500, Nasdaq rise as investors shake off bond sell-off woes",
+            "Update: US Equity Indexes Jump as Crude Oil Slides Following Iran's Conditional Plan to Reopen Hormuz Chokepoint",
+            "Stock Market Today: Dow Gains 400 Points As Microsoft Jumps; Oil's Retreat Punches Chevron (Live Coverage)",
+            "The Dow Leads Market Indexes Higher as Microsoft Adds 120 Points",
+            "3 Reasons HOPE is Risky and 1 Stock to Buy Instead",
+            "2 Reasons to Watch EWBC and 1 to Stay Cautious",
             "Update: Equities Rise Intraday as Oil Prices Fall Following Iran's Proposal",
             "Is CoreWeave Stock Making Your Portfolio's Bad Days Worse?",
-            "2 Reasons to Avoid QCRH and 1 Stock to Buy Instead",
-            "2 S&P 500 Stocks Worth Your Attention and 1 We Turn Down",
-            "Stock Market Today: Dow Leads Charge Amid U.S.-Iran Peace Talks; Arista Networks Eyes Buy Point (Live Coverage)",
-            "Pfizer Stock Paid Out $49B: So Why Did Investors Lose Money?",
-            "Michael Burry Ignores AI Cheers and Hunts for Mispriced Risk",
-            "Update: US Equity Indexes Rise as Crude Oil Slumps After Iran's Conditional Proposal to Reopen Strait of Hormuz"
+            "How the Bulls Could Finish 2026 at All-Time Highs",
+            "2 Reasons to Avoid QCRH and 1 Stock to Buy Instead"
           ]
         }
       },
@@ -1431,25 +1438,30 @@
         "auto_note": "DDOG CALL | $+15.04 (+7.15%) | dollar_gainer_1 | Strike $240.0 exp 2026-09-11 (1DTE) | IV 68.4% | SPY +nan% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-09-25 18:00:59 PST",
+        "scanned_at": "2026-09-25 18:45:43 PST",
         "gap_days": 15,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bearish",
-        "spx_sentiment": "neutral",
+        "spy_sentiment": "bullish",
+        "spx_sentiment": "bullish",
         "keywords_found": [
           "rallies",
           "concern"
         ],
         "spy_keywords": [
+          "upgrade",
           "soars",
+          "jumps",
           "drops",
           "tumbles"
         ],
-        "spx_keywords": [],
-        "decision": "sell",
-        "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
+        "spx_keywords": [
+          "jumps"
+        ],
+        "decision": "hold",
+        "decision_reason": "neutral keywords confirmed CALL thesis",
         "raw_headlines": {
           "ticker": [
+            "Datadog Climbs 6%, Approaches 52-Week High While Software Group Slips; Oracle and Cloudflare Decline",
             "2 Nasdaq 100 Stocks to Target This Week and 1 We Question",
             "Dow Jones Futures Signal Rebound For Resilient Market; Tesla, Akamai, Taiwan Semi In Focus",
             "Datadog, Inc. (DDOG) Is a Trending Stock: Facts to Know Before Betting on It",
@@ -1458,10 +1470,11 @@
             "Fastly Sinks 8% as Selling After Investor Day Cuts Into a 164% YTD Run; Cloudflare Holds Flat",
             "Dow Jones Futures Fall As Treasury Yields, Oil Prices Keep Rising. Meta, Everpure, Grail Are Early Movers.",
             "Datadog (DDOG) Gains As Market Dips: What You Should Know",
-            "Trump Downplayed AI Safety Concerns, but His Investment Portfolio Bought Cybersecurity Stocks",
-            "Fastly Just Ripped 138% This Year but It\u2019s Now Falling. Is It Time to Sell?"
+            "Trump Downplayed AI Safety Concerns, but His Investment Portfolio Bought Cybersecurity Stocks"
           ],
           "spy": [
+            "Datadog Climbs 6%, Approaches 52-Week High While Software Group Slips; Oracle and Cloudflare Decline",
+            "Humana Jumps 7% on Barclays Upgrade and $515 Target; UnitedHealth Nudges Higher",
             "Dell Rises 7% as Morgan Stanley Lifts Odds on $756 Bull Case; Hewlett Packard Enterprise Edges Higher",
             "BlackBerry Drops 7% as Post-Earnings Rally Unwinds Despite Record QNX Quarter; MobilEye Adds 2%",
             "Michael Burry Ignores AI Cheers and Hunts for Mispriced Risk",
@@ -1469,21 +1482,19 @@
             "Microsoft Climbs 4% as Oppenheimer Lifts Target to $570 on Copilot Enterprise Pivot; Alphabet Ticks Up",
             "Zscaler Sinks 9% on Chief Revenue Officer Exit, Fastly Drops 6% as Citi Questions AI Traffic Payoff",
             "GameStop Tumbles 8% Despite Ryan Cohen\u2019s $26M Insider Buy; eBay Ticks Up",
-            "Jaguar Health Soars 32% as Rare-Disease Pipeline News Meets Thin Post-Split Float",
-            "Micron at $1080: The Street Loves What It Sees Underneath The Headlines",
-            "Bond Market Alarm Bells Are Ringing, But Mohamed El-Erian Says Psychology May Be Fueling the Fear More Than Fundamentals"
+            "Jaguar Health Soars 32% as Rare-Disease Pipeline News Meets Thin Post-Split Float"
           ],
           "spx": [
-            "How to fix overvalued AI companies and a McDonald's market play",
-            "Stock market today: Dow, S&P 500, Nasdaq trims losses as hopes of Hormuz deal offset rising bond yields",
+            "Stock market today: Dow, S&P 500, Nasdaq rise as investors shake off bond sell-off woes",
+            "Update: US Equity Indexes Jump as Crude Oil Slides Following Iran's Conditional Plan to Reopen Hormuz Chokepoint",
+            "Stock Market Today: Dow Gains 400 Points As Microsoft Jumps; Oil's Retreat Punches Chevron (Live Coverage)",
+            "The Dow Leads Market Indexes Higher as Microsoft Adds 120 Points",
+            "3 Reasons HOPE is Risky and 1 Stock to Buy Instead",
+            "2 Reasons to Watch EWBC and 1 to Stay Cautious",
             "Update: Equities Rise Intraday as Oil Prices Fall Following Iran's Proposal",
             "Is CoreWeave Stock Making Your Portfolio's Bad Days Worse?",
-            "2 Reasons to Avoid QCRH and 1 Stock to Buy Instead",
-            "2 S&P 500 Stocks Worth Your Attention and 1 We Turn Down",
-            "Stock Market Today: Dow Leads Charge Amid U.S.-Iran Peace Talks; Arista Networks Eyes Buy Point (Live Coverage)",
-            "Pfizer Stock Paid Out $49B: So Why Did Investors Lose Money?",
-            "Michael Burry Ignores AI Cheers and Hunts for Mispriced Risk",
-            "Update: US Equity Indexes Rise as Crude Oil Slumps After Iran's Conditional Proposal to Reopen Strait of Hormuz"
+            "How the Bulls Could Finish 2026 at All-Time Highs",
+            "2 Reasons to Avoid QCRH and 1 Stock to Buy Instead"
           ]
         }
       },
@@ -1529,23 +1540,29 @@
         "auto_note": "RGTZ CALL | $+14.18 (+402.84%) | dollar_gainer_1 | Strike $8.0 exp 2026-09-18 (7DTE) | IV 0.0% | SPY +nan% | MACRO: rate hike, china"
       },
       "news_scan": {
-        "scanned_at": "2026-09-25 18:00:59 PST",
+        "scanned_at": "2026-09-25 18:45:43 PST",
         "gap_days": 14,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bearish",
-        "spx_sentiment": "neutral",
+        "spy_sentiment": "bullish",
+        "spx_sentiment": "bullish",
         "keywords_found": [],
         "spy_keywords": [
+          "upgrade",
           "soars",
+          "jumps",
           "drops",
           "tumbles"
         ],
-        "spx_keywords": [],
-        "decision": "sell",
-        "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
+        "spx_keywords": [
+          "jumps"
+        ],
+        "decision": "hold",
+        "decision_reason": "neutral keywords confirmed CALL thesis",
         "raw_headlines": {
           "ticker": [],
           "spy": [
+            "Datadog Climbs 6%, Approaches 52-Week High While Software Group Slips; Oracle and Cloudflare Decline",
+            "Humana Jumps 7% on Barclays Upgrade and $515 Target; UnitedHealth Nudges Higher",
             "Dell Rises 7% as Morgan Stanley Lifts Odds on $756 Bull Case; Hewlett Packard Enterprise Edges Higher",
             "BlackBerry Drops 7% as Post-Earnings Rally Unwinds Despite Record QNX Quarter; MobilEye Adds 2%",
             "Michael Burry Ignores AI Cheers and Hunts for Mispriced Risk",
@@ -1553,21 +1570,19 @@
             "Microsoft Climbs 4% as Oppenheimer Lifts Target to $570 on Copilot Enterprise Pivot; Alphabet Ticks Up",
             "Zscaler Sinks 9% on Chief Revenue Officer Exit, Fastly Drops 6% as Citi Questions AI Traffic Payoff",
             "GameStop Tumbles 8% Despite Ryan Cohen\u2019s $26M Insider Buy; eBay Ticks Up",
-            "Jaguar Health Soars 32% as Rare-Disease Pipeline News Meets Thin Post-Split Float",
-            "Micron at $1080: The Street Loves What It Sees Underneath The Headlines",
-            "Bond Market Alarm Bells Are Ringing, But Mohamed El-Erian Says Psychology May Be Fueling the Fear More Than Fundamentals"
+            "Jaguar Health Soars 32% as Rare-Disease Pipeline News Meets Thin Post-Split Float"
           ],
           "spx": [
-            "How to fix overvalued AI companies and a McDonald's market play",
-            "Stock market today: Dow, S&P 500, Nasdaq trims losses as hopes of Hormuz deal offset rising bond yields",
+            "Stock market today: Dow, S&P 500, Nasdaq rise as investors shake off bond sell-off woes",
+            "Update: US Equity Indexes Jump as Crude Oil Slides Following Iran's Conditional Plan to Reopen Hormuz Chokepoint",
+            "Stock Market Today: Dow Gains 400 Points As Microsoft Jumps; Oil's Retreat Punches Chevron (Live Coverage)",
+            "The Dow Leads Market Indexes Higher as Microsoft Adds 120 Points",
+            "3 Reasons HOPE is Risky and 1 Stock to Buy Instead",
+            "2 Reasons to Watch EWBC and 1 to Stay Cautious",
             "Update: Equities Rise Intraday as Oil Prices Fall Following Iran's Proposal",
             "Is CoreWeave Stock Making Your Portfolio's Bad Days Worse?",
-            "2 Reasons to Avoid QCRH and 1 Stock to Buy Instead",
-            "2 S&P 500 Stocks Worth Your Attention and 1 We Turn Down",
-            "Stock Market Today: Dow Leads Charge Amid U.S.-Iran Peace Talks; Arista Networks Eyes Buy Point (Live Coverage)",
-            "Pfizer Stock Paid Out $49B: So Why Did Investors Lose Money?",
-            "Michael Burry Ignores AI Cheers and Hunts for Mispriced Risk",
-            "Update: US Equity Indexes Rise as Crude Oil Slumps After Iran's Conditional Proposal to Reopen Strait of Hormuz"
+            "How the Bulls Could Finish 2026 at All-Time Highs",
+            "2 Reasons to Avoid QCRH and 1 Stock to Buy Instead"
           ]
         }
       },
@@ -1612,20 +1627,24 @@
         "auto_note": "VICR CALL | $+19.86 (+11.15%) | dollar_gainer_1 | Strike $240.0 exp 2026-09-18 (6DTE) | IV 86.0% | SPY +nan% | MACRO: fed"
       },
       "news_scan": {
-        "scanned_at": "2026-09-25 18:00:59 PST",
+        "scanned_at": "2026-09-25 18:45:43 PST",
         "gap_days": 13,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bearish",
-        "spx_sentiment": "neutral",
+        "spy_sentiment": "bullish",
+        "spx_sentiment": "bullish",
         "keywords_found": [],
         "spy_keywords": [
+          "upgrade",
           "soars",
+          "jumps",
           "drops",
           "tumbles"
         ],
-        "spx_keywords": [],
-        "decision": "sell",
-        "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
+        "spx_keywords": [
+          "jumps"
+        ],
+        "decision": "hold",
+        "decision_reason": "neutral keywords confirmed CALL thesis",
         "raw_headlines": {
           "ticker": [
             "Why Vicor Stock Was Crushing it This Week",
@@ -1635,6 +1654,8 @@
             "Is Vicor Stock Worth Buying Before Its Second Fab Exists?"
           ],
           "spy": [
+            "Datadog Climbs 6%, Approaches 52-Week High While Software Group Slips; Oracle and Cloudflare Decline",
+            "Humana Jumps 7% on Barclays Upgrade and $515 Target; UnitedHealth Nudges Higher",
             "Dell Rises 7% as Morgan Stanley Lifts Odds on $756 Bull Case; Hewlett Packard Enterprise Edges Higher",
             "BlackBerry Drops 7% as Post-Earnings Rally Unwinds Despite Record QNX Quarter; MobilEye Adds 2%",
             "Michael Burry Ignores AI Cheers and Hunts for Mispriced Risk",
@@ -1642,21 +1663,19 @@
             "Microsoft Climbs 4% as Oppenheimer Lifts Target to $570 on Copilot Enterprise Pivot; Alphabet Ticks Up",
             "Zscaler Sinks 9% on Chief Revenue Officer Exit, Fastly Drops 6% as Citi Questions AI Traffic Payoff",
             "GameStop Tumbles 8% Despite Ryan Cohen\u2019s $26M Insider Buy; eBay Ticks Up",
-            "Jaguar Health Soars 32% as Rare-Disease Pipeline News Meets Thin Post-Split Float",
-            "Micron at $1080: The Street Loves What It Sees Underneath The Headlines",
-            "Bond Market Alarm Bells Are Ringing, But Mohamed El-Erian Says Psychology May Be Fueling the Fear More Than Fundamentals"
+            "Jaguar Health Soars 32% as Rare-Disease Pipeline News Meets Thin Post-Split Float"
           ],
           "spx": [
-            "How to fix overvalued AI companies and a McDonald's market play",
-            "Stock market today: Dow, S&P 500, Nasdaq trims losses as hopes of Hormuz deal offset rising bond yields",
+            "Stock market today: Dow, S&P 500, Nasdaq rise as investors shake off bond sell-off woes",
+            "Update: US Equity Indexes Jump as Crude Oil Slides Following Iran's Conditional Plan to Reopen Hormuz Chokepoint",
+            "Stock Market Today: Dow Gains 400 Points As Microsoft Jumps; Oil's Retreat Punches Chevron (Live Coverage)",
+            "The Dow Leads Market Indexes Higher as Microsoft Adds 120 Points",
+            "3 Reasons HOPE is Risky and 1 Stock to Buy Instead",
+            "2 Reasons to Watch EWBC and 1 to Stay Cautious",
             "Update: Equities Rise Intraday as Oil Prices Fall Following Iran's Proposal",
             "Is CoreWeave Stock Making Your Portfolio's Bad Days Worse?",
-            "2 Reasons to Avoid QCRH and 1 Stock to Buy Instead",
-            "2 S&P 500 Stocks Worth Your Attention and 1 We Turn Down",
-            "Stock Market Today: Dow Leads Charge Amid U.S.-Iran Peace Talks; Arista Networks Eyes Buy Point (Live Coverage)",
-            "Pfizer Stock Paid Out $49B: So Why Did Investors Lose Money?",
-            "Michael Burry Ignores AI Cheers and Hunts for Mispriced Risk",
-            "Update: US Equity Indexes Rise as Crude Oil Slumps After Iran's Conditional Proposal to Reopen Strait of Hormuz"
+            "How the Bulls Could Finish 2026 at All-Time Highs",
+            "2 Reasons to Avoid QCRH and 1 Stock to Buy Instead"
           ]
         }
       },
@@ -1701,20 +1720,24 @@
         "auto_note": "LEU PUT | $-13.56 (-8.18%) | dollar_loser_1 | Strike $135.0 exp 2026-09-18 (6DTE) | IV 56.5% | SPY +nan% | MACRO: fed"
       },
       "news_scan": {
-        "scanned_at": "2026-09-25 18:00:59 PST",
+        "scanned_at": "2026-09-25 18:45:43 PST",
         "gap_days": 13,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bearish",
-        "spx_sentiment": "neutral",
+        "spy_sentiment": "bullish",
+        "spx_sentiment": "bullish",
         "keywords_found": [],
         "spy_keywords": [
+          "upgrade",
           "soars",
+          "jumps",
           "drops",
           "tumbles"
         ],
-        "spx_keywords": [],
-        "decision": "hold",
-        "decision_reason": "neutral keywords confirmed PUT thesis",
+        "spx_keywords": [
+          "jumps"
+        ],
+        "decision": "sell",
+        "decision_reason": "no confirmation for PUT thesis \u2014 sell at open",
         "raw_headlines": {
           "ticker": [
             "Is Centrus Energy the Ultimate Pick-and-Shovel Play on the Nuclear Technology Boom?",
@@ -1723,6 +1746,8 @@
             "Q2 Earnings Outperformers: Centrus Energy (NYSE:LEU) And The Rest Of The Mixed or Offshore Upstream E&P Stocks"
           ],
           "spy": [
+            "Datadog Climbs 6%, Approaches 52-Week High While Software Group Slips; Oracle and Cloudflare Decline",
+            "Humana Jumps 7% on Barclays Upgrade and $515 Target; UnitedHealth Nudges Higher",
             "Dell Rises 7% as Morgan Stanley Lifts Odds on $756 Bull Case; Hewlett Packard Enterprise Edges Higher",
             "BlackBerry Drops 7% as Post-Earnings Rally Unwinds Despite Record QNX Quarter; MobilEye Adds 2%",
             "Michael Burry Ignores AI Cheers and Hunts for Mispriced Risk",
@@ -1730,21 +1755,19 @@
             "Microsoft Climbs 4% as Oppenheimer Lifts Target to $570 on Copilot Enterprise Pivot; Alphabet Ticks Up",
             "Zscaler Sinks 9% on Chief Revenue Officer Exit, Fastly Drops 6% as Citi Questions AI Traffic Payoff",
             "GameStop Tumbles 8% Despite Ryan Cohen\u2019s $26M Insider Buy; eBay Ticks Up",
-            "Jaguar Health Soars 32% as Rare-Disease Pipeline News Meets Thin Post-Split Float",
-            "Micron at $1080: The Street Loves What It Sees Underneath The Headlines",
-            "Bond Market Alarm Bells Are Ringing, But Mohamed El-Erian Says Psychology May Be Fueling the Fear More Than Fundamentals"
+            "Jaguar Health Soars 32% as Rare-Disease Pipeline News Meets Thin Post-Split Float"
           ],
           "spx": [
-            "How to fix overvalued AI companies and a McDonald's market play",
-            "Stock market today: Dow, S&P 500, Nasdaq trims losses as hopes of Hormuz deal offset rising bond yields",
+            "Stock market today: Dow, S&P 500, Nasdaq rise as investors shake off bond sell-off woes",
+            "Update: US Equity Indexes Jump as Crude Oil Slides Following Iran's Conditional Plan to Reopen Hormuz Chokepoint",
+            "Stock Market Today: Dow Gains 400 Points As Microsoft Jumps; Oil's Retreat Punches Chevron (Live Coverage)",
+            "The Dow Leads Market Indexes Higher as Microsoft Adds 120 Points",
+            "3 Reasons HOPE is Risky and 1 Stock to Buy Instead",
+            "2 Reasons to Watch EWBC and 1 to Stay Cautious",
             "Update: Equities Rise Intraday as Oil Prices Fall Following Iran's Proposal",
             "Is CoreWeave Stock Making Your Portfolio's Bad Days Worse?",
-            "2 Reasons to Avoid QCRH and 1 Stock to Buy Instead",
-            "2 S&P 500 Stocks Worth Your Attention and 1 We Turn Down",
-            "Stock Market Today: Dow Leads Charge Amid U.S.-Iran Peace Talks; Arista Networks Eyes Buy Point (Live Coverage)",
-            "Pfizer Stock Paid Out $49B: So Why Did Investors Lose Money?",
-            "Michael Burry Ignores AI Cheers and Hunts for Mispriced Risk",
-            "Update: US Equity Indexes Rise as Crude Oil Slumps After Iran's Conditional Proposal to Reopen Strait of Hormuz"
+            "How the Bulls Could Finish 2026 at All-Time Highs",
+            "2 Reasons to Avoid QCRH and 1 Stock to Buy Instead"
           ]
         }
       },
@@ -1787,22 +1810,26 @@
         "auto_note": "PANW CALL | $+43.29 (+13.09%) | dollar_gainer_1 | Strike $420.0 exp 2026-09-18 (3DTE) | IV 71.1% | SPY +nan% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-09-25 18:00:59 PST",
+        "scanned_at": "2026-09-25 18:45:43 PST",
         "gap_days": 10,
         "ticker_sentiment": "bearish",
-        "spy_sentiment": "bearish",
-        "spx_sentiment": "neutral",
+        "spy_sentiment": "bullish",
+        "spx_sentiment": "bullish",
         "keywords_found": [
           "falls"
         ],
         "spy_keywords": [
+          "upgrade",
           "soars",
+          "jumps",
           "drops",
           "tumbles"
         ],
-        "spx_keywords": [],
-        "decision": "sell",
-        "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
+        "spx_keywords": [
+          "jumps"
+        ],
+        "decision": "hold",
+        "decision_reason": "bearish keywords confirmed CALL thesis",
         "raw_headlines": {
           "ticker": [
             "Zscaler Falls Amid Executive Change As Cybersecurity Stocks Pull Back",
@@ -1817,6 +1844,8 @@
             "Palo Alto CEO Sends Stark Signal on AI"
           ],
           "spy": [
+            "Datadog Climbs 6%, Approaches 52-Week High While Software Group Slips; Oracle and Cloudflare Decline",
+            "Humana Jumps 7% on Barclays Upgrade and $515 Target; UnitedHealth Nudges Higher",
             "Dell Rises 7% as Morgan Stanley Lifts Odds on $756 Bull Case; Hewlett Packard Enterprise Edges Higher",
             "BlackBerry Drops 7% as Post-Earnings Rally Unwinds Despite Record QNX Quarter; MobilEye Adds 2%",
             "Michael Burry Ignores AI Cheers and Hunts for Mispriced Risk",
@@ -1824,21 +1853,19 @@
             "Microsoft Climbs 4% as Oppenheimer Lifts Target to $570 on Copilot Enterprise Pivot; Alphabet Ticks Up",
             "Zscaler Sinks 9% on Chief Revenue Officer Exit, Fastly Drops 6% as Citi Questions AI Traffic Payoff",
             "GameStop Tumbles 8% Despite Ryan Cohen\u2019s $26M Insider Buy; eBay Ticks Up",
-            "Jaguar Health Soars 32% as Rare-Disease Pipeline News Meets Thin Post-Split Float",
-            "Micron at $1080: The Street Loves What It Sees Underneath The Headlines",
-            "Bond Market Alarm Bells Are Ringing, But Mohamed El-Erian Says Psychology May Be Fueling the Fear More Than Fundamentals"
+            "Jaguar Health Soars 32% as Rare-Disease Pipeline News Meets Thin Post-Split Float"
           ],
           "spx": [
-            "How to fix overvalued AI companies and a McDonald's market play",
-            "Stock market today: Dow, S&P 500, Nasdaq trims losses as hopes of Hormuz deal offset rising bond yields",
+            "Stock market today: Dow, S&P 500, Nasdaq rise as investors shake off bond sell-off woes",
+            "Update: US Equity Indexes Jump as Crude Oil Slides Following Iran's Conditional Plan to Reopen Hormuz Chokepoint",
+            "Stock Market Today: Dow Gains 400 Points As Microsoft Jumps; Oil's Retreat Punches Chevron (Live Coverage)",
+            "The Dow Leads Market Indexes Higher as Microsoft Adds 120 Points",
+            "3 Reasons HOPE is Risky and 1 Stock to Buy Instead",
+            "2 Reasons to Watch EWBC and 1 to Stay Cautious",
             "Update: Equities Rise Intraday as Oil Prices Fall Following Iran's Proposal",
             "Is CoreWeave Stock Making Your Portfolio's Bad Days Worse?",
-            "2 Reasons to Avoid QCRH and 1 Stock to Buy Instead",
-            "2 S&P 500 Stocks Worth Your Attention and 1 We Turn Down",
-            "Stock Market Today: Dow Leads Charge Amid U.S.-Iran Peace Talks; Arista Networks Eyes Buy Point (Live Coverage)",
-            "Pfizer Stock Paid Out $49B: So Why Did Investors Lose Money?",
-            "Michael Burry Ignores AI Cheers and Hunts for Mispriced Risk",
-            "Update: US Equity Indexes Rise as Crude Oil Slumps After Iran's Conditional Proposal to Reopen Strait of Hormuz"
+            "How the Bulls Could Finish 2026 at All-Time Highs",
+            "2 Reasons to Avoid QCRH and 1 Stock to Buy Instead"
           ]
         }
       },
@@ -1881,20 +1908,24 @@
         "auto_note": "TER PUT | $-50.52 (-13.30%) | dollar_loser_1 | Strike $280.0 exp 2026-09-18 (3DTE) | IV 90.0% | SPY +nan% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-09-25 18:00:59 PST",
+        "scanned_at": "2026-09-25 18:45:43 PST",
         "gap_days": 10,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bearish",
-        "spx_sentiment": "neutral",
+        "spy_sentiment": "bullish",
+        "spx_sentiment": "bullish",
         "keywords_found": [],
         "spy_keywords": [
+          "upgrade",
           "soars",
+          "jumps",
           "drops",
           "tumbles"
         ],
-        "spx_keywords": [],
-        "decision": "hold",
-        "decision_reason": "neutral keywords confirmed PUT thesis",
+        "spx_keywords": [
+          "jumps"
+        ],
+        "decision": "sell",
+        "decision_reason": "no confirmation for PUT thesis \u2014 sell at open",
         "raw_headlines": {
           "ticker": [
             "Reflecting On Semiconductor Manufacturing Stocks\u2019 Q2 Earnings: Teradyne (NASDAQ:TER)",
@@ -1903,6 +1934,8 @@
             "Power Integrations, Penguin Solutions, Photronics, Amkor, and Teradyne Shares Are Soaring, What You Need To Know"
           ],
           "spy": [
+            "Datadog Climbs 6%, Approaches 52-Week High While Software Group Slips; Oracle and Cloudflare Decline",
+            "Humana Jumps 7% on Barclays Upgrade and $515 Target; UnitedHealth Nudges Higher",
             "Dell Rises 7% as Morgan Stanley Lifts Odds on $756 Bull Case; Hewlett Packard Enterprise Edges Higher",
             "BlackBerry Drops 7% as Post-Earnings Rally Unwinds Despite Record QNX Quarter; MobilEye Adds 2%",
             "Michael Burry Ignores AI Cheers and Hunts for Mispriced Risk",
@@ -1910,21 +1943,19 @@
             "Microsoft Climbs 4% as Oppenheimer Lifts Target to $570 on Copilot Enterprise Pivot; Alphabet Ticks Up",
             "Zscaler Sinks 9% on Chief Revenue Officer Exit, Fastly Drops 6% as Citi Questions AI Traffic Payoff",
             "GameStop Tumbles 8% Despite Ryan Cohen\u2019s $26M Insider Buy; eBay Ticks Up",
-            "Jaguar Health Soars 32% as Rare-Disease Pipeline News Meets Thin Post-Split Float",
-            "Micron at $1080: The Street Loves What It Sees Underneath The Headlines",
-            "Bond Market Alarm Bells Are Ringing, But Mohamed El-Erian Says Psychology May Be Fueling the Fear More Than Fundamentals"
+            "Jaguar Health Soars 32% as Rare-Disease Pipeline News Meets Thin Post-Split Float"
           ],
           "spx": [
-            "How to fix overvalued AI companies and a McDonald's market play",
-            "Stock market today: Dow, S&P 500, Nasdaq trims losses as hopes of Hormuz deal offset rising bond yields",
+            "Stock market today: Dow, S&P 500, Nasdaq rise as investors shake off bond sell-off woes",
+            "Update: US Equity Indexes Jump as Crude Oil Slides Following Iran's Conditional Plan to Reopen Hormuz Chokepoint",
+            "Stock Market Today: Dow Gains 400 Points As Microsoft Jumps; Oil's Retreat Punches Chevron (Live Coverage)",
+            "The Dow Leads Market Indexes Higher as Microsoft Adds 120 Points",
+            "3 Reasons HOPE is Risky and 1 Stock to Buy Instead",
+            "2 Reasons to Watch EWBC and 1 to Stay Cautious",
             "Update: Equities Rise Intraday as Oil Prices Fall Following Iran's Proposal",
             "Is CoreWeave Stock Making Your Portfolio's Bad Days Worse?",
-            "2 Reasons to Avoid QCRH and 1 Stock to Buy Instead",
-            "2 S&P 500 Stocks Worth Your Attention and 1 We Turn Down",
-            "Stock Market Today: Dow Leads Charge Amid U.S.-Iran Peace Talks; Arista Networks Eyes Buy Point (Live Coverage)",
-            "Pfizer Stock Paid Out $49B: So Why Did Investors Lose Money?",
-            "Michael Burry Ignores AI Cheers and Hunts for Mispriced Risk",
-            "Update: US Equity Indexes Rise as Crude Oil Slumps After Iran's Conditional Proposal to Reopen Strait of Hormuz"
+            "How the Bulls Could Finish 2026 at All-Time Highs",
+            "2 Reasons to Avoid QCRH and 1 Stock to Buy Instead"
           ]
         }
       },
@@ -1970,20 +2001,24 @@
         "auto_note": "QLYS CALL | $+12.46 (+7.21%) | dollar_gainer_1 | Strike $210.0 exp 2026-09-18 (2DTE) | IV 78.5% | SPY +nan% | MACRO: fed, rate hike"
       },
       "news_scan": {
-        "scanned_at": "2026-09-25 18:00:59 PST",
+        "scanned_at": "2026-09-25 18:45:43 PST",
         "gap_days": 9,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bearish",
-        "spx_sentiment": "neutral",
+        "spy_sentiment": "bullish",
+        "spx_sentiment": "bullish",
         "keywords_found": [],
         "spy_keywords": [
+          "upgrade",
           "soars",
+          "jumps",
           "drops",
           "tumbles"
         ],
-        "spx_keywords": [],
-        "decision": "sell",
-        "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
+        "spx_keywords": [
+          "jumps"
+        ],
+        "decision": "hold",
+        "decision_reason": "neutral keywords confirmed CALL thesis",
         "raw_headlines": {
           "ticker": [
             "Qualys (QLYS) Stock May Be 21% Undervalued On Strong Cash Flow",
@@ -1992,6 +2027,8 @@
             "3 Small-Cap Stocks We Think Twice About"
           ],
           "spy": [
+            "Datadog Climbs 6%, Approaches 52-Week High While Software Group Slips; Oracle and Cloudflare Decline",
+            "Humana Jumps 7% on Barclays Upgrade and $515 Target; UnitedHealth Nudges Higher",
             "Dell Rises 7% as Morgan Stanley Lifts Odds on $756 Bull Case; Hewlett Packard Enterprise Edges Higher",
             "BlackBerry Drops 7% as Post-Earnings Rally Unwinds Despite Record QNX Quarter; MobilEye Adds 2%",
             "Michael Burry Ignores AI Cheers and Hunts for Mispriced Risk",
@@ -1999,21 +2036,19 @@
             "Microsoft Climbs 4% as Oppenheimer Lifts Target to $570 on Copilot Enterprise Pivot; Alphabet Ticks Up",
             "Zscaler Sinks 9% on Chief Revenue Officer Exit, Fastly Drops 6% as Citi Questions AI Traffic Payoff",
             "GameStop Tumbles 8% Despite Ryan Cohen\u2019s $26M Insider Buy; eBay Ticks Up",
-            "Jaguar Health Soars 32% as Rare-Disease Pipeline News Meets Thin Post-Split Float",
-            "Micron at $1080: The Street Loves What It Sees Underneath The Headlines",
-            "Bond Market Alarm Bells Are Ringing, But Mohamed El-Erian Says Psychology May Be Fueling the Fear More Than Fundamentals"
+            "Jaguar Health Soars 32% as Rare-Disease Pipeline News Meets Thin Post-Split Float"
           ],
           "spx": [
-            "How to fix overvalued AI companies and a McDonald's market play",
-            "Stock market today: Dow, S&P 500, Nasdaq trims losses as hopes of Hormuz deal offset rising bond yields",
+            "Stock market today: Dow, S&P 500, Nasdaq rise as investors shake off bond sell-off woes",
+            "Update: US Equity Indexes Jump as Crude Oil Slides Following Iran's Conditional Plan to Reopen Hormuz Chokepoint",
+            "Stock Market Today: Dow Gains 400 Points As Microsoft Jumps; Oil's Retreat Punches Chevron (Live Coverage)",
+            "The Dow Leads Market Indexes Higher as Microsoft Adds 120 Points",
+            "3 Reasons HOPE is Risky and 1 Stock to Buy Instead",
+            "2 Reasons to Watch EWBC and 1 to Stay Cautious",
             "Update: Equities Rise Intraday as Oil Prices Fall Following Iran's Proposal",
             "Is CoreWeave Stock Making Your Portfolio's Bad Days Worse?",
-            "2 Reasons to Avoid QCRH and 1 Stock to Buy Instead",
-            "2 S&P 500 Stocks Worth Your Attention and 1 We Turn Down",
-            "Stock Market Today: Dow Leads Charge Amid U.S.-Iran Peace Talks; Arista Networks Eyes Buy Point (Live Coverage)",
-            "Pfizer Stock Paid Out $49B: So Why Did Investors Lose Money?",
-            "Michael Burry Ignores AI Cheers and Hunts for Mispriced Risk",
-            "Update: US Equity Indexes Rise as Crude Oil Slumps After Iran's Conditional Proposal to Reopen Strait of Hormuz"
+            "How the Bulls Could Finish 2026 at All-Time Highs",
+            "2 Reasons to Avoid QCRH and 1 Stock to Buy Instead"
           ]
         }
       },
@@ -2059,20 +2094,24 @@
         "auto_note": "AXON PUT | $-48.10 (-9.81%) | dollar_loser_1 | Strike $390.0 exp 2026-09-18 (2DTE) | IV 78.0% | SPY +nan% | MACRO: fed, rate hike"
       },
       "news_scan": {
-        "scanned_at": "2026-09-25 18:00:59 PST",
+        "scanned_at": "2026-09-25 18:45:43 PST",
         "gap_days": 9,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bearish",
-        "spx_sentiment": "neutral",
+        "spy_sentiment": "bullish",
+        "spx_sentiment": "bullish",
         "keywords_found": [],
         "spy_keywords": [
+          "upgrade",
           "soars",
+          "jumps",
           "drops",
           "tumbles"
         ],
-        "spx_keywords": [],
-        "decision": "hold",
-        "decision_reason": "neutral keywords confirmed PUT thesis",
+        "spx_keywords": [
+          "jumps"
+        ],
+        "decision": "sell",
+        "decision_reason": "no confirmation for PUT thesis \u2014 sell at open",
         "raw_headlines": {
           "ticker": [
             "Sterling, Axon, Herc, Nextpower, and FTAI Aviation Shares Plummet, What You Need To Know",
@@ -2080,6 +2119,8 @@
             "3 Reasons AXON Has Explosive Upside Potential"
           ],
           "spy": [
+            "Datadog Climbs 6%, Approaches 52-Week High While Software Group Slips; Oracle and Cloudflare Decline",
+            "Humana Jumps 7% on Barclays Upgrade and $515 Target; UnitedHealth Nudges Higher",
             "Dell Rises 7% as Morgan Stanley Lifts Odds on $756 Bull Case; Hewlett Packard Enterprise Edges Higher",
             "BlackBerry Drops 7% as Post-Earnings Rally Unwinds Despite Record QNX Quarter; MobilEye Adds 2%",
             "Michael Burry Ignores AI Cheers and Hunts for Mispriced Risk",
@@ -2087,21 +2128,19 @@
             "Microsoft Climbs 4% as Oppenheimer Lifts Target to $570 on Copilot Enterprise Pivot; Alphabet Ticks Up",
             "Zscaler Sinks 9% on Chief Revenue Officer Exit, Fastly Drops 6% as Citi Questions AI Traffic Payoff",
             "GameStop Tumbles 8% Despite Ryan Cohen\u2019s $26M Insider Buy; eBay Ticks Up",
-            "Jaguar Health Soars 32% as Rare-Disease Pipeline News Meets Thin Post-Split Float",
-            "Micron at $1080: The Street Loves What It Sees Underneath The Headlines",
-            "Bond Market Alarm Bells Are Ringing, But Mohamed El-Erian Says Psychology May Be Fueling the Fear More Than Fundamentals"
+            "Jaguar Health Soars 32% as Rare-Disease Pipeline News Meets Thin Post-Split Float"
           ],
           "spx": [
-            "How to fix overvalued AI companies and a McDonald's market play",
-            "Stock market today: Dow, S&P 500, Nasdaq trims losses as hopes of Hormuz deal offset rising bond yields",
+            "Stock market today: Dow, S&P 500, Nasdaq rise as investors shake off bond sell-off woes",
+            "Update: US Equity Indexes Jump as Crude Oil Slides Following Iran's Conditional Plan to Reopen Hormuz Chokepoint",
+            "Stock Market Today: Dow Gains 400 Points As Microsoft Jumps; Oil's Retreat Punches Chevron (Live Coverage)",
+            "The Dow Leads Market Indexes Higher as Microsoft Adds 120 Points",
+            "3 Reasons HOPE is Risky and 1 Stock to Buy Instead",
+            "2 Reasons to Watch EWBC and 1 to Stay Cautious",
             "Update: Equities Rise Intraday as Oil Prices Fall Following Iran's Proposal",
             "Is CoreWeave Stock Making Your Portfolio's Bad Days Worse?",
-            "2 Reasons to Avoid QCRH and 1 Stock to Buy Instead",
-            "2 S&P 500 Stocks Worth Your Attention and 1 We Turn Down",
-            "Stock Market Today: Dow Leads Charge Amid U.S.-Iran Peace Talks; Arista Networks Eyes Buy Point (Live Coverage)",
-            "Pfizer Stock Paid Out $49B: So Why Did Investors Lose Money?",
-            "Michael Burry Ignores AI Cheers and Hunts for Mispriced Risk",
-            "Update: US Equity Indexes Rise as Crude Oil Slumps After Iran's Conditional Proposal to Reopen Strait of Hormuz"
+            "How the Bulls Could Finish 2026 at All-Time Highs",
+            "2 Reasons to Avoid QCRH and 1 Stock to Buy Instead"
           ]
         }
       },
@@ -2147,20 +2186,24 @@
         "auto_note": "COHR CALL | $+18.76 (+6.92%) | dollar_gainer_1 | Strike $320.0 exp 2026-09-18 (1DTE) | IV 88.5% | SPY +nan% | MACRO: fed, war"
       },
       "news_scan": {
-        "scanned_at": "2026-09-25 18:00:59 PST",
+        "scanned_at": "2026-09-25 18:45:43 PST",
         "gap_days": 8,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bearish",
-        "spx_sentiment": "neutral",
+        "spy_sentiment": "bullish",
+        "spx_sentiment": "bullish",
         "keywords_found": [],
         "spy_keywords": [
+          "upgrade",
           "soars",
+          "jumps",
           "drops",
           "tumbles"
         ],
-        "spx_keywords": [],
-        "decision": "sell",
-        "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
+        "spx_keywords": [
+          "jumps"
+        ],
+        "decision": "hold",
+        "decision_reason": "neutral keywords confirmed CALL thesis",
         "raw_headlines": {
           "ticker": [
             "What Is Coherent (COHR) Really Betting On With PhotonLink For AI Datacenters?",
@@ -2172,6 +2215,8 @@
             "Sandisk, Lennar, Viking Therapeutics, Shopify, GameStop, and More Stocks That Explain Today\u2019s Market"
           ],
           "spy": [
+            "Datadog Climbs 6%, Approaches 52-Week High While Software Group Slips; Oracle and Cloudflare Decline",
+            "Humana Jumps 7% on Barclays Upgrade and $515 Target; UnitedHealth Nudges Higher",
             "Dell Rises 7% as Morgan Stanley Lifts Odds on $756 Bull Case; Hewlett Packard Enterprise Edges Higher",
             "BlackBerry Drops 7% as Post-Earnings Rally Unwinds Despite Record QNX Quarter; MobilEye Adds 2%",
             "Michael Burry Ignores AI Cheers and Hunts for Mispriced Risk",
@@ -2179,21 +2224,19 @@
             "Microsoft Climbs 4% as Oppenheimer Lifts Target to $570 on Copilot Enterprise Pivot; Alphabet Ticks Up",
             "Zscaler Sinks 9% on Chief Revenue Officer Exit, Fastly Drops 6% as Citi Questions AI Traffic Payoff",
             "GameStop Tumbles 8% Despite Ryan Cohen\u2019s $26M Insider Buy; eBay Ticks Up",
-            "Jaguar Health Soars 32% as Rare-Disease Pipeline News Meets Thin Post-Split Float",
-            "Micron at $1080: The Street Loves What It Sees Underneath The Headlines",
-            "Bond Market Alarm Bells Are Ringing, But Mohamed El-Erian Says Psychology May Be Fueling the Fear More Than Fundamentals"
+            "Jaguar Health Soars 32% as Rare-Disease Pipeline News Meets Thin Post-Split Float"
           ],
           "spx": [
-            "How to fix overvalued AI companies and a McDonald's market play",
-            "Stock market today: Dow, S&P 500, Nasdaq trims losses as hopes of Hormuz deal offset rising bond yields",
+            "Stock market today: Dow, S&P 500, Nasdaq rise as investors shake off bond sell-off woes",
+            "Update: US Equity Indexes Jump as Crude Oil Slides Following Iran's Conditional Plan to Reopen Hormuz Chokepoint",
+            "Stock Market Today: Dow Gains 400 Points As Microsoft Jumps; Oil's Retreat Punches Chevron (Live Coverage)",
+            "The Dow Leads Market Indexes Higher as Microsoft Adds 120 Points",
+            "3 Reasons HOPE is Risky and 1 Stock to Buy Instead",
+            "2 Reasons to Watch EWBC and 1 to Stay Cautious",
             "Update: Equities Rise Intraday as Oil Prices Fall Following Iran's Proposal",
             "Is CoreWeave Stock Making Your Portfolio's Bad Days Worse?",
-            "2 Reasons to Avoid QCRH and 1 Stock to Buy Instead",
-            "2 S&P 500 Stocks Worth Your Attention and 1 We Turn Down",
-            "Stock Market Today: Dow Leads Charge Amid U.S.-Iran Peace Talks; Arista Networks Eyes Buy Point (Live Coverage)",
-            "Pfizer Stock Paid Out $49B: So Why Did Investors Lose Money?",
-            "Michael Burry Ignores AI Cheers and Hunts for Mispriced Risk",
-            "Update: US Equity Indexes Rise as Crude Oil Slumps After Iran's Conditional Proposal to Reopen Strait of Hormuz"
+            "How the Bulls Could Finish 2026 at All-Time Highs",
+            "2 Reasons to Avoid QCRH and 1 Stock to Buy Instead"
           ]
         }
       },
@@ -2239,26 +2282,32 @@
         "auto_note": "FANG PUT | $-16.99 (-8.03%) | dollar_loser_1 | Strike $185.0 exp 2026-09-18 (1DTE) | IV 53.9% | SPY +nan% | MACRO: fed, war"
       },
       "news_scan": {
-        "scanned_at": "2026-09-25 18:00:59 PST",
+        "scanned_at": "2026-09-25 18:45:43 PST",
         "gap_days": 8,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bearish",
-        "spx_sentiment": "neutral",
+        "spy_sentiment": "bullish",
+        "spx_sentiment": "bullish",
         "keywords_found": [],
         "spy_keywords": [
+          "upgrade",
           "soars",
+          "jumps",
           "drops",
           "tumbles"
         ],
-        "spx_keywords": [],
-        "decision": "hold",
-        "decision_reason": "neutral keywords confirmed PUT thesis",
+        "spx_keywords": [
+          "jumps"
+        ],
+        "decision": "sell",
+        "decision_reason": "no confirmation for PUT thesis \u2014 sell at open",
         "raw_headlines": {
           "ticker": [
             "3 Oil Stocks Investors May Revisit As Supply Worries Lift Crude",
             "Is EOG Resources Stock A Buy For Its Shrinking Share Count?"
           ],
           "spy": [
+            "Datadog Climbs 6%, Approaches 52-Week High While Software Group Slips; Oracle and Cloudflare Decline",
+            "Humana Jumps 7% on Barclays Upgrade and $515 Target; UnitedHealth Nudges Higher",
             "Dell Rises 7% as Morgan Stanley Lifts Odds on $756 Bull Case; Hewlett Packard Enterprise Edges Higher",
             "BlackBerry Drops 7% as Post-Earnings Rally Unwinds Despite Record QNX Quarter; MobilEye Adds 2%",
             "Michael Burry Ignores AI Cheers and Hunts for Mispriced Risk",
@@ -2266,21 +2315,19 @@
             "Microsoft Climbs 4% as Oppenheimer Lifts Target to $570 on Copilot Enterprise Pivot; Alphabet Ticks Up",
             "Zscaler Sinks 9% on Chief Revenue Officer Exit, Fastly Drops 6% as Citi Questions AI Traffic Payoff",
             "GameStop Tumbles 8% Despite Ryan Cohen\u2019s $26M Insider Buy; eBay Ticks Up",
-            "Jaguar Health Soars 32% as Rare-Disease Pipeline News Meets Thin Post-Split Float",
-            "Micron at $1080: The Street Loves What It Sees Underneath The Headlines",
-            "Bond Market Alarm Bells Are Ringing, But Mohamed El-Erian Says Psychology May Be Fueling the Fear More Than Fundamentals"
+            "Jaguar Health Soars 32% as Rare-Disease Pipeline News Meets Thin Post-Split Float"
           ],
           "spx": [
-            "How to fix overvalued AI companies and a McDonald's market play",
-            "Stock market today: Dow, S&P 500, Nasdaq trims losses as hopes of Hormuz deal offset rising bond yields",
+            "Stock market today: Dow, S&P 500, Nasdaq rise as investors shake off bond sell-off woes",
+            "Update: US Equity Indexes Jump as Crude Oil Slides Following Iran's Conditional Plan to Reopen Hormuz Chokepoint",
+            "Stock Market Today: Dow Gains 400 Points As Microsoft Jumps; Oil's Retreat Punches Chevron (Live Coverage)",
+            "The Dow Leads Market Indexes Higher as Microsoft Adds 120 Points",
+            "3 Reasons HOPE is Risky and 1 Stock to Buy Instead",
+            "2 Reasons to Watch EWBC and 1 to Stay Cautious",
             "Update: Equities Rise Intraday as Oil Prices Fall Following Iran's Proposal",
             "Is CoreWeave Stock Making Your Portfolio's Bad Days Worse?",
-            "2 Reasons to Avoid QCRH and 1 Stock to Buy Instead",
-            "2 S&P 500 Stocks Worth Your Attention and 1 We Turn Down",
-            "Stock Market Today: Dow Leads Charge Amid U.S.-Iran Peace Talks; Arista Networks Eyes Buy Point (Live Coverage)",
-            "Pfizer Stock Paid Out $49B: So Why Did Investors Lose Money?",
-            "Michael Burry Ignores AI Cheers and Hunts for Mispriced Risk",
-            "Update: US Equity Indexes Rise as Crude Oil Slumps After Iran's Conditional Proposal to Reopen Strait of Hormuz"
+            "How the Bulls Could Finish 2026 at All-Time Highs",
+            "2 Reasons to Avoid QCRH and 1 Stock to Buy Instead"
           ]
         }
       },
@@ -2323,23 +2370,27 @@
         "auto_note": "ARM CALL | $+47.29 (+17.16%) | dollar_gainer_1 | Strike $400.0 exp 2026-09-25 (3DTE) | IV 120.3% | SPY +nan% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-09-25 18:00:59 PST",
+        "scanned_at": "2026-09-25 18:45:43 PST",
         "gap_days": 3,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bearish",
-        "spx_sentiment": "neutral",
+        "spy_sentiment": "bullish",
+        "spx_sentiment": "bullish",
         "keywords_found": [
           "surge",
           "drops"
         ],
         "spy_keywords": [
+          "upgrade",
           "soars",
+          "jumps",
           "drops",
           "tumbles"
         ],
-        "spx_keywords": [],
-        "decision": "sell",
-        "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
+        "spx_keywords": [
+          "jumps"
+        ],
+        "decision": "hold",
+        "decision_reason": "neutral keywords confirmed CALL thesis",
         "raw_headlines": {
           "ticker": [
             "Arm Stocks Surge as Muse Makes CPUs Matter Again",
@@ -2354,6 +2405,8 @@
             "Prediction: Arm Is Our Top Pick With 83% Upside Driven by Data Center Royalty Boom"
           ],
           "spy": [
+            "Datadog Climbs 6%, Approaches 52-Week High While Software Group Slips; Oracle and Cloudflare Decline",
+            "Humana Jumps 7% on Barclays Upgrade and $515 Target; UnitedHealth Nudges Higher",
             "Dell Rises 7% as Morgan Stanley Lifts Odds on $756 Bull Case; Hewlett Packard Enterprise Edges Higher",
             "BlackBerry Drops 7% as Post-Earnings Rally Unwinds Despite Record QNX Quarter; MobilEye Adds 2%",
             "Michael Burry Ignores AI Cheers and Hunts for Mispriced Risk",
@@ -2361,21 +2414,19 @@
             "Microsoft Climbs 4% as Oppenheimer Lifts Target to $570 on Copilot Enterprise Pivot; Alphabet Ticks Up",
             "Zscaler Sinks 9% on Chief Revenue Officer Exit, Fastly Drops 6% as Citi Questions AI Traffic Payoff",
             "GameStop Tumbles 8% Despite Ryan Cohen\u2019s $26M Insider Buy; eBay Ticks Up",
-            "Jaguar Health Soars 32% as Rare-Disease Pipeline News Meets Thin Post-Split Float",
-            "Micron at $1080: The Street Loves What It Sees Underneath The Headlines",
-            "Bond Market Alarm Bells Are Ringing, But Mohamed El-Erian Says Psychology May Be Fueling the Fear More Than Fundamentals"
+            "Jaguar Health Soars 32% as Rare-Disease Pipeline News Meets Thin Post-Split Float"
           ],
           "spx": [
-            "How to fix overvalued AI companies and a McDonald's market play",
-            "Stock market today: Dow, S&P 500, Nasdaq trims losses as hopes of Hormuz deal offset rising bond yields",
+            "Stock market today: Dow, S&P 500, Nasdaq rise as investors shake off bond sell-off woes",
+            "Update: US Equity Indexes Jump as Crude Oil Slides Following Iran's Conditional Plan to Reopen Hormuz Chokepoint",
+            "Stock Market Today: Dow Gains 400 Points As Microsoft Jumps; Oil's Retreat Punches Chevron (Live Coverage)",
+            "The Dow Leads Market Indexes Higher as Microsoft Adds 120 Points",
+            "3 Reasons HOPE is Risky and 1 Stock to Buy Instead",
+            "2 Reasons to Watch EWBC and 1 to Stay Cautious",
             "Update: Equities Rise Intraday as Oil Prices Fall Following Iran's Proposal",
             "Is CoreWeave Stock Making Your Portfolio's Bad Days Worse?",
-            "2 Reasons to Avoid QCRH and 1 Stock to Buy Instead",
-            "2 S&P 500 Stocks Worth Your Attention and 1 We Turn Down",
-            "Stock Market Today: Dow Leads Charge Amid U.S.-Iran Peace Talks; Arista Networks Eyes Buy Point (Live Coverage)",
-            "Pfizer Stock Paid Out $49B: So Why Did Investors Lose Money?",
-            "Michael Burry Ignores AI Cheers and Hunts for Mispriced Risk",
-            "Update: US Equity Indexes Rise as Crude Oil Slumps After Iran's Conditional Proposal to Reopen Strait of Hormuz"
+            "How the Bulls Could Finish 2026 at All-Time Highs",
+            "2 Reasons to Avoid QCRH and 1 Stock to Buy Instead"
           ]
         }
       },
@@ -2418,20 +2469,24 @@
         "auto_note": "FAS PUT | $-10.61 (-6.50%) | dollar_loser_1 | Strike $145.0 exp 2026-09-25 (2DTE) | IV 57.9% | SPY +nan% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-09-25 18:00:59 PST",
+        "scanned_at": "2026-09-25 18:45:43 PST",
         "gap_days": 2,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bearish",
-        "spx_sentiment": "neutral",
+        "spy_sentiment": "bullish",
+        "spx_sentiment": "bullish",
         "keywords_found": [],
         "spy_keywords": [
+          "upgrade",
           "soars",
+          "jumps",
           "drops",
           "tumbles"
         ],
-        "spx_keywords": [],
-        "decision": "hold",
-        "decision_reason": "neutral keywords confirmed PUT thesis",
+        "spx_keywords": [
+          "jumps"
+        ],
+        "decision": "sell",
+        "decision_reason": "no confirmation for PUT thesis \u2014 sell at open",
         "raw_headlines": {
           "ticker": [
             "Exchange-Traded Funds Rise US Equities Advance After Midday",
@@ -2444,6 +2499,8 @@
             "Exchange-Traded Funds Lower, Equity Futures Mixed Pre-Bell Wednesday as Traders Await Developments in US-Iran Talks"
           ],
           "spy": [
+            "Datadog Climbs 6%, Approaches 52-Week High While Software Group Slips; Oracle and Cloudflare Decline",
+            "Humana Jumps 7% on Barclays Upgrade and $515 Target; UnitedHealth Nudges Higher",
             "Dell Rises 7% as Morgan Stanley Lifts Odds on $756 Bull Case; Hewlett Packard Enterprise Edges Higher",
             "BlackBerry Drops 7% as Post-Earnings Rally Unwinds Despite Record QNX Quarter; MobilEye Adds 2%",
             "Michael Burry Ignores AI Cheers and Hunts for Mispriced Risk",
@@ -2451,21 +2508,19 @@
             "Microsoft Climbs 4% as Oppenheimer Lifts Target to $570 on Copilot Enterprise Pivot; Alphabet Ticks Up",
             "Zscaler Sinks 9% on Chief Revenue Officer Exit, Fastly Drops 6% as Citi Questions AI Traffic Payoff",
             "GameStop Tumbles 8% Despite Ryan Cohen\u2019s $26M Insider Buy; eBay Ticks Up",
-            "Jaguar Health Soars 32% as Rare-Disease Pipeline News Meets Thin Post-Split Float",
-            "Micron at $1080: The Street Loves What It Sees Underneath The Headlines",
-            "Bond Market Alarm Bells Are Ringing, But Mohamed El-Erian Says Psychology May Be Fueling the Fear More Than Fundamentals"
+            "Jaguar Health Soars 32% as Rare-Disease Pipeline News Meets Thin Post-Split Float"
           ],
           "spx": [
-            "How to fix overvalued AI companies and a McDonald's market play",
-            "Stock market today: Dow, S&P 500, Nasdaq trims losses as hopes of Hormuz deal offset rising bond yields",
+            "Stock market today: Dow, S&P 500, Nasdaq rise as investors shake off bond sell-off woes",
+            "Update: US Equity Indexes Jump as Crude Oil Slides Following Iran's Conditional Plan to Reopen Hormuz Chokepoint",
+            "Stock Market Today: Dow Gains 400 Points As Microsoft Jumps; Oil's Retreat Punches Chevron (Live Coverage)",
+            "The Dow Leads Market Indexes Higher as Microsoft Adds 120 Points",
+            "3 Reasons HOPE is Risky and 1 Stock to Buy Instead",
+            "2 Reasons to Watch EWBC and 1 to Stay Cautious",
             "Update: Equities Rise Intraday as Oil Prices Fall Following Iran's Proposal",
             "Is CoreWeave Stock Making Your Portfolio's Bad Days Worse?",
-            "2 Reasons to Avoid QCRH and 1 Stock to Buy Instead",
-            "2 S&P 500 Stocks Worth Your Attention and 1 We Turn Down",
-            "Stock Market Today: Dow Leads Charge Amid U.S.-Iran Peace Talks; Arista Networks Eyes Buy Point (Live Coverage)",
-            "Pfizer Stock Paid Out $49B: So Why Did Investors Lose Money?",
-            "Michael Burry Ignores AI Cheers and Hunts for Mispriced Risk",
-            "Update: US Equity Indexes Rise as Crude Oil Slumps After Iran's Conditional Proposal to Reopen Strait of Hormuz"
+            "How the Bulls Could Finish 2026 at All-Time Highs",
+            "2 Reasons to Avoid QCRH and 1 Stock to Buy Instead"
           ]
         }
       },
@@ -2510,27 +2565,31 @@
         "auto_note": "IONQ CALL | $+1.80 (+4.42%) | dollar_gainer_1 | Strike $43.0 exp 2026-09-25 (1DTE) | IV 84.7% | SPY +nan% | MACRO: rate hike"
       },
       "news_scan": {
-        "scanned_at": "2026-09-25 18:00:59 PST",
+        "scanned_at": "2026-09-25 18:45:43 PST",
         "gap_days": 1,
         "ticker_sentiment": "bullish",
-        "spy_sentiment": "bearish",
-        "spx_sentiment": "neutral",
+        "spy_sentiment": "bullish",
+        "spx_sentiment": "bullish",
         "keywords_found": [
           "breakthrough"
         ],
         "spy_keywords": [
+          "upgrade",
           "soars",
+          "jumps",
           "drops",
           "tumbles"
         ],
-        "spx_keywords": [],
+        "spx_keywords": [
+          "jumps"
+        ],
         "decision": "hold",
         "decision_reason": "bullish keywords confirmed CALL thesis",
         "raw_headlines": {
           "ticker": [
+            "Quantum Is a $850 Billion Dream. Microsoft and Amazon Are Betting Big on It.",
             "Quantum Computing Stocks Tumble After Stunning Rally",
             "IonQ Has Made Another Quantum Computing Breakthrough: Here's What a $1,000 Investment in It Could Look Like in 5 Years",
-            "Quantum Isn\u2019t Yet Ready for Prime Time. Microsoft and Amazon Want to Own the Ecosystem Anyway.",
             "Rigetti Computing (RGTI) Rides Quantum Momentum, Does The Valuation Already Look Full?",
             "Better Quantum Computing Stock: Nvidia vs. IonQ",
             "QUBT vs. IONQ: Which Quantum Stock Should You Buy, Hold or Sell Now?",
@@ -2540,6 +2599,8 @@
             "IonQ Rises 4% as Post-Breakthrough Buying Continues; D-Wave Quantum Gains 3%, Rigetti Adds 2%"
           ],
           "spy": [
+            "Datadog Climbs 6%, Approaches 52-Week High While Software Group Slips; Oracle and Cloudflare Decline",
+            "Humana Jumps 7% on Barclays Upgrade and $515 Target; UnitedHealth Nudges Higher",
             "Dell Rises 7% as Morgan Stanley Lifts Odds on $756 Bull Case; Hewlett Packard Enterprise Edges Higher",
             "BlackBerry Drops 7% as Post-Earnings Rally Unwinds Despite Record QNX Quarter; MobilEye Adds 2%",
             "Michael Burry Ignores AI Cheers and Hunts for Mispriced Risk",
@@ -2547,21 +2608,19 @@
             "Microsoft Climbs 4% as Oppenheimer Lifts Target to $570 on Copilot Enterprise Pivot; Alphabet Ticks Up",
             "Zscaler Sinks 9% on Chief Revenue Officer Exit, Fastly Drops 6% as Citi Questions AI Traffic Payoff",
             "GameStop Tumbles 8% Despite Ryan Cohen\u2019s $26M Insider Buy; eBay Ticks Up",
-            "Jaguar Health Soars 32% as Rare-Disease Pipeline News Meets Thin Post-Split Float",
-            "Micron at $1080: The Street Loves What It Sees Underneath The Headlines",
-            "Bond Market Alarm Bells Are Ringing, But Mohamed El-Erian Says Psychology May Be Fueling the Fear More Than Fundamentals"
+            "Jaguar Health Soars 32% as Rare-Disease Pipeline News Meets Thin Post-Split Float"
           ],
           "spx": [
-            "How to fix overvalued AI companies and a McDonald's market play",
-            "Stock market today: Dow, S&P 500, Nasdaq trims losses as hopes of Hormuz deal offset rising bond yields",
+            "Stock market today: Dow, S&P 500, Nasdaq rise as investors shake off bond sell-off woes",
+            "Update: US Equity Indexes Jump as Crude Oil Slides Following Iran's Conditional Plan to Reopen Hormuz Chokepoint",
+            "Stock Market Today: Dow Gains 400 Points As Microsoft Jumps; Oil's Retreat Punches Chevron (Live Coverage)",
+            "The Dow Leads Market Indexes Higher as Microsoft Adds 120 Points",
+            "3 Reasons HOPE is Risky and 1 Stock to Buy Instead",
+            "2 Reasons to Watch EWBC and 1 to Stay Cautious",
             "Update: Equities Rise Intraday as Oil Prices Fall Following Iran's Proposal",
             "Is CoreWeave Stock Making Your Portfolio's Bad Days Worse?",
-            "2 Reasons to Avoid QCRH and 1 Stock to Buy Instead",
-            "2 S&P 500 Stocks Worth Your Attention and 1 We Turn Down",
-            "Stock Market Today: Dow Leads Charge Amid U.S.-Iran Peace Talks; Arista Networks Eyes Buy Point (Live Coverage)",
-            "Pfizer Stock Paid Out $49B: So Why Did Investors Lose Money?",
-            "Michael Burry Ignores AI Cheers and Hunts for Mispriced Risk",
-            "Update: US Equity Indexes Rise as Crude Oil Slumps After Iran's Conditional Proposal to Reopen Strait of Hormuz"
+            "How the Bulls Could Finish 2026 at All-Time Highs",
+            "2 Reasons to Avoid QCRH and 1 Stock to Buy Instead"
           ]
         }
       },
