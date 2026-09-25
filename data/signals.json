@@ -1,6 +1,14 @@
 {
   "topGainers": [
     {
+      "ticker": "ALM",
+      "name": "ALMONTY INDS INC COM NEW",
+      "sector": "Unknown",
+      "price": 13.72,
+      "changePct": 10.65,
+      "changeDollar": 1.32
+    },
+    {
       "ticker": "MXL",
       "name": "MAXLINEAR INC COM",
       "sector": "Unknown",
@@ -9,168 +17,160 @@
       "changeDollar": 8.53
     },
     {
-      "ticker": "FLY",
-      "name": "FIREFLY AEROSPACE INC COM",
+      "ticker": "VECO",
+      "name": "VEECO INSTRS INC DEL COM",
       "sector": "Unknown",
-      "price": 25.29,
-      "changePct": 9.53,
-      "changeDollar": 2.2
-    },
-    {
-      "ticker": "SMCX",
-      "name": "TIDAL TRUST II DEFI DA SMCI ETF",
-      "sector": "Unknown",
-      "price": 15.4,
-      "changePct": 9.3,
-      "changeDollar": 1.31
-    },
-    {
-      "ticker": "SMCL",
-      "name": "GRANITESHARES ETF TR 2X LO SMCI DA ET",
-      "sector": "Unknown",
-      "price": 21.61,
-      "changePct": 9.25,
-      "changeDollar": 1.83
+      "price": 49.67,
+      "changePct": 9.28,
+      "changeDollar": 4.22
     },
     {
       "ticker": "VIAV",
       "name": "VIAVI SOLUTIONS INC COM",
       "sector": "Unknown",
-      "price": 40.18,
-      "changePct": 7.92,
-      "changeDollar": 2.95
+      "price": 40.68,
+      "changePct": 9.27,
+      "changeDollar": 3.45
+    },
+    {
+      "ticker": "SOLT",
+      "name": "VOLATILITY SHS TR 2X SOLANA ETF",
+      "sector": "Unknown",
+      "price": 80.62,
+      "changePct": 7.97,
+      "changeDollar": 5.95
+    },
+    {
+      "ticker": "CRDO",
+      "name": "CREDO TECHNOLOGY GROUP HOLDING ORDINARY SHARES",
+      "sector": "Unknown",
+      "price": 210.97,
+      "changePct": 7.65,
+      "changeDollar": 15.0
+    },
+    {
+      "ticker": "FIGS",
+      "name": "FIGS INC CL A",
+      "sector": "Unknown",
+      "price": 13.42,
+      "changePct": 7.45,
+      "changeDollar": 0.93
+    },
+    {
+      "ticker": "MSFU",
+      "name": "DIREXION SHARES ETF TRUST DLY MSFT BULL 2X",
+      "sector": "Unknown",
+      "price": 39.82,
+      "changePct": 7.3,
+      "changeDollar": 2.71
     },
     {
       "ticker": "KORU",
       "name": "DIREXION SHARES ETF TRUST DAIL MS KORE ETF",
       "sector": "Unknown",
-      "price": 21.58,
-      "changePct": 7.15,
-      "changeDollar": 1.44
+      "price": 21.59,
+      "changePct": 7.2,
+      "changeDollar": 1.45
     },
     {
-      "ticker": "LABX",
-      "name": "Tradr 2X Long ALAB Daily ETF",
+      "ticker": "KOLD",
+      "name": "PROSHARES TR II ULSHT BLOOMB GAS",
       "sector": "Unknown",
-      "price": 16.64,
-      "changePct": 7.15,
-      "changeDollar": 1.11
-    },
-    {
-      "ticker": "DELL",
-      "name": "DELL TECHNOLOGIES INC CL C",
-      "sector": "Unknown",
-      "price": 570.92,
-      "changePct": 6.51,
-      "changeDollar": 34.9
-    },
-    {
-      "ticker": "COHX",
-      "name": "Tradr 2X Long COHR Daily ETF",
-      "sector": "Unknown",
-      "price": 24.38,
-      "changePct": 6.28,
-      "changeDollar": 1.44
-    },
-    {
-      "ticker": "HRI",
-      "name": "HERC HLDGS INC COM",
-      "sector": "Unknown",
-      "price": 139.12,
-      "changePct": 6.25,
-      "changeDollar": 8.18
+      "price": 24.69,
+      "changePct": 6.88,
+      "changeDollar": 1.59
     }
   ],
   "topLosers": [
     {
-      "ticker": "IRE",
-      "name": "TIDAL TRUST II DEFI DA IREN ETF",
+      "ticker": "RPD",
+      "name": "RAPID7 INC COM",
       "sector": "Unknown",
-      "price": 10.6,
-      "changePct": -9.63,
-      "changeDollar": -1.13
+      "price": 11.62,
+      "changePct": -9.57,
+      "changeDollar": -1.23
     },
     {
       "ticker": "PURR",
       "name": "HYPERLIQUID STRATEGIES INC COM",
       "sector": "Unknown",
-      "price": 12.82,
-      "changePct": -9.01,
-      "changeDollar": -1.27
+      "price": 12.85,
+      "changePct": -8.8,
+      "changeDollar": -1.24
     },
     {
-      "ticker": "ZS",
-      "name": "ZSCALER INC COM",
+      "ticker": "IRE",
+      "name": "TIDAL TRUST II DEFI DA IREN ETF",
       "sector": "Unknown",
-      "price": 196.08,
-      "changePct": -8.65,
-      "changeDollar": -18.56
-    },
-    {
-      "ticker": "SCHL",
-      "name": "SCHOLASTIC CORP COM",
-      "sector": "Unknown",
-      "price": 32.15,
-      "changePct": -7.69,
-      "changeDollar": -2.68
-    },
-    {
-      "ticker": "LINC",
-      "name": "LINCOLN EDL SVCS CORP COM",
-      "sector": "Unknown",
-      "price": 22.06,
-      "changePct": -7.62,
-      "changeDollar": -1.82
-    },
-    {
-      "ticker": "BOIL",
-      "name": "PROSHARES TR II ULTRA BLOOMBERG",
-      "sector": "Unknown",
-      "price": 22.63,
-      "changePct": -7.41,
-      "changeDollar": -1.81
-    },
-    {
-      "ticker": "TWLO",
-      "name": "TWILIO INC CL A",
-      "sector": "Unknown",
-      "price": 277.56,
-      "changePct": -7.38,
-      "changeDollar": -22.1
-    },
-    {
-      "ticker": "OBE",
-      "name": "OBSIDIAN ENERGY LTD COM",
-      "sector": "Unknown",
-      "price": 10.47,
-      "changePct": -6.93,
-      "changeDollar": -0.78
+      "price": 10.7,
+      "changePct": -8.78,
+      "changeDollar": -1.03
     },
     {
       "ticker": "CNXC",
       "name": "CONCENTRIX CORP COM",
       "sector": "Unknown",
-      "price": 27.37,
-      "changePct": -6.87,
-      "changeDollar": -2.02
+      "price": 27.08,
+      "changePct": -7.86,
+      "changeDollar": -2.31
     },
     {
-      "ticker": "ACAD",
-      "name": "ACADIA PHARMACEUTICALS INC COM",
+      "ticker": "STRZ",
+      "name": "STARZ ENTERTAINMENT CORP. COM",
       "sector": "Unknown",
-      "price": 20.69,
-      "changePct": -6.72,
-      "changeDollar": -1.49
+      "price": 21.07,
+      "changePct": -7.22,
+      "changeDollar": -1.64
+    },
+    {
+      "ticker": "SCHL",
+      "name": "SCHOLASTIC CORP COM",
+      "sector": "Unknown",
+      "price": 32.35,
+      "changePct": -7.12,
+      "changeDollar": -2.48
+    },
+    {
+      "ticker": "INTW",
+      "name": "GRANITESHARES ETF TR 2X LONG INTC ETF",
+      "sector": "Unknown",
+      "price": 33.01,
+      "changePct": -7.01,
+      "changeDollar": -2.49
+    },
+    {
+      "ticker": "METU",
+      "name": "DIREXION SHARES ETF TRUST DLY META BULL 2X",
+      "sector": "Unknown",
+      "price": 33.03,
+      "changePct": -6.67,
+      "changeDollar": -2.36
+    },
+    {
+      "ticker": "S",
+      "name": "SENTINELONE INC CL A",
+      "sector": "Unknown",
+      "price": 22.38,
+      "changePct": -6.67,
+      "changeDollar": -1.6
+    },
+    {
+      "ticker": "VCYT",
+      "name": "VERACYTE INC COM",
+      "sector": "Unknown",
+      "price": 45.43,
+      "changePct": -6.41,
+      "changeDollar": -3.11
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "DELL",
-      "name": "DELL TECHNOLOGIES INC CL C",
+      "ticker": "CRDO",
+      "name": "CREDO TECHNOLOGY GROUP HOLDING ORDINARY SHARES",
       "sector": "Unknown",
-      "price": 570.92,
-      "changePct": 6.51,
-      "changeDollar": 34.9
+      "price": 210.97,
+      "changePct": 7.65,
+      "changeDollar": 15.0
     },
     {
       "ticker": "MXL",
@@ -181,70 +181,70 @@
       "changeDollar": 8.53
     },
     {
-      "ticker": "HRI",
-      "name": "HERC HLDGS INC COM",
+      "ticker": "SOLT",
+      "name": "VOLATILITY SHS TR 2X SOLANA ETF",
       "sector": "Unknown",
-      "price": 139.12,
-      "changePct": 6.25,
-      "changeDollar": 8.18
+      "price": 80.62,
+      "changePct": 7.97,
+      "changeDollar": 5.95
+    },
+    {
+      "ticker": "VECO",
+      "name": "VEECO INSTRS INC DEL COM",
+      "sector": "Unknown",
+      "price": 49.67,
+      "changePct": 9.28,
+      "changeDollar": 4.22
     },
     {
       "ticker": "VIAV",
       "name": "VIAVI SOLUTIONS INC COM",
       "sector": "Unknown",
-      "price": 40.18,
-      "changePct": 7.92,
-      "changeDollar": 2.95
-    },
-    {
-      "ticker": "FLY",
-      "name": "FIREFLY AEROSPACE INC COM",
-      "sector": "Unknown",
-      "price": 25.29,
-      "changePct": 9.53,
-      "changeDollar": 2.2
+      "price": 40.68,
+      "changePct": 9.27,
+      "changeDollar": 3.45
     }
   ],
   "dollarLosers": [
     {
-      "ticker": "TWLO",
-      "name": "TWILIO INC CL A",
+      "ticker": "VCYT",
+      "name": "VERACYTE INC COM",
       "sector": "Unknown",
-      "price": 277.56,
-      "changePct": -7.38,
-      "changeDollar": -22.1
+      "price": 45.43,
+      "changePct": -6.41,
+      "changeDollar": -3.11
     },
     {
-      "ticker": "ZS",
-      "name": "ZSCALER INC COM",
+      "ticker": "INTW",
+      "name": "GRANITESHARES ETF TR 2X LONG INTC ETF",
       "sector": "Unknown",
-      "price": 196.08,
-      "changePct": -8.65,
-      "changeDollar": -18.56
+      "price": 33.01,
+      "changePct": -7.01,
+      "changeDollar": -2.49
     },
     {
       "ticker": "SCHL",
       "name": "SCHOLASTIC CORP COM",
       "sector": "Unknown",
-      "price": 32.15,
-      "changePct": -7.69,
-      "changeDollar": -2.68
+      "price": 32.35,
+      "changePct": -7.12,
+      "changeDollar": -2.48
+    },
+    {
+      "ticker": "METU",
+      "name": "DIREXION SHARES ETF TRUST DLY META BULL 2X",
+      "sector": "Unknown",
+      "price": 33.03,
+      "changePct": -6.67,
+      "changeDollar": -2.36
     },
     {
       "ticker": "CNXC",
       "name": "CONCENTRIX CORP COM",
       "sector": "Unknown",
-      "price": 27.37,
-      "changePct": -6.87,
-      "changeDollar": -2.02
-    },
-    {
-      "ticker": "LINC",
-      "name": "LINCOLN EDL SVCS CORP COM",
-      "sector": "Unknown",
-      "price": 22.06,
-      "changePct": -7.62,
-      "changeDollar": -1.82
+      "price": 27.08,
+      "changePct": -7.86,
+      "changeDollar": -2.31
     }
   ]
 }
