@@ -317,5 +317,16 @@
     "youtube_id": null,
     "images": [],
     "published": true
+  },
+  {
+    "id": 27,
+    "date": "2026-09-26",
+    "ticker": "CRDO",
+    "type": "CALL",
+    "trade_id": 27,
+    "title": "CRDO CALL \u2014 2026-09-26",
+    "youtube_id": null,
+    "images": [],
+    "published": true
   }
 ]

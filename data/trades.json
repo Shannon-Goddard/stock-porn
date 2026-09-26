@@ -2626,6 +2626,47 @@
       },
       "exit": null,
       "fomo": null
+    },
+    {
+      "id": 27,
+      "status": "open",
+      "entry": {
+        "date": "2026-09-26",
+        "time": "15:55 PST",
+        "ticker": "CRDO",
+        "name": "CREDO TECHNOLOGY GROUP HOLDING ORDINARY SHARES",
+        "sector": "Unknown",
+        "type": "CALL",
+        "strike": 250.0,
+        "expiration": "2026-10-02",
+        "dte_at_entry": 6,
+        "T_at_entry": 0.016438,
+        "stock_price_at_entry": 210.97,
+        "premium": 1.0,
+        "cost": 100.0,
+        "bid": 0.65,
+        "spread": 0.35,
+        "iv_at_entry": 0.8325,
+        "otm_pct": 18.5,
+        "expected_move": {
+          "one_sigma_pct": 10.67,
+          "upper": 233.49,
+          "lower": 188.45,
+          "strike_position": "outside"
+        },
+        "signal_rank": "dollar_gainer_1",
+        "signal_pct": 7.65,
+        "signal_dollar": 15.0,
+        "spy_change": NaN,
+        "macro_active": true,
+        "macro_keywords": [
+          "war"
+        ],
+        "auto_note": "CRDO CALL | $+15.00 (+7.65%) | dollar_gainer_1 | Strike $250.0 exp 2026-10-02 (6DTE) | IV 83.2% | SPY +nan% | MACRO: war"
+      },
+      "news_scan": null,
+      "exit": null,
+      "fomo": null
     }
   ]
 }
