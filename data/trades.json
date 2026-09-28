@@ -1248,55 +1248,47 @@
         "auto_note": "ALAB CALL | $+27.58 (+9.75%) | dollar_gainer_1 | Strike $390.0 exp 2026-09-11 (6DTE) | IV 88.2% | SPY +nan% | MACRO: rate hike, war"
       },
       "news_scan": {
-        "scanned_at": "2026-09-25 18:45:43 PST",
-        "gap_days": 20,
+        "scanned_at": "2026-09-28 20:10:38 PST",
+        "gap_days": 23,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bullish",
-        "spx_sentiment": "bullish",
+        "spy_sentiment": "bearish",
+        "spx_sentiment": "neutral",
         "keywords_found": [],
         "spy_keywords": [
-          "upgrade",
-          "soars",
           "jumps",
-          "drops",
-          "tumbles"
+          "falls",
+          "drops"
         ],
-        "spx_keywords": [
-          "jumps"
-        ],
-        "decision": "hold",
-        "decision_reason": "neutral keywords confirmed CALL thesis",
+        "spx_keywords": [],
+        "decision": "sell",
+        "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
         "raw_headlines": {
           "ticker": [
-            "These are stocks getting lifted up by Meta's Muse",
-            "What Makes Credo Technology Stock A Buy Today?",
-            "Astera Labs vs. Marvell Technology: Which Tech Stock Is a Better Buy in 2026?",
-            "Astera Labs (ALAB), Why Is Fresh Attention Building Now?",
-            "Zacks Investment Ideas feature highlights: Astera Labs, SpaceX, Cloudflare, NVIDIA and Meta Platforms"
+            "Astera Labs, Inc. (ALAB) Exceeds Market Returns: Some Facts to Consider"
           ],
           "spy": [
-            "Datadog Climbs 6%, Approaches 52-Week High While Software Group Slips; Oracle and Cloudflare Decline",
-            "Humana Jumps 7% on Barclays Upgrade and $515 Target; UnitedHealth Nudges Higher",
-            "Dell Rises 7% as Morgan Stanley Lifts Odds on $756 Bull Case; Hewlett Packard Enterprise Edges Higher",
-            "BlackBerry Drops 7% as Post-Earnings Rally Unwinds Despite Record QNX Quarter; MobilEye Adds 2%",
-            "Michael Burry Ignores AI Cheers and Hunts for Mispriced Risk",
-            "Whether You Buy Tesla Depends On The Chances That Tesla Actually Becomes an AI Firm",
-            "Microsoft Climbs 4% as Oppenheimer Lifts Target to $570 on Copilot Enterprise Pivot; Alphabet Ticks Up",
-            "Zscaler Sinks 9% on Chief Revenue Officer Exit, Fastly Drops 6% as Citi Questions AI Traffic Payoff",
-            "GameStop Tumbles 8% Despite Ryan Cohen\u2019s $26M Insider Buy; eBay Ticks Up",
-            "Jaguar Health Soars 32% as Rare-Disease Pipeline News Meets Thin Post-Split Float"
+            "MP Materials Just Sank 21% in a Month. Is It Time to Sell, or Is This a Prime Buying Opportunity?",
+            "Cleveland-Cliffs Sinks 9% as Selloff Outruns Steel Group; Nucor and Steel Dynamics Pull Back",
+            "AMC Spikes 13% as Refinancing Rally Extends; Cinemark and IMAX Edge Higher",
+            "Bloom Energy Sinks 8% as Sharp Run Unwinds; Plug Power Drops 6%, FuelCell Eases",
+            "BlackBerry Jumps 4% as Record QNX Revenue Lifts Full-Year Outlook; Mobileye and Aptiv Dip",
+            "SoFi Falls 3% as Rising Yields Pressure Fintech; Affirm Drops 4%, Robinhood Slips 2%",
+            "Roblox Sinks 6% as Jefferies Cuts to Underperform With $38 Price Target; Take-Two Holds Flat, GameStop Dips",
+            "Nio Advances 3% as Geely Takes 30% Stake in Battery Swapping Unit; XPeng and Tesla Pull Back",
+            "Why Is Rocket Lab Stock Falling Today?",
+            "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Monday as Oil Prices Rise"
           ],
           "spx": [
-            "Stock market today: Dow, S&P 500, Nasdaq rise as investors shake off bond sell-off woes",
-            "Update: US Equity Indexes Jump as Crude Oil Slides Following Iran's Conditional Plan to Reopen Hormuz Chokepoint",
-            "Stock Market Today: Dow Gains 400 Points As Microsoft Jumps; Oil's Retreat Punches Chevron (Live Coverage)",
-            "The Dow Leads Market Indexes Higher as Microsoft Adds 120 Points",
-            "3 Reasons HOPE is Risky and 1 Stock to Buy Instead",
-            "2 Reasons to Watch EWBC and 1 to Stay Cautious",
-            "Update: Equities Rise Intraday as Oil Prices Fall Following Iran's Proposal",
-            "Is CoreWeave Stock Making Your Portfolio's Bad Days Worse?",
-            "How the Bulls Could Finish 2026 at All-Time Highs",
-            "2 Reasons to Avoid QCRH and 1 Stock to Buy Instead"
+            "Stock market today: Dow, S&P 500, Nasdaq fall as Treasury yields continue to climb",
+            "Why S&P 500 stock valuations are falling",
+            "What Needs To Be True To Buy Twilio Stock Now?",
+            "Update: US Equity Indexes Fall as Iran Settlement Talks Lose Momentum",
+            "MP Materials Just Sank 21% in a Month. Is It Time to Sell, or Is This a Prime Buying Opportunity?",
+            "Stock Market Today: Dow Off Lows After Iran Report; Leisure Play Tests Entry, MongoDB Dives (Live Coverage)",
+            "How Big Could BSX Stock's Next Fall Be?",
+            "3 Reasons to Avoid BILL and 1 Stock to Buy Instead",
+            "3 Reasons AFL is Risky and 1 Stock to Buy Instead",
+            "Microsoft\u2019s AI Gains Can Push the Stock Higher. That\u2019s Good News for Software Peers."
           ]
         }
       },
@@ -1342,60 +1334,58 @@
         "auto_note": "TSLA PUT | $-22.29 (-5.92%) | dollar_loser_1 | Strike $340.0 exp 2026-09-09 (4DTE) | IV 32.4% | SPY +nan% | MACRO: rate hike, war"
       },
       "news_scan": {
-        "scanned_at": "2026-09-25 18:45:43 PST",
-        "gap_days": 20,
-        "ticker_sentiment": "neutral",
-        "spy_sentiment": "bullish",
-        "spx_sentiment": "bullish",
-        "keywords_found": [],
+        "scanned_at": "2026-09-28 20:10:38 PST",
+        "gap_days": 23,
+        "ticker_sentiment": "bearish",
+        "spy_sentiment": "bearish",
+        "spx_sentiment": "neutral",
+        "keywords_found": [
+          "drops"
+        ],
         "spy_keywords": [
-          "upgrade",
-          "soars",
           "jumps",
-          "drops",
-          "tumbles"
+          "falls",
+          "drops"
         ],
-        "spx_keywords": [
-          "jumps"
-        ],
-        "decision": "sell",
-        "decision_reason": "no confirmation for PUT thesis \u2014 sell at open",
+        "spx_keywords": [],
+        "decision": "hold",
+        "decision_reason": "bearish keywords confirmed PUT thesis",
         "raw_headlines": {
           "ticker": [
-            "How to fix overvalued AI companies and a McDonald's market play",
-            "Inside Mark Zuckerberg's intense founder era: Fmr Meta CTO",
-            "AMD CEO Lisa Su is having a September to remember",
-            "Tech stocks gain after tech titan dinner with Trump and China's Xi Jinping: AlphaCheck",
-            "Sector Update: Consumer Stocks Advance Friday Afternoon",
-            "Tesla Stock: Tent-Shape Options Strategy Strives To Surpass $3,700 In Profit",
-            "Tesla Starts Semi Deliveries. Here's The Final Production Target \u2014 With No Timeline",
-            "What Musk\u2019s Tesla and SpaceX Stocks Are Doing After That White House State Dinner",
-            "Elon Musk Sighs At EU-Wide FSD Approval Delay \u2014 TSLA Stock Slips",
-            "Whether You Buy Tesla Depends On The Chances That Tesla Actually Becomes an AI Firm"
+            "The minivan renaissance: Why SUV sales are falling behind",
+            "Stocks slip as bond yields rise, but Nvidia stock is rising: AlphaCheck",
+            "Elon Musk's Tesla and SpaceX have a huge week on tap",
+            "Tesla Postpones Roadster Unveil Ahead Of Q3 Delivery Release; Stock Drops",
+            "Tesla Stock Drops Over 3% Before Cybercab's Federal Answers Come Due",
+            "Tesla Heads to Trial in California. Should Investors Be Worried?",
+            "Could This Be the Catalyst That Supercharges Tesla Stock Before the End of 2026?",
+            "Why Tesla Stock Is Tied to SpaceX Ahead of a Big Week for the EV Maker",
+            "SpaceX vs. Tesla: Which Elon Musk Stock Is the Better Buy for the Next 5 Years?",
+            "Can This Number Push Tesla Stock Higher?"
           ],
           "spy": [
-            "Datadog Climbs 6%, Approaches 52-Week High While Software Group Slips; Oracle and Cloudflare Decline",
-            "Humana Jumps 7% on Barclays Upgrade and $515 Target; UnitedHealth Nudges Higher",
-            "Dell Rises 7% as Morgan Stanley Lifts Odds on $756 Bull Case; Hewlett Packard Enterprise Edges Higher",
-            "BlackBerry Drops 7% as Post-Earnings Rally Unwinds Despite Record QNX Quarter; MobilEye Adds 2%",
-            "Michael Burry Ignores AI Cheers and Hunts for Mispriced Risk",
-            "Whether You Buy Tesla Depends On The Chances That Tesla Actually Becomes an AI Firm",
-            "Microsoft Climbs 4% as Oppenheimer Lifts Target to $570 on Copilot Enterprise Pivot; Alphabet Ticks Up",
-            "Zscaler Sinks 9% on Chief Revenue Officer Exit, Fastly Drops 6% as Citi Questions AI Traffic Payoff",
-            "GameStop Tumbles 8% Despite Ryan Cohen\u2019s $26M Insider Buy; eBay Ticks Up",
-            "Jaguar Health Soars 32% as Rare-Disease Pipeline News Meets Thin Post-Split Float"
+            "MP Materials Just Sank 21% in a Month. Is It Time to Sell, or Is This a Prime Buying Opportunity?",
+            "Cleveland-Cliffs Sinks 9% as Selloff Outruns Steel Group; Nucor and Steel Dynamics Pull Back",
+            "AMC Spikes 13% as Refinancing Rally Extends; Cinemark and IMAX Edge Higher",
+            "Bloom Energy Sinks 8% as Sharp Run Unwinds; Plug Power Drops 6%, FuelCell Eases",
+            "BlackBerry Jumps 4% as Record QNX Revenue Lifts Full-Year Outlook; Mobileye and Aptiv Dip",
+            "SoFi Falls 3% as Rising Yields Pressure Fintech; Affirm Drops 4%, Robinhood Slips 2%",
+            "Roblox Sinks 6% as Jefferies Cuts to Underperform With $38 Price Target; Take-Two Holds Flat, GameStop Dips",
+            "Nio Advances 3% as Geely Takes 30% Stake in Battery Swapping Unit; XPeng and Tesla Pull Back",
+            "Why Is Rocket Lab Stock Falling Today?",
+            "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Monday as Oil Prices Rise"
           ],
           "spx": [
-            "Stock market today: Dow, S&P 500, Nasdaq rise as investors shake off bond sell-off woes",
-            "Update: US Equity Indexes Jump as Crude Oil Slides Following Iran's Conditional Plan to Reopen Hormuz Chokepoint",
-            "Stock Market Today: Dow Gains 400 Points As Microsoft Jumps; Oil's Retreat Punches Chevron (Live Coverage)",
-            "The Dow Leads Market Indexes Higher as Microsoft Adds 120 Points",
-            "3 Reasons HOPE is Risky and 1 Stock to Buy Instead",
-            "2 Reasons to Watch EWBC and 1 to Stay Cautious",
-            "Update: Equities Rise Intraday as Oil Prices Fall Following Iran's Proposal",
-            "Is CoreWeave Stock Making Your Portfolio's Bad Days Worse?",
-            "How the Bulls Could Finish 2026 at All-Time Highs",
-            "2 Reasons to Avoid QCRH and 1 Stock to Buy Instead"
+            "Stock market today: Dow, S&P 500, Nasdaq fall as Treasury yields continue to climb",
+            "Why S&P 500 stock valuations are falling",
+            "What Needs To Be True To Buy Twilio Stock Now?",
+            "Update: US Equity Indexes Fall as Iran Settlement Talks Lose Momentum",
+            "MP Materials Just Sank 21% in a Month. Is It Time to Sell, or Is This a Prime Buying Opportunity?",
+            "Stock Market Today: Dow Off Lows After Iran Report; Leisure Play Tests Entry, MongoDB Dives (Live Coverage)",
+            "How Big Could BSX Stock's Next Fall Be?",
+            "3 Reasons to Avoid BILL and 1 Stock to Buy Instead",
+            "3 Reasons AFL is Risky and 1 Stock to Buy Instead",
+            "Microsoft\u2019s AI Gains Can Push the Stock Higher. That\u2019s Good News for Software Peers."
           ]
         }
       },
@@ -1438,63 +1428,54 @@
         "auto_note": "DDOG CALL | $+15.04 (+7.15%) | dollar_gainer_1 | Strike $240.0 exp 2026-09-11 (1DTE) | IV 68.4% | SPY +nan% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-09-25 18:45:43 PST",
-        "gap_days": 15,
-        "ticker_sentiment": "neutral",
-        "spy_sentiment": "bullish",
-        "spx_sentiment": "bullish",
+        "scanned_at": "2026-09-28 20:10:38 PST",
+        "gap_days": 18,
+        "ticker_sentiment": "bearish",
+        "spy_sentiment": "bearish",
+        "spx_sentiment": "neutral",
         "keywords_found": [
-          "rallies",
-          "concern"
+          "falls",
+          "drops"
         ],
         "spy_keywords": [
-          "upgrade",
-          "soars",
           "jumps",
-          "drops",
-          "tumbles"
+          "falls",
+          "drops"
         ],
-        "spx_keywords": [
-          "jumps"
-        ],
-        "decision": "hold",
-        "decision_reason": "neutral keywords confirmed CALL thesis",
+        "spx_keywords": [],
+        "decision": "sell",
+        "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
         "raw_headlines": {
           "ticker": [
-            "Datadog Climbs 6%, Approaches 52-Week High While Software Group Slips; Oracle and Cloudflare Decline",
-            "2 Nasdaq 100 Stocks to Target This Week and 1 We Question",
-            "Dow Jones Futures Signal Rebound For Resilient Market; Tesla, Akamai, Taiwan Semi In Focus",
-            "Datadog, Inc. (DDOG) Is a Trending Stock: Facts to Know Before Betting on It",
-            "Datadog's Global Expansion Accelerates: Can It Drive More Revenues?",
-            "Datadog (DDOG) Rallies On AI Demand, Is The Stock Still Cheap?",
-            "Fastly Sinks 8% as Selling After Investor Day Cuts Into a 164% YTD Run; Cloudflare Holds Flat",
-            "Dow Jones Futures Fall As Treasury Yields, Oil Prices Keep Rising. Meta, Everpure, Grail Are Early Movers.",
-            "Datadog (DDOG) Gains As Market Dips: What You Should Know",
-            "Trump Downplayed AI Safety Concerns, but His Investment Portfolio Bought Cybersecurity Stocks"
+            "The $1 Trillion Question Facing Palantir Stock",
+            "CSCO's Security Growth Accelerates: Can It Outpace DDOG & CRWD?",
+            "Snowflake Slides 4% on Proposed $3.5B Convertible Offering; Oracle Falls 3%, Datadog Drops 4%",
+            "Here Are Monday\u2019s Top Wall Street Analyst Research Calls: Applied Digital, Autodesk, Datadog, First Solar, L3Harris Technologies, PepsiCo, Roblox, Snowflake, TeraWulf and More",
+            "Why Is Datadog (DDOG) Stock Rocketing Higher Today"
           ],
           "spy": [
-            "Datadog Climbs 6%, Approaches 52-Week High While Software Group Slips; Oracle and Cloudflare Decline",
-            "Humana Jumps 7% on Barclays Upgrade and $515 Target; UnitedHealth Nudges Higher",
-            "Dell Rises 7% as Morgan Stanley Lifts Odds on $756 Bull Case; Hewlett Packard Enterprise Edges Higher",
-            "BlackBerry Drops 7% as Post-Earnings Rally Unwinds Despite Record QNX Quarter; MobilEye Adds 2%",
-            "Michael Burry Ignores AI Cheers and Hunts for Mispriced Risk",
-            "Whether You Buy Tesla Depends On The Chances That Tesla Actually Becomes an AI Firm",
-            "Microsoft Climbs 4% as Oppenheimer Lifts Target to $570 on Copilot Enterprise Pivot; Alphabet Ticks Up",
-            "Zscaler Sinks 9% on Chief Revenue Officer Exit, Fastly Drops 6% as Citi Questions AI Traffic Payoff",
-            "GameStop Tumbles 8% Despite Ryan Cohen\u2019s $26M Insider Buy; eBay Ticks Up",
-            "Jaguar Health Soars 32% as Rare-Disease Pipeline News Meets Thin Post-Split Float"
+            "MP Materials Just Sank 21% in a Month. Is It Time to Sell, or Is This a Prime Buying Opportunity?",
+            "Cleveland-Cliffs Sinks 9% as Selloff Outruns Steel Group; Nucor and Steel Dynamics Pull Back",
+            "AMC Spikes 13% as Refinancing Rally Extends; Cinemark and IMAX Edge Higher",
+            "Bloom Energy Sinks 8% as Sharp Run Unwinds; Plug Power Drops 6%, FuelCell Eases",
+            "BlackBerry Jumps 4% as Record QNX Revenue Lifts Full-Year Outlook; Mobileye and Aptiv Dip",
+            "SoFi Falls 3% as Rising Yields Pressure Fintech; Affirm Drops 4%, Robinhood Slips 2%",
+            "Roblox Sinks 6% as Jefferies Cuts to Underperform With $38 Price Target; Take-Two Holds Flat, GameStop Dips",
+            "Nio Advances 3% as Geely Takes 30% Stake in Battery Swapping Unit; XPeng and Tesla Pull Back",
+            "Why Is Rocket Lab Stock Falling Today?",
+            "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Monday as Oil Prices Rise"
           ],
           "spx": [
-            "Stock market today: Dow, S&P 500, Nasdaq rise as investors shake off bond sell-off woes",
-            "Update: US Equity Indexes Jump as Crude Oil Slides Following Iran's Conditional Plan to Reopen Hormuz Chokepoint",
-            "Stock Market Today: Dow Gains 400 Points As Microsoft Jumps; Oil's Retreat Punches Chevron (Live Coverage)",
-            "The Dow Leads Market Indexes Higher as Microsoft Adds 120 Points",
-            "3 Reasons HOPE is Risky and 1 Stock to Buy Instead",
-            "2 Reasons to Watch EWBC and 1 to Stay Cautious",
-            "Update: Equities Rise Intraday as Oil Prices Fall Following Iran's Proposal",
-            "Is CoreWeave Stock Making Your Portfolio's Bad Days Worse?",
-            "How the Bulls Could Finish 2026 at All-Time Highs",
-            "2 Reasons to Avoid QCRH and 1 Stock to Buy Instead"
+            "Stock market today: Dow, S&P 500, Nasdaq fall as Treasury yields continue to climb",
+            "Why S&P 500 stock valuations are falling",
+            "What Needs To Be True To Buy Twilio Stock Now?",
+            "Update: US Equity Indexes Fall as Iran Settlement Talks Lose Momentum",
+            "MP Materials Just Sank 21% in a Month. Is It Time to Sell, or Is This a Prime Buying Opportunity?",
+            "Stock Market Today: Dow Off Lows After Iran Report; Leisure Play Tests Entry, MongoDB Dives (Live Coverage)",
+            "How Big Could BSX Stock's Next Fall Be?",
+            "3 Reasons to Avoid BILL and 1 Stock to Buy Instead",
+            "3 Reasons AFL is Risky and 1 Stock to Buy Instead",
+            "Microsoft\u2019s AI Gains Can Push the Stock Higher. That\u2019s Good News for Software Peers."
           ]
         }
       },
@@ -1540,49 +1521,45 @@
         "auto_note": "RGTZ CALL | $+14.18 (+402.84%) | dollar_gainer_1 | Strike $8.0 exp 2026-09-18 (7DTE) | IV 0.0% | SPY +nan% | MACRO: rate hike, china"
       },
       "news_scan": {
-        "scanned_at": "2026-09-25 18:45:43 PST",
-        "gap_days": 14,
+        "scanned_at": "2026-09-28 20:10:38 PST",
+        "gap_days": 17,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bullish",
-        "spx_sentiment": "bullish",
+        "spy_sentiment": "bearish",
+        "spx_sentiment": "neutral",
         "keywords_found": [],
         "spy_keywords": [
-          "upgrade",
-          "soars",
           "jumps",
-          "drops",
-          "tumbles"
+          "falls",
+          "drops"
         ],
-        "spx_keywords": [
-          "jumps"
-        ],
-        "decision": "hold",
-        "decision_reason": "neutral keywords confirmed CALL thesis",
+        "spx_keywords": [],
+        "decision": "sell",
+        "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
         "raw_headlines": {
           "ticker": [],
           "spy": [
-            "Datadog Climbs 6%, Approaches 52-Week High While Software Group Slips; Oracle and Cloudflare Decline",
-            "Humana Jumps 7% on Barclays Upgrade and $515 Target; UnitedHealth Nudges Higher",
-            "Dell Rises 7% as Morgan Stanley Lifts Odds on $756 Bull Case; Hewlett Packard Enterprise Edges Higher",
-            "BlackBerry Drops 7% as Post-Earnings Rally Unwinds Despite Record QNX Quarter; MobilEye Adds 2%",
-            "Michael Burry Ignores AI Cheers and Hunts for Mispriced Risk",
-            "Whether You Buy Tesla Depends On The Chances That Tesla Actually Becomes an AI Firm",
-            "Microsoft Climbs 4% as Oppenheimer Lifts Target to $570 on Copilot Enterprise Pivot; Alphabet Ticks Up",
-            "Zscaler Sinks 9% on Chief Revenue Officer Exit, Fastly Drops 6% as Citi Questions AI Traffic Payoff",
-            "GameStop Tumbles 8% Despite Ryan Cohen\u2019s $26M Insider Buy; eBay Ticks Up",
-            "Jaguar Health Soars 32% as Rare-Disease Pipeline News Meets Thin Post-Split Float"
+            "MP Materials Just Sank 21% in a Month. Is It Time to Sell, or Is This a Prime Buying Opportunity?",
+            "Cleveland-Cliffs Sinks 9% as Selloff Outruns Steel Group; Nucor and Steel Dynamics Pull Back",
+            "AMC Spikes 13% as Refinancing Rally Extends; Cinemark and IMAX Edge Higher",
+            "Bloom Energy Sinks 8% as Sharp Run Unwinds; Plug Power Drops 6%, FuelCell Eases",
+            "BlackBerry Jumps 4% as Record QNX Revenue Lifts Full-Year Outlook; Mobileye and Aptiv Dip",
+            "SoFi Falls 3% as Rising Yields Pressure Fintech; Affirm Drops 4%, Robinhood Slips 2%",
+            "Roblox Sinks 6% as Jefferies Cuts to Underperform With $38 Price Target; Take-Two Holds Flat, GameStop Dips",
+            "Nio Advances 3% as Geely Takes 30% Stake in Battery Swapping Unit; XPeng and Tesla Pull Back",
+            "Why Is Rocket Lab Stock Falling Today?",
+            "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Monday as Oil Prices Rise"
           ],
           "spx": [
-            "Stock market today: Dow, S&P 500, Nasdaq rise as investors shake off bond sell-off woes",
-            "Update: US Equity Indexes Jump as Crude Oil Slides Following Iran's Conditional Plan to Reopen Hormuz Chokepoint",
-            "Stock Market Today: Dow Gains 400 Points As Microsoft Jumps; Oil's Retreat Punches Chevron (Live Coverage)",
-            "The Dow Leads Market Indexes Higher as Microsoft Adds 120 Points",
-            "3 Reasons HOPE is Risky and 1 Stock to Buy Instead",
-            "2 Reasons to Watch EWBC and 1 to Stay Cautious",
-            "Update: Equities Rise Intraday as Oil Prices Fall Following Iran's Proposal",
-            "Is CoreWeave Stock Making Your Portfolio's Bad Days Worse?",
-            "How the Bulls Could Finish 2026 at All-Time Highs",
-            "2 Reasons to Avoid QCRH and 1 Stock to Buy Instead"
+            "Stock market today: Dow, S&P 500, Nasdaq fall as Treasury yields continue to climb",
+            "Why S&P 500 stock valuations are falling",
+            "What Needs To Be True To Buy Twilio Stock Now?",
+            "Update: US Equity Indexes Fall as Iran Settlement Talks Lose Momentum",
+            "MP Materials Just Sank 21% in a Month. Is It Time to Sell, or Is This a Prime Buying Opportunity?",
+            "Stock Market Today: Dow Off Lows After Iran Report; Leisure Play Tests Entry, MongoDB Dives (Live Coverage)",
+            "How Big Could BSX Stock's Next Fall Be?",
+            "3 Reasons to Avoid BILL and 1 Stock to Buy Instead",
+            "3 Reasons AFL is Risky and 1 Stock to Buy Instead",
+            "Microsoft\u2019s AI Gains Can Push the Stock Higher. That\u2019s Good News for Software Peers."
           ]
         }
       },
@@ -1627,55 +1604,47 @@
         "auto_note": "VICR CALL | $+19.86 (+11.15%) | dollar_gainer_1 | Strike $240.0 exp 2026-09-18 (6DTE) | IV 86.0% | SPY +nan% | MACRO: fed"
       },
       "news_scan": {
-        "scanned_at": "2026-09-25 18:45:43 PST",
-        "gap_days": 13,
+        "scanned_at": "2026-09-28 20:10:38 PST",
+        "gap_days": 16,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bullish",
-        "spx_sentiment": "bullish",
+        "spy_sentiment": "bearish",
+        "spx_sentiment": "neutral",
         "keywords_found": [],
         "spy_keywords": [
-          "upgrade",
-          "soars",
           "jumps",
-          "drops",
-          "tumbles"
+          "falls",
+          "drops"
         ],
-        "spx_keywords": [
-          "jumps"
-        ],
-        "decision": "hold",
-        "decision_reason": "neutral keywords confirmed CALL thesis",
+        "spx_keywords": [],
+        "decision": "sell",
+        "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
         "raw_headlines": {
           "ticker": [
-            "Why Vicor Stock Was Crushing it This Week",
-            "Vicor (VICR) Climbed, But What Is Behind The Attention Now?",
-            "Vicor Stock Jumped 20% in a Day After a Guidance Raise. Here\u2019s Where It Could Go",
-            "Company News for Sep 23, 2026",
-            "Is Vicor Stock Worth Buying Before Its Second Fab Exists?"
+            "Vicor (VICR) Stock Is Rallying on Royalties. History Says Be Careful"
           ],
           "spy": [
-            "Datadog Climbs 6%, Approaches 52-Week High While Software Group Slips; Oracle and Cloudflare Decline",
-            "Humana Jumps 7% on Barclays Upgrade and $515 Target; UnitedHealth Nudges Higher",
-            "Dell Rises 7% as Morgan Stanley Lifts Odds on $756 Bull Case; Hewlett Packard Enterprise Edges Higher",
-            "BlackBerry Drops 7% as Post-Earnings Rally Unwinds Despite Record QNX Quarter; MobilEye Adds 2%",
-            "Michael Burry Ignores AI Cheers and Hunts for Mispriced Risk",
-            "Whether You Buy Tesla Depends On The Chances That Tesla Actually Becomes an AI Firm",
-            "Microsoft Climbs 4% as Oppenheimer Lifts Target to $570 on Copilot Enterprise Pivot; Alphabet Ticks Up",
-            "Zscaler Sinks 9% on Chief Revenue Officer Exit, Fastly Drops 6% as Citi Questions AI Traffic Payoff",
-            "GameStop Tumbles 8% Despite Ryan Cohen\u2019s $26M Insider Buy; eBay Ticks Up",
-            "Jaguar Health Soars 32% as Rare-Disease Pipeline News Meets Thin Post-Split Float"
+            "MP Materials Just Sank 21% in a Month. Is It Time to Sell, or Is This a Prime Buying Opportunity?",
+            "Cleveland-Cliffs Sinks 9% as Selloff Outruns Steel Group; Nucor and Steel Dynamics Pull Back",
+            "AMC Spikes 13% as Refinancing Rally Extends; Cinemark and IMAX Edge Higher",
+            "Bloom Energy Sinks 8% as Sharp Run Unwinds; Plug Power Drops 6%, FuelCell Eases",
+            "BlackBerry Jumps 4% as Record QNX Revenue Lifts Full-Year Outlook; Mobileye and Aptiv Dip",
+            "SoFi Falls 3% as Rising Yields Pressure Fintech; Affirm Drops 4%, Robinhood Slips 2%",
+            "Roblox Sinks 6% as Jefferies Cuts to Underperform With $38 Price Target; Take-Two Holds Flat, GameStop Dips",
+            "Nio Advances 3% as Geely Takes 30% Stake in Battery Swapping Unit; XPeng and Tesla Pull Back",
+            "Why Is Rocket Lab Stock Falling Today?",
+            "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Monday as Oil Prices Rise"
           ],
           "spx": [
-            "Stock market today: Dow, S&P 500, Nasdaq rise as investors shake off bond sell-off woes",
-            "Update: US Equity Indexes Jump as Crude Oil Slides Following Iran's Conditional Plan to Reopen Hormuz Chokepoint",
-            "Stock Market Today: Dow Gains 400 Points As Microsoft Jumps; Oil's Retreat Punches Chevron (Live Coverage)",
-            "The Dow Leads Market Indexes Higher as Microsoft Adds 120 Points",
-            "3 Reasons HOPE is Risky and 1 Stock to Buy Instead",
-            "2 Reasons to Watch EWBC and 1 to Stay Cautious",
-            "Update: Equities Rise Intraday as Oil Prices Fall Following Iran's Proposal",
-            "Is CoreWeave Stock Making Your Portfolio's Bad Days Worse?",
-            "How the Bulls Could Finish 2026 at All-Time Highs",
-            "2 Reasons to Avoid QCRH and 1 Stock to Buy Instead"
+            "Stock market today: Dow, S&P 500, Nasdaq fall as Treasury yields continue to climb",
+            "Why S&P 500 stock valuations are falling",
+            "What Needs To Be True To Buy Twilio Stock Now?",
+            "Update: US Equity Indexes Fall as Iran Settlement Talks Lose Momentum",
+            "MP Materials Just Sank 21% in a Month. Is It Time to Sell, or Is This a Prime Buying Opportunity?",
+            "Stock Market Today: Dow Off Lows After Iran Report; Leisure Play Tests Entry, MongoDB Dives (Live Coverage)",
+            "How Big Could BSX Stock's Next Fall Be?",
+            "3 Reasons to Avoid BILL and 1 Stock to Buy Instead",
+            "3 Reasons AFL is Risky and 1 Stock to Buy Instead",
+            "Microsoft\u2019s AI Gains Can Push the Stock Higher. That\u2019s Good News for Software Peers."
           ]
         }
       },
@@ -1720,54 +1689,45 @@
         "auto_note": "LEU PUT | $-13.56 (-8.18%) | dollar_loser_1 | Strike $135.0 exp 2026-09-18 (6DTE) | IV 56.5% | SPY +nan% | MACRO: fed"
       },
       "news_scan": {
-        "scanned_at": "2026-09-25 18:45:43 PST",
-        "gap_days": 13,
+        "scanned_at": "2026-09-28 20:10:38 PST",
+        "gap_days": 16,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bullish",
-        "spx_sentiment": "bullish",
+        "spy_sentiment": "bearish",
+        "spx_sentiment": "neutral",
         "keywords_found": [],
         "spy_keywords": [
-          "upgrade",
-          "soars",
           "jumps",
-          "drops",
-          "tumbles"
+          "falls",
+          "drops"
         ],
-        "spx_keywords": [
-          "jumps"
-        ],
-        "decision": "sell",
-        "decision_reason": "no confirmation for PUT thesis \u2014 sell at open",
+        "spx_keywords": [],
+        "decision": "hold",
+        "decision_reason": "neutral keywords confirmed PUT thesis",
         "raw_headlines": {
-          "ticker": [
-            "Is Centrus Energy the Ultimate Pick-and-Shovel Play on the Nuclear Technology Boom?",
-            "3 Reasons to Sell LEU and 1 Stock to Buy Instead",
-            "Nuclear Energy Stocks Rally as Demand for Reliable Clean Power Grows",
-            "Q2 Earnings Outperformers: Centrus Energy (NYSE:LEU) And The Rest Of The Mixed or Offshore Upstream E&P Stocks"
-          ],
+          "ticker": [],
           "spy": [
-            "Datadog Climbs 6%, Approaches 52-Week High While Software Group Slips; Oracle and Cloudflare Decline",
-            "Humana Jumps 7% on Barclays Upgrade and $515 Target; UnitedHealth Nudges Higher",
-            "Dell Rises 7% as Morgan Stanley Lifts Odds on $756 Bull Case; Hewlett Packard Enterprise Edges Higher",
-            "BlackBerry Drops 7% as Post-Earnings Rally Unwinds Despite Record QNX Quarter; MobilEye Adds 2%",
-            "Michael Burry Ignores AI Cheers and Hunts for Mispriced Risk",
-            "Whether You Buy Tesla Depends On The Chances That Tesla Actually Becomes an AI Firm",
-            "Microsoft Climbs 4% as Oppenheimer Lifts Target to $570 on Copilot Enterprise Pivot; Alphabet Ticks Up",
-            "Zscaler Sinks 9% on Chief Revenue Officer Exit, Fastly Drops 6% as Citi Questions AI Traffic Payoff",
-            "GameStop Tumbles 8% Despite Ryan Cohen\u2019s $26M Insider Buy; eBay Ticks Up",
-            "Jaguar Health Soars 32% as Rare-Disease Pipeline News Meets Thin Post-Split Float"
+            "MP Materials Just Sank 21% in a Month. Is It Time to Sell, or Is This a Prime Buying Opportunity?",
+            "Cleveland-Cliffs Sinks 9% as Selloff Outruns Steel Group; Nucor and Steel Dynamics Pull Back",
+            "AMC Spikes 13% as Refinancing Rally Extends; Cinemark and IMAX Edge Higher",
+            "Bloom Energy Sinks 8% as Sharp Run Unwinds; Plug Power Drops 6%, FuelCell Eases",
+            "BlackBerry Jumps 4% as Record QNX Revenue Lifts Full-Year Outlook; Mobileye and Aptiv Dip",
+            "SoFi Falls 3% as Rising Yields Pressure Fintech; Affirm Drops 4%, Robinhood Slips 2%",
+            "Roblox Sinks 6% as Jefferies Cuts to Underperform With $38 Price Target; Take-Two Holds Flat, GameStop Dips",
+            "Nio Advances 3% as Geely Takes 30% Stake in Battery Swapping Unit; XPeng and Tesla Pull Back",
+            "Why Is Rocket Lab Stock Falling Today?",
+            "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Monday as Oil Prices Rise"
           ],
           "spx": [
-            "Stock market today: Dow, S&P 500, Nasdaq rise as investors shake off bond sell-off woes",
-            "Update: US Equity Indexes Jump as Crude Oil Slides Following Iran's Conditional Plan to Reopen Hormuz Chokepoint",
-            "Stock Market Today: Dow Gains 400 Points As Microsoft Jumps; Oil's Retreat Punches Chevron (Live Coverage)",
-            "The Dow Leads Market Indexes Higher as Microsoft Adds 120 Points",
-            "3 Reasons HOPE is Risky and 1 Stock to Buy Instead",
-            "2 Reasons to Watch EWBC and 1 to Stay Cautious",
-            "Update: Equities Rise Intraday as Oil Prices Fall Following Iran's Proposal",
-            "Is CoreWeave Stock Making Your Portfolio's Bad Days Worse?",
-            "How the Bulls Could Finish 2026 at All-Time Highs",
-            "2 Reasons to Avoid QCRH and 1 Stock to Buy Instead"
+            "Stock market today: Dow, S&P 500, Nasdaq fall as Treasury yields continue to climb",
+            "Why S&P 500 stock valuations are falling",
+            "What Needs To Be True To Buy Twilio Stock Now?",
+            "Update: US Equity Indexes Fall as Iran Settlement Talks Lose Momentum",
+            "MP Materials Just Sank 21% in a Month. Is It Time to Sell, or Is This a Prime Buying Opportunity?",
+            "Stock Market Today: Dow Off Lows After Iran Report; Leisure Play Tests Entry, MongoDB Dives (Live Coverage)",
+            "How Big Could BSX Stock's Next Fall Be?",
+            "3 Reasons to Avoid BILL and 1 Stock to Buy Instead",
+            "3 Reasons AFL is Risky and 1 Stock to Buy Instead",
+            "Microsoft\u2019s AI Gains Can Push the Stock Higher. That\u2019s Good News for Software Peers."
           ]
         }
       },
@@ -1810,62 +1770,58 @@
         "auto_note": "PANW CALL | $+43.29 (+13.09%) | dollar_gainer_1 | Strike $420.0 exp 2026-09-18 (3DTE) | IV 71.1% | SPY +nan% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-09-25 18:45:43 PST",
-        "gap_days": 10,
-        "ticker_sentiment": "bearish",
-        "spy_sentiment": "bullish",
-        "spx_sentiment": "bullish",
+        "scanned_at": "2026-09-28 20:10:38 PST",
+        "gap_days": 13,
+        "ticker_sentiment": "bullish",
+        "spy_sentiment": "bearish",
+        "spx_sentiment": "neutral",
         "keywords_found": [
-          "falls"
+          "buyback"
         ],
         "spy_keywords": [
-          "upgrade",
-          "soars",
           "jumps",
-          "drops",
-          "tumbles"
+          "falls",
+          "drops"
         ],
-        "spx_keywords": [
-          "jumps"
-        ],
+        "spx_keywords": [],
         "decision": "hold",
-        "decision_reason": "bearish keywords confirmed CALL thesis",
+        "decision_reason": "bullish keywords confirmed CALL thesis",
         "raw_headlines": {
           "ticker": [
-            "Zscaler Falls Amid Executive Change As Cybersecurity Stocks Pull Back",
-            "Cybersecurity Stocks Pare Early-Week Gains \u2014 Analysts See AI Security Demand Building, But Valuations Raise The Bar",
-            "Palo Alto Stocks Drop 3.9% as AI Becomes Its Own Red Team",
-            "1 Cash-Producing Stock to Own for Decades and 2 We Brush Off",
-            "CrowdStrike vs. Palo Alto: Which AI Cybersecurity Stock Better Justifies Its Valuation?",
-            "Semtech (SMTC) Jumped, But What Is Driving Attention Now?",
-            "Palo Alto Networks (PANW) Unveils Unit 42 AI Defense For Always On Cybersecurity",
-            "Stock Market Today, Sept. 24: BlackBerry Lifts Fiscal 2027 Guidance on Record QNX Revenue",
-            "Palo Alto Networks, IBD Stock Of The Day, Is In Buy Area. Acquisitions Fuel AI Growth Path.",
-            "Palo Alto CEO Sends Stark Signal on AI"
+            "Nvidia boosts stock buyback program, how AI will change the advertising landscape",
+            "Microsoft\u2019s AI Gains Can Push the Stock Higher. That\u2019s Good News for Software Peers.",
+            "Nvidia Launches Open Software Platform to Help Strengthen Governance of AI Agents",
+            "Palo Alto Stock Gains 1.5% as Agent Security Adds Continuous Offense",
+            "What Could Derail CrowdStrike Stock?",
+            "Palo Alto Networks (PANW) Brings Industrial Edge Connectivity To Its Firewall Ecosystem",
+            "Analysts Raise Palo Alto Networks Stock Price Targets - What's the Best PANW Play?",
+            "Palo Alto Networks (PANW) Lets Customers Pay Later. Is Credit Risk Rising?",
+            "The AI Security Opportunity Emerging for Palo Alto Networks",
+            "Nvidia\u2019s CEO Expects AI-Powered Cybersecurity to Boom. These 2 Companies Are Poised to Get a Big Boost From the Trend."
           ],
           "spy": [
-            "Datadog Climbs 6%, Approaches 52-Week High While Software Group Slips; Oracle and Cloudflare Decline",
-            "Humana Jumps 7% on Barclays Upgrade and $515 Target; UnitedHealth Nudges Higher",
-            "Dell Rises 7% as Morgan Stanley Lifts Odds on $756 Bull Case; Hewlett Packard Enterprise Edges Higher",
-            "BlackBerry Drops 7% as Post-Earnings Rally Unwinds Despite Record QNX Quarter; MobilEye Adds 2%",
-            "Michael Burry Ignores AI Cheers and Hunts for Mispriced Risk",
-            "Whether You Buy Tesla Depends On The Chances That Tesla Actually Becomes an AI Firm",
-            "Microsoft Climbs 4% as Oppenheimer Lifts Target to $570 on Copilot Enterprise Pivot; Alphabet Ticks Up",
-            "Zscaler Sinks 9% on Chief Revenue Officer Exit, Fastly Drops 6% as Citi Questions AI Traffic Payoff",
-            "GameStop Tumbles 8% Despite Ryan Cohen\u2019s $26M Insider Buy; eBay Ticks Up",
-            "Jaguar Health Soars 32% as Rare-Disease Pipeline News Meets Thin Post-Split Float"
+            "MP Materials Just Sank 21% in a Month. Is It Time to Sell, or Is This a Prime Buying Opportunity?",
+            "Cleveland-Cliffs Sinks 9% as Selloff Outruns Steel Group; Nucor and Steel Dynamics Pull Back",
+            "AMC Spikes 13% as Refinancing Rally Extends; Cinemark and IMAX Edge Higher",
+            "Bloom Energy Sinks 8% as Sharp Run Unwinds; Plug Power Drops 6%, FuelCell Eases",
+            "BlackBerry Jumps 4% as Record QNX Revenue Lifts Full-Year Outlook; Mobileye and Aptiv Dip",
+            "SoFi Falls 3% as Rising Yields Pressure Fintech; Affirm Drops 4%, Robinhood Slips 2%",
+            "Roblox Sinks 6% as Jefferies Cuts to Underperform With $38 Price Target; Take-Two Holds Flat, GameStop Dips",
+            "Nio Advances 3% as Geely Takes 30% Stake in Battery Swapping Unit; XPeng and Tesla Pull Back",
+            "Why Is Rocket Lab Stock Falling Today?",
+            "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Monday as Oil Prices Rise"
           ],
           "spx": [
-            "Stock market today: Dow, S&P 500, Nasdaq rise as investors shake off bond sell-off woes",
-            "Update: US Equity Indexes Jump as Crude Oil Slides Following Iran's Conditional Plan to Reopen Hormuz Chokepoint",
-            "Stock Market Today: Dow Gains 400 Points As Microsoft Jumps; Oil's Retreat Punches Chevron (Live Coverage)",
-            "The Dow Leads Market Indexes Higher as Microsoft Adds 120 Points",
-            "3 Reasons HOPE is Risky and 1 Stock to Buy Instead",
-            "2 Reasons to Watch EWBC and 1 to Stay Cautious",
-            "Update: Equities Rise Intraday as Oil Prices Fall Following Iran's Proposal",
-            "Is CoreWeave Stock Making Your Portfolio's Bad Days Worse?",
-            "How the Bulls Could Finish 2026 at All-Time Highs",
-            "2 Reasons to Avoid QCRH and 1 Stock to Buy Instead"
+            "Stock market today: Dow, S&P 500, Nasdaq fall as Treasury yields continue to climb",
+            "Why S&P 500 stock valuations are falling",
+            "What Needs To Be True To Buy Twilio Stock Now?",
+            "Update: US Equity Indexes Fall as Iran Settlement Talks Lose Momentum",
+            "MP Materials Just Sank 21% in a Month. Is It Time to Sell, or Is This a Prime Buying Opportunity?",
+            "Stock Market Today: Dow Off Lows After Iran Report; Leisure Play Tests Entry, MongoDB Dives (Live Coverage)",
+            "How Big Could BSX Stock's Next Fall Be?",
+            "3 Reasons to Avoid BILL and 1 Stock to Buy Instead",
+            "3 Reasons AFL is Risky and 1 Stock to Buy Instead",
+            "Microsoft\u2019s AI Gains Can Push the Stock Higher. That\u2019s Good News for Software Peers."
           ]
         }
       },
@@ -1908,54 +1864,48 @@
         "auto_note": "TER PUT | $-50.52 (-13.30%) | dollar_loser_1 | Strike $280.0 exp 2026-09-18 (3DTE) | IV 90.0% | SPY +nan% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-09-25 18:45:43 PST",
-        "gap_days": 10,
+        "scanned_at": "2026-09-28 20:10:38 PST",
+        "gap_days": 13,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bullish",
-        "spx_sentiment": "bullish",
+        "spy_sentiment": "bearish",
+        "spx_sentiment": "neutral",
         "keywords_found": [],
         "spy_keywords": [
-          "upgrade",
-          "soars",
           "jumps",
-          "drops",
-          "tumbles"
+          "falls",
+          "drops"
         ],
-        "spx_keywords": [
-          "jumps"
-        ],
-        "decision": "sell",
-        "decision_reason": "no confirmation for PUT thesis \u2014 sell at open",
+        "spx_keywords": [],
+        "decision": "hold",
+        "decision_reason": "neutral keywords confirmed PUT thesis",
         "raw_headlines": {
           "ticker": [
-            "Reflecting On Semiconductor Manufacturing Stocks\u2019 Q2 Earnings: Teradyne (NASDAQ:TER)",
-            "Teradyne Strengthens AI Test Portfolio: Can It Beat KLAC & COHU?",
-            "Teradyne (TER) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
-            "Power Integrations, Penguin Solutions, Photronics, Amkor, and Teradyne Shares Are Soaring, What You Need To Know"
+            "3 Reasons to Sell TER and 1 Stock to Buy Instead",
+            "Teradyne (TER) Surpasses Market Returns: Some Facts Worth Knowing"
           ],
           "spy": [
-            "Datadog Climbs 6%, Approaches 52-Week High While Software Group Slips; Oracle and Cloudflare Decline",
-            "Humana Jumps 7% on Barclays Upgrade and $515 Target; UnitedHealth Nudges Higher",
-            "Dell Rises 7% as Morgan Stanley Lifts Odds on $756 Bull Case; Hewlett Packard Enterprise Edges Higher",
-            "BlackBerry Drops 7% as Post-Earnings Rally Unwinds Despite Record QNX Quarter; MobilEye Adds 2%",
-            "Michael Burry Ignores AI Cheers and Hunts for Mispriced Risk",
-            "Whether You Buy Tesla Depends On The Chances That Tesla Actually Becomes an AI Firm",
-            "Microsoft Climbs 4% as Oppenheimer Lifts Target to $570 on Copilot Enterprise Pivot; Alphabet Ticks Up",
-            "Zscaler Sinks 9% on Chief Revenue Officer Exit, Fastly Drops 6% as Citi Questions AI Traffic Payoff",
-            "GameStop Tumbles 8% Despite Ryan Cohen\u2019s $26M Insider Buy; eBay Ticks Up",
-            "Jaguar Health Soars 32% as Rare-Disease Pipeline News Meets Thin Post-Split Float"
+            "MP Materials Just Sank 21% in a Month. Is It Time to Sell, or Is This a Prime Buying Opportunity?",
+            "Cleveland-Cliffs Sinks 9% as Selloff Outruns Steel Group; Nucor and Steel Dynamics Pull Back",
+            "AMC Spikes 13% as Refinancing Rally Extends; Cinemark and IMAX Edge Higher",
+            "Bloom Energy Sinks 8% as Sharp Run Unwinds; Plug Power Drops 6%, FuelCell Eases",
+            "BlackBerry Jumps 4% as Record QNX Revenue Lifts Full-Year Outlook; Mobileye and Aptiv Dip",
+            "SoFi Falls 3% as Rising Yields Pressure Fintech; Affirm Drops 4%, Robinhood Slips 2%",
+            "Roblox Sinks 6% as Jefferies Cuts to Underperform With $38 Price Target; Take-Two Holds Flat, GameStop Dips",
+            "Nio Advances 3% as Geely Takes 30% Stake in Battery Swapping Unit; XPeng and Tesla Pull Back",
+            "Why Is Rocket Lab Stock Falling Today?",
+            "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Monday as Oil Prices Rise"
           ],
           "spx": [
-            "Stock market today: Dow, S&P 500, Nasdaq rise as investors shake off bond sell-off woes",
-            "Update: US Equity Indexes Jump as Crude Oil Slides Following Iran's Conditional Plan to Reopen Hormuz Chokepoint",
-            "Stock Market Today: Dow Gains 400 Points As Microsoft Jumps; Oil's Retreat Punches Chevron (Live Coverage)",
-            "The Dow Leads Market Indexes Higher as Microsoft Adds 120 Points",
-            "3 Reasons HOPE is Risky and 1 Stock to Buy Instead",
-            "2 Reasons to Watch EWBC and 1 to Stay Cautious",
-            "Update: Equities Rise Intraday as Oil Prices Fall Following Iran's Proposal",
-            "Is CoreWeave Stock Making Your Portfolio's Bad Days Worse?",
-            "How the Bulls Could Finish 2026 at All-Time Highs",
-            "2 Reasons to Avoid QCRH and 1 Stock to Buy Instead"
+            "Stock market today: Dow, S&P 500, Nasdaq fall as Treasury yields continue to climb",
+            "Why S&P 500 stock valuations are falling",
+            "What Needs To Be True To Buy Twilio Stock Now?",
+            "Update: US Equity Indexes Fall as Iran Settlement Talks Lose Momentum",
+            "MP Materials Just Sank 21% in a Month. Is It Time to Sell, or Is This a Prime Buying Opportunity?",
+            "Stock Market Today: Dow Off Lows After Iran Report; Leisure Play Tests Entry, MongoDB Dives (Live Coverage)",
+            "How Big Could BSX Stock's Next Fall Be?",
+            "3 Reasons to Avoid BILL and 1 Stock to Buy Instead",
+            "3 Reasons AFL is Risky and 1 Stock to Buy Instead",
+            "Microsoft\u2019s AI Gains Can Push the Stock Higher. That\u2019s Good News for Software Peers."
           ]
         }
       },
@@ -2001,54 +1951,47 @@
         "auto_note": "QLYS CALL | $+12.46 (+7.21%) | dollar_gainer_1 | Strike $210.0 exp 2026-09-18 (2DTE) | IV 78.5% | SPY +nan% | MACRO: fed, rate hike"
       },
       "news_scan": {
-        "scanned_at": "2026-09-25 18:45:43 PST",
-        "gap_days": 9,
+        "scanned_at": "2026-09-28 20:10:38 PST",
+        "gap_days": 12,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bullish",
-        "spx_sentiment": "bullish",
+        "spy_sentiment": "bearish",
+        "spx_sentiment": "neutral",
         "keywords_found": [],
         "spy_keywords": [
-          "upgrade",
-          "soars",
           "jumps",
-          "drops",
-          "tumbles"
+          "falls",
+          "drops"
         ],
-        "spx_keywords": [
-          "jumps"
-        ],
-        "decision": "hold",
-        "decision_reason": "neutral keywords confirmed CALL thesis",
+        "spx_keywords": [],
+        "decision": "sell",
+        "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
         "raw_headlines": {
           "ticker": [
-            "Qualys (QLYS) Stock May Be 21% Undervalued On Strong Cash Flow",
-            "1 Unpopular Stock That Deserves a Second Chance and 2 That Underwhelm",
-            "Qualys (QLYS) Could Be 6% Overvalued As Its AI Risk Narrative Builds",
-            "3 Small-Cap Stocks We Think Twice About"
+            "Qualys, Okta, Palo Alto Networks, Rapid7, and SentinelOne Shares Plummet, What You Need To Know"
           ],
           "spy": [
-            "Datadog Climbs 6%, Approaches 52-Week High While Software Group Slips; Oracle and Cloudflare Decline",
-            "Humana Jumps 7% on Barclays Upgrade and $515 Target; UnitedHealth Nudges Higher",
-            "Dell Rises 7% as Morgan Stanley Lifts Odds on $756 Bull Case; Hewlett Packard Enterprise Edges Higher",
-            "BlackBerry Drops 7% as Post-Earnings Rally Unwinds Despite Record QNX Quarter; MobilEye Adds 2%",
-            "Michael Burry Ignores AI Cheers and Hunts for Mispriced Risk",
-            "Whether You Buy Tesla Depends On The Chances That Tesla Actually Becomes an AI Firm",
-            "Microsoft Climbs 4% as Oppenheimer Lifts Target to $570 on Copilot Enterprise Pivot; Alphabet Ticks Up",
-            "Zscaler Sinks 9% on Chief Revenue Officer Exit, Fastly Drops 6% as Citi Questions AI Traffic Payoff",
-            "GameStop Tumbles 8% Despite Ryan Cohen\u2019s $26M Insider Buy; eBay Ticks Up",
-            "Jaguar Health Soars 32% as Rare-Disease Pipeline News Meets Thin Post-Split Float"
+            "MP Materials Just Sank 21% in a Month. Is It Time to Sell, or Is This a Prime Buying Opportunity?",
+            "Cleveland-Cliffs Sinks 9% as Selloff Outruns Steel Group; Nucor and Steel Dynamics Pull Back",
+            "AMC Spikes 13% as Refinancing Rally Extends; Cinemark and IMAX Edge Higher",
+            "Bloom Energy Sinks 8% as Sharp Run Unwinds; Plug Power Drops 6%, FuelCell Eases",
+            "BlackBerry Jumps 4% as Record QNX Revenue Lifts Full-Year Outlook; Mobileye and Aptiv Dip",
+            "SoFi Falls 3% as Rising Yields Pressure Fintech; Affirm Drops 4%, Robinhood Slips 2%",
+            "Roblox Sinks 6% as Jefferies Cuts to Underperform With $38 Price Target; Take-Two Holds Flat, GameStop Dips",
+            "Nio Advances 3% as Geely Takes 30% Stake in Battery Swapping Unit; XPeng and Tesla Pull Back",
+            "Why Is Rocket Lab Stock Falling Today?",
+            "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Monday as Oil Prices Rise"
           ],
           "spx": [
-            "Stock market today: Dow, S&P 500, Nasdaq rise as investors shake off bond sell-off woes",
-            "Update: US Equity Indexes Jump as Crude Oil Slides Following Iran's Conditional Plan to Reopen Hormuz Chokepoint",
-            "Stock Market Today: Dow Gains 400 Points As Microsoft Jumps; Oil's Retreat Punches Chevron (Live Coverage)",
-            "The Dow Leads Market Indexes Higher as Microsoft Adds 120 Points",
-            "3 Reasons HOPE is Risky and 1 Stock to Buy Instead",
-            "2 Reasons to Watch EWBC and 1 to Stay Cautious",
-            "Update: Equities Rise Intraday as Oil Prices Fall Following Iran's Proposal",
-            "Is CoreWeave Stock Making Your Portfolio's Bad Days Worse?",
-            "How the Bulls Could Finish 2026 at All-Time Highs",
-            "2 Reasons to Avoid QCRH and 1 Stock to Buy Instead"
+            "Stock market today: Dow, S&P 500, Nasdaq fall as Treasury yields continue to climb",
+            "Why S&P 500 stock valuations are falling",
+            "What Needs To Be True To Buy Twilio Stock Now?",
+            "Update: US Equity Indexes Fall as Iran Settlement Talks Lose Momentum",
+            "MP Materials Just Sank 21% in a Month. Is It Time to Sell, or Is This a Prime Buying Opportunity?",
+            "Stock Market Today: Dow Off Lows After Iran Report; Leisure Play Tests Entry, MongoDB Dives (Live Coverage)",
+            "How Big Could BSX Stock's Next Fall Be?",
+            "3 Reasons to Avoid BILL and 1 Stock to Buy Instead",
+            "3 Reasons AFL is Risky and 1 Stock to Buy Instead",
+            "Microsoft\u2019s AI Gains Can Push the Stock Higher. That\u2019s Good News for Software Peers."
           ]
         }
       },
@@ -2094,53 +2037,47 @@
         "auto_note": "AXON PUT | $-48.10 (-9.81%) | dollar_loser_1 | Strike $390.0 exp 2026-09-18 (2DTE) | IV 78.0% | SPY +nan% | MACRO: fed, rate hike"
       },
       "news_scan": {
-        "scanned_at": "2026-09-25 18:45:43 PST",
-        "gap_days": 9,
+        "scanned_at": "2026-09-28 20:10:38 PST",
+        "gap_days": 12,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bullish",
-        "spx_sentiment": "bullish",
+        "spy_sentiment": "bearish",
+        "spx_sentiment": "neutral",
         "keywords_found": [],
         "spy_keywords": [
-          "upgrade",
-          "soars",
           "jumps",
-          "drops",
-          "tumbles"
+          "falls",
+          "drops"
         ],
-        "spx_keywords": [
-          "jumps"
-        ],
-        "decision": "sell",
-        "decision_reason": "no confirmation for PUT thesis \u2014 sell at open",
+        "spx_keywords": [],
+        "decision": "hold",
+        "decision_reason": "neutral keywords confirmed PUT thesis",
         "raw_headlines": {
           "ticker": [
-            "Sterling, Axon, Herc, Nextpower, and FTAI Aviation Shares Plummet, What You Need To Know",
-            "Axon Enterprise (AXON) Suffers a Larger Drop Than the General Market: Key Insights",
-            "3 Reasons AXON Has Explosive Upside Potential"
+            "Axon Enterprise (AXON) Stock Sinks As Market Gains: What You Should Know"
           ],
           "spy": [
-            "Datadog Climbs 6%, Approaches 52-Week High While Software Group Slips; Oracle and Cloudflare Decline",
-            "Humana Jumps 7% on Barclays Upgrade and $515 Target; UnitedHealth Nudges Higher",
-            "Dell Rises 7% as Morgan Stanley Lifts Odds on $756 Bull Case; Hewlett Packard Enterprise Edges Higher",
-            "BlackBerry Drops 7% as Post-Earnings Rally Unwinds Despite Record QNX Quarter; MobilEye Adds 2%",
-            "Michael Burry Ignores AI Cheers and Hunts for Mispriced Risk",
-            "Whether You Buy Tesla Depends On The Chances That Tesla Actually Becomes an AI Firm",
-            "Microsoft Climbs 4% as Oppenheimer Lifts Target to $570 on Copilot Enterprise Pivot; Alphabet Ticks Up",
-            "Zscaler Sinks 9% on Chief Revenue Officer Exit, Fastly Drops 6% as Citi Questions AI Traffic Payoff",
-            "GameStop Tumbles 8% Despite Ryan Cohen\u2019s $26M Insider Buy; eBay Ticks Up",
-            "Jaguar Health Soars 32% as Rare-Disease Pipeline News Meets Thin Post-Split Float"
+            "MP Materials Just Sank 21% in a Month. Is It Time to Sell, or Is This a Prime Buying Opportunity?",
+            "Cleveland-Cliffs Sinks 9% as Selloff Outruns Steel Group; Nucor and Steel Dynamics Pull Back",
+            "AMC Spikes 13% as Refinancing Rally Extends; Cinemark and IMAX Edge Higher",
+            "Bloom Energy Sinks 8% as Sharp Run Unwinds; Plug Power Drops 6%, FuelCell Eases",
+            "BlackBerry Jumps 4% as Record QNX Revenue Lifts Full-Year Outlook; Mobileye and Aptiv Dip",
+            "SoFi Falls 3% as Rising Yields Pressure Fintech; Affirm Drops 4%, Robinhood Slips 2%",
+            "Roblox Sinks 6% as Jefferies Cuts to Underperform With $38 Price Target; Take-Two Holds Flat, GameStop Dips",
+            "Nio Advances 3% as Geely Takes 30% Stake in Battery Swapping Unit; XPeng and Tesla Pull Back",
+            "Why Is Rocket Lab Stock Falling Today?",
+            "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Monday as Oil Prices Rise"
           ],
           "spx": [
-            "Stock market today: Dow, S&P 500, Nasdaq rise as investors shake off bond sell-off woes",
-            "Update: US Equity Indexes Jump as Crude Oil Slides Following Iran's Conditional Plan to Reopen Hormuz Chokepoint",
-            "Stock Market Today: Dow Gains 400 Points As Microsoft Jumps; Oil's Retreat Punches Chevron (Live Coverage)",
-            "The Dow Leads Market Indexes Higher as Microsoft Adds 120 Points",
-            "3 Reasons HOPE is Risky and 1 Stock to Buy Instead",
-            "2 Reasons to Watch EWBC and 1 to Stay Cautious",
-            "Update: Equities Rise Intraday as Oil Prices Fall Following Iran's Proposal",
-            "Is CoreWeave Stock Making Your Portfolio's Bad Days Worse?",
-            "How the Bulls Could Finish 2026 at All-Time Highs",
-            "2 Reasons to Avoid QCRH and 1 Stock to Buy Instead"
+            "Stock market today: Dow, S&P 500, Nasdaq fall as Treasury yields continue to climb",
+            "Why S&P 500 stock valuations are falling",
+            "What Needs To Be True To Buy Twilio Stock Now?",
+            "Update: US Equity Indexes Fall as Iran Settlement Talks Lose Momentum",
+            "MP Materials Just Sank 21% in a Month. Is It Time to Sell, or Is This a Prime Buying Opportunity?",
+            "Stock Market Today: Dow Off Lows After Iran Report; Leisure Play Tests Entry, MongoDB Dives (Live Coverage)",
+            "How Big Could BSX Stock's Next Fall Be?",
+            "3 Reasons to Avoid BILL and 1 Stock to Buy Instead",
+            "3 Reasons AFL is Risky and 1 Stock to Buy Instead",
+            "Microsoft\u2019s AI Gains Can Push the Stock Higher. That\u2019s Good News for Software Peers."
           ]
         }
       },
@@ -2186,57 +2123,52 @@
         "auto_note": "COHR CALL | $+18.76 (+6.92%) | dollar_gainer_1 | Strike $320.0 exp 2026-09-18 (1DTE) | IV 88.5% | SPY +nan% | MACRO: fed, war"
       },
       "news_scan": {
-        "scanned_at": "2026-09-25 18:45:43 PST",
-        "gap_days": 8,
-        "ticker_sentiment": "neutral",
-        "spy_sentiment": "bullish",
-        "spx_sentiment": "bullish",
-        "keywords_found": [],
+        "scanned_at": "2026-09-28 20:10:38 PST",
+        "gap_days": 11,
+        "ticker_sentiment": "bearish",
+        "spy_sentiment": "bearish",
+        "spx_sentiment": "neutral",
+        "keywords_found": [
+          "falls"
+        ],
         "spy_keywords": [
-          "upgrade",
-          "soars",
           "jumps",
-          "drops",
-          "tumbles"
+          "falls",
+          "drops"
         ],
-        "spx_keywords": [
-          "jumps"
-        ],
-        "decision": "hold",
-        "decision_reason": "neutral keywords confirmed CALL thesis",
+        "spx_keywords": [],
+        "decision": "sell",
+        "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
         "raw_headlines": {
           "ticker": [
-            "What Is Coherent (COHR) Really Betting On With PhotonLink For AI Datacenters?",
-            "AI Trade Picks Up Again as Investors Pile Back Into Stocks",
-            "Coherent Has Ripped 59% in 2026: Is It Too Late to Buy COHR Stock Now?",
-            "AI Data Center Boom Faces This 'Fundamental Trade-Off' With China",
-            "This Little-Known AI Chip Stock Doubled. Its New Chips Now Double Optical Speed",
-            "Lumentum Jumped Nearly 10% While Corning Barely Moved. Is the AI Optics Trade Splitting Apart?",
-            "Sandisk, Lennar, Viking Therapeutics, Shopify, GameStop, and More Stocks That Explain Today\u2019s Market"
+            "Optics Stocks Slide Despite Citi\u2019s $11B Switching Forecast: Coherent and Applied Optoelectronics Drop 5%, Corning Falls 3%",
+            "BAH Stock Rises 17.6% in Three Months: Here's What You Should Know",
+            "Are Business Services Stocks Lagging  COHERENT CORP (COHR) This Year?",
+            "Citi Sees $11 Billion Optical Networking Boom Driven By Google, Nvidia"
           ],
           "spy": [
-            "Datadog Climbs 6%, Approaches 52-Week High While Software Group Slips; Oracle and Cloudflare Decline",
-            "Humana Jumps 7% on Barclays Upgrade and $515 Target; UnitedHealth Nudges Higher",
-            "Dell Rises 7% as Morgan Stanley Lifts Odds on $756 Bull Case; Hewlett Packard Enterprise Edges Higher",
-            "BlackBerry Drops 7% as Post-Earnings Rally Unwinds Despite Record QNX Quarter; MobilEye Adds 2%",
-            "Michael Burry Ignores AI Cheers and Hunts for Mispriced Risk",
-            "Whether You Buy Tesla Depends On The Chances That Tesla Actually Becomes an AI Firm",
-            "Microsoft Climbs 4% as Oppenheimer Lifts Target to $570 on Copilot Enterprise Pivot; Alphabet Ticks Up",
-            "Zscaler Sinks 9% on Chief Revenue Officer Exit, Fastly Drops 6% as Citi Questions AI Traffic Payoff",
-            "GameStop Tumbles 8% Despite Ryan Cohen\u2019s $26M Insider Buy; eBay Ticks Up",
-            "Jaguar Health Soars 32% as Rare-Disease Pipeline News Meets Thin Post-Split Float"
+            "MP Materials Just Sank 21% in a Month. Is It Time to Sell, or Is This a Prime Buying Opportunity?",
+            "Cleveland-Cliffs Sinks 9% as Selloff Outruns Steel Group; Nucor and Steel Dynamics Pull Back",
+            "AMC Spikes 13% as Refinancing Rally Extends; Cinemark and IMAX Edge Higher",
+            "Bloom Energy Sinks 8% as Sharp Run Unwinds; Plug Power Drops 6%, FuelCell Eases",
+            "BlackBerry Jumps 4% as Record QNX Revenue Lifts Full-Year Outlook; Mobileye and Aptiv Dip",
+            "SoFi Falls 3% as Rising Yields Pressure Fintech; Affirm Drops 4%, Robinhood Slips 2%",
+            "Roblox Sinks 6% as Jefferies Cuts to Underperform With $38 Price Target; Take-Two Holds Flat, GameStop Dips",
+            "Nio Advances 3% as Geely Takes 30% Stake in Battery Swapping Unit; XPeng and Tesla Pull Back",
+            "Why Is Rocket Lab Stock Falling Today?",
+            "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Monday as Oil Prices Rise"
           ],
           "spx": [
-            "Stock market today: Dow, S&P 500, Nasdaq rise as investors shake off bond sell-off woes",
-            "Update: US Equity Indexes Jump as Crude Oil Slides Following Iran's Conditional Plan to Reopen Hormuz Chokepoint",
-            "Stock Market Today: Dow Gains 400 Points As Microsoft Jumps; Oil's Retreat Punches Chevron (Live Coverage)",
-            "The Dow Leads Market Indexes Higher as Microsoft Adds 120 Points",
-            "3 Reasons HOPE is Risky and 1 Stock to Buy Instead",
-            "2 Reasons to Watch EWBC and 1 to Stay Cautious",
-            "Update: Equities Rise Intraday as Oil Prices Fall Following Iran's Proposal",
-            "Is CoreWeave Stock Making Your Portfolio's Bad Days Worse?",
-            "How the Bulls Could Finish 2026 at All-Time Highs",
-            "2 Reasons to Avoid QCRH and 1 Stock to Buy Instead"
+            "Stock market today: Dow, S&P 500, Nasdaq fall as Treasury yields continue to climb",
+            "Why S&P 500 stock valuations are falling",
+            "What Needs To Be True To Buy Twilio Stock Now?",
+            "Update: US Equity Indexes Fall as Iran Settlement Talks Lose Momentum",
+            "MP Materials Just Sank 21% in a Month. Is It Time to Sell, or Is This a Prime Buying Opportunity?",
+            "Stock Market Today: Dow Off Lows After Iran Report; Leisure Play Tests Entry, MongoDB Dives (Live Coverage)",
+            "How Big Could BSX Stock's Next Fall Be?",
+            "3 Reasons to Avoid BILL and 1 Stock to Buy Instead",
+            "3 Reasons AFL is Risky and 1 Stock to Buy Instead",
+            "Microsoft\u2019s AI Gains Can Push the Stock Higher. That\u2019s Good News for Software Peers."
           ]
         }
       },
@@ -2282,52 +2214,45 @@
         "auto_note": "FANG PUT | $-16.99 (-8.03%) | dollar_loser_1 | Strike $185.0 exp 2026-09-18 (1DTE) | IV 53.9% | SPY +nan% | MACRO: fed, war"
       },
       "news_scan": {
-        "scanned_at": "2026-09-25 18:45:43 PST",
-        "gap_days": 8,
+        "scanned_at": "2026-09-28 20:10:38 PST",
+        "gap_days": 11,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bullish",
-        "spx_sentiment": "bullish",
+        "spy_sentiment": "bearish",
+        "spx_sentiment": "neutral",
         "keywords_found": [],
         "spy_keywords": [
-          "upgrade",
-          "soars",
           "jumps",
-          "drops",
-          "tumbles"
+          "falls",
+          "drops"
         ],
-        "spx_keywords": [
-          "jumps"
-        ],
-        "decision": "sell",
-        "decision_reason": "no confirmation for PUT thesis \u2014 sell at open",
+        "spx_keywords": [],
+        "decision": "hold",
+        "decision_reason": "neutral keywords confirmed PUT thesis",
         "raw_headlines": {
-          "ticker": [
-            "3 Oil Stocks Investors May Revisit As Supply Worries Lift Crude",
-            "Is EOG Resources Stock A Buy For Its Shrinking Share Count?"
-          ],
+          "ticker": [],
           "spy": [
-            "Datadog Climbs 6%, Approaches 52-Week High While Software Group Slips; Oracle and Cloudflare Decline",
-            "Humana Jumps 7% on Barclays Upgrade and $515 Target; UnitedHealth Nudges Higher",
-            "Dell Rises 7% as Morgan Stanley Lifts Odds on $756 Bull Case; Hewlett Packard Enterprise Edges Higher",
-            "BlackBerry Drops 7% as Post-Earnings Rally Unwinds Despite Record QNX Quarter; MobilEye Adds 2%",
-            "Michael Burry Ignores AI Cheers and Hunts for Mispriced Risk",
-            "Whether You Buy Tesla Depends On The Chances That Tesla Actually Becomes an AI Firm",
-            "Microsoft Climbs 4% as Oppenheimer Lifts Target to $570 on Copilot Enterprise Pivot; Alphabet Ticks Up",
-            "Zscaler Sinks 9% on Chief Revenue Officer Exit, Fastly Drops 6% as Citi Questions AI Traffic Payoff",
-            "GameStop Tumbles 8% Despite Ryan Cohen\u2019s $26M Insider Buy; eBay Ticks Up",
-            "Jaguar Health Soars 32% as Rare-Disease Pipeline News Meets Thin Post-Split Float"
+            "MP Materials Just Sank 21% in a Month. Is It Time to Sell, or Is This a Prime Buying Opportunity?",
+            "Cleveland-Cliffs Sinks 9% as Selloff Outruns Steel Group; Nucor and Steel Dynamics Pull Back",
+            "AMC Spikes 13% as Refinancing Rally Extends; Cinemark and IMAX Edge Higher",
+            "Bloom Energy Sinks 8% as Sharp Run Unwinds; Plug Power Drops 6%, FuelCell Eases",
+            "BlackBerry Jumps 4% as Record QNX Revenue Lifts Full-Year Outlook; Mobileye and Aptiv Dip",
+            "SoFi Falls 3% as Rising Yields Pressure Fintech; Affirm Drops 4%, Robinhood Slips 2%",
+            "Roblox Sinks 6% as Jefferies Cuts to Underperform With $38 Price Target; Take-Two Holds Flat, GameStop Dips",
+            "Nio Advances 3% as Geely Takes 30% Stake in Battery Swapping Unit; XPeng and Tesla Pull Back",
+            "Why Is Rocket Lab Stock Falling Today?",
+            "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Monday as Oil Prices Rise"
           ],
           "spx": [
-            "Stock market today: Dow, S&P 500, Nasdaq rise as investors shake off bond sell-off woes",
-            "Update: US Equity Indexes Jump as Crude Oil Slides Following Iran's Conditional Plan to Reopen Hormuz Chokepoint",
-            "Stock Market Today: Dow Gains 400 Points As Microsoft Jumps; Oil's Retreat Punches Chevron (Live Coverage)",
-            "The Dow Leads Market Indexes Higher as Microsoft Adds 120 Points",
-            "3 Reasons HOPE is Risky and 1 Stock to Buy Instead",
-            "2 Reasons to Watch EWBC and 1 to Stay Cautious",
-            "Update: Equities Rise Intraday as Oil Prices Fall Following Iran's Proposal",
-            "Is CoreWeave Stock Making Your Portfolio's Bad Days Worse?",
-            "How the Bulls Could Finish 2026 at All-Time Highs",
-            "2 Reasons to Avoid QCRH and 1 Stock to Buy Instead"
+            "Stock market today: Dow, S&P 500, Nasdaq fall as Treasury yields continue to climb",
+            "Why S&P 500 stock valuations are falling",
+            "What Needs To Be True To Buy Twilio Stock Now?",
+            "Update: US Equity Indexes Fall as Iran Settlement Talks Lose Momentum",
+            "MP Materials Just Sank 21% in a Month. Is It Time to Sell, or Is This a Prime Buying Opportunity?",
+            "Stock Market Today: Dow Off Lows After Iran Report; Leisure Play Tests Entry, MongoDB Dives (Live Coverage)",
+            "How Big Could BSX Stock's Next Fall Be?",
+            "3 Reasons to Avoid BILL and 1 Stock to Buy Instead",
+            "3 Reasons AFL is Risky and 1 Stock to Buy Instead",
+            "Microsoft\u2019s AI Gains Can Push the Stock Higher. That\u2019s Good News for Software Peers."
           ]
         }
       },
@@ -2370,63 +2295,57 @@
         "auto_note": "ARM CALL | $+47.29 (+17.16%) | dollar_gainer_1 | Strike $400.0 exp 2026-09-25 (3DTE) | IV 120.3% | SPY +nan% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-09-25 18:45:43 PST",
-        "gap_days": 3,
-        "ticker_sentiment": "neutral",
-        "spy_sentiment": "bullish",
-        "spx_sentiment": "bullish",
+        "scanned_at": "2026-09-28 20:10:38 PST",
+        "gap_days": 6,
+        "ticker_sentiment": "bearish",
+        "spy_sentiment": "bearish",
+        "spx_sentiment": "neutral",
         "keywords_found": [
-          "surge",
+          "jumps",
+          "concern",
           "drops"
         ],
         "spy_keywords": [
-          "upgrade",
-          "soars",
           "jumps",
-          "drops",
-          "tumbles"
+          "falls",
+          "drops"
         ],
-        "spx_keywords": [
-          "jumps"
-        ],
-        "decision": "hold",
-        "decision_reason": "neutral keywords confirmed CALL thesis",
+        "spx_keywords": [],
+        "decision": "sell",
+        "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
         "raw_headlines": {
           "ticker": [
-            "Arm Stocks Surge as Muse Makes CPUs Matter Again",
-            "Arm Climbs 5% as Buyers Return After Sharp Pullback; Qualcomm Nudges Higher, Intel Sits Out the Rally",
-            "US Stock Market Today: S&P 500 Futures Slip As Hot Growth Keeps Rate Fears High",
-            "Arm Holdings (ARM) Stock Gains On AI CPU Demand Surge",
-            "Chip Stocks Retreat. Qualcomm Secures Apple Licensing Deal.",
-            "Amazon Blocks Meta's Muse. It Could Be a Gift for Walmart and Shopify",
-            "Arm Drops 3.3% as More AI Cores Test Royalty Economics",
-            "Bank of America Just Cut Its Price Target on UPS",
-            "Critical Role of ARM Holdings (ARM) In Powering the Next Wave of Agentic AI",
-            "Prediction: Arm Is Our Top Pick With 83% Upside Driven by Data Center Royalty Boom"
+            "Chip stocks fall as AI breach fuels safety concerns, but Nvidia bucks the trend: Chart of the Day",
+            "Arm Stock Sinks 7.6% as Agent Security Expands Its Compute Role",
+            "Arm Sinks 9% as Chip Selloff Deepens; Qualcomm Drops 6%, Marvell Slides 5%",
+            "1 Agentic AI Chip Stock to Buy and 1 to Sell",
+            "MarketBeat Week in Review \u2013 09/21 - 09/25",
+            "Arm Holdings Stock Fell 8% in a Day. Here\u2019s What SoftBank\u2019s $25 Billion Loan Means for the Stock",
+            "US Equity Indexes Rose This Week as Mega-Cap Tech Jumps While Iran Proposes Conditional Reopening of Hormuz Chokepoint"
           ],
           "spy": [
-            "Datadog Climbs 6%, Approaches 52-Week High While Software Group Slips; Oracle and Cloudflare Decline",
-            "Humana Jumps 7% on Barclays Upgrade and $515 Target; UnitedHealth Nudges Higher",
-            "Dell Rises 7% as Morgan Stanley Lifts Odds on $756 Bull Case; Hewlett Packard Enterprise Edges Higher",
-            "BlackBerry Drops 7% as Post-Earnings Rally Unwinds Despite Record QNX Quarter; MobilEye Adds 2%",
-            "Michael Burry Ignores AI Cheers and Hunts for Mispriced Risk",
-            "Whether You Buy Tesla Depends On The Chances That Tesla Actually Becomes an AI Firm",
-            "Microsoft Climbs 4% as Oppenheimer Lifts Target to $570 on Copilot Enterprise Pivot; Alphabet Ticks Up",
-            "Zscaler Sinks 9% on Chief Revenue Officer Exit, Fastly Drops 6% as Citi Questions AI Traffic Payoff",
-            "GameStop Tumbles 8% Despite Ryan Cohen\u2019s $26M Insider Buy; eBay Ticks Up",
-            "Jaguar Health Soars 32% as Rare-Disease Pipeline News Meets Thin Post-Split Float"
+            "MP Materials Just Sank 21% in a Month. Is It Time to Sell, or Is This a Prime Buying Opportunity?",
+            "Cleveland-Cliffs Sinks 9% as Selloff Outruns Steel Group; Nucor and Steel Dynamics Pull Back",
+            "AMC Spikes 13% as Refinancing Rally Extends; Cinemark and IMAX Edge Higher",
+            "Bloom Energy Sinks 8% as Sharp Run Unwinds; Plug Power Drops 6%, FuelCell Eases",
+            "BlackBerry Jumps 4% as Record QNX Revenue Lifts Full-Year Outlook; Mobileye and Aptiv Dip",
+            "SoFi Falls 3% as Rising Yields Pressure Fintech; Affirm Drops 4%, Robinhood Slips 2%",
+            "Roblox Sinks 6% as Jefferies Cuts to Underperform With $38 Price Target; Take-Two Holds Flat, GameStop Dips",
+            "Nio Advances 3% as Geely Takes 30% Stake in Battery Swapping Unit; XPeng and Tesla Pull Back",
+            "Why Is Rocket Lab Stock Falling Today?",
+            "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Monday as Oil Prices Rise"
           ],
           "spx": [
-            "Stock market today: Dow, S&P 500, Nasdaq rise as investors shake off bond sell-off woes",
-            "Update: US Equity Indexes Jump as Crude Oil Slides Following Iran's Conditional Plan to Reopen Hormuz Chokepoint",
-            "Stock Market Today: Dow Gains 400 Points As Microsoft Jumps; Oil's Retreat Punches Chevron (Live Coverage)",
-            "The Dow Leads Market Indexes Higher as Microsoft Adds 120 Points",
-            "3 Reasons HOPE is Risky and 1 Stock to Buy Instead",
-            "2 Reasons to Watch EWBC and 1 to Stay Cautious",
-            "Update: Equities Rise Intraday as Oil Prices Fall Following Iran's Proposal",
-            "Is CoreWeave Stock Making Your Portfolio's Bad Days Worse?",
-            "How the Bulls Could Finish 2026 at All-Time Highs",
-            "2 Reasons to Avoid QCRH and 1 Stock to Buy Instead"
+            "Stock market today: Dow, S&P 500, Nasdaq fall as Treasury yields continue to climb",
+            "Why S&P 500 stock valuations are falling",
+            "What Needs To Be True To Buy Twilio Stock Now?",
+            "Update: US Equity Indexes Fall as Iran Settlement Talks Lose Momentum",
+            "MP Materials Just Sank 21% in a Month. Is It Time to Sell, or Is This a Prime Buying Opportunity?",
+            "Stock Market Today: Dow Off Lows After Iran Report; Leisure Play Tests Entry, MongoDB Dives (Live Coverage)",
+            "How Big Could BSX Stock's Next Fall Be?",
+            "3 Reasons to Avoid BILL and 1 Stock to Buy Instead",
+            "3 Reasons AFL is Risky and 1 Stock to Buy Instead",
+            "Microsoft\u2019s AI Gains Can Push the Stock Higher. That\u2019s Good News for Software Peers."
           ]
         }
       },
@@ -2469,58 +2388,48 @@
         "auto_note": "FAS PUT | $-10.61 (-6.50%) | dollar_loser_1 | Strike $145.0 exp 2026-09-25 (2DTE) | IV 57.9% | SPY +nan% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-09-25 18:45:43 PST",
-        "gap_days": 2,
+        "scanned_at": "2026-09-28 20:10:38 PST",
+        "gap_days": 5,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bullish",
-        "spx_sentiment": "bullish",
+        "spy_sentiment": "bearish",
+        "spx_sentiment": "neutral",
         "keywords_found": [],
         "spy_keywords": [
-          "upgrade",
-          "soars",
           "jumps",
-          "drops",
-          "tumbles"
+          "falls",
+          "drops"
         ],
-        "spx_keywords": [
-          "jumps"
-        ],
-        "decision": "sell",
-        "decision_reason": "no confirmation for PUT thesis \u2014 sell at open",
+        "spx_keywords": [],
+        "decision": "hold",
+        "decision_reason": "neutral keywords confirmed PUT thesis",
         "raw_headlines": {
           "ticker": [
-            "Exchange-Traded Funds Rise US Equities Advance After Midday",
-            "Exchange-Traded Funds, Equity Futures up Pre-Bell Friday as Treasury Yields Rise, Oil Prices Fall",
-            "Sector Update: Financial Stocks Rise Premarket Friday",
-            "Exchange-Traded Funds Mixed, US Equities Decline After Midday",
-            "Sector Update: Financial Stocks Edge Higher Pre-Bell Thursday",
-            "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Thursday Amid Ongoing Middle East Tensions Before US-China Talks",
-            "Exchange-Traded Funds, US Equities Decline After Midday",
-            "Exchange-Traded Funds Lower, Equity Futures Mixed Pre-Bell Wednesday as Traders Await Developments in US-Iran Talks"
+            "Exchange-Traded Funds Lower as US Equities Decline After Midday",
+            "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Monday as Oil Prices Rise"
           ],
           "spy": [
-            "Datadog Climbs 6%, Approaches 52-Week High While Software Group Slips; Oracle and Cloudflare Decline",
-            "Humana Jumps 7% on Barclays Upgrade and $515 Target; UnitedHealth Nudges Higher",
-            "Dell Rises 7% as Morgan Stanley Lifts Odds on $756 Bull Case; Hewlett Packard Enterprise Edges Higher",
-            "BlackBerry Drops 7% as Post-Earnings Rally Unwinds Despite Record QNX Quarter; MobilEye Adds 2%",
-            "Michael Burry Ignores AI Cheers and Hunts for Mispriced Risk",
-            "Whether You Buy Tesla Depends On The Chances That Tesla Actually Becomes an AI Firm",
-            "Microsoft Climbs 4% as Oppenheimer Lifts Target to $570 on Copilot Enterprise Pivot; Alphabet Ticks Up",
-            "Zscaler Sinks 9% on Chief Revenue Officer Exit, Fastly Drops 6% as Citi Questions AI Traffic Payoff",
-            "GameStop Tumbles 8% Despite Ryan Cohen\u2019s $26M Insider Buy; eBay Ticks Up",
-            "Jaguar Health Soars 32% as Rare-Disease Pipeline News Meets Thin Post-Split Float"
+            "MP Materials Just Sank 21% in a Month. Is It Time to Sell, or Is This a Prime Buying Opportunity?",
+            "Cleveland-Cliffs Sinks 9% as Selloff Outruns Steel Group; Nucor and Steel Dynamics Pull Back",
+            "AMC Spikes 13% as Refinancing Rally Extends; Cinemark and IMAX Edge Higher",
+            "Bloom Energy Sinks 8% as Sharp Run Unwinds; Plug Power Drops 6%, FuelCell Eases",
+            "BlackBerry Jumps 4% as Record QNX Revenue Lifts Full-Year Outlook; Mobileye and Aptiv Dip",
+            "SoFi Falls 3% as Rising Yields Pressure Fintech; Affirm Drops 4%, Robinhood Slips 2%",
+            "Roblox Sinks 6% as Jefferies Cuts to Underperform With $38 Price Target; Take-Two Holds Flat, GameStop Dips",
+            "Nio Advances 3% as Geely Takes 30% Stake in Battery Swapping Unit; XPeng and Tesla Pull Back",
+            "Why Is Rocket Lab Stock Falling Today?",
+            "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Monday as Oil Prices Rise"
           ],
           "spx": [
-            "Stock market today: Dow, S&P 500, Nasdaq rise as investors shake off bond sell-off woes",
-            "Update: US Equity Indexes Jump as Crude Oil Slides Following Iran's Conditional Plan to Reopen Hormuz Chokepoint",
-            "Stock Market Today: Dow Gains 400 Points As Microsoft Jumps; Oil's Retreat Punches Chevron (Live Coverage)",
-            "The Dow Leads Market Indexes Higher as Microsoft Adds 120 Points",
-            "3 Reasons HOPE is Risky and 1 Stock to Buy Instead",
-            "2 Reasons to Watch EWBC and 1 to Stay Cautious",
-            "Update: Equities Rise Intraday as Oil Prices Fall Following Iran's Proposal",
-            "Is CoreWeave Stock Making Your Portfolio's Bad Days Worse?",
-            "How the Bulls Could Finish 2026 at All-Time Highs",
-            "2 Reasons to Avoid QCRH and 1 Stock to Buy Instead"
+            "Stock market today: Dow, S&P 500, Nasdaq fall as Treasury yields continue to climb",
+            "Why S&P 500 stock valuations are falling",
+            "What Needs To Be True To Buy Twilio Stock Now?",
+            "Update: US Equity Indexes Fall as Iran Settlement Talks Lose Momentum",
+            "MP Materials Just Sank 21% in a Month. Is It Time to Sell, or Is This a Prime Buying Opportunity?",
+            "Stock Market Today: Dow Off Lows After Iran Report; Leisure Play Tests Entry, MongoDB Dives (Live Coverage)",
+            "How Big Could BSX Stock's Next Fall Be?",
+            "3 Reasons to Avoid BILL and 1 Stock to Buy Instead",
+            "3 Reasons AFL is Risky and 1 Stock to Buy Instead",
+            "Microsoft\u2019s AI Gains Can Push the Stock Higher. That\u2019s Good News for Software Peers."
           ]
         }
       },
@@ -2565,62 +2474,61 @@
         "auto_note": "IONQ CALL | $+1.80 (+4.42%) | dollar_gainer_1 | Strike $43.0 exp 2026-09-25 (1DTE) | IV 84.7% | SPY +nan% | MACRO: rate hike"
       },
       "news_scan": {
-        "scanned_at": "2026-09-25 18:45:43 PST",
-        "gap_days": 1,
-        "ticker_sentiment": "bullish",
-        "spy_sentiment": "bullish",
-        "spx_sentiment": "bullish",
+        "scanned_at": "2026-09-28 20:10:38 PST",
+        "gap_days": 4,
+        "ticker_sentiment": "neutral",
+        "spy_sentiment": "bearish",
+        "spx_sentiment": "neutral",
         "keywords_found": [
-          "breakthrough"
+          "upgrade",
+          "upgraded",
+          "downgrade",
+          "downgraded"
         ],
         "spy_keywords": [
-          "upgrade",
-          "soars",
           "jumps",
-          "drops",
-          "tumbles"
+          "falls",
+          "drops"
         ],
-        "spx_keywords": [
-          "jumps"
-        ],
-        "decision": "hold",
-        "decision_reason": "bullish keywords confirmed CALL thesis",
+        "spx_keywords": [],
+        "decision": "sell",
+        "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
         "raw_headlines": {
           "ticker": [
-            "Quantum Is a $850 Billion Dream. Microsoft and Amazon Are Betting Big on It.",
-            "Quantum Computing Stocks Tumble After Stunning Rally",
-            "IonQ Has Made Another Quantum Computing Breakthrough: Here's What a $1,000 Investment in It Could Look Like in 5 Years",
-            "Rigetti Computing (RGTI) Rides Quantum Momentum, Does The Valuation Already Look Full?",
-            "Better Quantum Computing Stock: Nvidia vs. IonQ",
-            "QUBT vs. IONQ: Which Quantum Stock Should You Buy, Hold or Sell Now?",
-            "$500 Invested in IonQ Now Could 10x if Quantum AI Hits by 2029",
-            "How IonQ\u2019s On\u2011Prem Quantum System At NVIDIA (NVDA) Has Changed Its Investment Story",
-            "Quantum Stocks Near Q3 Finish Line: How IONQ, RGTI & QBTS Are Faring",
-            "IonQ Rises 4% as Post-Breakthrough Buying Continues; D-Wave Quantum Gains 3%, Rigetti Adds 2%"
+            "IonQ Shares Rise After BofA Starts Coverage at Buy",
+            "IonQ Stock Gets BofA's Buy Call In Quantum Computing Race",
+            "Bank of America Doubles Down on IonQ Stock For Key Reason",
+            "This Quantum Computing Stock Has Gained For Six Straight Sessions, With A Buy Call From BofA",
+            "IonQ gets initated at Buy as BofA backs its chips-over-lasers approach",
+            "IonQ Is Building the Infrastructure for Quantum Computing. The Stock Market Is Taking Notice.",
+            "Roblox downgraded, Royal Caribbean upgraded: Wall Street's top analyst calls",
+            "IonQ Takes Quantum Computing to NVIDIA's Research Center: What's Next?",
+            "5 Millionaire-Maker Quantum Computing Stocks to Buy Now",
+            "3 of Wall Street\u2019s Favorite Stocks to Keep an Eye On"
           ],
           "spy": [
-            "Datadog Climbs 6%, Approaches 52-Week High While Software Group Slips; Oracle and Cloudflare Decline",
-            "Humana Jumps 7% on Barclays Upgrade and $515 Target; UnitedHealth Nudges Higher",
-            "Dell Rises 7% as Morgan Stanley Lifts Odds on $756 Bull Case; Hewlett Packard Enterprise Edges Higher",
-            "BlackBerry Drops 7% as Post-Earnings Rally Unwinds Despite Record QNX Quarter; MobilEye Adds 2%",
-            "Michael Burry Ignores AI Cheers and Hunts for Mispriced Risk",
-            "Whether You Buy Tesla Depends On The Chances That Tesla Actually Becomes an AI Firm",
-            "Microsoft Climbs 4% as Oppenheimer Lifts Target to $570 on Copilot Enterprise Pivot; Alphabet Ticks Up",
-            "Zscaler Sinks 9% on Chief Revenue Officer Exit, Fastly Drops 6% as Citi Questions AI Traffic Payoff",
-            "GameStop Tumbles 8% Despite Ryan Cohen\u2019s $26M Insider Buy; eBay Ticks Up",
-            "Jaguar Health Soars 32% as Rare-Disease Pipeline News Meets Thin Post-Split Float"
+            "MP Materials Just Sank 21% in a Month. Is It Time to Sell, or Is This a Prime Buying Opportunity?",
+            "Cleveland-Cliffs Sinks 9% as Selloff Outruns Steel Group; Nucor and Steel Dynamics Pull Back",
+            "AMC Spikes 13% as Refinancing Rally Extends; Cinemark and IMAX Edge Higher",
+            "Bloom Energy Sinks 8% as Sharp Run Unwinds; Plug Power Drops 6%, FuelCell Eases",
+            "BlackBerry Jumps 4% as Record QNX Revenue Lifts Full-Year Outlook; Mobileye and Aptiv Dip",
+            "SoFi Falls 3% as Rising Yields Pressure Fintech; Affirm Drops 4%, Robinhood Slips 2%",
+            "Roblox Sinks 6% as Jefferies Cuts to Underperform With $38 Price Target; Take-Two Holds Flat, GameStop Dips",
+            "Nio Advances 3% as Geely Takes 30% Stake in Battery Swapping Unit; XPeng and Tesla Pull Back",
+            "Why Is Rocket Lab Stock Falling Today?",
+            "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Monday as Oil Prices Rise"
           ],
           "spx": [
-            "Stock market today: Dow, S&P 500, Nasdaq rise as investors shake off bond sell-off woes",
-            "Update: US Equity Indexes Jump as Crude Oil Slides Following Iran's Conditional Plan to Reopen Hormuz Chokepoint",
-            "Stock Market Today: Dow Gains 400 Points As Microsoft Jumps; Oil's Retreat Punches Chevron (Live Coverage)",
-            "The Dow Leads Market Indexes Higher as Microsoft Adds 120 Points",
-            "3 Reasons HOPE is Risky and 1 Stock to Buy Instead",
-            "2 Reasons to Watch EWBC and 1 to Stay Cautious",
-            "Update: Equities Rise Intraday as Oil Prices Fall Following Iran's Proposal",
-            "Is CoreWeave Stock Making Your Portfolio's Bad Days Worse?",
-            "How the Bulls Could Finish 2026 at All-Time Highs",
-            "2 Reasons to Avoid QCRH and 1 Stock to Buy Instead"
+            "Stock market today: Dow, S&P 500, Nasdaq fall as Treasury yields continue to climb",
+            "Why S&P 500 stock valuations are falling",
+            "What Needs To Be True To Buy Twilio Stock Now?",
+            "Update: US Equity Indexes Fall as Iran Settlement Talks Lose Momentum",
+            "MP Materials Just Sank 21% in a Month. Is It Time to Sell, or Is This a Prime Buying Opportunity?",
+            "Stock Market Today: Dow Off Lows After Iran Report; Leisure Play Tests Entry, MongoDB Dives (Live Coverage)",
+            "How Big Could BSX Stock's Next Fall Be?",
+            "3 Reasons to Avoid BILL and 1 Stock to Buy Instead",
+            "3 Reasons AFL is Risky and 1 Stock to Buy Instead",
+            "Microsoft\u2019s AI Gains Can Push the Stock Higher. That\u2019s Good News for Software Peers."
           ]
         }
       },
@@ -2664,7 +2572,53 @@
         ],
         "auto_note": "CRDO CALL | $+15.00 (+7.65%) | dollar_gainer_1 | Strike $250.0 exp 2026-10-02 (6DTE) | IV 83.2% | SPY +nan% | MACRO: war"
       },
-      "news_scan": null,
+      "news_scan": {
+        "scanned_at": "2026-09-28 20:10:38 PST",
+        "gap_days": 2,
+        "ticker_sentiment": "neutral",
+        "spy_sentiment": "bearish",
+        "spx_sentiment": "neutral",
+        "keywords_found": [],
+        "spy_keywords": [
+          "jumps",
+          "falls",
+          "drops"
+        ],
+        "spx_keywords": [],
+        "decision": "sell",
+        "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
+        "raw_headlines": {
+          "ticker": [
+            "3 Founder Led Stocks To Own In September 2026",
+            "Can Credo Technology (CRDO) Turn 1.6T Optical Transceivers Into Its Next AI Growth Driver?",
+            "Chip Stocks Rise After Two-Day Skid. Tower Semiconductor Among Leaders."
+          ],
+          "spy": [
+            "MP Materials Just Sank 21% in a Month. Is It Time to Sell, or Is This a Prime Buying Opportunity?",
+            "Cleveland-Cliffs Sinks 9% as Selloff Outruns Steel Group; Nucor and Steel Dynamics Pull Back",
+            "AMC Spikes 13% as Refinancing Rally Extends; Cinemark and IMAX Edge Higher",
+            "Bloom Energy Sinks 8% as Sharp Run Unwinds; Plug Power Drops 6%, FuelCell Eases",
+            "BlackBerry Jumps 4% as Record QNX Revenue Lifts Full-Year Outlook; Mobileye and Aptiv Dip",
+            "SoFi Falls 3% as Rising Yields Pressure Fintech; Affirm Drops 4%, Robinhood Slips 2%",
+            "Roblox Sinks 6% as Jefferies Cuts to Underperform With $38 Price Target; Take-Two Holds Flat, GameStop Dips",
+            "Nio Advances 3% as Geely Takes 30% Stake in Battery Swapping Unit; XPeng and Tesla Pull Back",
+            "Why Is Rocket Lab Stock Falling Today?",
+            "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Monday as Oil Prices Rise"
+          ],
+          "spx": [
+            "Stock market today: Dow, S&P 500, Nasdaq fall as Treasury yields continue to climb",
+            "Why S&P 500 stock valuations are falling",
+            "What Needs To Be True To Buy Twilio Stock Now?",
+            "Update: US Equity Indexes Fall as Iran Settlement Talks Lose Momentum",
+            "MP Materials Just Sank 21% in a Month. Is It Time to Sell, or Is This a Prime Buying Opportunity?",
+            "Stock Market Today: Dow Off Lows After Iran Report; Leisure Play Tests Entry, MongoDB Dives (Live Coverage)",
+            "How Big Could BSX Stock's Next Fall Be?",
+            "3 Reasons to Avoid BILL and 1 Stock to Buy Instead",
+            "3 Reasons AFL is Risky and 1 Stock to Buy Instead",
+            "Microsoft\u2019s AI Gains Can Push the Stock Higher. That\u2019s Good News for Software Peers."
+          ]
+        }
+      },
       "exit": null,
       "fomo": null
     }
