@@ -1,84 +1,84 @@
 {
   "topGainers": [
     {
-      "ticker": "PWP",
-      "name": "PERELLA WEINBERG PARTNERS CLASS A COM",
+      "ticker": "BEG",
+      "name": "THEMES ETF TR LEVERAGE SHS 2X",
       "sector": "Unknown",
-      "price": 16.43,
-      "changePct": 12.23,
-      "changeDollar": 1.79
+      "price": 55.6,
+      "changePct": 20.66,
+      "changeDollar": 9.52
+    },
+    {
+      "ticker": "DNA",
+      "name": "GINKGO BIOWORKS HOLDINGS INC CL A NEW",
+      "sector": "Unknown",
+      "price": 11.96,
+      "changePct": 14.34,
+      "changeDollar": 1.5
+    },
+    {
+      "ticker": "AXTX",
+      "name": "Tradr 2X Long AXTI Daily ETF",
+      "sector": "Unknown",
+      "price": 35.33,
+      "changePct": 12.16,
+      "changeDollar": 3.83
     },
     {
       "ticker": "BE",
       "name": "BLOOM ENERGY CORP COM CL A",
       "sector": "Unknown",
-      "price": 294.52,
-      "changePct": 12.04,
-      "changeDollar": 31.65
+      "price": 291.25,
+      "changePct": 10.8,
+      "changeDollar": 28.38
     },
     {
-      "ticker": "ARMG",
-      "name": "THEMES ETF TR LEVERAGE SHARES",
+      "ticker": "MVLL",
+      "name": "GRANITESHARES ETF TR 2X LONG MRVL",
       "sector": "Unknown",
-      "price": 22.17,
-      "changePct": 9.81,
-      "changeDollar": 1.98
+      "price": 35.52,
+      "changePct": 8.76,
+      "changeDollar": 2.86
     },
     {
-      "ticker": "GLWG",
-      "name": "THEMES ETF TR LEVERAGE SHS 2X",
+      "ticker": "KOLD",
+      "name": "PROSHARES TR II ULSHT BLOOMB GAS",
       "sector": "Unknown",
-      "price": 14.04,
-      "changePct": 9.18,
-      "changeDollar": 1.18
+      "price": 28.27,
+      "changePct": 8.27,
+      "changeDollar": 2.16
     },
     {
-      "ticker": "MGNI",
-      "name": "MAGNITE INC COM",
+      "ticker": "FBL",
+      "name": "GRANITESHARES ETF TR 2X LONG META ETF",
       "sector": "Unknown",
-      "price": 25.25,
-      "changePct": 7.91,
-      "changeDollar": 1.85
+      "price": 33.05,
+      "changePct": 6.48,
+      "changeDollar": 2.01
     },
     {
-      "ticker": "RCL",
-      "name": "ROYAL CARIBBEAN GROUP COM",
+      "ticker": "ABCL",
+      "name": "ABCELLERA BIOLOGICS INC COM",
       "sector": "Unknown",
-      "price": 260.71,
-      "changePct": 7.47,
-      "changeDollar": 18.12
+      "price": 14.82,
+      "changePct": 6.47,
+      "changeDollar": 0.9
     },
     {
-      "ticker": "SMMT",
-      "name": "SUMMIT THERAPEUTICS INC COM",
+      "ticker": "METU",
+      "name": "DIREXION SHARES ETF TRUST DLY META BULL 2X",
       "sector": "Unknown",
-      "price": 16.58,
-      "changePct": 7.11,
-      "changeDollar": 1.1
+      "price": 31.78,
+      "changePct": 6.39,
+      "changeDollar": 1.91
     },
     {
-      "ticker": "FCEL",
-      "name": "FUELCELL ENERGY INC COM NEW",
+      "ticker": "TTAN",
+      "name": "SERVICETITAN INC SHS CL A",
       "sector": "Unknown",
-      "price": 17.21,
-      "changePct": 6.63,
-      "changeDollar": 1.07
-    },
-    {
-      "ticker": "AXTI",
-      "name": "AXT INC COM",
-      "sector": "Unknown",
-      "price": 78.21,
-      "changePct": 6.16,
-      "changeDollar": 4.54
-    },
-    {
-      "ticker": "QMCO",
-      "name": "QUANTUM CORP COM",
-      "sector": "Unknown",
-      "price": 32.94,
-      "changePct": 4.94,
-      "changeDollar": 1.55
+      "price": 63.52,
+      "changePct": 6.01,
+      "changeDollar": 3.6
     }
   ],
   "topLosers": [
@@ -86,81 +86,81 @@
       "ticker": "FICO",
       "name": "FAIR ISAAC CORP COM",
       "sector": "Unknown",
-      "price": 616.72,
-      "changePct": -26.66,
-      "changeDollar": -224.17
+      "price": 617.87,
+      "changePct": -26.52,
+      "changeDollar": -223.02
     },
     {
-      "ticker": "WGS",
-      "name": "GENEDX HOLDINGS CORP COM CL A",
+      "ticker": "IMMX",
+      "name": "IMMIX BIOPHARMA INC COM",
       "sector": "Unknown",
-      "price": 76.51,
-      "changePct": -10.96,
-      "changeDollar": -9.42
+      "price": 10.54,
+      "changePct": -8.11,
+      "changeDollar": -0.93
     },
     {
-      "ticker": "LITZ",
-      "name": "Tradr 2X Short LITE Daily ETF",
+      "ticker": "DKNG",
+      "name": "DRAFTKINGS INC NEW COM CL A",
       "sector": "Unknown",
-      "price": 24.29,
-      "changePct": -9.6,
-      "changeDollar": -2.58
-    },
-    {
-      "ticker": "BOIL",
-      "name": "PROSHARES TR II ULTRA BLOOMBERG",
-      "sector": "Unknown",
-      "price": 19.54,
-      "changePct": -8.05,
-      "changeDollar": -1.71
+      "price": 19.59,
+      "changePct": -7.42,
+      "changeDollar": -1.57
     },
     {
       "ticker": "SRAD",
       "name": "SPORTRADAR GROUP AG CLASS A ORD SHS",
       "sector": "Unknown",
-      "price": 11.7,
-      "changePct": -6.17,
-      "changeDollar": -0.77
+      "price": 11.56,
+      "changePct": -7.37,
+      "changeDollar": -0.92
+    },
+    {
+      "ticker": "RKLX",
+      "name": "TIDAL TRUST II DEFIANCE DAILY",
+      "sector": "Unknown",
+      "price": 17.12,
+      "changePct": -6.91,
+      "changeDollar": -1.27
     },
     {
       "ticker": "BBNX",
       "name": "BETA BIONICS INC COM",
       "sector": "Unknown",
-      "price": 19.44,
-      "changePct": -5.26,
-      "changeDollar": -1.08
+      "price": 19.41,
+      "changePct": -5.41,
+      "changeDollar": -1.11
+    },
+    {
+      "ticker": "AAPU",
+      "name": "DIREXION SHARES ETF TRUST DLY AAPL BULL 2X",
+      "sector": "Unknown",
+      "price": 43.33,
+      "changePct": -5.23,
+      "changeDollar": -2.39
     },
     {
       "ticker": "FLY",
       "name": "FIREFLY AEROSPACE INC COM",
       "sector": "Unknown",
-      "price": 23.03,
-      "changePct": -4.48,
-      "changeDollar": -1.08
+      "price": 22.86,
+      "changePct": -5.18,
+      "changeDollar": -1.25
     },
     {
-      "ticker": "EFX",
-      "name": "EQUIFAX INC COM",
+      "ticker": "USO",
+      "name": "UNITED STS OIL FD LP UNITS",
       "sector": "Unknown",
-      "price": 139.51,
-      "changePct": -4.3,
-      "changeDollar": -6.27
+      "price": 143.35,
+      "changePct": -4.44,
+      "changeDollar": -6.66
     },
     {
-      "ticker": "PENN",
-      "name": "PENN ENTERTAINMENT INC COM",
+      "ticker": "DBO",
+      "name": "INVESCO DB MULTI-SECTOR COMMOD OIL FD",
       "sector": "Unknown",
-      "price": 14.6,
-      "changePct": -4.2,
-      "changeDollar": -0.64
-    },
-    {
-      "ticker": "BKSY",
-      "name": "BLACKSKY TECHNOLOGY INC CL A NEW",
-      "sector": "Unknown",
-      "price": 22.02,
-      "changePct": -4.05,
-      "changeDollar": -0.93
+      "price": 23.38,
+      "changePct": -4.38,
+      "changeDollar": -1.07
     }
   ],
   "dollarGainers": [
@@ -168,41 +168,41 @@
       "ticker": "BE",
       "name": "BLOOM ENERGY CORP COM CL A",
       "sector": "Unknown",
-      "price": 294.52,
-      "changePct": 12.04,
-      "changeDollar": 31.65
+      "price": 291.25,
+      "changePct": 10.8,
+      "changeDollar": 28.38
     },
     {
-      "ticker": "RCL",
-      "name": "ROYAL CARIBBEAN GROUP COM",
+      "ticker": "BEG",
+      "name": "THEMES ETF TR LEVERAGE SHS 2X",
       "sector": "Unknown",
-      "price": 260.71,
-      "changePct": 7.47,
-      "changeDollar": 18.12
+      "price": 55.6,
+      "changePct": 20.66,
+      "changeDollar": 9.52
     },
     {
-      "ticker": "AXTI",
-      "name": "AXT INC COM",
+      "ticker": "AXTX",
+      "name": "Tradr 2X Long AXTI Daily ETF",
       "sector": "Unknown",
-      "price": 78.21,
-      "changePct": 6.16,
-      "changeDollar": 4.54
+      "price": 35.33,
+      "changePct": 12.16,
+      "changeDollar": 3.83
     },
     {
-      "ticker": "ARMG",
-      "name": "THEMES ETF TR LEVERAGE SHARES",
+      "ticker": "TTAN",
+      "name": "SERVICETITAN INC SHS CL A",
       "sector": "Unknown",
-      "price": 22.17,
-      "changePct": 9.81,
-      "changeDollar": 1.98
+      "price": 63.52,
+      "changePct": 6.01,
+      "changeDollar": 3.6
     },
     {
-      "ticker": "MGNI",
-      "name": "MAGNITE INC COM",
+      "ticker": "MVLL",
+      "name": "GRANITESHARES ETF TR 2X LONG MRVL",
       "sector": "Unknown",
-      "price": 25.25,
-      "changePct": 7.91,
-      "changeDollar": 1.85
+      "price": 35.52,
+      "changePct": 8.76,
+      "changeDollar": 2.86
     }
   ],
   "dollarLosers": [
@@ -210,41 +210,41 @@
       "ticker": "FICO",
       "name": "FAIR ISAAC CORP COM",
       "sector": "Unknown",
-      "price": 616.72,
-      "changePct": -26.66,
-      "changeDollar": -224.17
+      "price": 617.87,
+      "changePct": -26.52,
+      "changeDollar": -223.02
     },
     {
-      "ticker": "WGS",
-      "name": "GENEDX HOLDINGS CORP COM CL A",
+      "ticker": "USO",
+      "name": "UNITED STS OIL FD LP UNITS",
       "sector": "Unknown",
-      "price": 76.51,
-      "changePct": -10.96,
-      "changeDollar": -9.42
+      "price": 143.35,
+      "changePct": -4.44,
+      "changeDollar": -6.66
     },
     {
-      "ticker": "EFX",
-      "name": "EQUIFAX INC COM",
+      "ticker": "AAPU",
+      "name": "DIREXION SHARES ETF TRUST DLY AAPL BULL 2X",
       "sector": "Unknown",
-      "price": 139.51,
-      "changePct": -4.3,
-      "changeDollar": -6.27
+      "price": 43.33,
+      "changePct": -5.23,
+      "changeDollar": -2.39
     },
     {
-      "ticker": "LITZ",
-      "name": "Tradr 2X Short LITE Daily ETF",
+      "ticker": "DKNG",
+      "name": "DRAFTKINGS INC NEW COM CL A",
       "sector": "Unknown",
-      "price": 24.29,
-      "changePct": -9.6,
-      "changeDollar": -2.58
+      "price": 19.59,
+      "changePct": -7.42,
+      "changeDollar": -1.57
     },
     {
-      "ticker": "BOIL",
-      "name": "PROSHARES TR II ULTRA BLOOMBERG",
+      "ticker": "RKLX",
+      "name": "TIDAL TRUST II DEFIANCE DAILY",
       "sector": "Unknown",
-      "price": 19.54,
-      "changePct": -8.05,
-      "changeDollar": -1.71
+      "price": 17.12,
+      "changePct": -6.91,
+      "changeDollar": -1.27
     }
   ]
 }
