@@ -1,12 +1,20 @@
 {
   "topGainers": [
     {
-      "ticker": "BEG",
-      "name": "THEMES ETF TR LEVERAGE SHS 2X",
+      "ticker": "IOVA",
+      "name": "IOVANCE BIOTHERAPEUTICS INC COM",
       "sector": "Unknown",
-      "price": 55.6,
-      "changePct": 20.66,
-      "changeDollar": 9.52
+      "price": 14.45,
+      "changePct": 31.48,
+      "changeDollar": 3.46
+    },
+    {
+      "ticker": "BEX",
+      "name": "Tradr 2X Long BE Daily ETF",
+      "sector": "Unknown",
+      "price": 40.08,
+      "changePct": 21.38,
+      "changeDollar": 7.06
     },
     {
       "ticker": "DNA",
@@ -17,20 +25,36 @@
       "changeDollar": 1.5
     },
     {
-      "ticker": "AXTX",
-      "name": "Tradr 2X Long AXTI Daily ETF",
+      "ticker": "WW",
+      "name": "WW INTL INC COM NEW",
       "sector": "Unknown",
-      "price": 35.33,
-      "changePct": 12.16,
-      "changeDollar": 3.83
+      "price": 17.1,
+      "changePct": 13.77,
+      "changeDollar": 2.07
     },
     {
-      "ticker": "BE",
-      "name": "BLOOM ENERGY CORP COM CL A",
+      "ticker": "CCL",
+      "name": "CARNIVAL CORP LTD COMMON SHARES",
       "sector": "Unknown",
-      "price": 291.25,
-      "changePct": 10.8,
-      "changeDollar": 28.38
+      "price": 25.11,
+      "changePct": 13.41,
+      "changeDollar": 2.97
+    },
+    {
+      "ticker": "WRBY",
+      "name": "WARBY PARKER INC CL A COM",
+      "sector": "Unknown",
+      "price": 27.47,
+      "changePct": 11.39,
+      "changeDollar": 2.81
+    },
+    {
+      "ticker": "LITX",
+      "name": "Tradr 2X Long LITE Daily ETF",
+      "sector": "Unknown",
+      "price": 34.15,
+      "changePct": 11.13,
+      "changeDollar": 3.42
     },
     {
       "ticker": "MVLL",
@@ -49,54 +73,22 @@
       "changeDollar": 2.16
     },
     {
-      "ticker": "FBL",
-      "name": "GRANITESHARES ETF TR 2X LONG META ETF",
+      "ticker": "ORCX",
+      "name": "TIDAL TRUST II DEFIANCE DAILY",
       "sector": "Unknown",
-      "price": 33.05,
-      "changePct": 6.48,
-      "changeDollar": 2.01
-    },
-    {
-      "ticker": "ABCL",
-      "name": "ABCELLERA BIOLOGICS INC COM",
-      "sector": "Unknown",
-      "price": 14.82,
-      "changePct": 6.47,
-      "changeDollar": 0.9
-    },
-    {
-      "ticker": "METU",
-      "name": "DIREXION SHARES ETF TRUST DLY META BULL 2X",
-      "sector": "Unknown",
-      "price": 31.78,
-      "changePct": 6.39,
-      "changeDollar": 1.91
-    },
-    {
-      "ticker": "TTAN",
-      "name": "SERVICETITAN INC SHS CL A",
-      "sector": "Unknown",
-      "price": 63.52,
-      "changePct": 6.01,
-      "changeDollar": 3.6
+      "price": 18.55,
+      "changePct": 7.91,
+      "changeDollar": 1.36
     }
   ],
   "topLosers": [
     {
-      "ticker": "FICO",
-      "name": "FAIR ISAAC CORP COM",
+      "ticker": "AAOZ",
+      "name": "Tradr 2X Short AAOI Daily ETF",
       "sector": "Unknown",
-      "price": 617.87,
-      "changePct": -26.52,
-      "changeDollar": -223.02
-    },
-    {
-      "ticker": "IMMX",
-      "name": "IMMIX BIOPHARMA INC COM",
-      "sector": "Unknown",
-      "price": 10.54,
-      "changePct": -8.11,
-      "changeDollar": -0.93
+      "price": 13.76,
+      "changePct": -8.33,
+      "changeDollar": -1.25
     },
     {
       "ticker": "DKNG",
@@ -107,94 +99,102 @@
       "changeDollar": -1.57
     },
     {
-      "ticker": "SRAD",
-      "name": "SPORTRADAR GROUP AG CLASS A ORD SHS",
+      "ticker": "METQ",
+      "name": "Tradr 2X Short META Daily ETF",
       "sector": "Unknown",
-      "price": 11.56,
-      "changePct": -7.37,
-      "changeDollar": -0.92
+      "price": 13.51,
+      "changePct": -6.44,
+      "changeDollar": -0.93
     },
     {
-      "ticker": "RKLX",
-      "name": "TIDAL TRUST II DEFIANCE DAILY",
+      "ticker": "SNK",
+      "name": "GraniteShares 2x Short SpaceX Daily ETF",
       "sector": "Unknown",
-      "price": 17.12,
-      "changePct": -6.91,
-      "changeDollar": -1.27
-    },
-    {
-      "ticker": "BBNX",
-      "name": "BETA BIONICS INC COM",
-      "sector": "Unknown",
-      "price": 19.41,
-      "changePct": -5.41,
-      "changeDollar": -1.11
-    },
-    {
-      "ticker": "AAPU",
-      "name": "DIREXION SHARES ETF TRUST DLY AAPL BULL 2X",
-      "sector": "Unknown",
-      "price": 43.33,
-      "changePct": -5.23,
-      "changeDollar": -2.39
-    },
-    {
-      "ticker": "FLY",
-      "name": "FIREFLY AEROSPACE INC COM",
-      "sector": "Unknown",
-      "price": 22.86,
+      "price": 14.82,
       "changePct": -5.18,
-      "changeDollar": -1.25
+      "changeDollar": -0.81
     },
     {
-      "ticker": "USO",
-      "name": "UNITED STS OIL FD LP UNITS",
+      "ticker": "HRI",
+      "name": "HERC HLDGS INC COM",
       "sector": "Unknown",
-      "price": 143.35,
-      "changePct": -4.44,
+      "price": 127.24,
+      "changePct": -4.97,
       "changeDollar": -6.66
     },
     {
-      "ticker": "DBO",
-      "name": "INVESCO DB MULTI-SECTOR COMMOD OIL FD",
+      "ticker": "NBIZ",
+      "name": "Tradr 2X Short NBIS Daily ETF",
       "sector": "Unknown",
-      "price": 23.38,
-      "changePct": -4.38,
-      "changeDollar": -1.07
+      "price": 20.41,
+      "changePct": -4.72,
+      "changeDollar": -1.01
+    },
+    {
+      "ticker": "BKSY",
+      "name": "BLACKSKY TECHNOLOGY INC CL A NEW",
+      "sector": "Unknown",
+      "price": 21.89,
+      "changePct": -4.62,
+      "changeDollar": -1.06
+    },
+    {
+      "ticker": "MDA",
+      "name": "MDA SPACE LTD COM",
+      "sector": "Unknown",
+      "price": 29.64,
+      "changePct": -4.54,
+      "changeDollar": -1.41
+    },
+    {
+      "ticker": "WK",
+      "name": "WORKIVA INC COM CL A",
+      "sector": "Unknown",
+      "price": 65.15,
+      "changePct": -4.46,
+      "changeDollar": -3.04
+    },
+    {
+      "ticker": "SMU",
+      "name": "Tradr 2X Long SMR Daily ETF",
+      "sector": "Unknown",
+      "price": 15.45,
+      "changePct": -4.22,
+      "changeDollar": -0.68
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "BE",
-      "name": "BLOOM ENERGY CORP COM CL A",
+      "ticker": "BEX",
+      "name": "Tradr 2X Long BE Daily ETF",
       "sector": "Unknown",
-      "price": 291.25,
-      "changePct": 10.8,
-      "changeDollar": 28.38
+      "price": 40.08,
+      "changePct": 21.38,
+      "changeDollar": 7.06
     },
     {
-      "ticker": "BEG",
-      "name": "THEMES ETF TR LEVERAGE SHS 2X",
+      "ticker": "IOVA",
+      "name": "IOVANCE BIOTHERAPEUTICS INC COM",
       "sector": "Unknown",
-      "price": 55.6,
-      "changePct": 20.66,
-      "changeDollar": 9.52
+      "price": 14.45,
+      "changePct": 31.48,
+      "changeDollar": 3.46
     },
     {
-      "ticker": "AXTX",
-      "name": "Tradr 2X Long AXTI Daily ETF",
+      "ticker": "LITX",
+      "name": "Tradr 2X Long LITE Daily ETF",
       "sector": "Unknown",
-      "price": 35.33,
-      "changePct": 12.16,
-      "changeDollar": 3.83
+      "price": 34.15,
+      "changePct": 11.13,
+      "changeDollar": 3.42
     },
     {
-      "ticker": "TTAN",
-      "name": "SERVICETITAN INC SHS CL A",
+      "ticker": "CCL",
+      "name": "CARNIVAL CORP LTD COMMON SHARES",
       "sector": "Unknown",
-      "price": 63.52,
-      "changePct": 6.01,
-      "changeDollar": 3.6
+      "price": 25.11,
+      "changePct": 13.41,
+      "changeDollar": 2.97
     },
     {
       "ticker": "MVLL",
@@ -207,28 +207,20 @@
   ],
   "dollarLosers": [
     {
-      "ticker": "FICO",
-      "name": "FAIR ISAAC CORP COM",
+      "ticker": "HRI",
+      "name": "HERC HLDGS INC COM",
       "sector": "Unknown",
-      "price": 617.87,
-      "changePct": -26.52,
-      "changeDollar": -223.02
-    },
-    {
-      "ticker": "USO",
-      "name": "UNITED STS OIL FD LP UNITS",
-      "sector": "Unknown",
-      "price": 143.35,
-      "changePct": -4.44,
+      "price": 127.24,
+      "changePct": -4.97,
       "changeDollar": -6.66
     },
     {
-      "ticker": "AAPU",
-      "name": "DIREXION SHARES ETF TRUST DLY AAPL BULL 2X",
+      "ticker": "WK",
+      "name": "WORKIVA INC COM CL A",
       "sector": "Unknown",
-      "price": 43.33,
-      "changePct": -5.23,
-      "changeDollar": -2.39
+      "price": 65.15,
+      "changePct": -4.46,
+      "changeDollar": -3.04
     },
     {
       "ticker": "DKNG",
@@ -239,12 +231,20 @@
       "changeDollar": -1.57
     },
     {
-      "ticker": "RKLX",
-      "name": "TIDAL TRUST II DEFIANCE DAILY",
+      "ticker": "MDA",
+      "name": "MDA SPACE LTD COM",
       "sector": "Unknown",
-      "price": 17.12,
-      "changePct": -6.91,
-      "changeDollar": -1.27
+      "price": 29.64,
+      "changePct": -4.54,
+      "changeDollar": -1.41
+    },
+    {
+      "ticker": "AAOZ",
+      "name": "Tradr 2X Short AAOI Daily ETF",
+      "sector": "Unknown",
+      "price": 13.76,
+      "changePct": -8.33,
+      "changeDollar": -1.25
     }
   ]
 }
