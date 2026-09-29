@@ -1,170 +1,250 @@
 {
   "topGainers": [
     {
-      "ticker": "SHEL",
-      "name": "SHELL PLC SPON ADS",
+      "ticker": "PWP",
+      "name": "PERELLA WEINBERG PARTNERS CLASS A COM",
       "sector": "Unknown",
-      "price": 96.47,
-      "changePct": 0.72,
-      "changeDollar": 0.69
+      "price": 16.43,
+      "changePct": 12.23,
+      "changeDollar": 1.79
     },
     {
-      "ticker": "WLY",
-      "name": "WILEY JOHN & SONS INC CL A",
+      "ticker": "BE",
+      "name": "BLOOM ENERGY CORP COM CL A",
       "sector": "Unknown",
-      "price": 47.61,
-      "changePct": 0.13,
-      "changeDollar": 0.06
+      "price": 294.52,
+      "changePct": 12.04,
+      "changeDollar": 31.65
     },
     {
-      "ticker": "JMST",
-      "name": "J P MORGAN EXCHANGE TRADED FD ULTRA SHT MUNCPL",
+      "ticker": "ARMG",
+      "name": "THEMES ETF TR LEVERAGE SHARES",
       "sector": "Unknown",
-      "price": 50.56,
-      "changePct": -0.06,
-      "changeDollar": -0.03
+      "price": 22.17,
+      "changePct": 9.81,
+      "changeDollar": 1.98
     },
     {
-      "ticker": "TDTT",
-      "name": "FLEXSHARES TR NRTRN TR IBOXX 3",
+      "ticker": "GLWG",
+      "name": "THEMES ETF TR LEVERAGE SHS 2X",
       "sector": "Unknown",
-      "price": 23.21,
-      "changePct": -0.17,
-      "changeDollar": -0.04
+      "price": 14.04,
+      "changePct": 9.18,
+      "changeDollar": 1.18
     },
     {
-      "ticker": "ADEA",
-      "name": "ADEIA INC COM",
+      "ticker": "MGNI",
+      "name": "MAGNITE INC COM",
       "sector": "Unknown",
-      "price": 24.92,
-      "changePct": -2.2,
-      "changeDollar": -0.56
+      "price": 25.25,
+      "changePct": 7.91,
+      "changeDollar": 1.85
+    },
+    {
+      "ticker": "RCL",
+      "name": "ROYAL CARIBBEAN GROUP COM",
+      "sector": "Unknown",
+      "price": 260.71,
+      "changePct": 7.47,
+      "changeDollar": 18.12
+    },
+    {
+      "ticker": "SMMT",
+      "name": "SUMMIT THERAPEUTICS INC COM",
+      "sector": "Unknown",
+      "price": 16.58,
+      "changePct": 7.11,
+      "changeDollar": 1.1
+    },
+    {
+      "ticker": "FCEL",
+      "name": "FUELCELL ENERGY INC COM NEW",
+      "sector": "Unknown",
+      "price": 17.21,
+      "changePct": 6.63,
+      "changeDollar": 1.07
+    },
+    {
+      "ticker": "AXTI",
+      "name": "AXT INC COM",
+      "sector": "Unknown",
+      "price": 78.21,
+      "changePct": 6.16,
+      "changeDollar": 4.54
+    },
+    {
+      "ticker": "QMCO",
+      "name": "QUANTUM CORP COM",
+      "sector": "Unknown",
+      "price": 32.94,
+      "changePct": 4.94,
+      "changeDollar": 1.55
     }
   ],
   "topLosers": [
     {
-      "ticker": "ADEA",
-      "name": "ADEIA INC COM",
+      "ticker": "FICO",
+      "name": "FAIR ISAAC CORP COM",
       "sector": "Unknown",
-      "price": 24.92,
-      "changePct": -2.2,
-      "changeDollar": -0.56
+      "price": 616.72,
+      "changePct": -26.66,
+      "changeDollar": -224.17
     },
     {
-      "ticker": "TDTT",
-      "name": "FLEXSHARES TR NRTRN TR IBOXX 3",
+      "ticker": "WGS",
+      "name": "GENEDX HOLDINGS CORP COM CL A",
       "sector": "Unknown",
-      "price": 23.21,
-      "changePct": -0.17,
-      "changeDollar": -0.04
+      "price": 76.51,
+      "changePct": -10.96,
+      "changeDollar": -9.42
     },
     {
-      "ticker": "JMST",
-      "name": "J P MORGAN EXCHANGE TRADED FD ULTRA SHT MUNCPL",
+      "ticker": "LITZ",
+      "name": "Tradr 2X Short LITE Daily ETF",
       "sector": "Unknown",
-      "price": 50.56,
-      "changePct": -0.06,
-      "changeDollar": -0.03
+      "price": 24.29,
+      "changePct": -9.6,
+      "changeDollar": -2.58
     },
     {
-      "ticker": "WLY",
-      "name": "WILEY JOHN & SONS INC CL A",
+      "ticker": "BOIL",
+      "name": "PROSHARES TR II ULTRA BLOOMBERG",
       "sector": "Unknown",
-      "price": 47.61,
-      "changePct": 0.13,
-      "changeDollar": 0.06
+      "price": 19.54,
+      "changePct": -8.05,
+      "changeDollar": -1.71
     },
     {
-      "ticker": "SHEL",
-      "name": "SHELL PLC SPON ADS",
+      "ticker": "SRAD",
+      "name": "SPORTRADAR GROUP AG CLASS A ORD SHS",
       "sector": "Unknown",
-      "price": 96.47,
-      "changePct": 0.72,
-      "changeDollar": 0.69
+      "price": 11.7,
+      "changePct": -6.17,
+      "changeDollar": -0.77
+    },
+    {
+      "ticker": "BBNX",
+      "name": "BETA BIONICS INC COM",
+      "sector": "Unknown",
+      "price": 19.44,
+      "changePct": -5.26,
+      "changeDollar": -1.08
+    },
+    {
+      "ticker": "FLY",
+      "name": "FIREFLY AEROSPACE INC COM",
+      "sector": "Unknown",
+      "price": 23.03,
+      "changePct": -4.48,
+      "changeDollar": -1.08
+    },
+    {
+      "ticker": "EFX",
+      "name": "EQUIFAX INC COM",
+      "sector": "Unknown",
+      "price": 139.51,
+      "changePct": -4.3,
+      "changeDollar": -6.27
+    },
+    {
+      "ticker": "PENN",
+      "name": "PENN ENTERTAINMENT INC COM",
+      "sector": "Unknown",
+      "price": 14.6,
+      "changePct": -4.2,
+      "changeDollar": -0.64
+    },
+    {
+      "ticker": "BKSY",
+      "name": "BLACKSKY TECHNOLOGY INC CL A NEW",
+      "sector": "Unknown",
+      "price": 22.02,
+      "changePct": -4.05,
+      "changeDollar": -0.93
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "SHEL",
-      "name": "SHELL PLC SPON ADS",
+      "ticker": "BE",
+      "name": "BLOOM ENERGY CORP COM CL A",
       "sector": "Unknown",
-      "price": 96.47,
-      "changePct": 0.72,
-      "changeDollar": 0.69
+      "price": 294.52,
+      "changePct": 12.04,
+      "changeDollar": 31.65
     },
     {
-      "ticker": "WLY",
-      "name": "WILEY JOHN & SONS INC CL A",
+      "ticker": "RCL",
+      "name": "ROYAL CARIBBEAN GROUP COM",
       "sector": "Unknown",
-      "price": 47.61,
-      "changePct": 0.13,
-      "changeDollar": 0.06
+      "price": 260.71,
+      "changePct": 7.47,
+      "changeDollar": 18.12
     },
     {
-      "ticker": "JMST",
-      "name": "J P MORGAN EXCHANGE TRADED FD ULTRA SHT MUNCPL",
+      "ticker": "AXTI",
+      "name": "AXT INC COM",
       "sector": "Unknown",
-      "price": 50.56,
-      "changePct": -0.06,
-      "changeDollar": -0.03
+      "price": 78.21,
+      "changePct": 6.16,
+      "changeDollar": 4.54
     },
     {
-      "ticker": "TDTT",
-      "name": "FLEXSHARES TR NRTRN TR IBOXX 3",
+      "ticker": "ARMG",
+      "name": "THEMES ETF TR LEVERAGE SHARES",
       "sector": "Unknown",
-      "price": 23.21,
-      "changePct": -0.17,
-      "changeDollar": -0.04
+      "price": 22.17,
+      "changePct": 9.81,
+      "changeDollar": 1.98
     },
     {
-      "ticker": "ADEA",
-      "name": "ADEIA INC COM",
+      "ticker": "MGNI",
+      "name": "MAGNITE INC COM",
       "sector": "Unknown",
-      "price": 24.92,
-      "changePct": -2.2,
-      "changeDollar": -0.56
+      "price": 25.25,
+      "changePct": 7.91,
+      "changeDollar": 1.85
     }
   ],
   "dollarLosers": [
     {
-      "ticker": "SHEL",
-      "name": "SHELL PLC SPON ADS",
+      "ticker": "FICO",
+      "name": "FAIR ISAAC CORP COM",
       "sector": "Unknown",
-      "price": 96.47,
-      "changePct": 0.72,
-      "changeDollar": 0.69
+      "price": 616.72,
+      "changePct": -26.66,
+      "changeDollar": -224.17
     },
     {
-      "ticker": "ADEA",
-      "name": "ADEIA INC COM",
+      "ticker": "WGS",
+      "name": "GENEDX HOLDINGS CORP COM CL A",
       "sector": "Unknown",
-      "price": 24.92,
-      "changePct": -2.2,
-      "changeDollar": -0.56
+      "price": 76.51,
+      "changePct": -10.96,
+      "changeDollar": -9.42
     },
     {
-      "ticker": "WLY",
-      "name": "WILEY JOHN & SONS INC CL A",
+      "ticker": "EFX",
+      "name": "EQUIFAX INC COM",
       "sector": "Unknown",
-      "price": 47.61,
-      "changePct": 0.13,
-      "changeDollar": 0.06
+      "price": 139.51,
+      "changePct": -4.3,
+      "changeDollar": -6.27
     },
     {
-      "ticker": "TDTT",
-      "name": "FLEXSHARES TR NRTRN TR IBOXX 3",
+      "ticker": "LITZ",
+      "name": "Tradr 2X Short LITE Daily ETF",
       "sector": "Unknown",
-      "price": 23.21,
-      "changePct": -0.17,
-      "changeDollar": -0.04
+      "price": 24.29,
+      "changePct": -9.6,
+      "changeDollar": -2.58
     },
     {
-      "ticker": "JMST",
-      "name": "J P MORGAN EXCHANGE TRADED FD ULTRA SHT MUNCPL",
+      "ticker": "BOIL",
+      "name": "PROSHARES TR II ULTRA BLOOMBERG",
       "sector": "Unknown",
-      "price": 50.56,
-      "changePct": -0.06,
-      "changeDollar": -0.03
+      "price": 19.54,
+      "changePct": -8.05,
+      "changeDollar": -1.71
     }
   ]
 }
