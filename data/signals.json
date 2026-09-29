@@ -1,250 +1,170 @@
 {
   "topGainers": [
     {
-      "ticker": "DLLL",
-      "name": "GRANITESHARES ETF TR 2X LONG DELL ETF",
+      "ticker": "SHEL",
+      "name": "SHELL PLC SPON ADS",
       "sector": "Unknown",
-      "price": 35.67,
-      "changePct": 9.82,
-      "changeDollar": 3.19
+      "price": 96.47,
+      "changePct": 0.72,
+      "changeDollar": 0.69
     },
     {
-      "ticker": "VECO",
-      "name": "VEECO INSTRS INC DEL COM",
+      "ticker": "WLY",
+      "name": "WILEY JOHN & SONS INC CL A",
       "sector": "Unknown",
-      "price": 49.67,
-      "changePct": 9.28,
-      "changeDollar": 4.22
+      "price": 47.61,
+      "changePct": 0.13,
+      "changeDollar": 0.06
     },
     {
-      "ticker": "SMCX",
-      "name": "TIDAL TRUST II DEFI DA SMCI ETF",
+      "ticker": "JMST",
+      "name": "J P MORGAN EXCHANGE TRADED FD ULTRA SHT MUNCPL",
       "sector": "Unknown",
-      "price": 15.26,
-      "changePct": 8.3,
-      "changeDollar": 1.17
+      "price": 50.56,
+      "changePct": -0.06,
+      "changeDollar": -0.03
     },
     {
-      "ticker": "SOLT",
-      "name": "VOLATILITY SHS TR 2X SOLANA ETF",
+      "ticker": "TDTT",
+      "name": "FLEXSHARES TR NRTRN TR IBOXX 3",
       "sector": "Unknown",
-      "price": 80.62,
-      "changePct": 7.97,
-      "changeDollar": 5.95
+      "price": 23.21,
+      "changePct": -0.17,
+      "changeDollar": -0.04
     },
     {
-      "ticker": "CRDO",
-      "name": "CREDO TECHNOLOGY GROUP HOLDING ORDINARY SHARES",
+      "ticker": "ADEA",
+      "name": "ADEIA INC COM",
       "sector": "Unknown",
-      "price": 210.97,
-      "changePct": 7.65,
-      "changeDollar": 15.0
-    },
-    {
-      "ticker": "AEHR",
-      "name": "AEHR TEST SYS COM",
-      "sector": "Unknown",
-      "price": 104.39,
-      "changePct": 7.15,
-      "changeDollar": 6.97
-    },
-    {
-      "ticker": "HHH",
-      "name": "HOWARD HUGHES HOLDINGS INC COM",
-      "sector": "Unknown",
-      "price": 68.43,
-      "changePct": 5.96,
-      "changeDollar": 3.85
-    },
-    {
-      "ticker": "ON",
-      "name": "ON SEMICONDUCTOR CORP COM",
-      "sector": "Unknown",
-      "price": 77.2,
-      "changePct": 5.54,
-      "changeDollar": 4.05
-    },
-    {
-      "ticker": "OLED",
-      "name": "UNIVERSAL DISPLAY CORP COM",
-      "sector": "Unknown",
-      "price": 77.39,
-      "changePct": 5.38,
-      "changeDollar": 3.95
-    },
-    {
-      "ticker": "BV",
-      "name": "BRIGHTVIEW HLDGS INC COM",
-      "sector": "Unknown",
-      "price": 10.41,
-      "changePct": 5.05,
-      "changeDollar": 0.5
+      "price": 24.92,
+      "changePct": -2.2,
+      "changeDollar": -0.56
     }
   ],
   "topLosers": [
     {
-      "ticker": "RPD",
-      "name": "RAPID7 INC COM",
+      "ticker": "ADEA",
+      "name": "ADEIA INC COM",
       "sector": "Unknown",
-      "price": 11.62,
-      "changePct": -9.57,
-      "changeDollar": -1.23
+      "price": 24.92,
+      "changePct": -2.2,
+      "changeDollar": -0.56
     },
     {
-      "ticker": "AXTQ",
-      "name": "Tradr 2X Short AXTI Daily ETF",
+      "ticker": "TDTT",
+      "name": "FLEXSHARES TR NRTRN TR IBOXX 3",
       "sector": "Unknown",
-      "price": 23.39,
-      "changePct": -7.91,
-      "changeDollar": -2.01
+      "price": 23.21,
+      "changePct": -0.17,
+      "changeDollar": -0.04
     },
     {
-      "ticker": "SAIL",
-      "name": "SAILPOINT INC COM",
+      "ticker": "JMST",
+      "name": "J P MORGAN EXCHANGE TRADED FD ULTRA SHT MUNCPL",
       "sector": "Unknown",
-      "price": 20.64,
-      "changePct": -6.69,
-      "changeDollar": -1.48
+      "price": 50.56,
+      "changePct": -0.06,
+      "changeDollar": -0.03
     },
     {
-      "ticker": "METU",
-      "name": "DIREXION SHARES ETF TRUST DLY META BULL 2X",
+      "ticker": "WLY",
+      "name": "WILEY JOHN & SONS INC CL A",
       "sector": "Unknown",
-      "price": 33.03,
-      "changePct": -6.67,
-      "changeDollar": -2.36
+      "price": 47.61,
+      "changePct": 0.13,
+      "changeDollar": 0.06
     },
     {
-      "ticker": "S",
-      "name": "SENTINELONE INC CL A",
+      "ticker": "SHEL",
+      "name": "SHELL PLC SPON ADS",
       "sector": "Unknown",
-      "price": 22.38,
-      "changePct": -6.67,
-      "changeDollar": -1.6
-    },
-    {
-      "ticker": "GME",
-      "name": "GAMESTOP CORP CL A",
-      "sector": "Unknown",
-      "price": 23.39,
-      "changePct": -6.51,
-      "changeDollar": -1.63
-    },
-    {
-      "ticker": "VCYT",
-      "name": "VERACYTE INC COM",
-      "sector": "Unknown",
-      "price": 45.43,
-      "changePct": -6.41,
-      "changeDollar": -3.11
-    },
-    {
-      "ticker": "IMMX",
-      "name": "IMMIX BIOPHARMA INC COM",
-      "sector": "Unknown",
-      "price": 10.97,
-      "changePct": -6.24,
-      "changeDollar": -0.73
-    },
-    {
-      "ticker": "BKV",
-      "name": "BKV CORP COM",
-      "sector": "Unknown",
-      "price": 21.81,
-      "changePct": -5.5,
-      "changeDollar": -1.27
-    },
-    {
-      "ticker": "AFYA",
-      "name": "AFYA LTD CL A COM",
-      "sector": "Unknown",
-      "price": 13.0,
-      "changePct": -5.32,
-      "changeDollar": -0.73
+      "price": 96.47,
+      "changePct": 0.72,
+      "changeDollar": 0.69
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "CRDO",
-      "name": "CREDO TECHNOLOGY GROUP HOLDING ORDINARY SHARES",
+      "ticker": "SHEL",
+      "name": "SHELL PLC SPON ADS",
       "sector": "Unknown",
-      "price": 210.97,
-      "changePct": 7.65,
-      "changeDollar": 15.0
+      "price": 96.47,
+      "changePct": 0.72,
+      "changeDollar": 0.69
     },
     {
-      "ticker": "AEHR",
-      "name": "AEHR TEST SYS COM",
+      "ticker": "WLY",
+      "name": "WILEY JOHN & SONS INC CL A",
       "sector": "Unknown",
-      "price": 104.39,
-      "changePct": 7.15,
-      "changeDollar": 6.97
+      "price": 47.61,
+      "changePct": 0.13,
+      "changeDollar": 0.06
     },
     {
-      "ticker": "SOLT",
-      "name": "VOLATILITY SHS TR 2X SOLANA ETF",
+      "ticker": "JMST",
+      "name": "J P MORGAN EXCHANGE TRADED FD ULTRA SHT MUNCPL",
       "sector": "Unknown",
-      "price": 80.62,
-      "changePct": 7.97,
-      "changeDollar": 5.95
+      "price": 50.56,
+      "changePct": -0.06,
+      "changeDollar": -0.03
     },
     {
-      "ticker": "VECO",
-      "name": "VEECO INSTRS INC DEL COM",
+      "ticker": "TDTT",
+      "name": "FLEXSHARES TR NRTRN TR IBOXX 3",
       "sector": "Unknown",
-      "price": 49.67,
-      "changePct": 9.28,
-      "changeDollar": 4.22
+      "price": 23.21,
+      "changePct": -0.17,
+      "changeDollar": -0.04
     },
     {
-      "ticker": "ON",
-      "name": "ON SEMICONDUCTOR CORP COM",
+      "ticker": "ADEA",
+      "name": "ADEIA INC COM",
       "sector": "Unknown",
-      "price": 77.2,
-      "changePct": 5.54,
-      "changeDollar": 4.05
+      "price": 24.92,
+      "changePct": -2.2,
+      "changeDollar": -0.56
     }
   ],
   "dollarLosers": [
     {
-      "ticker": "VCYT",
-      "name": "VERACYTE INC COM",
+      "ticker": "SHEL",
+      "name": "SHELL PLC SPON ADS",
       "sector": "Unknown",
-      "price": 45.43,
-      "changePct": -6.41,
-      "changeDollar": -3.11
+      "price": 96.47,
+      "changePct": 0.72,
+      "changeDollar": 0.69
     },
     {
-      "ticker": "METU",
-      "name": "DIREXION SHARES ETF TRUST DLY META BULL 2X",
+      "ticker": "ADEA",
+      "name": "ADEIA INC COM",
       "sector": "Unknown",
-      "price": 33.03,
-      "changePct": -6.67,
-      "changeDollar": -2.36
+      "price": 24.92,
+      "changePct": -2.2,
+      "changeDollar": -0.56
     },
     {
-      "ticker": "AXTQ",
-      "name": "Tradr 2X Short AXTI Daily ETF",
+      "ticker": "WLY",
+      "name": "WILEY JOHN & SONS INC CL A",
       "sector": "Unknown",
-      "price": 23.39,
-      "changePct": -7.91,
-      "changeDollar": -2.01
+      "price": 47.61,
+      "changePct": 0.13,
+      "changeDollar": 0.06
     },
     {
-      "ticker": "GME",
-      "name": "GAMESTOP CORP CL A",
+      "ticker": "TDTT",
+      "name": "FLEXSHARES TR NRTRN TR IBOXX 3",
       "sector": "Unknown",
-      "price": 23.39,
-      "changePct": -6.51,
-      "changeDollar": -1.63
+      "price": 23.21,
+      "changePct": -0.17,
+      "changeDollar": -0.04
     },
     {
-      "ticker": "S",
-      "name": "SENTINELONE INC CL A",
+      "ticker": "JMST",
+      "name": "J P MORGAN EXCHANGE TRADED FD ULTRA SHT MUNCPL",
       "sector": "Unknown",
-      "price": 22.38,
-      "changePct": -6.67,
-      "changeDollar": -1.6
+      "price": 50.56,
+      "changePct": -0.06,
+      "changeDollar": -0.03
     }
   ]
 }
