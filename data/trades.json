@@ -2618,6 +2618,84 @@
       },
       "exit": null,
       "fomo": null
+    },
+    {
+      "id": 28,
+      "status": "open",
+      "entry": {
+        "date": "2026-09-29",
+        "time": "15:55 PST",
+        "ticker": "SHEL",
+        "name": "SHELL PLC SPON ADS",
+        "sector": "Unknown",
+        "type": "CALL",
+        "strike": 97.0,
+        "expiration": "2026-10-02",
+        "dte_at_entry": 3,
+        "T_at_entry": 0.008219,
+        "stock_price_at_entry": 96.47,
+        "premium": 0.95,
+        "cost": 95.0,
+        "bid": 0.75,
+        "spread": 0.2,
+        "iv_at_entry": 0.2959,
+        "otm_pct": 0.55,
+        "expected_move": {
+          "one_sigma_pct": 2.68,
+          "upper": 99.06,
+          "lower": 93.88,
+          "strike_position": "inside"
+        },
+        "signal_rank": "dollar_gainer_1",
+        "signal_pct": 0.72,
+        "signal_dollar": 0.69,
+        "spy_change": -0.74,
+        "macro_active": false,
+        "macro_keywords": [],
+        "auto_note": "SHEL CALL | $+0.69 (+0.72%) | dollar_gainer_1 | Strike $97.0 exp 2026-10-02 (3DTE) | IV 29.6% | SPY -0.74% | No macro triggers"
+      },
+      "news_scan": null,
+      "exit": null,
+      "fomo": null
+    },
+    {
+      "id": 29,
+      "status": "open",
+      "entry": {
+        "date": "2026-09-29",
+        "time": "15:55 PST",
+        "ticker": "SHEL",
+        "name": "SHELL PLC SPON ADS",
+        "sector": "Unknown",
+        "type": "PUT",
+        "strike": 95.0,
+        "expiration": "2026-10-02",
+        "dte_at_entry": 3,
+        "T_at_entry": 0.008219,
+        "stock_price_at_entry": 96.47,
+        "premium": 0.8,
+        "cost": 80.0,
+        "bid": 0.4,
+        "spread": 0.4,
+        "iv_at_entry": 0.354,
+        "otm_pct": 1.52,
+        "expected_move": {
+          "one_sigma_pct": 3.21,
+          "upper": 99.57,
+          "lower": 93.37,
+          "strike_position": "inside"
+        },
+        "signal_rank": "dollar_loser_1",
+        "signal_pct": 0.72,
+        "signal_dollar": 0.69,
+        "spy_change": -0.74,
+        "macro_active": false,
+        "macro_keywords": [],
+        "auto_note": "SHEL PUT | $+0.69 (+0.72%) | dollar_loser_1 | Strike $95.0 exp 2026-10-02 (3DTE) | IV 35.4% | SPY -0.74% | No macro triggers"
+      },
+      "news_scan": null,
+      "exit": null,
+      "fomo": null
     }
   ]
 }

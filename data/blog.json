@@ -328,5 +328,27 @@
     "youtube_id": null,
     "images": [],
     "published": true
+  },
+  {
+    "id": 28,
+    "date": "2026-09-29",
+    "ticker": "SHEL",
+    "type": "CALL",
+    "trade_id": 28,
+    "title": "SHEL CALL \u2014 2026-09-29",
+    "youtube_id": null,
+    "images": [],
+    "published": true
+  },
+  {
+    "id": 29,
+    "date": "2026-09-29",
+    "ticker": "SHEL",
+    "type": "PUT",
+    "trade_id": 29,
+    "title": "SHEL PUT \u2014 2026-09-29",
+    "youtube_id": null,
+    "images": [],
+    "published": true
   }
 ]
