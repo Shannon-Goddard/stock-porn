@@ -1,250 +1,250 @@
 {
   "topGainers": [
     {
-      "ticker": "SGMT",
-      "name": "SAGIMET BIOSCIENCES INC COM SER A",
+      "ticker": "ROG",
+      "name": "ROGERS CORP COM",
       "sector": "Unknown",
-      "price": 10.09,
-      "changePct": 8.15,
+      "price": 152.99,
+      "changePct": 10.73,
+      "changeDollar": 14.82
+    },
+    {
+      "ticker": "BRZE",
+      "name": "BRAZE INC COM CL A",
+      "sector": "Unknown",
+      "price": 25.1,
+      "changePct": 8.42,
+      "changeDollar": 1.95
+    },
+    {
+      "ticker": "INTW",
+      "name": "GRANITESHARES ETF TR 2X LONG INTC ETF",
+      "sector": "Unknown",
+      "price": 31.28,
+      "changePct": 7.12,
+      "changeDollar": 2.08
+    },
+    {
+      "ticker": "SLS",
+      "name": "SELLAS LIFE SCIENCES GROUP INC COM NEW",
+      "sector": "Unknown",
+      "price": 12.31,
+      "changePct": 6.95,
+      "changeDollar": 0.8
+    },
+    {
+      "ticker": "ABSI",
+      "name": "ABSCI CORPORATION COM",
+      "sector": "Unknown",
+      "price": 10.77,
+      "changePct": 6.21,
+      "changeDollar": 0.63
+    },
+    {
+      "ticker": "CBOE",
+      "name": "Cboe Global Markets, Inc.",
+      "sector": "Unknown",
+      "price": 275.29,
+      "changePct": 5.17,
+      "changeDollar": 13.54
+    },
+    {
+      "ticker": "HBR",
+      "name": "CANARY CAPITAL GROUP LLX CANARY HBAR ETF",
+      "sector": "Unknown",
+      "price": 14.74,
+      "changePct": 4.39,
+      "changeDollar": 0.62
+    },
+    {
+      "ticker": "ODD",
+      "name": "ODDITY TECH LTD SHS CL A",
+      "sector": "Unknown",
+      "price": 18.66,
+      "changePct": 4.25,
       "changeDollar": 0.76
     },
     {
-      "ticker": "ATEN",
-      "name": "A10 NETWORKS INC COM",
+      "ticker": "MP",
+      "name": "MP MATERIALS CORP COM CL A",
       "sector": "Unknown",
-      "price": 27.47,
-      "changePct": 6.43,
-      "changeDollar": 1.66
+      "price": 47.29,
+      "changePct": 4.09,
+      "changeDollar": 1.86
     },
     {
-      "ticker": "VOR",
-      "name": "VOR BIOPHARMA INC COM NEW",
+      "ticker": "TENB",
+      "name": "TENABLE HLDGS INC COM",
       "sector": "Unknown",
-      "price": 19.43,
-      "changePct": 6.0,
-      "changeDollar": 1.1
-    },
-    {
-      "ticker": "PBF",
-      "name": "PBF ENERGY INC CL A",
-      "sector": "Unknown",
-      "price": 79.56,
-      "changePct": 5.76,
-      "changeDollar": 4.33
-    },
-    {
-      "ticker": "ADEA",
-      "name": "ADEIA INC COM",
-      "sector": "Unknown",
-      "price": 26.09,
-      "changePct": 5.41,
-      "changeDollar": 1.34
-    },
-    {
-      "ticker": "HIMS",
-      "name": "HIMS & HERS HEALTH INC COM CL A",
-      "sector": "Unknown",
-      "price": 30.19,
-      "changePct": 5.19,
-      "changeDollar": 1.49
-    },
-    {
-      "ticker": "HPE",
-      "name": "HEWLETT PACKARD ENTERPRISE CO COM",
-      "sector": "Unknown",
-      "price": 64.64,
-      "changePct": 5.12,
-      "changeDollar": 3.15
-    },
-    {
-      "ticker": "XP",
-      "name": "XP INC CL A",
-      "sector": "Unknown",
-      "price": 21.28,
-      "changePct": 4.98,
-      "changeDollar": 1.01
-    },
-    {
-      "ticker": "IDT",
-      "name": "IDT CORP CL B NEW",
-      "sector": "Unknown",
-      "price": 79.3,
-      "changePct": 4.95,
-      "changeDollar": 3.74
-    },
-    {
-      "ticker": "TWST",
-      "name": "TWIST BIOSCIENCE CORP COM",
-      "sector": "Unknown",
-      "price": 195.29,
-      "changePct": 4.92,
-      "changeDollar": 9.15
+      "price": 36.39,
+      "changePct": 4.0,
+      "changeDollar": 1.4
     }
   ],
   "topLosers": [
     {
-      "ticker": "CBRS",
-      "name": "CEREBRAS SYSTEMS INC COM CL A",
-      "sector": "Unknown",
-      "price": 179.3,
-      "changePct": -8.03,
-      "changeDollar": -15.65
-    },
-    {
-      "ticker": "MTG",
-      "name": "MGIC INVT CORP WIS COM",
-      "sector": "Unknown",
-      "price": 26.31,
-      "changePct": -6.87,
-      "changeDollar": -1.94
-    },
-    {
-      "ticker": "ESNT",
-      "name": "ESSENT GROUP LTD COM",
-      "sector": "Unknown",
-      "price": 59.35,
-      "changePct": -6.15,
-      "changeDollar": -3.89
-    },
-    {
       "ticker": "WW",
       "name": "WW INTL INC COM NEW",
       "sector": "Unknown",
-      "price": 16.06,
-      "changePct": -6.14,
-      "changeDollar": -1.05
+      "price": 15.46,
+      "changePct": -9.59,
+      "changeDollar": -1.64
     },
     {
-      "ticker": "NLY",
-      "name": "ANNALY CAPITAL MANAGEMENT INC COM NEW",
+      "ticker": "BEX",
+      "name": "Tradr 2X Long BE Daily ETF",
       "sector": "Unknown",
-      "price": 19.16,
-      "changePct": -5.71,
-      "changeDollar": -1.16
-    },
-    {
-      "ticker": "MRNA",
-      "name": "MODERNA INC COM",
-      "sector": "Unknown",
-      "price": 191.93,
-      "changePct": -5.67,
-      "changeDollar": -11.53
-    },
-    {
-      "ticker": "FAF",
-      "name": "FIRST AMERN FINL CORP COM",
-      "sector": "Unknown",
-      "price": 60.67,
-      "changePct": -5.25,
-      "changeDollar": -3.36
-    },
-    {
-      "ticker": "CROX",
-      "name": "CROCS INC COM",
-      "sector": "Unknown",
-      "price": 117.49,
-      "changePct": -4.19,
-      "changeDollar": -5.14
-    },
-    {
-      "ticker": "CEG",
-      "name": "CONSTELLATION ENERGY CORP COM",
-      "sector": "Unknown",
-      "price": 253.64,
-      "changePct": -4.13,
-      "changeDollar": -10.94
-    },
-    {
-      "ticker": "TIGO",
-      "name": "MILLICOM INTL CELLULAR S A COM STK",
-      "sector": "Unknown",
-      "price": 87.96,
-      "changePct": -4.12,
+      "price": 36.3,
+      "changePct": -9.43,
       "changeDollar": -3.78
+    },
+    {
+      "ticker": "NMIH",
+      "name": "NMI HLDGS INC COM",
+      "sector": "Unknown",
+      "price": 37.32,
+      "changePct": -8.37,
+      "changeDollar": -3.41
+    },
+    {
+      "ticker": "KORU",
+      "name": "DIREXION SHARES ETF TRUST DAIL MS KORE ETF",
+      "sector": "Unknown",
+      "price": 20.02,
+      "changePct": -6.75,
+      "changeDollar": -1.45
+    },
+    {
+      "ticker": "CCXI",
+      "name": "CHURCHILL CAP CORP XI CL A ORD SHS",
+      "sector": "Unknown",
+      "price": 11.62,
+      "changePct": -5.76,
+      "changeDollar": -0.71
+    },
+    {
+      "ticker": "TRU",
+      "name": "TRANSUNION COM",
+      "sector": "Unknown",
+      "price": 61.12,
+      "changePct": -4.93,
+      "changeDollar": -3.17
+    },
+    {
+      "ticker": "GIS",
+      "name": "GENERAL MILLS INC COM",
+      "sector": "Unknown",
+      "price": 32.16,
+      "changePct": -4.91,
+      "changeDollar": -1.66
+    },
+    {
+      "ticker": "BE",
+      "name": "BLOOM ENERGY CORP COM CL A",
+      "sector": "Unknown",
+      "price": 276.98,
+      "changePct": -4.9,
+      "changeDollar": -14.27
+    },
+    {
+      "ticker": "CAG",
+      "name": "CONAGRA BRANDS INC COM",
+      "sector": "Unknown",
+      "price": 13.44,
+      "changePct": -4.88,
+      "changeDollar": -0.69
+    },
+    {
+      "ticker": "GPCR",
+      "name": "STRUCTURE THERAPEUTICS INC SPONSORED ADS",
+      "sector": "Unknown",
+      "price": 31.27,
+      "changePct": -4.34,
+      "changeDollar": -1.42
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "TWST",
-      "name": "TWIST BIOSCIENCE CORP COM",
+      "ticker": "ROG",
+      "name": "ROGERS CORP COM",
       "sector": "Unknown",
-      "price": 195.29,
-      "changePct": 4.92,
-      "changeDollar": 9.15
+      "price": 152.99,
+      "changePct": 10.73,
+      "changeDollar": 14.82
     },
     {
-      "ticker": "PBF",
-      "name": "PBF ENERGY INC CL A",
+      "ticker": "CBOE",
+      "name": "Cboe Global Markets, Inc.",
       "sector": "Unknown",
-      "price": 79.56,
-      "changePct": 5.76,
-      "changeDollar": 4.33
+      "price": 275.29,
+      "changePct": 5.17,
+      "changeDollar": 13.54
     },
     {
-      "ticker": "IDT",
-      "name": "IDT CORP CL B NEW",
+      "ticker": "INTW",
+      "name": "GRANITESHARES ETF TR 2X LONG INTC ETF",
       "sector": "Unknown",
-      "price": 79.3,
-      "changePct": 4.95,
-      "changeDollar": 3.74
+      "price": 31.28,
+      "changePct": 7.12,
+      "changeDollar": 2.08
     },
     {
-      "ticker": "HPE",
-      "name": "HEWLETT PACKARD ENTERPRISE CO COM",
+      "ticker": "BRZE",
+      "name": "BRAZE INC COM CL A",
       "sector": "Unknown",
-      "price": 64.64,
-      "changePct": 5.12,
-      "changeDollar": 3.15
+      "price": 25.1,
+      "changePct": 8.42,
+      "changeDollar": 1.95
     },
     {
-      "ticker": "ATEN",
-      "name": "A10 NETWORKS INC COM",
+      "ticker": "MP",
+      "name": "MP MATERIALS CORP COM CL A",
       "sector": "Unknown",
-      "price": 27.47,
-      "changePct": 6.43,
-      "changeDollar": 1.66
+      "price": 47.29,
+      "changePct": 4.09,
+      "changeDollar": 1.86
     }
   ],
   "dollarLosers": [
     {
-      "ticker": "CBRS",
-      "name": "CEREBRAS SYSTEMS INC COM CL A",
+      "ticker": "BE",
+      "name": "BLOOM ENERGY CORP COM CL A",
       "sector": "Unknown",
-      "price": 179.3,
-      "changePct": -8.03,
-      "changeDollar": -15.65
+      "price": 276.98,
+      "changePct": -4.9,
+      "changeDollar": -14.27
     },
     {
-      "ticker": "MRNA",
-      "name": "MODERNA INC COM",
+      "ticker": "BEX",
+      "name": "Tradr 2X Long BE Daily ETF",
       "sector": "Unknown",
-      "price": 191.93,
-      "changePct": -5.67,
-      "changeDollar": -11.53
+      "price": 36.3,
+      "changePct": -9.43,
+      "changeDollar": -3.78
     },
     {
-      "ticker": "CEG",
-      "name": "CONSTELLATION ENERGY CORP COM",
+      "ticker": "NMIH",
+      "name": "NMI HLDGS INC COM",
       "sector": "Unknown",
-      "price": 253.64,
-      "changePct": -4.13,
-      "changeDollar": -10.94
+      "price": 37.32,
+      "changePct": -8.37,
+      "changeDollar": -3.41
     },
     {
-      "ticker": "CROX",
-      "name": "CROCS INC COM",
+      "ticker": "TRU",
+      "name": "TRANSUNION COM",
       "sector": "Unknown",
-      "price": 117.49,
-      "changePct": -4.19,
-      "changeDollar": -5.14
+      "price": 61.12,
+      "changePct": -4.93,
+      "changeDollar": -3.17
     },
     {
-      "ticker": "ESNT",
-      "name": "ESSENT GROUP LTD COM",
+      "ticker": "GIS",
+      "name": "GENERAL MILLS INC COM",
       "sector": "Unknown",
-      "price": 59.35,
-      "changePct": -6.15,
-      "changeDollar": -3.89
+      "price": 32.16,
+      "changePct": -4.91,
+      "changeDollar": -1.66
     }
   ]
 }
