@@ -1248,55 +1248,20 @@
         "auto_note": "ALAB CALL | $+27.58 (+9.75%) | dollar_gainer_1 | Strike $390.0 exp 2026-09-11 (6DTE) | IV 88.2% | SPY +nan% | MACRO: rate hike, war"
       },
       "news_scan": {
-        "scanned_at": "2026-09-30 19:31:47 PST",
-        "gap_days": 25,
+        "scanned_at": "2026-10-01 18:57:54 PST",
+        "gap_days": 26,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bullish",
-        "spx_sentiment": "bearish",
+        "spy_sentiment": "neutral",
+        "spx_sentiment": "neutral",
         "keywords_found": [],
-        "spy_keywords": [
-          "surge",
-          "jumps",
-          "rallies",
-          "falls"
-        ],
-        "spx_keywords": [
-          "downgrade",
-          "downgraded"
-        ],
-        "decision": "hold",
-        "decision_reason": "neutral keywords confirmed CALL thesis",
+        "spy_keywords": [],
+        "spx_keywords": [],
+        "decision": "sell",
+        "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
         "raw_headlines": {
-          "ticker": [
-            "Are Computer and Technology Stocks Lagging  ALLIENT INC (ALNT) This Year?",
-            "Billionaire Israel Englander Buys 2 Artificial Intelligence (AI) Stocks Up 405% and 575% in 2 Years",
-            "Bull of the Day: Astera Labs (ALAB)",
-            "Astera Labs (ALAB) is Powering High-Speed Connectivity for AI Data Centers"
-          ],
-          "spy": [
-            "Which Buy Now Pay Later Stock Dominated in September: Klarna, Affirm, or Sezzle?",
-            "Which Airline Stock Dominated in September: American, United, or Delta?",
-            "Which Automaker Stock Dominated in September: Tesla, Ford, or General Motors?",
-            "Unity Software Surges 5% as Traders Weigh Meta Platforms VR Glasses Support; Adobe Rises 3%, Intuit Adds 2%",
-            "MP Materials Surges 6% as Traders Weigh Critical Minerals Growth Story; USA Rare Earth Rises 3%, Critical Metals Stays Flat",
-            "ChargePoint Jumps 7% as Electric September Run Persists; EVgo Falls 3%, Blink Charging Slips",
-            "GameStop Pops 4% on Ryan Cohen\u2019s Buying Binge; Take-Two Interactive and Roblox Advance 3%",
-            "\u201cCleveland-Cliffs Rises 3% as Steel-Stock Selloff Subsides; Nucor and Steel Dynamics Tick Higher",
-            "Intel Rises 3% as Chip Contender Caps Off Surprisingly Strong September; NVIDIA Ticks Up, AMD Slips",
-            "Alphabet Rallies 3% as Traders Weigh White House Safety Accord; Apple Gains 2.5%, Meta Platforms Treads Water"
-          ],
-          "spx": [
-            "Sandisk bulls had a surprising third quarter",
-            "Stock Market Today: Nasdaq Up, Dow Struggles; Palo Alto Networks Breaks Out (Live Coverage)",
-            "Moderna Stock Has Run Too Far, Too Fast. Why Citi Just Downgraded It to Sell.",
-            "Buy Target Stock, Analyst Says. The Turnaround Is Taking Hold.",
-            "Cigna Investor Day Spotlights Specialty Drugs",
-            "Key Fed Inflation Rate Slides, But Was It A Mirage?",
-            "41.7% of Berkshire Hathaway's $357 Billion Portfolio Is Parked in 3 Artificial Intelligence (AI) Stocks",
-            "3 Reasons MOV is Risky and 1 Stock to Buy Instead",
-            "Can Micron Break the Boom and Bust Cycle With Its Earnings Report?",
-            "3 Reasons to Sell CRI and 1 Stock to Buy Instead"
-          ]
+          "ticker": [],
+          "spy": [],
+          "spx": []
         }
       },
       "exit": null,
@@ -1341,63 +1306,20 @@
         "auto_note": "TSLA PUT | $-22.29 (-5.92%) | dollar_loser_1 | Strike $340.0 exp 2026-09-09 (4DTE) | IV 32.4% | SPY +nan% | MACRO: rate hike, war"
       },
       "news_scan": {
-        "scanned_at": "2026-09-30 19:31:47 PST",
-        "gap_days": 25,
-        "ticker_sentiment": "bearish",
-        "spy_sentiment": "bullish",
-        "spx_sentiment": "bearish",
-        "keywords_found": [
-          "warning"
-        ],
-        "spy_keywords": [
-          "surge",
-          "jumps",
-          "rallies",
-          "falls"
-        ],
-        "spx_keywords": [
-          "downgrade",
-          "downgraded"
-        ],
-        "decision": "hold",
-        "decision_reason": "bearish keywords confirmed PUT thesis",
+        "scanned_at": "2026-10-01 18:57:54 PST",
+        "gap_days": 26,
+        "ticker_sentiment": "neutral",
+        "spy_sentiment": "neutral",
+        "spx_sentiment": "neutral",
+        "keywords_found": [],
+        "spy_keywords": [],
+        "spx_keywords": [],
+        "decision": "sell",
+        "decision_reason": "no confirmation for PUT thesis \u2014 sell at open",
         "raw_headlines": {
-          "ticker": [
-            "Nvidia CEO Jensen Huang: AI data center build-out could create 1 million jobs and reshape the US economy",
-            "What we know about Trump's meeting with Alex Karp, Jensen Huang, & other AI leaders",
-            "Consumer Confidence Fell to Its Lowest Level Since 2014 and Consumer Stocks Are Already Paying for It",
-            "Which Automaker Stock Dominated in September: Tesla, Ford, or General Motors?",
-            "S&P 500, Nasdaq climb as soft inflation dampens Fed rate hike expectations",
-            "Wall Street Expects A 7% Drop In Tesla Q3 Deliveries; The Stock Keeps Falling",
-            "Why Tesla\u2019s $25 Billion Credit Line Is a High-Stakes Bet on AI and Robotaxis",
-            "Tesla Stocks Fall 1.7% Although Croatia Clears Supervised FSD Rollout",
-            "Tesla Locks In $30 Billion Credit Line To Fund Soaring AI Spending",
-            "Cathie Wood Just Bought More Tesla as a Bear Sounds a $30 Billion Warning"
-          ],
-          "spy": [
-            "Which Buy Now Pay Later Stock Dominated in September: Klarna, Affirm, or Sezzle?",
-            "Which Airline Stock Dominated in September: American, United, or Delta?",
-            "Which Automaker Stock Dominated in September: Tesla, Ford, or General Motors?",
-            "Unity Software Surges 5% as Traders Weigh Meta Platforms VR Glasses Support; Adobe Rises 3%, Intuit Adds 2%",
-            "MP Materials Surges 6% as Traders Weigh Critical Minerals Growth Story; USA Rare Earth Rises 3%, Critical Metals Stays Flat",
-            "ChargePoint Jumps 7% as Electric September Run Persists; EVgo Falls 3%, Blink Charging Slips",
-            "GameStop Pops 4% on Ryan Cohen\u2019s Buying Binge; Take-Two Interactive and Roblox Advance 3%",
-            "\u201cCleveland-Cliffs Rises 3% as Steel-Stock Selloff Subsides; Nucor and Steel Dynamics Tick Higher",
-            "Intel Rises 3% as Chip Contender Caps Off Surprisingly Strong September; NVIDIA Ticks Up, AMD Slips",
-            "Alphabet Rallies 3% as Traders Weigh White House Safety Accord; Apple Gains 2.5%, Meta Platforms Treads Water"
-          ],
-          "spx": [
-            "Sandisk bulls had a surprising third quarter",
-            "Stock Market Today: Nasdaq Up, Dow Struggles; Palo Alto Networks Breaks Out (Live Coverage)",
-            "Moderna Stock Has Run Too Far, Too Fast. Why Citi Just Downgraded It to Sell.",
-            "Buy Target Stock, Analyst Says. The Turnaround Is Taking Hold.",
-            "Cigna Investor Day Spotlights Specialty Drugs",
-            "Key Fed Inflation Rate Slides, But Was It A Mirage?",
-            "41.7% of Berkshire Hathaway's $357 Billion Portfolio Is Parked in 3 Artificial Intelligence (AI) Stocks",
-            "3 Reasons MOV is Risky and 1 Stock to Buy Instead",
-            "Can Micron Break the Boom and Bust Cycle With Its Earnings Report?",
-            "3 Reasons to Sell CRI and 1 Stock to Buy Instead"
-          ]
+          "ticker": [],
+          "spy": [],
+          "spx": []
         }
       },
       "exit": null,
@@ -1439,64 +1361,20 @@
         "auto_note": "DDOG CALL | $+15.04 (+7.15%) | dollar_gainer_1 | Strike $240.0 exp 2026-09-11 (1DTE) | IV 68.4% | SPY +nan% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-09-30 19:31:47 PST",
-        "gap_days": 20,
-        "ticker_sentiment": "bearish",
-        "spy_sentiment": "bullish",
-        "spx_sentiment": "bearish",
-        "keywords_found": [
-          "falls",
-          "drops"
-        ],
-        "spy_keywords": [
-          "surge",
-          "jumps",
-          "rallies",
-          "falls"
-        ],
-        "spx_keywords": [
-          "downgrade",
-          "downgraded"
-        ],
-        "decision": "hold",
-        "decision_reason": "bearish keywords confirmed CALL thesis",
+        "scanned_at": "2026-10-01 18:57:54 PST",
+        "gap_days": 21,
+        "ticker_sentiment": "neutral",
+        "spy_sentiment": "neutral",
+        "spx_sentiment": "neutral",
+        "keywords_found": [],
+        "spy_keywords": [],
+        "spx_keywords": [],
+        "decision": "sell",
+        "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
         "raw_headlines": {
-          "ticker": [
-            "2 Unpopular Stocks That Should Get More Attention and 1 We Brush Off",
-            "Can Datadog\u2019s (DDOG) Platform Keep Growing as Companies Embrace AI?",
-            "Datadog Stock Has Nearly Doubled This Year, but Wall Street Sees Only About 7% More Upside",
-            "MongoDB Dropped by 25% Over The Last Month: A Large, Influential Wall Street Bank Predicts 70% Gains From Here",
-            "3 AI Software Stocks Retail Investors May Be Missing Right Now",
-            "Datadog Stock at $269: Is Acceleration Already Priced In After the Post-Earnings Selloff?",
-            "The $1 Trillion Question Facing Palantir Stock",
-            "CSCO's Security Growth Accelerates: Can It Outpace DDOG & CRWD?",
-            "Snowflake Slides 4% on Proposed $3.5B Convertible Offering; Oracle Falls 3%, Datadog Drops 4%",
-            "Here Are Monday\u2019s Top Wall Street Analyst Research Calls: Applied Digital, Autodesk, Datadog, First Solar, L3Harris Technologies, PepsiCo, Roblox, Snowflake, TeraWulf and More"
-          ],
-          "spy": [
-            "Which Buy Now Pay Later Stock Dominated in September: Klarna, Affirm, or Sezzle?",
-            "Which Airline Stock Dominated in September: American, United, or Delta?",
-            "Which Automaker Stock Dominated in September: Tesla, Ford, or General Motors?",
-            "Unity Software Surges 5% as Traders Weigh Meta Platforms VR Glasses Support; Adobe Rises 3%, Intuit Adds 2%",
-            "MP Materials Surges 6% as Traders Weigh Critical Minerals Growth Story; USA Rare Earth Rises 3%, Critical Metals Stays Flat",
-            "ChargePoint Jumps 7% as Electric September Run Persists; EVgo Falls 3%, Blink Charging Slips",
-            "GameStop Pops 4% on Ryan Cohen\u2019s Buying Binge; Take-Two Interactive and Roblox Advance 3%",
-            "\u201cCleveland-Cliffs Rises 3% as Steel-Stock Selloff Subsides; Nucor and Steel Dynamics Tick Higher",
-            "Intel Rises 3% as Chip Contender Caps Off Surprisingly Strong September; NVIDIA Ticks Up, AMD Slips",
-            "Alphabet Rallies 3% as Traders Weigh White House Safety Accord; Apple Gains 2.5%, Meta Platforms Treads Water"
-          ],
-          "spx": [
-            "Sandisk bulls had a surprising third quarter",
-            "Stock Market Today: Nasdaq Up, Dow Struggles; Palo Alto Networks Breaks Out (Live Coverage)",
-            "Moderna Stock Has Run Too Far, Too Fast. Why Citi Just Downgraded It to Sell.",
-            "Buy Target Stock, Analyst Says. The Turnaround Is Taking Hold.",
-            "Cigna Investor Day Spotlights Specialty Drugs",
-            "Key Fed Inflation Rate Slides, But Was It A Mirage?",
-            "41.7% of Berkshire Hathaway's $357 Billion Portfolio Is Parked in 3 Artificial Intelligence (AI) Stocks",
-            "3 Reasons MOV is Risky and 1 Stock to Buy Instead",
-            "Can Micron Break the Boom and Bust Cycle With Its Earnings Report?",
-            "3 Reasons to Sell CRI and 1 Stock to Buy Instead"
-          ]
+          "ticker": [],
+          "spy": [],
+          "spx": []
         }
       },
       "exit": null,
@@ -1541,50 +1419,20 @@
         "auto_note": "RGTZ CALL | $+14.18 (+402.84%) | dollar_gainer_1 | Strike $8.0 exp 2026-09-18 (7DTE) | IV 0.0% | SPY +nan% | MACRO: rate hike, china"
       },
       "news_scan": {
-        "scanned_at": "2026-09-30 19:31:47 PST",
-        "gap_days": 19,
+        "scanned_at": "2026-10-01 18:57:54 PST",
+        "gap_days": 20,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bullish",
-        "spx_sentiment": "bearish",
+        "spy_sentiment": "neutral",
+        "spx_sentiment": "neutral",
         "keywords_found": [],
-        "spy_keywords": [
-          "surge",
-          "jumps",
-          "rallies",
-          "falls"
-        ],
-        "spx_keywords": [
-          "downgrade",
-          "downgraded"
-        ],
-        "decision": "hold",
-        "decision_reason": "neutral keywords confirmed CALL thesis",
+        "spy_keywords": [],
+        "spx_keywords": [],
+        "decision": "sell",
+        "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
         "raw_headlines": {
           "ticker": [],
-          "spy": [
-            "Which Buy Now Pay Later Stock Dominated in September: Klarna, Affirm, or Sezzle?",
-            "Which Airline Stock Dominated in September: American, United, or Delta?",
-            "Which Automaker Stock Dominated in September: Tesla, Ford, or General Motors?",
-            "Unity Software Surges 5% as Traders Weigh Meta Platforms VR Glasses Support; Adobe Rises 3%, Intuit Adds 2%",
-            "MP Materials Surges 6% as Traders Weigh Critical Minerals Growth Story; USA Rare Earth Rises 3%, Critical Metals Stays Flat",
-            "ChargePoint Jumps 7% as Electric September Run Persists; EVgo Falls 3%, Blink Charging Slips",
-            "GameStop Pops 4% on Ryan Cohen\u2019s Buying Binge; Take-Two Interactive and Roblox Advance 3%",
-            "\u201cCleveland-Cliffs Rises 3% as Steel-Stock Selloff Subsides; Nucor and Steel Dynamics Tick Higher",
-            "Intel Rises 3% as Chip Contender Caps Off Surprisingly Strong September; NVIDIA Ticks Up, AMD Slips",
-            "Alphabet Rallies 3% as Traders Weigh White House Safety Accord; Apple Gains 2.5%, Meta Platforms Treads Water"
-          ],
-          "spx": [
-            "Sandisk bulls had a surprising third quarter",
-            "Stock Market Today: Nasdaq Up, Dow Struggles; Palo Alto Networks Breaks Out (Live Coverage)",
-            "Moderna Stock Has Run Too Far, Too Fast. Why Citi Just Downgraded It to Sell.",
-            "Buy Target Stock, Analyst Says. The Turnaround Is Taking Hold.",
-            "Cigna Investor Day Spotlights Specialty Drugs",
-            "Key Fed Inflation Rate Slides, But Was It A Mirage?",
-            "41.7% of Berkshire Hathaway's $357 Billion Portfolio Is Parked in 3 Artificial Intelligence (AI) Stocks",
-            "3 Reasons MOV is Risky and 1 Stock to Buy Instead",
-            "Can Micron Break the Boom and Bust Cycle With Its Earnings Report?",
-            "3 Reasons to Sell CRI and 1 Stock to Buy Instead"
-          ]
+          "spy": [],
+          "spx": []
         }
       },
       "exit": null,
@@ -1628,50 +1476,20 @@
         "auto_note": "VICR CALL | $+19.86 (+11.15%) | dollar_gainer_1 | Strike $240.0 exp 2026-09-18 (6DTE) | IV 86.0% | SPY +nan% | MACRO: fed"
       },
       "news_scan": {
-        "scanned_at": "2026-09-30 19:31:47 PST",
-        "gap_days": 18,
+        "scanned_at": "2026-10-01 18:57:54 PST",
+        "gap_days": 19,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bullish",
-        "spx_sentiment": "bearish",
+        "spy_sentiment": "neutral",
+        "spx_sentiment": "neutral",
         "keywords_found": [],
-        "spy_keywords": [
-          "surge",
-          "jumps",
-          "rallies",
-          "falls"
-        ],
-        "spx_keywords": [
-          "downgrade",
-          "downgraded"
-        ],
-        "decision": "hold",
-        "decision_reason": "neutral keywords confirmed CALL thesis",
+        "spy_keywords": [],
+        "spx_keywords": [],
+        "decision": "sell",
+        "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
         "raw_headlines": {
           "ticker": [],
-          "spy": [
-            "Which Buy Now Pay Later Stock Dominated in September: Klarna, Affirm, or Sezzle?",
-            "Which Airline Stock Dominated in September: American, United, or Delta?",
-            "Which Automaker Stock Dominated in September: Tesla, Ford, or General Motors?",
-            "Unity Software Surges 5% as Traders Weigh Meta Platforms VR Glasses Support; Adobe Rises 3%, Intuit Adds 2%",
-            "MP Materials Surges 6% as Traders Weigh Critical Minerals Growth Story; USA Rare Earth Rises 3%, Critical Metals Stays Flat",
-            "ChargePoint Jumps 7% as Electric September Run Persists; EVgo Falls 3%, Blink Charging Slips",
-            "GameStop Pops 4% on Ryan Cohen\u2019s Buying Binge; Take-Two Interactive and Roblox Advance 3%",
-            "\u201cCleveland-Cliffs Rises 3% as Steel-Stock Selloff Subsides; Nucor and Steel Dynamics Tick Higher",
-            "Intel Rises 3% as Chip Contender Caps Off Surprisingly Strong September; NVIDIA Ticks Up, AMD Slips",
-            "Alphabet Rallies 3% as Traders Weigh White House Safety Accord; Apple Gains 2.5%, Meta Platforms Treads Water"
-          ],
-          "spx": [
-            "Sandisk bulls had a surprising third quarter",
-            "Stock Market Today: Nasdaq Up, Dow Struggles; Palo Alto Networks Breaks Out (Live Coverage)",
-            "Moderna Stock Has Run Too Far, Too Fast. Why Citi Just Downgraded It to Sell.",
-            "Buy Target Stock, Analyst Says. The Turnaround Is Taking Hold.",
-            "Cigna Investor Day Spotlights Specialty Drugs",
-            "Key Fed Inflation Rate Slides, But Was It A Mirage?",
-            "41.7% of Berkshire Hathaway's $357 Billion Portfolio Is Parked in 3 Artificial Intelligence (AI) Stocks",
-            "3 Reasons MOV is Risky and 1 Stock to Buy Instead",
-            "Can Micron Break the Boom and Bust Cycle With Its Earnings Report?",
-            "3 Reasons to Sell CRI and 1 Stock to Buy Instead"
-          ]
+          "spy": [],
+          "spx": []
         }
       },
       "exit": null,
@@ -1715,53 +1533,20 @@
         "auto_note": "LEU PUT | $-13.56 (-8.18%) | dollar_loser_1 | Strike $135.0 exp 2026-09-18 (6DTE) | IV 56.5% | SPY +nan% | MACRO: fed"
       },
       "news_scan": {
-        "scanned_at": "2026-09-30 19:31:47 PST",
-        "gap_days": 18,
+        "scanned_at": "2026-10-01 18:57:54 PST",
+        "gap_days": 19,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bullish",
-        "spx_sentiment": "bearish",
+        "spy_sentiment": "neutral",
+        "spx_sentiment": "neutral",
         "keywords_found": [],
-        "spy_keywords": [
-          "surge",
-          "jumps",
-          "rallies",
-          "falls"
-        ],
-        "spx_keywords": [
-          "downgrade",
-          "downgraded"
-        ],
+        "spy_keywords": [],
+        "spx_keywords": [],
         "decision": "sell",
         "decision_reason": "no confirmation for PUT thesis \u2014 sell at open",
         "raw_headlines": {
-          "ticker": [
-            "3 Things Smart Investors Know About the Nuclear Power Comeback",
-            "UUUU's Cash Flow Deficit Narrows in 1H26: What's Next?"
-          ],
-          "spy": [
-            "Which Buy Now Pay Later Stock Dominated in September: Klarna, Affirm, or Sezzle?",
-            "Which Airline Stock Dominated in September: American, United, or Delta?",
-            "Which Automaker Stock Dominated in September: Tesla, Ford, or General Motors?",
-            "Unity Software Surges 5% as Traders Weigh Meta Platforms VR Glasses Support; Adobe Rises 3%, Intuit Adds 2%",
-            "MP Materials Surges 6% as Traders Weigh Critical Minerals Growth Story; USA Rare Earth Rises 3%, Critical Metals Stays Flat",
-            "ChargePoint Jumps 7% as Electric September Run Persists; EVgo Falls 3%, Blink Charging Slips",
-            "GameStop Pops 4% on Ryan Cohen\u2019s Buying Binge; Take-Two Interactive and Roblox Advance 3%",
-            "\u201cCleveland-Cliffs Rises 3% as Steel-Stock Selloff Subsides; Nucor and Steel Dynamics Tick Higher",
-            "Intel Rises 3% as Chip Contender Caps Off Surprisingly Strong September; NVIDIA Ticks Up, AMD Slips",
-            "Alphabet Rallies 3% as Traders Weigh White House Safety Accord; Apple Gains 2.5%, Meta Platforms Treads Water"
-          ],
-          "spx": [
-            "Sandisk bulls had a surprising third quarter",
-            "Stock Market Today: Nasdaq Up, Dow Struggles; Palo Alto Networks Breaks Out (Live Coverage)",
-            "Moderna Stock Has Run Too Far, Too Fast. Why Citi Just Downgraded It to Sell.",
-            "Buy Target Stock, Analyst Says. The Turnaround Is Taking Hold.",
-            "Cigna Investor Day Spotlights Specialty Drugs",
-            "Key Fed Inflation Rate Slides, But Was It A Mirage?",
-            "41.7% of Berkshire Hathaway's $357 Billion Portfolio Is Parked in 3 Artificial Intelligence (AI) Stocks",
-            "3 Reasons MOV is Risky and 1 Stock to Buy Instead",
-            "Can Micron Break the Boom and Bust Cycle With Its Earnings Report?",
-            "3 Reasons to Sell CRI and 1 Stock to Buy Instead"
-          ]
+          "ticker": [],
+          "spy": [],
+          "spx": []
         }
       },
       "exit": null,
@@ -1803,63 +1588,20 @@
         "auto_note": "PANW CALL | $+43.29 (+13.09%) | dollar_gainer_1 | Strike $420.0 exp 2026-09-18 (3DTE) | IV 71.1% | SPY +nan% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-09-30 19:31:47 PST",
-        "gap_days": 15,
-        "ticker_sentiment": "bullish",
-        "spy_sentiment": "bullish",
-        "spx_sentiment": "bearish",
-        "keywords_found": [
-          "surge"
-        ],
-        "spy_keywords": [
-          "surge",
-          "jumps",
-          "rallies",
-          "falls"
-        ],
-        "spx_keywords": [
-          "downgrade",
-          "downgraded"
-        ],
-        "decision": "hold",
-        "decision_reason": "bullish keywords confirmed CALL thesis",
+        "scanned_at": "2026-10-01 18:57:54 PST",
+        "gap_days": 16,
+        "ticker_sentiment": "neutral",
+        "spy_sentiment": "neutral",
+        "spx_sentiment": "neutral",
+        "keywords_found": [],
+        "spy_keywords": [],
+        "spx_keywords": [],
+        "decision": "sell",
+        "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
         "raw_headlines": {
-          "ticker": [
-            "Stock Market Today: Nasdaq Up, Dow Struggles; Palo Alto Networks Breaks Out (Live Coverage)",
-            "The One Number Cisco Stock Investors Should Watch",
-            "Nvidia, AMD Collaborator Teases Breakout To Record High. These Clues Bode Well.",
-            "Palo Alto Networks Stocks Surges 2.4% as AI Defense Becomes Continuous Service",
-            "BlackBerry Advances 5% on Continued QNX Momentum; Palo Alto Networks Gains 4%, CrowdStrike Edges Up 2%",
-            "Is CrowdStrike Stock Paying You Enough For The Swings?",
-            "All In On Cybersecurity: The Choice Between Palo Alto Networks or Crowdstrike Not Difficult",
-            "Palo Alto CEO Said The Quiet Part About AI Aloud And I Buy Reality",
-            "Okta Stock Rises After Morgan Stanley Raises Price Target to $245",
-            "Zscaler Tanked Over One Year: A Prominent Firm Says 50% Gains to Arrive in 12 Months or Less"
-          ],
-          "spy": [
-            "Which Buy Now Pay Later Stock Dominated in September: Klarna, Affirm, or Sezzle?",
-            "Which Airline Stock Dominated in September: American, United, or Delta?",
-            "Which Automaker Stock Dominated in September: Tesla, Ford, or General Motors?",
-            "Unity Software Surges 5% as Traders Weigh Meta Platforms VR Glasses Support; Adobe Rises 3%, Intuit Adds 2%",
-            "MP Materials Surges 6% as Traders Weigh Critical Minerals Growth Story; USA Rare Earth Rises 3%, Critical Metals Stays Flat",
-            "ChargePoint Jumps 7% as Electric September Run Persists; EVgo Falls 3%, Blink Charging Slips",
-            "GameStop Pops 4% on Ryan Cohen\u2019s Buying Binge; Take-Two Interactive and Roblox Advance 3%",
-            "\u201cCleveland-Cliffs Rises 3% as Steel-Stock Selloff Subsides; Nucor and Steel Dynamics Tick Higher",
-            "Intel Rises 3% as Chip Contender Caps Off Surprisingly Strong September; NVIDIA Ticks Up, AMD Slips",
-            "Alphabet Rallies 3% as Traders Weigh White House Safety Accord; Apple Gains 2.5%, Meta Platforms Treads Water"
-          ],
-          "spx": [
-            "Sandisk bulls had a surprising third quarter",
-            "Stock Market Today: Nasdaq Up, Dow Struggles; Palo Alto Networks Breaks Out (Live Coverage)",
-            "Moderna Stock Has Run Too Far, Too Fast. Why Citi Just Downgraded It to Sell.",
-            "Buy Target Stock, Analyst Says. The Turnaround Is Taking Hold.",
-            "Cigna Investor Day Spotlights Specialty Drugs",
-            "Key Fed Inflation Rate Slides, But Was It A Mirage?",
-            "41.7% of Berkshire Hathaway's $357 Billion Portfolio Is Parked in 3 Artificial Intelligence (AI) Stocks",
-            "3 Reasons MOV is Risky and 1 Stock to Buy Instead",
-            "Can Micron Break the Boom and Bust Cycle With Its Earnings Report?",
-            "3 Reasons to Sell CRI and 1 Stock to Buy Instead"
-          ]
+          "ticker": [],
+          "spy": [],
+          "spx": []
         }
       },
       "exit": null,
@@ -1901,59 +1643,20 @@
         "auto_note": "TER PUT | $-50.52 (-13.30%) | dollar_loser_1 | Strike $280.0 exp 2026-09-18 (3DTE) | IV 90.0% | SPY +nan% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-09-30 19:31:47 PST",
-        "gap_days": 15,
+        "scanned_at": "2026-10-01 18:57:54 PST",
+        "gap_days": 16,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bullish",
-        "spx_sentiment": "bearish",
+        "spy_sentiment": "neutral",
+        "spx_sentiment": "neutral",
         "keywords_found": [],
-        "spy_keywords": [
-          "surge",
-          "jumps",
-          "rallies",
-          "falls"
-        ],
-        "spx_keywords": [
-          "downgrade",
-          "downgraded"
-        ],
+        "spy_keywords": [],
+        "spx_keywords": [],
         "decision": "sell",
         "decision_reason": "no confirmation for PUT thesis \u2014 sell at open",
         "raw_headlines": {
-          "ticker": [
-            "Is Teradyne (TER) a Buy as Wall Street Analysts Look Optimistic?",
-            "Teradyne (TER) Debuts Magnum E2 For AI Memory Testing",
-            "A Teradyne Director Sells 400 Shares After the Stock Soared Over 200% in the Past Year",
-            "Is Teradyne (TER) Fully Valued On Its Latest Semiconductor And Robotics Expansion?",
-            "Teradyne (TER) Is Up 5.2% After New AI-Optical Test Push And India Expansion - Has The Bull Case Changed?",
-            "Teradyne (TER) Has More Riding on AI Than Meets the Eye. Can Execution Deliver?",
-            "Is Teradyne (TER) Fully Priced After Record Q2 Results?",
-            "3 Reasons to Sell TER and 1 Stock to Buy Instead"
-          ],
-          "spy": [
-            "Which Buy Now Pay Later Stock Dominated in September: Klarna, Affirm, or Sezzle?",
-            "Which Airline Stock Dominated in September: American, United, or Delta?",
-            "Which Automaker Stock Dominated in September: Tesla, Ford, or General Motors?",
-            "Unity Software Surges 5% as Traders Weigh Meta Platforms VR Glasses Support; Adobe Rises 3%, Intuit Adds 2%",
-            "MP Materials Surges 6% as Traders Weigh Critical Minerals Growth Story; USA Rare Earth Rises 3%, Critical Metals Stays Flat",
-            "ChargePoint Jumps 7% as Electric September Run Persists; EVgo Falls 3%, Blink Charging Slips",
-            "GameStop Pops 4% on Ryan Cohen\u2019s Buying Binge; Take-Two Interactive and Roblox Advance 3%",
-            "\u201cCleveland-Cliffs Rises 3% as Steel-Stock Selloff Subsides; Nucor and Steel Dynamics Tick Higher",
-            "Intel Rises 3% as Chip Contender Caps Off Surprisingly Strong September; NVIDIA Ticks Up, AMD Slips",
-            "Alphabet Rallies 3% as Traders Weigh White House Safety Accord; Apple Gains 2.5%, Meta Platforms Treads Water"
-          ],
-          "spx": [
-            "Sandisk bulls had a surprising third quarter",
-            "Stock Market Today: Nasdaq Up, Dow Struggles; Palo Alto Networks Breaks Out (Live Coverage)",
-            "Moderna Stock Has Run Too Far, Too Fast. Why Citi Just Downgraded It to Sell.",
-            "Buy Target Stock, Analyst Says. The Turnaround Is Taking Hold.",
-            "Cigna Investor Day Spotlights Specialty Drugs",
-            "Key Fed Inflation Rate Slides, But Was It A Mirage?",
-            "41.7% of Berkshire Hathaway's $357 Billion Portfolio Is Parked in 3 Artificial Intelligence (AI) Stocks",
-            "3 Reasons MOV is Risky and 1 Stock to Buy Instead",
-            "Can Micron Break the Boom and Bust Cycle With Its Earnings Report?",
-            "3 Reasons to Sell CRI and 1 Stock to Buy Instead"
-          ]
+          "ticker": [],
+          "spy": [],
+          "spx": []
         }
       },
       "exit": null,
@@ -1998,50 +1701,20 @@
         "auto_note": "QLYS CALL | $+12.46 (+7.21%) | dollar_gainer_1 | Strike $210.0 exp 2026-09-18 (2DTE) | IV 78.5% | SPY +nan% | MACRO: fed, rate hike"
       },
       "news_scan": {
-        "scanned_at": "2026-09-30 19:31:47 PST",
-        "gap_days": 14,
+        "scanned_at": "2026-10-01 18:57:54 PST",
+        "gap_days": 15,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bullish",
-        "spx_sentiment": "bearish",
+        "spy_sentiment": "neutral",
+        "spx_sentiment": "neutral",
         "keywords_found": [],
-        "spy_keywords": [
-          "surge",
-          "jumps",
-          "rallies",
-          "falls"
-        ],
-        "spx_keywords": [
-          "downgrade",
-          "downgraded"
-        ],
-        "decision": "hold",
-        "decision_reason": "neutral keywords confirmed CALL thesis",
+        "spy_keywords": [],
+        "spx_keywords": [],
+        "decision": "sell",
+        "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
         "raw_headlines": {
           "ticker": [],
-          "spy": [
-            "Which Buy Now Pay Later Stock Dominated in September: Klarna, Affirm, or Sezzle?",
-            "Which Airline Stock Dominated in September: American, United, or Delta?",
-            "Which Automaker Stock Dominated in September: Tesla, Ford, or General Motors?",
-            "Unity Software Surges 5% as Traders Weigh Meta Platforms VR Glasses Support; Adobe Rises 3%, Intuit Adds 2%",
-            "MP Materials Surges 6% as Traders Weigh Critical Minerals Growth Story; USA Rare Earth Rises 3%, Critical Metals Stays Flat",
-            "ChargePoint Jumps 7% as Electric September Run Persists; EVgo Falls 3%, Blink Charging Slips",
-            "GameStop Pops 4% on Ryan Cohen\u2019s Buying Binge; Take-Two Interactive and Roblox Advance 3%",
-            "\u201cCleveland-Cliffs Rises 3% as Steel-Stock Selloff Subsides; Nucor and Steel Dynamics Tick Higher",
-            "Intel Rises 3% as Chip Contender Caps Off Surprisingly Strong September; NVIDIA Ticks Up, AMD Slips",
-            "Alphabet Rallies 3% as Traders Weigh White House Safety Accord; Apple Gains 2.5%, Meta Platforms Treads Water"
-          ],
-          "spx": [
-            "Sandisk bulls had a surprising third quarter",
-            "Stock Market Today: Nasdaq Up, Dow Struggles; Palo Alto Networks Breaks Out (Live Coverage)",
-            "Moderna Stock Has Run Too Far, Too Fast. Why Citi Just Downgraded It to Sell.",
-            "Buy Target Stock, Analyst Says. The Turnaround Is Taking Hold.",
-            "Cigna Investor Day Spotlights Specialty Drugs",
-            "Key Fed Inflation Rate Slides, But Was It A Mirage?",
-            "41.7% of Berkshire Hathaway's $357 Billion Portfolio Is Parked in 3 Artificial Intelligence (AI) Stocks",
-            "3 Reasons MOV is Risky and 1 Stock to Buy Instead",
-            "Can Micron Break the Boom and Bust Cycle With Its Earnings Report?",
-            "3 Reasons to Sell CRI and 1 Stock to Buy Instead"
-          ]
+          "spy": [],
+          "spx": []
         }
       },
       "exit": null,
@@ -2086,53 +1759,20 @@
         "auto_note": "AXON PUT | $-48.10 (-9.81%) | dollar_loser_1 | Strike $390.0 exp 2026-09-18 (2DTE) | IV 78.0% | SPY +nan% | MACRO: fed, rate hike"
       },
       "news_scan": {
-        "scanned_at": "2026-09-30 19:31:47 PST",
-        "gap_days": 14,
+        "scanned_at": "2026-10-01 18:57:54 PST",
+        "gap_days": 15,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bullish",
-        "spx_sentiment": "bearish",
+        "spy_sentiment": "neutral",
+        "spx_sentiment": "neutral",
         "keywords_found": [],
-        "spy_keywords": [
-          "surge",
-          "jumps",
-          "rallies",
-          "falls"
-        ],
-        "spx_keywords": [
-          "downgrade",
-          "downgraded"
-        ],
+        "spy_keywords": [],
+        "spx_keywords": [],
         "decision": "sell",
         "decision_reason": "no confirmation for PUT thesis \u2014 sell at open",
         "raw_headlines": {
-          "ticker": [
-            "Axon Enterprise, Inc (AXON) Is a Trending Stock: Facts to Know Before Betting on It",
-            "2 Stocks Trump Bought in July Are Now Down 17% to 20%. Time to Buy?"
-          ],
-          "spy": [
-            "Which Buy Now Pay Later Stock Dominated in September: Klarna, Affirm, or Sezzle?",
-            "Which Airline Stock Dominated in September: American, United, or Delta?",
-            "Which Automaker Stock Dominated in September: Tesla, Ford, or General Motors?",
-            "Unity Software Surges 5% as Traders Weigh Meta Platforms VR Glasses Support; Adobe Rises 3%, Intuit Adds 2%",
-            "MP Materials Surges 6% as Traders Weigh Critical Minerals Growth Story; USA Rare Earth Rises 3%, Critical Metals Stays Flat",
-            "ChargePoint Jumps 7% as Electric September Run Persists; EVgo Falls 3%, Blink Charging Slips",
-            "GameStop Pops 4% on Ryan Cohen\u2019s Buying Binge; Take-Two Interactive and Roblox Advance 3%",
-            "\u201cCleveland-Cliffs Rises 3% as Steel-Stock Selloff Subsides; Nucor and Steel Dynamics Tick Higher",
-            "Intel Rises 3% as Chip Contender Caps Off Surprisingly Strong September; NVIDIA Ticks Up, AMD Slips",
-            "Alphabet Rallies 3% as Traders Weigh White House Safety Accord; Apple Gains 2.5%, Meta Platforms Treads Water"
-          ],
-          "spx": [
-            "Sandisk bulls had a surprising third quarter",
-            "Stock Market Today: Nasdaq Up, Dow Struggles; Palo Alto Networks Breaks Out (Live Coverage)",
-            "Moderna Stock Has Run Too Far, Too Fast. Why Citi Just Downgraded It to Sell.",
-            "Buy Target Stock, Analyst Says. The Turnaround Is Taking Hold.",
-            "Cigna Investor Day Spotlights Specialty Drugs",
-            "Key Fed Inflation Rate Slides, But Was It A Mirage?",
-            "41.7% of Berkshire Hathaway's $357 Billion Portfolio Is Parked in 3 Artificial Intelligence (AI) Stocks",
-            "3 Reasons MOV is Risky and 1 Stock to Buy Instead",
-            "Can Micron Break the Boom and Bust Cycle With Its Earnings Report?",
-            "3 Reasons to Sell CRI and 1 Stock to Buy Instead"
-          ]
+          "ticker": [],
+          "spy": [],
+          "spx": []
         }
       },
       "exit": null,
@@ -2177,67 +1817,20 @@
         "auto_note": "COHR CALL | $+18.76 (+6.92%) | dollar_gainer_1 | Strike $320.0 exp 2026-09-18 (1DTE) | IV 88.5% | SPY +nan% | MACRO: fed, war"
       },
       "news_scan": {
-        "scanned_at": "2026-09-30 19:31:47 PST",
-        "gap_days": 13,
-        "ticker_sentiment": "bearish",
-        "spy_sentiment": "bullish",
-        "spx_sentiment": "bearish",
-        "keywords_found": [
-          "upgrade",
-          "upgraded",
-          "downgrade",
-          "downgraded",
-          "concern"
-        ],
-        "spy_keywords": [
-          "surge",
-          "jumps",
-          "rallies",
-          "falls"
-        ],
-        "spx_keywords": [
-          "downgrade",
-          "downgraded"
-        ],
-        "decision": "hold",
-        "decision_reason": "bearish keywords confirmed CALL thesis",
+        "scanned_at": "2026-10-01 18:57:54 PST",
+        "gap_days": 14,
+        "ticker_sentiment": "neutral",
+        "spy_sentiment": "neutral",
+        "spx_sentiment": "neutral",
+        "keywords_found": [],
+        "spy_keywords": [],
+        "spx_keywords": [],
+        "decision": "sell",
+        "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
         "raw_headlines": {
-          "ticker": [
-            "Here's Why Investors Should Hold OMC Stock in Their Portfolios for Now",
-            "Pricing, Network Scale & Acquisitions Aid WM Amid Debt Concerns",
-            "Is Coherent's PhotonLink Push Reframing Its AI Datacenter Optics Edge For Investors (COHR)?",
-            "3 Reasons Investors Love Coherent (COHR)",
-            "Target upgraded, Moderna downgraded: Wall Street's top analyst calls",
-            "Why Coherent (COHR) Stock Is Up Today",
-            "What Does Amphenol Offer That Coherent Does Not?",
-            "PLTR vs. COHR: Which AI-Driven Tech Stock is a Better Buy?",
-            "Lumentum Climbs 7% as Optics Selloff Reverses a Day After Citi\u2019s $11B Switching Call; Coherent and Corning Rise 5%",
-            "AI-Led Growth & Strong Cash Generation Support VRSK Amid High Debt"
-          ],
-          "spy": [
-            "Which Buy Now Pay Later Stock Dominated in September: Klarna, Affirm, or Sezzle?",
-            "Which Airline Stock Dominated in September: American, United, or Delta?",
-            "Which Automaker Stock Dominated in September: Tesla, Ford, or General Motors?",
-            "Unity Software Surges 5% as Traders Weigh Meta Platforms VR Glasses Support; Adobe Rises 3%, Intuit Adds 2%",
-            "MP Materials Surges 6% as Traders Weigh Critical Minerals Growth Story; USA Rare Earth Rises 3%, Critical Metals Stays Flat",
-            "ChargePoint Jumps 7% as Electric September Run Persists; EVgo Falls 3%, Blink Charging Slips",
-            "GameStop Pops 4% on Ryan Cohen\u2019s Buying Binge; Take-Two Interactive and Roblox Advance 3%",
-            "\u201cCleveland-Cliffs Rises 3% as Steel-Stock Selloff Subsides; Nucor and Steel Dynamics Tick Higher",
-            "Intel Rises 3% as Chip Contender Caps Off Surprisingly Strong September; NVIDIA Ticks Up, AMD Slips",
-            "Alphabet Rallies 3% as Traders Weigh White House Safety Accord; Apple Gains 2.5%, Meta Platforms Treads Water"
-          ],
-          "spx": [
-            "Sandisk bulls had a surprising third quarter",
-            "Stock Market Today: Nasdaq Up, Dow Struggles; Palo Alto Networks Breaks Out (Live Coverage)",
-            "Moderna Stock Has Run Too Far, Too Fast. Why Citi Just Downgraded It to Sell.",
-            "Buy Target Stock, Analyst Says. The Turnaround Is Taking Hold.",
-            "Cigna Investor Day Spotlights Specialty Drugs",
-            "Key Fed Inflation Rate Slides, But Was It A Mirage?",
-            "41.7% of Berkshire Hathaway's $357 Billion Portfolio Is Parked in 3 Artificial Intelligence (AI) Stocks",
-            "3 Reasons MOV is Risky and 1 Stock to Buy Instead",
-            "Can Micron Break the Boom and Bust Cycle With Its Earnings Report?",
-            "3 Reasons to Sell CRI and 1 Stock to Buy Instead"
-          ]
+          "ticker": [],
+          "spy": [],
+          "spx": []
         }
       },
       "exit": null,
@@ -2282,54 +1875,20 @@
         "auto_note": "FANG PUT | $-16.99 (-8.03%) | dollar_loser_1 | Strike $185.0 exp 2026-09-18 (1DTE) | IV 53.9% | SPY +nan% | MACRO: fed, war"
       },
       "news_scan": {
-        "scanned_at": "2026-09-30 19:31:47 PST",
-        "gap_days": 13,
+        "scanned_at": "2026-10-01 18:57:54 PST",
+        "gap_days": 14,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bullish",
-        "spx_sentiment": "bearish",
+        "spy_sentiment": "neutral",
+        "spx_sentiment": "neutral",
         "keywords_found": [],
-        "spy_keywords": [
-          "surge",
-          "jumps",
-          "rallies",
-          "falls"
-        ],
-        "spx_keywords": [
-          "downgrade",
-          "downgraded"
-        ],
+        "spy_keywords": [],
+        "spx_keywords": [],
         "decision": "sell",
         "decision_reason": "no confirmation for PUT thesis \u2014 sell at open",
         "raw_headlines": {
-          "ticker": [
-            "Oil Hovers Around $90: Are Permian Stocks Well Poised to Gain?",
-            "1 Growth Stock with All-Star Potential and 2 We Ignore",
-            "Oil Companies Enter 2027 With Their Strongest Balance Sheets in Years. Here's What to Expect Next Year."
-          ],
-          "spy": [
-            "Which Buy Now Pay Later Stock Dominated in September: Klarna, Affirm, or Sezzle?",
-            "Which Airline Stock Dominated in September: American, United, or Delta?",
-            "Which Automaker Stock Dominated in September: Tesla, Ford, or General Motors?",
-            "Unity Software Surges 5% as Traders Weigh Meta Platforms VR Glasses Support; Adobe Rises 3%, Intuit Adds 2%",
-            "MP Materials Surges 6% as Traders Weigh Critical Minerals Growth Story; USA Rare Earth Rises 3%, Critical Metals Stays Flat",
-            "ChargePoint Jumps 7% as Electric September Run Persists; EVgo Falls 3%, Blink Charging Slips",
-            "GameStop Pops 4% on Ryan Cohen\u2019s Buying Binge; Take-Two Interactive and Roblox Advance 3%",
-            "\u201cCleveland-Cliffs Rises 3% as Steel-Stock Selloff Subsides; Nucor and Steel Dynamics Tick Higher",
-            "Intel Rises 3% as Chip Contender Caps Off Surprisingly Strong September; NVIDIA Ticks Up, AMD Slips",
-            "Alphabet Rallies 3% as Traders Weigh White House Safety Accord; Apple Gains 2.5%, Meta Platforms Treads Water"
-          ],
-          "spx": [
-            "Sandisk bulls had a surprising third quarter",
-            "Stock Market Today: Nasdaq Up, Dow Struggles; Palo Alto Networks Breaks Out (Live Coverage)",
-            "Moderna Stock Has Run Too Far, Too Fast. Why Citi Just Downgraded It to Sell.",
-            "Buy Target Stock, Analyst Says. The Turnaround Is Taking Hold.",
-            "Cigna Investor Day Spotlights Specialty Drugs",
-            "Key Fed Inflation Rate Slides, But Was It A Mirage?",
-            "41.7% of Berkshire Hathaway's $357 Billion Portfolio Is Parked in 3 Artificial Intelligence (AI) Stocks",
-            "3 Reasons MOV is Risky and 1 Stock to Buy Instead",
-            "Can Micron Break the Boom and Bust Cycle With Its Earnings Report?",
-            "3 Reasons to Sell CRI and 1 Stock to Buy Instead"
-          ]
+          "ticker": [],
+          "spy": [],
+          "spx": []
         }
       },
       "exit": null,
@@ -2371,64 +1930,20 @@
         "auto_note": "ARM CALL | $+47.29 (+17.16%) | dollar_gainer_1 | Strike $400.0 exp 2026-09-25 (3DTE) | IV 120.3% | SPY +nan% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-09-30 19:31:47 PST",
-        "gap_days": 8,
-        "ticker_sentiment": "bullish",
-        "spy_sentiment": "bullish",
-        "spx_sentiment": "bearish",
-        "keywords_found": [
-          "surge",
-          "jumps"
-        ],
-        "spy_keywords": [
-          "surge",
-          "jumps",
-          "rallies",
-          "falls"
-        ],
-        "spx_keywords": [
-          "downgrade",
-          "downgraded"
-        ],
-        "decision": "hold",
-        "decision_reason": "bullish keywords confirmed CALL thesis",
+        "scanned_at": "2026-10-01 18:57:54 PST",
+        "gap_days": 9,
+        "ticker_sentiment": "neutral",
+        "spy_sentiment": "neutral",
+        "spx_sentiment": "neutral",
+        "keywords_found": [],
+        "spy_keywords": [],
+        "spx_keywords": [],
+        "decision": "sell",
+        "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
         "raw_headlines": {
-          "ticker": [
-            "Arm Is Betting on a World Where Everything Needs a Chip",
-            "Arm Stocks Fall as BlueField-4 Opens Another AI Royalty Lane",
-            "Arm Stock Surges 5.24% as Agent Safety Needs Two Silicon Layers",
-            "NVIDIA Just Turned AI Safety Into a Spending Story and These 3 Stocks Benefit",
-            "European Equities Traded in the US as American Depositary Receipts Lower in Tuesday Trading",
-            "Arm Jumps 5% as Chip Selloff Unwinds; Marvell Climbs 4%, Qualcomm Inches Higher",
-            "What Changed For Intel Stock, And What Did Not?",
-            "Arm (ARM) Stock Looks Overvalued After Its 442% Three Year Run",
-            "Nasdaq Futures Gain as Chipmakers Rebound; U.S. JOLTS Report and AI Events in Focus",
-            "Arm Holdings (ARM) Could Be 34% Undervalued On Its AI Growth Narrative"
-          ],
-          "spy": [
-            "Which Buy Now Pay Later Stock Dominated in September: Klarna, Affirm, or Sezzle?",
-            "Which Airline Stock Dominated in September: American, United, or Delta?",
-            "Which Automaker Stock Dominated in September: Tesla, Ford, or General Motors?",
-            "Unity Software Surges 5% as Traders Weigh Meta Platforms VR Glasses Support; Adobe Rises 3%, Intuit Adds 2%",
-            "MP Materials Surges 6% as Traders Weigh Critical Minerals Growth Story; USA Rare Earth Rises 3%, Critical Metals Stays Flat",
-            "ChargePoint Jumps 7% as Electric September Run Persists; EVgo Falls 3%, Blink Charging Slips",
-            "GameStop Pops 4% on Ryan Cohen\u2019s Buying Binge; Take-Two Interactive and Roblox Advance 3%",
-            "\u201cCleveland-Cliffs Rises 3% as Steel-Stock Selloff Subsides; Nucor and Steel Dynamics Tick Higher",
-            "Intel Rises 3% as Chip Contender Caps Off Surprisingly Strong September; NVIDIA Ticks Up, AMD Slips",
-            "Alphabet Rallies 3% as Traders Weigh White House Safety Accord; Apple Gains 2.5%, Meta Platforms Treads Water"
-          ],
-          "spx": [
-            "Sandisk bulls had a surprising third quarter",
-            "Stock Market Today: Nasdaq Up, Dow Struggles; Palo Alto Networks Breaks Out (Live Coverage)",
-            "Moderna Stock Has Run Too Far, Too Fast. Why Citi Just Downgraded It to Sell.",
-            "Buy Target Stock, Analyst Says. The Turnaround Is Taking Hold.",
-            "Cigna Investor Day Spotlights Specialty Drugs",
-            "Key Fed Inflation Rate Slides, But Was It A Mirage?",
-            "41.7% of Berkshire Hathaway's $357 Billion Portfolio Is Parked in 3 Artificial Intelligence (AI) Stocks",
-            "3 Reasons MOV is Risky and 1 Stock to Buy Instead",
-            "Can Micron Break the Boom and Bust Cycle With Its Earnings Report?",
-            "3 Reasons to Sell CRI and 1 Stock to Buy Instead"
-          ]
+          "ticker": [],
+          "spy": [],
+          "spx": []
         }
       },
       "exit": null,
@@ -2470,56 +1985,20 @@
         "auto_note": "FAS PUT | $-10.61 (-6.50%) | dollar_loser_1 | Strike $145.0 exp 2026-09-25 (2DTE) | IV 57.9% | SPY +nan% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-09-30 19:31:47 PST",
-        "gap_days": 7,
+        "scanned_at": "2026-10-01 18:57:54 PST",
+        "gap_days": 8,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bullish",
-        "spx_sentiment": "bearish",
+        "spy_sentiment": "neutral",
+        "spx_sentiment": "neutral",
         "keywords_found": [],
-        "spy_keywords": [
-          "surge",
-          "jumps",
-          "rallies",
-          "falls"
-        ],
-        "spx_keywords": [
-          "downgrade",
-          "downgraded"
-        ],
+        "spy_keywords": [],
+        "spx_keywords": [],
         "decision": "sell",
         "decision_reason": "no confirmation for PUT thesis \u2014 sell at open",
         "raw_headlines": {
-          "ticker": [
-            "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Wednesday Amid Inflation Data Release",
-            "Exchange-Traded Funds Lower as US Equities Drop After Midday",
-            "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Tuesday as Investors Weigh Tech Rebound",
-            "Exchange-Traded Funds Lower as US Equities Decline After Midday",
-            "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Monday as Oil Prices Rise"
-          ],
-          "spy": [
-            "Which Buy Now Pay Later Stock Dominated in September: Klarna, Affirm, or Sezzle?",
-            "Which Airline Stock Dominated in September: American, United, or Delta?",
-            "Which Automaker Stock Dominated in September: Tesla, Ford, or General Motors?",
-            "Unity Software Surges 5% as Traders Weigh Meta Platforms VR Glasses Support; Adobe Rises 3%, Intuit Adds 2%",
-            "MP Materials Surges 6% as Traders Weigh Critical Minerals Growth Story; USA Rare Earth Rises 3%, Critical Metals Stays Flat",
-            "ChargePoint Jumps 7% as Electric September Run Persists; EVgo Falls 3%, Blink Charging Slips",
-            "GameStop Pops 4% on Ryan Cohen\u2019s Buying Binge; Take-Two Interactive and Roblox Advance 3%",
-            "\u201cCleveland-Cliffs Rises 3% as Steel-Stock Selloff Subsides; Nucor and Steel Dynamics Tick Higher",
-            "Intel Rises 3% as Chip Contender Caps Off Surprisingly Strong September; NVIDIA Ticks Up, AMD Slips",
-            "Alphabet Rallies 3% as Traders Weigh White House Safety Accord; Apple Gains 2.5%, Meta Platforms Treads Water"
-          ],
-          "spx": [
-            "Sandisk bulls had a surprising third quarter",
-            "Stock Market Today: Nasdaq Up, Dow Struggles; Palo Alto Networks Breaks Out (Live Coverage)",
-            "Moderna Stock Has Run Too Far, Too Fast. Why Citi Just Downgraded It to Sell.",
-            "Buy Target Stock, Analyst Says. The Turnaround Is Taking Hold.",
-            "Cigna Investor Day Spotlights Specialty Drugs",
-            "Key Fed Inflation Rate Slides, But Was It A Mirage?",
-            "41.7% of Berkshire Hathaway's $357 Billion Portfolio Is Parked in 3 Artificial Intelligence (AI) Stocks",
-            "3 Reasons MOV is Risky and 1 Stock to Buy Instead",
-            "Can Micron Break the Boom and Bust Cycle With Its Earnings Report?",
-            "3 Reasons to Sell CRI and 1 Stock to Buy Instead"
-          ]
+          "ticker": [],
+          "spy": [],
+          "spx": []
         }
       },
       "exit": null,
@@ -2563,63 +2042,20 @@
         "auto_note": "IONQ CALL | $+1.80 (+4.42%) | dollar_gainer_1 | Strike $43.0 exp 2026-09-25 (1DTE) | IV 84.7% | SPY +nan% | MACRO: rate hike"
       },
       "news_scan": {
-        "scanned_at": "2026-09-30 19:31:47 PST",
-        "gap_days": 6,
-        "ticker_sentiment": "bullish",
-        "spy_sentiment": "bullish",
-        "spx_sentiment": "bearish",
-        "keywords_found": [
-          "jumps"
-        ],
-        "spy_keywords": [
-          "surge",
-          "jumps",
-          "rallies",
-          "falls"
-        ],
-        "spx_keywords": [
-          "downgrade",
-          "downgraded"
-        ],
-        "decision": "hold",
-        "decision_reason": "bullish keywords confirmed CALL thesis",
+        "scanned_at": "2026-10-01 18:57:54 PST",
+        "gap_days": 7,
+        "ticker_sentiment": "neutral",
+        "spy_sentiment": "neutral",
+        "spx_sentiment": "neutral",
+        "keywords_found": [],
+        "spy_keywords": [],
+        "spx_keywords": [],
+        "decision": "sell",
+        "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
         "raw_headlines": {
-          "ticker": [
-            "IonQ Jumps 4% on BoA Buy Rating; Rigetti and D-Wave Quantum Gain 2%",
-            "One Year Later, Only One Quantum Stock Call Paid Off. Here\u2019s What Changed.",
-            "IonQ vs. Microsoft: Which Stock Has More Quantum Upside in October?",
-            "A Year Ago, We Called IBM the Next Nvidia. It Lost Money but Still Beat Every Quantum Startup.",
-            "BofA Rated IonQ a Buy at $60 but Valued Its Foundry at 2 Times Sales. Here\u2019s Why That Split Matters",
-            "Is IonQ Still a Buy Right Now?",
-            "Quantum Computing Stocks Need A Spark. Could Congress Deliver Soon?",
-            "IonQ, Inc. (IONQ) is Attracting Investor Attention: Here is What You Should Know",
-            "Bank of America makes fresh 33% call on surging quantum stock",
-            "IonQ (IONQ): BofA Sees Upside as Quantum Roadmap Gains Commercial Traction"
-          ],
-          "spy": [
-            "Which Buy Now Pay Later Stock Dominated in September: Klarna, Affirm, or Sezzle?",
-            "Which Airline Stock Dominated in September: American, United, or Delta?",
-            "Which Automaker Stock Dominated in September: Tesla, Ford, or General Motors?",
-            "Unity Software Surges 5% as Traders Weigh Meta Platforms VR Glasses Support; Adobe Rises 3%, Intuit Adds 2%",
-            "MP Materials Surges 6% as Traders Weigh Critical Minerals Growth Story; USA Rare Earth Rises 3%, Critical Metals Stays Flat",
-            "ChargePoint Jumps 7% as Electric September Run Persists; EVgo Falls 3%, Blink Charging Slips",
-            "GameStop Pops 4% on Ryan Cohen\u2019s Buying Binge; Take-Two Interactive and Roblox Advance 3%",
-            "\u201cCleveland-Cliffs Rises 3% as Steel-Stock Selloff Subsides; Nucor and Steel Dynamics Tick Higher",
-            "Intel Rises 3% as Chip Contender Caps Off Surprisingly Strong September; NVIDIA Ticks Up, AMD Slips",
-            "Alphabet Rallies 3% as Traders Weigh White House Safety Accord; Apple Gains 2.5%, Meta Platforms Treads Water"
-          ],
-          "spx": [
-            "Sandisk bulls had a surprising third quarter",
-            "Stock Market Today: Nasdaq Up, Dow Struggles; Palo Alto Networks Breaks Out (Live Coverage)",
-            "Moderna Stock Has Run Too Far, Too Fast. Why Citi Just Downgraded It to Sell.",
-            "Buy Target Stock, Analyst Says. The Turnaround Is Taking Hold.",
-            "Cigna Investor Day Spotlights Specialty Drugs",
-            "Key Fed Inflation Rate Slides, But Was It A Mirage?",
-            "41.7% of Berkshire Hathaway's $357 Billion Portfolio Is Parked in 3 Artificial Intelligence (AI) Stocks",
-            "3 Reasons MOV is Risky and 1 Stock to Buy Instead",
-            "Can Micron Break the Boom and Bust Cycle With Its Earnings Report?",
-            "3 Reasons to Sell CRI and 1 Stock to Buy Instead"
-          ]
+          "ticker": [],
+          "spy": [],
+          "spx": []
         }
       },
       "exit": null,
@@ -2663,52 +2099,20 @@
         "auto_note": "CRDO CALL | $+15.00 (+7.65%) | dollar_gainer_1 | Strike $250.0 exp 2026-10-02 (6DTE) | IV 83.2% | SPY +nan% | MACRO: war"
       },
       "news_scan": {
-        "scanned_at": "2026-09-30 19:31:47 PST",
-        "gap_days": 4,
+        "scanned_at": "2026-10-01 18:57:54 PST",
+        "gap_days": 5,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bullish",
-        "spx_sentiment": "bearish",
+        "spy_sentiment": "neutral",
+        "spx_sentiment": "neutral",
         "keywords_found": [],
-        "spy_keywords": [
-          "surge",
-          "jumps",
-          "rallies",
-          "falls"
-        ],
-        "spx_keywords": [
-          "downgrade",
-          "downgraded"
-        ],
-        "decision": "hold",
-        "decision_reason": "neutral keywords confirmed CALL thesis",
+        "spy_keywords": [],
+        "spx_keywords": [],
+        "decision": "sell",
+        "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
         "raw_headlines": {
-          "ticker": [
-            "Wall Street Is Watching Nvidia. I\u2019m Watching Credo. Here\u2019s My 2027 Price Target"
-          ],
-          "spy": [
-            "Which Buy Now Pay Later Stock Dominated in September: Klarna, Affirm, or Sezzle?",
-            "Which Airline Stock Dominated in September: American, United, or Delta?",
-            "Which Automaker Stock Dominated in September: Tesla, Ford, or General Motors?",
-            "Unity Software Surges 5% as Traders Weigh Meta Platforms VR Glasses Support; Adobe Rises 3%, Intuit Adds 2%",
-            "MP Materials Surges 6% as Traders Weigh Critical Minerals Growth Story; USA Rare Earth Rises 3%, Critical Metals Stays Flat",
-            "ChargePoint Jumps 7% as Electric September Run Persists; EVgo Falls 3%, Blink Charging Slips",
-            "GameStop Pops 4% on Ryan Cohen\u2019s Buying Binge; Take-Two Interactive and Roblox Advance 3%",
-            "\u201cCleveland-Cliffs Rises 3% as Steel-Stock Selloff Subsides; Nucor and Steel Dynamics Tick Higher",
-            "Intel Rises 3% as Chip Contender Caps Off Surprisingly Strong September; NVIDIA Ticks Up, AMD Slips",
-            "Alphabet Rallies 3% as Traders Weigh White House Safety Accord; Apple Gains 2.5%, Meta Platforms Treads Water"
-          ],
-          "spx": [
-            "Sandisk bulls had a surprising third quarter",
-            "Stock Market Today: Nasdaq Up, Dow Struggles; Palo Alto Networks Breaks Out (Live Coverage)",
-            "Moderna Stock Has Run Too Far, Too Fast. Why Citi Just Downgraded It to Sell.",
-            "Buy Target Stock, Analyst Says. The Turnaround Is Taking Hold.",
-            "Cigna Investor Day Spotlights Specialty Drugs",
-            "Key Fed Inflation Rate Slides, But Was It A Mirage?",
-            "41.7% of Berkshire Hathaway's $357 Billion Portfolio Is Parked in 3 Artificial Intelligence (AI) Stocks",
-            "3 Reasons MOV is Risky and 1 Stock to Buy Instead",
-            "Can Micron Break the Boom and Bust Cycle With Its Earnings Report?",
-            "3 Reasons to Sell CRI and 1 Stock to Buy Instead"
-          ]
+          "ticker": [],
+          "spy": [],
+          "spx": []
         }
       },
       "exit": null,
@@ -2750,61 +2154,20 @@
         "auto_note": "SHEL CALL | $+0.69 (+0.72%) | dollar_gainer_1 | Strike $97.0 exp 2026-10-02 (3DTE) | IV 29.6% | SPY -0.74% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-09-30 19:31:47 PST",
-        "gap_days": 1,
+        "scanned_at": "2026-10-01 18:57:54 PST",
+        "gap_days": 2,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bullish",
-        "spx_sentiment": "bearish",
+        "spy_sentiment": "neutral",
+        "spx_sentiment": "neutral",
         "keywords_found": [],
-        "spy_keywords": [
-          "surge",
-          "jumps",
-          "rallies",
-          "falls"
-        ],
-        "spx_keywords": [
-          "downgrade",
-          "downgraded"
-        ],
-        "decision": "hold",
-        "decision_reason": "neutral keywords confirmed CALL thesis",
+        "spy_keywords": [],
+        "spx_keywords": [],
+        "decision": "sell",
+        "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
         "raw_headlines": {
-          "ticker": [
-            "TC Energy Advances Coastal GasLink Phase 2 Expansion Plans",
-            "Shell Greenlights LNG Canada Phase 2, Doubling Export Capacity",
-            "Sector Update: Energy Stocks Advance Pre-Bell Wednesday",
-            "Fluor-JGC JV receives NTP for LNG Canada phase two expansion",
-            "Market Chatter: Shell, TotalEnergies, ExxonMobil Face $5.2 Billion Kazakhstan Fine",
-            "News of the day: LNG Canada expansion, GDP stalls, interest rate expectations, Northern Shield pipeline, financial crime and more",
-            "Shell (SHEL) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
-            "Sector Update: Energy Stocks Fall Late Afternoon",
-            "Shell approves C$33 billion LNG Canada expansion",
-            "Sector Update: Energy Stocks Softer Tuesday Afternoon"
-          ],
-          "spy": [
-            "Which Buy Now Pay Later Stock Dominated in September: Klarna, Affirm, or Sezzle?",
-            "Which Airline Stock Dominated in September: American, United, or Delta?",
-            "Which Automaker Stock Dominated in September: Tesla, Ford, or General Motors?",
-            "Unity Software Surges 5% as Traders Weigh Meta Platforms VR Glasses Support; Adobe Rises 3%, Intuit Adds 2%",
-            "MP Materials Surges 6% as Traders Weigh Critical Minerals Growth Story; USA Rare Earth Rises 3%, Critical Metals Stays Flat",
-            "ChargePoint Jumps 7% as Electric September Run Persists; EVgo Falls 3%, Blink Charging Slips",
-            "GameStop Pops 4% on Ryan Cohen\u2019s Buying Binge; Take-Two Interactive and Roblox Advance 3%",
-            "\u201cCleveland-Cliffs Rises 3% as Steel-Stock Selloff Subsides; Nucor and Steel Dynamics Tick Higher",
-            "Intel Rises 3% as Chip Contender Caps Off Surprisingly Strong September; NVIDIA Ticks Up, AMD Slips",
-            "Alphabet Rallies 3% as Traders Weigh White House Safety Accord; Apple Gains 2.5%, Meta Platforms Treads Water"
-          ],
-          "spx": [
-            "Sandisk bulls had a surprising third quarter",
-            "Stock Market Today: Nasdaq Up, Dow Struggles; Palo Alto Networks Breaks Out (Live Coverage)",
-            "Moderna Stock Has Run Too Far, Too Fast. Why Citi Just Downgraded It to Sell.",
-            "Buy Target Stock, Analyst Says. The Turnaround Is Taking Hold.",
-            "Cigna Investor Day Spotlights Specialty Drugs",
-            "Key Fed Inflation Rate Slides, But Was It A Mirage?",
-            "41.7% of Berkshire Hathaway's $357 Billion Portfolio Is Parked in 3 Artificial Intelligence (AI) Stocks",
-            "3 Reasons MOV is Risky and 1 Stock to Buy Instead",
-            "Can Micron Break the Boom and Bust Cycle With Its Earnings Report?",
-            "3 Reasons to Sell CRI and 1 Stock to Buy Instead"
-          ]
+          "ticker": [],
+          "spy": [],
+          "spx": []
         }
       },
       "exit": null,
@@ -2846,61 +2209,20 @@
         "auto_note": "SHEL PUT | $+0.69 (+0.72%) | dollar_loser_1 | Strike $95.0 exp 2026-10-02 (3DTE) | IV 35.4% | SPY -0.74% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-09-30 19:31:47 PST",
-        "gap_days": 1,
+        "scanned_at": "2026-10-01 18:57:54 PST",
+        "gap_days": 2,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bullish",
-        "spx_sentiment": "bearish",
+        "spy_sentiment": "neutral",
+        "spx_sentiment": "neutral",
         "keywords_found": [],
-        "spy_keywords": [
-          "surge",
-          "jumps",
-          "rallies",
-          "falls"
-        ],
-        "spx_keywords": [
-          "downgrade",
-          "downgraded"
-        ],
+        "spy_keywords": [],
+        "spx_keywords": [],
         "decision": "sell",
         "decision_reason": "no confirmation for PUT thesis \u2014 sell at open",
         "raw_headlines": {
-          "ticker": [
-            "TC Energy Advances Coastal GasLink Phase 2 Expansion Plans",
-            "Shell Greenlights LNG Canada Phase 2, Doubling Export Capacity",
-            "Sector Update: Energy Stocks Advance Pre-Bell Wednesday",
-            "Fluor-JGC JV receives NTP for LNG Canada phase two expansion",
-            "Market Chatter: Shell, TotalEnergies, ExxonMobil Face $5.2 Billion Kazakhstan Fine",
-            "News of the day: LNG Canada expansion, GDP stalls, interest rate expectations, Northern Shield pipeline, financial crime and more",
-            "Shell (SHEL) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
-            "Sector Update: Energy Stocks Fall Late Afternoon",
-            "Shell approves C$33 billion LNG Canada expansion",
-            "Sector Update: Energy Stocks Softer Tuesday Afternoon"
-          ],
-          "spy": [
-            "Which Buy Now Pay Later Stock Dominated in September: Klarna, Affirm, or Sezzle?",
-            "Which Airline Stock Dominated in September: American, United, or Delta?",
-            "Which Automaker Stock Dominated in September: Tesla, Ford, or General Motors?",
-            "Unity Software Surges 5% as Traders Weigh Meta Platforms VR Glasses Support; Adobe Rises 3%, Intuit Adds 2%",
-            "MP Materials Surges 6% as Traders Weigh Critical Minerals Growth Story; USA Rare Earth Rises 3%, Critical Metals Stays Flat",
-            "ChargePoint Jumps 7% as Electric September Run Persists; EVgo Falls 3%, Blink Charging Slips",
-            "GameStop Pops 4% on Ryan Cohen\u2019s Buying Binge; Take-Two Interactive and Roblox Advance 3%",
-            "\u201cCleveland-Cliffs Rises 3% as Steel-Stock Selloff Subsides; Nucor and Steel Dynamics Tick Higher",
-            "Intel Rises 3% as Chip Contender Caps Off Surprisingly Strong September; NVIDIA Ticks Up, AMD Slips",
-            "Alphabet Rallies 3% as Traders Weigh White House Safety Accord; Apple Gains 2.5%, Meta Platforms Treads Water"
-          ],
-          "spx": [
-            "Sandisk bulls had a surprising third quarter",
-            "Stock Market Today: Nasdaq Up, Dow Struggles; Palo Alto Networks Breaks Out (Live Coverage)",
-            "Moderna Stock Has Run Too Far, Too Fast. Why Citi Just Downgraded It to Sell.",
-            "Buy Target Stock, Analyst Says. The Turnaround Is Taking Hold.",
-            "Cigna Investor Day Spotlights Specialty Drugs",
-            "Key Fed Inflation Rate Slides, But Was It A Mirage?",
-            "41.7% of Berkshire Hathaway's $357 Billion Portfolio Is Parked in 3 Artificial Intelligence (AI) Stocks",
-            "3 Reasons MOV is Risky and 1 Stock to Buy Instead",
-            "Can Micron Break the Boom and Bust Cycle With Its Earnings Report?",
-            "3 Reasons to Sell CRI and 1 Stock to Buy Instead"
-          ]
+          "ticker": [],
+          "spy": [],
+          "spx": []
         }
       },
       "exit": null,
@@ -2944,7 +2266,23 @@
         ],
         "auto_note": "SNPS CALL | $+19.85 (+4.78%) | dollar_gainer_1 | Strike $470.0 exp 2026-10-02 (1DTE) | IV 68.4% | SPY -0.21% | MACRO: war, tariff"
       },
-      "news_scan": null,
+      "news_scan": {
+        "scanned_at": "2026-10-01 18:57:54 PST",
+        "gap_days": 0,
+        "ticker_sentiment": "neutral",
+        "spy_sentiment": "neutral",
+        "spx_sentiment": "neutral",
+        "keywords_found": [],
+        "spy_keywords": [],
+        "spx_keywords": [],
+        "decision": "sell",
+        "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
+        "raw_headlines": {
+          "ticker": [],
+          "spy": [],
+          "spx": []
+        }
+      },
       "exit": null,
       "fomo": null
     },
@@ -2986,7 +2324,23 @@
         ],
         "auto_note": "JBL PUT | $-31.98 (-10.03%) | dollar_loser_1 | Strike $270.0 exp 2026-10-02 (1DTE) | IV 60.3% | SPY -0.21% | MACRO: war, tariff"
       },
-      "news_scan": null,
+      "news_scan": {
+        "scanned_at": "2026-10-01 18:57:54 PST",
+        "gap_days": 0,
+        "ticker_sentiment": "neutral",
+        "spy_sentiment": "neutral",
+        "spx_sentiment": "neutral",
+        "keywords_found": [],
+        "spy_keywords": [],
+        "spx_keywords": [],
+        "decision": "sell",
+        "decision_reason": "no confirmation for PUT thesis \u2014 sell at open",
+        "raw_headlines": {
+          "ticker": [],
+          "spy": [],
+          "spx": []
+        }
+      },
       "exit": null,
       "fomo": null
     }
