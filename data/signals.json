@@ -1,250 +1,250 @@
 {
   "topGainers": [
     {
-      "ticker": "CDNL",
-      "name": "CARDINAL INFRASTRUCTURE GROUP CL A",
+      "ticker": "MAT",
+      "name": "MATTEL INC COM",
       "sector": "Unknown",
-      "price": 30.6,
-      "changePct": 11.8,
-      "changeDollar": 3.23
+      "price": 15.68,
+      "changePct": 23.85,
+      "changeDollar": 3.02
     },
     {
-      "ticker": "FORM",
-      "name": "FORMFACTOR INC COM",
+      "ticker": "ACN",
+      "name": "ACCENTURE PLC IRELAND SHS CLASS A",
       "sector": "Unknown",
-      "price": 149.31,
-      "changePct": 9.59,
-      "changeDollar": 13.06
+      "price": 214.85,
+      "changePct": 17.17,
+      "changeDollar": 31.48
     },
     {
-      "ticker": "SLS",
-      "name": "SELLAS LIFE SCIENCES GROUP INC COM NEW",
+      "ticker": "AAOX",
+      "name": "Tradr 2X Long AAOI Daily ETF",
       "sector": "Unknown",
-      "price": 12.31,
-      "changePct": 6.95,
-      "changeDollar": 0.8
+      "price": 10.69,
+      "changePct": 16.58,
+      "changeDollar": 1.52
     },
     {
-      "ticker": "AI",
-      "name": "C3 AI INC CL A",
+      "ticker": "FICO",
+      "name": "FAIR ISAAC CORP COM",
       "sector": "Unknown",
-      "price": 10.99,
-      "changePct": 6.29,
-      "changeDollar": 0.65
+      "price": 670.48,
+      "changePct": 13.17,
+      "changeDollar": 78.01
     },
     {
-      "ticker": "AMBQ",
-      "name": "AMBIQ MICRO INC COMMON STOCK",
+      "ticker": "EFOR",
+      "name": "EVERFORTH INC COM",
       "sector": "Unknown",
-      "price": 68.17,
-      "changePct": 5.18,
-      "changeDollar": 3.36
+      "price": 37.03,
+      "changePct": 12.55,
+      "changeDollar": 4.13
     },
     {
-      "ticker": "PAYS",
-      "name": "PAYSIGN INC COM",
+      "ticker": "AXTX",
+      "name": "Tradr 2X Long AXTI Daily ETF",
       "sector": "Unknown",
-      "price": 13.48,
-      "changePct": 4.9,
-      "changeDollar": 0.63
+      "price": 38.32,
+      "changePct": 10.69,
+      "changeDollar": 3.7
+    },
+    {
+      "ticker": "INOD",
+      "name": "INNODATA INC COM NEW",
+      "sector": "Unknown",
+      "price": 72.71,
+      "changePct": 10.57,
+      "changeDollar": 6.95
     },
     {
       "ticker": "DXC",
       "name": "DXC TECHNOLOGY CO COM",
       "sector": "Unknown",
-      "price": 10.83,
-      "changePct": 4.84,
-      "changeDollar": 0.5
+      "price": 11.84,
+      "changePct": 9.33,
+      "changeDollar": 1.01
     },
     {
-      "ticker": "SNPS",
-      "name": "SYNOPSYS INC COM",
+      "ticker": "GWRE",
+      "name": "GUIDEWIRE SOFTWARE INC COM",
       "sector": "Unknown",
-      "price": 434.94,
-      "changePct": 4.78,
-      "changeDollar": 19.85
+      "price": 155.72,
+      "changePct": 9.22,
+      "changeDollar": 13.14
     },
     {
-      "ticker": "BZ",
-      "name": "KANZHUN LIMITED SPONSORED ADS",
+      "ticker": "MSTU",
+      "name": "T-Rex 2X Long MSTR Daily Target ETF",
       "sector": "Unknown",
-      "price": 14.8,
-      "changePct": 4.45,
-      "changeDollar": 0.63
-    },
-    {
-      "ticker": "RPD",
-      "name": "RAPID7 INC COM",
-      "sector": "Unknown",
-      "price": 12.22,
-      "changePct": 4.44,
-      "changeDollar": 0.52
+      "price": 43.25,
+      "changePct": 8.78,
+      "changeDollar": 3.49
     }
   ],
   "topLosers": [
     {
-      "ticker": "STC",
-      "name": "STEWART INFORMATION SVCS CORP COM",
+      "ticker": "NKTR",
+      "name": "NEKTAR THERAPEUTICS COM NEW",
       "sector": "Unknown",
-      "price": 49.71,
-      "changePct": -12.42,
-      "changeDollar": -7.05
+      "price": 48.66,
+      "changePct": -19.64,
+      "changeDollar": -11.89
     },
     {
-      "ticker": "JBL",
-      "name": "JABIL INC COM",
+      "ticker": "AAOZ",
+      "name": "Tradr 2X Short AAOI Daily ETF",
       "sector": "Unknown",
-      "price": 286.86,
-      "changePct": -10.03,
-      "changeDollar": -31.98
-    },
-    {
-      "ticker": "MTG",
-      "name": "MGIC INVT CORP WIS COM",
-      "sector": "Unknown",
-      "price": 25.84,
-      "changePct": -8.53,
-      "changeDollar": -2.41
-    },
-    {
-      "ticker": "KORU",
-      "name": "DIREXION SHARES ETF TRUST DAIL MS KORE ETF",
-      "sector": "Unknown",
-      "price": 20.02,
-      "changePct": -6.75,
-      "changeDollar": -1.45
-    },
-    {
-      "ticker": "RDN",
-      "name": "RADIAN GROUP INC COM",
-      "sector": "Unknown",
-      "price": 30.61,
-      "changePct": -6.53,
-      "changeDollar": -2.14
-    },
-    {
-      "ticker": "ROBN",
-      "name": "T-Rex 2X Long HOOD Daily Target ETF",
-      "sector": "Unknown",
-      "price": 32.32,
-      "changePct": -6.37,
-      "changeDollar": -2.2
-    },
-    {
-      "ticker": "INSP",
-      "name": "INSPIRE MED SYS INC COM",
-      "sector": "Unknown",
-      "price": 69.36,
-      "changePct": -5.22,
-      "changeDollar": -3.82
-    },
-    {
-      "ticker": "GIS",
-      "name": "GENERAL MILLS INC COM",
-      "sector": "Unknown",
-      "price": 32.16,
-      "changePct": -4.91,
-      "changeDollar": -1.66
-    },
-    {
-      "ticker": "BE",
-      "name": "BLOOM ENERGY CORP COM CL A",
-      "sector": "Unknown",
-      "price": 276.98,
-      "changePct": -4.9,
-      "changeDollar": -14.27
-    },
-    {
-      "ticker": "CAG",
-      "name": "CONAGRA BRANDS INC COM",
-      "sector": "Unknown",
-      "price": 13.44,
-      "changePct": -4.88,
-      "changeDollar": -0.69
-    }
-  ],
-  "dollarGainers": [
-    {
-      "ticker": "SNPS",
-      "name": "SYNOPSYS INC COM",
-      "sector": "Unknown",
-      "price": 434.94,
-      "changePct": 4.78,
-      "changeDollar": 19.85
-    },
-    {
-      "ticker": "FORM",
-      "name": "FORMFACTOR INC COM",
-      "sector": "Unknown",
-      "price": 149.31,
-      "changePct": 9.59,
-      "changeDollar": 13.06
-    },
-    {
-      "ticker": "AMBQ",
-      "name": "AMBIQ MICRO INC COMMON STOCK",
-      "sector": "Unknown",
-      "price": 68.17,
-      "changePct": 5.18,
-      "changeDollar": 3.36
-    },
-    {
-      "ticker": "CDNL",
-      "name": "CARDINAL INFRASTRUCTURE GROUP CL A",
-      "sector": "Unknown",
-      "price": 30.6,
-      "changePct": 11.8,
-      "changeDollar": 3.23
+      "price": 11.85,
+      "changePct": -16.25,
+      "changeDollar": -2.3
     },
     {
       "ticker": "SLS",
       "name": "SELLAS LIFE SCIENCES GROUP INC COM NEW",
       "sector": "Unknown",
-      "price": 12.31,
-      "changePct": 6.95,
-      "changeDollar": 0.8
+      "price": 11.35,
+      "changePct": -7.8,
+      "changeDollar": -0.96
+    },
+    {
+      "ticker": "PRGS",
+      "name": "PROGRESS SOFTWARE CORP COM",
+      "sector": "Unknown",
+      "price": 37.33,
+      "changePct": -6.6,
+      "changeDollar": -2.64
+    },
+    {
+      "ticker": "RGEN",
+      "name": "REPLIGEN CORP COM",
+      "sector": "Unknown",
+      "price": 179.85,
+      "changePct": -6.44,
+      "changeDollar": -12.38
+    },
+    {
+      "ticker": "SPHR",
+      "name": "SPHERE ENTERTAINMENT CO CL A",
+      "sector": "Unknown",
+      "price": 125.96,
+      "changePct": -6.31,
+      "changeDollar": -8.48
+    },
+    {
+      "ticker": "GPCR",
+      "name": "STRUCTURE THERAPEUTICS INC SPONSORED ADS",
+      "sector": "Unknown",
+      "price": 29.36,
+      "changePct": -6.11,
+      "changeDollar": -1.91
+    },
+    {
+      "ticker": "APPX",
+      "name": "INVESTMENT MANAGERS SER TR II TRADR 2X LONG",
+      "sector": "Unknown",
+      "price": 10.24,
+      "changePct": -5.54,
+      "changeDollar": -0.6
+    },
+    {
+      "ticker": "MLYS",
+      "name": "MINERALYS THERAPEUTICS INC COM",
+      "sector": "Unknown",
+      "price": 23.78,
+      "changePct": -5.37,
+      "changeDollar": -1.35
+    },
+    {
+      "ticker": "CAI",
+      "name": "CARIS LIFE SCIENCES INC COM",
+      "sector": "Unknown",
+      "price": 29.04,
+      "changePct": -5.19,
+      "changeDollar": -1.59
+    }
+  ],
+  "dollarGainers": [
+    {
+      "ticker": "FICO",
+      "name": "FAIR ISAAC CORP COM",
+      "sector": "Unknown",
+      "price": 670.48,
+      "changePct": 13.17,
+      "changeDollar": 78.01
+    },
+    {
+      "ticker": "ACN",
+      "name": "ACCENTURE PLC IRELAND SHS CLASS A",
+      "sector": "Unknown",
+      "price": 214.85,
+      "changePct": 17.17,
+      "changeDollar": 31.48
+    },
+    {
+      "ticker": "GWRE",
+      "name": "GUIDEWIRE SOFTWARE INC COM",
+      "sector": "Unknown",
+      "price": 155.72,
+      "changePct": 9.22,
+      "changeDollar": 13.14
+    },
+    {
+      "ticker": "INOD",
+      "name": "INNODATA INC COM NEW",
+      "sector": "Unknown",
+      "price": 72.71,
+      "changePct": 10.57,
+      "changeDollar": 6.95
+    },
+    {
+      "ticker": "EFOR",
+      "name": "EVERFORTH INC COM",
+      "sector": "Unknown",
+      "price": 37.03,
+      "changePct": 12.55,
+      "changeDollar": 4.13
     }
   ],
   "dollarLosers": [
     {
-      "ticker": "JBL",
-      "name": "JABIL INC COM",
+      "ticker": "RGEN",
+      "name": "REPLIGEN CORP COM",
       "sector": "Unknown",
-      "price": 286.86,
-      "changePct": -10.03,
-      "changeDollar": -31.98
+      "price": 179.85,
+      "changePct": -6.44,
+      "changeDollar": -12.38
     },
     {
-      "ticker": "BE",
-      "name": "BLOOM ENERGY CORP COM CL A",
+      "ticker": "NKTR",
+      "name": "NEKTAR THERAPEUTICS COM NEW",
       "sector": "Unknown",
-      "price": 276.98,
-      "changePct": -4.9,
-      "changeDollar": -14.27
+      "price": 48.66,
+      "changePct": -19.64,
+      "changeDollar": -11.89
     },
     {
-      "ticker": "STC",
-      "name": "STEWART INFORMATION SVCS CORP COM",
+      "ticker": "SPHR",
+      "name": "SPHERE ENTERTAINMENT CO CL A",
       "sector": "Unknown",
-      "price": 49.71,
-      "changePct": -12.42,
-      "changeDollar": -7.05
+      "price": 125.96,
+      "changePct": -6.31,
+      "changeDollar": -8.48
     },
     {
-      "ticker": "INSP",
-      "name": "INSPIRE MED SYS INC COM",
+      "ticker": "PRGS",
+      "name": "PROGRESS SOFTWARE CORP COM",
       "sector": "Unknown",
-      "price": 69.36,
-      "changePct": -5.22,
-      "changeDollar": -3.82
+      "price": 37.33,
+      "changePct": -6.6,
+      "changeDollar": -2.64
     },
     {
-      "ticker": "MTG",
-      "name": "MGIC INVT CORP WIS COM",
+      "ticker": "AAOZ",
+      "name": "Tradr 2X Short AAOI Daily ETF",
       "sector": "Unknown",
-      "price": 25.84,
-      "changePct": -8.53,
-      "changeDollar": -2.41
+      "price": 11.85,
+      "changePct": -16.25,
+      "changeDollar": -2.3
     }
   ]
 }
