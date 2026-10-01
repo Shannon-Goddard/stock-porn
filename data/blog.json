@@ -350,5 +350,27 @@
     "youtube_id": null,
     "images": [],
     "published": true
+  },
+  {
+    "id": 30,
+    "date": "2026-10-01",
+    "ticker": "SNPS",
+    "type": "CALL",
+    "trade_id": 30,
+    "title": "SNPS CALL \u2014 2026-10-01",
+    "youtube_id": null,
+    "images": [],
+    "published": true
+  },
+  {
+    "id": 31,
+    "date": "2026-10-01",
+    "ticker": "JBL",
+    "type": "PUT",
+    "trade_id": 31,
+    "title": "JBL PUT \u2014 2026-10-01",
+    "youtube_id": null,
+    "images": [],
+    "published": true
   }
 ]

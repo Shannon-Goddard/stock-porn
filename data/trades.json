@@ -2905,6 +2905,90 @@
       },
       "exit": null,
       "fomo": null
+    },
+    {
+      "id": 30,
+      "status": "open",
+      "entry": {
+        "date": "2026-10-01",
+        "time": "15:55 PST",
+        "ticker": "SNPS",
+        "name": "SYNOPSYS INC COM",
+        "sector": "Unknown",
+        "type": "CALL",
+        "strike": 470.0,
+        "expiration": "2026-10-02",
+        "dte_at_entry": 1,
+        "T_at_entry": 0.00274,
+        "stock_price_at_entry": 434.94,
+        "premium": 1.0,
+        "cost": 100.0,
+        "bid": 0.25,
+        "spread": 0.75,
+        "iv_at_entry": 0.6841,
+        "otm_pct": 8.06,
+        "expected_move": {
+          "one_sigma_pct": 3.58,
+          "upper": 450.51,
+          "lower": 419.37,
+          "strike_position": "outside"
+        },
+        "signal_rank": "dollar_gainer_1",
+        "signal_pct": 4.78,
+        "signal_dollar": 19.85,
+        "spy_change": -0.21,
+        "macro_active": true,
+        "macro_keywords": [
+          "war",
+          "tariff"
+        ],
+        "auto_note": "SNPS CALL | $+19.85 (+4.78%) | dollar_gainer_1 | Strike $470.0 exp 2026-10-02 (1DTE) | IV 68.4% | SPY -0.21% | MACRO: war, tariff"
+      },
+      "news_scan": null,
+      "exit": null,
+      "fomo": null
+    },
+    {
+      "id": 31,
+      "status": "open",
+      "entry": {
+        "date": "2026-10-01",
+        "time": "15:55 PST",
+        "ticker": "JBL",
+        "name": "JABIL INC COM",
+        "sector": "Unknown",
+        "type": "PUT",
+        "strike": 270.0,
+        "expiration": "2026-10-02",
+        "dte_at_entry": 1,
+        "T_at_entry": 0.00274,
+        "stock_price_at_entry": 286.86,
+        "premium": 0.75,
+        "cost": 75.0,
+        "bid": 0.25,
+        "spread": 0.5,
+        "iv_at_entry": 0.603,
+        "otm_pct": 5.88,
+        "expected_move": {
+          "one_sigma_pct": 3.16,
+          "upper": 295.91,
+          "lower": 277.81,
+          "strike_position": "outside"
+        },
+        "signal_rank": "dollar_loser_1",
+        "signal_pct": -10.03,
+        "signal_dollar": -31.98,
+        "spy_change": -0.21,
+        "macro_active": true,
+        "macro_keywords": [
+          "war",
+          "tariff"
+        ],
+        "auto_note": "JBL PUT | $-31.98 (-10.03%) | dollar_loser_1 | Strike $270.0 exp 2026-10-02 (1DTE) | IV 60.3% | SPY -0.21% | MACRO: war, tariff"
+      },
+      "news_scan": null,
+      "exit": null,
+      "fomo": null
     }
   ]
 }
