@@ -4,81 +4,81 @@
       "ticker": "MAT",
       "name": "MATTEL INC COM",
       "sector": "Unknown",
-      "price": 15.68,
-      "changePct": 23.85,
-      "changeDollar": 3.02
-    },
-    {
-      "ticker": "ACN",
-      "name": "ACCENTURE PLC IRELAND SHS CLASS A",
-      "sector": "Unknown",
-      "price": 214.85,
-      "changePct": 17.17,
-      "changeDollar": 31.48
+      "price": 15.04,
+      "changePct": 18.8,
+      "changeDollar": 2.38
     },
     {
       "ticker": "AAOX",
       "name": "Tradr 2X Long AAOI Daily ETF",
       "sector": "Unknown",
-      "price": 10.69,
-      "changePct": 16.58,
-      "changeDollar": 1.52
+      "price": 10.65,
+      "changePct": 16.14,
+      "changeDollar": 1.48
+    },
+    {
+      "ticker": "SNPS",
+      "name": "SYNOPSYS INC COM",
+      "sector": "Unknown",
+      "price": 490.54,
+      "changePct": 12.78,
+      "changeDollar": 55.6
     },
     {
       "ticker": "FICO",
       "name": "FAIR ISAAC CORP COM",
       "sector": "Unknown",
-      "price": 670.48,
-      "changePct": 13.17,
-      "changeDollar": 78.01
+      "price": 661.75,
+      "changePct": 11.69,
+      "changeDollar": 69.28
+    },
+    {
+      "ticker": "WOLF",
+      "name": "WOLFSPEED INC COMMON STOCK",
+      "sector": "Unknown",
+      "price": 31.17,
+      "changePct": 10.81,
+      "changeDollar": 3.04
+    },
+    {
+      "ticker": "SKHX",
+      "name": "Leverage Shares 2X Long SK Hynix Daily ETF",
+      "sector": "Unknown",
+      "price": 18.49,
+      "changePct": 10.32,
+      "changeDollar": 1.73
     },
     {
       "ticker": "EFOR",
       "name": "EVERFORTH INC COM",
       "sector": "Unknown",
-      "price": 37.03,
-      "changePct": 12.55,
-      "changeDollar": 4.13
-    },
-    {
-      "ticker": "AXTX",
-      "name": "Tradr 2X Long AXTI Daily ETF",
-      "sector": "Unknown",
-      "price": 38.32,
-      "changePct": 10.69,
-      "changeDollar": 3.7
-    },
-    {
-      "ticker": "INOD",
-      "name": "INNODATA INC COM NEW",
-      "sector": "Unknown",
-      "price": 72.71,
-      "changePct": 10.57,
-      "changeDollar": 6.95
-    },
-    {
-      "ticker": "DXC",
-      "name": "DXC TECHNOLOGY CO COM",
-      "sector": "Unknown",
-      "price": 11.84,
-      "changePct": 9.33,
-      "changeDollar": 1.01
+      "price": 36.19,
+      "changePct": 10.0,
+      "changeDollar": 3.29
     },
     {
       "ticker": "GWRE",
       "name": "GUIDEWIRE SOFTWARE INC COM",
       "sector": "Unknown",
-      "price": 155.72,
-      "changePct": 9.22,
-      "changeDollar": 13.14
+      "price": 155.32,
+      "changePct": 8.94,
+      "changeDollar": 12.74
     },
     {
-      "ticker": "MSTU",
-      "name": "T-Rex 2X Long MSTR Daily Target ETF",
+      "ticker": "CBRZ",
+      "name": "Tradr 2X Short CBRS Daily ETF",
       "sector": "Unknown",
-      "price": 43.25,
+      "price": 11.4,
       "changePct": 8.78,
-      "changeDollar": 3.49
+      "changeDollar": 0.92
+    },
+    {
+      "ticker": "NVTX",
+      "name": "Tradr 2X Long NVTS Daily ETF",
+      "sector": "Unknown",
+      "price": 16.96,
+      "changePct": 8.72,
+      "changeDollar": 1.36
     }
   ],
   "topLosers": [
@@ -86,81 +86,81 @@
       "ticker": "NKTR",
       "name": "NEKTAR THERAPEUTICS COM NEW",
       "sector": "Unknown",
-      "price": 48.66,
-      "changePct": -19.64,
-      "changeDollar": -11.89
+      "price": 46.99,
+      "changePct": -22.39,
+      "changeDollar": -13.56
     },
     {
-      "ticker": "AAOZ",
-      "name": "Tradr 2X Short AAOI Daily ETF",
+      "ticker": "UMAC",
+      "name": "UNUSUAL MACHS INC COM SHS",
       "sector": "Unknown",
-      "price": 11.85,
-      "changePct": -16.25,
-      "changeDollar": -2.3
+      "price": 21.78,
+      "changePct": -11.03,
+      "changeDollar": -2.7
     },
     {
-      "ticker": "SLS",
-      "name": "SELLAS LIFE SCIENCES GROUP INC COM NEW",
+      "ticker": "SMST",
+      "name": "TIDAL TRUST II DEFI DA TA 2025",
       "sector": "Unknown",
-      "price": 11.35,
-      "changePct": -7.8,
-      "changeDollar": -0.96
-    },
-    {
-      "ticker": "PRGS",
-      "name": "PROGRESS SOFTWARE CORP COM",
-      "sector": "Unknown",
-      "price": 37.33,
-      "changePct": -6.6,
-      "changeDollar": -2.64
+      "price": 12.15,
+      "changePct": -9.6,
+      "changeDollar": -1.29
     },
     {
       "ticker": "RGEN",
       "name": "REPLIGEN CORP COM",
       "sector": "Unknown",
-      "price": 179.85,
-      "changePct": -6.44,
-      "changeDollar": -12.38
+      "price": 177.23,
+      "changePct": -7.8,
+      "changeDollar": -15.0
     },
     {
-      "ticker": "SPHR",
-      "name": "SPHERE ENTERTAINMENT CO CL A",
+      "ticker": "VRDN",
+      "name": "VIRIDIAN THERAPEUTICS INC COM",
       "sector": "Unknown",
-      "price": 125.96,
-      "changePct": -6.31,
-      "changeDollar": -8.48
+      "price": 18.99,
+      "changePct": -7.77,
+      "changeDollar": -1.6
+    },
+    {
+      "ticker": "LQDA",
+      "name": "LIQUIDIA CORPORATION COM NEW",
+      "sector": "Unknown",
+      "price": 27.99,
+      "changePct": -7.5,
+      "changeDollar": -2.27
     },
     {
       "ticker": "GPCR",
       "name": "STRUCTURE THERAPEUTICS INC SPONSORED ADS",
       "sector": "Unknown",
-      "price": 29.36,
-      "changePct": -6.11,
-      "changeDollar": -1.91
+      "price": 28.98,
+      "changePct": -7.32,
+      "changeDollar": -2.29
     },
     {
-      "ticker": "APPX",
-      "name": "INVESTMENT MANAGERS SER TR II TRADR 2X LONG",
+      "ticker": "ZVRA",
+      "name": "ZEVRA THERAPEUTICS INC COM NEW",
       "sector": "Unknown",
-      "price": 10.24,
-      "changePct": -5.54,
-      "changeDollar": -0.6
+      "price": 10.18,
+      "changePct": -7.2,
+      "changeDollar": -0.79
     },
     {
-      "ticker": "MLYS",
-      "name": "MINERALYS THERAPEUTICS INC COM",
+      "ticker": "ORIC",
+      "name": "ORIC PHARMACEUTICALS INC COM",
       "sector": "Unknown",
-      "price": 23.78,
-      "changePct": -5.37,
-      "changeDollar": -1.35
+      "price": 12.52,
+      "changePct": -7.05,
+      "changeDollar": -0.95
     },
     {
-      "ticker": "CAI",
-      "name": "CARIS LIFE SCIENCES INC COM",
+      "ticker": "PRCT",
+      "name": "PROCEPT BIOROBOTICS CORP COM",
       "sector": "Unknown",
-      "price": 29.04,
-      "changePct": -5.19,
-      "changeDollar": -1.59
+      "price": 17.02,
+      "changePct": -6.59,
+      "changeDollar": -1.2
     }
   ],
   "dollarGainers": [
@@ -168,41 +168,41 @@
       "ticker": "FICO",
       "name": "FAIR ISAAC CORP COM",
       "sector": "Unknown",
-      "price": 670.48,
-      "changePct": 13.17,
-      "changeDollar": 78.01
+      "price": 661.75,
+      "changePct": 11.69,
+      "changeDollar": 69.28
     },
     {
-      "ticker": "ACN",
-      "name": "ACCENTURE PLC IRELAND SHS CLASS A",
+      "ticker": "SNPS",
+      "name": "SYNOPSYS INC COM",
       "sector": "Unknown",
-      "price": 214.85,
-      "changePct": 17.17,
-      "changeDollar": 31.48
+      "price": 490.54,
+      "changePct": 12.78,
+      "changeDollar": 55.6
     },
     {
       "ticker": "GWRE",
       "name": "GUIDEWIRE SOFTWARE INC COM",
       "sector": "Unknown",
-      "price": 155.72,
-      "changePct": 9.22,
-      "changeDollar": 13.14
-    },
-    {
-      "ticker": "INOD",
-      "name": "INNODATA INC COM NEW",
-      "sector": "Unknown",
-      "price": 72.71,
-      "changePct": 10.57,
-      "changeDollar": 6.95
+      "price": 155.32,
+      "changePct": 8.94,
+      "changeDollar": 12.74
     },
     {
       "ticker": "EFOR",
       "name": "EVERFORTH INC COM",
       "sector": "Unknown",
-      "price": 37.03,
-      "changePct": 12.55,
-      "changeDollar": 4.13
+      "price": 36.19,
+      "changePct": 10.0,
+      "changeDollar": 3.29
+    },
+    {
+      "ticker": "WOLF",
+      "name": "WOLFSPEED INC COMMON STOCK",
+      "sector": "Unknown",
+      "price": 31.17,
+      "changePct": 10.81,
+      "changeDollar": 3.04
     }
   ],
   "dollarLosers": [
@@ -210,41 +210,41 @@
       "ticker": "RGEN",
       "name": "REPLIGEN CORP COM",
       "sector": "Unknown",
-      "price": 179.85,
-      "changePct": -6.44,
-      "changeDollar": -12.38
+      "price": 177.23,
+      "changePct": -7.8,
+      "changeDollar": -15.0
     },
     {
       "ticker": "NKTR",
       "name": "NEKTAR THERAPEUTICS COM NEW",
       "sector": "Unknown",
-      "price": 48.66,
-      "changePct": -19.64,
-      "changeDollar": -11.89
+      "price": 46.99,
+      "changePct": -22.39,
+      "changeDollar": -13.56
     },
     {
-      "ticker": "SPHR",
-      "name": "SPHERE ENTERTAINMENT CO CL A",
+      "ticker": "UMAC",
+      "name": "UNUSUAL MACHS INC COM SHS",
       "sector": "Unknown",
-      "price": 125.96,
-      "changePct": -6.31,
-      "changeDollar": -8.48
+      "price": 21.78,
+      "changePct": -11.03,
+      "changeDollar": -2.7
     },
     {
-      "ticker": "PRGS",
-      "name": "PROGRESS SOFTWARE CORP COM",
+      "ticker": "GPCR",
+      "name": "STRUCTURE THERAPEUTICS INC SPONSORED ADS",
       "sector": "Unknown",
-      "price": 37.33,
-      "changePct": -6.6,
-      "changeDollar": -2.64
+      "price": 28.98,
+      "changePct": -7.32,
+      "changeDollar": -2.29
     },
     {
-      "ticker": "AAOZ",
-      "name": "Tradr 2X Short AAOI Daily ETF",
+      "ticker": "LQDA",
+      "name": "LIQUIDIA CORPORATION COM NEW",
       "sector": "Unknown",
-      "price": 11.85,
-      "changePct": -16.25,
-      "changeDollar": -2.3
+      "price": 27.99,
+      "changePct": -7.5,
+      "changeDollar": -2.27
     }
   ]
 }
