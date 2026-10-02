@@ -1,250 +1,250 @@
 {
   "topGainers": [
     {
-      "ticker": "ACN",
-      "name": "ACCENTURE PLC IRELAND SHS CLASS A",
+      "ticker": "SPCM",
+      "name": "Tradr 2X Long SpaceX Daily ETF",
       "sector": "Unknown",
-      "price": 212.3,
-      "changePct": 15.78,
-      "changeDollar": 28.93
+      "price": 19.17,
+      "changePct": 14.52,
+      "changeDollar": 2.43
     },
     {
-      "ticker": "COHR",
-      "name": "COHERENT CORP COM",
+      "ticker": "SPAX",
+      "name": "ETF OPPORTUNITIES TRUST T REX 2X LN SPCX",
       "sector": "Unknown",
-      "price": 319.19,
-      "changePct": 10.9,
-      "changeDollar": 31.38
+      "price": 11.25,
+      "changePct": 14.45,
+      "changeDollar": 1.42
     },
     {
-      "ticker": "SKHX",
-      "name": "Leverage Shares 2X Long SK Hynix Daily ETF",
+      "ticker": "SPAL",
+      "name": "GraniteShares 2x Long SpaceX Daily ETF",
       "sector": "Unknown",
-      "price": 18.49,
-      "changePct": 10.32,
-      "changeDollar": 1.73
+      "price": 18.85,
+      "changePct": 14.45,
+      "changeDollar": 2.38
     },
     {
-      "ticker": "MSTU",
-      "name": "T-Rex 2X Long MSTR Daily Target ETF",
+      "ticker": "SPCF",
+      "name": "PROSHARES TR ULTRA SPACEX",
       "sector": "Unknown",
-      "price": 43.47,
-      "changePct": 9.33,
-      "changeDollar": 3.71
+      "price": 18.38,
+      "changePct": 14.3,
+      "changeDollar": 2.3
     },
     {
-      "ticker": "LITE",
-      "name": "LUMENTUM HLDGS INC COM",
+      "ticker": "LOFF",
+      "name": "DIREXION SHARES ETF TRUST DLY SPCX BULL 2X",
       "sector": "Unknown",
-      "price": 1045.78,
-      "changePct": 7.67,
-      "changeDollar": 74.52
+      "price": 18.6,
+      "changePct": 14.25,
+      "changeDollar": 2.32
     },
     {
-      "ticker": "APPN",
-      "name": "APPIAN CORP CL A",
+      "ticker": "SYNA",
+      "name": "SYNAPTICS INC COM",
       "sector": "Unknown",
-      "price": 37.77,
-      "changePct": 7.09,
-      "changeDollar": 2.5
+      "price": 120.97,
+      "changePct": 13.96,
+      "changeDollar": 14.82
     },
     {
-      "ticker": "VICR",
-      "name": "VICOR CORP COM",
+      "ticker": "WOLF",
+      "name": "WOLFSPEED INC COMMON STOCK",
       "sector": "Unknown",
-      "price": 308.59,
-      "changePct": 6.8,
-      "changeDollar": 19.65
+      "price": 35.01,
+      "changePct": 12.32,
+      "changeDollar": 3.84
     },
     {
-      "ticker": "CVI",
-      "name": "CVR ENERGY INC COM",
+      "ticker": "RXO",
+      "name": "RXO INC COMMON STOCK",
       "sector": "Unknown",
-      "price": 54.36,
-      "changePct": 6.61,
-      "changeDollar": 3.37
+      "price": 23.78,
+      "changePct": 11.33,
+      "changeDollar": 2.42
     },
     {
-      "ticker": "MPC",
-      "name": "MARATHON PETE CORP COM",
+      "ticker": "ALGM",
+      "name": "ALLEGRO MICROSYSTEMS INC COM",
       "sector": "Unknown",
-      "price": 420.15,
-      "changePct": 6.25,
-      "changeDollar": 24.73
+      "price": 39.85,
+      "changePct": 9.54,
+      "changeDollar": 3.47
     },
     {
-      "ticker": "CDNS",
-      "name": "CADENCE DESIGN SYSTEM INC COM",
+      "ticker": "INIO",
+      "name": "INNIO NV ORDINARY SHARES",
       "sector": "Unknown",
-      "price": 350.73,
-      "changePct": 6.22,
-      "changeDollar": 20.54
+      "price": 19.91,
+      "changePct": 8.86,
+      "changeDollar": 1.62
     }
   ],
   "topLosers": [
     {
-      "ticker": "SMST",
-      "name": "TIDAL TRUST II DEFI DA TA 2025",
+      "ticker": "WDCX",
+      "name": "Tradr 2X Long WDC Daily ETF",
       "sector": "Unknown",
-      "price": 12.15,
-      "changePct": -9.6,
-      "changeDollar": -1.29
+      "price": 14.63,
+      "changePct": -18.36,
+      "changeDollar": -3.29
     },
     {
-      "ticker": "RGEN",
-      "name": "REPLIGEN CORP COM",
+      "ticker": "SPCG",
+      "name": "Tradr 2X Short SpaceX Daily ETF",
       "sector": "Unknown",
-      "price": 177.23,
-      "changePct": -7.8,
-      "changeDollar": -15.0
+      "price": 13.42,
+      "changePct": -14.19,
+      "changeDollar": -2.22
     },
     {
-      "ticker": "VRDN",
-      "name": "VIRIDIAN THERAPEUTICS INC COM",
+      "ticker": "TSLZ",
+      "name": "T-Rex 2X Inverse Tesla Daily Target ETF",
       "sector": "Unknown",
-      "price": 18.99,
-      "changePct": -7.77,
-      "changeDollar": -1.6
+      "price": 11.11,
+      "changePct": -9.53,
+      "changeDollar": -1.17
     },
     {
-      "ticker": "CAI",
-      "name": "CARIS LIFE SCIENCES INC COM",
+      "ticker": "TSLQ",
+      "name": "INVESTMENT MANAGERS SER TR II TRADR 2X SHORT",
       "sector": "Unknown",
-      "price": 28.35,
-      "changePct": -7.44,
-      "changeDollar": -2.28
+      "price": 17.61,
+      "changePct": -9.46,
+      "changeDollar": -1.84
     },
     {
-      "ticker": "ZVRA",
-      "name": "ZEVRA THERAPEUTICS INC COM NEW",
+      "ticker": "WDC",
+      "name": "WESTERN DIGITAL CORP COM",
       "sector": "Unknown",
-      "price": 10.18,
-      "changePct": -7.2,
-      "changeDollar": -0.79
+      "price": 420.88,
+      "changePct": -9.01,
+      "changeDollar": -41.68
     },
     {
-      "ticker": "VKTX",
-      "name": "VIKING THERAPEUTICS INC COM",
+      "ticker": "LITZ",
+      "name": "Tradr 2X Short LITE Daily ETF",
       "sector": "Unknown",
-      "price": 30.51,
-      "changePct": -6.41,
-      "changeDollar": -2.09
+      "price": 18.76,
+      "changePct": -8.04,
+      "changeDollar": -1.64
     },
     {
-      "ticker": "VOR",
-      "name": "VOR BIOPHARMA INC COM NEW",
+      "ticker": "KOD",
+      "name": "KODIAK SCIENCES INC COM",
       "sector": "Unknown",
-      "price": 18.06,
-      "changePct": -5.35,
-      "changeDollar": -1.02
+      "price": 90.87,
+      "changePct": -7.71,
+      "changeDollar": -7.59
     },
     {
-      "ticker": "ADPT",
-      "name": "ADAPTIVE BIOTECHNOLOGIES CORP COM",
+      "ticker": "SNDG",
+      "name": "Leverage Shares 2X Long SNDK Daily ETF",
       "sector": "Unknown",
-      "price": 27.37,
-      "changePct": -5.29,
-      "changeDollar": -1.53
+      "price": 10.15,
+      "changePct": -7.39,
+      "changeDollar": -0.81
     },
     {
-      "ticker": "CRVS",
-      "name": "CORVUS PHARMACEUTICALS INC COM",
+      "ticker": "SNDU",
+      "name": "T-REX 2X Long SNDK Daily Target ETF",
       "sector": "Unknown",
-      "price": 10.93,
-      "changePct": -5.12,
-      "changeDollar": -0.59
+      "price": 25.24,
+      "changePct": -7.03,
+      "changeDollar": -1.91
     },
     {
-      "ticker": "SNDQ",
-      "name": "Tradr 2X Short SNDK Daily ETF",
+      "ticker": "MMYT",
+      "name": "MAKEMYTRIP LIMITED MAURITIUS SHS",
       "sector": "Unknown",
-      "price": 10.11,
-      "changePct": -5.07,
-      "changeDollar": -0.54
+      "price": 44.57,
+      "changePct": -6.66,
+      "changeDollar": -3.18
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "LITE",
-      "name": "LUMENTUM HLDGS INC COM",
+      "ticker": "SYNA",
+      "name": "SYNAPTICS INC COM",
       "sector": "Unknown",
-      "price": 1045.78,
-      "changePct": 7.67,
-      "changeDollar": 74.52
+      "price": 120.97,
+      "changePct": 13.96,
+      "changeDollar": 14.82
     },
     {
-      "ticker": "COHR",
-      "name": "COHERENT CORP COM",
+      "ticker": "WOLF",
+      "name": "WOLFSPEED INC COMMON STOCK",
       "sector": "Unknown",
-      "price": 319.19,
-      "changePct": 10.9,
-      "changeDollar": 31.38
+      "price": 35.01,
+      "changePct": 12.32,
+      "changeDollar": 3.84
     },
     {
-      "ticker": "ACN",
-      "name": "ACCENTURE PLC IRELAND SHS CLASS A",
+      "ticker": "ALGM",
+      "name": "ALLEGRO MICROSYSTEMS INC COM",
       "sector": "Unknown",
-      "price": 212.3,
-      "changePct": 15.78,
-      "changeDollar": 28.93
+      "price": 39.85,
+      "changePct": 9.54,
+      "changeDollar": 3.47
     },
     {
-      "ticker": "MPC",
-      "name": "MARATHON PETE CORP COM",
+      "ticker": "SPCM",
+      "name": "Tradr 2X Long SpaceX Daily ETF",
       "sector": "Unknown",
-      "price": 420.15,
-      "changePct": 6.25,
-      "changeDollar": 24.73
+      "price": 19.17,
+      "changePct": 14.52,
+      "changeDollar": 2.43
     },
     {
-      "ticker": "CDNS",
-      "name": "CADENCE DESIGN SYSTEM INC COM",
+      "ticker": "RXO",
+      "name": "RXO INC COMMON STOCK",
       "sector": "Unknown",
-      "price": 350.73,
-      "changePct": 6.22,
-      "changeDollar": 20.54
+      "price": 23.78,
+      "changePct": 11.33,
+      "changeDollar": 2.42
     }
   ],
   "dollarLosers": [
     {
-      "ticker": "RGEN",
-      "name": "REPLIGEN CORP COM",
+      "ticker": "WDC",
+      "name": "WESTERN DIGITAL CORP COM",
       "sector": "Unknown",
-      "price": 177.23,
-      "changePct": -7.8,
-      "changeDollar": -15.0
+      "price": 420.88,
+      "changePct": -9.01,
+      "changeDollar": -41.68
     },
     {
-      "ticker": "CAI",
-      "name": "CARIS LIFE SCIENCES INC COM",
+      "ticker": "KOD",
+      "name": "KODIAK SCIENCES INC COM",
       "sector": "Unknown",
-      "price": 28.35,
-      "changePct": -7.44,
-      "changeDollar": -2.28
+      "price": 90.87,
+      "changePct": -7.71,
+      "changeDollar": -7.59
     },
     {
-      "ticker": "VKTX",
-      "name": "VIKING THERAPEUTICS INC COM",
+      "ticker": "WDCX",
+      "name": "Tradr 2X Long WDC Daily ETF",
       "sector": "Unknown",
-      "price": 30.51,
-      "changePct": -6.41,
-      "changeDollar": -2.09
+      "price": 14.63,
+      "changePct": -18.36,
+      "changeDollar": -3.29
     },
     {
-      "ticker": "VRDN",
-      "name": "VIRIDIAN THERAPEUTICS INC COM",
+      "ticker": "MMYT",
+      "name": "MAKEMYTRIP LIMITED MAURITIUS SHS",
       "sector": "Unknown",
-      "price": 18.99,
-      "changePct": -7.77,
-      "changeDollar": -1.6
+      "price": 44.57,
+      "changePct": -6.66,
+      "changeDollar": -3.18
     },
     {
-      "ticker": "ADPT",
-      "name": "ADAPTIVE BIOTECHNOLOGIES CORP COM",
+      "ticker": "SPCG",
+      "name": "Tradr 2X Short SpaceX Daily ETF",
       "sector": "Unknown",
-      "price": 27.37,
-      "changePct": -5.29,
-      "changeDollar": -1.53
+      "price": 13.42,
+      "changePct": -14.19,
+      "changeDollar": -2.22
     }
   ]
 }
