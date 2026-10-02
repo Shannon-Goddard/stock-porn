@@ -2343,6 +2343,45 @@
       },
       "exit": null,
       "fomo": null
+    },
+    {
+      "id": 32,
+      "status": "open",
+      "entry": {
+        "date": "2026-10-02",
+        "time": "15:55 PST",
+        "ticker": "LITE",
+        "name": "LUMENTUM HLDGS INC COM",
+        "sector": "Unknown",
+        "type": "CALL",
+        "strike": 1400.0,
+        "expiration": "2026-10-09",
+        "dte_at_entry": 7,
+        "T_at_entry": 0.019178,
+        "stock_price_at_entry": 1045.78,
+        "premium": 0.6,
+        "cost": 60.0,
+        "bid": null,
+        "spread": null,
+        "iv_at_entry": 0.7935,
+        "otm_pct": 33.87,
+        "expected_move": {
+          "one_sigma_pct": 10.99,
+          "upper": 1160.7,
+          "lower": 930.86,
+          "strike_position": "outside"
+        },
+        "signal_rank": "dollar_gainer_1",
+        "signal_pct": 7.67,
+        "signal_dollar": 74.52,
+        "spy_change": 0.18,
+        "macro_active": false,
+        "macro_keywords": [],
+        "auto_note": "LITE CALL | $+74.52 (+7.67%) | dollar_gainer_1 | Strike $1400.0 exp 2026-10-09 (7DTE) | IV 79.3% | SPY +0.18% | No macro triggers"
+      },
+      "news_scan": null,
+      "exit": null,
+      "fomo": null
     }
   ]
 }

@@ -372,5 +372,16 @@
     "youtube_id": null,
     "images": [],
     "published": true
+  },
+  {
+    "id": 32,
+    "date": "2026-10-02",
+    "ticker": "LITE",
+    "type": "CALL",
+    "trade_id": 32,
+    "title": "LITE CALL \u2014 2026-10-02",
+    "youtube_id": null,
+    "images": [],
+    "published": true
   }
 ]
