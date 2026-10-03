@@ -2398,6 +2398,45 @@
       },
       "exit": null,
       "fomo": null
+    },
+    {
+      "id": 33,
+      "status": "open",
+      "entry": {
+        "date": "2026-10-03",
+        "time": "15:55 PST",
+        "ticker": "ACN",
+        "name": "ACCENTURE PLC IRELAND SHS CLASS A",
+        "sector": "Unknown",
+        "type": "PUT",
+        "strike": 187.5,
+        "expiration": "2026-10-09",
+        "dte_at_entry": 6,
+        "T_at_entry": 0.016438,
+        "stock_price_at_entry": 198.9,
+        "premium": 1.0,
+        "cost": 100.0,
+        "bid": 0.7,
+        "spread": 0.3,
+        "iv_at_entry": 0.4341,
+        "otm_pct": 5.73,
+        "expected_move": {
+          "one_sigma_pct": 5.57,
+          "upper": 209.97,
+          "lower": 187.83,
+          "strike_position": "at_edge"
+        },
+        "signal_rank": "dollar_loser_1",
+        "signal_pct": -6.31,
+        "signal_dollar": -13.4,
+        "spy_change": NaN,
+        "macro_active": false,
+        "macro_keywords": [],
+        "auto_note": "ACN PUT | $-13.40 (-6.31%) | dollar_loser_1 | Strike $187.5 exp 2026-10-09 (6DTE) | IV 43.4% | SPY +nan% | No macro triggers"
+      },
+      "news_scan": null,
+      "exit": null,
+      "fomo": null
     }
   ]
 }

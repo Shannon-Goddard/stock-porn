@@ -383,5 +383,16 @@
     "youtube_id": null,
     "images": [],
     "published": true
+  },
+  {
+    "id": 33,
+    "date": "2026-10-03",
+    "ticker": "ACN",
+    "type": "PUT",
+    "trade_id": 33,
+    "title": "ACN PUT \u2014 2026-10-03",
+    "youtube_id": null,
+    "images": [],
+    "published": true
   }
 ]
