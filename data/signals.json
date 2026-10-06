@@ -1,36 +1,20 @@
 {
   "topGainers": [
     {
-      "ticker": "ETHA",
-      "name": "ISHARES ETHEREUM TR SHS",
+      "ticker": "NEBX",
+      "name": "Tradr 2X Long NBIS Daily ETF",
       "sector": "Unknown",
-      "price": 60.89,
-      "changePct": 198.04,
-      "changeDollar": 40.46
+      "price": 29.96,
+      "changePct": 14.57,
+      "changeDollar": 3.81
     },
     {
-      "ticker": "OPCH",
-      "name": "OPTION CARE HEALTH INC COM NEW",
+      "ticker": "NBIL",
+      "name": "GRANITESHARES ETF TR 2X LONG NBIS DLY",
       "sector": "Unknown",
-      "price": 31.0,
-      "changePct": 32.65,
-      "changeDollar": 7.63
-    },
-    {
-      "ticker": "CEGX",
-      "name": "Tradr 2X Long CEG Daily ETF",
-      "sector": "Unknown",
-      "price": 15.85,
-      "changePct": 24.31,
-      "changeDollar": 3.1
-    },
-    {
-      "ticker": "ASTX",
-      "name": "Tradr 2X Long ASTS Daily ETF",
-      "sector": "Unknown",
-      "price": 10.92,
-      "changePct": 16.05,
-      "changeDollar": 1.51
+      "price": 29.27,
+      "changePct": 14.34,
+      "changeDollar": 3.67
     },
     {
       "ticker": "FCEL",
@@ -49,47 +33,55 @@
       "changeDollar": 2.37
     },
     {
-      "ticker": "CEG",
-      "name": "CONSTELLATION ENERGY CORP COM",
+      "ticker": "APOG",
+      "name": "APOGEE ENTERPRISES INC COM",
       "sector": "Unknown",
-      "price": 300.4,
-      "changePct": 12.25,
-      "changeDollar": 32.78
+      "price": 40.0,
+      "changePct": 12.17,
+      "changeDollar": 4.34
     },
     {
-      "ticker": "CRWG",
-      "name": "THEMES ETF TR LEVERAGE SHS 2X",
+      "ticker": "VST",
+      "name": "VISTRA CORP COM",
       "sector": "Unknown",
-      "price": 20.06,
-      "changePct": 9.68,
-      "changeDollar": 1.77
+      "price": 160.5,
+      "changePct": 10.77,
+      "changeDollar": 15.61
     },
     {
-      "ticker": "LEU",
-      "name": "CENTRUS ENERGY CORP CL A",
+      "ticker": "EROC",
+      "name": "EROCK INC CL A COM",
       "sector": "Unknown",
-      "price": 153.88,
-      "changePct": 8.8,
-      "changeDollar": 12.44
+      "price": 13.64,
+      "changePct": 10.09,
+      "changeDollar": 1.25
     },
     {
-      "ticker": "NXRT",
-      "name": "NEXPOINT RESIDENTIAL TR INC COM",
+      "ticker": "SECZ",
+      "name": "SECURITIZE CORP COM SHS",
       "sector": "Unknown",
-      "price": 20.18,
-      "changePct": 8.44,
-      "changeDollar": 1.57
+      "price": 12.7,
+      "changePct": 8.55,
+      "changeDollar": 1.0
+    },
+    {
+      "ticker": "UEC",
+      "name": "URANIUM ENERGY CORP COM",
+      "sector": "Unknown",
+      "price": 10.11,
+      "changePct": 8.13,
+      "changeDollar": 0.76
+    },
+    {
+      "ticker": "ASTS",
+      "name": "AST SPACEMOBILE INC COM CL A",
+      "sector": "Unknown",
+      "price": 63.12,
+      "changePct": 8.01,
+      "changeDollar": 4.68
     }
   ],
   "topLosers": [
-    {
-      "ticker": "TWST",
-      "name": "TWIST BIOSCIENCE CORP COM",
-      "sector": "Unknown",
-      "price": 166.97,
-      "changePct": -18.55,
-      "changeDollar": -38.03
-    },
     {
       "ticker": "STXU",
       "name": "Leverage Shares 2X Long STX Daily ETF",
@@ -107,6 +99,30 @@
       "changeDollar": -5.99
     },
     {
+      "ticker": "NEO",
+      "name": "NEOGENOMICS INC COM NEW",
+      "sector": "Unknown",
+      "price": 16.5,
+      "changePct": -13.7,
+      "changeDollar": -2.62
+    },
+    {
+      "ticker": "SKHX",
+      "name": "Leverage Shares 2X Long SK Hynix Daily ETF",
+      "sector": "Unknown",
+      "price": 16.35,
+      "changePct": -12.71,
+      "changeDollar": -2.38
+    },
+    {
+      "ticker": "SKUU",
+      "name": "GRANITESHARES ETF TR 2X LNG SK HYNIX",
+      "sector": "Unknown",
+      "price": 27.44,
+      "changePct": -12.64,
+      "changeDollar": -3.97
+    },
+    {
       "ticker": "SDGR",
       "name": "SCHRODINGER INC COM",
       "sector": "Unknown",
@@ -115,128 +131,88 @@
       "changeDollar": -3.7
     },
     {
-      "ticker": "ARCT",
-      "name": "ARCTURUS THERAPEUTICS HLDGS COM",
+      "ticker": "GRAL",
+      "name": "GRAIL INC COM",
       "sector": "Unknown",
-      "price": 13.0,
-      "changePct": -11.32,
-      "changeDollar": -1.66
+      "price": 137.28,
+      "changePct": -10.9,
+      "changeDollar": -16.8
     },
     {
-      "ticker": "STX",
-      "name": "SEAGATE TECHNOLOGY HLDNGS PLC ORD SHS",
+      "ticker": "NVAX",
+      "name": "NOVAVAX INC COM NEW",
       "sector": "Unknown",
-      "price": 805.63,
-      "changePct": -9.18,
-      "changeDollar": -81.46
+      "price": 11.32,
+      "changePct": -9.87,
+      "changeDollar": -1.24
     },
     {
-      "ticker": "BLLN",
-      "name": "BILLIONTOONE INC CL A",
+      "ticker": "CAI",
+      "name": "CARIS LIFE SCIENCES INC COM",
       "sector": "Unknown",
-      "price": 99.94,
-      "changePct": -8.36,
-      "changeDollar": -9.12
+      "price": 27.45,
+      "changePct": -9.64,
+      "changeDollar": -2.93
     },
     {
-      "ticker": "NEOG",
-      "name": "NEOGEN CORP COM",
+      "ticker": "IMNM",
+      "name": "IMMUNOME INC COM",
       "sector": "Unknown",
-      "price": 11.96,
-      "changePct": -8.07,
-      "changeDollar": -1.05
-    },
-    {
-      "ticker": "RGEN",
-      "name": "REPLIGEN CORP COM",
-      "sector": "Unknown",
-      "price": 174.86,
-      "changePct": -7.73,
-      "changeDollar": -14.64
-    },
-    {
-      "ticker": "CGON",
-      "name": "CG ONCOLOGY INC COM",
-      "sector": "Unknown",
-      "price": 63.64,
-      "changePct": -7.38,
-      "changeDollar": -5.07
+      "price": 19.31,
+      "changePct": -8.79,
+      "changeDollar": -1.86
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "ETHA",
-      "name": "ISHARES ETHEREUM TR SHS",
+      "ticker": "VST",
+      "name": "VISTRA CORP COM",
       "sector": "Unknown",
-      "price": 60.89,
-      "changePct": 198.04,
-      "changeDollar": 40.46
+      "price": 160.5,
+      "changePct": 10.77,
+      "changeDollar": 15.61
     },
     {
-      "ticker": "CEG",
-      "name": "CONSTELLATION ENERGY CORP COM",
+      "ticker": "ASTS",
+      "name": "AST SPACEMOBILE INC COM CL A",
       "sector": "Unknown",
-      "price": 300.4,
-      "changePct": 12.25,
-      "changeDollar": 32.78
+      "price": 63.12,
+      "changePct": 8.01,
+      "changeDollar": 4.68
     },
     {
-      "ticker": "LEU",
-      "name": "CENTRUS ENERGY CORP CL A",
+      "ticker": "APOG",
+      "name": "APOGEE ENTERPRISES INC COM",
       "sector": "Unknown",
-      "price": 153.88,
-      "changePct": 8.8,
-      "changeDollar": 12.44
+      "price": 40.0,
+      "changePct": 12.17,
+      "changeDollar": 4.34
     },
     {
-      "ticker": "OPCH",
-      "name": "OPTION CARE HEALTH INC COM NEW",
+      "ticker": "NEBX",
+      "name": "Tradr 2X Long NBIS Daily ETF",
       "sector": "Unknown",
-      "price": 31.0,
-      "changePct": 32.65,
-      "changeDollar": 7.63
+      "price": 29.96,
+      "changePct": 14.57,
+      "changeDollar": 3.81
     },
     {
-      "ticker": "CEGX",
-      "name": "Tradr 2X Long CEG Daily ETF",
+      "ticker": "NBIL",
+      "name": "GRANITESHARES ETF TR 2X LONG NBIS DLY",
       "sector": "Unknown",
-      "price": 15.85,
-      "changePct": 24.31,
-      "changeDollar": 3.1
+      "price": 29.27,
+      "changePct": 14.34,
+      "changeDollar": 3.67
     }
   ],
   "dollarLosers": [
     {
-      "ticker": "STX",
-      "name": "SEAGATE TECHNOLOGY HLDNGS PLC ORD SHS",
+      "ticker": "GRAL",
+      "name": "GRAIL INC COM",
       "sector": "Unknown",
-      "price": 805.63,
-      "changePct": -9.18,
-      "changeDollar": -81.46
-    },
-    {
-      "ticker": "TWST",
-      "name": "TWIST BIOSCIENCE CORP COM",
-      "sector": "Unknown",
-      "price": 166.97,
-      "changePct": -18.55,
-      "changeDollar": -38.03
-    },
-    {
-      "ticker": "RGEN",
-      "name": "REPLIGEN CORP COM",
-      "sector": "Unknown",
-      "price": 174.86,
-      "changePct": -7.73,
-      "changeDollar": -14.64
-    },
-    {
-      "ticker": "BLLN",
-      "name": "BILLIONTOONE INC CL A",
-      "sector": "Unknown",
-      "price": 99.94,
-      "changePct": -8.36,
-      "changeDollar": -9.12
+      "price": 137.28,
+      "changePct": -10.9,
+      "changeDollar": -16.8
     },
     {
       "ticker": "STXL",
@@ -245,6 +221,30 @@
       "price": 27.12,
       "changePct": -18.09,
       "changeDollar": -5.99
+    },
+    {
+      "ticker": "SKUU",
+      "name": "GRANITESHARES ETF TR 2X LNG SK HYNIX",
+      "sector": "Unknown",
+      "price": 27.44,
+      "changePct": -12.64,
+      "changeDollar": -3.97
+    },
+    {
+      "ticker": "SDGR",
+      "name": "SCHRODINGER INC COM",
+      "sector": "Unknown",
+      "price": 28.9,
+      "changePct": -11.35,
+      "changeDollar": -3.7
+    },
+    {
+      "ticker": "CAI",
+      "name": "CARIS LIFE SCIENCES INC COM",
+      "sector": "Unknown",
+      "price": 27.45,
+      "changePct": -9.64,
+      "changeDollar": -2.93
     }
   ]
 }
