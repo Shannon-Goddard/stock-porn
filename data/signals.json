@@ -1,250 +1,250 @@
 {
   "topGainers": [
     {
-      "ticker": "NEBX",
-      "name": "Tradr 2X Long NBIS Daily ETF",
+      "ticker": "BSP",
+      "name": "BENDING SPOONS SPA COM SHS",
       "sector": "Unknown",
-      "price": 29.96,
-      "changePct": 14.57,
-      "changeDollar": 3.81
+      "price": 39.24,
+      "changePct": 18.66,
+      "changeDollar": 6.17
     },
     {
-      "ticker": "NBIL",
-      "name": "GRANITESHARES ETF TR 2X LONG NBIS DLY",
+      "ticker": "PENG",
+      "name": "PENGUIN SOLUTIONS INC COM",
       "sector": "Unknown",
-      "price": 29.27,
-      "changePct": 14.34,
-      "changeDollar": 3.67
+      "price": 72.4,
+      "changePct": 12.76,
+      "changeDollar": 8.19
     },
     {
-      "ticker": "FCEL",
-      "name": "FUELCELL ENERGY INC COM NEW",
+      "ticker": "NBIZ",
+      "name": "Tradr 2X Short NBIS Daily ETF",
       "sector": "Unknown",
-      "price": 20.65,
-      "changePct": 14.28,
-      "changeDollar": 2.58
+      "price": 20.07,
+      "changePct": 11.62,
+      "changeDollar": 2.09
     },
     {
-      "ticker": "INIO",
-      "name": "INNIO NV ORDINARY SHARES",
+      "ticker": "ETHD",
+      "name": "PROSHARES TR ULTRA ETHER ETF",
       "sector": "Unknown",
-      "price": 21.35,
-      "changePct": 12.49,
-      "changeDollar": 2.37
+      "price": 26.69,
+      "changePct": 9.61,
+      "changeDollar": 2.34
     },
     {
-      "ticker": "APOG",
-      "name": "APOGEE ENTERPRISES INC COM",
+      "ticker": "BRZE",
+      "name": "BRAZE INC COM CL A",
       "sector": "Unknown",
-      "price": 40.0,
-      "changePct": 12.17,
-      "changeDollar": 4.34
+      "price": 28.84,
+      "changePct": 9.49,
+      "changeDollar": 2.5
     },
     {
-      "ticker": "VST",
-      "name": "VISTRA CORP COM",
+      "ticker": "NWE",
+      "name": "NORTHWESTERN ENERGY GROUP INC COM NEW",
       "sector": "Unknown",
-      "price": 160.5,
-      "changePct": 10.77,
-      "changeDollar": 15.61
+      "price": 74.55,
+      "changePct": 8.17,
+      "changeDollar": 5.63
     },
     {
-      "ticker": "EROC",
-      "name": "EROCK INC CL A COM",
+      "ticker": "BKH",
+      "name": "BLACK HILLS CORP COM",
       "sector": "Unknown",
-      "price": 13.64,
-      "changePct": 10.09,
-      "changeDollar": 1.25
+      "price": 76.43,
+      "changePct": 8.04,
+      "changeDollar": 5.69
     },
     {
-      "ticker": "SECZ",
-      "name": "SECURITIZE CORP COM SHS",
+      "ticker": "PGNY",
+      "name": "PROGYNY INC COM",
       "sector": "Unknown",
-      "price": 12.7,
-      "changePct": 8.55,
-      "changeDollar": 1.0
+      "price": 27.71,
+      "changePct": 6.95,
+      "changeDollar": 1.8
     },
     {
-      "ticker": "UEC",
-      "name": "URANIUM ENERGY CORP COM",
+      "ticker": "ZSL",
+      "name": "PROSHARES TR II ULTRA SHORT SILV",
       "sector": "Unknown",
-      "price": 10.11,
-      "changePct": 8.13,
-      "changeDollar": 0.76
+      "price": 28.25,
+      "changePct": 5.84,
+      "changeDollar": 1.56
     },
     {
-      "ticker": "ASTS",
-      "name": "AST SPACEMOBILE INC COM CL A",
+      "ticker": "CNXC",
+      "name": "CONCENTRIX CORP COM",
       "sector": "Unknown",
-      "price": 63.12,
-      "changePct": 8.01,
-      "changeDollar": 4.68
+      "price": 26.25,
+      "changePct": 5.68,
+      "changeDollar": 1.41
     }
   ],
   "topLosers": [
     {
-      "ticker": "STXU",
-      "name": "Leverage Shares 2X Long STX Daily ETF",
+      "ticker": "MSTX",
+      "name": "TIDAL TRUST II DE 2X LO MS ETF",
       "sector": "Unknown",
-      "price": 10.33,
-      "changePct": -18.21,
-      "changeDollar": -2.3
-    },
-    {
-      "ticker": "STXL",
-      "name": "Defiance Daily Target 2x Long STX ETF",
-      "sector": "Unknown",
-      "price": 27.12,
-      "changePct": -18.09,
-      "changeDollar": -5.99
-    },
-    {
-      "ticker": "NEO",
-      "name": "NEOGENOMICS INC COM NEW",
-      "sector": "Unknown",
-      "price": 16.5,
-      "changePct": -13.7,
-      "changeDollar": -2.62
-    },
-    {
-      "ticker": "SKHX",
-      "name": "Leverage Shares 2X Long SK Hynix Daily ETF",
-      "sector": "Unknown",
-      "price": 16.35,
-      "changePct": -12.71,
-      "changeDollar": -2.38
-    },
-    {
-      "ticker": "SKUU",
-      "name": "GRANITESHARES ETF TR 2X LNG SK HYNIX",
-      "sector": "Unknown",
-      "price": 27.44,
-      "changePct": -12.64,
-      "changeDollar": -3.97
-    },
-    {
-      "ticker": "SDGR",
-      "name": "SCHRODINGER INC COM",
-      "sector": "Unknown",
-      "price": 28.9,
-      "changePct": -11.35,
-      "changeDollar": -3.7
-    },
-    {
-      "ticker": "GRAL",
-      "name": "GRAIL INC COM",
-      "sector": "Unknown",
-      "price": 137.28,
-      "changePct": -10.9,
-      "changeDollar": -16.8
-    },
-    {
-      "ticker": "NVAX",
-      "name": "NOVAVAX INC COM NEW",
-      "sector": "Unknown",
-      "price": 11.32,
-      "changePct": -9.87,
-      "changeDollar": -1.24
-    },
-    {
-      "ticker": "CAI",
-      "name": "CARIS LIFE SCIENCES INC COM",
-      "sector": "Unknown",
-      "price": 27.45,
-      "changePct": -9.64,
-      "changeDollar": -2.93
-    },
-    {
-      "ticker": "IMNM",
-      "name": "IMMUNOME INC COM",
-      "sector": "Unknown",
-      "price": 19.31,
-      "changePct": -8.79,
-      "changeDollar": -1.86
-    }
-  ],
-  "dollarGainers": [
-    {
-      "ticker": "VST",
-      "name": "VISTRA CORP COM",
-      "sector": "Unknown",
-      "price": 160.5,
-      "changePct": 10.77,
-      "changeDollar": 15.61
-    },
-    {
-      "ticker": "ASTS",
-      "name": "AST SPACEMOBILE INC COM CL A",
-      "sector": "Unknown",
-      "price": 63.12,
-      "changePct": 8.01,
-      "changeDollar": 4.68
-    },
-    {
-      "ticker": "APOG",
-      "name": "APOGEE ENTERPRISES INC COM",
-      "sector": "Unknown",
-      "price": 40.0,
-      "changePct": 12.17,
-      "changeDollar": 4.34
+      "price": 18.29,
+      "changePct": -12.78,
+      "changeDollar": -2.68
     },
     {
       "ticker": "NEBX",
       "name": "Tradr 2X Long NBIS Daily ETF",
       "sector": "Unknown",
-      "price": 29.96,
-      "changePct": 14.57,
-      "changeDollar": 3.81
+      "price": 26.4,
+      "changePct": -11.88,
+      "changeDollar": -3.56
     },
     {
-      "ticker": "NBIL",
-      "name": "GRANITESHARES ETF TR 2X LONG NBIS DLY",
+      "ticker": "NBIG",
+      "name": "THEMES ETF TR LEVERAGE SHS 2X",
       "sector": "Unknown",
-      "price": 29.27,
-      "changePct": 14.34,
-      "changeDollar": 3.67
+      "price": 17.81,
+      "changePct": -11.79,
+      "changeDollar": -2.38
+    },
+    {
+      "ticker": "ETHU",
+      "name": "2x Ether ETF",
+      "sector": "Unknown",
+      "price": 27.42,
+      "changePct": -9.62,
+      "changeDollar": -2.92
+    },
+    {
+      "ticker": "ETHT",
+      "name": "PROSHARES TR ULTRA ETHER ETF",
+      "sector": "Unknown",
+      "price": 17.64,
+      "changePct": -9.45,
+      "changeDollar": -1.84
+    },
+    {
+      "ticker": "FSM",
+      "name": "FORTUNA MNG CORP COM NEW",
+      "sector": "Unknown",
+      "price": 10.15,
+      "changePct": -9.21,
+      "changeDollar": -1.03
+    },
+    {
+      "ticker": "IONL",
+      "name": "GRANITESHARES ETF TR 2X LONG IONQ",
+      "sector": "Unknown",
+      "price": 13.4,
+      "changePct": -8.97,
+      "changeDollar": -1.32
+    },
+    {
+      "ticker": "NAIL",
+      "name": "DIREXION SHARES ETF TRUST DAIL HO SUPP ETF",
+      "sector": "Unknown",
+      "price": 25.66,
+      "changePct": -8.29,
+      "changeDollar": -2.32
+    },
+    {
+      "ticker": "INFQ",
+      "name": "INFLEQTION INC COM SHS",
+      "sector": "Unknown",
+      "price": 11.57,
+      "changePct": -7.74,
+      "changeDollar": -0.97
+    },
+    {
+      "ticker": "FMS",
+      "name": "FRESENIUS MEDICAL CARE AG SPONSORED ADR",
+      "sector": "Unknown",
+      "price": 20.79,
+      "changePct": -7.27,
+      "changeDollar": -1.63
+    }
+  ],
+  "dollarGainers": [
+    {
+      "ticker": "PENG",
+      "name": "PENGUIN SOLUTIONS INC COM",
+      "sector": "Unknown",
+      "price": 72.4,
+      "changePct": 12.76,
+      "changeDollar": 8.19
+    },
+    {
+      "ticker": "BSP",
+      "name": "BENDING SPOONS SPA COM SHS",
+      "sector": "Unknown",
+      "price": 39.24,
+      "changePct": 18.66,
+      "changeDollar": 6.17
+    },
+    {
+      "ticker": "BKH",
+      "name": "BLACK HILLS CORP COM",
+      "sector": "Unknown",
+      "price": 76.43,
+      "changePct": 8.04,
+      "changeDollar": 5.69
+    },
+    {
+      "ticker": "NWE",
+      "name": "NORTHWESTERN ENERGY GROUP INC COM NEW",
+      "sector": "Unknown",
+      "price": 74.55,
+      "changePct": 8.17,
+      "changeDollar": 5.63
+    },
+    {
+      "ticker": "BRZE",
+      "name": "BRAZE INC COM CL A",
+      "sector": "Unknown",
+      "price": 28.84,
+      "changePct": 9.49,
+      "changeDollar": 2.5
     }
   ],
   "dollarLosers": [
     {
-      "ticker": "GRAL",
-      "name": "GRAIL INC COM",
+      "ticker": "NEBX",
+      "name": "Tradr 2X Long NBIS Daily ETF",
       "sector": "Unknown",
-      "price": 137.28,
-      "changePct": -10.9,
-      "changeDollar": -16.8
+      "price": 26.4,
+      "changePct": -11.88,
+      "changeDollar": -3.56
     },
     {
-      "ticker": "STXL",
-      "name": "Defiance Daily Target 2x Long STX ETF",
+      "ticker": "ETHU",
+      "name": "2x Ether ETF",
       "sector": "Unknown",
-      "price": 27.12,
-      "changePct": -18.09,
-      "changeDollar": -5.99
+      "price": 27.42,
+      "changePct": -9.62,
+      "changeDollar": -2.92
     },
     {
-      "ticker": "SKUU",
-      "name": "GRANITESHARES ETF TR 2X LNG SK HYNIX",
+      "ticker": "MSTX",
+      "name": "TIDAL TRUST II DE 2X LO MS ETF",
       "sector": "Unknown",
-      "price": 27.44,
-      "changePct": -12.64,
-      "changeDollar": -3.97
+      "price": 18.29,
+      "changePct": -12.78,
+      "changeDollar": -2.68
     },
     {
-      "ticker": "SDGR",
-      "name": "SCHRODINGER INC COM",
+      "ticker": "NBIG",
+      "name": "THEMES ETF TR LEVERAGE SHS 2X",
       "sector": "Unknown",
-      "price": 28.9,
-      "changePct": -11.35,
-      "changeDollar": -3.7
+      "price": 17.81,
+      "changePct": -11.79,
+      "changeDollar": -2.38
     },
     {
-      "ticker": "CAI",
-      "name": "CARIS LIFE SCIENCES INC COM",
+      "ticker": "NAIL",
+      "name": "DIREXION SHARES ETF TRUST DAIL HO SUPP ETF",
       "sector": "Unknown",
-      "price": 27.45,
-      "changePct": -9.64,
-      "changeDollar": -2.93
+      "price": 25.66,
+      "changePct": -8.29,
+      "changeDollar": -2.32
     }
   ]
 }
