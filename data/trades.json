@@ -2508,6 +2508,45 @@
       },
       "exit": null,
       "fomo": null
+    },
+    {
+      "id": 35,
+      "status": "open",
+      "entry": {
+        "date": "2026-10-07",
+        "time": "15:55 PST",
+        "ticker": "VST",
+        "name": "VISTRA CORP COM",
+        "sector": "Unknown",
+        "type": "CALL",
+        "strike": 170.0,
+        "expiration": "2026-10-09",
+        "dte_at_entry": 2,
+        "T_at_entry": 0.005479,
+        "stock_price_at_entry": 160.5,
+        "premium": 0.77,
+        "cost": 77.0,
+        "bid": 0.65,
+        "spread": 0.12,
+        "iv_at_entry": 0.6113,
+        "otm_pct": 5.92,
+        "expected_move": {
+          "one_sigma_pct": 4.52,
+          "upper": 167.76,
+          "lower": 153.24,
+          "strike_position": "at_edge"
+        },
+        "signal_rank": "dollar_gainer_1",
+        "signal_pct": 10.77,
+        "signal_dollar": 15.61,
+        "spy_change": 0.55,
+        "macro_active": false,
+        "macro_keywords": [],
+        "auto_note": "VST CALL | $+15.61 (+10.77%) | dollar_gainer_1 | Strike $170.0 exp 2026-10-09 (2DTE) | IV 61.1% | SPY +0.55% | No macro triggers"
+      },
+      "news_scan": null,
+      "exit": null,
+      "fomo": null
     }
   ]
 }

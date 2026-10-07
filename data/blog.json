@@ -405,5 +405,16 @@
     "youtube_id": null,
     "images": [],
     "published": true
+  },
+  {
+    "id": 35,
+    "date": "2026-10-07",
+    "ticker": "VST",
+    "type": "CALL",
+    "trade_id": 35,
+    "title": "VST CALL \u2014 2026-10-07",
+    "youtube_id": null,
+    "images": [],
+    "published": true
   }
 ]
