@@ -1,250 +1,250 @@
 {
   "topGainers": [
     {
-      "ticker": "BSP",
-      "name": "BENDING SPOONS SPA COM SHS",
+      "ticker": "SMST",
+      "name": "TIDAL TRUST II DEFI DA TA 2025",
       "sector": "Unknown",
-      "price": 39.24,
-      "changePct": 18.66,
-      "changeDollar": 6.17
+      "price": 13.03,
+      "changePct": 13.21,
+      "changeDollar": 1.52
     },
     {
-      "ticker": "PENG",
-      "name": "PENGUIN SOLUTIONS INC COM",
+      "ticker": "IREZ",
+      "name": "Tradr 2X Short IREN Daily ETF",
       "sector": "Unknown",
-      "price": 72.4,
-      "changePct": 12.76,
-      "changeDollar": 8.19
+      "price": 10.74,
+      "changePct": 12.34,
+      "changeDollar": 1.18
+    },
+    {
+      "ticker": "AVBP",
+      "name": "ARRIVENT BIOPHARMA INC COM",
+      "sector": "Unknown",
+      "price": 16.89,
+      "changePct": 11.93,
+      "changeDollar": 1.8
     },
     {
       "ticker": "NBIZ",
       "name": "Tradr 2X Short NBIS Daily ETF",
       "sector": "Unknown",
-      "price": 20.07,
-      "changePct": 11.62,
-      "changeDollar": 2.09
+      "price": 19.74,
+      "changePct": 9.79,
+      "changeDollar": 1.76
     },
     {
-      "ticker": "ETHD",
-      "name": "PROSHARES TR ULTRA ETHER ETF",
+      "ticker": "MUU",
+      "name": "DIREXION SHARES ETF TRUST DLY MU BULL 2X",
       "sector": "Unknown",
-      "price": 26.69,
-      "changePct": 9.61,
-      "changeDollar": 2.34
+      "price": 37.88,
+      "changePct": 7.8,
+      "changeDollar": 2.74
     },
     {
-      "ticker": "BRZE",
-      "name": "BRAZE INC COM CL A",
+      "ticker": "BKV",
+      "name": "BKV CORP COM",
       "sector": "Unknown",
-      "price": 28.84,
-      "changePct": 9.49,
-      "changeDollar": 2.5
+      "price": 23.68,
+      "changePct": 7.39,
+      "changeDollar": 1.63
     },
     {
-      "ticker": "NWE",
-      "name": "NORTHWESTERN ENERGY GROUP INC COM NEW",
+      "ticker": "DSP",
+      "name": "VIANT TECHNOLOGY INC COM CL A",
       "sector": "Unknown",
-      "price": 74.55,
-      "changePct": 8.17,
-      "changeDollar": 5.63
+      "price": 12.78,
+      "changePct": 7.12,
+      "changeDollar": 0.85
     },
     {
-      "ticker": "BKH",
-      "name": "BLACK HILLS CORP COM",
+      "ticker": "GKOS",
+      "name": "GLAUKOS CORP COM",
       "sector": "Unknown",
-      "price": 76.43,
-      "changePct": 8.04,
-      "changeDollar": 5.69
+      "price": 172.18,
+      "changePct": 6.55,
+      "changeDollar": 10.59
     },
     {
       "ticker": "PGNY",
       "name": "PROGYNY INC COM",
       "sector": "Unknown",
-      "price": 27.71,
-      "changePct": 6.95,
-      "changeDollar": 1.8
+      "price": 27.55,
+      "changePct": 6.33,
+      "changeDollar": 1.64
     },
     {
       "ticker": "ZSL",
       "name": "PROSHARES TR II ULTRA SHORT SILV",
       "sector": "Unknown",
-      "price": 28.25,
-      "changePct": 5.84,
-      "changeDollar": 1.56
-    },
-    {
-      "ticker": "CNXC",
-      "name": "CONCENTRIX CORP COM",
-      "sector": "Unknown",
-      "price": 26.25,
-      "changePct": 5.68,
-      "changeDollar": 1.41
+      "price": 28.33,
+      "changePct": 6.14,
+      "changeDollar": 1.64
     }
   ],
   "topLosers": [
     {
-      "ticker": "MSTX",
-      "name": "TIDAL TRUST II DE 2X LO MS ETF",
+      "ticker": "MSTU",
+      "name": "T-Rex 2X Long MSTR Daily Target ETF",
       "sector": "Unknown",
-      "price": 18.29,
-      "changePct": -12.78,
-      "changeDollar": -2.68
+      "price": 39.45,
+      "changePct": -13.68,
+      "changeDollar": -6.25
     },
     {
-      "ticker": "NEBX",
-      "name": "Tradr 2X Long NBIS Daily ETF",
+      "ticker": "AAOX",
+      "name": "Tradr 2X Long AAOI Daily ETF",
       "sector": "Unknown",
-      "price": 26.4,
-      "changePct": -11.88,
-      "changeDollar": -3.56
+      "price": 13.69,
+      "changePct": -11.51,
+      "changeDollar": -1.78
+    },
+    {
+      "ticker": "FCEL",
+      "name": "FUELCELL ENERGY INC COM NEW",
+      "sector": "Unknown",
+      "price": 18.36,
+      "changePct": -11.04,
+      "changeDollar": -2.28
+    },
+    {
+      "ticker": "NVTX",
+      "name": "Tradr 2X Long NVTS Daily ETF",
+      "sector": "Unknown",
+      "price": 14.77,
+      "changePct": -10.54,
+      "changeDollar": -1.74
     },
     {
       "ticker": "NBIG",
       "name": "THEMES ETF TR LEVERAGE SHS 2X",
       "sector": "Unknown",
-      "price": 17.81,
-      "changePct": -11.79,
-      "changeDollar": -2.38
+      "price": 18.13,
+      "changePct": -10.2,
+      "changeDollar": -2.06
     },
     {
-      "ticker": "ETHU",
-      "name": "2x Ether ETF",
+      "ticker": "AXTX",
+      "name": "Tradr 2X Long AXTI Daily ETF",
       "sector": "Unknown",
-      "price": 27.42,
-      "changePct": -9.62,
-      "changeDollar": -2.92
-    },
-    {
-      "ticker": "ETHT",
-      "name": "PROSHARES TR ULTRA ETHER ETF",
-      "sector": "Unknown",
-      "price": 17.64,
-      "changePct": -9.45,
-      "changeDollar": -1.84
+      "price": 36.47,
+      "changePct": -9.55,
+      "changeDollar": -3.85
     },
     {
       "ticker": "FSM",
       "name": "FORTUNA MNG CORP COM NEW",
       "sector": "Unknown",
-      "price": 10.15,
-      "changePct": -9.21,
-      "changeDollar": -1.03
+      "price": 10.12,
+      "changePct": -9.48,
+      "changeDollar": -1.06
     },
     {
-      "ticker": "IONL",
-      "name": "GRANITESHARES ETF TR 2X LONG IONQ",
+      "ticker": "BRUN",
+      "name": "BOOST RUN INC ORD SHS CL A",
       "sector": "Unknown",
-      "price": 13.4,
-      "changePct": -8.97,
-      "changeDollar": -1.32
+      "price": 13.75,
+      "changePct": -9.36,
+      "changeDollar": -1.42
     },
     {
-      "ticker": "NAIL",
-      "name": "DIREXION SHARES ETF TRUST DAIL HO SUPP ETF",
+      "ticker": "IONX",
+      "name": "TIDAL TRUST II DEF LON ION ETF",
       "sector": "Unknown",
-      "price": 25.66,
-      "changePct": -8.29,
-      "changeDollar": -2.32
-    },
-    {
-      "ticker": "INFQ",
-      "name": "INFLEQTION INC COM SHS",
-      "sector": "Unknown",
-      "price": 11.57,
-      "changePct": -7.74,
-      "changeDollar": -0.97
-    },
-    {
-      "ticker": "FMS",
-      "name": "FRESENIUS MEDICAL CARE AG SPONSORED ADR",
-      "sector": "Unknown",
-      "price": 20.79,
-      "changePct": -7.27,
-      "changeDollar": -1.63
-    }
-  ],
-  "dollarGainers": [
-    {
-      "ticker": "PENG",
-      "name": "PENGUIN SOLUTIONS INC COM",
-      "sector": "Unknown",
-      "price": 72.4,
-      "changePct": 12.76,
-      "changeDollar": 8.19
-    },
-    {
-      "ticker": "BSP",
-      "name": "BENDING SPOONS SPA COM SHS",
-      "sector": "Unknown",
-      "price": 39.24,
-      "changePct": 18.66,
-      "changeDollar": 6.17
-    },
-    {
-      "ticker": "BKH",
-      "name": "BLACK HILLS CORP COM",
-      "sector": "Unknown",
-      "price": 76.43,
-      "changePct": 8.04,
-      "changeDollar": 5.69
-    },
-    {
-      "ticker": "NWE",
-      "name": "NORTHWESTERN ENERGY GROUP INC COM NEW",
-      "sector": "Unknown",
-      "price": 74.55,
-      "changePct": 8.17,
-      "changeDollar": 5.63
-    },
-    {
-      "ticker": "BRZE",
-      "name": "BRAZE INC COM CL A",
-      "sector": "Unknown",
-      "price": 28.84,
-      "changePct": 9.49,
-      "changeDollar": 2.5
-    }
-  ],
-  "dollarLosers": [
-    {
-      "ticker": "NEBX",
-      "name": "Tradr 2X Long NBIS Daily ETF",
-      "sector": "Unknown",
-      "price": 26.4,
-      "changePct": -11.88,
-      "changeDollar": -3.56
+      "price": 24.15,
+      "changePct": -9.14,
+      "changeDollar": -2.43
     },
     {
       "ticker": "ETHU",
       "name": "2x Ether ETF",
       "sector": "Unknown",
-      "price": 27.42,
-      "changePct": -9.62,
-      "changeDollar": -2.92
+      "price": 27.57,
+      "changePct": -9.13,
+      "changeDollar": -2.77
+    }
+  ],
+  "dollarGainers": [
+    {
+      "ticker": "GKOS",
+      "name": "GLAUKOS CORP COM",
+      "sector": "Unknown",
+      "price": 172.18,
+      "changePct": 6.55,
+      "changeDollar": 10.59
     },
     {
-      "ticker": "MSTX",
-      "name": "TIDAL TRUST II DE 2X LO MS ETF",
+      "ticker": "MUU",
+      "name": "DIREXION SHARES ETF TRUST DLY MU BULL 2X",
       "sector": "Unknown",
-      "price": 18.29,
-      "changePct": -12.78,
-      "changeDollar": -2.68
+      "price": 37.88,
+      "changePct": 7.8,
+      "changeDollar": 2.74
     },
     {
-      "ticker": "NBIG",
-      "name": "THEMES ETF TR LEVERAGE SHS 2X",
+      "ticker": "AVBP",
+      "name": "ARRIVENT BIOPHARMA INC COM",
       "sector": "Unknown",
-      "price": 17.81,
-      "changePct": -11.79,
-      "changeDollar": -2.38
+      "price": 16.89,
+      "changePct": 11.93,
+      "changeDollar": 1.8
     },
     {
-      "ticker": "NAIL",
-      "name": "DIREXION SHARES ETF TRUST DAIL HO SUPP ETF",
+      "ticker": "NBIZ",
+      "name": "Tradr 2X Short NBIS Daily ETF",
       "sector": "Unknown",
-      "price": 25.66,
-      "changePct": -8.29,
-      "changeDollar": -2.32
+      "price": 19.74,
+      "changePct": 9.79,
+      "changeDollar": 1.76
+    },
+    {
+      "ticker": "PGNY",
+      "name": "PROGYNY INC COM",
+      "sector": "Unknown",
+      "price": 27.55,
+      "changePct": 6.33,
+      "changeDollar": 1.64
+    }
+  ],
+  "dollarLosers": [
+    {
+      "ticker": "MSTU",
+      "name": "T-Rex 2X Long MSTR Daily Target ETF",
+      "sector": "Unknown",
+      "price": 39.45,
+      "changePct": -13.68,
+      "changeDollar": -6.25
+    },
+    {
+      "ticker": "AXTX",
+      "name": "Tradr 2X Long AXTI Daily ETF",
+      "sector": "Unknown",
+      "price": 36.47,
+      "changePct": -9.55,
+      "changeDollar": -3.85
+    },
+    {
+      "ticker": "ETHU",
+      "name": "2x Ether ETF",
+      "sector": "Unknown",
+      "price": 27.57,
+      "changePct": -9.13,
+      "changeDollar": -2.77
+    },
+    {
+      "ticker": "IONX",
+      "name": "TIDAL TRUST II DEF LON ION ETF",
+      "sector": "Unknown",
+      "price": 24.15,
+      "changePct": -9.14,
+      "changeDollar": -2.43
+    },
+    {
+      "ticker": "FCEL",
+      "name": "FUELCELL ENERGY INC COM NEW",
+      "sector": "Unknown",
+      "price": 18.36,
+      "changePct": -11.04,
+      "changeDollar": -2.28
     }
   ]
 }
