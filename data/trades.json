@@ -2563,6 +2563,84 @@
       },
       "exit": null,
       "fomo": null
+    },
+    {
+      "id": 36,
+      "status": "open",
+      "entry": {
+        "date": "2026-10-08",
+        "time": "15:55 PST",
+        "ticker": "SPOT",
+        "name": "SPOTIFY TECHNOLOGY S A SHS",
+        "sector": "Unknown",
+        "type": "CALL",
+        "strike": 540.0,
+        "expiration": "2026-10-09",
+        "dte_at_entry": 1,
+        "T_at_entry": 0.00274,
+        "stock_price_at_entry": 512.92,
+        "premium": 1.0,
+        "cost": 100.0,
+        "bid": 0.4,
+        "spread": 0.6,
+        "iv_at_entry": 0.5422,
+        "otm_pct": 5.28,
+        "expected_move": {
+          "one_sigma_pct": 2.84,
+          "upper": 527.48,
+          "lower": 498.36,
+          "strike_position": "outside"
+        },
+        "signal_rank": "dollar_gainer_1",
+        "signal_pct": 5.08,
+        "signal_dollar": 24.79,
+        "spy_change": -0.24,
+        "macro_active": false,
+        "macro_keywords": [],
+        "auto_note": "SPOT CALL | $+24.79 (+5.08%) | dollar_gainer_1 | Strike $540.0 exp 2026-10-09 (1DTE) | IV 54.2% | SPY -0.24% | No macro triggers"
+      },
+      "news_scan": null,
+      "exit": null,
+      "fomo": null
+    },
+    {
+      "id": 37,
+      "status": "open",
+      "entry": {
+        "date": "2026-10-08",
+        "time": "15:55 PST",
+        "ticker": "MSTU",
+        "name": "T-Rex 2X Long MSTR Daily Target ETF",
+        "sector": "Unknown",
+        "type": "PUT",
+        "strike": 37.0,
+        "expiration": "2026-10-09",
+        "dte_at_entry": 1,
+        "T_at_entry": 0.00274,
+        "stock_price_at_entry": 39.45,
+        "premium": 0.81,
+        "cost": 81.0,
+        "bid": 0.36,
+        "spread": 0.45,
+        "iv_at_entry": 1.332,
+        "otm_pct": 6.21,
+        "expected_move": {
+          "one_sigma_pct": 6.97,
+          "upper": 42.2,
+          "lower": 36.7,
+          "strike_position": "inside"
+        },
+        "signal_rank": "dollar_loser_1",
+        "signal_pct": -13.68,
+        "signal_dollar": -6.25,
+        "spy_change": -0.24,
+        "macro_active": false,
+        "macro_keywords": [],
+        "auto_note": "MSTU PUT | $-6.25 (-13.68%) | dollar_loser_1 | Strike $37.0 exp 2026-10-09 (1DTE) | IV 133.2% | SPY -0.24% | No macro triggers"
+      },
+      "news_scan": null,
+      "exit": null,
+      "fomo": null
     }
   ]
 }

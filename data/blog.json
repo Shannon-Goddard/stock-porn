@@ -416,5 +416,27 @@
     "youtube_id": null,
     "images": [],
     "published": true
+  },
+  {
+    "id": 36,
+    "date": "2026-10-08",
+    "ticker": "SPOT",
+    "type": "CALL",
+    "trade_id": 36,
+    "title": "SPOT CALL \u2014 2026-10-08",
+    "youtube_id": null,
+    "images": [],
+    "published": true
+  },
+  {
+    "id": 37,
+    "date": "2026-10-08",
+    "ticker": "MSTU",
+    "type": "PUT",
+    "trade_id": 37,
+    "title": "MSTU PUT \u2014 2026-10-08",
+    "youtube_id": null,
+    "images": [],
+    "published": true
   }
 ]
