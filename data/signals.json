@@ -1,250 +1,250 @@
 {
   "topGainers": [
     {
+      "ticker": "PCRX",
+      "name": "PACIRA BIOSCIENCES INC COM",
+      "sector": "Unknown",
+      "price": 36.39,
+      "changePct": 44.4,
+      "changeDollar": 11.19
+    },
+    {
+      "ticker": "NBIZ",
+      "name": "Tradr 2X Short NBIS Daily ETF",
+      "sector": "Unknown",
+      "price": 22.86,
+      "changePct": 15.81,
+      "changeDollar": 3.12
+    },
+    {
       "ticker": "IREZ",
       "name": "Tradr 2X Short IREN Daily ETF",
       "sector": "Unknown",
-      "price": 10.74,
-      "changePct": 12.34,
-      "changeDollar": 1.18
+      "price": 12.43,
+      "changePct": 15.64,
+      "changeDollar": 1.68
     },
     {
-      "ticker": "AVBP",
-      "name": "ARRIVENT BIOPHARMA INC COM",
+      "ticker": "MANE",
+      "name": "VERADERMICS INC COMMON STOCK",
       "sector": "Unknown",
-      "price": 16.89,
-      "changePct": 11.93,
-      "changeDollar": 1.8
+      "price": 125.06,
+      "changePct": 12.72,
+      "changeDollar": 14.11
     },
     {
-      "ticker": "MUU",
-      "name": "DIREXION SHARES ETF TRUST DLY MU BULL 2X",
+      "ticker": "SECZ",
+      "name": "SECURITIZE CORP COM SHS",
       "sector": "Unknown",
-      "price": 37.88,
-      "changePct": 7.8,
-      "changeDollar": 2.74
+      "price": 12.62,
+      "changePct": 10.7,
+      "changeDollar": 1.22
     },
     {
-      "ticker": "NWE",
-      "name": "NORTHWESTERN ENERGY GROUP INC COM NEW",
+      "ticker": "RAMZ",
+      "name": "T-REX 2X Inverse DRAM Daily Target ETF",
       "sector": "Unknown",
-      "price": 73.97,
-      "changePct": 7.33,
-      "changeDollar": 5.05
+      "price": 15.41,
+      "changePct": 10.7,
+      "changeDollar": 1.49
     },
     {
-      "ticker": "SMCX",
-      "name": "TIDAL TRUST II DEFI DA SMCI ETF",
+      "ticker": "ETHD",
+      "name": "PROSHARES TR ULTRA ETHER ETF",
       "sector": "Unknown",
-      "price": 16.28,
-      "changePct": 6.75,
-      "changeDollar": 1.03
+      "price": 29.0,
+      "changePct": 9.27,
+      "changeDollar": 2.46
     },
     {
-      "ticker": "SBIT",
-      "name": "PROSHARES TR ULTRA BITCO ETF",
+      "ticker": "CBIO",
+      "name": "CRESCENT BIOPHARMA INC. COM",
       "sector": "Unknown",
-      "price": 30.5,
-      "changePct": 5.17,
-      "changeDollar": 1.5
+      "price": 14.56,
+      "changePct": 7.93,
+      "changeDollar": 1.07
     },
     {
-      "ticker": "SPOT",
-      "name": "SPOTIFY TECHNOLOGY S A SHS",
+      "ticker": "JMKE",
+      "name": "JERSEY MIKES SUBS INC COM SHS CL A",
       "sector": "Unknown",
-      "price": 512.92,
-      "changePct": 5.08,
-      "changeDollar": 24.79
+      "price": 17.65,
+      "changePct": 7.69,
+      "changeDollar": 1.26
     },
     {
-      "ticker": "RELL",
-      "name": "RICHARDSON ELECTRS LTD COM",
+      "ticker": "CMG",
+      "name": "CHIPOTLE MEXICAN GRILL INC COM",
       "sector": "Unknown",
-      "price": 20.0,
-      "changePct": 4.99,
-      "changeDollar": 0.95
-    },
-    {
-      "ticker": "SPCG",
-      "name": "Tradr 2X Short SpaceX Daily ETF",
-      "sector": "Unknown",
-      "price": 11.78,
-      "changePct": 4.9,
-      "changeDollar": 0.55
-    },
-    {
-      "ticker": "GO",
-      "name": "GROCERY OUTLET HLDG CORP COM",
-      "sector": "Unknown",
-      "price": 11.94,
-      "changePct": 4.65,
-      "changeDollar": 0.53
+      "price": 33.04,
+      "changePct": 7.38,
+      "changeDollar": 2.27
     }
   ],
   "topLosers": [
     {
-      "ticker": "MSTU",
-      "name": "T-Rex 2X Long MSTR Daily Target ETF",
+      "ticker": "CWVX",
+      "name": "Tradr 2X Long CRWV Daily ETF",
       "sector": "Unknown",
-      "price": 39.45,
-      "changePct": -13.68,
-      "changeDollar": -6.25
+      "price": 12.96,
+      "changePct": -16.82,
+      "changeDollar": -2.62
     },
     {
-      "ticker": "FCEL",
-      "name": "FUELCELL ENERGY INC COM NEW",
+      "ticker": "BEX",
+      "name": "Tradr 2X Long BE Daily ETF",
       "sector": "Unknown",
-      "price": 18.36,
-      "changePct": -11.04,
-      "changeDollar": -2.28
+      "price": 33.53,
+      "changePct": -15.92,
+      "changeDollar": -6.35
     },
     {
-      "ticker": "NVTX",
-      "name": "Tradr 2X Long NVTS Daily ETF",
+      "ticker": "NEBX",
+      "name": "Tradr 2X Long NBIS Daily ETF",
       "sector": "Unknown",
-      "price": 14.77,
-      "changePct": -10.54,
-      "changeDollar": -1.74
+      "price": 22.67,
+      "changePct": -15.76,
+      "changeDollar": -4.24
     },
     {
-      "ticker": "NBIG",
+      "ticker": "ARMG",
+      "name": "THEMES ETF TR LEVERAGE SHARES",
+      "sector": "Unknown",
+      "price": 18.24,
+      "changePct": -15.52,
+      "changeDollar": -3.35
+    },
+    {
+      "ticker": "GLWG",
       "name": "THEMES ETF TR LEVERAGE SHS 2X",
       "sector": "Unknown",
-      "price": 18.13,
-      "changePct": -10.2,
-      "changeDollar": -2.06
+      "price": 12.59,
+      "changePct": -14.64,
+      "changeDollar": -2.16
     },
     {
-      "ticker": "IONL",
-      "name": "GRANITESHARES ETF TR 2X LONG IONQ",
+      "ticker": "NN",
+      "name": "NEXTNAV INC COMMON STOCK",
       "sector": "Unknown",
-      "price": 13.42,
-      "changePct": -8.83,
-      "changeDollar": -1.3
+      "price": 11.12,
+      "changePct": -12.51,
+      "changeDollar": -1.59
     },
     {
-      "ticker": "AZTA",
-      "name": "AZENTA INC COM",
+      "ticker": "ORCX",
+      "name": "TIDAL TRUST II DEFIANCE DAILY",
       "sector": "Unknown",
-      "price": 35.89,
-      "changePct": -8.79,
-      "changeDollar": -3.46
+      "price": 17.65,
+      "changePct": -11.75,
+      "changeDollar": -2.35
     },
     {
-      "ticker": "FMS",
-      "name": "FRESENIUS MEDICAL CARE AG SPONSORED ADR",
+      "ticker": "MXL",
+      "name": "MAXLINEAR INC COM",
       "sector": "Unknown",
-      "price": 20.69,
-      "changePct": -7.72,
-      "changeDollar": -1.73
+      "price": 95.45,
+      "changePct": -11.09,
+      "changeDollar": -11.91
     },
     {
-      "ticker": "REZI",
-      "name": "RESIDEO TECHNOLOGIES INC COM",
+      "ticker": "RKLX",
+      "name": "TIDAL TRUST II DEFIANCE DAILY",
       "sector": "Unknown",
-      "price": 17.56,
-      "changePct": -7.19,
-      "changeDollar": -1.36
+      "price": 16.03,
+      "changePct": -10.99,
+      "changeDollar": -1.98
     },
     {
-      "ticker": "INFQ",
-      "name": "INFLEQTION INC COM SHS",
+      "ticker": "SNXX",
+      "name": "Tradr 2X Long SNDK Daily ETF",
       "sector": "Unknown",
-      "price": 11.64,
-      "changePct": -7.18,
-      "changeDollar": -0.9
-    },
-    {
-      "ticker": "SNEX",
-      "name": "STONEX GROUP INC COM",
-      "sector": "Unknown",
-      "price": 61.46,
-      "changePct": -6.88,
-      "changeDollar": -4.54
+      "price": 14.07,
+      "changePct": -10.55,
+      "changeDollar": -1.66
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "SPOT",
-      "name": "SPOTIFY TECHNOLOGY S A SHS",
+      "ticker": "MANE",
+      "name": "VERADERMICS INC COMMON STOCK",
       "sector": "Unknown",
-      "price": 512.92,
-      "changePct": 5.08,
-      "changeDollar": 24.79
+      "price": 125.06,
+      "changePct": 12.72,
+      "changeDollar": 14.11
     },
     {
-      "ticker": "NWE",
-      "name": "NORTHWESTERN ENERGY GROUP INC COM NEW",
+      "ticker": "PCRX",
+      "name": "PACIRA BIOSCIENCES INC COM",
       "sector": "Unknown",
-      "price": 73.97,
-      "changePct": 7.33,
-      "changeDollar": 5.05
+      "price": 36.39,
+      "changePct": 44.4,
+      "changeDollar": 11.19
     },
     {
-      "ticker": "MUU",
-      "name": "DIREXION SHARES ETF TRUST DLY MU BULL 2X",
+      "ticker": "NBIZ",
+      "name": "Tradr 2X Short NBIS Daily ETF",
       "sector": "Unknown",
-      "price": 37.88,
-      "changePct": 7.8,
-      "changeDollar": 2.74
+      "price": 22.86,
+      "changePct": 15.81,
+      "changeDollar": 3.12
     },
     {
-      "ticker": "AVBP",
-      "name": "ARRIVENT BIOPHARMA INC COM",
+      "ticker": "ETHD",
+      "name": "PROSHARES TR ULTRA ETHER ETF",
       "sector": "Unknown",
-      "price": 16.89,
-      "changePct": 11.93,
-      "changeDollar": 1.8
+      "price": 29.0,
+      "changePct": 9.27,
+      "changeDollar": 2.46
     },
     {
-      "ticker": "SBIT",
-      "name": "PROSHARES TR ULTRA BITCO ETF",
+      "ticker": "CMG",
+      "name": "CHIPOTLE MEXICAN GRILL INC COM",
       "sector": "Unknown",
-      "price": 30.5,
-      "changePct": 5.17,
-      "changeDollar": 1.5
+      "price": 33.04,
+      "changePct": 7.38,
+      "changeDollar": 2.27
     }
   ],
   "dollarLosers": [
     {
-      "ticker": "MSTU",
-      "name": "T-Rex 2X Long MSTR Daily Target ETF",
+      "ticker": "MXL",
+      "name": "MAXLINEAR INC COM",
       "sector": "Unknown",
-      "price": 39.45,
-      "changePct": -13.68,
-      "changeDollar": -6.25
+      "price": 95.45,
+      "changePct": -11.09,
+      "changeDollar": -11.91
     },
     {
-      "ticker": "SNEX",
-      "name": "STONEX GROUP INC COM",
+      "ticker": "BEX",
+      "name": "Tradr 2X Long BE Daily ETF",
       "sector": "Unknown",
-      "price": 61.46,
-      "changePct": -6.88,
-      "changeDollar": -4.54
+      "price": 33.53,
+      "changePct": -15.92,
+      "changeDollar": -6.35
     },
     {
-      "ticker": "AZTA",
-      "name": "AZENTA INC COM",
+      "ticker": "NEBX",
+      "name": "Tradr 2X Long NBIS Daily ETF",
       "sector": "Unknown",
-      "price": 35.89,
-      "changePct": -8.79,
-      "changeDollar": -3.46
+      "price": 22.67,
+      "changePct": -15.76,
+      "changeDollar": -4.24
     },
     {
-      "ticker": "FCEL",
-      "name": "FUELCELL ENERGY INC COM NEW",
+      "ticker": "ARMG",
+      "name": "THEMES ETF TR LEVERAGE SHARES",
       "sector": "Unknown",
-      "price": 18.36,
-      "changePct": -11.04,
-      "changeDollar": -2.28
+      "price": 18.24,
+      "changePct": -15.52,
+      "changeDollar": -3.35
     },
     {
-      "ticker": "NBIG",
-      "name": "THEMES ETF TR LEVERAGE SHS 2X",
+      "ticker": "CWVX",
+      "name": "Tradr 2X Long CRWV Daily ETF",
       "sector": "Unknown",
-      "price": 18.13,
-      "changePct": -10.2,
-      "changeDollar": -2.06
+      "price": 12.96,
+      "changePct": -16.82,
+      "changeDollar": -2.62
     }
   ]
 }
