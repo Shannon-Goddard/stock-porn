@@ -1248,8 +1248,8 @@
         "auto_note": "ALAB CALL | $+27.58 (+9.75%) | dollar_gainer_1 | Strike $390.0 exp 2026-09-11 (6DTE) | IV 88.2% | SPY +nan% | MACRO: rate hike, war"
       },
       "news_scan": {
-        "scanned_at": "2026-10-07 20:02:28 PST",
-        "gap_days": 32,
+        "scanned_at": "2026-10-08 19:20:46 PST",
+        "gap_days": 33,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "neutral",
         "spx_sentiment": "neutral",
@@ -1306,8 +1306,8 @@
         "auto_note": "TSLA PUT | $-22.29 (-5.92%) | dollar_loser_1 | Strike $340.0 exp 2026-09-09 (4DTE) | IV 32.4% | SPY +nan% | MACRO: rate hike, war"
       },
       "news_scan": {
-        "scanned_at": "2026-10-07 20:02:28 PST",
-        "gap_days": 32,
+        "scanned_at": "2026-10-08 19:20:46 PST",
+        "gap_days": 33,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "neutral",
         "spx_sentiment": "neutral",
@@ -1361,8 +1361,8 @@
         "auto_note": "DDOG CALL | $+15.04 (+7.15%) | dollar_gainer_1 | Strike $240.0 exp 2026-09-11 (1DTE) | IV 68.4% | SPY +nan% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-10-07 20:02:28 PST",
-        "gap_days": 27,
+        "scanned_at": "2026-10-08 19:20:46 PST",
+        "gap_days": 28,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "neutral",
         "spx_sentiment": "neutral",
@@ -1419,8 +1419,8 @@
         "auto_note": "RGTZ CALL | $+14.18 (+402.84%) | dollar_gainer_1 | Strike $8.0 exp 2026-09-18 (7DTE) | IV 0.0% | SPY +nan% | MACRO: rate hike, china"
       },
       "news_scan": {
-        "scanned_at": "2026-10-07 20:02:28 PST",
-        "gap_days": 26,
+        "scanned_at": "2026-10-08 19:20:46 PST",
+        "gap_days": 27,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "neutral",
         "spx_sentiment": "neutral",
@@ -1476,8 +1476,8 @@
         "auto_note": "VICR CALL | $+19.86 (+11.15%) | dollar_gainer_1 | Strike $240.0 exp 2026-09-18 (6DTE) | IV 86.0% | SPY +nan% | MACRO: fed"
       },
       "news_scan": {
-        "scanned_at": "2026-10-07 20:02:28 PST",
-        "gap_days": 25,
+        "scanned_at": "2026-10-08 19:20:46 PST",
+        "gap_days": 26,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "neutral",
         "spx_sentiment": "neutral",
@@ -1533,8 +1533,8 @@
         "auto_note": "LEU PUT | $-13.56 (-8.18%) | dollar_loser_1 | Strike $135.0 exp 2026-09-18 (6DTE) | IV 56.5% | SPY +nan% | MACRO: fed"
       },
       "news_scan": {
-        "scanned_at": "2026-10-07 20:02:28 PST",
-        "gap_days": 25,
+        "scanned_at": "2026-10-08 19:20:46 PST",
+        "gap_days": 26,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "neutral",
         "spx_sentiment": "neutral",
@@ -1588,8 +1588,8 @@
         "auto_note": "PANW CALL | $+43.29 (+13.09%) | dollar_gainer_1 | Strike $420.0 exp 2026-09-18 (3DTE) | IV 71.1% | SPY +nan% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-10-07 20:02:28 PST",
-        "gap_days": 22,
+        "scanned_at": "2026-10-08 19:20:46 PST",
+        "gap_days": 23,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "neutral",
         "spx_sentiment": "neutral",
@@ -1643,8 +1643,8 @@
         "auto_note": "TER PUT | $-50.52 (-13.30%) | dollar_loser_1 | Strike $280.0 exp 2026-09-18 (3DTE) | IV 90.0% | SPY +nan% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-10-07 20:02:28 PST",
-        "gap_days": 22,
+        "scanned_at": "2026-10-08 19:20:46 PST",
+        "gap_days": 23,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "neutral",
         "spx_sentiment": "neutral",
@@ -1701,8 +1701,8 @@
         "auto_note": "QLYS CALL | $+12.46 (+7.21%) | dollar_gainer_1 | Strike $210.0 exp 2026-09-18 (2DTE) | IV 78.5% | SPY +nan% | MACRO: fed, rate hike"
       },
       "news_scan": {
-        "scanned_at": "2026-10-07 20:02:28 PST",
-        "gap_days": 21,
+        "scanned_at": "2026-10-08 19:20:46 PST",
+        "gap_days": 22,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "neutral",
         "spx_sentiment": "neutral",
@@ -1759,8 +1759,8 @@
         "auto_note": "AXON PUT | $-48.10 (-9.81%) | dollar_loser_1 | Strike $390.0 exp 2026-09-18 (2DTE) | IV 78.0% | SPY +nan% | MACRO: fed, rate hike"
       },
       "news_scan": {
-        "scanned_at": "2026-10-07 20:02:28 PST",
-        "gap_days": 21,
+        "scanned_at": "2026-10-08 19:20:46 PST",
+        "gap_days": 22,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "neutral",
         "spx_sentiment": "neutral",
@@ -1817,8 +1817,8 @@
         "auto_note": "COHR CALL | $+18.76 (+6.92%) | dollar_gainer_1 | Strike $320.0 exp 2026-09-18 (1DTE) | IV 88.5% | SPY +nan% | MACRO: fed, war"
       },
       "news_scan": {
-        "scanned_at": "2026-10-07 20:02:28 PST",
-        "gap_days": 20,
+        "scanned_at": "2026-10-08 19:20:46 PST",
+        "gap_days": 21,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "neutral",
         "spx_sentiment": "neutral",
@@ -1875,8 +1875,8 @@
         "auto_note": "FANG PUT | $-16.99 (-8.03%) | dollar_loser_1 | Strike $185.0 exp 2026-09-18 (1DTE) | IV 53.9% | SPY +nan% | MACRO: fed, war"
       },
       "news_scan": {
-        "scanned_at": "2026-10-07 20:02:28 PST",
-        "gap_days": 20,
+        "scanned_at": "2026-10-08 19:20:46 PST",
+        "gap_days": 21,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "neutral",
         "spx_sentiment": "neutral",
@@ -1930,8 +1930,8 @@
         "auto_note": "ARM CALL | $+47.29 (+17.16%) | dollar_gainer_1 | Strike $400.0 exp 2026-09-25 (3DTE) | IV 120.3% | SPY +nan% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-10-07 20:02:28 PST",
-        "gap_days": 15,
+        "scanned_at": "2026-10-08 19:20:46 PST",
+        "gap_days": 16,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "neutral",
         "spx_sentiment": "neutral",
@@ -1985,8 +1985,8 @@
         "auto_note": "FAS PUT | $-10.61 (-6.50%) | dollar_loser_1 | Strike $145.0 exp 2026-09-25 (2DTE) | IV 57.9% | SPY +nan% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-10-07 20:02:28 PST",
-        "gap_days": 14,
+        "scanned_at": "2026-10-08 19:20:46 PST",
+        "gap_days": 15,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "neutral",
         "spx_sentiment": "neutral",
@@ -2042,8 +2042,8 @@
         "auto_note": "IONQ CALL | $+1.80 (+4.42%) | dollar_gainer_1 | Strike $43.0 exp 2026-09-25 (1DTE) | IV 84.7% | SPY +nan% | MACRO: rate hike"
       },
       "news_scan": {
-        "scanned_at": "2026-10-07 20:02:28 PST",
-        "gap_days": 13,
+        "scanned_at": "2026-10-08 19:20:46 PST",
+        "gap_days": 14,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "neutral",
         "spx_sentiment": "neutral",
@@ -2099,8 +2099,8 @@
         "auto_note": "CRDO CALL | $+15.00 (+7.65%) | dollar_gainer_1 | Strike $250.0 exp 2026-10-02 (6DTE) | IV 83.2% | SPY +nan% | MACRO: war"
       },
       "news_scan": {
-        "scanned_at": "2026-10-07 20:02:28 PST",
-        "gap_days": 11,
+        "scanned_at": "2026-10-08 19:20:46 PST",
+        "gap_days": 12,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "neutral",
         "spx_sentiment": "neutral",
@@ -2154,8 +2154,8 @@
         "auto_note": "SHEL CALL | $+0.69 (+0.72%) | dollar_gainer_1 | Strike $97.0 exp 2026-10-02 (3DTE) | IV 29.6% | SPY -0.74% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-10-07 20:02:28 PST",
-        "gap_days": 8,
+        "scanned_at": "2026-10-08 19:20:46 PST",
+        "gap_days": 9,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "neutral",
         "spx_sentiment": "neutral",
@@ -2209,8 +2209,8 @@
         "auto_note": "SHEL PUT | $+0.69 (+0.72%) | dollar_loser_1 | Strike $95.0 exp 2026-10-02 (3DTE) | IV 35.4% | SPY -0.74% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-10-07 20:02:28 PST",
-        "gap_days": 8,
+        "scanned_at": "2026-10-08 19:20:46 PST",
+        "gap_days": 9,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "neutral",
         "spx_sentiment": "neutral",
@@ -2267,8 +2267,8 @@
         "auto_note": "SNPS CALL | $+19.85 (+4.78%) | dollar_gainer_1 | Strike $470.0 exp 2026-10-02 (1DTE) | IV 68.4% | SPY -0.21% | MACRO: war, tariff"
       },
       "news_scan": {
-        "scanned_at": "2026-10-07 20:02:28 PST",
-        "gap_days": 6,
+        "scanned_at": "2026-10-08 19:20:46 PST",
+        "gap_days": 7,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "neutral",
         "spx_sentiment": "neutral",
@@ -2325,8 +2325,8 @@
         "auto_note": "JBL PUT | $-31.98 (-10.03%) | dollar_loser_1 | Strike $270.0 exp 2026-10-02 (1DTE) | IV 60.3% | SPY -0.21% | MACRO: war, tariff"
       },
       "news_scan": {
-        "scanned_at": "2026-10-07 20:02:28 PST",
-        "gap_days": 6,
+        "scanned_at": "2026-10-08 19:20:46 PST",
+        "gap_days": 7,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "neutral",
         "spx_sentiment": "neutral",
@@ -2380,8 +2380,8 @@
         "auto_note": "LITE CALL | $+74.52 (+7.67%) | dollar_gainer_1 | Strike $1400.0 exp 2026-10-09 (7DTE) | IV 79.3% | SPY +0.18% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-10-07 20:02:28 PST",
-        "gap_days": 5,
+        "scanned_at": "2026-10-08 19:20:46 PST",
+        "gap_days": 6,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "neutral",
         "spx_sentiment": "neutral",
@@ -2435,8 +2435,8 @@
         "auto_note": "ACN PUT | $-13.40 (-6.31%) | dollar_loser_1 | Strike $187.5 exp 2026-10-09 (6DTE) | IV 43.4% | SPY +nan% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-10-07 20:02:28 PST",
-        "gap_days": 4,
+        "scanned_at": "2026-10-08 19:20:46 PST",
+        "gap_days": 5,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "neutral",
         "spx_sentiment": "neutral",
@@ -2490,8 +2490,8 @@
         "auto_note": "ACN PUT | $-13.40 (-6.31%) | dollar_loser_1 | Strike $185.0 exp 2026-10-09 (3DTE) | IV 49.8% | SPY +0.67% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-10-07 20:02:28 PST",
-        "gap_days": 1,
+        "scanned_at": "2026-10-08 19:20:46 PST",
+        "gap_days": 2,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "neutral",
         "spx_sentiment": "neutral",
@@ -2545,8 +2545,8 @@
         "auto_note": "VST CALL | $+15.61 (+10.77%) | dollar_gainer_1 | Strike $170.0 exp 2026-10-09 (2DTE) | IV 61.1% | SPY +0.55% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-10-07 20:02:28 PST",
-        "gap_days": 0,
+        "scanned_at": "2026-10-08 19:20:46 PST",
+        "gap_days": 1,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "neutral",
         "spx_sentiment": "neutral",
@@ -2599,7 +2599,23 @@
         "macro_keywords": [],
         "auto_note": "SPOT CALL | $+24.79 (+5.08%) | dollar_gainer_1 | Strike $540.0 exp 2026-10-09 (1DTE) | IV 54.2% | SPY -0.24% | No macro triggers"
       },
-      "news_scan": null,
+      "news_scan": {
+        "scanned_at": "2026-10-08 19:20:46 PST",
+        "gap_days": 0,
+        "ticker_sentiment": "neutral",
+        "spy_sentiment": "neutral",
+        "spx_sentiment": "neutral",
+        "keywords_found": [],
+        "spy_keywords": [],
+        "spx_keywords": [],
+        "decision": "sell",
+        "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
+        "raw_headlines": {
+          "ticker": [],
+          "spy": [],
+          "spx": []
+        }
+      },
       "exit": null,
       "fomo": null
     },
@@ -2638,7 +2654,23 @@
         "macro_keywords": [],
         "auto_note": "MSTU PUT | $-6.25 (-13.68%) | dollar_loser_1 | Strike $37.0 exp 2026-10-09 (1DTE) | IV 133.2% | SPY -0.24% | No macro triggers"
       },
-      "news_scan": null,
+      "news_scan": {
+        "scanned_at": "2026-10-08 19:20:46 PST",
+        "gap_days": 0,
+        "ticker_sentiment": "neutral",
+        "spy_sentiment": "neutral",
+        "spx_sentiment": "neutral",
+        "keywords_found": [],
+        "spy_keywords": [],
+        "spx_keywords": [],
+        "decision": "sell",
+        "decision_reason": "no confirmation for PUT thesis \u2014 sell at open",
+        "raw_headlines": {
+          "ticker": [],
+          "spy": [],
+          "spx": []
+        }
+      },
       "exit": null,
       "fomo": null
     }
