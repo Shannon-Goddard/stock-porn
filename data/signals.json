@@ -1,250 +1,74 @@
 {
   "topGainers": [
     {
-      "ticker": "PCRX",
-      "name": "PACIRA BIOSCIENCES INC COM",
+      "ticker": "CERY",
+      "name": "SPDR SERIES TRUST STATE STRET SPDR",
       "sector": "Unknown",
-      "price": 36.39,
-      "changePct": 44.4,
-      "changeDollar": 11.19
+      "price": 39.95,
+      "changePct": 0.63,
+      "changeDollar": 0.25
     },
     {
-      "ticker": "IREZ",
-      "name": "Tradr 2X Short IREN Daily ETF",
+      "ticker": "TDTT",
+      "name": "FLEXSHARES TR NRTRN TR IBOXX 3",
       "sector": "Unknown",
-      "price": 12.39,
-      "changePct": 15.36,
-      "changeDollar": 1.65
-    },
-    {
-      "ticker": "SNDQ",
-      "name": "Tradr 2X Short SNDK Daily ETF",
-      "sector": "Unknown",
-      "price": 12.29,
-      "changePct": 9.54,
-      "changeDollar": 1.07
-    },
-    {
-      "ticker": "ERAS",
-      "name": "ERASCA INC COM",
-      "sector": "Unknown",
-      "price": 15.46,
-      "changePct": 9.49,
-      "changeDollar": 1.34
-    },
-    {
-      "ticker": "SNK",
-      "name": "GraniteShares 2x Short SpaceX Daily ETF",
-      "sector": "Unknown",
-      "price": 12.28,
-      "changePct": 8.48,
-      "changeDollar": 0.96
-    },
-    {
-      "ticker": "ETHD",
-      "name": "PROSHARES TR ULTRA ETHER ETF",
-      "sector": "Unknown",
-      "price": 28.7,
-      "changePct": 8.14,
-      "changeDollar": 2.16
-    },
-    {
-      "ticker": "NTLA",
-      "name": "INTELLIA THERAPEUTICS INC COM",
-      "sector": "Unknown",
-      "price": 12.6,
-      "changePct": 7.6,
-      "changeDollar": 0.89
-    },
-    {
-      "ticker": "SSG",
-      "name": "PROSHARES TR ULTRA SEMIC NEW",
-      "sector": "Unknown",
-      "price": 10.41,
-      "changePct": 6.77,
-      "changeDollar": 0.66
-    },
-    {
-      "ticker": "CMG",
-      "name": "CHIPOTLE MEXICAN GRILL INC COM",
-      "sector": "Unknown",
-      "price": 32.68,
-      "changePct": 6.21,
-      "changeDollar": 1.91
-    },
-    {
-      "ticker": "BAH",
-      "name": "BOOZ ALLEN HAMILTON HLDG CORP CL A",
-      "sector": "Unknown",
-      "price": 72.87,
-      "changePct": 6.09,
-      "changeDollar": 4.18
+      "price": 23.34,
+      "changePct": 0.09,
+      "changeDollar": 0.02
     }
   ],
   "topLosers": [
     {
-      "ticker": "COHX",
-      "name": "Tradr 2X Long COHR Daily ETF",
+      "ticker": "TDTT",
+      "name": "FLEXSHARES TR NRTRN TR IBOXX 3",
       "sector": "Unknown",
-      "price": 24.11,
-      "changePct": -19.34,
-      "changeDollar": -5.78
+      "price": 23.34,
+      "changePct": 0.09,
+      "changeDollar": 0.02
     },
     {
-      "ticker": "LABX",
-      "name": "Tradr 2X Long ALAB Daily ETF",
+      "ticker": "CERY",
+      "name": "SPDR SERIES TRUST STATE STRET SPDR",
       "sector": "Unknown",
-      "price": 14.03,
-      "changePct": -18.67,
-      "changeDollar": -3.22
-    },
-    {
-      "ticker": "SHAZ",
-      "name": "SHARONAI HOLDINGS INC COM CL A",
-      "sector": "Unknown",
-      "price": 39.05,
-      "changePct": -13.45,
-      "changeDollar": -6.07
-    },
-    {
-      "ticker": "ARMG",
-      "name": "THEMES ETF TR LEVERAGE SHARES",
-      "sector": "Unknown",
-      "price": 18.77,
-      "changePct": -13.06,
-      "changeDollar": -2.82
-    },
-    {
-      "ticker": "QPUX",
-      "name": "TIDAL TRUST II DEFI 2X QUAN ETF",
-      "sector": "Unknown",
-      "price": 10.19,
-      "changePct": -11.7,
-      "changeDollar": -1.35
-    },
-    {
-      "ticker": "SOLT",
-      "name": "VOLATILITY SHS TR 2X SOLANA ETF",
-      "sector": "Unknown",
-      "price": 63.64,
-      "changePct": -11.65,
-      "changeDollar": -8.39
-    },
-    {
-      "ticker": "SOXL",
-      "name": "DIREXION SHARES ETF TRUST DAI SEM BUL ETF",
-      "sector": "Unknown",
-      "price": 142.52,
-      "changePct": -10.31,
-      "changeDollar": -16.39
-    },
-    {
-      "ticker": "SNDU",
-      "name": "T-REX 2X Long SNDK Daily Target ETF",
-      "sector": "Unknown",
-      "price": 21.86,
-      "changePct": -9.74,
-      "changeDollar": -2.36
-    },
-    {
-      "ticker": "MUU",
-      "name": "DIREXION SHARES ETF TRUST DLY MU BULL 2X",
-      "sector": "Unknown",
-      "price": 34.26,
-      "changePct": -9.56,
-      "changeDollar": -3.62
-    },
-    {
-      "ticker": "IONX",
-      "name": "TIDAL TRUST II DEF LON ION ETF",
-      "sector": "Unknown",
-      "price": 21.9,
-      "changePct": -9.32,
-      "changeDollar": -2.25
+      "price": 39.95,
+      "changePct": 0.63,
+      "changeDollar": 0.25
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "PCRX",
-      "name": "PACIRA BIOSCIENCES INC COM",
+      "ticker": "CERY",
+      "name": "SPDR SERIES TRUST STATE STRET SPDR",
       "sector": "Unknown",
-      "price": 36.39,
-      "changePct": 44.4,
-      "changeDollar": 11.19
+      "price": 39.95,
+      "changePct": 0.63,
+      "changeDollar": 0.25
     },
     {
-      "ticker": "BAH",
-      "name": "BOOZ ALLEN HAMILTON HLDG CORP CL A",
+      "ticker": "TDTT",
+      "name": "FLEXSHARES TR NRTRN TR IBOXX 3",
       "sector": "Unknown",
-      "price": 72.87,
-      "changePct": 6.09,
-      "changeDollar": 4.18
-    },
-    {
-      "ticker": "ETHD",
-      "name": "PROSHARES TR ULTRA ETHER ETF",
-      "sector": "Unknown",
-      "price": 28.7,
-      "changePct": 8.14,
-      "changeDollar": 2.16
-    },
-    {
-      "ticker": "CMG",
-      "name": "CHIPOTLE MEXICAN GRILL INC COM",
-      "sector": "Unknown",
-      "price": 32.68,
-      "changePct": 6.21,
-      "changeDollar": 1.91
-    },
-    {
-      "ticker": "IREZ",
-      "name": "Tradr 2X Short IREN Daily ETF",
-      "sector": "Unknown",
-      "price": 12.39,
-      "changePct": 15.36,
-      "changeDollar": 1.65
+      "price": 23.34,
+      "changePct": 0.09,
+      "changeDollar": 0.02
     }
   ],
   "dollarLosers": [
     {
-      "ticker": "SOXL",
-      "name": "DIREXION SHARES ETF TRUST DAI SEM BUL ETF",
+      "ticker": "CERY",
+      "name": "SPDR SERIES TRUST STATE STRET SPDR",
       "sector": "Unknown",
-      "price": 142.52,
-      "changePct": -10.31,
-      "changeDollar": -16.39
+      "price": 39.95,
+      "changePct": 0.63,
+      "changeDollar": 0.25
     },
     {
-      "ticker": "SOLT",
-      "name": "VOLATILITY SHS TR 2X SOLANA ETF",
+      "ticker": "TDTT",
+      "name": "FLEXSHARES TR NRTRN TR IBOXX 3",
       "sector": "Unknown",
-      "price": 63.64,
-      "changePct": -11.65,
-      "changeDollar": -8.39
-    },
-    {
-      "ticker": "SHAZ",
-      "name": "SHARONAI HOLDINGS INC COM CL A",
-      "sector": "Unknown",
-      "price": 39.05,
-      "changePct": -13.45,
-      "changeDollar": -6.07
-    },
-    {
-      "ticker": "COHX",
-      "name": "Tradr 2X Long COHR Daily ETF",
-      "sector": "Unknown",
-      "price": 24.11,
-      "changePct": -19.34,
-      "changeDollar": -5.78
-    },
-    {
-      "ticker": "MUU",
-      "name": "DIREXION SHARES ETF TRUST DLY MU BULL 2X",
-      "sector": "Unknown",
-      "price": 34.26,
-      "changePct": -9.56,
-      "changeDollar": -3.62
+      "price": 23.34,
+      "changePct": 0.09,
+      "changeDollar": 0.02
     }
   ]
 }
