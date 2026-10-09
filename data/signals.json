@@ -1,84 +1,84 @@
 {
   "topGainers": [
     {
-      "ticker": "HIMZ",
-      "name": "TIDAL TRUST II DEFI 2X HIMS ETF",
+      "ticker": "DNA",
+      "name": "GINKGO BIOWORKS HOLDINGS INC CL A NEW",
       "sector": "Unknown",
-      "price": 28.6,
-      "changePct": 18.33,
-      "changeDollar": 4.43
-    },
-    {
-      "ticker": "NVAX",
-      "name": "NOVAVAX INC COM NEW",
-      "sector": "Unknown",
-      "price": 12.87,
-      "changePct": 16.89,
-      "changeDollar": 1.86
-    },
-    {
-      "ticker": "HELP",
-      "name": "CYBIN INC COM NEW",
-      "sector": "Unknown",
-      "price": 12.07,
-      "changePct": 12.59,
-      "changeDollar": 1.35
-    },
-    {
-      "ticker": "AUGO",
-      "name": "AURA MINERALS INC SHS NEW",
-      "sector": "Unknown",
-      "price": 92.74,
-      "changePct": 12.43,
-      "changeDollar": 10.25
+      "price": 13.0,
+      "changePct": 14.64,
+      "changeDollar": 1.66
     },
     {
       "ticker": "HUM",
       "name": "HUMANA INC COM",
       "sector": "Unknown",
-      "price": 433.75,
-      "changePct": 12.05,
-      "changeDollar": 46.63
+      "price": 431.87,
+      "changePct": 11.56,
+      "changeDollar": 44.75
     },
     {
-      "ticker": "IOVA",
-      "name": "IOVANCE BIOTHERAPEUTICS INC COM",
+      "ticker": "LITX",
+      "name": "Tradr 2X Long LITE Daily ETF",
       "sector": "Unknown",
-      "price": 14.75,
-      "changePct": 10.82,
-      "changeDollar": 1.44
+      "price": 43.0,
+      "changePct": 10.23,
+      "changeDollar": 3.99
+    },
+    {
+      "ticker": "HELP",
+      "name": "CYBIN INC COM NEW",
+      "sector": "Unknown",
+      "price": 11.8,
+      "changePct": 10.07,
+      "changeDollar": 1.08
     },
     {
       "ticker": "ORCX",
       "name": "TIDAL TRUST II DEFIANCE DAILY",
       "sector": "Unknown",
-      "price": 19.58,
-      "changePct": 10.12,
-      "changeDollar": 1.8
+      "price": 19.46,
+      "changePct": 9.45,
+      "changeDollar": 1.68
     },
     {
-      "ticker": "AAOX",
-      "name": "Tradr 2X Long AAOI Daily ETF",
+      "ticker": "DOCN",
+      "name": "DIGITALOCEAN HLDGS INC COM",
       "sector": "Unknown",
-      "price": 10.94,
-      "changePct": 9.95,
-      "changeDollar": 0.99
+      "price": 134.82,
+      "changePct": 8.81,
+      "changeDollar": 10.92
     },
     {
-      "ticker": "LABU",
-      "name": "DIREXION SHARES ETF TRUST DA BI BU 3X ETF",
+      "ticker": "QDEL",
+      "name": "QUIDELORTHO CORP COM",
       "sector": "Unknown",
-      "price": 244.49,
-      "changePct": 9.64,
-      "changeDollar": 21.49
+      "price": 13.42,
+      "changePct": 8.14,
+      "changeDollar": 1.01
     },
     {
-      "ticker": "HIMS",
-      "name": "HIMS & HERS HEALTH INC COM CL A",
+      "ticker": "CAI",
+      "name": "CARIS LIFE SCIENCES INC COM",
       "sector": "Unknown",
-      "price": 30.53,
-      "changePct": 8.8,
-      "changeDollar": 2.47
+      "price": 29.7,
+      "changePct": 8.0,
+      "changeDollar": 2.2
+    },
+    {
+      "ticker": "ODD",
+      "name": "ODDITY TECH LTD SHS CL A",
+      "sector": "Unknown",
+      "price": 21.11,
+      "changePct": 7.98,
+      "changeDollar": 1.56
+    },
+    {
+      "ticker": "DFTX",
+      "name": "DEFINIUM THERAPEUTICS INC COM SHS",
+      "sector": "Unknown",
+      "price": 36.9,
+      "changePct": 7.96,
+      "changeDollar": 2.72
     }
   ],
   "topLosers": [
@@ -86,81 +86,81 @@
       "ticker": "CDNL",
       "name": "CARDINAL INFRASTRUCTURE GROUP CL A",
       "sector": "Unknown",
-      "price": 21.41,
-      "changePct": -14.57,
-      "changeDollar": -3.65
+      "price": 21.12,
+      "changePct": -15.72,
+      "changeDollar": -3.94
     },
     {
-      "ticker": "ASTS",
-      "name": "AST SPACEMOBILE INC COM CL A",
+      "ticker": "GLIBK",
+      "name": "LIBERTY CAP CORP SER C GCI GROUP",
       "sector": "Unknown",
-      "price": 49.56,
-      "changePct": -12.95,
-      "changeDollar": -7.37
+      "price": 20.05,
+      "changePct": -15.01,
+      "changeDollar": -3.54
+    },
+    {
+      "ticker": "TMUS",
+      "name": "T-MOBILE US INC COM",
+      "sector": "Unknown",
+      "price": 148.58,
+      "changePct": -13.27,
+      "changeDollar": -22.73
     },
     {
       "ticker": "T",
       "name": "AT&T INC COM",
       "sector": "Unknown",
-      "price": 22.16,
-      "changePct": -10.94,
-      "changeDollar": -2.72
+      "price": 22.18,
+      "changePct": -10.82,
+      "changeDollar": -2.69
     },
     {
-      "ticker": "VZ",
-      "name": "VERIZON COMMUNICATIONS INC COM",
+      "ticker": "ASTS",
+      "name": "AST SPACEMOBILE INC COM CL A",
       "sector": "Unknown",
-      "price": 41.37,
-      "changePct": -10.74,
-      "changeDollar": -4.98
+      "price": 50.97,
+      "changePct": -10.49,
+      "changeDollar": -5.97
     },
     {
-      "ticker": "PKE",
-      "name": "PARK AEROSPACE CORP COM",
+      "ticker": "IDR",
+      "name": "IDAHO STRATEGIC RESOURCES COM NEW",
       "sector": "Unknown",
-      "price": 27.21,
-      "changePct": -8.26,
-      "changeDollar": -2.45
+      "price": 23.79,
+      "changePct": -9.58,
+      "changeDollar": -2.52
     },
     {
-      "ticker": "JDST",
-      "name": "DIREXION SHARES ETF TRUST DAILY JUNIOR GOL",
+      "ticker": "AVNT",
+      "name": "AVIENT CORPORATION COM",
       "sector": "Unknown",
-      "price": 24.77,
-      "changePct": -6.7,
-      "changeDollar": -1.78
+      "price": 37.79,
+      "changePct": -7.78,
+      "changeDollar": -3.19
     },
     {
-      "ticker": "DUST",
-      "name": "DIREXION SHARES ETF TRUST DAI GOL BEA ETF",
+      "ticker": "BKD",
+      "name": "BROOKDALE SR LIVING INC COM",
       "sector": "Unknown",
-      "price": 38.43,
-      "changePct": -5.95,
-      "changeDollar": -2.43
+      "price": 10.12,
+      "changePct": -7.07,
+      "changeDollar": -0.77
     },
     {
-      "ticker": "BCE",
-      "name": "BCE INC COM NEW",
+      "ticker": "RSI",
+      "name": "RUSH STREET INTERACTIVE INC COM",
       "sector": "Unknown",
-      "price": 18.78,
-      "changePct": -5.86,
-      "changeDollar": -1.17
+      "price": 18.9,
+      "changePct": -6.99,
+      "changeDollar": -1.42
     },
     {
-      "ticker": "ZSL",
-      "name": "PROSHARES TR II ULTRA SHORT SILV",
+      "ticker": "GRRR",
+      "name": "GORILLA TECHNOLOGY GROUP INC SHS NEW",
       "sector": "Unknown",
-      "price": 27.14,
-      "changePct": -5.6,
-      "changeDollar": -1.61
-    },
-    {
-      "ticker": "CRUS",
-      "name": "CIRRUS LOGIC INC COM",
-      "sector": "Unknown",
-      "price": 107.09,
-      "changePct": -5.4,
-      "changeDollar": -6.11
+      "price": 11.13,
+      "changePct": -6.78,
+      "changeDollar": -0.81
     }
   ],
   "dollarGainers": [
@@ -168,83 +168,83 @@
       "ticker": "HUM",
       "name": "HUMANA INC COM",
       "sector": "Unknown",
-      "price": 433.75,
-      "changePct": 12.05,
-      "changeDollar": 46.63
+      "price": 431.87,
+      "changePct": 11.56,
+      "changeDollar": 44.75
     },
     {
-      "ticker": "LABU",
-      "name": "DIREXION SHARES ETF TRUST DA BI BU 3X ETF",
+      "ticker": "DOCN",
+      "name": "DIGITALOCEAN HLDGS INC COM",
       "sector": "Unknown",
-      "price": 244.49,
-      "changePct": 9.64,
-      "changeDollar": 21.49
+      "price": 134.82,
+      "changePct": 8.81,
+      "changeDollar": 10.92
     },
     {
-      "ticker": "AUGO",
-      "name": "AURA MINERALS INC SHS NEW",
+      "ticker": "LITX",
+      "name": "Tradr 2X Long LITE Daily ETF",
       "sector": "Unknown",
-      "price": 92.74,
-      "changePct": 12.43,
-      "changeDollar": 10.25
+      "price": 43.0,
+      "changePct": 10.23,
+      "changeDollar": 3.99
     },
     {
-      "ticker": "HIMZ",
-      "name": "TIDAL TRUST II DEFI 2X HIMS ETF",
+      "ticker": "DFTX",
+      "name": "DEFINIUM THERAPEUTICS INC COM SHS",
       "sector": "Unknown",
-      "price": 28.6,
-      "changePct": 18.33,
-      "changeDollar": 4.43
+      "price": 36.9,
+      "changePct": 7.96,
+      "changeDollar": 2.72
     },
     {
-      "ticker": "HIMS",
-      "name": "HIMS & HERS HEALTH INC COM CL A",
+      "ticker": "CAI",
+      "name": "CARIS LIFE SCIENCES INC COM",
       "sector": "Unknown",
-      "price": 30.53,
-      "changePct": 8.8,
-      "changeDollar": 2.47
+      "price": 29.7,
+      "changePct": 8.0,
+      "changeDollar": 2.2
     }
   ],
   "dollarLosers": [
     {
+      "ticker": "TMUS",
+      "name": "T-MOBILE US INC COM",
+      "sector": "Unknown",
+      "price": 148.58,
+      "changePct": -13.27,
+      "changeDollar": -22.73
+    },
+    {
       "ticker": "ASTS",
       "name": "AST SPACEMOBILE INC COM CL A",
       "sector": "Unknown",
-      "price": 49.56,
-      "changePct": -12.95,
-      "changeDollar": -7.37
-    },
-    {
-      "ticker": "CRUS",
-      "name": "CIRRUS LOGIC INC COM",
-      "sector": "Unknown",
-      "price": 107.09,
-      "changePct": -5.4,
-      "changeDollar": -6.11
-    },
-    {
-      "ticker": "VZ",
-      "name": "VERIZON COMMUNICATIONS INC COM",
-      "sector": "Unknown",
-      "price": 41.37,
-      "changePct": -10.74,
-      "changeDollar": -4.98
+      "price": 50.97,
+      "changePct": -10.49,
+      "changeDollar": -5.97
     },
     {
       "ticker": "CDNL",
       "name": "CARDINAL INFRASTRUCTURE GROUP CL A",
       "sector": "Unknown",
-      "price": 21.41,
-      "changePct": -14.57,
-      "changeDollar": -3.65
+      "price": 21.12,
+      "changePct": -15.72,
+      "changeDollar": -3.94
     },
     {
-      "ticker": "T",
-      "name": "AT&T INC COM",
+      "ticker": "GLIBK",
+      "name": "LIBERTY CAP CORP SER C GCI GROUP",
       "sector": "Unknown",
-      "price": 22.16,
-      "changePct": -10.94,
-      "changeDollar": -2.72
+      "price": 20.05,
+      "changePct": -15.01,
+      "changeDollar": -3.54
+    },
+    {
+      "ticker": "AVNT",
+      "name": "AVIENT CORPORATION COM",
+      "sector": "Unknown",
+      "price": 37.79,
+      "changePct": -7.78,
+      "changeDollar": -3.19
     }
   ]
 }
