@@ -1,74 +1,250 @@
 {
   "topGainers": [
     {
-      "ticker": "CERY",
-      "name": "SPDR SERIES TRUST STATE STRET SPDR",
+      "ticker": "HIMZ",
+      "name": "TIDAL TRUST II DEFI 2X HIMS ETF",
       "sector": "Unknown",
-      "price": 39.95,
-      "changePct": 0.63,
-      "changeDollar": 0.25
+      "price": 28.6,
+      "changePct": 18.33,
+      "changeDollar": 4.43
     },
     {
-      "ticker": "TDTT",
-      "name": "FLEXSHARES TR NRTRN TR IBOXX 3",
+      "ticker": "NVAX",
+      "name": "NOVAVAX INC COM NEW",
       "sector": "Unknown",
-      "price": 23.34,
-      "changePct": 0.09,
-      "changeDollar": 0.02
+      "price": 12.87,
+      "changePct": 16.89,
+      "changeDollar": 1.86
+    },
+    {
+      "ticker": "HELP",
+      "name": "CYBIN INC COM NEW",
+      "sector": "Unknown",
+      "price": 12.07,
+      "changePct": 12.59,
+      "changeDollar": 1.35
+    },
+    {
+      "ticker": "AUGO",
+      "name": "AURA MINERALS INC SHS NEW",
+      "sector": "Unknown",
+      "price": 92.74,
+      "changePct": 12.43,
+      "changeDollar": 10.25
+    },
+    {
+      "ticker": "HUM",
+      "name": "HUMANA INC COM",
+      "sector": "Unknown",
+      "price": 433.75,
+      "changePct": 12.05,
+      "changeDollar": 46.63
+    },
+    {
+      "ticker": "IOVA",
+      "name": "IOVANCE BIOTHERAPEUTICS INC COM",
+      "sector": "Unknown",
+      "price": 14.75,
+      "changePct": 10.82,
+      "changeDollar": 1.44
+    },
+    {
+      "ticker": "ORCX",
+      "name": "TIDAL TRUST II DEFIANCE DAILY",
+      "sector": "Unknown",
+      "price": 19.58,
+      "changePct": 10.12,
+      "changeDollar": 1.8
+    },
+    {
+      "ticker": "AAOX",
+      "name": "Tradr 2X Long AAOI Daily ETF",
+      "sector": "Unknown",
+      "price": 10.94,
+      "changePct": 9.95,
+      "changeDollar": 0.99
+    },
+    {
+      "ticker": "LABU",
+      "name": "DIREXION SHARES ETF TRUST DA BI BU 3X ETF",
+      "sector": "Unknown",
+      "price": 244.49,
+      "changePct": 9.64,
+      "changeDollar": 21.49
+    },
+    {
+      "ticker": "HIMS",
+      "name": "HIMS & HERS HEALTH INC COM CL A",
+      "sector": "Unknown",
+      "price": 30.53,
+      "changePct": 8.8,
+      "changeDollar": 2.47
     }
   ],
   "topLosers": [
     {
-      "ticker": "TDTT",
-      "name": "FLEXSHARES TR NRTRN TR IBOXX 3",
+      "ticker": "CDNL",
+      "name": "CARDINAL INFRASTRUCTURE GROUP CL A",
       "sector": "Unknown",
-      "price": 23.34,
-      "changePct": 0.09,
-      "changeDollar": 0.02
+      "price": 21.41,
+      "changePct": -14.57,
+      "changeDollar": -3.65
     },
     {
-      "ticker": "CERY",
-      "name": "SPDR SERIES TRUST STATE STRET SPDR",
+      "ticker": "ASTS",
+      "name": "AST SPACEMOBILE INC COM CL A",
       "sector": "Unknown",
-      "price": 39.95,
-      "changePct": 0.63,
-      "changeDollar": 0.25
+      "price": 49.56,
+      "changePct": -12.95,
+      "changeDollar": -7.37
+    },
+    {
+      "ticker": "T",
+      "name": "AT&T INC COM",
+      "sector": "Unknown",
+      "price": 22.16,
+      "changePct": -10.94,
+      "changeDollar": -2.72
+    },
+    {
+      "ticker": "VZ",
+      "name": "VERIZON COMMUNICATIONS INC COM",
+      "sector": "Unknown",
+      "price": 41.37,
+      "changePct": -10.74,
+      "changeDollar": -4.98
+    },
+    {
+      "ticker": "PKE",
+      "name": "PARK AEROSPACE CORP COM",
+      "sector": "Unknown",
+      "price": 27.21,
+      "changePct": -8.26,
+      "changeDollar": -2.45
+    },
+    {
+      "ticker": "JDST",
+      "name": "DIREXION SHARES ETF TRUST DAILY JUNIOR GOL",
+      "sector": "Unknown",
+      "price": 24.77,
+      "changePct": -6.7,
+      "changeDollar": -1.78
+    },
+    {
+      "ticker": "DUST",
+      "name": "DIREXION SHARES ETF TRUST DAI GOL BEA ETF",
+      "sector": "Unknown",
+      "price": 38.43,
+      "changePct": -5.95,
+      "changeDollar": -2.43
+    },
+    {
+      "ticker": "BCE",
+      "name": "BCE INC COM NEW",
+      "sector": "Unknown",
+      "price": 18.78,
+      "changePct": -5.86,
+      "changeDollar": -1.17
+    },
+    {
+      "ticker": "ZSL",
+      "name": "PROSHARES TR II ULTRA SHORT SILV",
+      "sector": "Unknown",
+      "price": 27.14,
+      "changePct": -5.6,
+      "changeDollar": -1.61
+    },
+    {
+      "ticker": "CRUS",
+      "name": "CIRRUS LOGIC INC COM",
+      "sector": "Unknown",
+      "price": 107.09,
+      "changePct": -5.4,
+      "changeDollar": -6.11
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "CERY",
-      "name": "SPDR SERIES TRUST STATE STRET SPDR",
+      "ticker": "HUM",
+      "name": "HUMANA INC COM",
       "sector": "Unknown",
-      "price": 39.95,
-      "changePct": 0.63,
-      "changeDollar": 0.25
+      "price": 433.75,
+      "changePct": 12.05,
+      "changeDollar": 46.63
     },
     {
-      "ticker": "TDTT",
-      "name": "FLEXSHARES TR NRTRN TR IBOXX 3",
+      "ticker": "LABU",
+      "name": "DIREXION SHARES ETF TRUST DA BI BU 3X ETF",
       "sector": "Unknown",
-      "price": 23.34,
-      "changePct": 0.09,
-      "changeDollar": 0.02
+      "price": 244.49,
+      "changePct": 9.64,
+      "changeDollar": 21.49
+    },
+    {
+      "ticker": "AUGO",
+      "name": "AURA MINERALS INC SHS NEW",
+      "sector": "Unknown",
+      "price": 92.74,
+      "changePct": 12.43,
+      "changeDollar": 10.25
+    },
+    {
+      "ticker": "HIMZ",
+      "name": "TIDAL TRUST II DEFI 2X HIMS ETF",
+      "sector": "Unknown",
+      "price": 28.6,
+      "changePct": 18.33,
+      "changeDollar": 4.43
+    },
+    {
+      "ticker": "HIMS",
+      "name": "HIMS & HERS HEALTH INC COM CL A",
+      "sector": "Unknown",
+      "price": 30.53,
+      "changePct": 8.8,
+      "changeDollar": 2.47
     }
   ],
   "dollarLosers": [
     {
-      "ticker": "CERY",
-      "name": "SPDR SERIES TRUST STATE STRET SPDR",
+      "ticker": "ASTS",
+      "name": "AST SPACEMOBILE INC COM CL A",
       "sector": "Unknown",
-      "price": 39.95,
-      "changePct": 0.63,
-      "changeDollar": 0.25
+      "price": 49.56,
+      "changePct": -12.95,
+      "changeDollar": -7.37
     },
     {
-      "ticker": "TDTT",
-      "name": "FLEXSHARES TR NRTRN TR IBOXX 3",
+      "ticker": "CRUS",
+      "name": "CIRRUS LOGIC INC COM",
       "sector": "Unknown",
-      "price": 23.34,
-      "changePct": 0.09,
-      "changeDollar": 0.02
+      "price": 107.09,
+      "changePct": -5.4,
+      "changeDollar": -6.11
+    },
+    {
+      "ticker": "VZ",
+      "name": "VERIZON COMMUNICATIONS INC COM",
+      "sector": "Unknown",
+      "price": 41.37,
+      "changePct": -10.74,
+      "changeDollar": -4.98
+    },
+    {
+      "ticker": "CDNL",
+      "name": "CARDINAL INFRASTRUCTURE GROUP CL A",
+      "sector": "Unknown",
+      "price": 21.41,
+      "changePct": -14.57,
+      "changeDollar": -3.65
+    },
+    {
+      "ticker": "T",
+      "name": "AT&T INC COM",
+      "sector": "Unknown",
+      "price": 22.16,
+      "changePct": -10.94,
+      "changeDollar": -2.72
     }
   ]
 }
