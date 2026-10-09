@@ -1,6 +1,22 @@
 {
   "topGainers": [
     {
+      "ticker": "HIMZ",
+      "name": "TIDAL TRUST II DEFI 2X HIMS ETF",
+      "sector": "Unknown",
+      "price": 29.08,
+      "changePct": 20.32,
+      "changeDollar": 4.91
+    },
+    {
+      "ticker": "CCI",
+      "name": "CROWN CASTLE INC COM",
+      "sector": "Unknown",
+      "price": 79.64,
+      "changePct": 15.6,
+      "changeDollar": 10.75
+    },
+    {
       "ticker": "DNA",
       "name": "GINKGO BIOWORKS HOLDINGS INC CL A NEW",
       "sector": "Unknown",
@@ -9,36 +25,36 @@
       "changeDollar": 1.66
     },
     {
-      "ticker": "HUM",
-      "name": "HUMANA INC COM",
+      "ticker": "AUGO",
+      "name": "AURA MINERALS INC SHS NEW",
       "sector": "Unknown",
-      "price": 431.87,
-      "changePct": 11.56,
-      "changeDollar": 44.75
+      "price": 91.26,
+      "changePct": 10.63,
+      "changeDollar": 8.77
     },
     {
-      "ticker": "LITX",
-      "name": "Tradr 2X Long LITE Daily ETF",
+      "ticker": "PTIR",
+      "name": "GRANITESHARES ETF TR 2X LONG PLTR",
       "sector": "Unknown",
-      "price": 43.0,
-      "changePct": 10.23,
-      "changeDollar": 3.99
+      "price": 26.1,
+      "changePct": 10.22,
+      "changeDollar": 2.42
     },
     {
-      "ticker": "HELP",
-      "name": "CYBIN INC COM NEW",
+      "ticker": "PCVX",
+      "name": "VAXCYTE INC COM",
       "sector": "Unknown",
-      "price": 11.8,
-      "changePct": 10.07,
-      "changeDollar": 1.08
+      "price": 71.38,
+      "changePct": 9.78,
+      "changeDollar": 6.36
     },
     {
-      "ticker": "ORCX",
-      "name": "TIDAL TRUST II DEFIANCE DAILY",
+      "ticker": "LABU",
+      "name": "DIREXION SHARES ETF TRUST DA BI BU 3X ETF",
       "sector": "Unknown",
-      "price": 19.46,
-      "changePct": 9.45,
-      "changeDollar": 1.68
+      "price": 243.09,
+      "changePct": 9.01,
+      "changeDollar": 20.09
     },
     {
       "ticker": "DOCN",
@@ -49,36 +65,20 @@
       "changeDollar": 10.92
     },
     {
-      "ticker": "QDEL",
-      "name": "QUIDELORTHO CORP COM",
+      "ticker": "CRCG",
+      "name": "THEMES ETF TR LEVERAGE SHS 2X",
       "sector": "Unknown",
-      "price": 13.42,
-      "changePct": 8.14,
-      "changeDollar": 1.01
+      "price": 12.4,
+      "changePct": 8.68,
+      "changeDollar": 0.99
     },
     {
-      "ticker": "CAI",
-      "name": "CARIS LIFE SCIENCES INC COM",
+      "ticker": "LBRX",
+      "name": "LB PHARMACEUTICALS INC COM SHS",
       "sector": "Unknown",
-      "price": 29.7,
-      "changePct": 8.0,
-      "changeDollar": 2.2
-    },
-    {
-      "ticker": "ODD",
-      "name": "ODDITY TECH LTD SHS CL A",
-      "sector": "Unknown",
-      "price": 21.11,
-      "changePct": 7.98,
-      "changeDollar": 1.56
-    },
-    {
-      "ticker": "DFTX",
-      "name": "DEFINIUM THERAPEUTICS INC COM SHS",
-      "sector": "Unknown",
-      "price": 36.9,
-      "changePct": 7.96,
-      "changeDollar": 2.72
+      "price": 37.22,
+      "changePct": 7.54,
+      "changeDollar": 2.61
     }
   ],
   "topLosers": [
@@ -97,14 +97,6 @@
       "price": 20.05,
       "changePct": -15.01,
       "changeDollar": -3.54
-    },
-    {
-      "ticker": "TMUS",
-      "name": "T-MOBILE US INC COM",
-      "sector": "Unknown",
-      "price": 148.58,
-      "changePct": -13.27,
-      "changeDollar": -22.73
     },
     {
       "ticker": "T",
@@ -139,14 +131,6 @@
       "changeDollar": -3.19
     },
     {
-      "ticker": "BKD",
-      "name": "BROOKDALE SR LIVING INC COM",
-      "sector": "Unknown",
-      "price": 10.12,
-      "changePct": -7.07,
-      "changeDollar": -0.77
-    },
-    {
       "ticker": "RSI",
       "name": "RUSH STREET INTERACTIVE INC COM",
       "sector": "Unknown",
@@ -155,22 +139,38 @@
       "changeDollar": -1.42
     },
     {
+      "ticker": "YANG",
+      "name": "DIREXION SHARES ETF TRUST DAI FTS BEA ETF",
+      "sector": "Unknown",
+      "price": 31.3,
+      "changePct": -6.93,
+      "changeDollar": -2.33
+    },
+    {
       "ticker": "GRRR",
       "name": "GORILLA TECHNOLOGY GROUP INC SHS NEW",
       "sector": "Unknown",
       "price": 11.13,
       "changePct": -6.78,
       "changeDollar": -0.81
+    },
+    {
+      "ticker": "PARR",
+      "name": "PAR PAC HOLDINGS INC COM NEW",
+      "sector": "Unknown",
+      "price": 81.89,
+      "changePct": -6.57,
+      "changeDollar": -5.76
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "HUM",
-      "name": "HUMANA INC COM",
+      "ticker": "LABU",
+      "name": "DIREXION SHARES ETF TRUST DA BI BU 3X ETF",
       "sector": "Unknown",
-      "price": 431.87,
-      "changePct": 11.56,
-      "changeDollar": 44.75
+      "price": 243.09,
+      "changePct": 9.01,
+      "changeDollar": 20.09
     },
     {
       "ticker": "DOCN",
@@ -181,39 +181,31 @@
       "changeDollar": 10.92
     },
     {
-      "ticker": "LITX",
-      "name": "Tradr 2X Long LITE Daily ETF",
+      "ticker": "CCI",
+      "name": "CROWN CASTLE INC COM",
       "sector": "Unknown",
-      "price": 43.0,
-      "changePct": 10.23,
-      "changeDollar": 3.99
+      "price": 79.64,
+      "changePct": 15.6,
+      "changeDollar": 10.75
     },
     {
-      "ticker": "DFTX",
-      "name": "DEFINIUM THERAPEUTICS INC COM SHS",
+      "ticker": "AUGO",
+      "name": "AURA MINERALS INC SHS NEW",
       "sector": "Unknown",
-      "price": 36.9,
-      "changePct": 7.96,
-      "changeDollar": 2.72
+      "price": 91.26,
+      "changePct": 10.63,
+      "changeDollar": 8.77
     },
     {
-      "ticker": "CAI",
-      "name": "CARIS LIFE SCIENCES INC COM",
+      "ticker": "PCVX",
+      "name": "VAXCYTE INC COM",
       "sector": "Unknown",
-      "price": 29.7,
-      "changePct": 8.0,
-      "changeDollar": 2.2
+      "price": 71.38,
+      "changePct": 9.78,
+      "changeDollar": 6.36
     }
   ],
   "dollarLosers": [
-    {
-      "ticker": "TMUS",
-      "name": "T-MOBILE US INC COM",
-      "sector": "Unknown",
-      "price": 148.58,
-      "changePct": -13.27,
-      "changeDollar": -22.73
-    },
     {
       "ticker": "ASTS",
       "name": "AST SPACEMOBILE INC COM CL A",
@@ -221,6 +213,14 @@
       "price": 50.97,
       "changePct": -10.49,
       "changeDollar": -5.97
+    },
+    {
+      "ticker": "PARR",
+      "name": "PAR PAC HOLDINGS INC COM NEW",
+      "sector": "Unknown",
+      "price": 81.89,
+      "changePct": -6.57,
+      "changeDollar": -5.76
     },
     {
       "ticker": "CDNL",
