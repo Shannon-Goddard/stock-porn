@@ -2673,6 +2673,84 @@
       },
       "exit": null,
       "fomo": null
+    },
+    {
+      "id": 38,
+      "status": "open",
+      "entry": {
+        "date": "2026-10-10",
+        "time": "15:55 PST",
+        "ticker": "LABU",
+        "name": "DIREXION SHARES ETF TRUST DA BI BU 3X ETF",
+        "sector": "Unknown",
+        "type": "CALL",
+        "strike": 300.0,
+        "expiration": "2026-10-16",
+        "dte_at_entry": 6,
+        "T_at_entry": 0.016438,
+        "stock_price_at_entry": 243.09,
+        "premium": 0.75,
+        "cost": 75.0,
+        "bid": 0.4,
+        "spread": 0.35,
+        "iv_at_entry": 0.8833,
+        "otm_pct": 23.41,
+        "expected_move": {
+          "one_sigma_pct": 11.32,
+          "upper": 270.62,
+          "lower": 215.56,
+          "strike_position": "outside"
+        },
+        "signal_rank": "dollar_gainer_1",
+        "signal_pct": 9.01,
+        "signal_dollar": 20.09,
+        "spy_change": 0.6,
+        "macro_active": false,
+        "macro_keywords": [],
+        "auto_note": "LABU CALL | $+20.09 (+9.01%) | dollar_gainer_1 | Strike $300.0 exp 2026-10-16 (6DTE) | IV 88.3% | SPY +0.60% | No macro triggers"
+      },
+      "news_scan": null,
+      "exit": null,
+      "fomo": null
+    },
+    {
+      "id": 39,
+      "status": "open",
+      "entry": {
+        "date": "2026-10-10",
+        "time": "15:55 PST",
+        "ticker": "ASTS",
+        "name": "AST SPACEMOBILE INC COM CL A",
+        "sector": "Unknown",
+        "type": "PUT",
+        "strike": 48.0,
+        "expiration": "2026-10-16",
+        "dte_at_entry": 6,
+        "T_at_entry": 0.016438,
+        "stock_price_at_entry": 50.97,
+        "premium": 0.97,
+        "cost": 97.0,
+        "bid": 0.7,
+        "spread": 0.27,
+        "iv_at_entry": 0.7227,
+        "otm_pct": 5.83,
+        "expected_move": {
+          "one_sigma_pct": 9.27,
+          "upper": 55.69,
+          "lower": 46.25,
+          "strike_position": "inside"
+        },
+        "signal_rank": "dollar_loser_1",
+        "signal_pct": -10.49,
+        "signal_dollar": -5.97,
+        "spy_change": 0.6,
+        "macro_active": false,
+        "macro_keywords": [],
+        "auto_note": "ASTS PUT | $-5.97 (-10.49%) | dollar_loser_1 | Strike $48.0 exp 2026-10-16 (6DTE) | IV 72.3% | SPY +0.60% | No macro triggers"
+      },
+      "news_scan": null,
+      "exit": null,
+      "fomo": null
     }
   ]
 }

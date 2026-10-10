@@ -438,5 +438,27 @@
     "youtube_id": null,
     "images": [],
     "published": true
+  },
+  {
+    "id": 38,
+    "date": "2026-10-10",
+    "ticker": "LABU",
+    "type": "CALL",
+    "trade_id": 38,
+    "title": "LABU CALL \u2014 2026-10-10",
+    "youtube_id": null,
+    "images": [],
+    "published": true
+  },
+  {
+    "id": 39,
+    "date": "2026-10-10",
+    "ticker": "ASTS",
+    "type": "PUT",
+    "trade_id": 39,
+    "title": "ASTS PUT \u2014 2026-10-10",
+    "youtube_id": null,
+    "images": [],
+    "published": true
   }
 ]
