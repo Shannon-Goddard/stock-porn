@@ -41,6 +41,14 @@ def fetch_prices(tickers):
     )
     return raw
 
+def get_sector_fallback(ticker):
+    """Fetch sector from yfinance info when CSV has blank sector."""
+    try:
+        info = yf.Ticker(ticker).info
+        return info.get('sector') or info.get('industry') or 'Unknown'
+    except Exception:
+        return 'Unknown'
+
 def parse_prices(raw, tickers, stock_info):
     results = []
     counts = {
@@ -87,10 +95,11 @@ def parse_prices(raw, tickers, stock_info):
                 continue
 
             counts['passed'] += 1
+            sector = stock_info[ticker]['sector'] or get_sector_fallback(ticker)
             results.append({
                 'ticker': ticker,
                 'name': stock_info[ticker]['name'],
-                'sector': stock_info[ticker]['sector'],
+                'sector': sector,
                 'price': round(curr_close, 2),
                 'changePct': change_pct,
                 'changeDollar': change_dollar

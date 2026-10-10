@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Changelog — stock-porn</title>
+  <meta name="description" content="Full transparency log — bugs found, fixes applied, data resets. Every decision documented." />
+  <link rel="canonical" href="https://stock-porn.loyal9.app/pages/changelog.html" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://stock-porn.loyal9.app/pages/changelog.html" />
+  <meta property="og:title" content="Changelog — stock-porn" />
+  <meta property="og:description" content="Full transparency log — bugs found, fixes applied, data resets. Every decision documented." />
+  <meta property="og:image" content="https://stock-porn.loyal9.app/assets/img/og-preview.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Changelog — stock-porn" />
+  <meta name="twitter:description" content="Full transparency log — bugs found, fixes applied, data resets. Every decision documented." />
+  <meta name="twitter:image" content="https://stock-porn.loyal9.app/assets/img/og-preview.png" />
+  <link rel="icon" type="image/svg+xml" href="/assets/img/favicon.svg" />
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/img/favicon-32.png" />
+  <link rel="apple-touch-icon" href="/assets/img/apple-touch-icon.png" />
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    :root {
+      --bg: #0d0d0d; --surface: #141414; --surface2: #1a1a1a;
+      --border: #2a2a2a; --text: #e8e8e8; --muted: #666;
+      --green: #00c853; --red: #ff1744;
+    }
+    body { background: var(--bg); color: var(--text); font-family: 'Courier New', Courier, monospace; font-size: 14px; line-height: 1.8; }
+    .content { max-width: 800px; margin: 0 auto; padding: 2rem 1rem; }
+
+    h1 { color: var(--green); font-size: 1.2rem; text-transform: uppercase; letter-spacing: 0.08em; margin-bottom: 0.25rem; }
+    .subtitle { color: var(--muted); font-size: 0.78rem; margin-bottom: 2rem; }
+
+    .entry {
+      background: var(--surface); border: 1px solid var(--border);
+      border-radius: 4px; margin-bottom: 1.5rem; overflow: hidden;
+    }
+    .entry-header {
+      display: flex; flex-wrap: wrap; gap: 0.75rem;
+      align-items: center; justify-content: space-between;
+      padding: 0.75rem 1.25rem; border-bottom: 1px solid var(--border);
+    }
+    .entry-title { color: var(--green); font-size: 0.88rem; font-weight: bold; }
+    .entry-date  { font-size: 0.72rem; color: var(--muted); }
+    .entry-tag {
+      font-size: 0.65rem; padding: 0.1rem 0.5rem; border-radius: 2px;
+      font-weight: bold; letter-spacing: 0.05em; text-transform: uppercase;
+    }
+    .tag-reset  { background: #ff174422; color: var(--red);   border: 1px solid var(--red); }
+    .tag-bug    { background: #ff174422; color: var(--red);   border: 1px solid var(--red); }
+    .tag-fix    { background: #00c85322; color: var(--green); border: 1px solid var(--green); }
+    .tag-infra  { background: #33333322; color: var(--muted); border: 1px solid var(--border); }
+
+    .entry-body { padding: 1rem 1.25rem; }
+    p { font-size: 0.83rem; color: var(--text); margin-bottom: 0.75rem; }
+    p.muted { color: var(--muted); }
+
+    .bug-list { display: flex; flex-direction: column; gap: 0.75rem; margin: 0.75rem 0; }
+    .bug-item {
+      background: var(--surface2); border: 1px solid var(--border);
+      border-left: 3px solid var(--red); padding: 0.75rem 1rem;
+      border-radius: 0 4px 4px 0; font-size: 0.8rem;
+    }
+    .bug-item.fixed { border-left-color: var(--green); }
+    .bug-label { font-size: 0.65rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); margin-bottom: 0.3rem; }
+    .bug-title { color: var(--text); font-weight: bold; margin-bottom: 0.3rem; }
+    .bug-desc  { color: var(--muted); font-size: 0.78rem; line-height: 1.6; }
+    .bug-fix   { color: var(--green); font-size: 0.78rem; margin-top: 0.4rem; }
+
+    .stat-row {
+      display: flex; gap: 0.5rem; flex-wrap: wrap; margin: 0.75rem 0;
+    }
+    .stat-cell {
+      background: var(--surface2); border: 1px solid var(--border);
+      padding: 0.5rem 0.75rem; border-radius: 3px; font-size: 0.78rem;
+      flex: 1; min-width: 120px;
+    }
+    .stat-cell .label { font-size: 0.62rem; text-transform: uppercase; letter-spacing: 0.07em; color: var(--muted); margin-bottom: 0.2rem; }
+    .stat-cell .value { font-weight: bold; }
+    .pos { color: var(--green); }
+    .neg { color: var(--red); }
+    .mut { color: var(--muted); }
+
+    .callout {
+      background: var(--surface2); border: 1px solid var(--border);
+      border-left: 3px solid var(--green); padding: 0.75rem 1rem;
+      border-radius: 0 4px 4px 0; font-size: 0.8rem; margin: 0.75rem 0;
+      line-height: 1.6;
+    }
+    .callout.warn { border-left-color: var(--red); }
+
+    a { color: var(--green); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .divider { border: none; border-top: 1px solid var(--border); margin: 0.75rem 0; }
+
+    footer { margin-top: 3rem; padding-top: 1rem; border-top: 1px solid var(--border); font-size: 0.72rem; color: var(--muted); text-align: center; }
+  </style>
+</head>
+<body>
+
+  <div id="nav-root"></div>
+  <script src="../components/nav.js"></script>
+
+  <div class="content">
+    <h1>Changelog</h1>
+    <p class="subtitle">
+      Full transparency log — every bug found, every fix applied, every data reset.<br>
+      The whole point of this project is honest data. That includes documenting when the data was wrong.
+    </p>
+
+    <!-- V2 RESET -->
+    <div class="entry">
+      <div class="entry-header">
+        <div style="display:flex;align-items:center;gap:0.6rem">
+          <span class="entry-title">v2 Reset — Clean Start</span>
+          <span class="entry-tag tag-reset">Data Reset</span>
+        </div>
+        <span class="entry-date">2026-10-08</span>
+      </div>
+      <div class="entry-body">
+        <p>
+          After running for approximately 6 weeks, three bugs were identified that corrupted the trade data
+          and statistics enough to make the v1 dataset unreliable for research purposes.
+          The decision was made to archive the v1 data, document the bugs transparently, and start clean.
+        </p>
+
+        <p class="muted">v1 archive available for download: <a href="../data/archive/trades_v1.json" download>trades_v1.json</a> · <a href="../data/archive/stats_v1.json" download>stats_v1.json</a> · <a href="../data/archive/blog_v1.json" download>blog_v1.json</a></p>
+
+        <hr class="divider">
+
+        <p><strong style="color:var(--text)">v1 Summary (Aug 24 – Oct 8, 2026)</strong></p>
+        <div class="stat-row">
+          <div class="stat-cell"><div class="label">Trades Entered</div><div class="value mut">~34</div></div>
+          <div class="stat-cell"><div class="label">Trades Closed (clean)</div><div class="value mut">8</div></div>
+          <div class="stat-cell"><div class="label">Trades Stuck Open</div><div class="value neg">26</div></div>
+          <div class="stat-cell"><div class="label">Clean P&L (8 trades)</div><div class="value neg">-$186.32</div></div>
+          <div class="stat-cell"><div class="label">Clean Win Rate</div><div class="value neg">12.5%</div></div>
+        </div>
+
+        <div class="callout warn">
+          The 26 stuck-open trades and the win/loss record are not reliable signals about the methodology.
+          The bugs below caused incorrect hold decisions, incorrect FOMO calculations, and a crash that
+          prevented trades from ever closing. The data is not clean enough to draw conclusions from.
+        </div>
+
+        <hr class="divider">
+
+        <p><strong style="color:var(--text)">Bugs Found and Fixed</strong></p>
+
+        <div class="bug-list">
+
+          <div class="bug-item fixed">
+            <div class="bug-label">Bug 1 — fetch_news.py · Fixed 2026-10-08</div>
+            <div class="bug-title">make_decision() held on SPY sentiment alone</div>
+            <div class="bug-desc">
+              The hold/sell decision was triggering a hold if either the ticker OR SPY news was bullish/bearish.
+              This meant a CALL could be held based purely on SPY being bullish, even if the ticker itself had
+              neutral or bearish news. Neutral ticker sentiment was also being counted as confirmation.
+              Result: trades were held far more often than the methodology intended, and several holds
+              were triggered by irrelevant SPY headlines.
+            </div>
+            <div class="bug-fix">
+              Fix: ticker sentiment only drives the decision. Bullish ticker = hold CALL.
+              Bearish ticker = hold PUT. Neutral always sells. SPY/SPX still logged for research
+              but no longer drives the hold/sell decision.
+            </div>
+          </div>
+
+          <div class="bug-item fixed">
+            <div class="bug-label">Bug 2 — sell_signal.py · Fixed 2026-10-08</div>
+            <div class="bug-title">Saturday KeyError crashed the sell script daily</div>
+            <div class="bug-desc">
+              stats['by_day_of_week'] only had Monday–Friday keys hardcoded.
+              When a trade's entry date resolved to a Saturday (edge case from timezone handling
+              or manual test entries), the stats update crashed with a KeyError.
+              Because the crash happened inside the trade loop, no trades were closed on that run —
+              they all remained open. This compounded daily, resulting in 26 stuck-open trades
+              by the time it was caught.
+            </div>
+            <div class="bug-fix">
+              Fix: dynamically create the day key if it doesn't exist rather than assuming Mon–Fri only.
+            </div>
+          </div>
+
+          <div class="bug-item fixed">
+            <div class="bug-label">Bug 3 — sell_signal.py · Fixed 2026-10-08</div>
+            <div class="bug-title">FOMO left_on_table included excluded trades in avg</div>
+            <div class="bug-desc">
+              Trades 1–4 were flagged as excluded from analytics due to a prior FOMO calculation bug
+              (sell_contract_value used raw stock price × 100 instead of BS option value, producing
+              values like -$10,451 and -$22,794). The exclusion logic correctly skipped those trades
+              in most analytics buckets, but the fomo.avg_left_on_table calculation did not check
+              the exclusion list. The corrupted left_on_table values from trades 1–4 were being
+              averaged into the stat, making it meaningless.
+            </div>
+            <div class="bug-fix">
+              Fix: fomo block now checks excluded_ids before updating avg_left_on_table,
+              consistent with all other analytics buckets.
+            </div>
+          </div>
+
+          <div class="bug-item fixed">
+            <div class="bug-label">Bug 4 — paper_trade.py · Fixed 2026-10-08</div>
+            <div class="bug-title">No OTM cap on 2DTE+ contracts</div>
+            <div class="bug-desc">
+              The contract selection filter had a 20% OTM cap for 1DTE contracts but no cap for
+              2DTE and above. All four clean trades (5–8) had strikes 7–13% OTM on 2–3DTE contracts,
+              which placed every strike outside the 1σ expected move range. A contract outside the
+              expected move needs a larger-than-predicted move to profit — systematically selecting
+              these is a negative edge, not a neutral one.
+            </div>
+            <div class="bug-fix">
+              Fix: added MAX_OTM_GENERAL = 10% cap for 2DTE+ contracts. Keeps strikes inside
+              or near the expected move range where there is actual probability of profit.
+            </div>
+          </div>
+
+          <div class="bug-item fixed">
+            <div class="bug-label">Bug 5 — fetch_signals.py · Fixed 2026-10-08</div>
+            <div class="bug-title">Blank sector passed through as empty string</div>
+            <div class="bug-desc">
+              Some tickers in stocks_optionable.csv have blank sector fields. These were being
+              passed through to signals.json and trades.json as empty strings, showing as
+              "Unknown" in the stats sector breakdown and making sector analysis unreliable.
+            </div>
+            <div class="bug-fix">
+              Fix: when CSV sector is blank, fetch sector from yfinance Ticker.info at signal
+              generation time. Falls back to 'Unknown' only if yfinance also has no data.
+            </div>
+          </div>
+
+        </div>
+
+        <hr class="divider">
+
+        <div class="callout">
+          All v1 data is preserved in <a href="../data/archive/trades_v1.json" download>data/archive/</a>
+          and will remain publicly downloadable. The archive is part of the record.
+          Deleting inconvenient data is not how this project works.
+        </div>
+
+      </div>
+    </div>
+
+    <!-- INFRA FIXES -->
+    <div class="entry">
+      <div class="entry-header">
+        <div style="display:flex;align-items:center;gap:0.6rem">
+          <span class="entry-title">GitHub Actions — Write Permission Fix</span>
+          <span class="entry-tag tag-infra">Infrastructure</span>
+        </div>
+        <span class="entry-date">2026-08-26</span>
+      </div>
+      <div class="entry-body">
+        <p>
+          All GitHub Actions workflows were failing with a 403 error on push.
+          The Actions bot did not have write permission to the repository.
+        </p>
+        <p class="muted">
+          Fix: Settings → Actions → General → Workflow permissions → Read and write permissions.
+        </p>
+      </div>
+    </div>
+
+    <!-- SYNTAX FIX -->
+    <div class="entry">
+      <div class="entry-header">
+        <div style="display:flex;align-items:center;gap:0.6rem">
+          <span class="entry-title">paper_trade.py — SyntaxError on deploy</span>
+          <span class="entry-tag tag-bug">Bug</span>
+          <span class="entry-tag tag-fix">Fixed</span>
+        </div>
+        <span class="entry-date">2026-08-29</span>
+      </div>
+      <div class="entry-body">
+        <p>
+          Paper Trade Entry workflow failing with SyntaxError on line 195.
+          The <code>def build_auto_note(</code> function definition line was missing —
+          only the parameters and body were present. Caused by a bad edit during development.
+        </p>
+        <p class="muted">Fix: restored the missing def line.</p>
+      </div>
+    </div>
+
+  </div>
+
+  <footer>
+    Transparency is the whole point · All v1 data archived and downloadable · Not financial advice
+  </footer>
+
+</body>
+</html>

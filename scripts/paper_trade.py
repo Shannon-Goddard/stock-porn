@@ -12,7 +12,8 @@ BLOG_FILE    = os.path.join(DATA_DIR, 'blog.json')
 MAX_BUDGET       = 1.00   # max premium per share = $100/contract
 MAX_EXP_DAYS     = 7      # quarterly filter — 7-day expiration max
 MIN_DTE          = 1      # 0DTE at 3:55 PM = ~35 min left, not an overnight hold
-MAX_OTM_1DTE     = 20.0   # 1DTE contracts: reject if strike >20% OTM — near-zero probability
+MAX_OTM_1DTE     = 20.0   # 1DTE contracts: reject if strike >20% OTM
+MAX_OTM_GENERAL  = 10.0   # 2DTE+: reject if strike >10% OTM — outside expected move
 RISK_FREE_RATE   = 0.05
 
 # Macro trigger words for auto_note context
@@ -138,8 +139,11 @@ def select_contract(ticker, stock_price, option_type, today):
                 if option_type == 'PUT':
                     otm_pct = round((stock_price - strike) / stock_price * 100, 2)
 
-                # 1DTE deep OTM filter — strike >20% away with 1 day left = near-zero probability
+                # 1DTE deep OTM filter
                 if dte == 1 and otm_pct > MAX_OTM_1DTE:
+                    continue
+                # General OTM filter for 2DTE+ — strike outside expected move range
+                if dte >= 2 and otm_pct > MAX_OTM_GENERAL:
                     continue
 
                 return {

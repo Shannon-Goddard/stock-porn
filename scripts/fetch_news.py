@@ -112,16 +112,19 @@ def fetch_candles(ticker, date_str):
 def make_decision(ticker_sentiment, spy_sentiment, spx_sentiment, trade_type):
     """
     Determine hold or sell based on news sentiment vs trade direction.
-    PUT thesis confirmed by bearish news. CALL thesis confirmed by bullish news.
+    PUT thesis confirmed ONLY by bearish ticker sentiment.
+    CALL thesis confirmed ONLY by bullish ticker sentiment.
+    SPY/SPX sentiment alone is not enough — ticker must confirm.
+    Neutral ticker sentiment always sells.
     """
     if trade_type == 'PUT':
-        confirmed = ticker_sentiment == 'bearish' or spy_sentiment == 'bearish'
+        confirmed = ticker_sentiment == 'bearish'
     else:
-        confirmed = ticker_sentiment == 'bullish' or spy_sentiment == 'bullish'
+        confirmed = ticker_sentiment == 'bullish'
 
     if confirmed:
-        return 'hold', f"{ticker_sentiment} keywords confirmed {trade_type} thesis"
-    return 'sell', f"no confirmation for {trade_type} thesis — sell at open"
+        return 'hold', f"{ticker_sentiment} ticker sentiment confirmed {trade_type} thesis"
+    return 'sell', f"{ticker_sentiment} ticker sentiment — no confirmation for {trade_type} thesis, sell at open"
 
 def main():
     today_str = datetime.now(timezone.utc).strftime('%Y-%m-%d')

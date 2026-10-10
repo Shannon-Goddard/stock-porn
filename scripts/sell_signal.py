@@ -228,6 +228,8 @@ def update_stats(stats, trade, excluded_ids):
     # By day of week
     entry_date = datetime.strptime(entry['date'], '%Y-%m-%d')
     day_name   = entry_date.strftime('%A')
+    if day_name not in stats['by_day_of_week']:
+        stats['by_day_of_week'][day_name] = {'trades': 0, 'wins': 0, 'avg_pnl': 0.0}
     d = stats['by_day_of_week'][day_name]
     d['trades'] += 1
     if won: d['wins'] += 1
@@ -258,8 +260,8 @@ def update_stats(stats, trade, excluded_ids):
     if won and entry['type'] == 'PUT':  sc['put_wins']  += 1
     if won and entry['type'] == 'CALL': sc['call_wins'] += 1
 
-    # FOMO
-    if fomo:
+    # FOMO — skip excluded trades
+    if fomo and not is_excluded:
         left = fomo.get('left_on_table', 0)
         f = stats['fomo']
         clean_count = sum(

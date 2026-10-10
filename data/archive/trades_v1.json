@@ -1,0 +1,863 @@
+{
+  "meta": {
+    "schema_version": "2.0",
+    "notes": "Trades 1-4 excluded from analytics. Logged for transparency only. Reason: sell_signal.py bug \u2014 fomo.sell_contract_value used raw stock price x 100 instead of BS option value. expected_move and gap_direction fields not present (pre-schema v2.0).",
+    "excluded_trade_ids": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  "balance": -313.06,
+  "clean_balance": -186.32,
+  "starting_balance": 0.0,
+  "first_trade_date": "2026-08-24",
+  "trades": [
+    {
+      "id": 1,
+      "status": "closed",
+      "entry": {
+        "date": "2026-08-24",
+        "time": "15:55 PST",
+        "ticker": "HOOD",
+        "name": "Robinhood Markets, Inc.",
+        "sector": "Finance",
+        "type": "CALL",
+        "strike": 111.0,
+        "expiration": "2026-08-28",
+        "dte_at_entry": 4,
+        "T_at_entry": 0.010959,
+        "stock_price_at_entry": 108.13,
+        "premium": 0.98,
+        "cost": 98.0,
+        "bid": 0.94,
+        "spread": 0.04,
+        "iv_at_entry": 0.6934,
+        "otm_pct": 2.65,
+        "signal_rank": "dollar_gainer_1",
+        "signal_pct": 13.7,
+        "signal_dollar": 13.03,
+        "spy_change": -0.29,
+        "macro_active": true,
+        "macro_keywords": [
+          "sanctions"
+        ],
+        "auto_note": "HOOD CALL | $+13.03 (+13.70%) | dollar_gainer_1 | Strike $111.0 exp 2026-08-28 (4DTE) | IV 69.3% | SPY -0.29% | MACRO: sanctions"
+      },
+      "news_scan": null,
+      "exit": {
+        "date": "2026-08-24",
+        "time": "2026-08-24 09:30:00-04:00",
+        "stock_open_price": 106.66,
+        "sell_option_price": 1.4608,
+        "sell_contract_value": 146.08,
+        "sell_trigger": "sell_at_open",
+        "pnl": 48.08
+      },
+      "fomo": {
+        "sell_contract_value": 10666.0,
+        "sell_pnl": 10568.0,
+        "theta_burned_at_sell": -0.0,
+        "theta_per_min": -0.0968,
+        "day_high": {
+          "stock_price": 108.6,
+          "time": "2026-08-24 09:30:00-04:00",
+          "bs_contract_value": 214.44,
+          "theoretical_pnl": 116.44
+        },
+        "day_low": {
+          "stock_price": 104.41,
+          "time": "2026-08-24 09:53:00-04:00",
+          "bs_contract_value": 88.12,
+          "theoretical_pnl": -9.88
+        },
+        "best_case": {
+          "value": 214.44,
+          "pnl": 116.44,
+          "time": "2026-08-24 09:30:00-04:00"
+        },
+        "worst_case": {
+          "value": 88.12,
+          "pnl": -9.88,
+          "time": "2026-08-24 09:53:00-04:00"
+        },
+        "left_on_table": -10451.56,
+        "theta_note": "4DTE: Theta minimal at open, stock direction dominates. Est. $0.00 burned"
+      }
+    },
+    {
+      "id": 2,
+      "status": "closed",
+      "entry": {
+        "date": "2026-08-24",
+        "time": "15:55 PST",
+        "ticker": "MRVL",
+        "name": "Marvell Technology, Inc.",
+        "sector": "Electronic technology",
+        "type": "PUT",
+        "strike": 190.0,
+        "expiration": "2026-08-28",
+        "dte_at_entry": 4,
+        "T_at_entry": 0.010959,
+        "stock_price_at_entry": 237.04,
+        "premium": 1.0,
+        "cost": 100.0,
+        "bid": 0.9,
+        "spread": 0.1,
+        "iv_at_entry": 1.126,
+        "otm_pct": 19.84,
+        "signal_rank": "dollar_loser_1",
+        "signal_pct": -5.57,
+        "signal_dollar": -13.97,
+        "spy_change": -0.29,
+        "macro_active": true,
+        "macro_keywords": [
+          "sanctions"
+        ],
+        "auto_note": "MRVL PUT | $-13.97 (-5.57%) | dollar_loser_1 | Strike $190.0 exp 2026-08-28 (4DTE) | IV 112.6% | SPY -0.29% | MACRO: sanctions"
+      },
+      "news_scan": null,
+      "exit": {
+        "date": "2026-08-24",
+        "time": "2026-08-24 09:30:00-04:00",
+        "stock_open_price": 229.13,
+        "sell_option_price": 0.5789,
+        "sell_contract_value": 57.89,
+        "sell_trigger": "sell_at_open",
+        "pnl": -42.11
+      },
+      "fomo": {
+        "sell_contract_value": 22913.0,
+        "sell_pnl": 22813.0,
+        "theta_burned_at_sell": -0.0,
+        "theta_per_min": -0.054171,
+        "day_high": {
+          "stock_price": 230.42,
+          "time": "2026-08-24 09:30:00-04:00",
+          "bs_contract_value": 51.93,
+          "theoretical_pnl": -48.07
+        },
+        "day_low": {
+          "stock_price": 220.4201,
+          "time": "2026-08-24 09:40:00-04:00",
+          "bs_contract_value": 118.2,
+          "theoretical_pnl": 18.2
+        },
+        "best_case": {
+          "value": 118.2,
+          "pnl": 18.2,
+          "time": "2026-08-24 09:40:00-04:00"
+        },
+        "worst_case": {
+          "value": 51.93,
+          "pnl": -48.07,
+          "time": "2026-08-24 09:30:00-04:00"
+        },
+        "left_on_table": -22794.8,
+        "theta_note": "4DTE: Theta minimal at open, stock direction dominates. Est. $0.00 burned"
+      }
+    },
+    {
+      "id": 3,
+      "status": "closed",
+      "entry": {
+        "date": "2026-08-27",
+        "time": "15:55 PST",
+        "ticker": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "sector": "Producer manufacturing",
+        "type": "CALL",
+        "strike": 1095.0,
+        "expiration": "2026-08-28",
+        "dte_at_entry": 1,
+        "T_at_entry": 0.00274,
+        "stock_price_at_entry": 939.03,
+        "premium": 1.0,
+        "cost": 100.0,
+        "bid": null,
+        "spread": null,
+        "iv_at_entry": 0.9946,
+        "otm_pct": 16.61,
+        "signal_rank": "dollar_gainer_1",
+        "signal_pct": 6.04,
+        "signal_dollar": 53.47,
+        "spy_change": 0.02,
+        "macro_active": true,
+        "macro_keywords": [
+          "inflation",
+          "tariff"
+        ],
+        "auto_note": "LITE CALL | $+53.47 (+6.04%) | dollar_gainer_1 | Strike $1095.0 exp 2026-08-28 (1DTE) | IV 99.5% | SPY +0.02% | MACRO: inflation, tariff"
+      },
+      "news_scan": {
+        "scanned_at": "2026-08-27 23:00:37 PST",
+        "gap_days": 0,
+        "ticker_sentiment": "bullish",
+        "spy_sentiment": "bullish",
+        "spx_sentiment": "bullish",
+        "keywords_found": [
+          "revenue growth",
+          "jumps"
+        ],
+        "spy_keywords": [
+          "surge",
+          "jumps",
+          "falls"
+        ],
+        "spx_keywords": [
+          "jumps",
+          "rallies",
+          "drops"
+        ],
+        "decision": "hold",
+        "decision_reason": "bullish keywords confirmed CALL thesis"
+      },
+      "exit": {
+        "date": "2026-08-27",
+        "time": "2026-08-27 09:31:00-04:00",
+        "stock_open_price": 964.16,
+        "sell_option_price": 0.1255,
+        "sell_contract_value": 12.55,
+        "sell_trigger": "hold_2min",
+        "pnl": -87.45
+      },
+      "fomo": {
+        "sell_contract_value": 96416.0,
+        "sell_pnl": 96316.0,
+        "theta_burned_at_sell": -0.0,
+        "theta_per_min": -0.034961,
+        "day_high": {
+          "stock_price": 970.32,
+          "time": "2026-08-27 09:33:00-04:00",
+          "bs_contract_value": 18.56,
+          "theoretical_pnl": -81.44
+        },
+        "day_low": {
+          "stock_price": 919.59,
+          "time": "2026-08-27 09:57:00-04:00",
+          "bs_contract_value": 0.55,
+          "theoretical_pnl": -99.45
+        },
+        "best_case": {
+          "value": 18.56,
+          "pnl": -81.44,
+          "time": "2026-08-27 09:33:00-04:00"
+        },
+        "worst_case": {
+          "value": 0.55,
+          "pnl": -99.45,
+          "time": "2026-08-27 09:57:00-04:00"
+        },
+        "left_on_table": -96397.44,
+        "theta_note": "1DTE: Theta moderate at open, accelerating by noon. Est. $0.00 burned"
+      }
+    },
+    {
+      "id": 4,
+      "status": "closed",
+      "entry": {
+        "date": "2026-08-28",
+        "time": "15:55 PST",
+        "ticker": "SNPS",
+        "name": "Synopsys, Inc.",
+        "sector": "Technology services",
+        "type": "CALL",
+        "strike": 610.0,
+        "expiration": "2026-08-28",
+        "dte_at_entry": 0,
+        "T_at_entry": 0.00274,
+        "stock_price_at_entry": 464.89,
+        "premium": 0.6,
+        "cost": 60.0,
+        "bid": null,
+        "spread": null,
+        "iv_at_entry": 2.3379,
+        "otm_pct": 31.21,
+        "signal_rank": "dollar_gainer_1",
+        "signal_pct": 13.39,
+        "signal_dollar": 54.89,
+        "spy_change": 0.66,
+        "macro_active": true,
+        "macro_keywords": [
+          "war",
+          "china"
+        ],
+        "auto_note": "SNPS CALL | $+54.89 (+13.39%) | dollar_gainer_1 | Strike $610.0 exp 2026-08-28 (0DTE) | IV 233.8% | SPY +0.66% | MACRO: war, china"
+      },
+      "news_scan": {
+        "scanned_at": "2026-08-28 23:07:35 PST",
+        "gap_days": 0,
+        "ticker_sentiment": "bullish",
+        "spy_sentiment": "neutral",
+        "spx_sentiment": "bearish",
+        "keywords_found": [
+          "upgrade"
+        ],
+        "spy_keywords": [
+          "raised guidance",
+          "jumps",
+          "rallies",
+          "falls",
+          "drops",
+          "tumbles"
+        ],
+        "spx_keywords": [
+          "falls"
+        ],
+        "decision": "hold",
+        "decision_reason": "bullish keywords confirmed CALL thesis"
+      },
+      "exit": {
+        "date": "2026-08-28",
+        "time": "2026-08-28 09:31:00-04:00",
+        "stock_open_price": 452.0,
+        "sell_option_price": 0.1474,
+        "sell_contract_value": 14.74,
+        "sell_trigger": "hold_2min",
+        "pnl": -45.26
+      },
+      "fomo": {
+        "sell_contract_value": 45200.0,
+        "sell_pnl": 45140.0,
+        "theta_burned_at_sell": -0.0,
+        "theta_per_min": -0.284045,
+        "day_high": {
+          "stock_price": 462.45,
+          "time": "2026-08-28 09:30:00-04:00",
+          "bs_contract_value": 26.56,
+          "theoretical_pnl": -33.44
+        },
+        "day_low": {
+          "stock_price": 449.01,
+          "time": "2026-08-28 09:39:00-04:00",
+          "bs_contract_value": 12.71,
+          "theoretical_pnl": -47.29
+        },
+        "best_case": {
+          "value": 26.56,
+          "pnl": -33.44,
+          "time": "2026-08-28 09:30:00-04:00"
+        },
+        "worst_case": {
+          "value": 12.71,
+          "pnl": -47.29,
+          "time": "2026-08-28 09:39:00-04:00"
+        },
+        "left_on_table": -45173.44,
+        "theta_note": "0DTE: Theta burned est. $0.00 by sell time \u2014 0DTE decay is violent"
+      }
+    },
+    {
+      "id": 5,
+      "status": "closed",
+      "entry": {
+        "date": "2026-09-01",
+        "time": "15:55 PST",
+        "ticker": "CAR",
+        "name": "AVIS BUDGET GROUP INC COM",
+        "sector": "Unknown",
+        "type": "CALL",
+        "strike": 160.0,
+        "expiration": "2026-09-04",
+        "dte_at_entry": 3,
+        "T_at_entry": 0.008219,
+        "stock_price_at_entry": 147.49,
+        "premium": 1.0,
+        "cost": 100.0,
+        "bid": 0.4,
+        "spread": 0.6,
+        "iv_at_entry": 0.6836,
+        "otm_pct": 8.48,
+        "expected_move": {
+          "one_sigma_pct": 6.2,
+          "upper": 156.63,
+          "lower": 138.35,
+          "strike_position": "outside"
+        },
+        "signal_rank": "dollar_gainer_1",
+        "signal_pct": 6.78,
+        "signal_dollar": 9.37,
+        "spy_change": -0.3,
+        "macro_active": false,
+        "macro_keywords": [],
+        "auto_note": "CAR CALL | $+9.37 (+6.78%) | dollar_gainer_1 | Strike $160.0 exp 2026-09-04 (3DTE) | IV 68.4% | SPY -0.30% | No macro triggers"
+      },
+      "news_scan": {
+        "scanned_at": "2026-09-01 17:22:20 PST",
+        "gap_days": 0,
+        "ticker_sentiment": "neutral",
+        "spy_sentiment": "bearish",
+        "spx_sentiment": "neutral",
+        "keywords_found": [],
+        "spy_keywords": [
+          "falls",
+          "drops"
+        ],
+        "spx_keywords": [],
+        "decision": "sell",
+        "decision_reason": "no confirmation for CALL thesis \u2014 sell at open",
+        "raw_headlines": {
+          "ticker": [],
+          "spy": [
+            "SoFi Drops 4%, Affirm Falls 5% as Yields Hit Balance-Sheet Lenders, Robinhood Holds Steady",
+            "Apple Rises 3% on John Ternus\u2019s First Day as CEO Even While the NASDAQ Skids",
+            "CoreWeave Offers So Much at $85",
+            "Dell Falls 4% Ahead of Earnings as Its 266% Rally Raises the Bar, Super Micro and Hewlett Packard Enterprise Slip",
+            "What to Understand Before Buying Nebius",
+            "Stock Market Today: Nasdaq Sinks As Crude Prices Climb; These Oil Names Break Out (Live Coverage)",
+            "Pre-Market Futures Lower to Start September",
+            "Trump Media Falls 3% as Rising Yields and Higher Oil Squeeze Risk Appetite",
+            "\u2018Your Stock Doesn\u2019t Know Your Name\u2019: Wes Moss on Owning Too Much Apple, Google",
+            "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Tuesday as Oil Prices Advance"
+          ],
+          "spx": [
+            "Why you should care about rising bond yields",
+            "Software stocks crushed chips in August. History says September gets tougher: Chart of the Day",
+            "43-year veteran Wall Street analyst sounds alarm on stocks after rare signal flashes",
+            "Stocks Fall on Rising Yields and Oil, With Apple the Lone Bright Spot",
+            "3 Reasons CCK is Risky and 1 Stock to Buy Instead",
+            "I've Been Wrong About Philip Morris International Stock for 5 Years. Here's Why I'm Finally Changing My Mind.",
+            "Stock Market Midday, Sept. 1: Stocks Slide on Global Bond Sell-Off",
+            "Update: US Equity Indexes Retreat Amid Surging Treasury Yields, Higher Crude Oil Prices",
+            "If a Bear Market Is Coming, This Growth Stock Might Be a Great Buy on the Dip",
+            "10 Investment Must Reads for This Week (Sept. 1, 2026)"
+          ]
+        }
+      },
+      "exit": {
+        "date": "2026-09-01",
+        "time": "2026-09-01 09:30:00-04:00",
+        "stock_open_price": 146.77,
+        "sell_option_price": 0.3583,
+        "sell_contract_value": 35.83,
+        "sell_trigger": "sell_at_open",
+        "gap_direction": "against_thesis",
+        "gap_pct": -0.49,
+        "pnl": -64.17
+      },
+      "fomo": {
+        "sell_contract_value": 35.83,
+        "sell_pnl": -64.17,
+        "theta_burned_at_sell": -0.0,
+        "theta_per_min": -0.069548,
+        "day_high": {
+          "stock_price": 146.77,
+          "time": "2026-09-01 09:30:00-04:00",
+          "bs_contract_value": 35.89,
+          "theoretical_pnl": -64.11
+        },
+        "day_low": {
+          "stock_price": 142.33,
+          "time": "2026-09-01 10:24:00-04:00",
+          "bs_contract_value": 10.84,
+          "theoretical_pnl": -89.16
+        },
+        "best_case": {
+          "value": 35.89,
+          "pnl": -64.11,
+          "time": "2026-09-01 09:30:00-04:00"
+        },
+        "worst_case": {
+          "value": 10.84,
+          "pnl": -89.16,
+          "time": "2026-09-01 10:24:00-04:00"
+        },
+        "left_on_table": 0.06,
+        "theta_note": "3DTE: Theta minimal at open, stock direction dominates. Est. $0.00 burned"
+      }
+    },
+    {
+      "id": 6,
+      "status": "closed",
+      "entry": {
+        "date": "2026-09-01",
+        "time": "15:55 PST",
+        "ticker": "BURL",
+        "name": "BURLINGTON STORES INC COM",
+        "sector": "Unknown",
+        "type": "PUT",
+        "strike": 240.0,
+        "expiration": "2026-09-04",
+        "dte_at_entry": 3,
+        "T_at_entry": 0.008219,
+        "stock_price_at_entry": 259.76,
+        "premium": 0.7,
+        "cost": 70.0,
+        "bid": 0.05,
+        "spread": 0.65,
+        "iv_at_entry": 0.5005,
+        "otm_pct": 7.61,
+        "expected_move": {
+          "one_sigma_pct": 4.54,
+          "upper": 271.55,
+          "lower": 247.97,
+          "strike_position": "outside"
+        },
+        "signal_rank": "dollar_loser_1",
+        "signal_pct": -4.83,
+        "signal_dollar": -13.19,
+        "spy_change": -0.3,
+        "macro_active": false,
+        "macro_keywords": [],
+        "auto_note": "BURL PUT | $-13.19 (-4.83%) | dollar_loser_1 | Strike $240.0 exp 2026-09-04 (3DTE) | IV 50.0% | SPY -0.30% | No macro triggers"
+      },
+      "news_scan": {
+        "scanned_at": "2026-09-01 17:22:20 PST",
+        "gap_days": 0,
+        "ticker_sentiment": "bullish",
+        "spy_sentiment": "bearish",
+        "spx_sentiment": "neutral",
+        "keywords_found": [
+          "jumps"
+        ],
+        "spy_keywords": [
+          "falls",
+          "drops"
+        ],
+        "spx_keywords": [],
+        "decision": "hold",
+        "decision_reason": "bullish keywords confirmed PUT thesis",
+        "raw_headlines": {
+          "ticker": [
+            "What's Five Below's Probability of an Earnings Beat This Season?",
+            "TJX Companies' HomeGoods Comp Jumps 7%: Can Strong Momentum Persist?",
+            "Burlington\u2019s (BURL) Discount Playbook Keeps Delivering Even As Weather Looms",
+            "Burlington (BURL) Q2 2026 Earnings Call Transcript"
+          ],
+          "spy": [
+            "SoFi Drops 4%, Affirm Falls 5% as Yields Hit Balance-Sheet Lenders, Robinhood Holds Steady",
+            "Apple Rises 3% on John Ternus\u2019s First Day as CEO Even While the NASDAQ Skids",
+            "CoreWeave Offers So Much at $85",
+            "Dell Falls 4% Ahead of Earnings as Its 266% Rally Raises the Bar, Super Micro and Hewlett Packard Enterprise Slip",
+            "What to Understand Before Buying Nebius",
+            "Stock Market Today: Nasdaq Sinks As Crude Prices Climb; These Oil Names Break Out (Live Coverage)",
+            "Pre-Market Futures Lower to Start September",
+            "Trump Media Falls 3% as Rising Yields and Higher Oil Squeeze Risk Appetite",
+            "\u2018Your Stock Doesn\u2019t Know Your Name\u2019: Wes Moss on Owning Too Much Apple, Google",
+            "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Tuesday as Oil Prices Advance"
+          ],
+          "spx": [
+            "Why you should care about rising bond yields",
+            "Software stocks crushed chips in August. History says September gets tougher: Chart of the Day",
+            "43-year veteran Wall Street analyst sounds alarm on stocks after rare signal flashes",
+            "Stocks Fall on Rising Yields and Oil, With Apple the Lone Bright Spot",
+            "3 Reasons CCK is Risky and 1 Stock to Buy Instead",
+            "I've Been Wrong About Philip Morris International Stock for 5 Years. Here's Why I'm Finally Changing My Mind.",
+            "Stock Market Midday, Sept. 1: Stocks Slide on Global Bond Sell-Off",
+            "Update: US Equity Indexes Retreat Amid Surging Treasury Yields, Higher Crude Oil Prices",
+            "If a Bear Market Is Coming, This Growth Stock Might Be a Great Buy on the Dip",
+            "10 Investment Must Reads for This Week (Sept. 1, 2026)"
+          ]
+        }
+      },
+      "exit": {
+        "date": "2026-09-01",
+        "time": "2026-09-01 09:31:00-04:00",
+        "stock_open_price": 255.275,
+        "sell_option_price": 0.4392,
+        "sell_contract_value": 43.92,
+        "sell_trigger": "hold_2min",
+        "gap_direction": "with_thesis",
+        "gap_pct": -1.73,
+        "pnl": -26.08
+      },
+      "fomo": {
+        "sell_contract_value": 43.92,
+        "sell_pnl": -26.08,
+        "theta_burned_at_sell": -0.0,
+        "theta_per_min": -0.041201,
+        "day_high": {
+          "stock_price": 259.09,
+          "time": "2026-09-01 09:32:00-04:00",
+          "bs_contract_value": 20.9,
+          "theoretical_pnl": -49.1
+        },
+        "day_low": {
+          "stock_price": 253.935,
+          "time": "2026-09-01 09:45:00-04:00",
+          "bs_contract_value": 56.3,
+          "theoretical_pnl": -13.7
+        },
+        "best_case": {
+          "value": 56.3,
+          "pnl": -13.7,
+          "time": "2026-09-01 09:45:00-04:00"
+        },
+        "worst_case": {
+          "value": 20.9,
+          "pnl": -49.1,
+          "time": "2026-09-01 09:32:00-04:00"
+        },
+        "left_on_table": 12.38,
+        "theta_note": "3DTE: Theta minimal at open, stock direction dominates. Est. $0.00 burned"
+      }
+    },
+    {
+      "id": 7,
+      "status": "closed",
+      "entry": {
+        "date": "2026-09-02",
+        "time": "15:55 PST",
+        "ticker": "DUOL",
+        "name": "DUOLINGO INC CL A COM",
+        "sector": "Unknown",
+        "type": "CALL",
+        "strike": 170.0,
+        "expiration": "2026-09-04",
+        "dte_at_entry": 2,
+        "T_at_entry": 0.005479,
+        "stock_price_at_entry": 158.77,
+        "premium": 0.85,
+        "cost": 85.0,
+        "bid": 0.35,
+        "spread": 0.5,
+        "iv_at_entry": 0.6533,
+        "otm_pct": 7.07,
+        "expected_move": {
+          "one_sigma_pct": 4.84,
+          "upper": 166.45,
+          "lower": 151.09,
+          "strike_position": "outside"
+        },
+        "signal_rank": "dollar_gainer_1",
+        "signal_pct": 7.02,
+        "signal_dollar": 10.41,
+        "spy_change": -0.69,
+        "macro_active": true,
+        "macro_keywords": [
+          "war"
+        ],
+        "auto_note": "DUOL CALL | $+10.41 (+7.02%) | dollar_gainer_1 | Strike $170.0 exp 2026-09-04 (2DTE) | IV 65.3% | SPY -0.69% | MACRO: war"
+      },
+      "news_scan": {
+        "scanned_at": "2026-09-02 17:14:20 PST",
+        "gap_days": 0,
+        "ticker_sentiment": "bullish",
+        "spy_sentiment": "bearish",
+        "spx_sentiment": "bullish",
+        "keywords_found": [
+          "buyback",
+          "upgrade",
+          "upgraded",
+          "rallies"
+        ],
+        "spy_keywords": [
+          "rallies",
+          "downgrade",
+          "drops"
+        ],
+        "spx_keywords": [
+          "rallies"
+        ],
+        "decision": "hold",
+        "decision_reason": "bullish keywords confirmed CALL thesis",
+        "raw_headlines": {
+          "ticker": [
+            "Duolingo (DUOL) Rallies On Evercore Upgrade As Valuation Debate Stays Open",
+            "Duolingo (DUOL) Is Up 8.7% After AI-Proof Upgrade And Buyback \u2014 Has The Bull Case Changed?",
+            "Evercore Sees This App Surviving the ChatGPT Disruption",
+            "Sector Update: Tech Stocks Fall Late Afternoon",
+            "Evercore upgrades Duolingo, sees strong user growth and earnings upside",
+            "Stock Market Midday, Sept. 1: Stocks Slide on Global Bond Sell-Off",
+            "GoPro price up 50% after agreeing to takeover: AlphaSpace breakdown",
+            "Robinhood upgraded, Uber initiated: Wall Street's top analyst calls",
+            "Evercore Sees Duolingo's 2022 Netflix Moment",
+            "Here Are Tuesday\u2019s Top Wall Street Analyst Research Calls: Akamai Technologies, Arista Networks, Booking Holdings, Cisco Systems, Dell Technologies, Duolingo, Robinhood Markets, PG&E, and More"
+          ],
+          "spy": [
+            "Affirm Rallies 6% on $104 Price Target From BofA, Sezzle Climbs 4%, PayPal Rises 3%",
+            "FuboTV Rallies 7%, Disney Ticks Up: Is the Hulu Live TV Deal Finally Getting Credit?",
+            "The S&P 500 Got Cheaper While It Rallied. Here's What Bond Bears Are Missing",
+            "Reddit Rallies 7% as Baird Says Renewal Risk Is Already Priced In, Pinterest Holds Flat",
+            "Nio Drops 4% on J.P. Morgan Downgrade and $4.50 Price Target, XPeng and Li Auto Slip",
+            "Exchange-Traded Funds, Equity Futures Mixed Pre-Bell Wednesday Amid Escalating US-Iran Tensions",
+            "September Is Usually Ugly For Stocks \u2014 Why This Year Is Different",
+            "S&P 500, Dow, Nasdaq Futures Flat After Indices End Lower On US-Iran Stalemate \u2014 DELL, PANW, FRVO, AAPL, TTWO In Focus",
+            "These ETFs Generate the Most Revenue",
+            "SPYI\u2019s Monthly Check Hides the Real Cost: Part of That Payout Is Your Own Capital, and It Quietly Shrinks Your Cost Basis"
+          ],
+          "spx": [
+            "Goldman Sachs warns investors to expect lower returns over the next year",
+            "Has the AI trade become too 'monolithic'? Well, it's complicated.",
+            "3 Reasons to Avoid FNF and 1 Stock to Buy Instead",
+            "Stock Market Today: Dow, Small Caps Lead Rise; Digital Ad Firm Rallies Off Key Level (Live Coverage)",
+            "3 Reasons to Sell HUBG and 1 Stock to Buy Instead",
+            "KOSS Posts Q4 Earnings as DTC Growth and Tariff Refunds Aid",
+            "Update: US Equity Indexes Rise in Midday Trading",
+            "Healthcare ETF Comparison: Fidelity's FHLC vs. Invesco's Biotech-Focused IBBQ",
+            "Markets in Motion: September seasonality puts S&P 500 and small caps in focus",
+            "3 Big Reasons to Love American Superconductor (AMSC)"
+          ]
+        }
+      },
+      "exit": {
+        "date": "2026-09-02",
+        "time": "2026-09-02 09:31:00-04:00",
+        "stock_open_price": 157.93,
+        "sell_option_price": 0.2218,
+        "sell_contract_value": 22.18,
+        "sell_trigger": "hold_2min",
+        "gap_direction": "against_thesis",
+        "gap_pct": -0.53,
+        "pnl": -62.82
+      },
+      "fomo": {
+        "sell_contract_value": 22.18,
+        "sell_pnl": -62.82,
+        "theta_burned_at_sell": -0.0,
+        "theta_per_min": -0.075871,
+        "day_high": {
+          "stock_price": 158.11,
+          "time": "2026-09-02 09:31:00-04:00",
+          "bs_contract_value": 23.56,
+          "theoretical_pnl": -61.44
+        },
+        "day_low": {
+          "stock_price": 154.76,
+          "time": "2026-09-02 09:39:00-04:00",
+          "bs_contract_value": 7.88,
+          "theoretical_pnl": -77.12
+        },
+        "best_case": {
+          "value": 23.56,
+          "pnl": -61.44,
+          "time": "2026-09-02 09:31:00-04:00"
+        },
+        "worst_case": {
+          "value": 7.88,
+          "pnl": -77.12,
+          "time": "2026-09-02 09:39:00-04:00"
+        },
+        "left_on_table": 1.38,
+        "theta_note": "2DTE: Theta minimal at open, stock direction dominates. Est. $0.00 burned"
+      }
+    },
+    {
+      "id": 8,
+      "status": "closed",
+      "entry": {
+        "date": "2026-09-02",
+        "time": "15:55 PST",
+        "ticker": "AXON",
+        "name": "AXON ENTERPRISE INC COM",
+        "sector": "Unknown",
+        "type": "PUT",
+        "strike": 450.0,
+        "expiration": "2026-09-04",
+        "dte_at_entry": 2,
+        "T_at_entry": 0.005479,
+        "stock_price_at_entry": 518.3,
+        "premium": 0.4,
+        "cost": 40.0,
+        "bid": null,
+        "spread": null,
+        "iv_at_entry": 0.7373,
+        "otm_pct": 13.18,
+        "expected_move": {
+          "one_sigma_pct": 5.46,
+          "upper": 546.59,
+          "lower": 490.01,
+          "strike_position": "outside"
+        },
+        "signal_rank": "dollar_loser_1",
+        "signal_pct": -8.52,
+        "signal_dollar": -48.26,
+        "spy_change": -0.69,
+        "macro_active": true,
+        "macro_keywords": [
+          "war"
+        ],
+        "auto_note": "AXON PUT | $-48.26 (-8.52%) | dollar_loser_1 | Strike $450.0 exp 2026-09-04 (2DTE) | IV 73.7% | SPY -0.69% | MACRO: war"
+      },
+      "news_scan": {
+        "scanned_at": "2026-09-02 17:14:20 PST",
+        "gap_days": 0,
+        "ticker_sentiment": "neutral",
+        "spy_sentiment": "bearish",
+        "spx_sentiment": "bullish",
+        "keywords_found": [],
+        "spy_keywords": [
+          "rallies",
+          "downgrade",
+          "drops"
+        ],
+        "spx_keywords": [
+          "rallies"
+        ],
+        "decision": "hold",
+        "decision_reason": "neutral keywords confirmed PUT thesis",
+        "raw_headlines": {
+          "ticker": [
+            "US Stock Market Today: S&P 500 Futures Slip As Rising Yields Pressure Equities"
+          ],
+          "spy": [
+            "Affirm Rallies 6% on $104 Price Target From BofA, Sezzle Climbs 4%, PayPal Rises 3%",
+            "FuboTV Rallies 7%, Disney Ticks Up: Is the Hulu Live TV Deal Finally Getting Credit?",
+            "The S&P 500 Got Cheaper While It Rallied. Here's What Bond Bears Are Missing",
+            "Reddit Rallies 7% as Baird Says Renewal Risk Is Already Priced In, Pinterest Holds Flat",
+            "Nio Drops 4% on J.P. Morgan Downgrade and $4.50 Price Target, XPeng and Li Auto Slip",
+            "Exchange-Traded Funds, Equity Futures Mixed Pre-Bell Wednesday Amid Escalating US-Iran Tensions",
+            "September Is Usually Ugly For Stocks \u2014 Why This Year Is Different",
+            "S&P 500, Dow, Nasdaq Futures Flat After Indices End Lower On US-Iran Stalemate \u2014 DELL, PANW, FRVO, AAPL, TTWO In Focus",
+            "These ETFs Generate the Most Revenue",
+            "SPYI\u2019s Monthly Check Hides the Real Cost: Part of That Payout Is Your Own Capital, and It Quietly Shrinks Your Cost Basis"
+          ],
+          "spx": [
+            "Goldman Sachs warns investors to expect lower returns over the next year",
+            "Has the AI trade become too 'monolithic'? Well, it's complicated.",
+            "3 Reasons to Avoid FNF and 1 Stock to Buy Instead",
+            "Stock Market Today: Dow, Small Caps Lead Rise; Digital Ad Firm Rallies Off Key Level (Live Coverage)",
+            "3 Reasons to Sell HUBG and 1 Stock to Buy Instead",
+            "KOSS Posts Q4 Earnings as DTC Growth and Tariff Refunds Aid",
+            "Update: US Equity Indexes Rise in Midday Trading",
+            "Healthcare ETF Comparison: Fidelity's FHLC vs. Invesco's Biotech-Focused IBBQ",
+            "Markets in Motion: September seasonality puts S&P 500 and small caps in focus",
+            "3 Big Reasons to Love American Superconductor (AMSC)"
+          ]
+        }
+      },
+      "exit": {
+        "date": "2026-09-02",
+        "time": "2026-09-02 09:31:00-04:00",
+        "stock_open_price": 513.245,
+        "sell_option_price": 0.0675,
+        "sell_contract_value": 6.75,
+        "sell_trigger": "hold_2min",
+        "gap_direction": "with_thesis",
+        "gap_pct": -0.98,
+        "pnl": -33.25
+      },
+      "fomo": {
+        "sell_contract_value": 6.75,
+        "sell_pnl": -33.25,
+        "theta_burned_at_sell": -0.0,
+        "theta_per_min": -0.023204,
+        "day_high": {
+          "stock_price": 517.98,
+          "time": "2026-09-02 09:30:00-04:00",
+          "bs_contract_value": 4.07,
+          "theoretical_pnl": -35.93
+        },
+        "day_low": {
+          "stock_price": 509.755,
+          "time": "2026-09-02 09:37:00-04:00",
+          "bs_contract_value": 9.86,
+          "theoretical_pnl": -30.14
+        },
+        "best_case": {
+          "value": 9.86,
+          "pnl": -30.14,
+          "time": "2026-09-02 09:37:00-04:00"
+        },
+        "worst_case": {
+          "value": 4.07,
+          "pnl": -35.93,
+          "time": "2026-09-02 09:30:00-04:00"
+        },
+        "left_on_table": 3.11,
+        "theta_note": "2DTE: Theta minimal at open, stock direction dominates. Est. $0.00 burned"
+      }
+    }
+  ]
+}
