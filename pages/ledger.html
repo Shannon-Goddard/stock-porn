@@ -192,6 +192,7 @@
       <button class="filter-btn" onclick="setFilter('call', this)">Calls</button>
       <button class="filter-btn" onclick="setFilter('put', this)">Puts</button>
       <button class="filter-btn" onclick="setFilter('open', this)">Open</button>
+      <button class="filter-btn" onclick="setFilter('expired', this)">Expired</button>
     </div>
 
     <!-- TABLE -->
@@ -304,7 +305,7 @@
                 ${dfield('Premium', '$' + e.premium + ' / $' + e.cost)}
                 ${dfield('Spread', e.spread !== null ? '$' + e.spread : '—')}
                 ${dfield('Macro', e.macro_active ? e.macro_keywords.join(', ') : 'None', e.macro_active ? 'neg' : 'muted')}
-                ${dfield('SPY Day', (e.spy_change >= 0 ? '+' : '') + e.spy_change + '%', e.spy_change >= 0 ? 'pos' : 'neg')}
+                ${e.spy_change !== null ? dfield('SPY Day', (e.spy_change >= 0 ? '+' : '') + e.spy_change + '%', e.spy_change >= 0 ? 'pos' : 'neg') : dfield('SPY Day', 'n/a', 'muted')}
                 ${ex ? dfield('Stock Open', '$' + ex.stock_open_price) : ''}
                 ${ex ? dfield('Option Sold', '$' + ex.sell_option_price) : ''}
                 ${ex ? dfield('Contract Value', '$' + ex.sell_contract_value) : ''}
@@ -324,8 +325,9 @@
         if (currentFilter === 'loss') return t.status === 'closed' && t.exit && t.exit.pnl <= 0;
         if (currentFilter === 'call') return t.entry.type === 'CALL';
         if (currentFilter === 'put')  return t.entry.type === 'PUT';
-        if (currentFilter === 'open') return t.status === 'open';
-        return true;
+        if (currentFilter === 'open')    return t.status === 'open';
+        if (currentFilter === 'expired') return t.status === 'expired';
+        return t.status !== 'expired';
       });
 
       const sorted = [...filtered].sort((a, b) => {
@@ -356,8 +358,9 @@
         const e   = t.entry;
         const ex  = t.exit;
         const pnl = ex ? ex.pnl : null;
-        const isOpen = t.status === 'open';
-        const rowClass = isOpen ? 'open-row' : (pnl >= 0 ? 'win-row' : 'loss-row');
+        const isOpen    = t.status === 'open';
+        const isExpired = t.status === 'expired';
+        const rowClass  = (isOpen || isExpired) ? 'open-row' : (pnl >= 0 ? 'win-row' : 'loss-row');
         const run = t._running;
 
         html += `
@@ -372,7 +375,7 @@
             <td class="right muted col-hide">${(e.iv_at_entry * 100).toFixed(1)}%</td>
             <td class="right col-hide ${e.otm_pct > 10 ? 'neg' : 'muted'}">${e.otm_pct}%</td>
             <td class="muted col-hide">${ex ? (ex.sell_trigger === 'hold_2min' ? 'Hold' : 'Open') : '—'}</td>
-            <td class="right ${isOpen ? 'muted' : pnlClass(pnl)}">${isOpen ? 'Open' : fmt(pnl)}</td>
+            <td class="right ${(isOpen || isExpired) ? 'muted' : pnlClass(pnl)}">${isExpired ? 'Expired' : isOpen ? 'Open' : fmt(pnl)}</td>
             <td class="right running col-hide ${pnlClass(run)}">${run !== undefined ? fmt(run) : '—'}</td>
           </tr>
         `;

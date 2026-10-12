@@ -42,12 +42,14 @@ def get_spy_change():
         raw = yf.download('SPY', period='2d', interval='1d',
                           auto_adjust=True, progress=False)
         if len(raw) < 2:
-            return 0.0
+            return None
         prev  = float(raw['Close'].iloc[-2].iloc[0]) if hasattr(raw['Close'].iloc[-2], 'iloc') else float(raw['Close'].iloc[-2])
         curr  = float(raw['Close'].iloc[-1].iloc[0]) if hasattr(raw['Close'].iloc[-1], 'iloc') else float(raw['Close'].iloc[-1])
+        if math.isnan(prev) or math.isnan(curr) or prev == 0:
+            return None
         return round((curr - prev) / prev * 100, 2)
     except Exception:
-        return 0.0
+        return None
 
 def check_macro_active():
     """Scan SPY news for macro trigger words."""
@@ -200,13 +202,14 @@ def build_auto_note(
         signal, option_type, contract, spy_change, macro_active, macro_keywords):
     rank_label = signal.get('_rank', '')
     macro_str  = f"MACRO: {', '.join(macro_keywords)}" if macro_active else "No macro triggers"
+    spy_str = f"SPY {spy_change:+.2f}%" if spy_change is not None else "SPY n/a"
     return (
         f"{signal['ticker']} {option_type} | "
         f"${signal['changeDollar']:+.2f} ({signal['changePct']:+.2f}%) | "
         f"{rank_label} | "
         f"Strike ${contract['strike']} exp {contract['expiration']} ({contract['dte']}DTE) | "
         f"IV {round(contract['iv']*100,1)}% | "
-        f"SPY {spy_change:+.2f}% | "
+        f"{spy_str} | "
         f"{macro_str}"
     )
 
