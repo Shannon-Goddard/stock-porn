@@ -9,20 +9,12 @@
       "changeDollar": 3.44
     },
     {
-      "ticker": "AAOZ",
-      "name": "Tradr 2X Short AAOI Daily ETF",
+      "ticker": "SOXS",
+      "name": "DIREXION SHARES ETF TRUST DAI SEM 3X ETF",
       "sector": "Unknown",
-      "price": 11.87,
-      "changePct": 16.49,
-      "changeDollar": 1.68
-    },
-    {
-      "ticker": "SNDQ",
-      "name": "Tradr 2X Short SNDK Daily ETF",
-      "sector": "Unknown",
-      "price": 14.23,
-      "changePct": 11.87,
-      "changeDollar": 1.51
+      "price": 37.19,
+      "changePct": 8.14,
+      "changeDollar": 2.8
     },
     {
       "ticker": "HELE",
@@ -33,70 +25,78 @@
       "changeDollar": 1.98
     },
     {
-      "ticker": "VSXY",
-      "name": "VICTORIAS SECRET AND CO COMMON STOCK",
+      "ticker": "METU",
+      "name": "DIREXION SHARES ETF TRUST DLY META BULL 2X",
       "sector": "Unknown",
-      "price": 88.59,
-      "changePct": 6.9,
-      "changeDollar": 5.72
+      "price": 31.95,
+      "changePct": 6.75,
+      "changeDollar": 2.02
     },
     {
-      "ticker": "DHT",
-      "name": "DHT HOLDINGS INC SHS NEW",
+      "ticker": "PRCT",
+      "name": "PROCEPT BIOROBOTICS CORP COM",
       "sector": "Unknown",
-      "price": 26.22,
-      "changePct": 6.41,
-      "changeDollar": 1.58
+      "price": 19.57,
+      "changePct": 6.36,
+      "changeDollar": 1.17
     },
     {
-      "ticker": "TEN",
-      "name": "TSAKOS ENERGY NAVIGATION LTD SHS",
+      "ticker": "SHOP",
+      "name": "SHOPIFY INC CL A SUB VTG SHS",
       "sector": "Unknown",
-      "price": 54.58,
-      "changePct": 6.19,
-      "changeDollar": 3.18
+      "price": 179.22,
+      "changePct": 4.9,
+      "changeDollar": 8.37
     },
     {
-      "ticker": "FRO",
-      "name": "FRONTLINE PLC COM",
+      "ticker": "FUN",
+      "name": "SIX FLAGS ENTERTAINMENT CORP COM",
       "sector": "Unknown",
-      "price": 59.19,
-      "changePct": 5.51,
-      "changeDollar": 3.09
+      "price": 11.92,
+      "changePct": 4.47,
+      "changeDollar": 0.51
     },
     {
-      "ticker": "WS",
-      "name": "WORTHINGTON STL INC COM SHS",
+      "ticker": "UCO",
+      "name": "PROSHARES TR II ULTA BLMBG 2017",
       "sector": "Unknown",
-      "price": 37.99,
-      "changePct": 5.38,
-      "changeDollar": 1.94
+      "price": 59.11,
+      "changePct": 4.05,
+      "changeDollar": 2.3
     },
     {
-      "ticker": "LW",
-      "name": "LAMB WESTON HLDGS INC COM",
+      "ticker": "URGN",
+      "name": "UROGEN PHARMA LTD COM",
       "sector": "Unknown",
-      "price": 50.18,
-      "changePct": 4.83,
-      "changeDollar": 2.31
+      "price": 38.28,
+      "changePct": 3.94,
+      "changeDollar": 1.45
+    },
+    {
+      "ticker": "INSP",
+      "name": "INSPIRE MED SYS INC COM",
+      "sector": "Unknown",
+      "price": 71.49,
+      "changePct": 3.77,
+      "changeDollar": 2.6
     }
   ],
   "topLosers": [
     {
-      "ticker": "IONL",
-      "name": "GRANITESHARES ETF TR 2X LONG IONQ",
+      "ticker": "LITX",
+      "name": "Tradr 2X Long LITE Daily ETF",
       "sector": "Unknown",
-      "price": 10.18,
-      "changePct": -18.3,
-      "changeDollar": -2.28
+      "price": 34.65,
+      "changePct": -19.42,
+      "changeDollar": -8.35
     },
     {
-      "ticker": "BEX",
-      "name": "Tradr 2X Long BE Daily ETF",
+      "ticker": "SMU",
+      "name": "Tradr 2X Long SMR Daily ETF",
       "sector": "Unknown",
-      "price": 31.99,
-      "changePct": -12.79,
-      "changeDollar": -4.69
+      "price": 11.29,
+      "changePct": -13.75,
+      "changeDollar": -1.8
     },
     {
       "ticker": "KORU",
@@ -107,12 +107,12 @@
       "changeDollar": -2.11
     },
     {
-      "ticker": "BRUN",
-      "name": "BOOST RUN INC ORD SHS CL A",
+      "ticker": "AEVA",
+      "name": "AEVA TECHNOLOGIES INC COM NEW",
       "sector": "Unknown",
-      "price": 11.79,
-      "changePct": -10.55,
-      "changeDollar": -1.39
+      "price": 12.21,
+      "changePct": -10.61,
+      "changeDollar": -1.45
     },
     {
       "ticker": "NEBX",
@@ -123,54 +123,54 @@
       "changeDollar": -2.41
     },
     {
-      "ticker": "SMTC",
-      "name": "SEMTECH CORP COM",
+      "ticker": "GRRR",
+      "name": "GORILLA TECHNOLOGY GROUP INC SHS NEW",
       "sector": "Unknown",
-      "price": 168.28,
-      "changePct": -10.15,
-      "changeDollar": -19.02
+      "price": 10.07,
+      "changePct": -9.52,
+      "changeDollar": -1.06
     },
     {
-      "ticker": "ICHR",
-      "name": "ICHOR HOLDINGS SHS",
+      "ticker": "DNA",
+      "name": "GINKGO BIOWORKS HOLDINGS INC CL A NEW",
       "sector": "Unknown",
-      "price": 54.38,
-      "changePct": -9.23,
-      "changeDollar": -5.53
+      "price": 11.79,
+      "changePct": -9.31,
+      "changeDollar": -1.21
     },
     {
-      "ticker": "TTMI",
-      "name": "TTM TECHNOLOGIES INC COM",
+      "ticker": "IONQ",
+      "name": "IONQ INC COM",
       "sector": "Unknown",
-      "price": 110.33,
-      "changePct": -8.83,
-      "changeDollar": -10.68
+      "price": 36.27,
+      "changePct": -9.07,
+      "changeDollar": -3.62
     },
     {
-      "ticker": "SKHX",
-      "name": "Leverage Shares 2X Long SK Hynix Daily ETF",
+      "ticker": "RAM",
+      "name": "Roundhill T-REX 2X Long DRAM Daily Target ETF",
       "sector": "Unknown",
-      "price": 12.74,
-      "changePct": -8.41,
-      "changeDollar": -1.17
+      "price": 11.13,
+      "changePct": -8.55,
+      "changeDollar": -1.04
     },
     {
-      "ticker": "ARMG",
-      "name": "THEMES ETF TR LEVERAGE SHARES",
+      "ticker": "SKUU",
+      "name": "GRANITESHARES ETF TR 2X LNG SK HYNIX",
       "sector": "Unknown",
-      "price": 16.04,
-      "changePct": -8.29,
-      "changeDollar": -1.45
+      "price": 21.56,
+      "changePct": -8.02,
+      "changeDollar": -1.88
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "VSXY",
-      "name": "VICTORIAS SECRET AND CO COMMON STOCK",
+      "ticker": "SHOP",
+      "name": "SHOPIFY INC CL A SUB VTG SHS",
       "sector": "Unknown",
-      "price": 88.59,
-      "changePct": 6.9,
-      "changeDollar": 5.72
+      "price": 179.22,
+      "changePct": 4.9,
+      "changeDollar": 8.37
     },
     {
       "ticker": "LITZ",
@@ -181,62 +181,46 @@
       "changeDollar": 3.44
     },
     {
-      "ticker": "TEN",
-      "name": "TSAKOS ENERGY NAVIGATION LTD SHS",
+      "ticker": "SOXS",
+      "name": "DIREXION SHARES ETF TRUST DAI SEM 3X ETF",
       "sector": "Unknown",
-      "price": 54.58,
-      "changePct": 6.19,
-      "changeDollar": 3.18
+      "price": 37.19,
+      "changePct": 8.14,
+      "changeDollar": 2.8
     },
     {
-      "ticker": "FRO",
-      "name": "FRONTLINE PLC COM",
+      "ticker": "INSP",
+      "name": "INSPIRE MED SYS INC COM",
       "sector": "Unknown",
-      "price": 59.19,
-      "changePct": 5.51,
-      "changeDollar": 3.09
+      "price": 71.49,
+      "changePct": 3.77,
+      "changeDollar": 2.6
     },
     {
-      "ticker": "LW",
-      "name": "LAMB WESTON HLDGS INC COM",
+      "ticker": "UCO",
+      "name": "PROSHARES TR II ULTA BLMBG 2017",
       "sector": "Unknown",
-      "price": 50.18,
-      "changePct": 4.83,
-      "changeDollar": 2.31
+      "price": 59.11,
+      "changePct": 4.05,
+      "changeDollar": 2.3
     }
   ],
   "dollarLosers": [
     {
-      "ticker": "SMTC",
-      "name": "SEMTECH CORP COM",
+      "ticker": "LITX",
+      "name": "Tradr 2X Long LITE Daily ETF",
       "sector": "Unknown",
-      "price": 168.28,
-      "changePct": -10.15,
-      "changeDollar": -19.02
+      "price": 34.65,
+      "changePct": -19.42,
+      "changeDollar": -8.35
     },
     {
-      "ticker": "TTMI",
-      "name": "TTM TECHNOLOGIES INC COM",
+      "ticker": "IONQ",
+      "name": "IONQ INC COM",
       "sector": "Unknown",
-      "price": 110.33,
-      "changePct": -8.83,
-      "changeDollar": -10.68
-    },
-    {
-      "ticker": "ICHR",
-      "name": "ICHOR HOLDINGS SHS",
-      "sector": "Unknown",
-      "price": 54.38,
-      "changePct": -9.23,
-      "changeDollar": -5.53
-    },
-    {
-      "ticker": "BEX",
-      "name": "Tradr 2X Long BE Daily ETF",
-      "sector": "Unknown",
-      "price": 31.99,
-      "changePct": -12.79,
-      "changeDollar": -4.69
+      "price": 36.27,
+      "changePct": -9.07,
+      "changeDollar": -3.62
     },
     {
       "ticker": "NEBX",
@@ -245,6 +229,22 @@
       "price": 20.81,
       "changePct": -10.38,
       "changeDollar": -2.41
+    },
+    {
+      "ticker": "KORU",
+      "name": "DIREXION SHARES ETF TRUST DAIL MS KORE ETF",
+      "sector": "Unknown",
+      "price": 15.74,
+      "changePct": -11.82,
+      "changeDollar": -2.11
+    },
+    {
+      "ticker": "SKUU",
+      "name": "GRANITESHARES ETF TR 2X LNG SK HYNIX",
+      "sector": "Unknown",
+      "price": 21.56,
+      "changePct": -8.02,
+      "changeDollar": -1.88
     }
   ]
 }
