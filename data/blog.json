@@ -460,5 +460,16 @@
     "youtube_id": null,
     "images": [],
     "published": true
+  },
+  {
+    "id": 40,
+    "date": "2026-10-13",
+    "ticker": "SHOP",
+    "type": "CALL",
+    "trade_id": 40,
+    "title": "SHOP CALL \u2014 2026-10-13",
+    "youtube_id": null,
+    "images": [],
+    "published": true
   }
 ]

@@ -2783,6 +2783,45 @@
       },
       "exit": null,
       "fomo": null
+    },
+    {
+      "id": 40,
+      "status": "open",
+      "entry": {
+        "date": "2026-10-13",
+        "time": "15:55 PST",
+        "ticker": "SHOP",
+        "name": "SHOPIFY INC CL A SUB VTG SHS",
+        "sector": "Unknown",
+        "type": "CALL",
+        "strike": 190.0,
+        "expiration": "2026-10-16",
+        "dte_at_entry": 3,
+        "T_at_entry": 0.008219,
+        "stock_price_at_entry": 179.22,
+        "premium": 0.96,
+        "cost": 96.0,
+        "bid": 0.85,
+        "spread": 0.11,
+        "iv_at_entry": 0.5596,
+        "otm_pct": 6.01,
+        "expected_move": {
+          "one_sigma_pct": 5.07,
+          "upper": 188.31,
+          "lower": 170.13,
+          "strike_position": "at_edge"
+        },
+        "signal_rank": "dollar_gainer_1",
+        "signal_pct": 4.9,
+        "signal_dollar": 8.37,
+        "spy_change": -0.06,
+        "macro_active": false,
+        "macro_keywords": [],
+        "auto_note": "SHOP CALL | $+8.37 (+4.90%) | dollar_gainer_1 | Strike $190.0 exp 2026-10-16 (3DTE) | IV 56.0% | SPY -0.06% | No macro triggers"
+      },
+      "news_scan": null,
+      "exit": null,
+      "fomo": null
     }
   ]
 }
