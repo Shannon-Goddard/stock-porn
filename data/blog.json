@@ -471,5 +471,16 @@
     "youtube_id": null,
     "images": [],
     "published": true
+  },
+  {
+    "id": 41,
+    "date": "2026-10-14",
+    "ticker": "PARR",
+    "type": "CALL",
+    "trade_id": 41,
+    "title": "PARR CALL \u2014 2026-10-14",
+    "youtube_id": null,
+    "images": [],
+    "published": true
   }
 ]

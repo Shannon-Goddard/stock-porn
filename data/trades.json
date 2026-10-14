@@ -2838,6 +2838,45 @@
       },
       "exit": null,
       "fomo": null
+    },
+    {
+      "id": 41,
+      "status": "open",
+      "entry": {
+        "date": "2026-10-14",
+        "time": "15:55 PST",
+        "ticker": "PARR",
+        "name": "PAR PAC HOLDINGS INC COM NEW",
+        "sector": "Unknown",
+        "type": "CALL",
+        "strike": 95.0,
+        "expiration": "2026-10-16",
+        "dte_at_entry": 2,
+        "T_at_entry": 0.005479,
+        "stock_price_at_entry": 89.88,
+        "premium": 0.8,
+        "cost": 80.0,
+        "bid": 0.4,
+        "spread": 0.4,
+        "iv_at_entry": 0.6919,
+        "otm_pct": 5.7,
+        "expected_move": {
+          "one_sigma_pct": 5.12,
+          "upper": 94.48,
+          "lower": 85.28,
+          "strike_position": "at_edge"
+        },
+        "signal_rank": "dollar_gainer_1",
+        "signal_pct": 8.13,
+        "signal_dollar": 6.76,
+        "spy_change": -0.01,
+        "macro_active": false,
+        "macro_keywords": [],
+        "auto_note": "PARR CALL | $+6.76 (+8.13%) | dollar_gainer_1 | Strike $95.0 exp 2026-10-16 (2DTE) | IV 69.2% | SPY -0.01% | No macro triggers"
+      },
+      "news_scan": null,
+      "exit": null,
+      "fomo": null
     }
   ]
 }
