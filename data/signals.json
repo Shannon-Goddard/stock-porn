@@ -1,250 +1,250 @@
 {
   "topGainers": [
     {
-      "ticker": "SPCG",
-      "name": "Tradr 2X Short SpaceX Daily ETF",
+      "ticker": "LQDA",
+      "name": "LIQUIDIA CORPORATION COM NEW",
       "sector": "Unknown",
-      "price": 13.37,
-      "changePct": 8.43,
-      "changeDollar": 1.04
+      "price": 33.7,
+      "changePct": 25.7,
+      "changeDollar": 6.89
+    },
+    {
+      "ticker": "IREZ",
+      "name": "Tradr 2X Short IREN Daily ETF",
+      "sector": "Unknown",
+      "price": 16.14,
+      "changePct": 23.3,
+      "changeDollar": 3.05
+    },
+    {
+      "ticker": "DUST",
+      "name": "DIREXION SHARES ETF TRUST DAI GOL BEA ETF",
+      "sector": "Unknown",
+      "price": 44.47,
+      "changePct": 10.57,
+      "changeDollar": 4.25
+    },
+    {
+      "ticker": "TZA",
+      "name": "DIREXION SHARES ETF TRUST DAILY SMALL CAP",
+      "sector": "Unknown",
+      "price": 51.54,
+      "changePct": 6.8,
+      "changeDollar": 3.28
+    },
+    {
+      "ticker": "SRTY",
+      "name": "PROSHARES TR ULTRAPRO SHRT RU",
+      "sector": "Unknown",
+      "price": 29.02,
+      "changePct": 6.77,
+      "changeDollar": 1.84
+    },
+    {
+      "ticker": "UNHG",
+      "name": "THEMES ETF TR LEVERAGE SHS 2X",
+      "sector": "Unknown",
+      "price": 19.15,
+      "changePct": 6.45,
+      "changeDollar": 1.16
     },
     {
       "ticker": "SNK",
       "name": "GraniteShares 2x Short SpaceX Daily ETF",
       "sector": "Unknown",
-      "price": 12.82,
-      "changePct": 8.37,
-      "changeDollar": 0.99
-    },
-    {
-      "ticker": "PARR",
-      "name": "PAR PAC HOLDINGS INC COM NEW",
-      "sector": "Unknown",
-      "price": 89.88,
-      "changePct": 8.13,
-      "changeDollar": 6.76
-    },
-    {
-      "ticker": "TBCH",
-      "name": "TURTLE BEACH CORP COM NEW",
-      "sector": "Unknown",
-      "price": 14.53,
-      "changePct": 8.11,
-      "changeDollar": 1.09
-    },
-    {
-      "ticker": "PBF",
-      "name": "PBF ENERGY INC CL A",
-      "sector": "Unknown",
-      "price": 91.17,
-      "changePct": 7.23,
-      "changeDollar": 6.15
-    },
-    {
-      "ticker": "QDEL",
-      "name": "QUIDELORTHO CORP COM",
-      "sector": "Unknown",
-      "price": 14.1,
-      "changePct": 6.42,
-      "changeDollar": 0.85
-    },
-    {
-      "ticker": "AAOZ",
-      "name": "Tradr 2X Short AAOI Daily ETF",
-      "sector": "Unknown",
-      "price": 12.6,
-      "changePct": 6.15,
-      "changeDollar": 0.73
-    },
-    {
-      "ticker": "CNXC",
-      "name": "CONCENTRIX CORP COM",
-      "sector": "Unknown",
-      "price": 26.96,
-      "changePct": 5.85,
-      "changeDollar": 1.49
-    },
-    {
-      "ticker": "CRSR",
-      "name": "CORSAIR GAMING INC COM",
-      "sector": "Unknown",
-      "price": 14.32,
-      "changePct": 5.68,
+      "price": 13.59,
+      "changePct": 6.01,
       "changeDollar": 0.77
     },
     {
-      "ticker": "VG",
-      "name": "VENTURE GLOBAL INC COM CL A",
+      "ticker": "SKHZ",
+      "name": "Leverage Shares 1X Short SK Hynix Daily ETF",
       "sector": "Unknown",
-      "price": 13.84,
-      "changePct": 5.41,
-      "changeDollar": 0.71
+      "price": 11.82,
+      "changePct": 6.01,
+      "changeDollar": 0.67
+    },
+    {
+      "ticker": "UVXY",
+      "name": "ProShares Ultra VIX Short-Term Futures ETF",
+      "sector": "Unknown",
+      "price": 16.89,
+      "changePct": 5.96,
+      "changeDollar": 0.95
+    },
+    {
+      "ticker": "AZN",
+      "name": "ASTRAZENECA PLC ORD",
+      "sector": "Unknown",
+      "price": 162.39,
+      "changePct": 4.22,
+      "changeDollar": 6.57
     }
   ],
   "topLosers": [
     {
-      "ticker": "OMDA",
-      "name": "OMADA HEALTH INC COM",
+      "ticker": "COHX",
+      "name": "Tradr 2X Long COHR Daily ETF",
       "sector": "Unknown",
-      "price": 18.3,
-      "changePct": -16.32,
-      "changeDollar": -3.57
+      "price": 17.92,
+      "changePct": -18.36,
+      "changeDollar": -4.03
     },
     {
-      "ticker": "SNDX",
-      "name": "SYNDAX PHARMACEUTICALS INC COM",
+      "ticker": "ORCX",
+      "name": "TIDAL TRUST II DEFIANCE DAILY",
       "sector": "Unknown",
-      "price": 13.95,
-      "changePct": -15.71,
-      "changeDollar": -2.6
+      "price": 16.35,
+      "changePct": -17.63,
+      "changeDollar": -3.5
     },
     {
-      "ticker": "FUN",
-      "name": "SIX FLAGS ENTERTAINMENT CORP COM",
+      "ticker": "CRWV",
+      "name": "COREWEAVE INC COM CL A",
       "sector": "Unknown",
-      "price": 10.2,
-      "changePct": -14.43,
-      "changeDollar": -1.72
+      "price": 64.86,
+      "changePct": -16.64,
+      "changeDollar": -12.95
     },
     {
-      "ticker": "CDNL",
-      "name": "CARDINAL INFRASTRUCTURE GROUP CL A",
+      "ticker": "MVLL",
+      "name": "GRANITESHARES ETF TR 2X LONG MRVL",
       "sector": "Unknown",
-      "price": 18.62,
-      "changePct": -10.99,
-      "changeDollar": -2.3
+      "price": 31.68,
+      "changePct": -13.65,
+      "changeDollar": -5.01
     },
     {
-      "ticker": "PDFS",
-      "name": "PDF SOLUTIONS INC COM",
+      "ticker": "ARMG",
+      "name": "THEMES ETF TR LEVERAGE SHARES",
       "sector": "Unknown",
-      "price": 47.62,
-      "changePct": -9.62,
-      "changeDollar": -5.07
+      "price": 13.9,
+      "changePct": -13.4,
+      "changeDollar": -2.15
     },
     {
-      "ticker": "SMMT",
-      "name": "SUMMIT THERAPEUTICS INC COM",
+      "ticker": "SOXL",
+      "name": "DIREXION SHARES ETF TRUST DAI SEM BUL ETF",
       "sector": "Unknown",
-      "price": 15.52,
-      "changePct": -9.4,
+      "price": 110.63,
+      "changePct": -13.28,
+      "changeDollar": -16.94
+    },
+    {
+      "ticker": "CRCG",
+      "name": "THEMES ETF TR LEVERAGE SHS 2X",
+      "sector": "Unknown",
+      "price": 10.66,
+      "changePct": -13.12,
       "changeDollar": -1.61
     },
     {
-      "ticker": "RDTL",
-      "name": "GRANITESHARES ETF TR 2X LONG RDDT DA",
+      "ticker": "HNRG",
+      "name": "HALLADOR ENERGY COMPANY COM",
       "sector": "Unknown",
-      "price": 12.9,
-      "changePct": -8.64,
-      "changeDollar": -1.22
+      "price": 12.2,
+      "changePct": -12.54,
+      "changeDollar": -1.75
     },
     {
-      "ticker": "IONX",
-      "name": "TIDAL TRUST II DEF LON ION ETF",
+      "ticker": "AGQ",
+      "name": "PROSHARES TR II ULTRA SILVER NEW",
       "sector": "Unknown",
-      "price": 16.69,
-      "changePct": -8.55,
-      "changeDollar": -1.56
+      "price": 56.13,
+      "changePct": -12.46,
+      "changeDollar": -7.99
     },
     {
-      "ticker": "ANRO",
-      "name": "ALTO NEUROSCIENCE INC COM SHS",
+      "ticker": "SKUU",
+      "name": "GRANITESHARES ETF TR 2X LNG SK HYNIX",
       "sector": "Unknown",
-      "price": 22.09,
-      "changePct": -8.53,
-      "changeDollar": -2.06
-    },
-    {
-      "ticker": "SPCF",
-      "name": "PROSHARES TR ULTRA SPACEX",
-      "sector": "Unknown",
-      "price": 17.63,
-      "changePct": -8.42,
-      "changeDollar": -1.62
+      "price": 17.73,
+      "changePct": -12.4,
+      "changeDollar": -2.51
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "PARR",
-      "name": "PAR PAC HOLDINGS INC COM NEW",
+      "ticker": "LQDA",
+      "name": "LIQUIDIA CORPORATION COM NEW",
       "sector": "Unknown",
-      "price": 89.88,
-      "changePct": 8.13,
-      "changeDollar": 6.76
+      "price": 33.7,
+      "changePct": 25.7,
+      "changeDollar": 6.89
     },
     {
-      "ticker": "PBF",
-      "name": "PBF ENERGY INC CL A",
+      "ticker": "AZN",
+      "name": "ASTRAZENECA PLC ORD",
       "sector": "Unknown",
-      "price": 91.17,
-      "changePct": 7.23,
-      "changeDollar": 6.15
+      "price": 162.39,
+      "changePct": 4.22,
+      "changeDollar": 6.57
     },
     {
-      "ticker": "CNXC",
-      "name": "CONCENTRIX CORP COM",
+      "ticker": "DUST",
+      "name": "DIREXION SHARES ETF TRUST DAI GOL BEA ETF",
       "sector": "Unknown",
-      "price": 26.96,
-      "changePct": 5.85,
-      "changeDollar": 1.49
+      "price": 44.47,
+      "changePct": 10.57,
+      "changeDollar": 4.25
     },
     {
-      "ticker": "TBCH",
-      "name": "TURTLE BEACH CORP COM NEW",
+      "ticker": "TZA",
+      "name": "DIREXION SHARES ETF TRUST DAILY SMALL CAP",
       "sector": "Unknown",
-      "price": 14.53,
-      "changePct": 8.11,
-      "changeDollar": 1.09
+      "price": 51.54,
+      "changePct": 6.8,
+      "changeDollar": 3.28
     },
     {
-      "ticker": "SPCG",
-      "name": "Tradr 2X Short SpaceX Daily ETF",
+      "ticker": "IREZ",
+      "name": "Tradr 2X Short IREN Daily ETF",
       "sector": "Unknown",
-      "price": 13.37,
-      "changePct": 8.43,
-      "changeDollar": 1.04
+      "price": 16.14,
+      "changePct": 23.3,
+      "changeDollar": 3.05
     }
   ],
   "dollarLosers": [
     {
-      "ticker": "PDFS",
-      "name": "PDF SOLUTIONS INC COM",
+      "ticker": "SOXL",
+      "name": "DIREXION SHARES ETF TRUST DAI SEM BUL ETF",
       "sector": "Unknown",
-      "price": 47.62,
-      "changePct": -9.62,
-      "changeDollar": -5.07
+      "price": 110.63,
+      "changePct": -13.28,
+      "changeDollar": -16.94
     },
     {
-      "ticker": "OMDA",
-      "name": "OMADA HEALTH INC COM",
+      "ticker": "CRWV",
+      "name": "COREWEAVE INC COM CL A",
       "sector": "Unknown",
-      "price": 18.3,
-      "changePct": -16.32,
-      "changeDollar": -3.57
+      "price": 64.86,
+      "changePct": -16.64,
+      "changeDollar": -12.95
     },
     {
-      "ticker": "SNDX",
-      "name": "SYNDAX PHARMACEUTICALS INC COM",
+      "ticker": "AGQ",
+      "name": "PROSHARES TR II ULTRA SILVER NEW",
       "sector": "Unknown",
-      "price": 13.95,
-      "changePct": -15.71,
-      "changeDollar": -2.6
+      "price": 56.13,
+      "changePct": -12.46,
+      "changeDollar": -7.99
     },
     {
-      "ticker": "CDNL",
-      "name": "CARDINAL INFRASTRUCTURE GROUP CL A",
+      "ticker": "MVLL",
+      "name": "GRANITESHARES ETF TR 2X LONG MRVL",
       "sector": "Unknown",
-      "price": 18.62,
-      "changePct": -10.99,
-      "changeDollar": -2.3
+      "price": 31.68,
+      "changePct": -13.65,
+      "changeDollar": -5.01
     },
     {
-      "ticker": "ANRO",
-      "name": "ALTO NEUROSCIENCE INC COM SHS",
+      "ticker": "COHX",
+      "name": "Tradr 2X Long COHR Daily ETF",
       "sector": "Unknown",
-      "price": 22.09,
-      "changePct": -8.53,
-      "changeDollar": -2.06
+      "price": 17.92,
+      "changePct": -18.36,
+      "changeDollar": -4.03
     }
   ]
 }
