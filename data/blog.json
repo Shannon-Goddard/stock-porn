@@ -482,5 +482,27 @@
     "youtube_id": null,
     "images": [],
     "published": true
+  },
+  {
+    "id": 42,
+    "date": "2026-10-15",
+    "ticker": "LQDA",
+    "type": "CALL",
+    "trade_id": 42,
+    "title": "LQDA CALL \u2014 2026-10-15",
+    "youtube_id": null,
+    "images": [],
+    "published": true
+  },
+  {
+    "id": 43,
+    "date": "2026-10-15",
+    "ticker": "CRWV",
+    "type": "PUT",
+    "trade_id": 43,
+    "title": "CRWV PUT \u2014 2026-10-15",
+    "youtube_id": null,
+    "images": [],
+    "published": true
   }
 ]

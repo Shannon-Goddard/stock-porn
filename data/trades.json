@@ -2893,6 +2893,84 @@
       },
       "exit": null,
       "fomo": null
+    },
+    {
+      "id": 42,
+      "status": "open",
+      "entry": {
+        "date": "2026-10-15",
+        "time": "15:55 PST",
+        "ticker": "LQDA",
+        "name": "LIQUIDIA CORPORATION COM NEW",
+        "sector": "Unknown",
+        "type": "CALL",
+        "strike": 36.0,
+        "expiration": "2026-10-16",
+        "dte_at_entry": 1,
+        "T_at_entry": 0.00274,
+        "stock_price_at_entry": 33.94,
+        "premium": 0.7,
+        "cost": 70.0,
+        "bid": 0.45,
+        "spread": 0.25,
+        "iv_at_entry": 1.3223,
+        "otm_pct": 6.07,
+        "expected_move": {
+          "one_sigma_pct": 6.92,
+          "upper": 36.29,
+          "lower": 31.59,
+          "strike_position": "inside"
+        },
+        "signal_rank": "dollar_gainer_1",
+        "signal_pct": 26.59,
+        "signal_dollar": 7.13,
+        "spy_change": -1.08,
+        "macro_active": false,
+        "macro_keywords": [],
+        "auto_note": "LQDA CALL | $+7.13 (+26.59%) | dollar_gainer_1 | Strike $36.0 exp 2026-10-16 (1DTE) | IV 132.2% | SPY -1.08% | No macro triggers"
+      },
+      "news_scan": null,
+      "exit": null,
+      "fomo": null
+    },
+    {
+      "id": 43,
+      "status": "open",
+      "entry": {
+        "date": "2026-10-15",
+        "time": "15:55 PST",
+        "ticker": "CRWV",
+        "name": "COREWEAVE INC COM CL A",
+        "sector": "Unknown",
+        "type": "PUT",
+        "strike": 60.0,
+        "expiration": "2026-10-16",
+        "dte_at_entry": 1,
+        "T_at_entry": 0.00274,
+        "stock_price_at_entry": 65.78,
+        "premium": 0.57,
+        "cost": 57.0,
+        "bid": 0.55,
+        "spread": 0.02,
+        "iv_at_entry": 1.3106,
+        "otm_pct": 8.79,
+        "expected_move": {
+          "one_sigma_pct": 6.86,
+          "upper": 70.29,
+          "lower": 61.27,
+          "strike_position": "at_edge"
+        },
+        "signal_rank": "dollar_loser_1",
+        "signal_pct": -15.46,
+        "signal_dollar": -12.03,
+        "spy_change": -1.08,
+        "macro_active": false,
+        "macro_keywords": [],
+        "auto_note": "CRWV PUT | $-12.03 (-15.46%) | dollar_loser_1 | Strike $60.0 exp 2026-10-16 (1DTE) | IV 131.1% | SPY -1.08% | No macro triggers"
+      },
+      "news_scan": null,
+      "exit": null,
+      "fomo": null
     }
   ]
 }
