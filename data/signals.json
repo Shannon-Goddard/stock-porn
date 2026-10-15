@@ -17,60 +17,44 @@
       "changeDollar": 2.46
     },
     {
-      "ticker": "REAX",
-      "name": "REAL REMAX GROUP INC",
+      "ticker": "CRCA",
+      "name": "PROSHARES TR ULTRA CRCL NEW",
       "sector": "Unknown",
-      "price": 15.99,
-      "changePct": 17.57,
-      "changeDollar": 2.39
+      "price": 18.98,
+      "changePct": 17.82,
+      "changeDollar": 2.87
     },
     {
-      "ticker": "QNT",
-      "name": "QUANTINUUM INC CL A COM",
+      "ticker": "REAL",
+      "name": "THE REALREAL INC COM",
       "sector": "Unknown",
-      "price": 36.68,
-      "changePct": 11.05,
-      "changeDollar": 3.65
+      "price": 10.54,
+      "changePct": 15.82,
+      "changeDollar": 1.44
     },
     {
-      "ticker": "MAX",
-      "name": "MEDIAALPHA INC CL A",
+      "ticker": "KRMN",
+      "name": "KARMAN HLDGS INC COMMON STOCK",
       "sector": "Unknown",
-      "price": 11.68,
-      "changePct": 9.77,
-      "changeDollar": 1.04
+      "price": 33.9,
+      "changePct": 12.48,
+      "changeDollar": 3.76
     },
     {
-      "ticker": "IONQ",
-      "name": "IONQ INC COM",
+      "ticker": "INTA",
+      "name": "INTAPP INC COM",
       "sector": "Unknown",
-      "price": 34.35,
-      "changePct": 9.33,
-      "changeDollar": 2.93
+      "price": 43.63,
+      "changePct": 10.32,
+      "changeDollar": 4.08
     },
     {
-      "ticker": "WIX",
-      "name": "WIX COM LTD SHS",
+      "ticker": "BMNU",
+      "name": "T-REX 2X Long BMNR Daily Target ETF",
       "sector": "Unknown",
-      "price": 81.14,
-      "changePct": 9.19,
-      "changeDollar": 6.83
-    },
-    {
-      "ticker": "BOBS",
-      "name": "BOBS DISC FURNITURE INC COM SHS",
-      "sector": "Unknown",
-      "price": 14.78,
-      "changePct": 9.16,
-      "changeDollar": 1.24
-    },
-    {
-      "ticker": "SMG",
-      "name": "SCOTTS MIRACLE-GRO CO CL A",
-      "sector": "Unknown",
-      "price": 54.25,
-      "changePct": 9.11,
-      "changeDollar": 4.53
+      "price": 15.9,
+      "changePct": 9.43,
+      "changeDollar": 1.37
     },
     {
       "ticker": "ARHS",
@@ -79,16 +63,32 @@
       "price": 10.13,
       "changePct": 8.92,
       "changeDollar": 0.83
+    },
+    {
+      "ticker": "PAG",
+      "name": "PENSKE AUTOMOTIVE GRP INC COM",
+      "sector": "Unknown",
+      "price": 212.0,
+      "changePct": 8.84,
+      "changeDollar": 17.21
+    },
+    {
+      "ticker": "UPST",
+      "name": "UPSTART HLDGS INC COM",
+      "sector": "Unknown",
+      "price": 24.75,
+      "changePct": 8.84,
+      "changeDollar": 2.01
     }
   ],
   "topLosers": [
     {
-      "ticker": "DLLL",
-      "name": "GRANITESHARES ETF TR 2X LONG DELL ETF",
+      "ticker": "VICR",
+      "name": "VICOR CORP COM",
       "sector": "Unknown",
-      "price": 24.47,
-      "changePct": -13.59,
-      "changeDollar": -3.85
+      "price": 219.92,
+      "changePct": -10.36,
+      "changeDollar": -25.43
     },
     {
       "ticker": "COHX",
@@ -99,14 +99,6 @@
       "changeDollar": -1.84
     },
     {
-      "ticker": "SMTC",
-      "name": "SEMTECH CORP COM",
-      "sector": "Unknown",
-      "price": 144.21,
-      "changePct": -10.01,
-      "changeDollar": -16.05
-    },
-    {
       "ticker": "JDST",
       "name": "DIREXION SHARES ETF TRUST DAILY JUNIOR GOL",
       "sector": "Unknown",
@@ -115,86 +107,94 @@
       "changeDollar": -2.63
     },
     {
-      "ticker": "LBRT",
-      "name": "LIBERTY ENERGY INC COM CL A",
+      "ticker": "TH",
+      "name": "TARGET HOSPITALITY CORP COM",
       "sector": "Unknown",
-      "price": 16.7,
-      "changePct": -7.33,
-      "changeDollar": -1.32
+      "price": 16.02,
+      "changePct": -7.18,
+      "changeDollar": -1.24
     },
     {
-      "ticker": "LSCC",
-      "name": "LATTICE SEMICONDUCTOR CORP COM",
+      "ticker": "HPE",
+      "name": "HEWLETT PACKARD ENTERPRISE CO COM",
       "sector": "Unknown",
-      "price": 107.09,
-      "changePct": -6.88,
-      "changeDollar": -7.91
+      "price": 58.63,
+      "changePct": -7.1,
+      "changeDollar": -4.48
     },
     {
-      "ticker": "AESI",
-      "name": "ATLAS ENERGY SOLUTIONS INC COM NEW",
+      "ticker": "DELL",
+      "name": "DELL TECHNOLOGIES INC CL C",
       "sector": "Unknown",
-      "price": 10.31,
-      "changePct": -6.87,
-      "changeDollar": -0.76
+      "price": 473.39,
+      "changePct": -6.8,
+      "changeDollar": -34.54
     },
     {
-      "ticker": "ECO",
-      "name": "OKEANIS ECO TANKERS COR SHS",
+      "ticker": "P",
+      "name": "EVERPURE INC CL A",
       "sector": "Unknown",
-      "price": 89.18,
-      "changePct": -6.77,
-      "changeDollar": -6.48
+      "price": 133.4,
+      "changePct": -5.72,
+      "changeDollar": -8.09
     },
     {
-      "ticker": "RKLB",
-      "name": "ROCKET LAB CORP COM",
+      "ticker": "INTW",
+      "name": "GRANITESHARES ETF TR 2X LONG INTC ETF",
       "sector": "Unknown",
-      "price": 55.25,
-      "changePct": -6.64,
-      "changeDollar": -3.93
+      "price": 19.41,
+      "changePct": -5.69,
+      "changeDollar": -1.17
     },
     {
-      "ticker": "FRVO",
-      "name": "FERVO ENERGY CO CL A COM",
+      "ticker": "CMBT",
+      "name": "CMB.TECH NV SHS",
       "sector": "Unknown",
-      "price": 10.26,
-      "changePct": -6.22,
-      "changeDollar": -0.68
+      "price": 17.92,
+      "changePct": -5.63,
+      "changeDollar": -1.07
+    },
+    {
+      "ticker": "GEO",
+      "name": "GEO GROUP INC COM",
+      "sector": "Unknown",
+      "price": 29.33,
+      "changePct": -4.8,
+      "changeDollar": -1.48
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "WIX",
-      "name": "WIX COM LTD SHS",
+      "ticker": "PAG",
+      "name": "PENSKE AUTOMOTIVE GRP INC COM",
       "sector": "Unknown",
-      "price": 81.14,
-      "changePct": 9.19,
-      "changeDollar": 6.83
+      "price": 212.0,
+      "changePct": 8.84,
+      "changeDollar": 17.21
     },
     {
-      "ticker": "SMG",
-      "name": "SCOTTS MIRACLE-GRO CO CL A",
+      "ticker": "INTA",
+      "name": "INTAPP INC COM",
       "sector": "Unknown",
-      "price": 54.25,
-      "changePct": 9.11,
-      "changeDollar": 4.53
+      "price": 43.63,
+      "changePct": 10.32,
+      "changeDollar": 4.08
     },
     {
-      "ticker": "QNT",
-      "name": "QUANTINUUM INC CL A COM",
+      "ticker": "KRMN",
+      "name": "KARMAN HLDGS INC COMMON STOCK",
       "sector": "Unknown",
-      "price": 36.68,
-      "changePct": 11.05,
-      "changeDollar": 3.65
+      "price": 33.9,
+      "changePct": 12.48,
+      "changeDollar": 3.76
     },
     {
-      "ticker": "IONQ",
-      "name": "IONQ INC COM",
+      "ticker": "CRCA",
+      "name": "PROSHARES TR ULTRA CRCL NEW",
       "sector": "Unknown",
-      "price": 34.35,
-      "changePct": 9.33,
-      "changeDollar": 2.93
+      "price": 18.98,
+      "changePct": 17.82,
+      "changeDollar": 2.87
     },
     {
       "ticker": "BETR",
@@ -207,44 +207,44 @@
   ],
   "dollarLosers": [
     {
-      "ticker": "SMTC",
-      "name": "SEMTECH CORP COM",
+      "ticker": "DELL",
+      "name": "DELL TECHNOLOGIES INC CL C",
       "sector": "Unknown",
-      "price": 144.21,
-      "changePct": -10.01,
-      "changeDollar": -16.05
+      "price": 473.39,
+      "changePct": -6.8,
+      "changeDollar": -34.54
     },
     {
-      "ticker": "LSCC",
-      "name": "LATTICE SEMICONDUCTOR CORP COM",
+      "ticker": "VICR",
+      "name": "VICOR CORP COM",
       "sector": "Unknown",
-      "price": 107.09,
-      "changePct": -6.88,
-      "changeDollar": -7.91
+      "price": 219.92,
+      "changePct": -10.36,
+      "changeDollar": -25.43
     },
     {
-      "ticker": "ECO",
-      "name": "OKEANIS ECO TANKERS COR SHS",
+      "ticker": "P",
+      "name": "EVERPURE INC CL A",
       "sector": "Unknown",
-      "price": 89.18,
-      "changePct": -6.77,
-      "changeDollar": -6.48
+      "price": 133.4,
+      "changePct": -5.72,
+      "changeDollar": -8.09
     },
     {
-      "ticker": "RKLB",
-      "name": "ROCKET LAB CORP COM",
+      "ticker": "HPE",
+      "name": "HEWLETT PACKARD ENTERPRISE CO COM",
       "sector": "Unknown",
-      "price": 55.25,
-      "changePct": -6.64,
-      "changeDollar": -3.93
+      "price": 58.63,
+      "changePct": -7.1,
+      "changeDollar": -4.48
     },
     {
-      "ticker": "DLLL",
-      "name": "GRANITESHARES ETF TR 2X LONG DELL ETF",
+      "ticker": "JDST",
+      "name": "DIREXION SHARES ETF TRUST DAILY JUNIOR GOL",
       "sector": "Unknown",
-      "price": 24.47,
-      "changePct": -13.59,
-      "changeDollar": -3.85
+      "price": 26.78,
+      "changePct": -8.94,
+      "changeDollar": -2.63
     }
   ]
 }
