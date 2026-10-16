@@ -1,250 +1,250 @@
 {
   "topGainers": [
     {
-      "ticker": "BETR",
-      "name": "BETTER HOME & FINANCE HOLDING COM NEW CL A",
+      "ticker": "NBIZ",
+      "name": "Tradr 2X Short NBIS Daily ETF",
       "sector": "Unknown",
-      "price": 10.76,
-      "changePct": 32.51,
-      "changeDollar": 2.64
+      "price": 36.33,
+      "changePct": 22.41,
+      "changeDollar": 6.65
+    },
+    {
+      "ticker": "IREZ",
+      "name": "Tradr 2X Short IREN Daily ETF",
+      "sector": "Unknown",
+      "price": 19.73,
+      "changePct": 19.94,
+      "changeDollar": 3.28
+    },
+    {
+      "ticker": "AAOZ",
+      "name": "Tradr 2X Short AAOI Daily ETF",
+      "sector": "Unknown",
+      "price": 19.2,
+      "changePct": 16.93,
+      "changeDollar": 2.78
+    },
+    {
+      "ticker": "SKDD",
+      "name": "GRANITESHARES ETF TR 2X SRT SK HYNIX",
+      "sector": "Unknown",
+      "price": 12.06,
+      "changePct": 12.08,
+      "changeDollar": 1.3
+    },
+    {
+      "ticker": "RAMZ",
+      "name": "T-REX 2X Inverse DRAM Daily Target ETF",
+      "sector": "Unknown",
+      "price": 22.07,
+      "changePct": 9.64,
+      "changeDollar": 1.94
+    },
+    {
+      "ticker": "SQQQ",
+      "name": "PROSHARES TR ULTRAPRO SHORT",
+      "sector": "Unknown",
+      "price": 38.64,
+      "changePct": 6.92,
+      "changeDollar": 2.5
+    },
+    {
+      "ticker": "MTDR",
+      "name": "MATADOR RES CO COM",
+      "sector": "Unknown",
+      "price": 57.07,
+      "changePct": 6.14,
+      "changeDollar": 3.3
+    },
+    {
+      "ticker": "TSLZ",
+      "name": "T-Rex 2X Inverse Tesla Daily Target ETF",
+      "sector": "Unknown",
+      "price": 12.32,
+      "changePct": 6.12,
+      "changeDollar": 0.71
+    },
+    {
+      "ticker": "ETHD",
+      "name": "PROSHARES TR ULTRA ETHER ETF",
+      "sector": "Unknown",
+      "price": 30.35,
+      "changePct": 4.76,
+      "changeDollar": 1.38
+    },
+    {
+      "ticker": "AA",
+      "name": "ALCOA CORP COM",
+      "sector": "Unknown",
+      "price": 42.24,
+      "changePct": 4.5,
+      "changeDollar": 1.82
+    }
+  ],
+  "topLosers": [
+    {
+      "ticker": "AXTX",
+      "name": "Tradr 2X Long AXTI Daily ETF",
+      "sector": "Unknown",
+      "price": 14.7,
+      "changePct": -19.89,
+      "changeDollar": -3.65
     },
     {
       "ticker": "IONX",
       "name": "TIDAL TRUST II DEF LON ION ETF",
       "sector": "Unknown",
-      "price": 15.95,
-      "changePct": 18.24,
-      "changeDollar": 2.46
+      "price": 13.34,
+      "changePct": -16.36,
+      "changeDollar": -2.61
     },
     {
-      "ticker": "CRCA",
-      "name": "PROSHARES TR ULTRA CRCL NEW",
+      "ticker": "DOCN",
+      "name": "DIGITALOCEAN HLDGS INC COM",
       "sector": "Unknown",
-      "price": 18.98,
-      "changePct": 17.82,
-      "changeDollar": 2.87
+      "price": 96.47,
+      "changePct": -11.88,
+      "changeDollar": -13.0
     },
     {
-      "ticker": "REAL",
-      "name": "THE REALREAL INC COM",
+      "ticker": "SVIX",
+      "name": "-1x Short VIX Futures ETF",
       "sector": "Unknown",
-      "price": 10.54,
-      "changePct": 15.82,
-      "changeDollar": 1.44
+      "price": 25.97,
+      "changePct": -11.7,
+      "changeDollar": -3.44
     },
     {
-      "ticker": "KRMN",
-      "name": "KARMAN HLDGS INC COMMON STOCK",
+      "ticker": "QMCO",
+      "name": "QUANTUM CORP COM",
       "sector": "Unknown",
-      "price": 33.9,
-      "changePct": 12.48,
-      "changeDollar": 3.76
+      "price": 19.12,
+      "changePct": -11.52,
+      "changeDollar": -2.49
     },
     {
-      "ticker": "INTA",
-      "name": "INTAPP INC COM",
+      "ticker": "FOXF",
+      "name": "FOX FACTORY HLDG CORP COM",
       "sector": "Unknown",
-      "price": 43.63,
-      "changePct": 10.32,
-      "changeDollar": 4.08
+      "price": 16.43,
+      "changePct": -11.19,
+      "changeDollar": -2.07
     },
     {
-      "ticker": "BMNU",
-      "name": "T-REX 2X Long BMNR Daily Target ETF",
+      "ticker": "GRAL",
+      "name": "GRAIL INC COM",
       "sector": "Unknown",
-      "price": 15.9,
-      "changePct": 9.43,
-      "changeDollar": 1.37
+      "price": 120.59,
+      "changePct": -10.98,
+      "changeDollar": -14.87
     },
     {
-      "ticker": "ARHS",
-      "name": "ARHAUS INC COM CL A",
+      "ticker": "SHAZ",
+      "name": "SHARONAI HOLDINGS INC COM CL A",
       "sector": "Unknown",
-      "price": 10.13,
-      "changePct": 8.92,
-      "changeDollar": 0.83
+      "price": 27.65,
+      "changePct": -10.89,
+      "changeDollar": -3.38
     },
     {
-      "ticker": "PAG",
-      "name": "PENSKE AUTOMOTIVE GRP INC COM",
+      "ticker": "ERAS",
+      "name": "ERASCA INC COM",
       "sector": "Unknown",
-      "price": 212.0,
-      "changePct": 8.84,
-      "changeDollar": 17.21
+      "price": 13.31,
+      "changePct": -10.49,
+      "changeDollar": -1.56
     },
     {
-      "ticker": "UPST",
-      "name": "UPSTART HLDGS INC COM",
+      "ticker": "WYFI",
+      "name": "WHITEFIBER INC SHS",
       "sector": "Unknown",
-      "price": 24.75,
-      "changePct": 8.84,
-      "changeDollar": 2.01
-    }
-  ],
-  "topLosers": [
-    {
-      "ticker": "VICR",
-      "name": "VICOR CORP COM",
-      "sector": "Unknown",
-      "price": 219.92,
-      "changePct": -10.36,
-      "changeDollar": -25.43
-    },
-    {
-      "ticker": "COHX",
-      "name": "Tradr 2X Long COHR Daily ETF",
-      "sector": "Unknown",
-      "price": 16.07,
-      "changePct": -10.27,
-      "changeDollar": -1.84
-    },
-    {
-      "ticker": "JDST",
-      "name": "DIREXION SHARES ETF TRUST DAILY JUNIOR GOL",
-      "sector": "Unknown",
-      "price": 26.78,
-      "changePct": -8.94,
-      "changeDollar": -2.63
-    },
-    {
-      "ticker": "TH",
-      "name": "TARGET HOSPITALITY CORP COM",
-      "sector": "Unknown",
-      "price": 16.02,
-      "changePct": -7.18,
-      "changeDollar": -1.24
-    },
-    {
-      "ticker": "HPE",
-      "name": "HEWLETT PACKARD ENTERPRISE CO COM",
-      "sector": "Unknown",
-      "price": 58.63,
-      "changePct": -7.1,
-      "changeDollar": -4.48
-    },
-    {
-      "ticker": "DELL",
-      "name": "DELL TECHNOLOGIES INC CL C",
-      "sector": "Unknown",
-      "price": 473.39,
-      "changePct": -6.8,
-      "changeDollar": -34.54
-    },
-    {
-      "ticker": "P",
-      "name": "EVERPURE INC CL A",
-      "sector": "Unknown",
-      "price": 133.4,
-      "changePct": -5.72,
-      "changeDollar": -8.09
-    },
-    {
-      "ticker": "INTW",
-      "name": "GRANITESHARES ETF TR 2X LONG INTC ETF",
-      "sector": "Unknown",
-      "price": 19.41,
-      "changePct": -5.69,
-      "changeDollar": -1.17
-    },
-    {
-      "ticker": "CMBT",
-      "name": "CMB.TECH NV SHS",
-      "sector": "Unknown",
-      "price": 17.92,
-      "changePct": -5.63,
-      "changeDollar": -1.07
-    },
-    {
-      "ticker": "GEO",
-      "name": "GEO GROUP INC COM",
-      "sector": "Unknown",
-      "price": 29.33,
-      "changePct": -4.8,
-      "changeDollar": -1.48
+      "price": 11.68,
+      "changePct": -10.22,
+      "changeDollar": -1.33
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "PAG",
-      "name": "PENSKE AUTOMOTIVE GRP INC COM",
+      "ticker": "NBIZ",
+      "name": "Tradr 2X Short NBIS Daily ETF",
       "sector": "Unknown",
-      "price": 212.0,
-      "changePct": 8.84,
-      "changeDollar": 17.21
+      "price": 36.33,
+      "changePct": 22.41,
+      "changeDollar": 6.65
     },
     {
-      "ticker": "INTA",
-      "name": "INTAPP INC COM",
+      "ticker": "MTDR",
+      "name": "MATADOR RES CO COM",
       "sector": "Unknown",
-      "price": 43.63,
-      "changePct": 10.32,
-      "changeDollar": 4.08
+      "price": 57.07,
+      "changePct": 6.14,
+      "changeDollar": 3.3
     },
     {
-      "ticker": "KRMN",
-      "name": "KARMAN HLDGS INC COMMON STOCK",
+      "ticker": "IREZ",
+      "name": "Tradr 2X Short IREN Daily ETF",
       "sector": "Unknown",
-      "price": 33.9,
-      "changePct": 12.48,
-      "changeDollar": 3.76
+      "price": 19.73,
+      "changePct": 19.94,
+      "changeDollar": 3.28
     },
     {
-      "ticker": "CRCA",
-      "name": "PROSHARES TR ULTRA CRCL NEW",
+      "ticker": "AAOZ",
+      "name": "Tradr 2X Short AAOI Daily ETF",
       "sector": "Unknown",
-      "price": 18.98,
-      "changePct": 17.82,
-      "changeDollar": 2.87
+      "price": 19.2,
+      "changePct": 16.93,
+      "changeDollar": 2.78
     },
     {
-      "ticker": "BETR",
-      "name": "BETTER HOME & FINANCE HOLDING COM NEW CL A",
+      "ticker": "SQQQ",
+      "name": "PROSHARES TR ULTRAPRO SHORT",
       "sector": "Unknown",
-      "price": 10.76,
-      "changePct": 32.51,
-      "changeDollar": 2.64
+      "price": 38.64,
+      "changePct": 6.92,
+      "changeDollar": 2.5
     }
   ],
   "dollarLosers": [
     {
-      "ticker": "DELL",
-      "name": "DELL TECHNOLOGIES INC CL C",
+      "ticker": "GRAL",
+      "name": "GRAIL INC COM",
       "sector": "Unknown",
-      "price": 473.39,
-      "changePct": -6.8,
-      "changeDollar": -34.54
+      "price": 120.59,
+      "changePct": -10.98,
+      "changeDollar": -14.87
     },
     {
-      "ticker": "VICR",
-      "name": "VICOR CORP COM",
+      "ticker": "DOCN",
+      "name": "DIGITALOCEAN HLDGS INC COM",
       "sector": "Unknown",
-      "price": 219.92,
-      "changePct": -10.36,
-      "changeDollar": -25.43
+      "price": 96.47,
+      "changePct": -11.88,
+      "changeDollar": -13.0
     },
     {
-      "ticker": "P",
-      "name": "EVERPURE INC CL A",
+      "ticker": "AXTX",
+      "name": "Tradr 2X Long AXTI Daily ETF",
       "sector": "Unknown",
-      "price": 133.4,
-      "changePct": -5.72,
-      "changeDollar": -8.09
+      "price": 14.7,
+      "changePct": -19.89,
+      "changeDollar": -3.65
     },
     {
-      "ticker": "HPE",
-      "name": "HEWLETT PACKARD ENTERPRISE CO COM",
+      "ticker": "SVIX",
+      "name": "-1x Short VIX Futures ETF",
       "sector": "Unknown",
-      "price": 58.63,
-      "changePct": -7.1,
-      "changeDollar": -4.48
+      "price": 25.97,
+      "changePct": -11.7,
+      "changeDollar": -3.44
     },
     {
-      "ticker": "JDST",
-      "name": "DIREXION SHARES ETF TRUST DAILY JUNIOR GOL",
+      "ticker": "SHAZ",
+      "name": "SHARONAI HOLDINGS INC COM CL A",
       "sector": "Unknown",
-      "price": 26.78,
-      "changePct": -8.94,
-      "changeDollar": -2.63
+      "price": 27.65,
+      "changePct": -10.89,
+      "changeDollar": -3.38
     }
   ]
 }
