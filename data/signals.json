@@ -1,250 +1,250 @@
 {
   "topGainers": [
     {
-      "ticker": "IRON",
-      "name": "DISC MEDICINE INC COM",
+      "ticker": "ARQT",
+      "name": "ARCUTIS BIOTHERAPEUTICS INC COM",
       "sector": "Unknown",
-      "price": 77.88,
-      "changePct": 37.02,
-      "changeDollar": 21.04
-    },
-    {
-      "ticker": "CLF",
-      "name": "CLEVELAND-CLIFFS INC NEW COM",
-      "sector": "Unknown",
-      "price": 14.24,
-      "changePct": 17.49,
-      "changeDollar": 2.12
-    },
-    {
-      "ticker": "AXTI",
-      "name": "AXT INC COM",
-      "sector": "Unknown",
-      "price": 56.78,
-      "changePct": 10.32,
-      "changeDollar": 5.31
-    },
-    {
-      "ticker": "AGIO",
-      "name": "AGIOS PHARMACEUTICALS INC COM",
-      "sector": "Unknown",
-      "price": 34.4,
-      "changePct": 9.83,
-      "changeDollar": 3.08
-    },
-    {
-      "ticker": "PLTU",
-      "name": "DIREXION SHARES ETF TRUST DLY PLTR BULL 2X",
-      "sector": "Unknown",
-      "price": 59.92,
-      "changePct": 9.32,
-      "changeDollar": 5.11
-    },
-    {
-      "ticker": "SKUU",
-      "name": "GRANITESHARES ETF TR 2X LNG SK HYNIX",
-      "sector": "Unknown",
-      "price": 16.45,
-      "changePct": 9.3,
-      "changeDollar": 1.4
-    },
-    {
-      "ticker": "GLUE",
-      "name": "MONTE ROSA THERAPEUTICS INC COM",
-      "sector": "Unknown",
-      "price": 10.62,
-      "changePct": 9.03,
-      "changeDollar": 0.88
+      "price": 31.89,
+      "changePct": 10.65,
+      "changeDollar": 3.07
     },
     {
       "ticker": "VRDN",
       "name": "VIRIDIAN THERAPEUTICS INC COM",
       "sector": "Unknown",
-      "price": 20.58,
-      "changePct": 8.15,
-      "changeDollar": 1.55
+      "price": 20.8,
+      "changePct": 9.3,
+      "changeDollar": 1.77
     },
     {
-      "ticker": "LBRX",
-      "name": "LB PHARMACEUTICALS INC COM SHS",
+      "ticker": "HPK",
+      "name": "HIGHPEAK ENERGY INC COM",
       "sector": "Unknown",
-      "price": 39.34,
-      "changePct": 7.08,
-      "changeDollar": 2.6
+      "price": 11.39,
+      "changePct": 7.96,
+      "changeDollar": 0.84
     },
     {
-      "ticker": "CDNL",
-      "name": "CARDINAL INFRASTRUCTURE GROUP CL A",
+      "ticker": "FROG",
+      "name": "JFROG LTD ORD SHS",
       "sector": "Unknown",
-      "price": 15.64,
-      "changePct": 6.98,
-      "changeDollar": 1.02
+      "price": 91.0,
+      "changePct": 7.94,
+      "changeDollar": 6.69
+    },
+    {
+      "ticker": "TSLR",
+      "name": "GRANITESHARES ETF TR 2X LONG TSLA ETF",
+      "sector": "Unknown",
+      "price": 16.66,
+      "changePct": 7.55,
+      "changeDollar": 1.17
+    },
+    {
+      "ticker": "PHVS",
+      "name": "PHARVARIS N V COM",
+      "sector": "Unknown",
+      "price": 29.77,
+      "changePct": 7.32,
+      "changeDollar": 2.03
+    },
+    {
+      "ticker": "XERS",
+      "name": "XERIS BIOPHARMA HOLDINGS INC COM",
+      "sector": "Unknown",
+      "price": 10.95,
+      "changePct": 6.21,
+      "changeDollar": 0.64
+    },
+    {
+      "ticker": "WDC",
+      "name": "WESTERN DIGITAL CORP COM",
+      "sector": "Unknown",
+      "price": 352.21,
+      "changePct": 6.09,
+      "changeDollar": 20.21
+    },
+    {
+      "ticker": "SYRE",
+      "name": "SPYRE THERAPEUTICS INC COM NEW",
+      "sector": "Unknown",
+      "price": 84.72,
+      "changePct": 6.03,
+      "changeDollar": 4.82
+    },
+    {
+      "ticker": "SLGN",
+      "name": "SILGAN HLDGS INC COM",
+      "sector": "Unknown",
+      "price": 40.06,
+      "changePct": 5.98,
+      "changeDollar": 2.26
     }
   ],
   "topLosers": [
     {
-      "ticker": "RAMZ",
-      "name": "T-REX 2X Inverse DRAM Daily Target ETF",
+      "ticker": "AXTQ",
+      "name": "Tradr 2X Short AXTI Daily ETF",
       "sector": "Unknown",
-      "price": 20.65,
-      "changePct": -8.1,
-      "changeDollar": -1.82
-    },
-    {
-      "ticker": "FOXF",
-      "name": "FOX FACTORY HLDG CORP COM",
-      "sector": "Unknown",
-      "price": 14.84,
-      "changePct": -7.48,
-      "changeDollar": -1.2
+      "price": 36.81,
+      "changePct": -20.67,
+      "changeDollar": -9.59
     },
     {
       "ticker": "WERN",
       "name": "WERNER ENTERPRISES INC COM",
       "sector": "Unknown",
-      "price": 30.59,
-      "changePct": -6.77,
-      "changeDollar": -2.22
+      "price": 30.22,
+      "changePct": -7.89,
+      "changeDollar": -2.59
     },
     {
-      "ticker": "WHR",
-      "name": "WHIRLPOOL CORP COM",
+      "ticker": "QXO",
+      "name": "QXO INC COM NEW",
       "sector": "Unknown",
-      "price": 26.12,
-      "changePct": -6.31,
-      "changeDollar": -1.76
-    },
-    {
-      "ticker": "ARR",
-      "name": "ARMOUR RESIDENTIAL REIT INC COM SHS",
-      "sector": "Unknown",
-      "price": 12.38,
-      "changePct": -6.21,
-      "changeDollar": -0.82
+      "price": 10.14,
+      "changePct": -6.63,
+      "changeDollar": -0.72
     },
     {
       "ticker": "AVEX",
       "name": "AEVEX CORP COM CL A",
       "sector": "Unknown",
-      "price": 14.42,
-      "changePct": -6.12,
-      "changeDollar": -0.94
-    },
-    {
-      "ticker": "RBA",
-      "name": "RB GLOBAL INC COM",
-      "sector": "Unknown",
-      "price": 79.25,
-      "changePct": -5.99,
-      "changeDollar": -5.05
+      "price": 14.49,
+      "changePct": -5.66,
+      "changeDollar": -0.87
     },
     {
       "ticker": "SOXS",
       "name": "DIREXION SHARES ETF TRUST DAI SEM 3X ETF",
       "sector": "Unknown",
-      "price": 46.34,
-      "changePct": -5.87,
-      "changeDollar": -2.89
+      "price": 46.63,
+      "changePct": -5.28,
+      "changeDollar": -2.6
     },
     {
-      "ticker": "PBF",
-      "name": "PBF ENERGY INC CL A",
+      "ticker": "NAIL",
+      "name": "DIREXION SHARES ETF TRUST DAIL HO SUPP ETF",
       "sector": "Unknown",
-      "price": 80.33,
-      "changePct": -4.96,
-      "changeDollar": -4.19
+      "price": 25.76,
+      "changePct": -4.98,
+      "changeDollar": -1.35
     },
     {
-      "ticker": "BLSH",
-      "name": "BULLISH ORD SHS",
+      "ticker": "NMRK",
+      "name": "NEWMARK GROUP INC CL A",
       "sector": "Unknown",
-      "price": 28.07,
-      "changePct": -4.82,
-      "changeDollar": -1.42
+      "price": 11.3,
+      "changePct": -4.72,
+      "changeDollar": -0.56
+    },
+    {
+      "ticker": "USAR",
+      "name": "USA RARE EARTH INC COM",
+      "sector": "Unknown",
+      "price": 10.09,
+      "changePct": -4.27,
+      "changeDollar": -0.45
+    },
+    {
+      "ticker": "KBWD",
+      "name": "INVESCO EXCHANGE-TRADED FD TR KBW HIG DV YLD",
+      "sector": "Unknown",
+      "price": 10.07,
+      "changePct": -3.82,
+      "changeDollar": -0.4
+    },
+    {
+      "ticker": "THO",
+      "name": "THOR INDS INC COM",
+      "sector": "Unknown",
+      "price": 65.86,
+      "changePct": -3.77,
+      "changeDollar": -2.58
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "IRON",
-      "name": "DISC MEDICINE INC COM",
+      "ticker": "WDC",
+      "name": "WESTERN DIGITAL CORP COM",
       "sector": "Unknown",
-      "price": 77.88,
-      "changePct": 37.02,
-      "changeDollar": 21.04
+      "price": 352.21,
+      "changePct": 6.09,
+      "changeDollar": 20.21
     },
     {
-      "ticker": "AXTI",
-      "name": "AXT INC COM",
+      "ticker": "FROG",
+      "name": "JFROG LTD ORD SHS",
       "sector": "Unknown",
-      "price": 56.78,
-      "changePct": 10.32,
-      "changeDollar": 5.31
+      "price": 91.0,
+      "changePct": 7.94,
+      "changeDollar": 6.69
     },
     {
-      "ticker": "PLTU",
-      "name": "DIREXION SHARES ETF TRUST DLY PLTR BULL 2X",
+      "ticker": "SYRE",
+      "name": "SPYRE THERAPEUTICS INC COM NEW",
       "sector": "Unknown",
-      "price": 59.92,
-      "changePct": 9.32,
-      "changeDollar": 5.11
+      "price": 84.72,
+      "changePct": 6.03,
+      "changeDollar": 4.82
     },
     {
-      "ticker": "AGIO",
-      "name": "AGIOS PHARMACEUTICALS INC COM",
+      "ticker": "ARQT",
+      "name": "ARCUTIS BIOTHERAPEUTICS INC COM",
       "sector": "Unknown",
-      "price": 34.4,
-      "changePct": 9.83,
-      "changeDollar": 3.08
+      "price": 31.89,
+      "changePct": 10.65,
+      "changeDollar": 3.07
     },
     {
-      "ticker": "LBRX",
-      "name": "LB PHARMACEUTICALS INC COM SHS",
+      "ticker": "SLGN",
+      "name": "SILGAN HLDGS INC COM",
       "sector": "Unknown",
-      "price": 39.34,
-      "changePct": 7.08,
-      "changeDollar": 2.6
+      "price": 40.06,
+      "changePct": 5.98,
+      "changeDollar": 2.26
     }
   ],
   "dollarLosers": [
     {
-      "ticker": "RBA",
-      "name": "RB GLOBAL INC COM",
+      "ticker": "AXTQ",
+      "name": "Tradr 2X Short AXTI Daily ETF",
       "sector": "Unknown",
-      "price": 79.25,
-      "changePct": -5.99,
-      "changeDollar": -5.05
-    },
-    {
-      "ticker": "PBF",
-      "name": "PBF ENERGY INC CL A",
-      "sector": "Unknown",
-      "price": 80.33,
-      "changePct": -4.96,
-      "changeDollar": -4.19
+      "price": 36.81,
+      "changePct": -20.67,
+      "changeDollar": -9.59
     },
     {
       "ticker": "SOXS",
       "name": "DIREXION SHARES ETF TRUST DAI SEM 3X ETF",
       "sector": "Unknown",
-      "price": 46.34,
-      "changePct": -5.87,
-      "changeDollar": -2.89
+      "price": 46.63,
+      "changePct": -5.28,
+      "changeDollar": -2.6
     },
     {
       "ticker": "WERN",
       "name": "WERNER ENTERPRISES INC COM",
       "sector": "Unknown",
-      "price": 30.59,
-      "changePct": -6.77,
-      "changeDollar": -2.22
+      "price": 30.22,
+      "changePct": -7.89,
+      "changeDollar": -2.59
     },
     {
-      "ticker": "RAMZ",
-      "name": "T-REX 2X Inverse DRAM Daily Target ETF",
+      "ticker": "THO",
+      "name": "THOR INDS INC COM",
       "sector": "Unknown",
-      "price": 20.65,
-      "changePct": -8.1,
-      "changeDollar": -1.82
+      "price": 65.86,
+      "changePct": -3.77,
+      "changeDollar": -2.58
+    },
+    {
+      "ticker": "NAIL",
+      "name": "DIREXION SHARES ETF TRUST DAIL HO SUPP ETF",
+      "sector": "Unknown",
+      "price": 25.76,
+      "changePct": -4.98,
+      "changeDollar": -1.35
     }
   ]
 }
