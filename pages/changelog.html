@@ -242,6 +242,77 @@
       </div>
     </div>
 
+    <!-- V2.1 BUGS -->
+    <div class="entry">
+      <div class="entry-header">
+        <div style="display:flex;align-items:center;gap:0.6rem">
+          <span class="entry-title">v2.1 Bugs — IV=0 Crash + Expired Contract Accumulation</span>
+          <span class="entry-tag tag-bug">Bug</span>
+          <span class="entry-tag tag-fix">Fixed</span>
+        </div>
+        <span class="entry-date">2026-10-19</span>
+      </div>
+      <div class="entry-body">
+        <p>
+          Two new bugs discovered on the first sell run after the v2 reset.
+          The script crashed on trade #15 (RGTZ) and left trades 12–43 stuck open —
+          same symptom as the v1 Saturday KeyError, different root cause.
+        </p>
+
+        <div class="stat-row">
+          <div class="stat-cell"><div class="label">Trades Stuck Open</div><div class="value neg">28</div></div>
+          <div class="stat-cell"><div class="label">Trades Closed Before Crash</div><div class="value mut">3 (ALAB, TSLA, DDOG)</div></div>
+          <div class="stat-cell"><div class="label">Crash Trigger</div><div class="value neg">RGTZ IV=0</div></div>
+        </div>
+
+        <div class="bug-list">
+
+          <div class="bug-item fixed">
+            <div class="bug-label">Bug 6 — sell_signal.py · Fixed 2026-10-19</div>
+            <div class="bug-title">IV=0 caused ZeroDivisionError in Black-Scholes</div>
+            <div class="bug-desc">
+              RGTZ (Tidal Trust II Defiance DLY TRG) had <code>iv_at_entry: 0.0</code> —
+              yfinance returned no implied volatility data for this ticker at entry time.
+              Black-Scholes divides by sigma in the d1 calculation, so sigma=0 causes a
+              ZeroDivisionError. The script crashed mid-loop on trade #15, leaving all
+              subsequent trades (15–43) unprocessed and stuck open.
+            </div>
+            <div class="bug-fix">
+              Fix: when sigma ≤ 0, skip Black-Scholes and use intrinsic value only
+              (max(0, S−K) for CALL, max(0, K−S) for PUT). Floor at $0.01 to avoid
+              zero-value edge cases downstream.
+            </div>
+          </div>
+
+          <div class="bug-item fixed">
+            <div class="bug-label">Bug 7 — sell_signal.py · Fixed 2026-10-19</div>
+            <div class="bug-title">No expiration check — expired contracts never force-closed</div>
+            <div class="bug-desc">
+              The sell loop had no check for whether a contract's expiration date had already passed.
+              Contracts that were stuck open (due to the v1 Saturday crash) accumulated from Sept 11
+              onward. When the v2 reset ran, those trades were re-opened with their original entry data
+              but the contracts were already expired. The sell script would attempt to fetch today's
+              candles for a ticker holding a Sept 11 contract — meaningless data, wrong price, wrong date.
+              Without a force-close mechanism, these would accumulate indefinitely.
+            </div>
+            <div class="bug-fix">
+              Fix: at the start of each trade in the sell loop, check if expiration date &lt; today.
+              If so, force-close at $0 (expired worthless) with sell_trigger = 'expired_worthless'.
+              This correctly records the full premium as a loss, which is the actual outcome.
+            </div>
+          </div>
+
+        </div>
+
+        <div class="callout warn">
+          Trades 12–43 (28 trades) will be closed at $0 on the next sell run.
+          These are real losses — the premium paid is gone. They will be recorded accurately in the ledger.
+          The DDOG trade (#14) was a +$1,712 winner that closed before the crash — that result stands.
+        </div>
+
+      </div>
+    </div>
+
     <!-- INFRA FIXES -->
     <div class="entry">
       <div class="entry-header">

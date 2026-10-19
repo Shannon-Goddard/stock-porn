@@ -412,6 +412,8 @@ def main():
 
     print(f"Open trades: {[t['entry']['ticker'] for t in open_trades]}")
 
+    today_date = date.fromisoformat(today_str)
+
     for trade in open_trades:
         ticker      = trade['entry']['ticker']
         option_type = trade['entry']['type']
@@ -419,6 +421,30 @@ def main():
         decision    = news['decision'] if news else 'sell'
 
         print(f"\n{ticker} {option_type} — decision: {decision.upper()}")
+
+        # Force-close expired contracts at $0
+        expiration = trade['entry'].get('expiration')
+        if expiration and date.fromisoformat(expiration) < today_date:
+            print(f"  Contract expired {expiration} — force-closing at $0")
+            trade['status'] = 'closed'
+            trade['exit'] = {
+                'date':                today_str,
+                'time':                today_str + 'T00:00:00',
+                'stock_open_price':    None,
+                'sell_option_price':   0.0,
+                'sell_contract_value': 0.0,
+                'sell_trigger':        'expired_worthless',
+                'gap_direction':       None,
+                'gap_pct':             None,
+                'pnl':                 round(0.0 - trade['entry']['cost'], 2)
+            }
+            trade['fomo'] = None
+            pnl = trade['exit']['pnl']
+            trades_data['balance'] = round(trades_data['balance'] + pnl, 2)
+            update_stats(stats, trade, excluded_ids)
+            update_blog(blog, trade)
+            print(f"  Trade #{trade['id']} force-closed. P&L: ${pnl:+.2f}")
+            continue
 
         candles = get_intraday_candles(ticker, today_str)
         if not candles:
@@ -455,7 +481,13 @@ def main():
         sigma     = trade['entry']['iv_at_entry']
         sell_mins = 2 if decision == 'hold' else 1
         T_at_sell = max(T_entry - (sell_mins / (390 * 365)), 0)
-        bs_val    = _bs_price(option_type, sell_price, K, T_at_sell, RISK_FREE_RATE, sigma)
+
+        if sigma <= 0:
+            print(f"  IV=0 for {ticker} — using intrinsic value only")
+            bs_val = max(0.0, sell_price - K) if option_type == 'CALL' else max(0.0, K - sell_price)
+            bs_val = bs_val if bs_val > 0 else 0.01
+        else:
+            bs_val = _bs_price(option_type, sell_price, K, T_at_sell, RISK_FREE_RATE, sigma)
 
         sell_option_price   = round(bs_val, 4)
         sell_contract_value = round(bs_val * 100, 2)
