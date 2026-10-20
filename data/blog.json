@@ -159,10 +159,13 @@
     "ticker": "ALAB",
     "type": "CALL",
     "trade_id": 12,
-    "title": "ALAB CALL \u2014 2026-09-05",
+    "title": "ALAB CALL \u2014 2026-09-05: Lost $97.00",
     "youtube_id": null,
     "images": [],
-    "published": true
+    "published": true,
+    "subtitle": "ALAB closed at $310.4 on 2026-09-05, ranking dollar_gainer_1 with +9.75% ($+27.58). Strike $390.0 CALL exp 2026-09-11 (6DTE). IV at entry: 88.2%. Cost: $97.00. News scan: neutral \u2014 decision: sell. Sold at option value $0.0 (stock open $None) at 2026-10-20T00:00:00. P&L: $-97.00.",
+    "pnl": -97.0,
+    "won": false
   },
   {
     "id": 13,
@@ -170,10 +173,13 @@
     "ticker": "TSLA",
     "type": "PUT",
     "trade_id": 13,
-    "title": "TSLA PUT \u2014 2026-09-05",
+    "title": "TSLA PUT \u2014 2026-09-05: Lost $96.00",
     "youtube_id": null,
     "images": [],
-    "published": true
+    "published": true,
+    "subtitle": "TSLA closed at $354.08 on 2026-09-05, ranking dollar_loser_1 with -5.92% ($-22.29). Strike $340.0 PUT exp 2026-09-09 (4DTE). IV at entry: 32.4%. Cost: $96.00. News scan: neutral \u2014 decision: sell. Sold at option value $0.0 (stock open $None) at 2026-10-20T00:00:00. P&L: $-96.00.",
+    "pnl": -96.0,
+    "won": false
   },
   {
     "id": 14,
@@ -181,10 +187,13 @@
     "ticker": "DDOG",
     "type": "CALL",
     "trade_id": 14,
-    "title": "DDOG CALL \u2014 2026-09-10",
+    "title": "DDOG CALL \u2014 2026-09-10: Lost $70.00",
     "youtube_id": null,
     "images": [],
-    "published": true
+    "published": true,
+    "subtitle": "DDOG closed at $225.27 on 2026-09-10, ranking dollar_gainer_1 with +7.15% ($+15.04). Strike $240.0 CALL exp 2026-09-11 (1DTE). IV at entry: 68.4%. Cost: $70.00. News scan: neutral \u2014 decision: sell. Sold at option value $0.0 (stock open $None) at 2026-10-20T00:00:00. P&L: $-70.00.",
+    "pnl": -70.0,
+    "won": false
   },
   {
     "id": 15,
@@ -192,10 +201,13 @@
     "ticker": "RGTZ",
     "type": "CALL",
     "trade_id": 15,
-    "title": "RGTZ CALL \u2014 2026-09-11",
+    "title": "RGTZ CALL \u2014 2026-09-11: Lost $35.00",
     "youtube_id": null,
     "images": [],
-    "published": true
+    "published": true,
+    "subtitle": "RGTZ closed at $17.7 on 2026-09-11, ranking dollar_gainer_1 with +402.84% ($+14.18). Strike $8.0 CALL exp 2026-09-18 (7DTE). IV at entry: 0.0%. Cost: $35.00. News scan: neutral \u2014 decision: sell. Sold at option value $0.0 (stock open $None) at 2026-10-20T00:00:00. P&L: $-35.00.",
+    "pnl": -35.0,
+    "won": false
   },
   {
     "id": 16,
@@ -203,10 +215,13 @@
     "ticker": "VICR",
     "type": "CALL",
     "trade_id": 16,
-    "title": "VICR CALL \u2014 2026-09-12",
+    "title": "VICR CALL \u2014 2026-09-12: Lost $90.00",
     "youtube_id": null,
     "images": [],
-    "published": true
+    "published": true,
+    "subtitle": "VICR closed at $197.91 on 2026-09-12, ranking dollar_gainer_1 with +11.15% ($+19.86). Strike $240.0 CALL exp 2026-09-18 (6DTE). IV at entry: 86.0%. Cost: $90.00. News scan: neutral \u2014 decision: sell. Sold at option value $0.0 (stock open $None) at 2026-10-20T00:00:00. P&L: $-90.00.",
+    "pnl": -90.0,
+    "won": false
   },
   {
     "id": 17,
@@ -214,10 +229,13 @@
     "ticker": "LEU",
     "type": "PUT",
     "trade_id": 17,
-    "title": "LEU PUT \u2014 2026-09-12",
+    "title": "LEU PUT \u2014 2026-09-12: Lost $50.00",
     "youtube_id": null,
     "images": [],
-    "published": true
+    "published": true,
+    "subtitle": "LEU closed at $152.31 on 2026-09-12, ranking dollar_loser_1 with -8.18% ($-13.56). Strike $135.0 PUT exp 2026-09-18 (6DTE). IV at entry: 56.5%. Cost: $50.00. News scan: neutral \u2014 decision: sell. Sold at option value $0.0 (stock open $None) at 2026-10-20T00:00:00. P&L: $-50.00.",
+    "pnl": -50.0,
+    "won": false
   },
   {
     "id": 18,
@@ -225,10 +243,13 @@
     "ticker": "PANW",
     "type": "CALL",
     "trade_id": 18,
-    "title": "PANW CALL \u2014 2026-09-15",
+    "title": "PANW CALL \u2014 2026-09-15: Lost $82.00",
     "youtube_id": null,
     "images": [],
-    "published": true
+    "published": true,
+    "subtitle": "PANW closed at $373.94 on 2026-09-15, ranking dollar_gainer_1 with +13.09% ($+43.29). Strike $420.0 CALL exp 2026-09-18 (3DTE). IV at entry: 71.1%. Cost: $82.00. News scan: neutral \u2014 decision: sell. Sold at option value $0.0 (stock open $None) at 2026-10-20T00:00:00. P&L: $-82.00.",
+    "pnl": -82.0,
+    "won": false
   },
   {
     "id": 19,
@@ -236,10 +257,13 @@
     "ticker": "TER",
     "type": "PUT",
     "trade_id": 19,
-    "title": "TER PUT \u2014 2026-09-15",
+    "title": "TER PUT \u2014 2026-09-15: Lost $90.00",
     "youtube_id": null,
     "images": [],
-    "published": true
+    "published": true,
+    "subtitle": "TER closed at $329.2 on 2026-09-15, ranking dollar_loser_1 with -13.30% ($-50.52). Strike $280.0 PUT exp 2026-09-18 (3DTE). IV at entry: 90.0%. Cost: $90.00. News scan: neutral \u2014 decision: sell. Sold at option value $0.0 (stock open $None) at 2026-10-20T00:00:00. P&L: $-90.00.",
+    "pnl": -90.0,
+    "won": false
   },
   {
     "id": 20,
@@ -247,10 +271,13 @@
     "ticker": "QLYS",
     "type": "CALL",
     "trade_id": 20,
-    "title": "QLYS CALL \u2014 2026-09-16",
+    "title": "QLYS CALL \u2014 2026-09-16: Lost $45.00",
     "youtube_id": null,
     "images": [],
-    "published": true
+    "published": true,
+    "subtitle": "QLYS closed at $185.37 on 2026-09-16, ranking dollar_gainer_1 with +7.21% ($+12.46). Strike $210.0 CALL exp 2026-09-18 (2DTE). IV at entry: 78.5%. Cost: $45.00. News scan: neutral \u2014 decision: sell. Sold at option value $0.0 (stock open $None) at 2026-10-20T00:00:00. P&L: $-45.00.",
+    "pnl": -45.0,
+    "won": false
   },
   {
     "id": 21,
@@ -258,10 +285,13 @@
     "ticker": "AXON",
     "type": "PUT",
     "trade_id": 21,
-    "title": "AXON PUT \u2014 2026-09-16",
+    "title": "AXON PUT \u2014 2026-09-16: Lost $65.00",
     "youtube_id": null,
     "images": [],
-    "published": true
+    "published": true,
+    "subtitle": "AXON closed at $442.08 on 2026-09-16, ranking dollar_loser_1 with -9.81% ($-48.10). Strike $390.0 PUT exp 2026-09-18 (2DTE). IV at entry: 78.0%. Cost: $65.00. News scan: neutral \u2014 decision: sell. Sold at option value $0.0 (stock open $None) at 2026-10-20T00:00:00. P&L: $-65.00.",
+    "pnl": -65.0,
+    "won": false
   },
   {
     "id": 22,
@@ -269,10 +299,13 @@
     "ticker": "COHR",
     "type": "CALL",
     "trade_id": 22,
-    "title": "COHR CALL \u2014 2026-09-17",
+    "title": "COHR CALL \u2014 2026-09-17: Lost $85.00",
     "youtube_id": null,
     "images": [],
-    "published": true
+    "published": true,
+    "subtitle": "COHR closed at $289.93 on 2026-09-17, ranking dollar_gainer_1 with +6.92% ($+18.76). Strike $320.0 CALL exp 2026-09-18 (1DTE). IV at entry: 88.5%. Cost: $85.00. News scan: neutral \u2014 decision: sell. Sold at option value $0.0 (stock open $None) at 2026-10-20T00:00:00. P&L: $-85.00.",
+    "pnl": -85.0,
+    "won": false
   },
   {
     "id": 23,
@@ -280,10 +313,13 @@
     "ticker": "FANG",
     "type": "PUT",
     "trade_id": 23,
-    "title": "FANG PUT \u2014 2026-09-17",
+    "title": "FANG PUT \u2014 2026-09-17: Lost $60.00",
     "youtube_id": null,
     "images": [],
-    "published": true
+    "published": true,
+    "subtitle": "FANG closed at $194.54 on 2026-09-17, ranking dollar_loser_1 with -8.03% ($-16.99). Strike $185.0 PUT exp 2026-09-18 (1DTE). IV at entry: 53.9%. Cost: $60.00. News scan: neutral \u2014 decision: sell. Sold at option value $0.0 (stock open $None) at 2026-10-20T00:00:00. P&L: $-60.00.",
+    "pnl": -60.0,
+    "won": false
   },
   {
     "id": 24,
@@ -291,10 +327,13 @@
     "ticker": "ARM",
     "type": "CALL",
     "trade_id": 24,
-    "title": "ARM CALL \u2014 2026-09-22",
+    "title": "ARM CALL \u2014 2026-09-22: Lost $90.00",
     "youtube_id": null,
     "images": [],
-    "published": true
+    "published": true,
+    "subtitle": "ARM closed at $322.9 on 2026-09-22, ranking dollar_gainer_1 with +17.16% ($+47.29). Strike $400.0 CALL exp 2026-09-25 (3DTE). IV at entry: 120.3%. Cost: $90.00. News scan: neutral \u2014 decision: sell. Sold at option value $0.0 (stock open $None) at 2026-10-20T00:00:00. P&L: $-90.00.",
+    "pnl": -90.0,
+    "won": false
   },
   {
     "id": 25,
@@ -302,10 +341,13 @@
     "ticker": "FAS",
     "type": "PUT",
     "trade_id": 25,
-    "title": "FAS PUT \u2014 2026-09-23",
+    "title": "FAS PUT \u2014 2026-09-23: Lost $70.00",
     "youtube_id": null,
     "images": [],
-    "published": true
+    "published": true,
+    "subtitle": "FAS closed at $152.5 on 2026-09-23, ranking dollar_loser_1 with -6.50% ($-10.61). Strike $145.0 PUT exp 2026-09-25 (2DTE). IV at entry: 57.9%. Cost: $70.00. News scan: neutral \u2014 decision: sell. Sold at option value $0.0 (stock open $None) at 2026-10-20T00:00:00. P&L: $-70.00.",
+    "pnl": -70.0,
+    "won": false
   },
   {
     "id": 26,
@@ -313,10 +355,13 @@
     "ticker": "IONQ",
     "type": "CALL",
     "trade_id": 26,
-    "title": "IONQ CALL \u2014 2026-09-24",
+    "title": "IONQ CALL \u2014 2026-09-24: Lost $89.00",
     "youtube_id": null,
     "images": [],
-    "published": true
+    "published": true,
+    "subtitle": "IONQ closed at $42.54 on 2026-09-24, ranking dollar_gainer_1 with +4.42% ($+1.80). Strike $43.0 CALL exp 2026-09-25 (1DTE). IV at entry: 84.7%. Cost: $89.00. News scan: neutral \u2014 decision: sell. Sold at option value $0.0 (stock open $None) at 2026-10-20T00:00:00. P&L: $-89.00.",
+    "pnl": -89.0,
+    "won": false
   },
   {
     "id": 27,
@@ -324,10 +369,13 @@
     "ticker": "CRDO",
     "type": "CALL",
     "trade_id": 27,
-    "title": "CRDO CALL \u2014 2026-09-26",
+    "title": "CRDO CALL \u2014 2026-09-26: Lost $100.00",
     "youtube_id": null,
     "images": [],
-    "published": true
+    "published": true,
+    "subtitle": "CRDO closed at $210.97 on 2026-09-26, ranking dollar_gainer_1 with +7.65% ($+15.00). Strike $250.0 CALL exp 2026-10-02 (6DTE). IV at entry: 83.2%. Cost: $100.00. News scan: neutral \u2014 decision: sell. Sold at option value $0.0 (stock open $None) at 2026-10-20T00:00:00. P&L: $-100.00.",
+    "pnl": -100.0,
+    "won": false
   },
   {
     "id": 28,
@@ -335,10 +383,13 @@
     "ticker": "SHEL",
     "type": "CALL",
     "trade_id": 28,
-    "title": "SHEL CALL \u2014 2026-09-29",
+    "title": "SHEL CALL \u2014 2026-09-29: Lost $95.00",
     "youtube_id": null,
     "images": [],
-    "published": true
+    "published": true,
+    "subtitle": "SHEL closed at $96.47 on 2026-09-29, ranking dollar_gainer_1 with +0.72% ($+0.69). Strike $97.0 CALL exp 2026-10-02 (3DTE). IV at entry: 29.6%. Cost: $95.00. News scan: neutral \u2014 decision: sell. Sold at option value $0.0 (stock open $None) at 2026-10-20T00:00:00. P&L: $-95.00.",
+    "pnl": -95.0,
+    "won": false
   },
   {
     "id": 29,
@@ -346,10 +397,13 @@
     "ticker": "SHEL",
     "type": "PUT",
     "trade_id": 29,
-    "title": "SHEL PUT \u2014 2026-09-29",
+    "title": "SHEL PUT \u2014 2026-09-29: Lost $80.00",
     "youtube_id": null,
     "images": [],
-    "published": true
+    "published": true,
+    "subtitle": "SHEL closed at $96.47 on 2026-09-29, ranking dollar_loser_1 with +0.72% ($+0.69). Strike $95.0 PUT exp 2026-10-02 (3DTE). IV at entry: 35.4%. Cost: $80.00. News scan: neutral \u2014 decision: sell. Sold at option value $0.0 (stock open $None) at 2026-10-20T00:00:00. P&L: $-80.00.",
+    "pnl": -80.0,
+    "won": false
   },
   {
     "id": 30,
@@ -357,10 +411,13 @@
     "ticker": "SNPS",
     "type": "CALL",
     "trade_id": 30,
-    "title": "SNPS CALL \u2014 2026-10-01",
+    "title": "SNPS CALL \u2014 2026-10-01: Lost $100.00",
     "youtube_id": null,
     "images": [],
-    "published": true
+    "published": true,
+    "subtitle": "SNPS closed at $434.94 on 2026-10-01, ranking dollar_gainer_1 with +4.78% ($+19.85). Strike $470.0 CALL exp 2026-10-02 (1DTE). IV at entry: 68.4%. Cost: $100.00. News scan: neutral \u2014 decision: sell. Sold at option value $0.0 (stock open $None) at 2026-10-20T00:00:00. P&L: $-100.00.",
+    "pnl": -100.0,
+    "won": false
   },
   {
     "id": 31,
@@ -368,10 +425,13 @@
     "ticker": "JBL",
     "type": "PUT",
     "trade_id": 31,
-    "title": "JBL PUT \u2014 2026-10-01",
+    "title": "JBL PUT \u2014 2026-10-01: Lost $75.00",
     "youtube_id": null,
     "images": [],
-    "published": true
+    "published": true,
+    "subtitle": "JBL closed at $286.86 on 2026-10-01, ranking dollar_loser_1 with -10.03% ($-31.98). Strike $270.0 PUT exp 2026-10-02 (1DTE). IV at entry: 60.3%. Cost: $75.00. News scan: neutral \u2014 decision: sell. Sold at option value $0.0 (stock open $None) at 2026-10-20T00:00:00. P&L: $-75.00.",
+    "pnl": -75.0,
+    "won": false
   },
   {
     "id": 32,
@@ -379,10 +439,13 @@
     "ticker": "LITE",
     "type": "CALL",
     "trade_id": 32,
-    "title": "LITE CALL \u2014 2026-10-02",
+    "title": "LITE CALL \u2014 2026-10-02: Lost $60.00",
     "youtube_id": null,
     "images": [],
-    "published": true
+    "published": true,
+    "subtitle": "LITE closed at $1045.78 on 2026-10-02, ranking dollar_gainer_1 with +7.67% ($+74.52). Strike $1400.0 CALL exp 2026-10-09 (7DTE). IV at entry: 79.3%. Cost: $60.00. News scan: neutral \u2014 decision: sell. Sold at option value $0.0 (stock open $None) at 2026-10-20T00:00:00. P&L: $-60.00.",
+    "pnl": -60.0,
+    "won": false
   },
   {
     "id": 33,
@@ -390,10 +453,13 @@
     "ticker": "ACN",
     "type": "PUT",
     "trade_id": 33,
-    "title": "ACN PUT \u2014 2026-10-03",
+    "title": "ACN PUT \u2014 2026-10-03: Lost $100.00",
     "youtube_id": null,
     "images": [],
-    "published": true
+    "published": true,
+    "subtitle": "ACN closed at $198.9 on 2026-10-03, ranking dollar_loser_1 with -6.31% ($-13.40). Strike $187.5 PUT exp 2026-10-09 (6DTE). IV at entry: 43.4%. Cost: $100.00. News scan: neutral \u2014 decision: sell. Sold at option value $0.0 (stock open $None) at 2026-10-20T00:00:00. P&L: $-100.00.",
+    "pnl": -100.0,
+    "won": false
   },
   {
     "id": 34,
@@ -401,10 +467,13 @@
     "ticker": "ACN",
     "type": "PUT",
     "trade_id": 34,
-    "title": "ACN PUT \u2014 2026-10-06",
+    "title": "ACN PUT \u2014 2026-10-06: Lost $80.00",
     "youtube_id": null,
     "images": [],
-    "published": true
+    "published": true,
+    "subtitle": "ACN closed at $198.9 on 2026-10-06, ranking dollar_loser_1 with -6.31% ($-13.40). Strike $185.0 PUT exp 2026-10-09 (3DTE). IV at entry: 49.8%. Cost: $80.00. News scan: neutral \u2014 decision: sell. Sold at option value $0.0 (stock open $None) at 2026-10-20T00:00:00. P&L: $-80.00.",
+    "pnl": -80.0,
+    "won": false
   },
   {
     "id": 35,
@@ -412,10 +481,13 @@
     "ticker": "VST",
     "type": "CALL",
     "trade_id": 35,
-    "title": "VST CALL \u2014 2026-10-07",
+    "title": "VST CALL \u2014 2026-10-07: Lost $77.00",
     "youtube_id": null,
     "images": [],
-    "published": true
+    "published": true,
+    "subtitle": "VST closed at $160.5 on 2026-10-07, ranking dollar_gainer_1 with +10.77% ($+15.61). Strike $170.0 CALL exp 2026-10-09 (2DTE). IV at entry: 61.1%. Cost: $77.00. News scan: neutral \u2014 decision: sell. Sold at option value $0.0 (stock open $None) at 2026-10-20T00:00:00. P&L: $-77.00.",
+    "pnl": -77.0,
+    "won": false
   },
   {
     "id": 36,
@@ -423,10 +495,13 @@
     "ticker": "SPOT",
     "type": "CALL",
     "trade_id": 36,
-    "title": "SPOT CALL \u2014 2026-10-08",
+    "title": "SPOT CALL \u2014 2026-10-08: Lost $100.00",
     "youtube_id": null,
     "images": [],
-    "published": true
+    "published": true,
+    "subtitle": "SPOT closed at $512.92 on 2026-10-08, ranking dollar_gainer_1 with +5.08% ($+24.79). Strike $540.0 CALL exp 2026-10-09 (1DTE). IV at entry: 54.2%. Cost: $100.00. News scan: neutral \u2014 decision: sell. Sold at option value $0.0 (stock open $None) at 2026-10-20T00:00:00. P&L: $-100.00.",
+    "pnl": -100.0,
+    "won": false
   },
   {
     "id": 37,
@@ -434,10 +509,13 @@
     "ticker": "MSTU",
     "type": "PUT",
     "trade_id": 37,
-    "title": "MSTU PUT \u2014 2026-10-08",
+    "title": "MSTU PUT \u2014 2026-10-08: Lost $81.00",
     "youtube_id": null,
     "images": [],
-    "published": true
+    "published": true,
+    "subtitle": "MSTU closed at $39.45 on 2026-10-08, ranking dollar_loser_1 with -13.68% ($-6.25). Strike $37.0 PUT exp 2026-10-09 (1DTE). IV at entry: 133.2%. Cost: $81.00. News scan: neutral \u2014 decision: sell. Sold at option value $0.0 (stock open $None) at 2026-10-20T00:00:00. P&L: $-81.00.",
+    "pnl": -81.0,
+    "won": false
   },
   {
     "id": 38,
@@ -445,10 +523,13 @@
     "ticker": "LABU",
     "type": "CALL",
     "trade_id": 38,
-    "title": "LABU CALL \u2014 2026-10-10",
+    "title": "LABU CALL \u2014 2026-10-10: Lost $75.00",
     "youtube_id": null,
     "images": [],
-    "published": true
+    "published": true,
+    "subtitle": "LABU closed at $243.09 on 2026-10-10, ranking dollar_gainer_1 with +9.01% ($+20.09). Strike $300.0 CALL exp 2026-10-16 (6DTE). IV at entry: 88.3%. Cost: $75.00. News scan: neutral \u2014 decision: sell. Sold at option value $0.0 (stock open $None) at 2026-10-20T00:00:00. P&L: $-75.00.",
+    "pnl": -75.0,
+    "won": false
   },
   {
     "id": 39,
@@ -456,10 +537,13 @@
     "ticker": "ASTS",
     "type": "PUT",
     "trade_id": 39,
-    "title": "ASTS PUT \u2014 2026-10-10",
+    "title": "ASTS PUT \u2014 2026-10-10: Lost $97.00",
     "youtube_id": null,
     "images": [],
-    "published": true
+    "published": true,
+    "subtitle": "ASTS closed at $50.97 on 2026-10-10, ranking dollar_loser_1 with -10.49% ($-5.97). Strike $48.0 PUT exp 2026-10-16 (6DTE). IV at entry: 72.3%. Cost: $97.00. News scan: neutral \u2014 decision: sell. Sold at option value $0.0 (stock open $None) at 2026-10-20T00:00:00. P&L: $-97.00.",
+    "pnl": -97.0,
+    "won": false
   },
   {
     "id": 40,
@@ -467,10 +551,13 @@
     "ticker": "SHOP",
     "type": "CALL",
     "trade_id": 40,
-    "title": "SHOP CALL \u2014 2026-10-13",
+    "title": "SHOP CALL \u2014 2026-10-13: Lost $96.00",
     "youtube_id": null,
     "images": [],
-    "published": true
+    "published": true,
+    "subtitle": "SHOP closed at $179.22 on 2026-10-13, ranking dollar_gainer_1 with +4.90% ($+8.37). Strike $190.0 CALL exp 2026-10-16 (3DTE). IV at entry: 56.0%. Cost: $96.00. News scan: neutral \u2014 decision: sell. Sold at option value $0.0 (stock open $None) at 2026-10-20T00:00:00. P&L: $-96.00.",
+    "pnl": -96.0,
+    "won": false
   },
   {
     "id": 41,
@@ -478,10 +565,13 @@
     "ticker": "PARR",
     "type": "CALL",
     "trade_id": 41,
-    "title": "PARR CALL \u2014 2026-10-14",
+    "title": "PARR CALL \u2014 2026-10-14: Lost $80.00",
     "youtube_id": null,
     "images": [],
-    "published": true
+    "published": true,
+    "subtitle": "PARR closed at $89.88 on 2026-10-14, ranking dollar_gainer_1 with +8.13% ($+6.76). Strike $95.0 CALL exp 2026-10-16 (2DTE). IV at entry: 69.2%. Cost: $80.00. News scan: neutral \u2014 decision: sell. Sold at option value $0.0 (stock open $None) at 2026-10-20T00:00:00. P&L: $-80.00.",
+    "pnl": -80.0,
+    "won": false
   },
   {
     "id": 42,
@@ -489,10 +579,13 @@
     "ticker": "LQDA",
     "type": "CALL",
     "trade_id": 42,
-    "title": "LQDA CALL \u2014 2026-10-15",
+    "title": "LQDA CALL \u2014 2026-10-15: Lost $70.00",
     "youtube_id": null,
     "images": [],
-    "published": true
+    "published": true,
+    "subtitle": "LQDA closed at $33.94 on 2026-10-15, ranking dollar_gainer_1 with +26.59% ($+7.13). Strike $36.0 CALL exp 2026-10-16 (1DTE). IV at entry: 132.2%. Cost: $70.00. News scan: neutral \u2014 decision: sell. Sold at option value $0.0 (stock open $None) at 2026-10-20T00:00:00. P&L: $-70.00.",
+    "pnl": -70.0,
+    "won": false
   },
   {
     "id": 43,
@@ -500,9 +593,12 @@
     "ticker": "CRWV",
     "type": "PUT",
     "trade_id": 43,
-    "title": "CRWV PUT \u2014 2026-10-15",
+    "title": "CRWV PUT \u2014 2026-10-15: Lost $57.00",
     "youtube_id": null,
     "images": [],
-    "published": true
+    "published": true,
+    "subtitle": "CRWV closed at $65.78 on 2026-10-15, ranking dollar_loser_1 with -15.46% ($-12.03). Strike $60.0 PUT exp 2026-10-16 (1DTE). IV at entry: 131.1%. Cost: $57.00. News scan: neutral \u2014 decision: sell. Sold at option value $0.0 (stock open $None) at 2026-10-20T00:00:00. P&L: $-57.00.",
+    "pnl": -57.0,
+    "won": false
   }
 ]

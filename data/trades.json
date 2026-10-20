@@ -9,8 +9,8 @@
       4
     ]
   },
-  "balance": -457.35,
-  "clean_balance": -330.61,
+  "balance": -2994.35,
+  "clean_balance": -2867.61,
   "starting_balance": 0.0,
   "first_trade_date": "2026-08-24",
   "trades": [
@@ -1211,7 +1211,7 @@
     },
     {
       "id": 12,
-      "status": "open",
+      "status": "closed",
       "entry": {
         "date": "2026-09-05",
         "time": "15:55 PST",
@@ -1264,12 +1264,22 @@
           "spx": []
         }
       },
-      "exit": null,
+      "exit": {
+        "date": "2026-10-20",
+        "time": "2026-10-20T00:00:00",
+        "stock_open_price": null,
+        "sell_option_price": 0.0,
+        "sell_contract_value": 0.0,
+        "sell_trigger": "expired_worthless",
+        "gap_direction": null,
+        "gap_pct": null,
+        "pnl": -97.0
+      },
       "fomo": null
     },
     {
       "id": 13,
-      "status": "open",
+      "status": "closed",
       "entry": {
         "date": "2026-09-05",
         "time": "15:55 PST",
@@ -1322,12 +1332,22 @@
           "spx": []
         }
       },
-      "exit": null,
+      "exit": {
+        "date": "2026-10-20",
+        "time": "2026-10-20T00:00:00",
+        "stock_open_price": null,
+        "sell_option_price": 0.0,
+        "sell_contract_value": 0.0,
+        "sell_trigger": "expired_worthless",
+        "gap_direction": null,
+        "gap_pct": null,
+        "pnl": -96.0
+      },
       "fomo": null
     },
     {
       "id": 14,
-      "status": "open",
+      "status": "closed",
       "entry": {
         "date": "2026-09-10",
         "time": "15:55 PST",
@@ -1377,12 +1397,22 @@
           "spx": []
         }
       },
-      "exit": null,
+      "exit": {
+        "date": "2026-10-20",
+        "time": "2026-10-20T00:00:00",
+        "stock_open_price": null,
+        "sell_option_price": 0.0,
+        "sell_contract_value": 0.0,
+        "sell_trigger": "expired_worthless",
+        "gap_direction": null,
+        "gap_pct": null,
+        "pnl": -70.0
+      },
       "fomo": null
     },
     {
       "id": 15,
-      "status": "open",
+      "status": "closed",
       "entry": {
         "date": "2026-09-11",
         "time": "15:55 PST",
@@ -1435,12 +1465,22 @@
           "spx": []
         }
       },
-      "exit": null,
+      "exit": {
+        "date": "2026-10-20",
+        "time": "2026-10-20T00:00:00",
+        "stock_open_price": null,
+        "sell_option_price": 0.0,
+        "sell_contract_value": 0.0,
+        "sell_trigger": "expired_worthless",
+        "gap_direction": null,
+        "gap_pct": null,
+        "pnl": -35.0
+      },
       "fomo": null
     },
     {
       "id": 16,
-      "status": "open",
+      "status": "closed",
       "entry": {
         "date": "2026-09-12",
         "time": "15:55 PST",
@@ -1492,12 +1532,22 @@
           "spx": []
         }
       },
-      "exit": null,
+      "exit": {
+        "date": "2026-10-20",
+        "time": "2026-10-20T00:00:00",
+        "stock_open_price": null,
+        "sell_option_price": 0.0,
+        "sell_contract_value": 0.0,
+        "sell_trigger": "expired_worthless",
+        "gap_direction": null,
+        "gap_pct": null,
+        "pnl": -90.0
+      },
       "fomo": null
     },
     {
       "id": 17,
-      "status": "open",
+      "status": "closed",
       "entry": {
         "date": "2026-09-12",
         "time": "15:55 PST",
@@ -1549,12 +1599,22 @@
           "spx": []
         }
       },
-      "exit": null,
+      "exit": {
+        "date": "2026-10-20",
+        "time": "2026-10-20T00:00:00",
+        "stock_open_price": null,
+        "sell_option_price": 0.0,
+        "sell_contract_value": 0.0,
+        "sell_trigger": "expired_worthless",
+        "gap_direction": null,
+        "gap_pct": null,
+        "pnl": -50.0
+      },
       "fomo": null
     },
     {
       "id": 18,
-      "status": "open",
+      "status": "closed",
       "entry": {
         "date": "2026-09-15",
         "time": "15:55 PST",
@@ -1604,12 +1664,22 @@
           "spx": []
         }
       },
-      "exit": null,
+      "exit": {
+        "date": "2026-10-20",
+        "time": "2026-10-20T00:00:00",
+        "stock_open_price": null,
+        "sell_option_price": 0.0,
+        "sell_contract_value": 0.0,
+        "sell_trigger": "expired_worthless",
+        "gap_direction": null,
+        "gap_pct": null,
+        "pnl": -82.0
+      },
       "fomo": null
     },
     {
       "id": 19,
-      "status": "open",
+      "status": "closed",
       "entry": {
         "date": "2026-09-15",
         "time": "15:55 PST",
@@ -1659,12 +1729,22 @@
           "spx": []
         }
       },
-      "exit": null,
+      "exit": {
+        "date": "2026-10-20",
+        "time": "2026-10-20T00:00:00",
+        "stock_open_price": null,
+        "sell_option_price": 0.0,
+        "sell_contract_value": 0.0,
+        "sell_trigger": "expired_worthless",
+        "gap_direction": null,
+        "gap_pct": null,
+        "pnl": -90.0
+      },
       "fomo": null
     },
     {
       "id": 20,
-      "status": "open",
+      "status": "closed",
       "entry": {
         "date": "2026-09-16",
         "time": "15:55 PST",
@@ -1717,12 +1797,22 @@
           "spx": []
         }
       },
-      "exit": null,
+      "exit": {
+        "date": "2026-10-20",
+        "time": "2026-10-20T00:00:00",
+        "stock_open_price": null,
+        "sell_option_price": 0.0,
+        "sell_contract_value": 0.0,
+        "sell_trigger": "expired_worthless",
+        "gap_direction": null,
+        "gap_pct": null,
+        "pnl": -45.0
+      },
       "fomo": null
     },
     {
       "id": 21,
-      "status": "open",
+      "status": "closed",
       "entry": {
         "date": "2026-09-16",
         "time": "15:55 PST",
@@ -1775,12 +1865,22 @@
           "spx": []
         }
       },
-      "exit": null,
+      "exit": {
+        "date": "2026-10-20",
+        "time": "2026-10-20T00:00:00",
+        "stock_open_price": null,
+        "sell_option_price": 0.0,
+        "sell_contract_value": 0.0,
+        "sell_trigger": "expired_worthless",
+        "gap_direction": null,
+        "gap_pct": null,
+        "pnl": -65.0
+      },
       "fomo": null
     },
     {
       "id": 22,
-      "status": "open",
+      "status": "closed",
       "entry": {
         "date": "2026-09-17",
         "time": "15:55 PST",
@@ -1833,12 +1933,22 @@
           "spx": []
         }
       },
-      "exit": null,
+      "exit": {
+        "date": "2026-10-20",
+        "time": "2026-10-20T00:00:00",
+        "stock_open_price": null,
+        "sell_option_price": 0.0,
+        "sell_contract_value": 0.0,
+        "sell_trigger": "expired_worthless",
+        "gap_direction": null,
+        "gap_pct": null,
+        "pnl": -85.0
+      },
       "fomo": null
     },
     {
       "id": 23,
-      "status": "open",
+      "status": "closed",
       "entry": {
         "date": "2026-09-17",
         "time": "15:55 PST",
@@ -1891,12 +2001,22 @@
           "spx": []
         }
       },
-      "exit": null,
+      "exit": {
+        "date": "2026-10-20",
+        "time": "2026-10-20T00:00:00",
+        "stock_open_price": null,
+        "sell_option_price": 0.0,
+        "sell_contract_value": 0.0,
+        "sell_trigger": "expired_worthless",
+        "gap_direction": null,
+        "gap_pct": null,
+        "pnl": -60.0
+      },
       "fomo": null
     },
     {
       "id": 24,
-      "status": "open",
+      "status": "closed",
       "entry": {
         "date": "2026-09-22",
         "time": "15:55 PST",
@@ -1946,12 +2066,22 @@
           "spx": []
         }
       },
-      "exit": null,
+      "exit": {
+        "date": "2026-10-20",
+        "time": "2026-10-20T00:00:00",
+        "stock_open_price": null,
+        "sell_option_price": 0.0,
+        "sell_contract_value": 0.0,
+        "sell_trigger": "expired_worthless",
+        "gap_direction": null,
+        "gap_pct": null,
+        "pnl": -90.0
+      },
       "fomo": null
     },
     {
       "id": 25,
-      "status": "open",
+      "status": "closed",
       "entry": {
         "date": "2026-09-23",
         "time": "15:55 PST",
@@ -2001,12 +2131,22 @@
           "spx": []
         }
       },
-      "exit": null,
+      "exit": {
+        "date": "2026-10-20",
+        "time": "2026-10-20T00:00:00",
+        "stock_open_price": null,
+        "sell_option_price": 0.0,
+        "sell_contract_value": 0.0,
+        "sell_trigger": "expired_worthless",
+        "gap_direction": null,
+        "gap_pct": null,
+        "pnl": -70.0
+      },
       "fomo": null
     },
     {
       "id": 26,
-      "status": "open",
+      "status": "closed",
       "entry": {
         "date": "2026-09-24",
         "time": "15:55 PST",
@@ -2058,12 +2198,22 @@
           "spx": []
         }
       },
-      "exit": null,
+      "exit": {
+        "date": "2026-10-20",
+        "time": "2026-10-20T00:00:00",
+        "stock_open_price": null,
+        "sell_option_price": 0.0,
+        "sell_contract_value": 0.0,
+        "sell_trigger": "expired_worthless",
+        "gap_direction": null,
+        "gap_pct": null,
+        "pnl": -89.0
+      },
       "fomo": null
     },
     {
       "id": 27,
-      "status": "open",
+      "status": "closed",
       "entry": {
         "date": "2026-09-26",
         "time": "15:55 PST",
@@ -2115,12 +2265,22 @@
           "spx": []
         }
       },
-      "exit": null,
+      "exit": {
+        "date": "2026-10-20",
+        "time": "2026-10-20T00:00:00",
+        "stock_open_price": null,
+        "sell_option_price": 0.0,
+        "sell_contract_value": 0.0,
+        "sell_trigger": "expired_worthless",
+        "gap_direction": null,
+        "gap_pct": null,
+        "pnl": -100.0
+      },
       "fomo": null
     },
     {
       "id": 28,
-      "status": "open",
+      "status": "closed",
       "entry": {
         "date": "2026-09-29",
         "time": "15:55 PST",
@@ -2170,12 +2330,22 @@
           "spx": []
         }
       },
-      "exit": null,
+      "exit": {
+        "date": "2026-10-20",
+        "time": "2026-10-20T00:00:00",
+        "stock_open_price": null,
+        "sell_option_price": 0.0,
+        "sell_contract_value": 0.0,
+        "sell_trigger": "expired_worthless",
+        "gap_direction": null,
+        "gap_pct": null,
+        "pnl": -95.0
+      },
       "fomo": null
     },
     {
       "id": 29,
-      "status": "open",
+      "status": "closed",
       "entry": {
         "date": "2026-09-29",
         "time": "15:55 PST",
@@ -2225,12 +2395,22 @@
           "spx": []
         }
       },
-      "exit": null,
+      "exit": {
+        "date": "2026-10-20",
+        "time": "2026-10-20T00:00:00",
+        "stock_open_price": null,
+        "sell_option_price": 0.0,
+        "sell_contract_value": 0.0,
+        "sell_trigger": "expired_worthless",
+        "gap_direction": null,
+        "gap_pct": null,
+        "pnl": -80.0
+      },
       "fomo": null
     },
     {
       "id": 30,
-      "status": "open",
+      "status": "closed",
       "entry": {
         "date": "2026-10-01",
         "time": "15:55 PST",
@@ -2283,12 +2463,22 @@
           "spx": []
         }
       },
-      "exit": null,
+      "exit": {
+        "date": "2026-10-20",
+        "time": "2026-10-20T00:00:00",
+        "stock_open_price": null,
+        "sell_option_price": 0.0,
+        "sell_contract_value": 0.0,
+        "sell_trigger": "expired_worthless",
+        "gap_direction": null,
+        "gap_pct": null,
+        "pnl": -100.0
+      },
       "fomo": null
     },
     {
       "id": 31,
-      "status": "open",
+      "status": "closed",
       "entry": {
         "date": "2026-10-01",
         "time": "15:55 PST",
@@ -2341,12 +2531,22 @@
           "spx": []
         }
       },
-      "exit": null,
+      "exit": {
+        "date": "2026-10-20",
+        "time": "2026-10-20T00:00:00",
+        "stock_open_price": null,
+        "sell_option_price": 0.0,
+        "sell_contract_value": 0.0,
+        "sell_trigger": "expired_worthless",
+        "gap_direction": null,
+        "gap_pct": null,
+        "pnl": -75.0
+      },
       "fomo": null
     },
     {
       "id": 32,
-      "status": "open",
+      "status": "closed",
       "entry": {
         "date": "2026-10-02",
         "time": "15:55 PST",
@@ -2396,12 +2596,22 @@
           "spx": []
         }
       },
-      "exit": null,
+      "exit": {
+        "date": "2026-10-20",
+        "time": "2026-10-20T00:00:00",
+        "stock_open_price": null,
+        "sell_option_price": 0.0,
+        "sell_contract_value": 0.0,
+        "sell_trigger": "expired_worthless",
+        "gap_direction": null,
+        "gap_pct": null,
+        "pnl": -60.0
+      },
       "fomo": null
     },
     {
       "id": 33,
-      "status": "open",
+      "status": "closed",
       "entry": {
         "date": "2026-10-03",
         "time": "15:55 PST",
@@ -2451,12 +2661,22 @@
           "spx": []
         }
       },
-      "exit": null,
+      "exit": {
+        "date": "2026-10-20",
+        "time": "2026-10-20T00:00:00",
+        "stock_open_price": null,
+        "sell_option_price": 0.0,
+        "sell_contract_value": 0.0,
+        "sell_trigger": "expired_worthless",
+        "gap_direction": null,
+        "gap_pct": null,
+        "pnl": -100.0
+      },
       "fomo": null
     },
     {
       "id": 34,
-      "status": "open",
+      "status": "closed",
       "entry": {
         "date": "2026-10-06",
         "time": "15:55 PST",
@@ -2506,12 +2726,22 @@
           "spx": []
         }
       },
-      "exit": null,
+      "exit": {
+        "date": "2026-10-20",
+        "time": "2026-10-20T00:00:00",
+        "stock_open_price": null,
+        "sell_option_price": 0.0,
+        "sell_contract_value": 0.0,
+        "sell_trigger": "expired_worthless",
+        "gap_direction": null,
+        "gap_pct": null,
+        "pnl": -80.0
+      },
       "fomo": null
     },
     {
       "id": 35,
-      "status": "open",
+      "status": "closed",
       "entry": {
         "date": "2026-10-07",
         "time": "15:55 PST",
@@ -2561,12 +2791,22 @@
           "spx": []
         }
       },
-      "exit": null,
+      "exit": {
+        "date": "2026-10-20",
+        "time": "2026-10-20T00:00:00",
+        "stock_open_price": null,
+        "sell_option_price": 0.0,
+        "sell_contract_value": 0.0,
+        "sell_trigger": "expired_worthless",
+        "gap_direction": null,
+        "gap_pct": null,
+        "pnl": -77.0
+      },
       "fomo": null
     },
     {
       "id": 36,
-      "status": "open",
+      "status": "closed",
       "entry": {
         "date": "2026-10-08",
         "time": "15:55 PST",
@@ -2616,12 +2856,22 @@
           "spx": []
         }
       },
-      "exit": null,
+      "exit": {
+        "date": "2026-10-20",
+        "time": "2026-10-20T00:00:00",
+        "stock_open_price": null,
+        "sell_option_price": 0.0,
+        "sell_contract_value": 0.0,
+        "sell_trigger": "expired_worthless",
+        "gap_direction": null,
+        "gap_pct": null,
+        "pnl": -100.0
+      },
       "fomo": null
     },
     {
       "id": 37,
-      "status": "open",
+      "status": "closed",
       "entry": {
         "date": "2026-10-08",
         "time": "15:55 PST",
@@ -2671,12 +2921,22 @@
           "spx": []
         }
       },
-      "exit": null,
+      "exit": {
+        "date": "2026-10-20",
+        "time": "2026-10-20T00:00:00",
+        "stock_open_price": null,
+        "sell_option_price": 0.0,
+        "sell_contract_value": 0.0,
+        "sell_trigger": "expired_worthless",
+        "gap_direction": null,
+        "gap_pct": null,
+        "pnl": -81.0
+      },
       "fomo": null
     },
     {
       "id": 38,
-      "status": "open",
+      "status": "closed",
       "entry": {
         "date": "2026-10-10",
         "time": "15:55 PST",
@@ -2726,12 +2986,22 @@
           "spx": []
         }
       },
-      "exit": null,
+      "exit": {
+        "date": "2026-10-20",
+        "time": "2026-10-20T00:00:00",
+        "stock_open_price": null,
+        "sell_option_price": 0.0,
+        "sell_contract_value": 0.0,
+        "sell_trigger": "expired_worthless",
+        "gap_direction": null,
+        "gap_pct": null,
+        "pnl": -75.0
+      },
       "fomo": null
     },
     {
       "id": 39,
-      "status": "open",
+      "status": "closed",
       "entry": {
         "date": "2026-10-10",
         "time": "15:55 PST",
@@ -2781,12 +3051,22 @@
           "spx": []
         }
       },
-      "exit": null,
+      "exit": {
+        "date": "2026-10-20",
+        "time": "2026-10-20T00:00:00",
+        "stock_open_price": null,
+        "sell_option_price": 0.0,
+        "sell_contract_value": 0.0,
+        "sell_trigger": "expired_worthless",
+        "gap_direction": null,
+        "gap_pct": null,
+        "pnl": -97.0
+      },
       "fomo": null
     },
     {
       "id": 40,
-      "status": "open",
+      "status": "closed",
       "entry": {
         "date": "2026-10-13",
         "time": "15:55 PST",
@@ -2836,12 +3116,22 @@
           "spx": []
         }
       },
-      "exit": null,
+      "exit": {
+        "date": "2026-10-20",
+        "time": "2026-10-20T00:00:00",
+        "stock_open_price": null,
+        "sell_option_price": 0.0,
+        "sell_contract_value": 0.0,
+        "sell_trigger": "expired_worthless",
+        "gap_direction": null,
+        "gap_pct": null,
+        "pnl": -96.0
+      },
       "fomo": null
     },
     {
       "id": 41,
-      "status": "open",
+      "status": "closed",
       "entry": {
         "date": "2026-10-14",
         "time": "15:55 PST",
@@ -2891,12 +3181,22 @@
           "spx": []
         }
       },
-      "exit": null,
+      "exit": {
+        "date": "2026-10-20",
+        "time": "2026-10-20T00:00:00",
+        "stock_open_price": null,
+        "sell_option_price": 0.0,
+        "sell_contract_value": 0.0,
+        "sell_trigger": "expired_worthless",
+        "gap_direction": null,
+        "gap_pct": null,
+        "pnl": -80.0
+      },
       "fomo": null
     },
     {
       "id": 42,
-      "status": "open",
+      "status": "closed",
       "entry": {
         "date": "2026-10-15",
         "time": "15:55 PST",
@@ -2946,12 +3246,22 @@
           "spx": []
         }
       },
-      "exit": null,
+      "exit": {
+        "date": "2026-10-20",
+        "time": "2026-10-20T00:00:00",
+        "stock_open_price": null,
+        "sell_option_price": 0.0,
+        "sell_contract_value": 0.0,
+        "sell_trigger": "expired_worthless",
+        "gap_direction": null,
+        "gap_pct": null,
+        "pnl": -70.0
+      },
       "fomo": null
     },
     {
       "id": 43,
-      "status": "open",
+      "status": "closed",
       "entry": {
         "date": "2026-10-15",
         "time": "15:55 PST",
@@ -3001,7 +3311,17 @@
           "spx": []
         }
       },
-      "exit": null,
+      "exit": {
+        "date": "2026-10-20",
+        "time": "2026-10-20T00:00:00",
+        "stock_open_price": null,
+        "sell_option_price": 0.0,
+        "sell_contract_value": 0.0,
+        "sell_trigger": "expired_worthless",
+        "gap_direction": null,
+        "gap_pct": null,
+        "pnl": -57.0
+      },
       "fomo": null
     }
   ]
