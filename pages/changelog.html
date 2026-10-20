@@ -313,6 +313,62 @@
       </div>
     </div>
 
+    <!-- V2.1 FOLLOW-ON BUGS -->
+    <div class="entry">
+      <div class="entry-header">
+        <div style="display:flex;align-items:center;gap:0.6rem">
+          <span class="entry-title">v2.1 Follow-on — NaN in JSON + Actions Timing</span>
+          <span class="entry-tag tag-bug">Bug</span>
+          <span class="entry-tag tag-fix">Fixed</span>
+        </div>
+        <span class="entry-date">2026-10-19</span>
+      </div>
+      <div class="entry-body">
+        <p>Two additional issues discovered on the same day as the IV=0 crash, after the sell script ran successfully.</p>
+
+        <div class="bug-list">
+
+          <div class="bug-item fixed">
+            <div class="bug-label">Bug 8 — paper_trade.py / fetch_news.py / sell_signal.py · Fixed 2026-10-19</div>
+            <div class="bug-title">NaN written to JSON — all pages failed to load</div>
+            <div class="bug-desc">
+              Python's <code>json.dump</code> writes <code>NaN</code> literally when a float value is
+              <code>math.nan</code>. The JSON spec does not allow NaN — it is only valid in JavaScript.
+              The <code>spy_change</code> field was NaN on any trade where yfinance failed to return
+              SPY price data (common on Fridays and around market holidays). This made trades.json
+              unparseable, crashing paper-trade.html, ledger.html, and blog.html with a SyntaxError
+              on every page load.
+            </div>
+            <div class="bug-fix">
+              Fix: sanitize NaN → null at write time in all three scripts using a regex replace
+              on the JSON string before writing. Also sanitize spy_change at the source in
+              paper_trade.py before it enters the trade object.
+            </div>
+          </div>
+
+          <div class="bug-item">
+            <div class="bug-label">Known Limitation — GitHub Actions · Accepted 2026-10-19</div>
+            <div class="bug-title">Sell script runs late — sell prices are approximate</div>
+            <div class="bug-desc">
+              GitHub Actions free-tier cron jobs are not guaranteed to run on schedule. The sell
+              script is scheduled for 6:31 AM PST (1 minute after market open) but has been observed
+              running as late as 10:53 AM PST — nearly 4.5 hours after the intended exit time.
+              This means the "stock open price" used for Black-Scholes exit calculations is actually
+              a mid-morning price, not the true open candle. P&L figures are directionally correct
+              but not precise.
+            </div>
+            <div class="bug-fix" style="color:var(--muted)">
+              Decision: accepted as a known limitation of the free infrastructure. Sell prices are
+              labeled as approximate. A future fix would cache the open candle in the news script
+              (which runs earlier and is less likely to be delayed), but this is not prioritized
+              until the methodology is validated at scale.
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
     <!-- INFRA FIXES -->
     <div class="entry">
       <div class="entry-header">
