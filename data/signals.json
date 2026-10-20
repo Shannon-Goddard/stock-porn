@@ -1,250 +1,250 @@
 {
   "topGainers": [
     {
-      "ticker": "AXTX",
-      "name": "Tradr 2X Long AXTI Daily ETF",
+      "ticker": "BMNU",
+      "name": "T-REX 2X Long BMNR Daily Target ETF",
       "sector": "Unknown",
-      "price": 17.17,
-      "changePct": 21.09,
-      "changeDollar": 2.99
+      "price": 15.37,
+      "changePct": 14.62,
+      "changeDollar": 1.96
     },
     {
-      "ticker": "ARQT",
-      "name": "ARCUTIS BIOTHERAPEUTICS INC COM",
+      "ticker": "SGMT",
+      "name": "SAGIMET BIOSCIENCES INC COM SER A",
       "sector": "Unknown",
-      "price": 31.89,
-      "changePct": 10.65,
-      "changeDollar": 3.07
+      "price": 10.09,
+      "changePct": 13.88,
+      "changeDollar": 1.23
     },
     {
-      "ticker": "GLUE",
-      "name": "MONTE ROSA THERAPEUTICS INC COM",
+      "ticker": "CRCG",
+      "name": "THEMES ETF TR LEVERAGE SHS 2X",
       "sector": "Unknown",
-      "price": 10.66,
-      "changePct": 9.45,
+      "price": 12.67,
+      "changePct": 12.02,
+      "changeDollar": 1.36
+    },
+    {
+      "ticker": "QDEL",
+      "name": "QUIDELORTHO CORP COM",
+      "sector": "Unknown",
+      "price": 14.28,
+      "changePct": 11.91,
+      "changeDollar": 1.52
+    },
+    {
+      "ticker": "SYRE",
+      "name": "SPYRE THERAPEUTICS INC COM NEW",
+      "sector": "Unknown",
+      "price": 92.89,
+      "changePct": 9.64,
+      "changeDollar": 8.17
+    },
+    {
+      "ticker": "RCUS",
+      "name": "ARCUS BIOSCIENCES INC COM",
+      "sector": "Unknown",
+      "price": 24.22,
+      "changePct": 9.39,
+      "changeDollar": 2.08
+    },
+    {
+      "ticker": "IMNM",
+      "name": "IMMUNOME INC COM",
+      "sector": "Unknown",
+      "price": 18.17,
+      "changePct": 8.35,
+      "changeDollar": 1.4
+    },
+    {
+      "ticker": "AVTX",
+      "name": "AVALO THERAPEUTICS INC COM NEW",
+      "sector": "Unknown",
+      "price": 12.51,
+      "changePct": 7.94,
       "changeDollar": 0.92
     },
     {
-      "ticker": "VRDN",
-      "name": "VIRIDIAN THERAPEUTICS INC COM",
+      "ticker": "RLAY",
+      "name": "RELAY THERAPEUTICS INC COM",
       "sector": "Unknown",
-      "price": 20.8,
-      "changePct": 9.3,
-      "changeDollar": 1.77
+      "price": 18.33,
+      "changePct": 7.26,
+      "changeDollar": 1.24
     },
     {
-      "ticker": "PTIR",
-      "name": "GRANITESHARES ETF TR 2X LONG PLTR",
+      "ticker": "NAIL",
+      "name": "DIREXION SHARES ETF TRUST DAIL HO SUPP ETF",
       "sector": "Unknown",
-      "price": 22.28,
-      "changePct": 8.68,
-      "changeDollar": 1.78
-    },
-    {
-      "ticker": "MXL",
-      "name": "MAXLINEAR INC COM",
-      "sector": "Unknown",
-      "price": 77.11,
-      "changePct": 8.12,
-      "changeDollar": 5.79
-    },
-    {
-      "ticker": "TNGX",
-      "name": "TANGO THERAPEUTICS INC COM",
-      "sector": "Unknown",
-      "price": 23.53,
-      "changePct": 6.76,
-      "changeDollar": 1.49
-    },
-    {
-      "ticker": "WDC",
-      "name": "WESTERN DIGITAL CORP COM",
-      "sector": "Unknown",
-      "price": 352.21,
-      "changePct": 6.09,
-      "changeDollar": 20.21
-    },
-    {
-      "ticker": "NVCR",
-      "name": "NOVOCURE LTD ORD SHS",
-      "sector": "Unknown",
-      "price": 14.89,
-      "changePct": 5.83,
-      "changeDollar": 0.82
-    },
-    {
-      "ticker": "RGR",
-      "name": "STURM RUGER & CO INC COM",
-      "sector": "Unknown",
-      "price": 45.9,
-      "changePct": 5.81,
-      "changeDollar": 2.52
+      "price": 27.6,
+      "changePct": 7.14,
+      "changeDollar": 1.84
     }
   ],
   "topLosers": [
     {
-      "ticker": "AXTQ",
-      "name": "Tradr 2X Short AXTI Daily ETF",
+      "ticker": "GM",
+      "name": "GENERAL MTRS CO COM",
       "sector": "Unknown",
-      "price": 36.81,
-      "changePct": -20.67,
-      "changeDollar": -9.59
+      "price": 75.99,
+      "changePct": -8.17,
+      "changeDollar": -6.76
     },
     {
-      "ticker": "RAMZ",
-      "name": "T-REX 2X Inverse DRAM Daily Target ETF",
+      "ticker": "HWM",
+      "name": "HOWMET AEROSPACE INC COM",
       "sector": "Unknown",
-      "price": 20.66,
-      "changePct": -8.06,
-      "changeDollar": -1.81
+      "price": 207.34,
+      "changePct": -5.77,
+      "changeDollar": -12.69
     },
     {
-      "ticker": "FOXF",
-      "name": "FOX FACTORY HLDG CORP COM",
+      "ticker": "HPK",
+      "name": "HIGHPEAK ENERGY INC COM",
       "sector": "Unknown",
-      "price": 14.79,
-      "changePct": -7.79,
-      "changeDollar": -1.25
+      "price": 10.84,
+      "changePct": -4.83,
+      "changeDollar": -0.55
+    },
+    {
+      "ticker": "METU",
+      "name": "DIREXION SHARES ETF TRUST DLY META BULL 2X",
+      "sector": "Unknown",
+      "price": 27.49,
+      "changePct": -3.98,
+      "changeDollar": -1.14
+    },
+    {
+      "ticker": "TTMI",
+      "name": "TTM TECHNOLOGIES INC COM",
+      "sector": "Unknown",
+      "price": 95.37,
+      "changePct": -3.76,
+      "changeDollar": -3.73
     },
     {
       "ticker": "TSLQ",
       "name": "INVESTMENT MANAGERS SER TR II TRADR 2X SHORT",
       "sector": "Unknown",
-      "price": 17.77,
-      "changePct": -7.5,
-      "changeDollar": -1.44
+      "price": 17.13,
+      "changePct": -3.6,
+      "changeDollar": -0.64
     },
     {
-      "ticker": "QXO",
-      "name": "QXO INC COM NEW",
+      "ticker": "FPS",
+      "name": "FORGENT POWER SOLUTIONS INC COM SHS CL A",
       "sector": "Unknown",
-      "price": 10.14,
-      "changePct": -6.63,
-      "changeDollar": -0.72
+      "price": 30.42,
+      "changePct": -3.49,
+      "changeDollar": -1.1
+    },
+    {
+      "ticker": "SDOW",
+      "name": "PROSHARES TR ULTRAPRO SRT DOW",
+      "sector": "Unknown",
+      "price": 23.89,
+      "changePct": -3.12,
+      "changeDollar": -0.77
+    },
+    {
+      "ticker": "TAL",
+      "name": "TAL ED GROUP SPONSORED ADS",
+      "sector": "Unknown",
+      "price": 11.54,
+      "changePct": -2.94,
+      "changeDollar": -0.35
     },
     {
       "ticker": "UVXY",
       "name": "ProShares Ultra VIX Short-Term Futures ETF",
       "sector": "Unknown",
-      "price": 17.38,
-      "changePct": -6.05,
-      "changeDollar": -1.12
-    },
-    {
-      "ticker": "AVEX",
-      "name": "AEVEX CORP COM CL A",
-      "sector": "Unknown",
-      "price": 14.49,
-      "changePct": -5.66,
-      "changeDollar": -0.87
-    },
-    {
-      "ticker": "WGO",
-      "name": "WINNEBAGO INDS INC COM",
-      "sector": "Unknown",
-      "price": 22.67,
-      "changePct": -5.54,
-      "changeDollar": -1.33
-    },
-    {
-      "ticker": "SOXS",
-      "name": "DIREXION SHARES ETF TRUST DAI SEM 3X ETF",
-      "sector": "Unknown",
-      "price": 46.63,
-      "changePct": -5.28,
-      "changeDollar": -2.6
-    },
-    {
-      "ticker": "FIGR",
-      "name": "FIGURE TECHNOLOGY SOLUTIO COM CL A",
-      "sector": "Unknown",
-      "price": 25.7,
-      "changePct": -5.27,
-      "changeDollar": -1.43
+      "price": 16.86,
+      "changePct": -2.93,
+      "changeDollar": -0.51
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "WDC",
-      "name": "WESTERN DIGITAL CORP COM",
+      "ticker": "SYRE",
+      "name": "SPYRE THERAPEUTICS INC COM NEW",
       "sector": "Unknown",
-      "price": 352.21,
-      "changePct": 6.09,
-      "changeDollar": 20.21
+      "price": 92.89,
+      "changePct": 9.64,
+      "changeDollar": 8.17
     },
     {
-      "ticker": "MXL",
-      "name": "MAXLINEAR INC COM",
+      "ticker": "RCUS",
+      "name": "ARCUS BIOSCIENCES INC COM",
       "sector": "Unknown",
-      "price": 77.11,
-      "changePct": 8.12,
-      "changeDollar": 5.79
+      "price": 24.22,
+      "changePct": 9.39,
+      "changeDollar": 2.08
     },
     {
-      "ticker": "ARQT",
-      "name": "ARCUTIS BIOTHERAPEUTICS INC COM",
+      "ticker": "BMNU",
+      "name": "T-REX 2X Long BMNR Daily Target ETF",
       "sector": "Unknown",
-      "price": 31.89,
-      "changePct": 10.65,
-      "changeDollar": 3.07
+      "price": 15.37,
+      "changePct": 14.62,
+      "changeDollar": 1.96
     },
     {
-      "ticker": "AXTX",
-      "name": "Tradr 2X Long AXTI Daily ETF",
+      "ticker": "NAIL",
+      "name": "DIREXION SHARES ETF TRUST DAIL HO SUPP ETF",
       "sector": "Unknown",
-      "price": 17.17,
-      "changePct": 21.09,
-      "changeDollar": 2.99
+      "price": 27.6,
+      "changePct": 7.14,
+      "changeDollar": 1.84
     },
     {
-      "ticker": "RGR",
-      "name": "STURM RUGER & CO INC COM",
+      "ticker": "QDEL",
+      "name": "QUIDELORTHO CORP COM",
       "sector": "Unknown",
-      "price": 45.9,
-      "changePct": 5.81,
-      "changeDollar": 2.52
+      "price": 14.28,
+      "changePct": 11.91,
+      "changeDollar": 1.52
     }
   ],
   "dollarLosers": [
     {
-      "ticker": "AXTQ",
-      "name": "Tradr 2X Short AXTI Daily ETF",
+      "ticker": "HWM",
+      "name": "HOWMET AEROSPACE INC COM",
       "sector": "Unknown",
-      "price": 36.81,
-      "changePct": -20.67,
-      "changeDollar": -9.59
+      "price": 207.34,
+      "changePct": -5.77,
+      "changeDollar": -12.69
     },
     {
-      "ticker": "SOXS",
-      "name": "DIREXION SHARES ETF TRUST DAI SEM 3X ETF",
+      "ticker": "GM",
+      "name": "GENERAL MTRS CO COM",
       "sector": "Unknown",
-      "price": 46.63,
-      "changePct": -5.28,
-      "changeDollar": -2.6
+      "price": 75.99,
+      "changePct": -8.17,
+      "changeDollar": -6.76
     },
     {
-      "ticker": "RAMZ",
-      "name": "T-REX 2X Inverse DRAM Daily Target ETF",
+      "ticker": "TTMI",
+      "name": "TTM TECHNOLOGIES INC COM",
       "sector": "Unknown",
-      "price": 20.66,
-      "changePct": -8.06,
-      "changeDollar": -1.81
+      "price": 95.37,
+      "changePct": -3.76,
+      "changeDollar": -3.73
     },
     {
-      "ticker": "TSLQ",
-      "name": "INVESTMENT MANAGERS SER TR II TRADR 2X SHORT",
+      "ticker": "METU",
+      "name": "DIREXION SHARES ETF TRUST DLY META BULL 2X",
       "sector": "Unknown",
-      "price": 17.77,
-      "changePct": -7.5,
-      "changeDollar": -1.44
+      "price": 27.49,
+      "changePct": -3.98,
+      "changeDollar": -1.14
     },
     {
-      "ticker": "FIGR",
-      "name": "FIGURE TECHNOLOGY SOLUTIO COM CL A",
+      "ticker": "FPS",
+      "name": "FORGENT POWER SOLUTIONS INC COM SHS CL A",
       "sector": "Unknown",
-      "price": 25.7,
-      "changePct": -5.27,
-      "changeDollar": -1.43
+      "price": 30.42,
+      "changePct": -3.49,
+      "changeDollar": -1.1
     }
   ]
 }
