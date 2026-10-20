@@ -889,7 +889,7 @@
         "signal_rank": "dollar_loser_1",
         "signal_pct": -20.04,
         "signal_dollar": -41.41,
-        "spy_change": NaN,
+        "spy_change": null,
         "macro_active": false,
         "macro_keywords": [],
         "auto_note": "CRDO PUT | $-41.41 (-20.04%) | dollar_loser_1 | Strike $150.0 exp 2026-09-04 (1DTE) | IV 90.4% | SPY +nan% | No macro triggers"
@@ -967,7 +967,7 @@
         "signal_rank": "dollar_gainer_1",
         "signal_pct": 17.56,
         "signal_dollar": 21.63,
-        "spy_change": NaN,
+        "spy_change": null,
         "macro_active": true,
         "macro_keywords": [
           "rate hike"
@@ -1103,7 +1103,7 @@
         "signal_rank": "dollar_loser_1",
         "signal_pct": -10.36,
         "signal_dollar": -36.7,
-        "spy_change": NaN,
+        "spy_change": null,
         "macro_active": true,
         "macro_keywords": [
           "rate hike"
@@ -1239,7 +1239,7 @@
         "signal_rank": "dollar_gainer_1",
         "signal_pct": 9.75,
         "signal_dollar": 27.58,
-        "spy_change": NaN,
+        "spy_change": null,
         "macro_active": true,
         "macro_keywords": [
           "rate hike",
@@ -1307,7 +1307,7 @@
         "signal_rank": "dollar_loser_1",
         "signal_pct": -5.92,
         "signal_dollar": -22.29,
-        "spy_change": NaN,
+        "spy_change": null,
         "macro_active": true,
         "macro_keywords": [
           "rate hike",
@@ -1375,7 +1375,7 @@
         "signal_rank": "dollar_gainer_1",
         "signal_pct": 7.15,
         "signal_dollar": 15.04,
-        "spy_change": NaN,
+        "spy_change": null,
         "macro_active": false,
         "macro_keywords": [],
         "auto_note": "DDOG CALL | $+15.04 (+7.15%) | dollar_gainer_1 | Strike $240.0 exp 2026-09-11 (1DTE) | IV 68.4% | SPY +nan% | No macro triggers"
@@ -1440,7 +1440,7 @@
         "signal_rank": "dollar_gainer_1",
         "signal_pct": 402.84,
         "signal_dollar": 14.18,
-        "spy_change": NaN,
+        "spy_change": null,
         "macro_active": true,
         "macro_keywords": [
           "rate hike",
@@ -1508,7 +1508,7 @@
         "signal_rank": "dollar_gainer_1",
         "signal_pct": 11.15,
         "signal_dollar": 19.86,
-        "spy_change": NaN,
+        "spy_change": null,
         "macro_active": true,
         "macro_keywords": [
           "fed"
@@ -1575,7 +1575,7 @@
         "signal_rank": "dollar_loser_1",
         "signal_pct": -8.18,
         "signal_dollar": -13.56,
-        "spy_change": NaN,
+        "spy_change": null,
         "macro_active": true,
         "macro_keywords": [
           "fed"
@@ -1642,7 +1642,7 @@
         "signal_rank": "dollar_gainer_1",
         "signal_pct": 13.09,
         "signal_dollar": 43.29,
-        "spy_change": NaN,
+        "spy_change": null,
         "macro_active": false,
         "macro_keywords": [],
         "auto_note": "PANW CALL | $+43.29 (+13.09%) | dollar_gainer_1 | Strike $420.0 exp 2026-09-18 (3DTE) | IV 71.1% | SPY +nan% | No macro triggers"
@@ -1707,7 +1707,7 @@
         "signal_rank": "dollar_loser_1",
         "signal_pct": -13.3,
         "signal_dollar": -50.52,
-        "spy_change": NaN,
+        "spy_change": null,
         "macro_active": false,
         "macro_keywords": [],
         "auto_note": "TER PUT | $-50.52 (-13.30%) | dollar_loser_1 | Strike $280.0 exp 2026-09-18 (3DTE) | IV 90.0% | SPY +nan% | No macro triggers"
@@ -1772,7 +1772,7 @@
         "signal_rank": "dollar_gainer_1",
         "signal_pct": 7.21,
         "signal_dollar": 12.46,
-        "spy_change": NaN,
+        "spy_change": null,
         "macro_active": true,
         "macro_keywords": [
           "fed",
@@ -1840,7 +1840,7 @@
         "signal_rank": "dollar_loser_1",
         "signal_pct": -9.81,
         "signal_dollar": -48.1,
-        "spy_change": NaN,
+        "spy_change": null,
         "macro_active": true,
         "macro_keywords": [
           "fed",
@@ -1908,7 +1908,7 @@
         "signal_rank": "dollar_gainer_1",
         "signal_pct": 6.92,
         "signal_dollar": 18.76,
-        "spy_change": NaN,
+        "spy_change": null,
         "macro_active": true,
         "macro_keywords": [
           "fed",
@@ -1976,7 +1976,7 @@
         "signal_rank": "dollar_loser_1",
         "signal_pct": -8.03,
         "signal_dollar": -16.99,
-        "spy_change": NaN,
+        "spy_change": null,
         "macro_active": true,
         "macro_keywords": [
           "fed",
@@ -2044,7 +2044,7 @@
         "signal_rank": "dollar_gainer_1",
         "signal_pct": 17.16,
         "signal_dollar": 47.29,
-        "spy_change": NaN,
+        "spy_change": null,
         "macro_active": false,
         "macro_keywords": [],
         "auto_note": "ARM CALL | $+47.29 (+17.16%) | dollar_gainer_1 | Strike $400.0 exp 2026-09-25 (3DTE) | IV 120.3% | SPY +nan% | No macro triggers"
@@ -2109,7 +2109,7 @@
         "signal_rank": "dollar_loser_1",
         "signal_pct": -6.5,
         "signal_dollar": -10.61,
-        "spy_change": NaN,
+        "spy_change": null,
         "macro_active": false,
         "macro_keywords": [],
         "auto_note": "FAS PUT | $-10.61 (-6.50%) | dollar_loser_1 | Strike $145.0 exp 2026-09-25 (2DTE) | IV 57.9% | SPY +nan% | No macro triggers"
@@ -2174,7 +2174,7 @@
         "signal_rank": "dollar_gainer_1",
         "signal_pct": 4.42,
         "signal_dollar": 1.8,
-        "spy_change": NaN,
+        "spy_change": null,
         "macro_active": true,
         "macro_keywords": [
           "rate hike"
@@ -2241,7 +2241,7 @@
         "signal_rank": "dollar_gainer_1",
         "signal_pct": 7.65,
         "signal_dollar": 15.0,
-        "spy_change": NaN,
+        "spy_change": null,
         "macro_active": true,
         "macro_keywords": [
           "war"
@@ -2639,7 +2639,7 @@
         "signal_rank": "dollar_loser_1",
         "signal_pct": -6.31,
         "signal_dollar": -13.4,
-        "spy_change": NaN,
+        "spy_change": null,
         "macro_active": false,
         "macro_keywords": [],
         "auto_note": "ACN PUT | $-13.40 (-6.31%) | dollar_loser_1 | Strike $187.5 exp 2026-10-09 (6DTE) | IV 43.4% | SPY +nan% | No macro triggers"

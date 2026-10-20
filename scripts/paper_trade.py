@@ -280,7 +280,7 @@ def process_signal(signal, option_type, rank_label, today, today_str,
             'signal_rank':         rank_label,
             'signal_pct':          signal['changePct'],
             'signal_dollar':       signal['changeDollar'],
-            'spy_change':          spy_change,
+            'spy_change':          spy_change if spy_change is not None and not math.isnan(spy_change) else None,
             'macro_active':        macro_active,
             'macro_keywords':      macro_keywords,
             'auto_note':           auto_note
