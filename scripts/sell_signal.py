@@ -48,8 +48,11 @@ def load_json(path):
         return json.load(f)
 
 def save_json(path, data):
+    import re
     with open(path, 'w', encoding='utf-8') as f:
-        json.dump(data, f, indent=2)
+        raw = json.dumps(data, indent=2)
+        raw = re.sub(r':\s*NaN', ': null', raw)
+        f.write(raw)
 
 def get_intraday_candles(ticker, today_str):
     """Load saved candles if available, otherwise fetch live."""

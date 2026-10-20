@@ -34,8 +34,11 @@ def load_trades():
         return json.load(f)
 
 def save_trades(data):
+    import re
     with open(TRADES_FILE, 'w', encoding='utf-8') as f:
-        json.dump(data, f, indent=2)
+        raw = json.dumps(data, indent=2)
+        raw = re.sub(r':\s*NaN', ': null', raw)
+        f.write(raw)
 
 def get_open_trades(trades_data):
     return [t for t in trades_data['trades'] if t['status'] == 'open']
