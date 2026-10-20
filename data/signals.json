@@ -17,14 +17,6 @@
       "changeDollar": 1.53
     },
     {
-      "ticker": "SLS",
-      "name": "SELLAS LIFE SCIENCES GROUP INC COM NEW",
-      "sector": "Unknown",
-      "price": 11.98,
-      "changePct": 14.2,
-      "changeDollar": 1.49
-    },
-    {
       "ticker": "TRAX",
       "name": "FIRST TRACKS BIOTHERAPEUTICS ORD SHS",
       "sector": "Unknown",
@@ -39,6 +31,22 @@
       "price": 11.97,
       "changePct": 13.68,
       "changeDollar": 1.44
+    },
+    {
+      "ticker": "KVYO",
+      "name": "KLAVIYO INC COM SER A",
+      "sector": "Unknown",
+      "price": 19.61,
+      "changePct": 11.93,
+      "changeDollar": 2.09
+    },
+    {
+      "ticker": "BMNU",
+      "name": "T-REX 2X Long BMNR Daily Target ETF",
+      "sector": "Unknown",
+      "price": 14.99,
+      "changePct": 11.78,
+      "changeDollar": 1.58
     },
     {
       "ticker": "EFX",
@@ -65,20 +73,12 @@
       "changeDollar": 11.03
     },
     {
-      "ticker": "CLYM",
-      "name": "CLIMB BIO INC COM",
+      "ticker": "NESR",
+      "name": "NATIONAL ENERGY SERVICES REUNI SHS",
       "sector": "Unknown",
-      "price": 10.8,
-      "changePct": 11.0,
-      "changeDollar": 1.07
-    },
-    {
-      "ticker": "IMCR",
-      "name": "IMMUNOCORE HLDGS PLC ADS",
-      "sector": "Unknown",
-      "price": 32.6,
-      "changePct": 9.25,
-      "changeDollar": 2.76
+      "price": 21.09,
+      "changePct": 11.12,
+      "changeDollar": 2.11
     }
   ],
   "topLosers": [
@@ -91,12 +91,28 @@
       "changeDollar": -1.62
     },
     {
-      "ticker": "MLI",
-      "name": "MUELLER INDS INC COM",
+      "ticker": "SE",
+      "name": "SEA LTD SPONSORD ADS",
       "sector": "Unknown",
-      "price": 56.81,
-      "changePct": -6.59,
-      "changeDollar": -4.01
+      "price": 80.43,
+      "changePct": -9.09,
+      "changeDollar": -8.04
+    },
+    {
+      "ticker": "GM",
+      "name": "GENERAL MTRS CO COM",
+      "sector": "Unknown",
+      "price": 77.09,
+      "changePct": -6.84,
+      "changeDollar": -5.66
+    },
+    {
+      "ticker": "ARMG",
+      "name": "THEMES ETF TR LEVERAGE SHARES",
+      "sector": "Unknown",
+      "price": 11.84,
+      "changePct": -6.77,
+      "changeDollar": -0.86
     },
     {
       "ticker": "DVA",
@@ -107,60 +123,44 @@
       "changeDollar": -11.65
     },
     {
-      "ticker": "TZA",
-      "name": "DIREXION SHARES ETF TRUST DAILY SMALL CAP",
+      "ticker": "KORU",
+      "name": "DIREXION SHARES ETF TRUST DAIL MS KORE ETF",
       "sector": "Unknown",
-      "price": 48.59,
-      "changePct": -4.82,
-      "changeDollar": -2.46
+      "price": 11.34,
+      "changePct": -4.87,
+      "changeDollar": -0.58
     },
     {
-      "ticker": "SKUU",
-      "name": "GRANITESHARES ETF TR 2X LNG SK HYNIX",
+      "ticker": "MXL",
+      "name": "MAXLINEAR INC COM",
       "sector": "Unknown",
-      "price": 15.71,
-      "changePct": -4.32,
-      "changeDollar": -0.71
+      "price": 73.51,
+      "changePct": -4.67,
+      "changeDollar": -3.6
     },
     {
-      "ticker": "SMTC",
-      "name": "SEMTECH CORP COM",
+      "ticker": "IREN",
+      "name": "IREN LIMITED ORDINARY SHARES",
       "sector": "Unknown",
-      "price": 136.2,
-      "changePct": -4.23,
-      "changeDollar": -6.02
-    },
-    {
-      "ticker": "CDNL",
-      "name": "CARDINAL INFRASTRUCTURE GROUP CL A",
-      "sector": "Unknown",
-      "price": 15.2,
-      "changePct": -4.22,
-      "changeDollar": -0.67
-    },
-    {
-      "ticker": "FPS",
-      "name": "FORGENT POWER SOLUTIONS INC COM SHS CL A",
-      "sector": "Unknown",
-      "price": 30.23,
-      "changePct": -4.09,
-      "changeDollar": -1.29
-    },
-    {
-      "ticker": "FSLY",
-      "name": "FASTLY INC CL A",
-      "sector": "Unknown",
-      "price": 22.07,
+      "price": 26.62,
       "changePct": -4.0,
-      "changeDollar": -0.92
+      "changeDollar": -1.11
     },
     {
-      "ticker": "ICHR",
-      "name": "ICHOR HOLDINGS SHS",
+      "ticker": "SEI",
+      "name": "SOLARIS ENERGY INFRAS INC COM CL A",
       "sector": "Unknown",
-      "price": 42.23,
-      "changePct": -3.85,
-      "changeDollar": -1.69
+      "price": 63.34,
+      "changePct": -3.68,
+      "changeDollar": -2.42
+    },
+    {
+      "ticker": "GE",
+      "name": "GE AEROSPACE COM NEW",
+      "sector": "Unknown",
+      "price": 299.87,
+      "changePct": -3.67,
+      "changeDollar": -11.41
     }
   ],
   "dollarGainers": [
@@ -197,12 +197,12 @@
       "changeDollar": 4.97
     },
     {
-      "ticker": "IMCR",
-      "name": "IMMUNOCORE HLDGS PLC ADS",
+      "ticker": "NESR",
+      "name": "NATIONAL ENERGY SERVICES REUNI SHS",
       "sector": "Unknown",
-      "price": 32.6,
-      "changePct": 9.25,
-      "changeDollar": 2.76
+      "price": 21.09,
+      "changePct": 11.12,
+      "changeDollar": 2.11
     }
   ],
   "dollarLosers": [
@@ -215,36 +215,36 @@
       "changeDollar": -11.65
     },
     {
-      "ticker": "SMTC",
-      "name": "SEMTECH CORP COM",
+      "ticker": "GE",
+      "name": "GE AEROSPACE COM NEW",
       "sector": "Unknown",
-      "price": 136.2,
-      "changePct": -4.23,
-      "changeDollar": -6.02
+      "price": 299.87,
+      "changePct": -3.67,
+      "changeDollar": -11.41
     },
     {
-      "ticker": "MLI",
-      "name": "MUELLER INDS INC COM",
+      "ticker": "SE",
+      "name": "SEA LTD SPONSORD ADS",
       "sector": "Unknown",
-      "price": 56.81,
-      "changePct": -6.59,
-      "changeDollar": -4.01
+      "price": 80.43,
+      "changePct": -9.09,
+      "changeDollar": -8.04
     },
     {
-      "ticker": "TZA",
-      "name": "DIREXION SHARES ETF TRUST DAILY SMALL CAP",
+      "ticker": "GM",
+      "name": "GENERAL MTRS CO COM",
       "sector": "Unknown",
-      "price": 48.59,
-      "changePct": -4.82,
-      "changeDollar": -2.46
+      "price": 77.09,
+      "changePct": -6.84,
+      "changeDollar": -5.66
     },
     {
-      "ticker": "ICHR",
-      "name": "ICHOR HOLDINGS SHS",
+      "ticker": "MXL",
+      "name": "MAXLINEAR INC COM",
       "sector": "Unknown",
-      "price": 42.23,
-      "changePct": -3.85,
-      "changeDollar": -1.69
+      "price": 73.51,
+      "changePct": -4.67,
+      "changeDollar": -3.6
     }
   ]
 }
