@@ -1,250 +1,250 @@
 {
   "topGainers": [
     {
-      "ticker": "BETR",
-      "name": "BETTER HOME & FINANCE HOLDING COM NEW CL A",
-      "sector": "Unknown",
-      "price": 15.45,
-      "changePct": 29.07,
-      "changeDollar": 3.48
-    },
-    {
-      "ticker": "SPAX",
-      "name": "ETF OPPORTUNITIES TRUST T REX 2X LN SPCX",
+      "ticker": "SPCH",
+      "name": "Leverage Shares 2X Long SPCX Daily ETF",
       "sector": "Unknown",
       "price": 10.84,
-      "changePct": 13.39,
-      "changeDollar": 1.28
+      "changePct": 15.2,
+      "changeDollar": 1.43
+    },
+    {
+      "ticker": "SPCF",
+      "name": "PROSHARES TR ULTRA SPACEX",
+      "sector": "Unknown",
+      "price": 18.03,
+      "changePct": 14.99,
+      "changeDollar": 2.35
+    },
+    {
+      "ticker": "MSTX",
+      "name": "TIDAL TRUST II DE 2X LO MS ETF",
+      "sector": "Unknown",
+      "price": 17.44,
+      "changePct": 14.89,
+      "changeDollar": 2.26
+    },
+    {
+      "ticker": "RCEL",
+      "name": "AVITA MEDICAL INC COM",
+      "sector": "Unknown",
+      "price": 15.29,
+      "changePct": 10.8,
+      "changeDollar": 1.49
     },
     {
       "ticker": "SMCI",
       "name": "SUPER MICRO COMPUTER INC COM NEW",
       "sector": "Unknown",
-      "price": 35.47,
-      "changePct": 9.24,
-      "changeDollar": 3.0
+      "price": 35.57,
+      "changePct": 9.55,
+      "changeDollar": 3.1
     },
     {
-      "ticker": "WFRD",
-      "name": "WEATHERFORD INTL PLC ORD SHS",
+      "ticker": "SEI",
+      "name": "SOLARIS ENERGY INFRAS INC COM CL A",
       "sector": "Unknown",
-      "price": 85.91,
+      "price": 69.37,
+      "changePct": 9.52,
+      "changeDollar": 6.03
+    },
+    {
+      "ticker": "APPN",
+      "name": "APPIAN CORP CL A",
+      "sector": "Unknown",
+      "price": 48.73,
+      "changePct": 9.48,
+      "changeDollar": 4.22
+    },
+    {
+      "ticker": "FLY",
+      "name": "FIREFLY AEROSPACE INC COM",
+      "sector": "Unknown",
+      "price": 17.66,
       "changePct": 8.28,
-      "changeDollar": 6.57
+      "changeDollar": 1.35
     },
     {
-      "ticker": "NTSK",
-      "name": "NETSKOPE INC CL A",
+      "ticker": "EQPT",
+      "name": "EQUIPMENTSHARE COM INC COM CL A",
       "sector": "Unknown",
-      "price": 21.45,
-      "changePct": 8.27,
-      "changeDollar": 1.64
+      "price": 16.85,
+      "changePct": 8.01,
+      "changeDollar": 1.25
     },
     {
-      "ticker": "MANE",
-      "name": "VERADERMICS INC COMMON STOCK",
+      "ticker": "SPCX",
+      "name": "SPACE EXPLORATION TECHN CORP CLASS A COM STK",
       "sector": "Unknown",
-      "price": 137.26,
-      "changePct": 7.99,
-      "changeDollar": 10.15
-    },
-    {
-      "ticker": "BE",
-      "name": "BLOOM ENERGY CORP COM CL A",
-      "sector": "Unknown",
-      "price": 240.4,
-      "changePct": 7.97,
-      "changeDollar": 17.75
-    },
-    {
-      "ticker": "TXG",
-      "name": "10X GENOMICS INC CL A COM",
-      "sector": "Unknown",
-      "price": 76.31,
-      "changePct": 6.79,
-      "changeDollar": 4.85
-    },
-    {
-      "ticker": "FPS",
-      "name": "FORGENT POWER SOLUTIONS INC COM SHS CL A",
-      "sector": "Unknown",
-      "price": 32.1,
-      "changePct": 6.22,
-      "changeDollar": 1.88
-    },
-    {
-      "ticker": "ILMN",
-      "name": "ILLUMINA INC COM",
-      "sector": "Unknown",
-      "price": 284.5,
-      "changePct": 6.18,
-      "changeDollar": 16.57
+      "price": 159.31,
+      "changePct": 7.79,
+      "changeDollar": 11.52
     }
   ],
   "topLosers": [
     {
+      "ticker": "SPCG",
+      "name": "Tradr 2X Short SpaceX Daily ETF",
+      "sector": "Unknown",
+      "price": 12.65,
+      "changePct": -15.21,
+      "changeDollar": -2.27
+    },
+    {
       "ticker": "IART",
       "name": "INTEGRA LIFESCIENCES HLDGS CP COM NEW",
       "sector": "Unknown",
-      "price": 12.13,
-      "changePct": -9.0,
-      "changeDollar": -1.2
-    },
-    {
-      "ticker": "TAL",
-      "name": "TAL ED GROUP SPONSORED ADS",
-      "sector": "Unknown",
-      "price": 10.59,
-      "changePct": -8.55,
-      "changeDollar": -0.99
+      "price": 11.84,
+      "changePct": -11.18,
+      "changeDollar": -1.49
     },
     {
       "ticker": "BABX",
       "name": "GRANITESHARES ETF TR 2X LNG BABA DAL",
       "sector": "Unknown",
-      "price": 15.17,
-      "changePct": -7.61,
-      "changeDollar": -1.25
+      "price": 15.13,
+      "changePct": -7.86,
+      "changeDollar": -1.29
     },
     {
-      "ticker": "BSP",
-      "name": "BENDING SPOONS SPA COM SHS",
+      "ticker": "TSLQ",
+      "name": "INVESTMENT MANAGERS SER TR II TRADR 2X SHORT",
       "sector": "Unknown",
-      "price": 43.08,
-      "changePct": -5.42,
-      "changeDollar": -2.47
+      "price": 16.06,
+      "changePct": -6.79,
+      "changeDollar": -1.17
     },
     {
-      "ticker": "YINN",
-      "name": "DIREXION SHARES ETF TRUST DA FT CH BU ETF",
+      "ticker": "RSI",
+      "name": "RUSH STREET INTERACTIVE INC COM",
       "sector": "Unknown",
-      "price": 22.49,
-      "changePct": -4.82,
-      "changeDollar": -1.14
+      "price": 16.85,
+      "changePct": -5.55,
+      "changeDollar": -0.99
     },
     {
-      "ticker": "ELS",
-      "name": "EQUITY LIFESTYLE PROPERTIES COM",
+      "ticker": "CELH",
+      "name": "CELSIUS HLDGS INC COM NEW",
       "sector": "Unknown",
-      "price": 59.17,
-      "changePct": -4.53,
-      "changeDollar": -2.81
+      "price": 28.31,
+      "changePct": -5.51,
+      "changeDollar": -1.65
     },
     {
-      "ticker": "LRN",
-      "name": "STRIDE INC COM",
+      "ticker": "WHR",
+      "name": "WHIRLPOOL CORP COM",
       "sector": "Unknown",
-      "price": 75.55,
-      "changePct": -4.31,
-      "changeDollar": -3.4
+      "price": 26.53,
+      "changePct": -5.39,
+      "changeDollar": -1.51
     },
     {
-      "ticker": "CAVA",
-      "name": "CAVA GROUP INC COM",
+      "ticker": "FRPT",
+      "name": "FRESHPET INC COM",
       "sector": "Unknown",
-      "price": 55.0,
-      "changePct": -4.26,
-      "changeDollar": -2.45
+      "price": 62.58,
+      "changePct": -5.25,
+      "changeDollar": -3.47
     },
     {
-      "ticker": "BROS",
-      "name": "DUTCH BROS INC CL A",
+      "ticker": "CMG",
+      "name": "CHIPOTLE MEXICAN GRILL INC COM",
       "sector": "Unknown",
-      "price": 42.03,
-      "changePct": -4.08,
-      "changeDollar": -1.79
+      "price": 28.12,
+      "changePct": -5.16,
+      "changeDollar": -1.53
     },
     {
-      "ticker": "MTG",
-      "name": "MGIC INVT CORP WIS COM",
+      "ticker": "SKDD",
+      "name": "GRANITESHARES ETF TR 2X SRT SK HYNIX",
       "sector": "Unknown",
-      "price": 27.02,
-      "changePct": -4.08,
-      "changeDollar": -1.15
+      "price": 10.94,
+      "changePct": -5.12,
+      "changeDollar": -0.59
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "BE",
-      "name": "BLOOM ENERGY CORP COM CL A",
+      "ticker": "SPCX",
+      "name": "SPACE EXPLORATION TECHN CORP CLASS A COM STK",
       "sector": "Unknown",
-      "price": 240.4,
-      "changePct": 7.97,
-      "changeDollar": 17.75
+      "price": 159.31,
+      "changePct": 7.79,
+      "changeDollar": 11.52
     },
     {
-      "ticker": "ILMN",
-      "name": "ILLUMINA INC COM",
+      "ticker": "SEI",
+      "name": "SOLARIS ENERGY INFRAS INC COM CL A",
       "sector": "Unknown",
-      "price": 284.5,
-      "changePct": 6.18,
-      "changeDollar": 16.57
+      "price": 69.37,
+      "changePct": 9.52,
+      "changeDollar": 6.03
     },
     {
-      "ticker": "MANE",
-      "name": "VERADERMICS INC COMMON STOCK",
+      "ticker": "APPN",
+      "name": "APPIAN CORP CL A",
       "sector": "Unknown",
-      "price": 137.26,
-      "changePct": 7.99,
-      "changeDollar": 10.15
+      "price": 48.73,
+      "changePct": 9.48,
+      "changeDollar": 4.22
     },
     {
-      "ticker": "WFRD",
-      "name": "WEATHERFORD INTL PLC ORD SHS",
+      "ticker": "SMCI",
+      "name": "SUPER MICRO COMPUTER INC COM NEW",
       "sector": "Unknown",
-      "price": 85.91,
-      "changePct": 8.28,
-      "changeDollar": 6.57
+      "price": 35.57,
+      "changePct": 9.55,
+      "changeDollar": 3.1
     },
     {
-      "ticker": "TXG",
-      "name": "10X GENOMICS INC CL A COM",
+      "ticker": "SPCF",
+      "name": "PROSHARES TR ULTRA SPACEX",
       "sector": "Unknown",
-      "price": 76.31,
-      "changePct": 6.79,
-      "changeDollar": 4.85
+      "price": 18.03,
+      "changePct": 14.99,
+      "changeDollar": 2.35
     }
   ],
   "dollarLosers": [
     {
-      "ticker": "LRN",
-      "name": "STRIDE INC COM",
+      "ticker": "FRPT",
+      "name": "FRESHPET INC COM",
       "sector": "Unknown",
-      "price": 75.55,
-      "changePct": -4.31,
-      "changeDollar": -3.4
+      "price": 62.58,
+      "changePct": -5.25,
+      "changeDollar": -3.47
     },
     {
-      "ticker": "ELS",
-      "name": "EQUITY LIFESTYLE PROPERTIES COM",
+      "ticker": "SPCG",
+      "name": "Tradr 2X Short SpaceX Daily ETF",
       "sector": "Unknown",
-      "price": 59.17,
-      "changePct": -4.53,
-      "changeDollar": -2.81
+      "price": 12.65,
+      "changePct": -15.21,
+      "changeDollar": -2.27
     },
     {
-      "ticker": "BSP",
-      "name": "BENDING SPOONS SPA COM SHS",
+      "ticker": "CELH",
+      "name": "CELSIUS HLDGS INC COM NEW",
       "sector": "Unknown",
-      "price": 43.08,
-      "changePct": -5.42,
-      "changeDollar": -2.47
+      "price": 28.31,
+      "changePct": -5.51,
+      "changeDollar": -1.65
     },
     {
-      "ticker": "CAVA",
-      "name": "CAVA GROUP INC COM",
+      "ticker": "CMG",
+      "name": "CHIPOTLE MEXICAN GRILL INC COM",
       "sector": "Unknown",
-      "price": 55.0,
-      "changePct": -4.26,
-      "changeDollar": -2.45
+      "price": 28.12,
+      "changePct": -5.16,
+      "changeDollar": -1.53
     },
     {
-      "ticker": "BROS",
-      "name": "DUTCH BROS INC CL A",
+      "ticker": "WHR",
+      "name": "WHIRLPOOL CORP COM",
       "sector": "Unknown",
-      "price": 42.03,
-      "changePct": -4.08,
-      "changeDollar": -1.79
+      "price": 26.53,
+      "changePct": -5.39,
+      "changeDollar": -1.51
     }
   ]
 }
