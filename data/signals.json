@@ -1,250 +1,250 @@
 {
   "topGainers": [
     {
+      "ticker": "NTSK",
+      "name": "NETSKOPE INC CL A",
+      "sector": "Unknown",
+      "price": 24.28,
+      "changePct": 9.37,
+      "changeDollar": 2.08
+    },
+    {
+      "ticker": "CART",
+      "name": "MAPLEBEAR INC COM",
+      "sector": "Unknown",
+      "price": 56.44,
+      "changePct": 9.21,
+      "changeDollar": 4.76
+    },
+    {
       "ticker": "FSLY",
       "name": "FASTLY INC CL A",
       "sector": "Unknown",
-      "price": 24.32,
-      "changePct": 8.33,
-      "changeDollar": 1.87
+      "price": 24.41,
+      "changePct": 8.73,
+      "changeDollar": 1.96
     },
     {
-      "ticker": "SKUU",
-      "name": "GRANITESHARES ETF TR 2X LNG SK HYNIX",
+      "ticker": "ZS",
+      "name": "ZSCALER INC COM",
       "sector": "Unknown",
-      "price": 14.98,
-      "changePct": 8.0,
-      "changeDollar": 1.11
+      "price": 255.15,
+      "changePct": 7.31,
+      "changeDollar": 17.39
     },
     {
-      "ticker": "TTMI",
-      "name": "TTM TECHNOLOGIES INC COM",
+      "ticker": "NET",
+      "name": "CLOUDFLARE INC CL A COM",
       "sector": "Unknown",
-      "price": 79.54,
-      "changePct": 7.65,
-      "changeDollar": 5.65
+      "price": 325.73,
+      "changePct": 7.29,
+      "changeDollar": 22.12
     },
     {
-      "ticker": "HSAI",
-      "name": "HESAI GROUP SPONSORED ADS",
+      "ticker": "OII",
+      "name": "OCEANEERING INTL INC COM",
       "sector": "Unknown",
-      "price": 13.06,
-      "changePct": 7.58,
-      "changeDollar": 0.92
+      "price": 39.27,
+      "changePct": 7.24,
+      "changeDollar": 2.65
     },
     {
-      "ticker": "FIVN",
-      "name": "FIVE9 INC COM",
+      "ticker": "PANW",
+      "name": "PALO ALTO NETWORKS INC COM",
       "sector": "Unknown",
-      "price": 37.53,
-      "changePct": 6.92,
-      "changeDollar": 2.43
+      "price": 380.55,
+      "changePct": 7.22,
+      "changeDollar": 25.63
     },
     {
-      "ticker": "SMTC",
-      "name": "SEMTECH CORP COM",
+      "ticker": "INVX",
+      "name": "INNOVEX INTERNATIONAL INC COM",
       "sector": "Unknown",
-      "price": 133.63,
-      "changePct": 6.8,
-      "changeDollar": 8.51
+      "price": 29.91,
+      "changePct": 7.09,
+      "changeDollar": 1.98
     },
     {
-      "ticker": "MUU",
-      "name": "DIREXION SHARES ETF TRUST DLY MU BULL 2X",
+      "ticker": "SDRL",
+      "name": "SEADRILL LTD COM",
       "sector": "Unknown",
-      "price": 24.44,
-      "changePct": 6.68,
-      "changeDollar": 1.53
-    },
-    {
-      "ticker": "OSPN",
-      "name": "ONESPAN INC COM",
-      "sector": "Unknown",
-      "price": 20.48,
-      "changePct": 6.61,
-      "changeDollar": 1.27
-    },
-    {
-      "ticker": "DDOG",
-      "name": "DATADOG INC CL A COM",
-      "sector": "Unknown",
-      "price": 272.58,
-      "changePct": 5.75,
-      "changeDollar": 14.83
+      "price": 52.35,
+      "changePct": 6.42,
+      "changeDollar": 3.16
     },
     {
       "ticker": "TENB",
       "name": "TENABLE HLDGS INC COM",
       "sector": "Unknown",
-      "price": 44.25,
-      "changePct": 5.36,
-      "changeDollar": 2.25
+      "price": 44.59,
+      "changePct": 6.17,
+      "changeDollar": 2.59
     }
   ],
   "topLosers": [
     {
+      "ticker": "LKQ",
+      "name": "LKQ CORP COM",
+      "sector": "Unknown",
+      "price": 17.42,
+      "changePct": -22.47,
+      "changeDollar": -5.05
+    },
+    {
+      "ticker": "CORT",
+      "name": "CORCEPT THERAPEUTICS INC COM",
+      "sector": "Unknown",
+      "price": 85.86,
+      "changePct": -20.13,
+      "changeDollar": -21.64
+    },
+    {
+      "ticker": "WGS",
+      "name": "GENEDX HOLDINGS CORP COM CL A",
+      "sector": "Unknown",
+      "price": 56.15,
+      "changePct": -16.37,
+      "changeDollar": -10.99
+    },
+    {
+      "ticker": "STC",
+      "name": "STEWART INFORMATION SVCS CORP COM",
+      "sector": "Unknown",
+      "price": 44.07,
+      "changePct": -10.5,
+      "changeDollar": -5.17
+    },
+    {
       "ticker": "CRDO",
       "name": "CREDO TECHNOLOGY GROUP HOLDING ORDINARY SHARES",
       "sector": "Unknown",
-      "price": 149.39,
-      "changePct": -8.22,
-      "changeDollar": -13.38
+      "price": 147.29,
+      "changePct": -9.51,
+      "changeDollar": -15.48
     },
     {
-      "ticker": "NAMS",
-      "name": "NEWAMSTERDAM PHARMA COMPANY NV ORDINARY SHARES",
+      "ticker": "FLG",
+      "name": "FLAGSTAR BANK NATIONAL ASSOCIA COM NEW",
       "sector": "Unknown",
-      "price": 19.87,
-      "changePct": -7.92,
-      "changeDollar": -1.71
+      "price": 10.38,
+      "changePct": -9.27,
+      "changeDollar": -1.06
     },
     {
-      "ticker": "GL",
-      "name": "GLOBE LIFE INC COM",
+      "ticker": "FIX",
+      "name": "COMFORT SYS USA INC COM",
       "sector": "Unknown",
-      "price": 155.65,
-      "changePct": -7.58,
-      "changeDollar": -12.76
+      "price": 1160.86,
+      "changePct": -9.26,
+      "changeDollar": -118.51
     },
     {
-      "ticker": "SMST",
-      "name": "TIDAL TRUST II DEFI DA TA 2025",
+      "ticker": "TMUS",
+      "name": "T-MOBILE US INC COM",
       "sector": "Unknown",
-      "price": 12.29,
-      "changePct": -6.75,
-      "changeDollar": -0.89
+      "price": 146.54,
+      "changePct": -7.71,
+      "changeDollar": -12.25
     },
     {
-      "ticker": "SMPL",
-      "name": "SIMPLY GOOD FOODS CO COM",
+      "ticker": "PENN",
+      "name": "PENN ENTERTAINMENT INC COM",
       "sector": "Unknown",
-      "price": 10.42,
-      "changePct": -5.96,
+      "price": 14.5,
+      "changePct": -6.21,
+      "changeDollar": -0.96
+    },
+    {
+      "ticker": "XERS",
+      "name": "XERIS BIOPHARMA HOLDINGS INC COM",
+      "sector": "Unknown",
+      "price": 10.2,
+      "changePct": -6.08,
       "changeDollar": -0.66
-    },
-    {
-      "ticker": "GNTX",
-      "name": "GENTEX CORP COM",
-      "sector": "Unknown",
-      "price": 20.49,
-      "changePct": -5.75,
-      "changeDollar": -1.25
-    },
-    {
-      "ticker": "FCFS",
-      "name": "FIRSTCASH HOLDINGS INC COM",
-      "sector": "Unknown",
-      "price": 174.25,
-      "changePct": -5.7,
-      "changeDollar": -10.53
-    },
-    {
-      "ticker": "OLLI",
-      "name": "OLLIES BARGAIN OUTLET HLDGS COM",
-      "sector": "Unknown",
-      "price": 87.63,
-      "changePct": -5.4,
-      "changeDollar": -5.0
-    },
-    {
-      "ticker": "EQH",
-      "name": "EQUITABLE HLDGS INC COM",
-      "sector": "Unknown",
-      "price": 52.13,
-      "changePct": -5.29,
-      "changeDollar": -2.91
-    },
-    {
-      "ticker": "MMYT",
-      "name": "MAKEMYTRIP LIMITED MAURITIUS SHS",
-      "sector": "Unknown",
-      "price": 42.99,
-      "changePct": -5.18,
-      "changeDollar": -2.35
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "DDOG",
-      "name": "DATADOG INC CL A COM",
+      "ticker": "PANW",
+      "name": "PALO ALTO NETWORKS INC COM",
       "sector": "Unknown",
-      "price": 272.58,
-      "changePct": 5.75,
-      "changeDollar": 14.83
+      "price": 380.55,
+      "changePct": 7.22,
+      "changeDollar": 25.63
     },
     {
-      "ticker": "SMTC",
-      "name": "SEMTECH CORP COM",
+      "ticker": "NET",
+      "name": "CLOUDFLARE INC CL A COM",
       "sector": "Unknown",
-      "price": 133.63,
-      "changePct": 6.8,
-      "changeDollar": 8.51
+      "price": 325.73,
+      "changePct": 7.29,
+      "changeDollar": 22.12
     },
     {
-      "ticker": "TTMI",
-      "name": "TTM TECHNOLOGIES INC COM",
+      "ticker": "ZS",
+      "name": "ZSCALER INC COM",
       "sector": "Unknown",
-      "price": 79.54,
-      "changePct": 7.65,
-      "changeDollar": 5.65
+      "price": 255.15,
+      "changePct": 7.31,
+      "changeDollar": 17.39
     },
     {
-      "ticker": "FIVN",
-      "name": "FIVE9 INC COM",
+      "ticker": "CART",
+      "name": "MAPLEBEAR INC COM",
       "sector": "Unknown",
-      "price": 37.53,
-      "changePct": 6.92,
-      "changeDollar": 2.43
+      "price": 56.44,
+      "changePct": 9.21,
+      "changeDollar": 4.76
     },
     {
-      "ticker": "TENB",
-      "name": "TENABLE HLDGS INC COM",
+      "ticker": "SDRL",
+      "name": "SEADRILL LTD COM",
       "sector": "Unknown",
-      "price": 44.25,
-      "changePct": 5.36,
-      "changeDollar": 2.25
+      "price": 52.35,
+      "changePct": 6.42,
+      "changeDollar": 3.16
     }
   ],
   "dollarLosers": [
     {
+      "ticker": "FIX",
+      "name": "COMFORT SYS USA INC COM",
+      "sector": "Unknown",
+      "price": 1160.86,
+      "changePct": -9.26,
+      "changeDollar": -118.51
+    },
+    {
+      "ticker": "CORT",
+      "name": "CORCEPT THERAPEUTICS INC COM",
+      "sector": "Unknown",
+      "price": 85.86,
+      "changePct": -20.13,
+      "changeDollar": -21.64
+    },
+    {
       "ticker": "CRDO",
       "name": "CREDO TECHNOLOGY GROUP HOLDING ORDINARY SHARES",
       "sector": "Unknown",
-      "price": 149.39,
-      "changePct": -8.22,
-      "changeDollar": -13.38
+      "price": 147.29,
+      "changePct": -9.51,
+      "changeDollar": -15.48
     },
     {
-      "ticker": "GL",
-      "name": "GLOBE LIFE INC COM",
+      "ticker": "TMUS",
+      "name": "T-MOBILE US INC COM",
       "sector": "Unknown",
-      "price": 155.65,
-      "changePct": -7.58,
-      "changeDollar": -12.76
+      "price": 146.54,
+      "changePct": -7.71,
+      "changeDollar": -12.25
     },
     {
-      "ticker": "FCFS",
-      "name": "FIRSTCASH HOLDINGS INC COM",
+      "ticker": "WGS",
+      "name": "GENEDX HOLDINGS CORP COM CL A",
       "sector": "Unknown",
-      "price": 174.25,
-      "changePct": -5.7,
-      "changeDollar": -10.53
-    },
-    {
-      "ticker": "OLLI",
-      "name": "OLLIES BARGAIN OUTLET HLDGS COM",
-      "sector": "Unknown",
-      "price": 87.63,
-      "changePct": -5.4,
-      "changeDollar": -5.0
-    },
-    {
-      "ticker": "EQH",
-      "name": "EQUITABLE HLDGS INC COM",
-      "sector": "Unknown",
-      "price": 52.13,
-      "changePct": -5.29,
-      "changeDollar": -2.91
+      "price": 56.15,
+      "changePct": -16.37,
+      "changeDollar": -10.99
     }
   ]
 }
