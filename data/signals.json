@@ -1,250 +1,250 @@
 {
   "topGainers": [
     {
-      "ticker": "SNK",
-      "name": "GraniteShares 2x Short SpaceX Daily ETF",
+      "ticker": "FSLY",
+      "name": "FASTLY INC CL A",
       "sector": "Unknown",
-      "price": 14.41,
-      "changePct": 19.29,
-      "changeDollar": 2.33
+      "price": 24.32,
+      "changePct": 8.33,
+      "changeDollar": 1.87
     },
     {
-      "ticker": "SNDQ",
-      "name": "Tradr 2X Short SNDK Daily ETF",
+      "ticker": "SKUU",
+      "name": "GRANITESHARES ETF TR 2X LNG SK HYNIX",
       "sector": "Unknown",
-      "price": 18.8,
-      "changePct": 16.99,
-      "changeDollar": 2.73
+      "price": 14.98,
+      "changePct": 8.0,
+      "changeDollar": 1.11
     },
     {
-      "ticker": "SKDD",
-      "name": "GRANITESHARES ETF TR 2X SRT SK HYNIX",
+      "ticker": "TTMI",
+      "name": "TTM TECHNOLOGIES INC COM",
       "sector": "Unknown",
-      "price": 12.7,
-      "changePct": 16.09,
-      "changeDollar": 1.76
+      "price": 79.54,
+      "changePct": 7.65,
+      "changeDollar": 5.65
     },
     {
-      "ticker": "MLTX",
-      "name": "MOONLAKE IMMUNOTHERAPEUTICS CLASS A ORD",
+      "ticker": "HSAI",
+      "name": "HESAI GROUP SPONSORED ADS",
       "sector": "Unknown",
-      "price": 12.34,
-      "changePct": 15.87,
-      "changeDollar": 1.69
+      "price": 13.06,
+      "changePct": 7.58,
+      "changeDollar": 0.92
     },
     {
-      "ticker": "METQ",
-      "name": "Tradr 2X Short META Daily ETF",
+      "ticker": "FIVN",
+      "name": "FIVE9 INC COM",
       "sector": "Unknown",
-      "price": 17.12,
-      "changePct": 14.59,
-      "changeDollar": 2.18
+      "price": 37.53,
+      "changePct": 6.92,
+      "changeDollar": 2.43
     },
     {
-      "ticker": "BMI",
-      "name": "BADGER METER INC COM",
+      "ticker": "SMTC",
+      "name": "SEMTECH CORP COM",
       "sector": "Unknown",
-      "price": 149.64,
-      "changePct": 13.48,
-      "changeDollar": 17.78
+      "price": 133.63,
+      "changePct": 6.8,
+      "changeDollar": 8.51
     },
     {
-      "ticker": "KSS",
-      "name": "KOHLS CORP COM",
+      "ticker": "MUU",
+      "name": "DIREXION SHARES ETF TRUST DLY MU BULL 2X",
       "sector": "Unknown",
-      "price": 24.78,
-      "changePct": 11.82,
-      "changeDollar": 2.62
+      "price": 24.44,
+      "changePct": 6.68,
+      "changeDollar": 1.53
     },
     {
-      "ticker": "SPOT",
-      "name": "SPOTIFY TECHNOLOGY S A SHS",
+      "ticker": "OSPN",
+      "name": "ONESPAN INC COM",
       "sector": "Unknown",
-      "price": 583.66,
-      "changePct": 11.1,
-      "changeDollar": 58.32
+      "price": 20.48,
+      "changePct": 6.61,
+      "changeDollar": 1.27
     },
     {
-      "ticker": "UVXY",
-      "name": "ProShares Ultra VIX Short-Term Futures ETF",
+      "ticker": "DDOG",
+      "name": "DATADOG INC CL A COM",
       "sector": "Unknown",
-      "price": 18.41,
-      "changePct": 9.58,
-      "changeDollar": 1.61
+      "price": 272.58,
+      "changePct": 5.75,
+      "changeDollar": 14.83
     },
     {
-      "ticker": "VSTM",
-      "name": "VERASTEM INC COM NEW",
+      "ticker": "TENB",
+      "name": "TENABLE HLDGS INC COM",
       "sector": "Unknown",
-      "price": 10.06,
-      "changePct": 9.23,
-      "changeDollar": 0.85
+      "price": 44.25,
+      "changePct": 5.36,
+      "changeDollar": 2.25
     }
   ],
   "topLosers": [
     {
-      "ticker": "LITX",
-      "name": "Tradr 2X Long LITE Daily ETF",
+      "ticker": "CRDO",
+      "name": "CREDO TECHNOLOGY GROUP HOLDING ORDINARY SHARES",
       "sector": "Unknown",
-      "price": 19.05,
-      "changePct": -23.12,
-      "changeDollar": -5.73
+      "price": 149.39,
+      "changePct": -8.22,
+      "changeDollar": -13.38
     },
     {
-      "ticker": "SPCU",
-      "name": "Defiance Daily Target 2X Long SPCX ETF",
+      "ticker": "NAMS",
+      "name": "NEWAMSTERDAM PHARMA COMPANY NV ORDINARY SHARES",
       "sector": "Unknown",
-      "price": 11.75,
-      "changePct": -18.46,
-      "changeDollar": -2.66
+      "price": 19.87,
+      "changePct": -7.92,
+      "changeDollar": -1.71
     },
     {
-      "ticker": "BEX",
-      "name": "Tradr 2X Long BE Daily ETF",
+      "ticker": "GL",
+      "name": "GLOBE LIFE INC COM",
       "sector": "Unknown",
-      "price": 21.24,
-      "changePct": -17.8,
-      "changeDollar": -4.6
+      "price": 155.65,
+      "changePct": -7.58,
+      "changeDollar": -12.76
     },
     {
-      "ticker": "MVLL",
-      "name": "GRANITESHARES ETF TR 2X LONG MRVL",
+      "ticker": "SMST",
+      "name": "TIDAL TRUST II DEFI DA TA 2025",
       "sector": "Unknown",
-      "price": 24.49,
-      "changePct": -17.65,
-      "changeDollar": -5.25
+      "price": 12.29,
+      "changePct": -6.75,
+      "changeDollar": -0.89
     },
     {
-      "ticker": "OII",
-      "name": "OCEANEERING INTL INC COM",
+      "ticker": "SMPL",
+      "name": "SIMPLY GOOD FOODS CO COM",
       "sector": "Unknown",
-      "price": 36.62,
-      "changePct": -16.94,
-      "changeDollar": -7.47
+      "price": 10.42,
+      "changePct": -5.96,
+      "changeDollar": -0.66
     },
     {
-      "ticker": "AMDL",
-      "name": "GRANITESHARES ETF TR GRANITE 2X LONG",
+      "ticker": "GNTX",
+      "name": "GENTEX CORP COM",
       "sector": "Unknown",
-      "price": 52.89,
-      "changePct": -16.25,
-      "changeDollar": -10.26
-    },
-    {
-      "ticker": "MRNY",
-      "name": "TIDAL TRUST II YIE MRN INC ETF",
-      "sector": "Unknown",
-      "price": 39.09,
-      "changePct": -16.06,
-      "changeDollar": -7.48
-    },
-    {
-      "ticker": "MTSI",
-      "name": "MACOM TECH SOLUTIONS HLDGS INC COM",
-      "sector": "Unknown",
-      "price": 229.73,
-      "changePct": -15.87,
-      "changeDollar": -43.32
-    },
-    {
-      "ticker": "UCTT",
-      "name": "ULTRA CLEAN HLDGS INC COM",
-      "sector": "Unknown",
-      "price": 44.46,
-      "changePct": -14.86,
-      "changeDollar": -7.76
+      "price": 20.49,
+      "changePct": -5.75,
+      "changeDollar": -1.25
     },
     {
       "ticker": "FCFS",
       "name": "FIRSTCASH HOLDINGS INC COM",
       "sector": "Unknown",
-      "price": 184.78,
-      "changePct": -14.75,
-      "changeDollar": -31.97
+      "price": 174.25,
+      "changePct": -5.7,
+      "changeDollar": -10.53
+    },
+    {
+      "ticker": "OLLI",
+      "name": "OLLIES BARGAIN OUTLET HLDGS COM",
+      "sector": "Unknown",
+      "price": 87.63,
+      "changePct": -5.4,
+      "changeDollar": -5.0
+    },
+    {
+      "ticker": "EQH",
+      "name": "EQUITABLE HLDGS INC COM",
+      "sector": "Unknown",
+      "price": 52.13,
+      "changePct": -5.29,
+      "changeDollar": -2.91
+    },
+    {
+      "ticker": "MMYT",
+      "name": "MAKEMYTRIP LIMITED MAURITIUS SHS",
+      "sector": "Unknown",
+      "price": 42.99,
+      "changePct": -5.18,
+      "changeDollar": -2.35
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "SPOT",
-      "name": "SPOTIFY TECHNOLOGY S A SHS",
+      "ticker": "DDOG",
+      "name": "DATADOG INC CL A COM",
       "sector": "Unknown",
-      "price": 583.66,
-      "changePct": 11.1,
-      "changeDollar": 58.32
+      "price": 272.58,
+      "changePct": 5.75,
+      "changeDollar": 14.83
     },
     {
-      "ticker": "BMI",
-      "name": "BADGER METER INC COM",
+      "ticker": "SMTC",
+      "name": "SEMTECH CORP COM",
       "sector": "Unknown",
-      "price": 149.64,
-      "changePct": 13.48,
-      "changeDollar": 17.78
+      "price": 133.63,
+      "changePct": 6.8,
+      "changeDollar": 8.51
     },
     {
-      "ticker": "SNDQ",
-      "name": "Tradr 2X Short SNDK Daily ETF",
+      "ticker": "TTMI",
+      "name": "TTM TECHNOLOGIES INC COM",
       "sector": "Unknown",
-      "price": 18.8,
-      "changePct": 16.99,
-      "changeDollar": 2.73
+      "price": 79.54,
+      "changePct": 7.65,
+      "changeDollar": 5.65
     },
     {
-      "ticker": "KSS",
-      "name": "KOHLS CORP COM",
+      "ticker": "FIVN",
+      "name": "FIVE9 INC COM",
       "sector": "Unknown",
-      "price": 24.78,
-      "changePct": 11.82,
-      "changeDollar": 2.62
+      "price": 37.53,
+      "changePct": 6.92,
+      "changeDollar": 2.43
     },
     {
-      "ticker": "SNK",
-      "name": "GraniteShares 2x Short SpaceX Daily ETF",
+      "ticker": "TENB",
+      "name": "TENABLE HLDGS INC COM",
       "sector": "Unknown",
-      "price": 14.41,
-      "changePct": 19.29,
-      "changeDollar": 2.33
+      "price": 44.25,
+      "changePct": 5.36,
+      "changeDollar": 2.25
     }
   ],
   "dollarLosers": [
     {
-      "ticker": "MTSI",
-      "name": "MACOM TECH SOLUTIONS HLDGS INC COM",
+      "ticker": "CRDO",
+      "name": "CREDO TECHNOLOGY GROUP HOLDING ORDINARY SHARES",
       "sector": "Unknown",
-      "price": 229.73,
-      "changePct": -15.87,
-      "changeDollar": -43.32
+      "price": 149.39,
+      "changePct": -8.22,
+      "changeDollar": -13.38
+    },
+    {
+      "ticker": "GL",
+      "name": "GLOBE LIFE INC COM",
+      "sector": "Unknown",
+      "price": 155.65,
+      "changePct": -7.58,
+      "changeDollar": -12.76
     },
     {
       "ticker": "FCFS",
       "name": "FIRSTCASH HOLDINGS INC COM",
       "sector": "Unknown",
-      "price": 184.78,
-      "changePct": -14.75,
-      "changeDollar": -31.97
+      "price": 174.25,
+      "changePct": -5.7,
+      "changeDollar": -10.53
     },
     {
-      "ticker": "AMDL",
-      "name": "GRANITESHARES ETF TR GRANITE 2X LONG",
+      "ticker": "OLLI",
+      "name": "OLLIES BARGAIN OUTLET HLDGS COM",
       "sector": "Unknown",
-      "price": 52.89,
-      "changePct": -16.25,
-      "changeDollar": -10.26
+      "price": 87.63,
+      "changePct": -5.4,
+      "changeDollar": -5.0
     },
     {
-      "ticker": "UCTT",
-      "name": "ULTRA CLEAN HLDGS INC COM",
+      "ticker": "EQH",
+      "name": "EQUITABLE HLDGS INC COM",
       "sector": "Unknown",
-      "price": 44.46,
-      "changePct": -14.86,
-      "changeDollar": -7.76
-    },
-    {
-      "ticker": "MRNY",
-      "name": "TIDAL TRUST II YIE MRN INC ETF",
-      "sector": "Unknown",
-      "price": 39.09,
-      "changePct": -16.06,
-      "changeDollar": -7.48
+      "price": 52.13,
+      "changePct": -5.29,
+      "changeDollar": -2.91
     }
   ]
 }
