@@ -321,6 +321,7 @@ def main():
     spy_str = f"{spy_change:+.2f}%" if spy_change is not None else "n/a"
     print(f"SPY: {spy_str} | Macro active: {macro_active} {macro_keywords}")
 
+
     # Select candidates:
     # Contract 1 — top dollar gainer → PUT  (fade the move — expect reversal overnight)
     # Contract 2 — top dollar loser  → CALL (fade the move — expect bounce overnight)
