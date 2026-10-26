@@ -1,250 +1,250 @@
 {
   "topGainers": [
     {
-      "ticker": "RHI",
-      "name": "ROBERT HALF INC. COM",
+      "ticker": "RPD",
+      "name": "RAPID7 INC COM",
       "sector": "Unknown",
-      "price": 45.87,
-      "changePct": 21.74,
-      "changeDollar": 8.19
+      "price": 17.66,
+      "changePct": 18.44,
+      "changeDollar": 2.75
     },
     {
-      "ticker": "GMAB",
-      "name": "GENMAB A/S SPONSORED ADS",
+      "ticker": "AXTX",
+      "name": "Tradr 2X Long AXTI Daily ETF",
       "sector": "Unknown",
-      "price": 43.79,
-      "changePct": 9.47,
-      "changeDollar": 3.79
+      "price": 16.7,
+      "changePct": 18.19,
+      "changeDollar": 2.57
     },
     {
-      "ticker": "ZLAB",
-      "name": "ZAI LAB LTD ADR",
+      "ticker": "XNCR",
+      "name": "XENCOR INC COM",
       "sector": "Unknown",
-      "price": 24.03,
-      "changePct": 9.03,
-      "changeDollar": 1.99
+      "price": 29.43,
+      "changePct": 16.88,
+      "changeDollar": 4.25
     },
     {
-      "ticker": "FSLY",
-      "name": "FASTLY INC CL A",
+      "ticker": "COHX",
+      "name": "Tradr 2X Long COHR Daily ETF",
       "sector": "Unknown",
-      "price": 24.41,
-      "changePct": 8.73,
-      "changeDollar": 1.96
+      "price": 12.41,
+      "changePct": 13.85,
+      "changeDollar": 1.51
     },
     {
-      "ticker": "CRWD",
-      "name": "CROWDSTRIKE HLDGS INC CL A",
+      "ticker": "BEX",
+      "name": "Tradr 2X Long BE Daily ETF",
       "sector": "Unknown",
-      "price": 257.57,
-      "changePct": 8.25,
-      "changeDollar": 19.63
+      "price": 18.65,
+      "changePct": 13.17,
+      "changeDollar": 2.17
     },
     {
-      "ticker": "HSAI",
-      "name": "HESAI GROUP SPONSORED ADS",
+      "ticker": "TSLR",
+      "name": "GRANITESHARES ETF TR 2X LONG TSLA ETF",
       "sector": "Unknown",
-      "price": 13.13,
-      "changePct": 8.15,
-      "changeDollar": 0.99
+      "price": 18.99,
+      "changePct": 11.9,
+      "changeDollar": 2.02
     },
     {
-      "ticker": "CUBI",
-      "name": "CUSTOMERS BANCORP INC COM",
+      "ticker": "TSLT",
+      "name": "T-Rex 2X Long Tesla Daily Target ETF",
       "sector": "Unknown",
-      "price": 84.54,
-      "changePct": 7.38,
-      "changeDollar": 5.81
+      "price": 15.26,
+      "changePct": 11.79,
+      "changeDollar": 1.61
     },
     {
-      "ticker": "SDRL",
-      "name": "SEADRILL LTD COM",
+      "ticker": "ORKA",
+      "name": "ORUKA THERAPEUTICS INC COM",
       "sector": "Unknown",
-      "price": 52.35,
-      "changePct": 6.42,
-      "changeDollar": 3.16
+      "price": 89.42,
+      "changePct": 11.57,
+      "changeDollar": 9.27
     },
     {
-      "ticker": "OUST",
-      "name": "OUSTER INC COM NEW",
+      "ticker": "AXTI",
+      "name": "AXT INC COM",
       "sector": "Unknown",
-      "price": 29.69,
-      "changePct": 6.11,
-      "changeDollar": 1.71
+      "price": 57.04,
+      "changePct": 9.52,
+      "changeDollar": 4.96
     },
     {
-      "ticker": "VAL",
-      "name": "VALARIS LTD CL A",
+      "ticker": "P",
+      "name": "EVERPURE INC CL A",
       "sector": "Unknown",
-      "price": 97.33,
-      "changePct": 5.58,
-      "changeDollar": 5.14
+      "price": 133.53,
+      "changePct": 8.27,
+      "changeDollar": 10.2
     }
   ],
   "topLosers": [
     {
-      "ticker": "BEG",
-      "name": "THEMES ETF TR LEVERAGE SHS 2X",
+      "ticker": "AFYA",
+      "name": "AFYA LTD CL A COM",
       "sector": "Unknown",
-      "price": 22.74,
-      "changePct": -22.78,
-      "changeDollar": -6.71
+      "price": 10.23,
+      "changePct": -32.21,
+      "changeDollar": -4.86
     },
     {
-      "ticker": "LKQ",
-      "name": "LKQ CORP COM",
+      "ticker": "PBR",
+      "name": "PETROLEO BRASILEIRO S A SPONSORED ADR",
       "sector": "Unknown",
-      "price": 17.42,
-      "changePct": -22.47,
-      "changeDollar": -5.05
+      "price": 22.4,
+      "changePct": -14.37,
+      "changeDollar": -3.76
     },
     {
-      "ticker": "WGS",
-      "name": "GENEDX HOLDINGS CORP COM CL A",
+      "ticker": "ILF",
+      "name": "ISHARES TR LATN AMER 40 ETF",
       "sector": "Unknown",
-      "price": 56.15,
-      "changePct": -16.37,
-      "changeDollar": -10.99
+      "price": 33.31,
+      "changePct": -11.64,
+      "changeDollar": -4.39
     },
     {
-      "ticker": "BE",
-      "name": "BLOOM ENERGY CORP COM CL A",
+      "ticker": "IREZ",
+      "name": "Tradr 2X Short IREN Daily ETF",
       "sector": "Unknown",
-      "price": 193.3,
-      "changePct": -11.24,
-      "changeDollar": -24.47
+      "price": 20.96,
+      "changePct": -7.91,
+      "changeDollar": -1.8
     },
     {
-      "ticker": "STC",
-      "name": "STEWART INFORMATION SVCS CORP COM",
+      "ticker": "MSTX",
+      "name": "TIDAL TRUST II DE 2X LO MS ETF",
       "sector": "Unknown",
-      "price": 44.07,
-      "changePct": -10.5,
-      "changeDollar": -5.17
+      "price": 14.6,
+      "changePct": -7.3,
+      "changeDollar": -1.15
     },
     {
-      "ticker": "NAMS",
-      "name": "NEWAMSTERDAM PHARMA COMPANY NV ORDINARY SHARES",
+      "ticker": "AMKR",
+      "name": "AMKOR TECHNOLOGY INC COM",
       "sector": "Unknown",
-      "price": 19.71,
-      "changePct": -8.67,
-      "changeDollar": -1.87
+      "price": 36.53,
+      "changePct": -7.05,
+      "changeDollar": -2.77
     },
     {
-      "ticker": "GL",
-      "name": "GLOBE LIFE INC COM",
+      "ticker": "ASST",
+      "name": "STRIVE INC CL A COM",
       "sector": "Unknown",
-      "price": 154.79,
-      "changePct": -8.09,
-      "changeDollar": -13.62
+      "price": 27.04,
+      "changePct": -6.66,
+      "changeDollar": -1.93
     },
     {
-      "ticker": "T",
-      "name": "AT&T INC COM",
+      "ticker": "SSG",
+      "name": "PROSHARES TR ULTRA SEMIC NEW",
       "sector": "Unknown",
-      "price": 20.93,
-      "changePct": -7.96,
-      "changeDollar": -1.81
+      "price": 12.55,
+      "changePct": -5.85,
+      "changeDollar": -0.78
     },
     {
-      "ticker": "MMYT",
-      "name": "MAKEMYTRIP LIMITED MAURITIUS SHS",
+      "ticker": "WSO",
+      "name": "WATSCO INC COM",
       "sector": "Unknown",
-      "price": 42.09,
-      "changePct": -7.17,
-      "changeDollar": -3.25
+      "price": 306.55,
+      "changePct": -5.09,
+      "changeDollar": -16.43
     },
     {
-      "ticker": "FWRG",
-      "name": "FIRST WATCH RESTAURANT GROUP I COM",
+      "ticker": "CHTR",
+      "name": "CHARTER COMMUNICATIONS INC CL A",
       "sector": "Unknown",
-      "price": 10.89,
-      "changePct": -5.8,
-      "changeDollar": -0.67
+      "price": 103.15,
+      "changePct": -5.03,
+      "changeDollar": -5.46
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "CRWD",
-      "name": "CROWDSTRIKE HLDGS INC CL A",
+      "ticker": "P",
+      "name": "EVERPURE INC CL A",
       "sector": "Unknown",
-      "price": 257.57,
-      "changePct": 8.25,
-      "changeDollar": 19.63
+      "price": 133.53,
+      "changePct": 8.27,
+      "changeDollar": 10.2
     },
     {
-      "ticker": "RHI",
-      "name": "ROBERT HALF INC. COM",
+      "ticker": "ORKA",
+      "name": "ORUKA THERAPEUTICS INC COM",
       "sector": "Unknown",
-      "price": 45.87,
-      "changePct": 21.74,
-      "changeDollar": 8.19
+      "price": 89.42,
+      "changePct": 11.57,
+      "changeDollar": 9.27
     },
     {
-      "ticker": "CUBI",
-      "name": "CUSTOMERS BANCORP INC COM",
+      "ticker": "AXTI",
+      "name": "AXT INC COM",
       "sector": "Unknown",
-      "price": 84.54,
-      "changePct": 7.38,
-      "changeDollar": 5.81
+      "price": 57.04,
+      "changePct": 9.52,
+      "changeDollar": 4.96
     },
     {
-      "ticker": "VAL",
-      "name": "VALARIS LTD CL A",
+      "ticker": "XNCR",
+      "name": "XENCOR INC COM",
       "sector": "Unknown",
-      "price": 97.33,
-      "changePct": 5.58,
-      "changeDollar": 5.14
+      "price": 29.43,
+      "changePct": 16.88,
+      "changeDollar": 4.25
     },
     {
-      "ticker": "GMAB",
-      "name": "GENMAB A/S SPONSORED ADS",
+      "ticker": "RPD",
+      "name": "RAPID7 INC COM",
       "sector": "Unknown",
-      "price": 43.79,
-      "changePct": 9.47,
-      "changeDollar": 3.79
+      "price": 17.66,
+      "changePct": 18.44,
+      "changeDollar": 2.75
     }
   ],
   "dollarLosers": [
     {
-      "ticker": "BE",
-      "name": "BLOOM ENERGY CORP COM CL A",
+      "ticker": "WSO",
+      "name": "WATSCO INC COM",
       "sector": "Unknown",
-      "price": 193.3,
-      "changePct": -11.24,
-      "changeDollar": -24.47
+      "price": 306.55,
+      "changePct": -5.09,
+      "changeDollar": -16.43
     },
     {
-      "ticker": "GL",
-      "name": "GLOBE LIFE INC COM",
+      "ticker": "CHTR",
+      "name": "CHARTER COMMUNICATIONS INC CL A",
       "sector": "Unknown",
-      "price": 154.79,
-      "changePct": -8.09,
-      "changeDollar": -13.62
+      "price": 103.15,
+      "changePct": -5.03,
+      "changeDollar": -5.46
     },
     {
-      "ticker": "WGS",
-      "name": "GENEDX HOLDINGS CORP COM CL A",
+      "ticker": "AFYA",
+      "name": "AFYA LTD CL A COM",
       "sector": "Unknown",
-      "price": 56.15,
-      "changePct": -16.37,
-      "changeDollar": -10.99
+      "price": 10.23,
+      "changePct": -32.21,
+      "changeDollar": -4.86
     },
     {
-      "ticker": "BEG",
-      "name": "THEMES ETF TR LEVERAGE SHS 2X",
+      "ticker": "ILF",
+      "name": "ISHARES TR LATN AMER 40 ETF",
       "sector": "Unknown",
-      "price": 22.74,
-      "changePct": -22.78,
-      "changeDollar": -6.71
+      "price": 33.31,
+      "changePct": -11.64,
+      "changeDollar": -4.39
     },
     {
-      "ticker": "STC",
-      "name": "STEWART INFORMATION SVCS CORP COM",
+      "ticker": "PBR",
+      "name": "PETROLEO BRASILEIRO S A SPONSORED ADR",
       "sector": "Unknown",
-      "price": 44.07,
-      "changePct": -10.5,
-      "changeDollar": -5.17
+      "price": 22.4,
+      "changePct": -14.37,
+      "changeDollar": -3.76
     }
   ]
 }
