@@ -318,16 +318,17 @@ def main():
     print("\nFetching SPY change and macro context...")
     spy_change                  = get_spy_change()
     macro_active, macro_keywords = check_macro_active()
-    print(f"SPY: {spy_change:+.2f}% | Macro active: {macro_active} {macro_keywords}")
+    spy_str = f"{spy_change:+.2f}%" if spy_change is not None else "n/a"
+    print(f"SPY: {spy_str} | Macro active: {macro_active} {macro_keywords}")
 
     # Select candidates:
-    # Contract 1 — top dollar gainer → CALL (overnight fade candidate)
-    # Contract 2 — top dollar loser  → PUT  (overnight bounce candidate)
+    # Contract 1 — top dollar gainer → PUT  (fade the move — expect reversal overnight)
+    # Contract 2 — top dollar loser  → CALL (fade the move — expect bounce overnight)
     candidates = []
     if signals.get('dollarGainers'):
-        candidates.append((signals['dollarGainers'][0], 'CALL', 'dollar_gainer_1'))
+        candidates.append((signals['dollarGainers'][0], 'PUT', 'dollar_gainer_1'))
     if signals.get('dollarLosers'):
-        candidates.append((signals['dollarLosers'][0], 'PUT', 'dollar_loser_1'))
+        candidates.append((signals['dollarLosers'][0], 'CALL', 'dollar_loser_1'))
 
     print(f"\nProcessing {len(candidates)} candidate(s)...")
     new_trade_ids = []
