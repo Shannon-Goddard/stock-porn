@@ -1,20 +1,12 @@
 {
   "topGainers": [
     {
-      "ticker": "HRI",
-      "name": "HERC HLDGS INC COM",
+      "ticker": "AEYE",
+      "name": "AUDIOEYE INC COM NEW",
       "sector": "Unknown",
-      "price": 156.59,
-      "changePct": 23.17,
-      "changeDollar": 29.46
-    },
-    {
-      "ticker": "MFIC",
-      "name": "MIDCAP FINANCIAL INVSTMNT CORP COM NEW",
-      "sector": "Unknown",
-      "price": 10.29,
-      "changePct": 23.09,
-      "changeDollar": 1.93
+      "price": 10.14,
+      "changePct": 36.66,
+      "changeDollar": 2.72
     },
     {
       "ticker": "NEBX",
@@ -25,60 +17,68 @@
       "changeDollar": 2.39
     },
     {
-      "ticker": "CTOS",
-      "name": "CUSTOM TRUCK ONE SOURCE INC COM CL A",
+      "ticker": "NBIL",
+      "name": "GRANITESHARES ETF TR 2X LONG NBIS DLY",
       "sector": "Unknown",
-      "price": 10.48,
-      "changePct": 16.32,
-      "changeDollar": 1.47
+      "price": 12.68,
+      "changePct": 22.39,
+      "changeDollar": 2.32
+    },
+    {
+      "ticker": "BETR",
+      "name": "BETTER HOME & FINANCE HOLDING COM NEW CL A",
+      "sector": "Unknown",
+      "price": 20.8,
+      "changePct": 17.38,
+      "changeDollar": 3.08
     },
     {
       "ticker": "RKLX",
       "name": "TIDAL TRUST II DEFIANCE DAILY",
       "sector": "Unknown",
-      "price": 11.22,
-      "changePct": 16.15,
-      "changeDollar": 1.56
-    },
-    {
-      "ticker": "ABSI",
-      "name": "ABSCI CORPORATION COM",
-      "sector": "Unknown",
-      "price": 10.81,
-      "changePct": 14.39,
-      "changeDollar": 1.36
-    },
-    {
-      "ticker": "PNR",
-      "name": "PENTAIR PLC SHS",
-      "sector": "Unknown",
-      "price": 62.12,
-      "changePct": 12.5,
-      "changeDollar": 6.9
+      "price": 11.28,
+      "changePct": 16.77,
+      "changeDollar": 1.62
     },
     {
       "ticker": "USAR",
       "name": "USA RARE EARTH INC COM",
       "sector": "Unknown",
-      "price": 10.0,
-      "changePct": 12.23,
-      "changeDollar": 1.09
+      "price": 10.4,
+      "changePct": 16.72,
+      "changeDollar": 1.49
     },
     {
-      "ticker": "LITX",
-      "name": "Tradr 2X Long LITE Daily ETF",
+      "ticker": "WYFI",
+      "name": "WHITEFIBER INC SHS",
       "sector": "Unknown",
-      "price": 25.04,
-      "changePct": 12.04,
-      "changeDollar": 2.69
+      "price": 10.99,
+      "changePct": 15.44,
+      "changeDollar": 1.47
     },
     {
-      "ticker": "MEI",
-      "name": "METHODE ELECTRS INC COM",
+      "ticker": "DLLL",
+      "name": "GRANITESHARES ETF TR 2X LONG DELL ETF",
       "sector": "Unknown",
-      "price": 13.76,
-      "changePct": 11.69,
-      "changeDollar": 1.44
+      "price": 27.05,
+      "changePct": 14.86,
+      "changeDollar": 3.5
+    },
+    {
+      "ticker": "BEG",
+      "name": "THEMES ETF TR LEVERAGE SHS 2X",
+      "sector": "Unknown",
+      "price": 28.7,
+      "changePct": 13.93,
+      "changeDollar": 3.51
+    },
+    {
+      "ticker": "WDCX",
+      "name": "Tradr 2X Long WDC Daily ETF",
+      "sector": "Unknown",
+      "price": 11.46,
+      "changePct": 13.8,
+      "changeDollar": 1.39
     }
   ],
   "topLosers": [
@@ -86,107 +86,115 @@
       "ticker": "INOD",
       "name": "INNODATA INC COM NEW",
       "sector": "Unknown",
-      "price": 43.6,
-      "changePct": -27.22,
-      "changeDollar": -16.31
+      "price": 44.74,
+      "changePct": -25.32,
+      "changeDollar": -15.17
     },
     {
-      "ticker": "XYL",
-      "name": "XYLEM INC COM",
+      "ticker": "NBIZ",
+      "name": "Tradr 2X Short NBIS Daily ETF",
       "sector": "Unknown",
-      "price": 94.25,
-      "changePct": -12.92,
-      "changeDollar": -13.99
-    },
-    {
-      "ticker": "AAOZ",
-      "name": "Tradr 2X Short AAOI Daily ETF",
-      "sector": "Unknown",
-      "price": 17.96,
-      "changePct": -12.39,
-      "changeDollar": -2.54
+      "price": 32.86,
+      "changePct": -22.22,
+      "changeDollar": -9.39
     },
     {
       "ticker": "IREZ",
       "name": "Tradr 2X Short IREN Daily ETF",
       "sector": "Unknown",
-      "price": 19.12,
-      "changePct": -12.13,
-      "changeDollar": -2.64
+      "price": 18.46,
+      "changePct": -15.17,
+      "changeDollar": -3.3
+    },
+    {
+      "ticker": "XYL",
+      "name": "XYLEM INC COM",
+      "sector": "Unknown",
+      "price": 92.86,
+      "changePct": -14.21,
+      "changeDollar": -15.38
+    },
+    {
+      "ticker": "AAOZ",
+      "name": "Tradr 2X Short AAOI Daily ETF",
+      "sector": "Unknown",
+      "price": 17.62,
+      "changePct": -14.05,
+      "changeDollar": -2.88
     },
     {
       "ticker": "LITZ",
       "name": "Tradr 2X Short LITE Daily ETF",
       "sector": "Unknown",
-      "price": 25.25,
-      "changePct": -11.77,
-      "changeDollar": -3.37
+      "price": 25.22,
+      "changePct": -11.88,
+      "changeDollar": -3.4
     },
     {
-      "ticker": "PARR",
-      "name": "PAR PAC HOLDINGS INC COM NEW",
+      "ticker": "SOXS",
+      "name": "DIREXION SHARES ETF TRUST DAI SEM 3X ETF",
       "sector": "Unknown",
-      "price": 75.3,
-      "changePct": -9.46,
-      "changeDollar": -7.87
+      "price": 42.5,
+      "changePct": -11.42,
+      "changeDollar": -5.48
     },
     {
-      "ticker": "CVI",
-      "name": "CVR ENERGY INC COM",
+      "ticker": "BA",
+      "name": "BOEING CO COM",
       "sector": "Unknown",
-      "price": 57.24,
-      "changePct": -7.71,
-      "changeDollar": -4.78
+      "price": 168.18,
+      "changePct": -10.69,
+      "changeDollar": -20.13
     },
     {
-      "ticker": "DINO",
-      "name": "HF SINCLAIR CORP COM",
+      "ticker": "UNF",
+      "name": "UNIFIRST CORP MASS COM",
       "sector": "Unknown",
-      "price": 115.79,
-      "changePct": -7.55,
-      "changeDollar": -9.46
+      "price": 250.4,
+      "changePct": -10.46,
+      "changeDollar": -29.24
     },
     {
-      "ticker": "GWRE",
-      "name": "GUIDEWIRE SOFTWARE INC COM",
+      "ticker": "DK",
+      "name": "DELEK US HLDGS INC NEW COM",
       "sector": "Unknown",
-      "price": 170.37,
-      "changePct": -7.39,
-      "changeDollar": -13.59
-    },
-    {
-      "ticker": "EYE",
-      "name": "NATIONAL VISION HLDGS INC COM",
-      "sector": "Unknown",
-      "price": 16.5,
-      "changePct": -7.3,
-      "changeDollar": -1.3
+      "price": 70.3,
+      "changePct": -10.41,
+      "changeDollar": -8.17
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "HRI",
-      "name": "HERC HLDGS INC COM",
+      "ticker": "BEG",
+      "name": "THEMES ETF TR LEVERAGE SHS 2X",
       "sector": "Unknown",
-      "price": 156.59,
-      "changePct": 23.17,
-      "changeDollar": 29.46
+      "price": 28.7,
+      "changePct": 13.93,
+      "changeDollar": 3.51
     },
     {
-      "ticker": "PNR",
-      "name": "PENTAIR PLC SHS",
+      "ticker": "DLLL",
+      "name": "GRANITESHARES ETF TR 2X LONG DELL ETF",
       "sector": "Unknown",
-      "price": 62.12,
-      "changePct": 12.5,
-      "changeDollar": 6.9
+      "price": 27.05,
+      "changePct": 14.86,
+      "changeDollar": 3.5
     },
     {
-      "ticker": "LITX",
-      "name": "Tradr 2X Long LITE Daily ETF",
+      "ticker": "BETR",
+      "name": "BETTER HOME & FINANCE HOLDING COM NEW CL A",
       "sector": "Unknown",
-      "price": 25.04,
-      "changePct": 12.04,
-      "changeDollar": 2.69
+      "price": 20.8,
+      "changePct": 17.38,
+      "changeDollar": 3.08
+    },
+    {
+      "ticker": "AEYE",
+      "name": "AUDIOEYE INC COM NEW",
+      "sector": "Unknown",
+      "price": 10.14,
+      "changePct": 36.66,
+      "changeDollar": 2.72
     },
     {
       "ticker": "NEBX",
@@ -195,56 +203,48 @@
       "price": 12.92,
       "changePct": 22.7,
       "changeDollar": 2.39
-    },
-    {
-      "ticker": "MFIC",
-      "name": "MIDCAP FINANCIAL INVSTMNT CORP COM NEW",
-      "sector": "Unknown",
-      "price": 10.29,
-      "changePct": 23.09,
-      "changeDollar": 1.93
     }
   ],
   "dollarLosers": [
     {
-      "ticker": "INOD",
-      "name": "INNODATA INC COM NEW",
+      "ticker": "UNF",
+      "name": "UNIFIRST CORP MASS COM",
       "sector": "Unknown",
-      "price": 43.6,
-      "changePct": -27.22,
-      "changeDollar": -16.31
+      "price": 250.4,
+      "changePct": -10.46,
+      "changeDollar": -29.24
+    },
+    {
+      "ticker": "BA",
+      "name": "BOEING CO COM",
+      "sector": "Unknown",
+      "price": 168.18,
+      "changePct": -10.69,
+      "changeDollar": -20.13
     },
     {
       "ticker": "XYL",
       "name": "XYLEM INC COM",
       "sector": "Unknown",
-      "price": 94.25,
-      "changePct": -12.92,
-      "changeDollar": -13.99
+      "price": 92.86,
+      "changePct": -14.21,
+      "changeDollar": -15.38
     },
     {
-      "ticker": "GWRE",
-      "name": "GUIDEWIRE SOFTWARE INC COM",
+      "ticker": "INOD",
+      "name": "INNODATA INC COM NEW",
       "sector": "Unknown",
-      "price": 170.37,
-      "changePct": -7.39,
-      "changeDollar": -13.59
+      "price": 44.74,
+      "changePct": -25.32,
+      "changeDollar": -15.17
     },
     {
-      "ticker": "DINO",
-      "name": "HF SINCLAIR CORP COM",
+      "ticker": "NBIZ",
+      "name": "Tradr 2X Short NBIS Daily ETF",
       "sector": "Unknown",
-      "price": 115.79,
-      "changePct": -7.55,
-      "changeDollar": -9.46
-    },
-    {
-      "ticker": "PARR",
-      "name": "PAR PAC HOLDINGS INC COM NEW",
-      "sector": "Unknown",
-      "price": 75.3,
-      "changePct": -9.46,
-      "changeDollar": -7.87
+      "price": 32.86,
+      "changePct": -22.22,
+      "changeDollar": -9.39
     }
   ]
 }
