@@ -3359,7 +3359,23 @@
         "macro_keywords": [],
         "auto_note": "CRCL CALL | $-6.07 (-7.07%) | dollar_loser_1 | Strike $87.0 exp 2026-10-30 (3DTE) | IV 89.8% | SPY +0.71% | No macro triggers"
       },
-      "news_scan": null,
+      "news_scan": {
+        "scanned_at": "2026-10-27 18:48:38 PST",
+        "gap_days": 0,
+        "ticker_sentiment": "neutral",
+        "spy_sentiment": "neutral",
+        "spx_sentiment": "neutral",
+        "keywords_found": [],
+        "spy_keywords": [],
+        "spx_keywords": [],
+        "decision": "sell",
+        "decision_reason": "neutral ticker sentiment \u2014 no confirmation for CALL thesis, sell at open",
+        "raw_headlines": {
+          "ticker": [],
+          "spy": [],
+          "spx": []
+        }
+      },
       "exit": null,
       "fomo": null
     }
