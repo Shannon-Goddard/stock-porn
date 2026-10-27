@@ -1,250 +1,250 @@
 {
   "topGainers": [
     {
-      "ticker": "EAF",
-      "name": "GRAFTECH INTL LTD SR NT COM NEW",
+      "ticker": "HRI",
+      "name": "HERC HLDGS INC COM",
       "sector": "Unknown",
-      "price": 10.65,
-      "changePct": 25.15,
-      "changeDollar": 2.14
+      "price": 156.59,
+      "changePct": 23.17,
+      "changeDollar": 29.46
     },
     {
-      "ticker": "RPD",
-      "name": "RAPID7 INC COM",
+      "ticker": "MFIC",
+      "name": "MIDCAP FINANCIAL INVSTMNT CORP COM NEW",
       "sector": "Unknown",
-      "price": 17.93,
-      "changePct": 20.25,
-      "changeDollar": 3.02
+      "price": 10.29,
+      "changePct": 23.09,
+      "changeDollar": 1.93
     },
     {
-      "ticker": "RRC",
-      "name": "RANGE RES CORP COM",
+      "ticker": "NEBX",
+      "name": "Tradr 2X Long NBIS Daily ETF",
       "sector": "Unknown",
-      "price": 53.56,
-      "changePct": 17.66,
-      "changeDollar": 8.04
+      "price": 12.92,
+      "changePct": 22.7,
+      "changeDollar": 2.39
+    },
+    {
+      "ticker": "CTOS",
+      "name": "CUSTOM TRUCK ONE SOURCE INC COM CL A",
+      "sector": "Unknown",
+      "price": 10.48,
+      "changePct": 16.32,
+      "changeDollar": 1.47
+    },
+    {
+      "ticker": "RKLX",
+      "name": "TIDAL TRUST II DEFIANCE DAILY",
+      "sector": "Unknown",
+      "price": 11.22,
+      "changePct": 16.15,
+      "changeDollar": 1.56
+    },
+    {
+      "ticker": "ABSI",
+      "name": "ABSCI CORPORATION COM",
+      "sector": "Unknown",
+      "price": 10.81,
+      "changePct": 14.39,
+      "changeDollar": 1.36
+    },
+    {
+      "ticker": "PNR",
+      "name": "PENTAIR PLC SHS",
+      "sector": "Unknown",
+      "price": 62.12,
+      "changePct": 12.5,
+      "changeDollar": 6.9
+    },
+    {
+      "ticker": "USAR",
+      "name": "USA RARE EARTH INC COM",
+      "sector": "Unknown",
+      "price": 10.0,
+      "changePct": 12.23,
+      "changeDollar": 1.09
     },
     {
       "ticker": "LITX",
       "name": "Tradr 2X Long LITE Daily ETF",
       "sector": "Unknown",
-      "price": 22.35,
-      "changePct": 16.41,
-      "changeDollar": 3.15
+      "price": 25.04,
+      "changePct": 12.04,
+      "changeDollar": 2.69
     },
     {
-      "ticker": "XNCR",
-      "name": "XENCOR INC COM",
+      "ticker": "MEI",
+      "name": "METHODE ELECTRS INC COM",
       "sector": "Unknown",
-      "price": 29.18,
-      "changePct": 15.89,
-      "changeDollar": 4.0
-    },
-    {
-      "ticker": "ARMG",
-      "name": "THEMES ETF TR LEVERAGE SHARES",
-      "sector": "Unknown",
-      "price": 11.91,
-      "changePct": 12.36,
-      "changeDollar": 1.31
-    },
-    {
-      "ticker": "BEG",
-      "name": "THEMES ETF TR LEVERAGE SHS 2X",
-      "sector": "Unknown",
-      "price": 25.19,
-      "changePct": 10.77,
-      "changeDollar": 2.45
-    },
-    {
-      "ticker": "VICR",
-      "name": "VICOR CORP COM",
-      "sector": "Unknown",
-      "price": 194.77,
-      "changePct": 10.64,
-      "changeDollar": 18.73
-    },
-    {
-      "ticker": "TSLR",
-      "name": "GRANITESHARES ETF TR 2X LONG TSLA ETF",
-      "sector": "Unknown",
-      "price": 18.74,
-      "changePct": 10.43,
-      "changeDollar": 1.77
-    },
-    {
-      "ticker": "TSLT",
-      "name": "T-Rex 2X Long Tesla Daily Target ETF",
-      "sector": "Unknown",
-      "price": 15.05,
-      "changePct": 10.26,
-      "changeDollar": 1.4
+      "price": 13.76,
+      "changePct": 11.69,
+      "changeDollar": 1.44
     }
   ],
   "topLosers": [
     {
-      "ticker": "EWZS",
-      "name": "ISHARES TR BRAZIL SM-CP ETF",
+      "ticker": "INOD",
+      "name": "INNODATA INC COM NEW",
       "sector": "Unknown",
-      "price": 11.45,
-      "changePct": -31.6,
-      "changeDollar": -5.29
+      "price": 43.6,
+      "changePct": -27.22,
+      "changeDollar": -16.31
     },
     {
-      "ticker": "NU",
-      "name": "NU HLDGS LTD ORD SHS CL A",
+      "ticker": "XYL",
+      "name": "XYLEM INC COM",
       "sector": "Unknown",
-      "price": 12.59,
-      "changePct": -16.95,
-      "changeDollar": -2.57
-    },
-    {
-      "ticker": "PBR",
-      "name": "PETROLEO BRASILEIRO S A SPONSORED ADR",
-      "sector": "Unknown",
-      "price": 22.5,
-      "changePct": -13.99,
-      "changeDollar": -3.66
-    },
-    {
-      "ticker": "CRCG",
-      "name": "THEMES ETF TR LEVERAGE SHS 2X",
-      "sector": "Unknown",
-      "price": 10.71,
-      "changePct": -13.84,
-      "changeDollar": -1.72
+      "price": 94.25,
+      "changePct": -12.92,
+      "changeDollar": -13.99
     },
     {
       "ticker": "AAOZ",
       "name": "Tradr 2X Short AAOI Daily ETF",
       "sector": "Unknown",
-      "price": 20.5,
-      "changePct": -12.51,
-      "changeDollar": -2.93
+      "price": 17.96,
+      "changePct": -12.39,
+      "changeDollar": -2.54
     },
     {
-      "ticker": "BMNU",
-      "name": "T-REX 2X Long BMNR Daily Target ETF",
+      "ticker": "IREZ",
+      "name": "Tradr 2X Short IREN Daily ETF",
       "sector": "Unknown",
-      "price": 12.46,
-      "changePct": -12.38,
-      "changeDollar": -1.76
+      "price": 19.12,
+      "changePct": -12.13,
+      "changeDollar": -2.64
     },
     {
-      "ticker": "VIV",
-      "name": "TELEFONICA BRASIL SA SPONSORED ADS",
+      "ticker": "LITZ",
+      "name": "Tradr 2X Short LITE Daily ETF",
       "sector": "Unknown",
-      "price": 11.36,
-      "changePct": -12.35,
-      "changeDollar": -1.6
+      "price": 25.25,
+      "changePct": -11.77,
+      "changeDollar": -3.37
     },
     {
-      "ticker": "ILF",
-      "name": "ISHARES TR LATN AMER 40 ETF",
+      "ticker": "PARR",
+      "name": "PAR PAC HOLDINGS INC COM NEW",
       "sector": "Unknown",
-      "price": 33.48,
-      "changePct": -11.19,
-      "changeDollar": -4.22
+      "price": 75.3,
+      "changePct": -9.46,
+      "changeDollar": -7.87
     },
     {
-      "ticker": "TSLQ",
-      "name": "INVESTMENT MANAGERS SER TR II TRADR 2X SHORT",
+      "ticker": "CVI",
+      "name": "CVR ENERGY INC COM",
       "sector": "Unknown",
-      "price": 15.46,
-      "changePct": -10.43,
-      "changeDollar": -1.8
+      "price": 57.24,
+      "changePct": -7.71,
+      "changeDollar": -4.78
     },
     {
-      "ticker": "CRCL",
-      "name": "CIRCLE INTERNET GROUP INC COM CL A",
+      "ticker": "DINO",
+      "name": "HF SINCLAIR CORP COM",
       "sector": "Unknown",
-      "price": 79.84,
-      "changePct": -7.07,
-      "changeDollar": -6.07
+      "price": 115.79,
+      "changePct": -7.55,
+      "changeDollar": -9.46
+    },
+    {
+      "ticker": "GWRE",
+      "name": "GUIDEWIRE SOFTWARE INC COM",
+      "sector": "Unknown",
+      "price": 170.37,
+      "changePct": -7.39,
+      "changeDollar": -13.59
+    },
+    {
+      "ticker": "EYE",
+      "name": "NATIONAL VISION HLDGS INC COM",
+      "sector": "Unknown",
+      "price": 16.5,
+      "changePct": -7.3,
+      "changeDollar": -1.3
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "VICR",
-      "name": "VICOR CORP COM",
+      "ticker": "HRI",
+      "name": "HERC HLDGS INC COM",
       "sector": "Unknown",
-      "price": 194.77,
-      "changePct": 10.64,
-      "changeDollar": 18.73
+      "price": 156.59,
+      "changePct": 23.17,
+      "changeDollar": 29.46
     },
     {
-      "ticker": "RRC",
-      "name": "RANGE RES CORP COM",
+      "ticker": "PNR",
+      "name": "PENTAIR PLC SHS",
       "sector": "Unknown",
-      "price": 53.56,
-      "changePct": 17.66,
-      "changeDollar": 8.04
-    },
-    {
-      "ticker": "XNCR",
-      "name": "XENCOR INC COM",
-      "sector": "Unknown",
-      "price": 29.18,
-      "changePct": 15.89,
-      "changeDollar": 4.0
+      "price": 62.12,
+      "changePct": 12.5,
+      "changeDollar": 6.9
     },
     {
       "ticker": "LITX",
       "name": "Tradr 2X Long LITE Daily ETF",
       "sector": "Unknown",
-      "price": 22.35,
-      "changePct": 16.41,
-      "changeDollar": 3.15
+      "price": 25.04,
+      "changePct": 12.04,
+      "changeDollar": 2.69
     },
     {
-      "ticker": "RPD",
-      "name": "RAPID7 INC COM",
+      "ticker": "NEBX",
+      "name": "Tradr 2X Long NBIS Daily ETF",
       "sector": "Unknown",
-      "price": 17.93,
-      "changePct": 20.25,
-      "changeDollar": 3.02
+      "price": 12.92,
+      "changePct": 22.7,
+      "changeDollar": 2.39
+    },
+    {
+      "ticker": "MFIC",
+      "name": "MIDCAP FINANCIAL INVSTMNT CORP COM NEW",
+      "sector": "Unknown",
+      "price": 10.29,
+      "changePct": 23.09,
+      "changeDollar": 1.93
     }
   ],
   "dollarLosers": [
     {
-      "ticker": "CRCL",
-      "name": "CIRCLE INTERNET GROUP INC COM CL A",
+      "ticker": "INOD",
+      "name": "INNODATA INC COM NEW",
       "sector": "Unknown",
-      "price": 79.84,
-      "changePct": -7.07,
-      "changeDollar": -6.07
+      "price": 43.6,
+      "changePct": -27.22,
+      "changeDollar": -16.31
     },
     {
-      "ticker": "EWZS",
-      "name": "ISHARES TR BRAZIL SM-CP ETF",
+      "ticker": "XYL",
+      "name": "XYLEM INC COM",
       "sector": "Unknown",
-      "price": 11.45,
-      "changePct": -31.6,
-      "changeDollar": -5.29
+      "price": 94.25,
+      "changePct": -12.92,
+      "changeDollar": -13.99
     },
     {
-      "ticker": "ILF",
-      "name": "ISHARES TR LATN AMER 40 ETF",
+      "ticker": "GWRE",
+      "name": "GUIDEWIRE SOFTWARE INC COM",
       "sector": "Unknown",
-      "price": 33.48,
-      "changePct": -11.19,
-      "changeDollar": -4.22
+      "price": 170.37,
+      "changePct": -7.39,
+      "changeDollar": -13.59
     },
     {
-      "ticker": "PBR",
-      "name": "PETROLEO BRASILEIRO S A SPONSORED ADR",
+      "ticker": "DINO",
+      "name": "HF SINCLAIR CORP COM",
       "sector": "Unknown",
-      "price": 22.5,
-      "changePct": -13.99,
-      "changeDollar": -3.66
+      "price": 115.79,
+      "changePct": -7.55,
+      "changeDollar": -9.46
     },
     {
-      "ticker": "AAOZ",
-      "name": "Tradr 2X Short AAOI Daily ETF",
+      "ticker": "PARR",
+      "name": "PAR PAC HOLDINGS INC COM NEW",
       "sector": "Unknown",
-      "price": 20.5,
-      "changePct": -12.51,
-      "changeDollar": -2.93
+      "price": 75.3,
+      "changePct": -9.46,
+      "changeDollar": -7.87
     }
   ]
 }
