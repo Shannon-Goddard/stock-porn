@@ -600,5 +600,16 @@
     "subtitle": "CRWV closed at $65.78 on 2026-10-15, ranking dollar_loser_1 with -15.46% ($-12.03). Strike $60.0 PUT exp 2026-10-16 (1DTE). IV at entry: 131.1%. Cost: $57.00. News scan: neutral \u2014 decision: sell. Sold at option value $0.0 (stock open $None) at 2026-10-20T00:00:00. P&L: $-57.00.",
     "pnl": -57.0,
     "won": false
+  },
+  {
+    "id": 44,
+    "date": "2026-10-27",
+    "ticker": "CRCL",
+    "type": "CALL",
+    "trade_id": 44,
+    "title": "CRCL CALL \u2014 2026-10-27",
+    "youtube_id": null,
+    "images": [],
+    "published": true
   }
 ]
