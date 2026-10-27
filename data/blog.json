@@ -607,9 +607,12 @@
     "ticker": "CRCL",
     "type": "CALL",
     "trade_id": 44,
-    "title": "CRCL CALL \u2014 2026-10-27",
+    "title": "CRCL CALL \u2014 2026-10-27: Lost $39.22",
     "youtube_id": null,
     "images": [],
-    "published": true
+    "published": true,
+    "subtitle": "CRCL closed at $79.84 on 2026-10-27, ranking dollar_loser_1 with -7.07% ($-6.07). Strike $87.0 CALL exp 2026-10-30 (3DTE). IV at entry: 89.8%. Cost: $82.00. News scan: neutral \u2014 decision: sell. Sold at option value $0.4278 (stock open $79.265) at 2026-10-27 09:30:00-04:00. P&L: $-39.22. Left on table: $+24.39.",
+    "pnl": -39.22,
+    "won": false
   }
 ]
