@@ -1,250 +1,250 @@
 {
   "topGainers": [
     {
-      "ticker": "MFIC",
-      "name": "MIDCAP FINANCIAL INVSTMNT CORP COM NEW",
+      "ticker": "SKUU",
+      "name": "GRANITESHARES ETF TR 2X LNG SK HYNIX",
       "sector": "Unknown",
-      "price": 10.26,
-      "changePct": 22.73,
-      "changeDollar": 1.9
+      "price": 21.3,
+      "changePct": 26.79,
+      "changeDollar": 4.5
     },
     {
-      "ticker": "DLLL",
-      "name": "GRANITESHARES ETF TR 2X LONG DELL ETF",
+      "ticker": "HYNX",
+      "name": "ETF OPPORTUNITIES TRUST T-REX 2X LONG SK",
       "sector": "Unknown",
-      "price": 27.05,
-      "changePct": 14.86,
-      "changeDollar": 3.5
+      "price": 21.16,
+      "changePct": 26.78,
+      "changeDollar": 4.47
     },
     {
-      "ticker": "ABG",
-      "name": "ASBURY AUTOMOTIVE GROUP INC COM",
+      "ticker": "SK",
+      "name": "Corgi SK hynix 2x Daily ETF",
       "sector": "Unknown",
-      "price": 194.99,
-      "changePct": 12.74,
-      "changeDollar": 22.03
+      "price": 21.15,
+      "changePct": 26.72,
+      "changeDollar": 4.46
     },
     {
-      "ticker": "DNA",
-      "name": "GINKGO BIOWORKS HOLDINGS INC CL A NEW",
+      "ticker": "REPL",
+      "name": "REPLIMUNE GROUP INC COM",
       "sector": "Unknown",
-      "price": 11.27,
-      "changePct": 12.48,
+      "price": 15.98,
+      "changePct": 22.45,
+      "changeDollar": 2.93
+    },
+    {
+      "ticker": "VRT",
+      "name": "VERTIV HOLDINGS CO COM CL A",
+      "sector": "Unknown",
+      "price": 243.57,
+      "changePct": 16.79,
+      "changeDollar": 35.01
+    },
+    {
+      "ticker": "EAT",
+      "name": "BRINKER INTL INC COM",
+      "sector": "Unknown",
+      "price": 223.35,
+      "changePct": 13.53,
+      "changeDollar": 26.62
+    },
+    {
+      "ticker": "SKHY",
+      "name": "SK HYNIX INC AMERICAN DEPOSIT",
+      "sector": "Unknown",
+      "price": 164.55,
+      "changePct": 13.2,
+      "changeDollar": 19.19
+    },
+    {
+      "ticker": "AEYE",
+      "name": "AUDIOEYE INC COM NEW",
+      "sector": "Unknown",
+      "price": 11.39,
+      "changePct": 12.33,
       "changeDollar": 1.25
     },
     {
-      "ticker": "MXL",
-      "name": "MAXLINEAR INC COM",
+      "ticker": "OSW",
+      "name": "ONESPAWORLD HOLDINGS LIMITED COM",
       "sector": "Unknown",
-      "price": 74.67,
-      "changePct": 12.34,
-      "changeDollar": 8.2
+      "price": 27.17,
+      "changePct": 8.9,
+      "changeDollar": 2.22
     },
     {
-      "ticker": "QURE",
-      "name": "UNIQURE NV SHS",
+      "ticker": "UCTT",
+      "name": "ULTRA CLEAN HLDGS INC COM",
       "sector": "Unknown",
-      "price": 24.28,
-      "changePct": 12.15,
-      "changeDollar": 2.63
-    },
-    {
-      "ticker": "ABSI",
-      "name": "ABSCI CORPORATION COM",
-      "sector": "Unknown",
-      "price": 10.57,
-      "changePct": 11.85,
-      "changeDollar": 1.12
-    },
-    {
-      "ticker": "THRM",
-      "name": "GENTHERM INC COM",
-      "sector": "Unknown",
-      "price": 31.82,
-      "changePct": 11.3,
-      "changeDollar": 3.23
-    },
-    {
-      "ticker": "NBIS",
-      "name": "NEBIUS GROUP N.V. SHS CLASS A",
-      "sector": "Unknown",
-      "price": 170.47,
-      "changePct": 11.22,
-      "changeDollar": 17.2
-    },
-    {
-      "ticker": "CRDO",
-      "name": "CREDO TECHNOLOGY GROUP HOLDING ORDINARY SHARES",
-      "sector": "Unknown",
-      "price": 167.43,
-      "changePct": 10.77,
-      "changeDollar": 16.28
+      "price": 56.05,
+      "changePct": 8.88,
+      "changeDollar": 4.57
     }
   ],
   "topLosers": [
     {
-      "ticker": "INOD",
-      "name": "INNODATA INC COM NEW",
+      "ticker": "INBX",
+      "name": "INHIBRX BIOSCIENCES INC COM",
       "sector": "Unknown",
-      "price": 44.74,
-      "changePct": -25.32,
-      "changeDollar": -15.17
+      "price": 72.04,
+      "changePct": -24.69,
+      "changeDollar": -23.62
     },
     {
-      "ticker": "NBIZ",
-      "name": "Tradr 2X Short NBIS Daily ETF",
+      "ticker": "RAPP",
+      "name": "RAPPORT THERAPEUTICS INC COM",
       "sector": "Unknown",
-      "price": 32.86,
-      "changePct": -22.22,
-      "changeDollar": -9.39
+      "price": 22.66,
+      "changePct": -17.72,
+      "changeDollar": -4.88
     },
     {
-      "ticker": "XYL",
-      "name": "XYLEM INC COM",
+      "ticker": "CHRW",
+      "name": "C H ROBINSON WORLDWIDE IN COM NEW",
       "sector": "Unknown",
-      "price": 92.86,
-      "changePct": -14.21,
-      "changeDollar": -15.38
+      "price": 127.25,
+      "changePct": -11.38,
+      "changeDollar": -16.34
     },
     {
-      "ticker": "VLO",
-      "name": "VALERO ENERGY CORP COM",
+      "ticker": "LITZ",
+      "name": "Tradr 2X Short LITE Daily ETF",
       "sector": "Unknown",
-      "price": 387.34,
-      "changePct": -9.24,
-      "changeDollar": -39.42
+      "price": 22.41,
+      "changePct": -11.14,
+      "changeDollar": -2.81
     },
     {
-      "ticker": "EYE",
-      "name": "NATIONAL VISION HLDGS INC COM",
+      "ticker": "LII",
+      "name": "LENNOX INTL INC COM",
       "sector": "Unknown",
-      "price": 16.2,
-      "changePct": -8.99,
-      "changeDollar": -1.6
+      "price": 331.61,
+      "changePct": -10.87,
+      "changeDollar": -40.44
     },
     {
-      "ticker": "DINO",
-      "name": "HF SINCLAIR CORP COM",
+      "ticker": "CBRS",
+      "name": "CEREBRAS SYSTEMS INC COM CL A",
       "sector": "Unknown",
-      "price": 114.21,
-      "changePct": -8.81,
-      "changeDollar": -11.04
+      "price": 109.4,
+      "changePct": -8.31,
+      "changeDollar": -9.91
     },
     {
-      "ticker": "TSLQ",
-      "name": "INVESTMENT MANAGERS SER TR II TRADR 2X SHORT",
+      "ticker": "IREZ",
+      "name": "Tradr 2X Short IREN Daily ETF",
       "sector": "Unknown",
-      "price": 14.24,
-      "changePct": -7.89,
-      "changeDollar": -1.22
+      "price": 17.27,
+      "changePct": -6.39,
+      "changeDollar": -1.18
     },
     {
-      "ticker": "SNDQ",
-      "name": "Tradr 2X Short SNDK Daily ETF",
+      "ticker": "AFYA",
+      "name": "AFYA LTD CL A COM",
       "sector": "Unknown",
-      "price": 17.47,
-      "changePct": -7.81,
-      "changeDollar": -1.48
+      "price": 10.16,
+      "changePct": -6.09,
+      "changeDollar": -0.66
     },
     {
-      "ticker": "MPC",
-      "name": "MARATHON PETE CORP COM",
+      "ticker": "IONX",
+      "name": "TIDAL TRUST II DEF LON ION ETF",
       "sector": "Unknown",
-      "price": 435.98,
-      "changePct": -7.36,
-      "changeDollar": -34.66
+      "price": 13.5,
+      "changePct": -5.92,
+      "changeDollar": -0.85
     },
     {
-      "ticker": "PSX",
-      "name": "PHILLIPS 66 COM",
+      "ticker": "WSO",
+      "name": "WATSCO INC COM",
       "sector": "Unknown",
-      "price": 268.53,
-      "changePct": -7.03,
-      "changeDollar": -20.32
+      "price": 283.92,
+      "changePct": -5.69,
+      "changeDollar": -17.12
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "ABG",
-      "name": "ASBURY AUTOMOTIVE GROUP INC COM",
+      "ticker": "VRT",
+      "name": "VERTIV HOLDINGS CO COM CL A",
       "sector": "Unknown",
-      "price": 194.99,
-      "changePct": 12.74,
-      "changeDollar": 22.03
+      "price": 243.57,
+      "changePct": 16.79,
+      "changeDollar": 35.01
     },
     {
-      "ticker": "NBIS",
-      "name": "NEBIUS GROUP N.V. SHS CLASS A",
+      "ticker": "EAT",
+      "name": "BRINKER INTL INC COM",
       "sector": "Unknown",
-      "price": 170.47,
-      "changePct": 11.22,
-      "changeDollar": 17.2
+      "price": 223.35,
+      "changePct": 13.53,
+      "changeDollar": 26.62
     },
     {
-      "ticker": "CRDO",
-      "name": "CREDO TECHNOLOGY GROUP HOLDING ORDINARY SHARES",
+      "ticker": "SKHY",
+      "name": "SK HYNIX INC AMERICAN DEPOSIT",
       "sector": "Unknown",
-      "price": 167.43,
-      "changePct": 10.77,
-      "changeDollar": 16.28
+      "price": 164.55,
+      "changePct": 13.2,
+      "changeDollar": 19.19
     },
     {
-      "ticker": "MXL",
-      "name": "MAXLINEAR INC COM",
+      "ticker": "UCTT",
+      "name": "ULTRA CLEAN HLDGS INC COM",
       "sector": "Unknown",
-      "price": 74.67,
-      "changePct": 12.34,
-      "changeDollar": 8.2
+      "price": 56.05,
+      "changePct": 8.88,
+      "changeDollar": 4.57
     },
     {
-      "ticker": "DLLL",
-      "name": "GRANITESHARES ETF TR 2X LONG DELL ETF",
+      "ticker": "SKUU",
+      "name": "GRANITESHARES ETF TR 2X LNG SK HYNIX",
       "sector": "Unknown",
-      "price": 27.05,
-      "changePct": 14.86,
-      "changeDollar": 3.5
+      "price": 21.3,
+      "changePct": 26.79,
+      "changeDollar": 4.5
     }
   ],
   "dollarLosers": [
     {
-      "ticker": "VLO",
-      "name": "VALERO ENERGY CORP COM",
+      "ticker": "LII",
+      "name": "LENNOX INTL INC COM",
       "sector": "Unknown",
-      "price": 387.34,
-      "changePct": -9.24,
-      "changeDollar": -39.42
+      "price": 331.61,
+      "changePct": -10.87,
+      "changeDollar": -40.44
     },
     {
-      "ticker": "MPC",
-      "name": "MARATHON PETE CORP COM",
+      "ticker": "INBX",
+      "name": "INHIBRX BIOSCIENCES INC COM",
       "sector": "Unknown",
-      "price": 435.98,
-      "changePct": -7.36,
-      "changeDollar": -34.66
+      "price": 72.04,
+      "changePct": -24.69,
+      "changeDollar": -23.62
     },
     {
-      "ticker": "PSX",
-      "name": "PHILLIPS 66 COM",
+      "ticker": "WSO",
+      "name": "WATSCO INC COM",
       "sector": "Unknown",
-      "price": 268.53,
-      "changePct": -7.03,
-      "changeDollar": -20.32
+      "price": 283.92,
+      "changePct": -5.69,
+      "changeDollar": -17.12
     },
     {
-      "ticker": "XYL",
-      "name": "XYLEM INC COM",
+      "ticker": "CHRW",
+      "name": "C H ROBINSON WORLDWIDE IN COM NEW",
       "sector": "Unknown",
-      "price": 92.86,
-      "changePct": -14.21,
-      "changeDollar": -15.38
+      "price": 127.25,
+      "changePct": -11.38,
+      "changeDollar": -16.34
     },
     {
-      "ticker": "INOD",
-      "name": "INNODATA INC COM NEW",
+      "ticker": "CBRS",
+      "name": "CEREBRAS SYSTEMS INC COM CL A",
       "sector": "Unknown",
-      "price": 44.74,
-      "changePct": -25.32,
-      "changeDollar": -15.17
+      "price": 109.4,
+      "changePct": -8.31,
+      "changeDollar": -9.91
     }
   ]
 }
