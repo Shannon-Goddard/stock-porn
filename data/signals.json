@@ -4,163 +4,163 @@
       "ticker": "SKUU",
       "name": "GRANITESHARES ETF TR 2X LNG SK HYNIX",
       "sector": "Unknown",
-      "price": 21.3,
-      "changePct": 26.79,
-      "changeDollar": 4.5
+      "price": 21.28,
+      "changePct": 26.67,
+      "changeDollar": 4.48
     },
     {
       "ticker": "HYNX",
       "name": "ETF OPPORTUNITIES TRUST T-REX 2X LONG SK",
       "sector": "Unknown",
-      "price": 21.16,
-      "changePct": 26.78,
-      "changeDollar": 4.47
+      "price": 21.12,
+      "changePct": 26.54,
+      "changeDollar": 4.43
     },
     {
-      "ticker": "SK",
-      "name": "Corgi SK hynix 2x Daily ETF",
+      "ticker": "ORCX",
+      "name": "TIDAL TRUST II DEFIANCE DAILY",
       "sector": "Unknown",
-      "price": 21.15,
-      "changePct": 26.72,
-      "changeDollar": 4.46
-    },
-    {
-      "ticker": "REPL",
-      "name": "REPLIMUNE GROUP INC COM",
-      "sector": "Unknown",
-      "price": 15.98,
-      "changePct": 22.45,
-      "changeDollar": 2.93
+      "price": 19.55,
+      "changePct": 20.9,
+      "changeDollar": 3.38
     },
     {
       "ticker": "VRT",
       "name": "VERTIV HOLDINGS CO COM CL A",
       "sector": "Unknown",
-      "price": 243.57,
-      "changePct": 16.79,
-      "changeDollar": 35.01
+      "price": 242.94,
+      "changePct": 16.48,
+      "changeDollar": 34.38
     },
     {
-      "ticker": "EAT",
-      "name": "BRINKER INTL INC COM",
+      "ticker": "SNXX",
+      "name": "Tradr 2X Long SNDK Daily ETF",
       "sector": "Unknown",
-      "price": 223.35,
-      "changePct": 13.53,
-      "changeDollar": 26.62
+      "price": 10.4,
+      "changePct": 15.04,
+      "changeDollar": 1.36
     },
     {
       "ticker": "SKHY",
       "name": "SK HYNIX INC AMERICAN DEPOSIT",
       "sector": "Unknown",
-      "price": 164.55,
-      "changePct": 13.2,
-      "changeDollar": 19.19
+      "price": 164.7,
+      "changePct": 13.3,
+      "changeDollar": 19.34
     },
     {
-      "ticker": "AEYE",
-      "name": "AUDIOEYE INC COM NEW",
+      "ticker": "WING",
+      "name": "WINGSTOP INC COM",
       "sector": "Unknown",
-      "price": 11.39,
-      "changePct": 12.33,
-      "changeDollar": 1.25
+      "price": 138.57,
+      "changePct": 12.18,
+      "changeDollar": 15.05
     },
     {
-      "ticker": "OSW",
-      "name": "ONESPAWORLD HOLDINGS LIMITED COM",
+      "ticker": "MULL",
+      "name": "GRANITESHARES ETF TR 2X LO MU DA ETF",
       "sector": "Unknown",
-      "price": 27.17,
-      "changePct": 8.9,
-      "changeDollar": 2.22
+      "price": 20.83,
+      "changePct": 11.69,
+      "changeDollar": 2.18
     },
     {
-      "ticker": "UCTT",
-      "name": "ULTRA CLEAN HLDGS INC COM",
+      "ticker": "JLL",
+      "name": "JONES LANG LASALLE INC COM",
       "sector": "Unknown",
-      "price": 56.05,
-      "changePct": 8.88,
-      "changeDollar": 4.57
+      "price": 333.34,
+      "changePct": 11.14,
+      "changeDollar": 33.41
+    },
+    {
+      "ticker": "ORCL",
+      "name": "ORACLE CORP COM",
+      "sector": "Unknown",
+      "price": 144.54,
+      "changePct": 10.73,
+      "changeDollar": 14.01
     }
   ],
   "topLosers": [
     {
-      "ticker": "INBX",
-      "name": "INHIBRX BIOSCIENCES INC COM",
+      "ticker": "FFIV",
+      "name": "F5 INC COM",
       "sector": "Unknown",
-      "price": 72.04,
-      "changePct": -24.69,
-      "changeDollar": -23.62
+      "price": 365.53,
+      "changePct": -20.43,
+      "changeDollar": -93.83
     },
     {
-      "ticker": "RAPP",
-      "name": "RAPPORT THERAPEUTICS INC COM",
+      "ticker": "LSTR",
+      "name": "LANDSTAR SYS INC COM",
       "sector": "Unknown",
-      "price": 22.66,
-      "changePct": -17.72,
-      "changeDollar": -4.88
+      "price": 138.8,
+      "changePct": -17.76,
+      "changeDollar": -29.98
+    },
+    {
+      "ticker": "RAMZ",
+      "name": "T-REX 2X Inverse DRAM Daily Target ETF",
+      "sector": "Unknown",
+      "price": 15.8,
+      "changePct": -14.04,
+      "changeDollar": -2.58
+    },
+    {
+      "ticker": "DBD",
+      "name": "DIEBOLD NIXDORF INC COM SHS",
+      "sector": "Unknown",
+      "price": 58.07,
+      "changePct": -12.91,
+      "changeDollar": -8.61
+    },
+    {
+      "ticker": "EDU",
+      "name": "NEW ORIENTAL ED & TECHNOLOGY SPON ADR",
+      "sector": "Unknown",
+      "price": 50.72,
+      "changePct": -12.54,
+      "changeDollar": -7.27
+    },
+    {
+      "ticker": "LOGI",
+      "name": "LOGITECH INTL S A SHS",
+      "sector": "Unknown",
+      "price": 98.27,
+      "changePct": -12.12,
+      "changeDollar": -13.55
+    },
+    {
+      "ticker": "ZWS",
+      "name": "ZURN ELKAY WATER SOLNS CORP COM",
+      "sector": "Unknown",
+      "price": 43.5,
+      "changePct": -11.5,
+      "changeDollar": -5.65
     },
     {
       "ticker": "CHRW",
       "name": "C H ROBINSON WORLDWIDE IN COM NEW",
       "sector": "Unknown",
-      "price": 127.25,
-      "changePct": -11.38,
-      "changeDollar": -16.34
-    },
-    {
-      "ticker": "LITZ",
-      "name": "Tradr 2X Short LITE Daily ETF",
-      "sector": "Unknown",
-      "price": 22.41,
+      "price": 127.6,
       "changePct": -11.14,
-      "changeDollar": -2.81
-    },
-    {
-      "ticker": "LII",
-      "name": "LENNOX INTL INC COM",
-      "sector": "Unknown",
-      "price": 331.61,
-      "changePct": -10.87,
-      "changeDollar": -40.44
-    },
-    {
-      "ticker": "CBRS",
-      "name": "CEREBRAS SYSTEMS INC COM CL A",
-      "sector": "Unknown",
-      "price": 109.4,
-      "changePct": -8.31,
-      "changeDollar": -9.91
+      "changeDollar": -15.99
     },
     {
       "ticker": "IREZ",
       "name": "Tradr 2X Short IREN Daily ETF",
       "sector": "Unknown",
-      "price": 17.27,
-      "changePct": -6.39,
-      "changeDollar": -1.18
+      "price": 16.51,
+      "changePct": -10.56,
+      "changeDollar": -1.95
     },
     {
-      "ticker": "AFYA",
-      "name": "AFYA LTD CL A COM",
+      "ticker": "PRCH",
+      "name": "PORCH GROUP INC COM",
       "sector": "Unknown",
-      "price": 10.16,
-      "changePct": -6.09,
-      "changeDollar": -0.66
-    },
-    {
-      "ticker": "IONX",
-      "name": "TIDAL TRUST II DEF LON ION ETF",
-      "sector": "Unknown",
-      "price": 13.5,
-      "changePct": -5.92,
-      "changeDollar": -0.85
-    },
-    {
-      "ticker": "WSO",
-      "name": "WATSCO INC COM",
-      "sector": "Unknown",
-      "price": 283.92,
-      "changePct": -5.69,
-      "changeDollar": -17.12
+      "price": 16.3,
+      "changePct": -7.7,
+      "changeDollar": -1.36
     }
   ],
   "dollarGainers": [
@@ -168,83 +168,83 @@
       "ticker": "VRT",
       "name": "VERTIV HOLDINGS CO COM CL A",
       "sector": "Unknown",
-      "price": 243.57,
-      "changePct": 16.79,
-      "changeDollar": 35.01
+      "price": 242.94,
+      "changePct": 16.48,
+      "changeDollar": 34.38
     },
     {
-      "ticker": "EAT",
-      "name": "BRINKER INTL INC COM",
+      "ticker": "JLL",
+      "name": "JONES LANG LASALLE INC COM",
       "sector": "Unknown",
-      "price": 223.35,
-      "changePct": 13.53,
-      "changeDollar": 26.62
+      "price": 333.34,
+      "changePct": 11.14,
+      "changeDollar": 33.41
     },
     {
       "ticker": "SKHY",
       "name": "SK HYNIX INC AMERICAN DEPOSIT",
       "sector": "Unknown",
-      "price": 164.55,
-      "changePct": 13.2,
-      "changeDollar": 19.19
+      "price": 164.7,
+      "changePct": 13.3,
+      "changeDollar": 19.34
     },
     {
-      "ticker": "UCTT",
-      "name": "ULTRA CLEAN HLDGS INC COM",
+      "ticker": "WING",
+      "name": "WINGSTOP INC COM",
       "sector": "Unknown",
-      "price": 56.05,
-      "changePct": 8.88,
-      "changeDollar": 4.57
+      "price": 138.57,
+      "changePct": 12.18,
+      "changeDollar": 15.05
     },
     {
-      "ticker": "SKUU",
-      "name": "GRANITESHARES ETF TR 2X LNG SK HYNIX",
+      "ticker": "ORCL",
+      "name": "ORACLE CORP COM",
       "sector": "Unknown",
-      "price": 21.3,
-      "changePct": 26.79,
-      "changeDollar": 4.5
+      "price": 144.54,
+      "changePct": 10.73,
+      "changeDollar": 14.01
     }
   ],
   "dollarLosers": [
     {
-      "ticker": "LII",
-      "name": "LENNOX INTL INC COM",
+      "ticker": "FFIV",
+      "name": "F5 INC COM",
       "sector": "Unknown",
-      "price": 331.61,
-      "changePct": -10.87,
-      "changeDollar": -40.44
+      "price": 365.53,
+      "changePct": -20.43,
+      "changeDollar": -93.83
     },
     {
-      "ticker": "INBX",
-      "name": "INHIBRX BIOSCIENCES INC COM",
+      "ticker": "LSTR",
+      "name": "LANDSTAR SYS INC COM",
       "sector": "Unknown",
-      "price": 72.04,
-      "changePct": -24.69,
-      "changeDollar": -23.62
-    },
-    {
-      "ticker": "WSO",
-      "name": "WATSCO INC COM",
-      "sector": "Unknown",
-      "price": 283.92,
-      "changePct": -5.69,
-      "changeDollar": -17.12
+      "price": 138.8,
+      "changePct": -17.76,
+      "changeDollar": -29.98
     },
     {
       "ticker": "CHRW",
       "name": "C H ROBINSON WORLDWIDE IN COM NEW",
       "sector": "Unknown",
-      "price": 127.25,
-      "changePct": -11.38,
-      "changeDollar": -16.34
+      "price": 127.6,
+      "changePct": -11.14,
+      "changeDollar": -15.99
     },
     {
-      "ticker": "CBRS",
-      "name": "CEREBRAS SYSTEMS INC COM CL A",
+      "ticker": "LOGI",
+      "name": "LOGITECH INTL S A SHS",
       "sector": "Unknown",
-      "price": 109.4,
-      "changePct": -8.31,
-      "changeDollar": -9.91
+      "price": 98.27,
+      "changePct": -12.12,
+      "changeDollar": -13.55
+    },
+    {
+      "ticker": "DBD",
+      "name": "DIEBOLD NIXDORF INC COM SHS",
+      "sector": "Unknown",
+      "price": 58.07,
+      "changePct": -12.91,
+      "changeDollar": -8.61
     }
   ]
 }
