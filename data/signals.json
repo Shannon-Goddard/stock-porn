@@ -1,250 +1,250 @@
 {
   "topGainers": [
     {
-      "ticker": "AXGN",
-      "name": "AXOGEN INC COM",
+      "ticker": "AEYE",
+      "name": "AUDIOEYE INC COM NEW",
       "sector": "Unknown",
-      "price": 49.25,
-      "changePct": 31.47,
-      "changeDollar": 11.79
+      "price": 14.1,
+      "changePct": 18.09,
+      "changeDollar": 2.16
     },
     {
-      "ticker": "SKHU",
-      "name": "PROSHARES TR ULTRA SK HYNIX",
+      "ticker": "FTAI",
+      "name": "FTAI AVIATION LTD SHS",
       "sector": "Unknown",
-      "price": 16.49,
-      "changePct": 27.04,
-      "changeDollar": 3.51
+      "price": 193.02,
+      "changePct": 15.48,
+      "changeDollar": 25.88
     },
     {
-      "ticker": "SKUU",
-      "name": "GRANITESHARES ETF TR 2X LNG SK HYNIX",
+      "ticker": "GEN",
+      "name": "GEN DIGITAL INC COM",
       "sector": "Unknown",
-      "price": 21.28,
-      "changePct": 26.67,
-      "changeDollar": 4.48
+      "price": 28.07,
+      "changePct": 15.28,
+      "changeDollar": 3.72
     },
     {
-      "ticker": "SK",
-      "name": "Corgi SK hynix 2x Daily ETF",
+      "ticker": "BOOT",
+      "name": "BOOT BARN HLDGS INC COM",
       "sector": "Unknown",
-      "price": 21.01,
-      "changePct": 25.88,
-      "changeDollar": 4.32
+      "price": 129.84,
+      "changePct": 14.6,
+      "changeDollar": 16.54
     },
     {
-      "ticker": "DNA",
-      "name": "GINKGO BIOWORKS HOLDINGS INC CL A NEW",
+      "ticker": "INSM",
+      "name": "INSMED INC COM PAR $.01",
       "sector": "Unknown",
-      "price": 13.32,
-      "changePct": 18.19,
-      "changeDollar": 2.05
+      "price": 108.5,
+      "changePct": 11.88,
+      "changeDollar": 11.52
     },
     {
-      "ticker": "KORU",
-      "name": "DIREXION SHARES ETF TRUST DAIL MS KORE ETF",
+      "ticker": "SNDQ",
+      "name": "Tradr 2X Short SNDK Daily ETF",
       "sector": "Unknown",
-      "price": 13.78,
-      "changePct": 16.19,
-      "changeDollar": 1.92
+      "price": 16.43,
+      "changePct": 11.01,
+      "changeDollar": 1.63
     },
     {
-      "ticker": "SNXX",
-      "name": "Tradr 2X Long SNDK Daily ETF",
+      "ticker": "CHDN",
+      "name": "CHURCHILL DOWNS INC COM",
       "sector": "Unknown",
-      "price": 10.4,
-      "changePct": 15.04,
-      "changeDollar": 1.36
+      "price": 90.37,
+      "changePct": 10.27,
+      "changeDollar": 8.42
     },
     {
-      "ticker": "NEBX",
-      "name": "Tradr 2X Long NBIS Daily ETF",
+      "ticker": "ARHS",
+      "name": "ARHAUS INC COM CL A",
       "sector": "Unknown",
-      "price": 14.82,
-      "changePct": 14.71,
-      "changeDollar": 1.9
+      "price": 12.55,
+      "changePct": 8.85,
+      "changeDollar": 1.02
     },
     {
-      "ticker": "WING",
-      "name": "WINGSTOP INC COM",
+      "ticker": "ZSL",
+      "name": "PROSHARES TR II ULTRA SHORT SILV",
       "sector": "Unknown",
-      "price": 138.57,
-      "changePct": 12.18,
-      "changeDollar": 15.05
+      "price": 36.44,
+      "changePct": 8.58,
+      "changeDollar": 2.88
     },
     {
-      "ticker": "MULL",
-      "name": "GRANITESHARES ETF TR 2X LO MU DA ETF",
+      "ticker": "BC",
+      "name": "BRUNSWICK CORP COM",
       "sector": "Unknown",
-      "price": 20.83,
-      "changePct": 11.69,
-      "changeDollar": 2.18
+      "price": 74.37,
+      "changePct": 8.02,
+      "changeDollar": 5.52
     }
   ],
   "topLosers": [
     {
-      "ticker": "INBX",
-      "name": "INHIBRX BIOSCIENCES INC COM",
+      "ticker": "NOW",
+      "name": "SERVICENOW INC COM",
       "sector": "Unknown",
-      "price": 73.29,
-      "changePct": -23.38,
-      "changeDollar": -22.37
+      "price": 109.28,
+      "changePct": -27.21,
+      "changeDollar": -40.85
     },
     {
-      "ticker": "LPLA",
-      "name": "LPL FINL HLDGS INC COM",
+      "ticker": "ALNY",
+      "name": "ALNYLAM PHARMACEUTICALS INC COM",
       "sector": "Unknown",
-      "price": 269.19,
-      "changePct": -15.23,
-      "changeDollar": -48.37
+      "price": 178.93,
+      "changePct": -23.0,
+      "changeDollar": -53.46
     },
     {
-      "ticker": "CHRW",
-      "name": "C H ROBINSON WORLDWIDE IN COM NEW",
+      "ticker": "MRVL",
+      "name": "MARVELL TECHNOLOGY INC COM",
       "sector": "Unknown",
-      "price": 127.6,
-      "changePct": -11.14,
-      "changeDollar": -15.99
+      "price": 216.7,
+      "changePct": -13.89,
+      "changeDollar": -34.95
     },
     {
-      "ticker": "LITZ",
-      "name": "Tradr 2X Short LITE Daily ETF",
+      "ticker": "GOOG",
+      "name": "ALPHABET INC CAP STK CL C",
       "sector": "Unknown",
-      "price": 22.44,
-      "changePct": -11.02,
-      "changeDollar": -2.78
+      "price": 281.15,
+      "changePct": -12.66,
+      "changeDollar": -40.74
     },
     {
-      "ticker": "IREZ",
-      "name": "Tradr 2X Short IREN Daily ETF",
+      "ticker": "MNRO",
+      "name": "MONRO INC COM",
       "sector": "Unknown",
-      "price": 16.51,
-      "changePct": -10.56,
-      "changeDollar": -1.95
+      "price": 12.58,
+      "changePct": -12.03,
+      "changeDollar": -1.72
     },
     {
-      "ticker": "PRCH",
-      "name": "PORCH GROUP INC COM",
+      "ticker": "AXTX",
+      "name": "Tradr 2X Long AXTI Daily ETF",
       "sector": "Unknown",
-      "price": 16.3,
-      "changePct": -7.7,
-      "changeDollar": -1.36
+      "price": 18.76,
+      "changePct": -11.47,
+      "changeDollar": -2.43
     },
     {
-      "ticker": "WERN",
-      "name": "WERNER ENTERPRISES INC COM",
+      "ticker": "CAT",
+      "name": "CATERPILLAR INC COM",
       "sector": "Unknown",
-      "price": 27.13,
-      "changePct": -7.66,
-      "changeDollar": -2.25
+      "price": 642.53,
+      "changePct": -9.93,
+      "changeDollar": -70.85
     },
     {
-      "ticker": "BKR",
-      "name": "BAKER HUGHES COMPANY CL A",
+      "ticker": "AGI",
+      "name": "ALAMOS GOLD INC COM CL A",
       "sector": "Unknown",
-      "price": 54.66,
-      "changePct": -7.36,
-      "changeDollar": -4.34
+      "price": 28.66,
+      "changePct": -9.5,
+      "changeDollar": -3.01
     },
     {
-      "ticker": "ODFL",
-      "name": "OLD DOMINION FREIGHT LINE INC COM",
+      "ticker": "PLXS",
+      "name": "PLEXUS CORP COM",
       "sector": "Unknown",
-      "price": 173.32,
-      "changePct": -7.33,
-      "changeDollar": -13.71
+      "price": 217.41,
+      "changePct": -9.16,
+      "changeDollar": -21.93
     },
     {
-      "ticker": "HOOG",
-      "name": "THEMES ETF TR LEVERAGE SHS 2X",
+      "ticker": "IREN",
+      "name": "IREN LIMITED ORDINARY SHARES",
       "sector": "Unknown",
-      "price": 20.54,
-      "changePct": -6.55,
-      "changeDollar": -1.44
+      "price": 26.28,
+      "changePct": -8.88,
+      "changeDollar": -2.56
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "WING",
-      "name": "WINGSTOP INC COM",
+      "ticker": "FTAI",
+      "name": "FTAI AVIATION LTD SHS",
       "sector": "Unknown",
-      "price": 138.57,
-      "changePct": 12.18,
-      "changeDollar": 15.05
+      "price": 193.02,
+      "changePct": 15.48,
+      "changeDollar": 25.88
     },
     {
-      "ticker": "AXGN",
-      "name": "AXOGEN INC COM",
+      "ticker": "BOOT",
+      "name": "BOOT BARN HLDGS INC COM",
       "sector": "Unknown",
-      "price": 49.25,
-      "changePct": 31.47,
-      "changeDollar": 11.79
+      "price": 129.84,
+      "changePct": 14.6,
+      "changeDollar": 16.54
     },
     {
-      "ticker": "SKUU",
-      "name": "GRANITESHARES ETF TR 2X LNG SK HYNIX",
+      "ticker": "INSM",
+      "name": "INSMED INC COM PAR $.01",
       "sector": "Unknown",
-      "price": 21.28,
-      "changePct": 26.67,
-      "changeDollar": 4.48
+      "price": 108.5,
+      "changePct": 11.88,
+      "changeDollar": 11.52
     },
     {
-      "ticker": "SK",
-      "name": "Corgi SK hynix 2x Daily ETF",
+      "ticker": "CHDN",
+      "name": "CHURCHILL DOWNS INC COM",
       "sector": "Unknown",
-      "price": 21.01,
-      "changePct": 25.88,
-      "changeDollar": 4.32
+      "price": 90.37,
+      "changePct": 10.27,
+      "changeDollar": 8.42
     },
     {
-      "ticker": "SKHU",
-      "name": "PROSHARES TR ULTRA SK HYNIX",
+      "ticker": "BC",
+      "name": "BRUNSWICK CORP COM",
       "sector": "Unknown",
-      "price": 16.49,
-      "changePct": 27.04,
-      "changeDollar": 3.51
+      "price": 74.37,
+      "changePct": 8.02,
+      "changeDollar": 5.52
     }
   ],
   "dollarLosers": [
     {
-      "ticker": "LPLA",
-      "name": "LPL FINL HLDGS INC COM",
+      "ticker": "CAT",
+      "name": "CATERPILLAR INC COM",
       "sector": "Unknown",
-      "price": 269.19,
-      "changePct": -15.23,
-      "changeDollar": -48.37
+      "price": 642.53,
+      "changePct": -9.93,
+      "changeDollar": -70.85
     },
     {
-      "ticker": "INBX",
-      "name": "INHIBRX BIOSCIENCES INC COM",
+      "ticker": "ALNY",
+      "name": "ALNYLAM PHARMACEUTICALS INC COM",
       "sector": "Unknown",
-      "price": 73.29,
-      "changePct": -23.38,
-      "changeDollar": -22.37
+      "price": 178.93,
+      "changePct": -23.0,
+      "changeDollar": -53.46
     },
     {
-      "ticker": "CHRW",
-      "name": "C H ROBINSON WORLDWIDE IN COM NEW",
+      "ticker": "NOW",
+      "name": "SERVICENOW INC COM",
       "sector": "Unknown",
-      "price": 127.6,
-      "changePct": -11.14,
-      "changeDollar": -15.99
+      "price": 109.28,
+      "changePct": -27.21,
+      "changeDollar": -40.85
     },
     {
-      "ticker": "ODFL",
-      "name": "OLD DOMINION FREIGHT LINE INC COM",
+      "ticker": "GOOG",
+      "name": "ALPHABET INC CAP STK CL C",
       "sector": "Unknown",
-      "price": 173.32,
-      "changePct": -7.33,
-      "changeDollar": -13.71
+      "price": 281.15,
+      "changePct": -12.66,
+      "changeDollar": -40.74
     },
     {
-      "ticker": "BKR",
-      "name": "BAKER HUGHES COMPANY CL A",
+      "ticker": "MRVL",
+      "name": "MARVELL TECHNOLOGY INC COM",
       "sector": "Unknown",
-      "price": 54.66,
-      "changePct": -7.36,
-      "changeDollar": -4.34
+      "price": 216.7,
+      "changePct": -13.89,
+      "changeDollar": -34.95
     }
   ]
 }
