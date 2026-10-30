@@ -1,250 +1,250 @@
 {
   "topGainers": [
     {
-      "ticker": "SNDQ",
-      "name": "Tradr 2X Short SNDK Daily ETF",
-      "sector": "Unknown",
-      "price": 21.44,
-      "changePct": 30.97,
-      "changeDollar": 5.07
-    },
-    {
       "ticker": "SOXS",
       "name": "DIREXION SHARES ETF TRUST DAI SEM 3X ETF",
       "sector": "Unknown",
-      "price": 54.0,
-      "changePct": 29.56,
-      "changeDollar": 12.32
+      "price": 52.08,
+      "changePct": 24.95,
+      "changeDollar": 10.4
     },
     {
-      "ticker": "OSPN",
-      "name": "ONESPAN INC COM",
+      "ticker": "IREZ",
+      "name": "Tradr 2X Short IREN Daily ETF",
       "sector": "Unknown",
-      "price": 25.44,
-      "changePct": 26.3,
-      "changeDollar": 5.3
-    },
-    {
-      "ticker": "NBIZ",
-      "name": "Tradr 2X Short NBIS Daily ETF",
-      "sector": "Unknown",
-      "price": 39.08,
-      "changePct": 24.18,
-      "changeDollar": 7.61
+      "price": 22.77,
+      "changePct": 17.25,
+      "changeDollar": 3.35
     },
     {
       "ticker": "LITZ",
       "name": "Tradr 2X Short LITE Daily ETF",
       "sector": "Unknown",
-      "price": 26.92,
-      "changePct": 21.48,
-      "changeDollar": 4.76
+      "price": 25.93,
+      "changePct": 17.01,
+      "changeDollar": 3.77
     },
     {
-      "ticker": "CDNA",
-      "name": "CAREDX INC COM",
+      "ticker": "DUST",
+      "name": "DIREXION SHARES ETF TRUST DAI GOL BEA ETF",
       "sector": "Unknown",
-      "price": 85.35,
-      "changePct": 19.34,
-      "changeDollar": 13.83
+      "price": 49.93,
+      "changePct": 10.59,
+      "changeDollar": 4.78
     },
     {
-      "ticker": "SMST",
-      "name": "TIDAL TRUST II DEFI DA TA 2025",
+      "ticker": "VIXY",
+      "name": "ProShares VIX Short-Term Futures ETF",
       "sector": "Unknown",
-      "price": 16.22,
-      "changePct": 18.49,
-      "changeDollar": 2.53
+      "price": 18.41,
+      "changePct": 10.5,
+      "changeDollar": 1.75
     },
     {
-      "ticker": "VXX",
-      "name": "iPath Series B S&P 500 VIX Short-Term Futures ETN",
+      "ticker": "SBIT",
+      "name": "PROSHARES TR ULTRA BITCO ETF",
       "sector": "Unknown",
-      "price": 20.34,
-      "changePct": 16.83,
-      "changeDollar": 2.93
+      "price": 35.67,
+      "changePct": 10.23,
+      "changeDollar": 3.31
     },
     {
-      "ticker": "SSG",
-      "name": "PROSHARES TR ULTRA SEMIC NEW",
+      "ticker": "OLN",
+      "name": "OLIN CORP COM PAR $1",
       "sector": "Unknown",
-      "price": 13.97,
-      "changePct": 15.37,
-      "changeDollar": 1.86
+      "price": 17.6,
+      "changePct": 9.66,
+      "changeDollar": 1.55
     },
     {
-      "ticker": "FDXF",
-      "name": "FEDEX FGHT HLDG CO INC COMMON STOCK",
+      "ticker": "RKT",
+      "name": "ROCKET COS INC COM CL A",
       "sector": "Unknown",
-      "price": 126.41,
-      "changePct": 15.24,
-      "changeDollar": 16.72
+      "price": 12.8,
+      "changePct": 7.38,
+      "changeDollar": 0.88
+    },
+    {
+      "ticker": "SPOT",
+      "name": "SPOTIFY TECHNOLOGY S A SHS",
+      "sector": "Unknown",
+      "price": 593.44,
+      "changePct": 6.5,
+      "changeDollar": 36.2
+    },
+    {
+      "ticker": "COLM",
+      "name": "COLUMBIA SPORTSWEAR CO COM",
+      "sector": "Unknown",
+      "price": 67.54,
+      "changePct": 6.04,
+      "changeDollar": 3.85
     }
   ],
   "topLosers": [
     {
-      "ticker": "INTC",
-      "name": "INTEL CORP COM",
+      "ticker": "SNDU",
+      "name": "T-REX 2X Long SNDK Daily Target ETF",
       "sector": "Unknown",
-      "price": 63.35,
-      "changePct": -31.19,
-      "changeDollar": -28.72
+      "price": 10.33,
+      "changePct": -27.36,
+      "changeDollar": -3.89
     },
     {
-      "ticker": "RDDT",
-      "name": "REDDIT INC CL A",
+      "ticker": "SOXL",
+      "name": "DIREXION SHARES ETF TRUST DAI SEM BUL ETF",
       "sector": "Unknown",
-      "price": 90.1,
-      "changePct": -30.48,
-      "changeDollar": -39.5
+      "price": 77.05,
+      "changePct": -24.75,
+      "changeDollar": -25.34
     },
     {
-      "ticker": "DLLL",
-      "name": "GRANITESHARES ETF TR 2X LONG DELL ETF",
+      "ticker": "MVLL",
+      "name": "GRANITESHARES ETF TR 2X LONG MRVL",
       "sector": "Unknown",
-      "price": 18.1,
-      "changePct": -25.45,
-      "changeDollar": -6.18
+      "price": 18.05,
+      "changePct": -20.62,
+      "changeDollar": -4.69
     },
     {
-      "ticker": "AMDL",
-      "name": "GRANITESHARES ETF TR GRANITE 2X LONG",
+      "ticker": "RBLX",
+      "name": "ROBLOX CORP CL A",
       "sector": "Unknown",
-      "price": 48.92,
-      "changePct": -24.88,
-      "changeDollar": -16.2
+      "price": 42.99,
+      "changePct": -18.05,
+      "changeDollar": -9.47
     },
     {
-      "ticker": "KORU",
-      "name": "DIREXION SHARES ETF TRUST DAIL MS KORE ETF",
+      "ticker": "BEX",
+      "name": "Tradr 2X Long BE Daily ETF",
       "sector": "Unknown",
-      "price": 10.12,
-      "changePct": -20.5,
-      "changeDollar": -2.61
+      "price": 17.83,
+      "changePct": -17.49,
+      "changeDollar": -3.78
     },
     {
-      "ticker": "ROBN",
-      "name": "T-Rex 2X Long HOOD Daily Target ETF",
+      "ticker": "TFII",
+      "name": "TFI INTERNATIONAL INC COM",
       "sector": "Unknown",
-      "price": 16.57,
-      "changePct": -19.56,
-      "changeDollar": -4.03
+      "price": 93.32,
+      "changePct": -17.08,
+      "changeDollar": -19.22
     },
     {
-      "ticker": "ILMN",
-      "name": "ILLUMINA INC COM",
+      "ticker": "SKUU",
+      "name": "GRANITESHARES ETF TR 2X LNG SK HYNIX",
       "sector": "Unknown",
-      "price": 233.93,
-      "changePct": -19.35,
-      "changeDollar": -56.12
+      "price": 17.23,
+      "changePct": -16.32,
+      "changeDollar": -3.36
     },
     {
-      "ticker": "IONX",
-      "name": "TIDAL TRUST II DEF LON ION ETF",
+      "ticker": "SKHU",
+      "name": "PROSHARES TR ULTRA SK HYNIX",
       "sector": "Unknown",
-      "price": 10.66,
-      "changePct": -19.18,
-      "changeDollar": -2.53
+      "price": 13.37,
+      "changePct": -16.12,
+      "changeDollar": -2.57
     },
     {
-      "ticker": "MSTU",
-      "name": "T-Rex 2X Long MSTR Daily Target ETF",
+      "ticker": "TXG",
+      "name": "10X GENOMICS INC CL A COM",
       "sector": "Unknown",
-      "price": 26.0,
-      "changePct": -18.78,
-      "changeDollar": -6.01
+      "price": 70.11,
+      "changePct": -14.03,
+      "changeDollar": -11.44
     },
     {
-      "ticker": "MSTX",
-      "name": "TIDAL TRUST II DE 2X LO MS ETF",
+      "ticker": "QMCO",
+      "name": "QUANTUM CORP COM",
       "sector": "Unknown",
-      "price": 11.94,
-      "changePct": -18.78,
-      "changeDollar": -2.76
+      "price": 18.27,
+      "changePct": -12.04,
+      "changeDollar": -2.5
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "FDXF",
-      "name": "FEDEX FGHT HLDG CO INC COMMON STOCK",
+      "ticker": "SPOT",
+      "name": "SPOTIFY TECHNOLOGY S A SHS",
       "sector": "Unknown",
-      "price": 126.41,
-      "changePct": 15.24,
-      "changeDollar": 16.72
-    },
-    {
-      "ticker": "CDNA",
-      "name": "CAREDX INC COM",
-      "sector": "Unknown",
-      "price": 85.35,
-      "changePct": 19.34,
-      "changeDollar": 13.83
+      "price": 593.44,
+      "changePct": 6.5,
+      "changeDollar": 36.2
     },
     {
       "ticker": "SOXS",
       "name": "DIREXION SHARES ETF TRUST DAI SEM 3X ETF",
       "sector": "Unknown",
-      "price": 54.0,
-      "changePct": 29.56,
-      "changeDollar": 12.32
+      "price": 52.08,
+      "changePct": 24.95,
+      "changeDollar": 10.4
     },
     {
-      "ticker": "NBIZ",
-      "name": "Tradr 2X Short NBIS Daily ETF",
+      "ticker": "DUST",
+      "name": "DIREXION SHARES ETF TRUST DAI GOL BEA ETF",
       "sector": "Unknown",
-      "price": 39.08,
-      "changePct": 24.18,
-      "changeDollar": 7.61
+      "price": 49.93,
+      "changePct": 10.59,
+      "changeDollar": 4.78
     },
     {
-      "ticker": "OSPN",
-      "name": "ONESPAN INC COM",
+      "ticker": "COLM",
+      "name": "COLUMBIA SPORTSWEAR CO COM",
       "sector": "Unknown",
-      "price": 25.44,
-      "changePct": 26.3,
-      "changeDollar": 5.3
+      "price": 67.54,
+      "changePct": 6.04,
+      "changeDollar": 3.85
+    },
+    {
+      "ticker": "LITZ",
+      "name": "Tradr 2X Short LITE Daily ETF",
+      "sector": "Unknown",
+      "price": 25.93,
+      "changePct": 17.01,
+      "changeDollar": 3.77
     }
   ],
   "dollarLosers": [
     {
-      "ticker": "ILMN",
-      "name": "ILLUMINA INC COM",
+      "ticker": "SOXL",
+      "name": "DIREXION SHARES ETF TRUST DAI SEM BUL ETF",
       "sector": "Unknown",
-      "price": 233.93,
-      "changePct": -19.35,
-      "changeDollar": -56.12
+      "price": 77.05,
+      "changePct": -24.75,
+      "changeDollar": -25.34
     },
     {
-      "ticker": "RDDT",
-      "name": "REDDIT INC CL A",
+      "ticker": "TFII",
+      "name": "TFI INTERNATIONAL INC COM",
       "sector": "Unknown",
-      "price": 90.1,
-      "changePct": -30.48,
-      "changeDollar": -39.5
+      "price": 93.32,
+      "changePct": -17.08,
+      "changeDollar": -19.22
     },
     {
-      "ticker": "INTC",
-      "name": "INTEL CORP COM",
+      "ticker": "TXG",
+      "name": "10X GENOMICS INC CL A COM",
       "sector": "Unknown",
-      "price": 63.35,
-      "changePct": -31.19,
-      "changeDollar": -28.72
+      "price": 70.11,
+      "changePct": -14.03,
+      "changeDollar": -11.44
     },
     {
-      "ticker": "AMDL",
-      "name": "GRANITESHARES ETF TR GRANITE 2X LONG",
+      "ticker": "RBLX",
+      "name": "ROBLOX CORP CL A",
       "sector": "Unknown",
-      "price": 48.92,
-      "changePct": -24.88,
-      "changeDollar": -16.2
+      "price": 42.99,
+      "changePct": -18.05,
+      "changeDollar": -9.47
     },
     {
-      "ticker": "DLLL",
-      "name": "GRANITESHARES ETF TR 2X LONG DELL ETF",
+      "ticker": "MVLL",
+      "name": "GRANITESHARES ETF TR 2X LONG MRVL",
       "sector": "Unknown",
-      "price": 18.1,
-      "changePct": -25.45,
-      "changeDollar": -6.18
+      "price": 18.05,
+      "changePct": -20.62,
+      "changeDollar": -4.69
     }
   ]
 }
