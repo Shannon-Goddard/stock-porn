@@ -83,6 +83,39 @@
     .disclaimer a { color: var(--green); text-decoration: none; }
     .disclaimer a:hover { text-decoration: underline; }
 
+    /* BETA BANNER */
+    .beta-banner {
+      background: var(--surface);
+      border: 1px solid #444;
+      border-left: 3px solid #f5a623;
+      margin: 0 1rem 0.75rem;
+      padding: 0.6rem 1rem;
+      font-size: 0.75rem;
+      color: #aaa;
+      border-radius: 4px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 1rem;
+    }
+
+    .beta-banner strong { color: #f5a623; }
+    .beta-banner a { color: var(--green); text-decoration: none; }
+    .beta-banner a:hover { text-decoration: underline; }
+
+    .beta-dismiss {
+      background: none;
+      border: none;
+      color: var(--muted);
+      cursor: pointer;
+      font-size: 1rem;
+      line-height: 1;
+      padding: 0;
+      flex-shrink: 0;
+    }
+
+    .beta-dismiss:hover { color: var(--text); }
+
     /* STATUS BAR */
     .status-bar {
       display: flex;
@@ -306,6 +339,11 @@
     <a href="pages/legal.html">Legal →</a>
   </div>
 
+  <div class="beta-banner" id="betaBanner">
+    <span><strong>🧪 Early data collection phase.</strong> Currently testing and accumulating trades. Numbers are not looking sexy right now — check back in a few weeks. <a href="pages/paper-trade.html">See current trades →</a></span>
+    <button class="beta-dismiss" onclick="dismissBanner()" title="Dismiss">✕</button>
+  </div>
+
   <div class="status-bar">
     <div class="status-left">
       <div class="status-dot" id="statusDot"></div>
@@ -481,6 +519,15 @@
       btns[index].classList.add(index < 2 ? 'active-green' : 'active-green');
       if (index === 0 || index === 2) btns[index].classList.add('active-green');
       else btns[index].classList.add('active-red');
+    }
+
+    // Beta banner dismiss
+    function dismissBanner() {
+      document.getElementById('betaBanner').style.display = 'none';
+      sessionStorage.setItem('betaDismissed', '1');
+    }
+    if (sessionStorage.getItem('betaDismissed')) {
+      document.getElementById('betaBanner').style.display = 'none';
     }
 
     // Init
