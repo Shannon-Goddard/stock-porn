@@ -1,74 +1,250 @@
 {
   "topGainers": [
     {
-      "ticker": "OGS",
-      "name": "ONE GAS INC COM",
+      "ticker": "IBTA",
+      "name": "IBOTTA INC CLASS A COM SHS",
       "sector": "Unknown",
-      "price": 79.94,
-      "changePct": 1.78,
-      "changeDollar": 1.4
+      "price": 60.73,
+      "changePct": 21.29,
+      "changeDollar": 10.66
     },
     {
-      "ticker": "CNO",
-      "name": "CNO FINL GROUP INC COM",
+      "ticker": "GPK",
+      "name": "GRAPHIC PACKAGING HLDG CO COM",
       "sector": "Unknown",
-      "price": 58.49,
-      "changePct": 1.42,
-      "changeDollar": 0.82
+      "price": 11.07,
+      "changePct": 18.65,
+      "changeDollar": 1.74
+    },
+    {
+      "ticker": "EVER",
+      "name": "EVERQUOTE INC COM CL A",
+      "sector": "Unknown",
+      "price": 28.73,
+      "changePct": 18.38,
+      "changeDollar": 4.46
+    },
+    {
+      "ticker": "BEX",
+      "name": "Tradr 2X Long BE Daily ETF",
+      "sector": "Unknown",
+      "price": 19.5,
+      "changePct": 17.75,
+      "changeDollar": 2.94
+    },
+    {
+      "ticker": "FN",
+      "name": "FABRINET SHS",
+      "sector": "Unknown",
+      "price": 364.86,
+      "changePct": 15.94,
+      "changeDollar": 50.15
+    },
+    {
+      "ticker": "AXTX",
+      "name": "Tradr 2X Long AXTI Daily ETF",
+      "sector": "Unknown",
+      "price": 12.82,
+      "changePct": 13.35,
+      "changeDollar": 1.51
+    },
+    {
+      "ticker": "LSCC",
+      "name": "LATTICE SEMICONDUCTOR CORP COM",
+      "sector": "Unknown",
+      "price": 106.61,
+      "changePct": 11.7,
+      "changeDollar": 11.17
+    },
+    {
+      "ticker": "GLXY",
+      "name": "GALAXY DIGITAL INC. CL A",
+      "sector": "Unknown",
+      "price": 16.3,
+      "changePct": 11.65,
+      "changeDollar": 1.7
+    },
+    {
+      "ticker": "PTCT",
+      "name": "PTC THERAPEUTICS INC COM",
+      "sector": "Unknown",
+      "price": 67.93,
+      "changePct": 11.58,
+      "changeDollar": 7.05
+    },
+    {
+      "ticker": "VITL",
+      "name": "VITAL FARMS INC COM",
+      "sector": "Unknown",
+      "price": 10.21,
+      "changePct": 11.22,
+      "changeDollar": 1.03
     }
   ],
   "topLosers": [
     {
-      "ticker": "CNO",
-      "name": "CNO FINL GROUP INC COM",
+      "ticker": "SUPN",
+      "name": "SUPERNUS PHARMACEUTICALS COM",
       "sector": "Unknown",
-      "price": 58.49,
-      "changePct": 1.42,
-      "changeDollar": 0.82
+      "price": 29.17,
+      "changePct": -30.42,
+      "changeDollar": -12.75
     },
     {
-      "ticker": "OGS",
-      "name": "ONE GAS INC COM",
+      "ticker": "STVN",
+      "name": "STEVANATO GROUP S P A ORD SHS",
       "sector": "Unknown",
-      "price": 79.94,
-      "changePct": 1.78,
-      "changeDollar": 1.4
+      "price": 14.44,
+      "changePct": -26.85,
+      "changeDollar": -5.3
+    },
+    {
+      "ticker": "IREZ",
+      "name": "Tradr 2X Short IREN Daily ETF",
+      "sector": "Unknown",
+      "price": 21.19,
+      "changePct": -20.22,
+      "changeDollar": -5.37
+    },
+    {
+      "ticker": "XPRO",
+      "name": "EXPRO LTD ORD SHS",
+      "sector": "Unknown",
+      "price": 13.38,
+      "changePct": -15.69,
+      "changeDollar": -2.49
+    },
+    {
+      "ticker": "BETR",
+      "name": "BETTER HOME & FINANCE HOLDING COM NEW CL A",
+      "sector": "Unknown",
+      "price": 18.13,
+      "changePct": -13.71,
+      "changeDollar": -2.88
+    },
+    {
+      "ticker": "NBIZ",
+      "name": "Tradr 2X Short NBIS Daily ETF",
+      "sector": "Unknown",
+      "price": 38.5,
+      "changePct": -13.05,
+      "changeDollar": -5.78
+    },
+    {
+      "ticker": "DRVN",
+      "name": "DRIVEN BRANDS HLDGS INC COM",
+      "sector": "Unknown",
+      "price": 11.37,
+      "changePct": -10.61,
+      "changeDollar": -1.35
+    },
+    {
+      "ticker": "NAIL",
+      "name": "DIREXION SHARES ETF TRUST DAIL HO SUPP ETF",
+      "sector": "Unknown",
+      "price": 33.74,
+      "changePct": -9.81,
+      "changeDollar": -3.67
+    },
+    {
+      "ticker": "ZBRA",
+      "name": "ZEBRA TECHNOLOGIES CORPORATION CL A",
+      "sector": "Unknown",
+      "price": 329.06,
+      "changePct": -8.88,
+      "changeDollar": -32.07
+    },
+    {
+      "ticker": "SHC",
+      "name": "SOTERA HEALTH CO COM",
+      "sector": "Unknown",
+      "price": 16.18,
+      "changePct": -8.79,
+      "changeDollar": -1.56
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "OGS",
-      "name": "ONE GAS INC COM",
+      "ticker": "FN",
+      "name": "FABRINET SHS",
       "sector": "Unknown",
-      "price": 79.94,
-      "changePct": 1.78,
-      "changeDollar": 1.4
+      "price": 364.86,
+      "changePct": 15.94,
+      "changeDollar": 50.15
     },
     {
-      "ticker": "CNO",
-      "name": "CNO FINL GROUP INC COM",
+      "ticker": "LSCC",
+      "name": "LATTICE SEMICONDUCTOR CORP COM",
       "sector": "Unknown",
-      "price": 58.49,
-      "changePct": 1.42,
-      "changeDollar": 0.82
+      "price": 106.61,
+      "changePct": 11.7,
+      "changeDollar": 11.17
+    },
+    {
+      "ticker": "IBTA",
+      "name": "IBOTTA INC CLASS A COM SHS",
+      "sector": "Unknown",
+      "price": 60.73,
+      "changePct": 21.29,
+      "changeDollar": 10.66
+    },
+    {
+      "ticker": "PTCT",
+      "name": "PTC THERAPEUTICS INC COM",
+      "sector": "Unknown",
+      "price": 67.93,
+      "changePct": 11.58,
+      "changeDollar": 7.05
+    },
+    {
+      "ticker": "EVER",
+      "name": "EVERQUOTE INC COM CL A",
+      "sector": "Unknown",
+      "price": 28.73,
+      "changePct": 18.38,
+      "changeDollar": 4.46
     }
   ],
   "dollarLosers": [
     {
-      "ticker": "OGS",
-      "name": "ONE GAS INC COM",
+      "ticker": "ZBRA",
+      "name": "ZEBRA TECHNOLOGIES CORPORATION CL A",
       "sector": "Unknown",
-      "price": 79.94,
-      "changePct": 1.78,
-      "changeDollar": 1.4
+      "price": 329.06,
+      "changePct": -8.88,
+      "changeDollar": -32.07
     },
     {
-      "ticker": "CNO",
-      "name": "CNO FINL GROUP INC COM",
+      "ticker": "SUPN",
+      "name": "SUPERNUS PHARMACEUTICALS COM",
       "sector": "Unknown",
-      "price": 58.49,
-      "changePct": 1.42,
-      "changeDollar": 0.82
+      "price": 29.17,
+      "changePct": -30.42,
+      "changeDollar": -12.75
+    },
+    {
+      "ticker": "NBIZ",
+      "name": "Tradr 2X Short NBIS Daily ETF",
+      "sector": "Unknown",
+      "price": 38.5,
+      "changePct": -13.05,
+      "changeDollar": -5.78
+    },
+    {
+      "ticker": "IREZ",
+      "name": "Tradr 2X Short IREN Daily ETF",
+      "sector": "Unknown",
+      "price": 21.19,
+      "changePct": -20.22,
+      "changeDollar": -5.37
+    },
+    {
+      "ticker": "STVN",
+      "name": "STEVANATO GROUP S P A ORD SHS",
+      "sector": "Unknown",
+      "price": 14.44,
+      "changePct": -26.85,
+      "changeDollar": -5.3
     }
   ]
 }
