@@ -1,250 +1,250 @@
 {
   "topGainers": [
     {
-      "ticker": "BEX",
-      "name": "Tradr 2X Long BE Daily ETF",
+      "ticker": "DUOL",
+      "name": "DUOLINGO INC CL A COM",
       "sector": "Unknown",
-      "price": 19.57,
-      "changePct": 18.18,
-      "changeDollar": 3.01
+      "price": 162.87,
+      "changePct": 27.24,
+      "changeDollar": 34.87
     },
     {
-      "ticker": "XMTR",
-      "name": "XOMETRY INC CLASS A COM",
+      "ticker": "HELE",
+      "name": "HELEN OF TROY LTD COM",
       "sector": "Unknown",
-      "price": 111.29,
-      "changePct": 16.55,
-      "changeDollar": 15.8
-    },
-    {
-      "ticker": "CMCO",
-      "name": "COLUMBUS MCKINNON CORP N Y COM",
-      "sector": "Unknown",
-      "price": 18.15,
-      "changePct": 15.16,
-      "changeDollar": 2.39
-    },
-    {
-      "ticker": "SHAZ",
-      "name": "SHARONAI HOLDINGS INC COM CL A",
-      "sector": "Unknown",
-      "price": 23.79,
-      "changePct": 14.65,
-      "changeDollar": 3.04
-    },
-    {
-      "ticker": "WULF",
-      "name": "TERAWULF INC COM",
-      "sector": "Unknown",
-      "price": 12.53,
-      "changePct": 14.53,
-      "changeDollar": 1.59
-    },
-    {
-      "ticker": "FISV",
-      "name": "FISERV INC COM",
-      "sector": "Unknown",
-      "price": 58.4,
-      "changePct": 12.46,
-      "changeDollar": 6.47
-    },
-    {
-      "ticker": "PENG",
-      "name": "PENGUIN SOLUTIONS INC COM",
-      "sector": "Unknown",
-      "price": 53.19,
-      "changePct": 11.98,
-      "changeDollar": 5.69
-    },
-    {
-      "ticker": "IREN",
-      "name": "IREN LIMITED ORDINARY SHARES",
-      "sector": "Unknown",
-      "price": 24.46,
-      "changePct": 11.08,
-      "changeDollar": 2.44
-    },
-    {
-      "ticker": "BMNU",
-      "name": "T-REX 2X Long BMNR Daily Target ETF",
-      "sector": "Unknown",
-      "price": 11.77,
-      "changePct": 10.62,
-      "changeDollar": 1.13
-    },
-    {
-      "ticker": "FPS",
-      "name": "FORGENT POWER SOLUTIONS INC COM SHS CL A",
-      "sector": "Unknown",
-      "price": 27.14,
-      "changePct": 10.5,
-      "changeDollar": 2.58
-    }
-  ],
-  "topLosers": [
-    {
-      "ticker": "SUPN",
-      "name": "SUPERNUS PHARMACEUTICALS COM",
-      "sector": "Unknown",
-      "price": 28.15,
-      "changePct": -22.41,
-      "changeDollar": -8.13
-    },
-    {
-      "ticker": "DRUG",
-      "name": "BRIGHT MINDS BIOSCIENCES INC COM NEW",
-      "sector": "Unknown",
-      "price": 21.55,
-      "changePct": -17.75,
-      "changeDollar": -4.65
-    },
-    {
-      "ticker": "CVI",
-      "name": "CVR ENERGY INC COM",
-      "sector": "Unknown",
-      "price": 48.6,
-      "changePct": -13.09,
-      "changeDollar": -7.32
-    },
-    {
-      "ticker": "PAY",
-      "name": "PAYMENTUS HOLDINGS INC COM CL A",
-      "sector": "Unknown",
-      "price": 31.02,
-      "changePct": -11.5,
-      "changeDollar": -4.03
-    },
-    {
-      "ticker": "NAIL",
-      "name": "DIREXION SHARES ETF TRUST DAIL HO SUPP ETF",
-      "sector": "Unknown",
-      "price": 33.48,
-      "changePct": -10.51,
-      "changeDollar": -3.93
-    },
-    {
-      "ticker": "EFOR",
-      "name": "EVERFORTH INC COM",
-      "sector": "Unknown",
-      "price": 34.25,
-      "changePct": -8.67,
-      "changeDollar": -3.25
-    },
-    {
-      "ticker": "RH",
-      "name": "RH COM",
-      "sector": "Unknown",
-      "price": 134.13,
-      "changePct": -8.46,
-      "changeDollar": -12.39
-    },
-    {
-      "ticker": "WRBY",
-      "name": "WARBY PARKER INC CL A COM",
-      "sector": "Unknown",
-      "price": 21.94,
-      "changePct": -8.05,
-      "changeDollar": -1.92
-    },
-    {
-      "ticker": "CALX",
-      "name": "CALIX INC COM",
-      "sector": "Unknown",
-      "price": 33.25,
-      "changePct": -7.97,
-      "changeDollar": -2.88
+      "price": 37.53,
+      "changePct": 27.05,
+      "changeDollar": 7.99
     },
     {
       "ticker": "DFH",
       "name": "DREAM FINDERS HOMES INC COM CL A",
       "sector": "Unknown",
+      "price": 12.45,
+      "changePct": 23.27,
+      "changeDollar": 2.35
+    },
+    {
+      "ticker": "IREZ",
+      "name": "Tradr 2X Short IREN Daily ETF",
+      "sector": "Unknown",
+      "price": 25.25,
+      "changePct": 22.87,
+      "changeDollar": 4.7
+    },
+    {
+      "ticker": "NAIL",
+      "name": "DIREXION SHARES ETF TRUST DAIL HO SUPP ETF",
+      "sector": "Unknown",
+      "price": 40.55,
+      "changePct": 21.12,
+      "changeDollar": 7.07
+    },
+    {
+      "ticker": "PCOR",
+      "name": "PROCORE TECHNOLOGIES INC COM",
+      "sector": "Unknown",
+      "price": 75.29,
+      "changePct": 19.19,
+      "changeDollar": 12.12
+    },
+    {
+      "ticker": "LIVN",
+      "name": "LIVANOVA PLC SHS",
+      "sector": "Unknown",
+      "price": 94.63,
+      "changePct": 18.44,
+      "changeDollar": 14.73
+    },
+    {
+      "ticker": "MOS",
+      "name": "MOSAIC CO COM",
+      "sector": "Unknown",
+      "price": 21.42,
+      "changePct": 16.29,
+      "changeDollar": 3.0
+    },
+    {
+      "ticker": "RETL",
+      "name": "DIREXION SHARES ETF TRUST DAIL RETA BU ETF",
+      "sector": "Unknown",
       "price": 10.1,
-      "changePct": -7.76,
-      "changeDollar": -0.85
+      "changePct": 15.43,
+      "changeDollar": 1.35
+    },
+    {
+      "ticker": "AAOZ",
+      "name": "Tradr 2X Short AAOI Daily ETF",
+      "sector": "Unknown",
+      "price": 26.65,
+      "changePct": 14.92,
+      "changeDollar": 3.46
+    }
+  ],
+  "topLosers": [
+    {
+      "ticker": "NRIX",
+      "name": "NURIX THERAPEUTICS INC COM",
+      "sector": "Unknown",
+      "price": 15.8,
+      "changePct": -38.81,
+      "changeDollar": -10.02
+    },
+    {
+      "ticker": "MOD",
+      "name": "MODINE MFG CO COM",
+      "sector": "Unknown",
+      "price": 94.11,
+      "changePct": -24.97,
+      "changeDollar": -31.33
+    },
+    {
+      "ticker": "FIS",
+      "name": "FIDELITY NATL INFORMATION SVCS COM",
+      "sector": "Unknown",
+      "price": 29.49,
+      "changePct": -24.37,
+      "changeDollar": -9.5
+    },
+    {
+      "ticker": "HUT",
+      "name": "HUT 8 CORP COM",
+      "sector": "Unknown",
+      "price": 49.17,
+      "changePct": -22.87,
+      "changeDollar": -14.58
+    },
+    {
+      "ticker": "CGEM",
+      "name": "CULLINAN THERAPEUTICS INC COM",
+      "sector": "Unknown",
+      "price": 12.18,
+      "changePct": -22.67,
+      "changeDollar": -3.57
+    },
+    {
+      "ticker": "LITX",
+      "name": "Tradr 2X Long LITE Daily ETF",
+      "sector": "Unknown",
+      "price": 11.47,
+      "changePct": -20.35,
+      "changeDollar": -2.93
+    },
+    {
+      "ticker": "AXTX",
+      "name": "Tradr 2X Long AXTI Daily ETF",
+      "sector": "Unknown",
+      "price": 10.3,
+      "changePct": -20.09,
+      "changeDollar": -2.59
+    },
+    {
+      "ticker": "UVIX",
+      "name": "2x Long VIX Futures ETF",
+      "sector": "Unknown",
+      "price": 32.9,
+      "changePct": -19.93,
+      "changeDollar": -8.19
+    },
+    {
+      "ticker": "INIO",
+      "name": "INNIO NV ORDINARY SHARES",
+      "sector": "Unknown",
+      "price": 14.78,
+      "changePct": -19.28,
+      "changeDollar": -3.53
+    },
+    {
+      "ticker": "DLLL",
+      "name": "GRANITESHARES ETF TR 2X LONG DELL ETF",
+      "sector": "Unknown",
+      "price": 14.12,
+      "changePct": -18.79,
+      "changeDollar": -3.27
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "XMTR",
-      "name": "XOMETRY INC CLASS A COM",
+      "ticker": "DUOL",
+      "name": "DUOLINGO INC CL A COM",
       "sector": "Unknown",
-      "price": 111.29,
-      "changePct": 16.55,
-      "changeDollar": 15.8
+      "price": 162.87,
+      "changePct": 27.24,
+      "changeDollar": 34.87
     },
     {
-      "ticker": "FISV",
-      "name": "FISERV INC COM",
+      "ticker": "LIVN",
+      "name": "LIVANOVA PLC SHS",
       "sector": "Unknown",
-      "price": 58.4,
-      "changePct": 12.46,
-      "changeDollar": 6.47
+      "price": 94.63,
+      "changePct": 18.44,
+      "changeDollar": 14.73
     },
     {
-      "ticker": "PENG",
-      "name": "PENGUIN SOLUTIONS INC COM",
+      "ticker": "PCOR",
+      "name": "PROCORE TECHNOLOGIES INC COM",
       "sector": "Unknown",
-      "price": 53.19,
-      "changePct": 11.98,
-      "changeDollar": 5.69
+      "price": 75.29,
+      "changePct": 19.19,
+      "changeDollar": 12.12
     },
     {
-      "ticker": "SHAZ",
-      "name": "SHARONAI HOLDINGS INC COM CL A",
+      "ticker": "HELE",
+      "name": "HELEN OF TROY LTD COM",
       "sector": "Unknown",
-      "price": 23.79,
-      "changePct": 14.65,
-      "changeDollar": 3.04
+      "price": 37.53,
+      "changePct": 27.05,
+      "changeDollar": 7.99
     },
     {
-      "ticker": "BEX",
-      "name": "Tradr 2X Long BE Daily ETF",
+      "ticker": "NAIL",
+      "name": "DIREXION SHARES ETF TRUST DAIL HO SUPP ETF",
       "sector": "Unknown",
-      "price": 19.57,
-      "changePct": 18.18,
-      "changeDollar": 3.01
+      "price": 40.55,
+      "changePct": 21.12,
+      "changeDollar": 7.07
     }
   ],
   "dollarLosers": [
     {
-      "ticker": "RH",
-      "name": "RH COM",
+      "ticker": "MOD",
+      "name": "MODINE MFG CO COM",
       "sector": "Unknown",
-      "price": 134.13,
-      "changePct": -8.46,
-      "changeDollar": -12.39
+      "price": 94.11,
+      "changePct": -24.97,
+      "changeDollar": -31.33
     },
     {
-      "ticker": "SUPN",
-      "name": "SUPERNUS PHARMACEUTICALS COM",
+      "ticker": "HUT",
+      "name": "HUT 8 CORP COM",
       "sector": "Unknown",
-      "price": 28.15,
-      "changePct": -22.41,
-      "changeDollar": -8.13
+      "price": 49.17,
+      "changePct": -22.87,
+      "changeDollar": -14.58
     },
     {
-      "ticker": "CVI",
-      "name": "CVR ENERGY INC COM",
+      "ticker": "NRIX",
+      "name": "NURIX THERAPEUTICS INC COM",
       "sector": "Unknown",
-      "price": 48.6,
-      "changePct": -13.09,
-      "changeDollar": -7.32
+      "price": 15.8,
+      "changePct": -38.81,
+      "changeDollar": -10.02
     },
     {
-      "ticker": "DRUG",
-      "name": "BRIGHT MINDS BIOSCIENCES INC COM NEW",
+      "ticker": "FIS",
+      "name": "FIDELITY NATL INFORMATION SVCS COM",
       "sector": "Unknown",
-      "price": 21.55,
-      "changePct": -17.75,
-      "changeDollar": -4.65
+      "price": 29.49,
+      "changePct": -24.37,
+      "changeDollar": -9.5
     },
     {
-      "ticker": "PAY",
-      "name": "PAYMENTUS HOLDINGS INC COM CL A",
+      "ticker": "UVIX",
+      "name": "2x Long VIX Futures ETF",
       "sector": "Unknown",
-      "price": 31.02,
-      "changePct": -11.5,
-      "changeDollar": -4.03
+      "price": 32.9,
+      "changePct": -19.93,
+      "changeDollar": -8.19
     }
   ]
 }
