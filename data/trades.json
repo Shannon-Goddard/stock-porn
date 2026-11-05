@@ -9,8 +9,8 @@
       4
     ]
   },
-  "balance": -3033.57,
-  "clean_balance": -2906.83,
+  "balance": -3112.36,
+  "clean_balance": -2985.62,
   "starting_balance": 0.0,
   "first_trade_date": "2026-08-24",
   "trades": [
@@ -3420,7 +3420,7 @@
     },
     {
       "id": 45,
-      "status": "open",
+      "status": "closed",
       "entry": {
         "date": "2026-11-05",
         "time": "15:55 PST",
@@ -3511,8 +3511,47 @@
           ]
         }
       },
-      "exit": null,
-      "fomo": null
+      "exit": {
+        "date": "2026-11-04",
+        "time": "2026-11-04 09:30:00-05:00",
+        "stock_open_price": 161.75,
+        "sell_option_price": 0.2121,
+        "sell_contract_value": 21.21,
+        "sell_trigger": "sell_at_open",
+        "gap_direction": "against_thesis",
+        "gap_pct": 0.3,
+        "pnl": -78.79
+      },
+      "fomo": {
+        "sell_contract_value": 21.21,
+        "sell_pnl": -78.79,
+        "theta_burned_at_sell": -0.0,
+        "theta_per_min": -0.134224,
+        "day_high": {
+          "stock_price": 165.91,
+          "time": "2026-11-04 09:59:00-05:00",
+          "bs_contract_value": 5.99,
+          "theoretical_pnl": -94.01
+        },
+        "day_low": {
+          "stock_price": 157.001,
+          "time": "2026-11-04 09:31:00-05:00",
+          "bs_contract_value": 73.07,
+          "theoretical_pnl": -26.93
+        },
+        "best_case": {
+          "value": 73.07,
+          "pnl": -26.93,
+          "time": "2026-11-04 09:31:00-05:00"
+        },
+        "worst_case": {
+          "value": 5.99,
+          "pnl": -94.01,
+          "time": "2026-11-04 09:59:00-05:00"
+        },
+        "left_on_table": 51.86,
+        "theta_note": "1DTE: Theta moderate at open, accelerating by noon. Est. $0.00 burned"
+      }
     }
   ]
 }

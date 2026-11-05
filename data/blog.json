@@ -621,9 +621,12 @@
     "ticker": "DUOL",
     "type": "PUT",
     "trade_id": 45,
-    "title": "DUOL PUT \u2014 2026-11-05",
+    "title": "DUOL PUT \u2014 2026-11-05: Lost $78.79",
     "youtube_id": null,
     "images": [],
-    "published": true
+    "published": true,
+    "subtitle": "DUOL closed at $161.27 on 2026-11-05, ranking dollar_gainer_1 with +25.99% ($+33.27). Strike $150.0 PUT exp 2026-11-06 (1DTE). IV at entry: 94.6%. Cost: $100.00. News scan: bullish \u2014 decision: sell. Sold at option value $0.2121 (stock open $161.75) at 2026-11-04 09:30:00-05:00. P&L: $-78.79. Left on table: $+51.86.",
+    "pnl": -78.79,
+    "won": false
   }
 ]
