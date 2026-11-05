@@ -3455,7 +3455,62 @@
         ],
         "auto_note": "DUOL PUT | $+33.27 (+25.99%) | dollar_gainer_1 | Strike $150.0 exp 2026-11-06 (1DTE) | IV 94.6% | SPY +1.65% | MACRO: war"
       },
-      "news_scan": null,
+      "news_scan": {
+        "scanned_at": "2026-11-05 14:25:36 PST",
+        "gap_days": 0,
+        "ticker_sentiment": "bullish",
+        "spy_sentiment": "neutral",
+        "spx_sentiment": "neutral",
+        "keywords_found": [
+          "raised guidance",
+          "upgrade",
+          "surge",
+          "soars",
+          "falls"
+        ],
+        "spy_keywords": [],
+        "spx_keywords": [],
+        "decision": "sell",
+        "decision_reason": "bullish ticker sentiment \u2014 no confirmation for PUT thesis, sell at open",
+        "raw_headlines": {
+          "ticker": [
+            "Wall Street Bets: Navitas, Duolingo And Fiserv Get Upgrades While CleanSpark Faces Texas Headwinds",
+            "Why Duolingo Stock Skyrocketed Today",
+            "Duolingo stock soars 26% on strong user growth, monetization plans",
+            "Earnings live updates: Cava stock falls after cyclospora outbreak dented Q3 results",
+            "Duolingo Stock What Changed After Strong User Growth And Raised Guidance",
+            "Duolingo (DUOL) Stock May Sit Above Fair Value On Current Earnings",
+            "Duolingo Is Up 11% After Hours as Its User Growth Speeds Up Again",
+            "Duolingo shares jump as revenue and outlook top estimates",
+            "Duolingo: 3 Key Takeaways for Long-Term Investors",
+            "Duolingo's User Surge Starts Paying Off: Rapid Earnings Reaction"
+          ],
+          "spy": [
+            "Exchange-Traded Funds, Equity Futures Mixed Pre-Bell Thursday Amid Pressure on AI Shares",
+            "Stock Market Crash Or Rally? Plan For Both",
+            "Democratic Sweep Boosts Small-Cap ETFs: Will the Gain Last?",
+            "What SPDR S&P 500 ETF (SPY) Bought: Okta Leads on Nov. 3",
+            "ETFs Bought $52.3 Million of Kla-Tencor (KLAC) on Nov. 3",
+            "24 ETFs Add to Intercontinental Exchange (ICE) on Nov. 3",
+            "Analog Devices (ADI) Sees $69.7 Million in Net ETF Buying on Nov. 3",
+            "ETFs Bought $90.0 Million of Lilly (LLY) on Nov. 3",
+            "48 ETFs Add to Microsoft (MSFT) Holdings on Nov. 3",
+            "ETFs Bought $104.3 Million of Broadcom (AVGO) on Nov. 3"
+          ],
+          "spx": [
+            "Stock market today: Dow, S&P 500, Nasdaq trade mixed as post-election relief rally cools, oil rises",
+            "Wall Street's 'everything but AI' rally just got a second wind from Washington",
+            "Exchange-Traded Funds, Equity Futures Mixed Pre-Bell Thursday Amid Pressure on AI Shares",
+            "Stock Market Today: Rotation Away From AI Stocks Increases as Money Flows to AI Landlords",
+            "Stock Market Today: Dow Rises After Postelection Rally; Cava, Dutch Bros Plunge On Earnings News (Live Coverage)",
+            "What the post-midterm market rally is revealing about Washington's big shift",
+            "Apple Stock Is Up 22%, but 1 Slowing Business Could Test That Valuation",
+            "Update: US Equity Futures Mixed Pre-Bell as AI Stocks Dip Following Democrats' Midterm Win",
+            "How Worried Should Investors Be About Micron Right Now?",
+            "Morgan Stanley cuts Cisco rating, sees pull-forward risk after strong run"
+          ]
+        }
+      },
       "exit": null,
       "fomo": null
     }
