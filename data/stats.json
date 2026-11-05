@@ -1,15 +1,15 @@
 {
-  "last_updated": "2026-11-05 14:31:32 UTC",
-  "clean_balance": -2985.62,
+  "last_updated": "2026-11-05 21:10:13 UTC",
+  "clean_balance": -2837.5,
   "overall": {
-    "total_trades": 45,
-    "wins": 1,
+    "total_trades": 46,
+    "wins": 2,
     "losses": 44,
-    "win_rate": 2.2,
-    "avg_pnl": -69.16,
-    "total_pnl": -3112.36,
+    "win_rate": 4.3,
+    "avg_pnl": -64.44,
+    "total_pnl": -2964.24,
     "starting_balance": 0.0,
-    "current_balance": -3112.36
+    "current_balance": -2964.24
   },
   "by_day_of_week": {
     "Monday": {
@@ -28,9 +28,9 @@
       "avg_pnl": -61.87
     },
     "Thursday": {
-      "trades": 13,
-      "wins": 0,
-      "avg_pnl": -76.25
+      "trades": 14,
+      "wins": 1,
+      "avg_pnl": -60.22
     },
     "Friday": {
       "trades": 5,
@@ -65,16 +65,16 @@
       "avg_pnl": -45.26
     },
     "Unknown": {
-      "trades": 41,
-      "wins": 0,
-      "avg_pnl": -72.82
+      "trades": 42,
+      "wins": 1,
+      "avg_pnl": -67.56
     }
   },
   "by_signal_rank": {
     "dollar_gainer_1": {
-      "trades": 26,
-      "wins": 1,
-      "avg_pnl": -72.31
+      "trades": 27,
+      "wins": 2,
+      "avg_pnl": -64.15
     },
     "dollar_loser_1": {
       "trades": 19,
@@ -89,21 +89,21 @@
       "call_wins": 0
     },
     "spy_down_days": {
-      "trades": 36,
-      "put_wins": 0,
+      "trades": 37,
+      "put_wins": 1,
       "call_wins": 1
     }
   },
   "fomo": {
-    "avg_left_on_table": -13439.19,
+    "avg_left_on_table": -12476.71,
     "hold_2min_trades": 7,
     "hold_2min_avg_pnl": -51.58,
-    "sell_at_open_trades": 6,
-    "sell_at_open_avg_pnl": -35.72
+    "sell_at_open_trades": 7,
+    "sell_at_open_avg_pnl": -9.46
   },
   "iv_crush": {
-    "samples": 44,
-    "avg_iv_at_entry": 0.7967,
+    "samples": 45,
+    "avg_iv_at_entry": 0.8351,
     "avg_iv_at_open": 0.0,
     "avg_crush_dollars": 0.0
   },
@@ -117,21 +117,21 @@
       "correct": 0
     },
     "neutral": {
-      "fired": 35,
+      "fired": 36,
       "correct": 34
     }
   },
   "methodology_score": {
     "spy_layer": {
-      "predictions": 45,
-      "correct": 0
+      "predictions": 46,
+      "correct": 1
     },
     "sector_layer": {
       "predictions": 0,
       "correct": 0
     },
     "keyword_layer": {
-      "predictions": 42,
+      "predictions": 43,
       "correct": 35
     },
     "iv_layer": {
@@ -153,8 +153,8 @@
           "wins": 0
         },
         "outside": {
-          "trades": 26,
-          "wins": 0
+          "trades": 27,
+          "wins": 1
         }
       }
     },
@@ -163,8 +163,8 @@
       "min_sample": 20,
       "buckets": {
         "with_thesis": {
-          "trades": 2,
-          "wins": 0
+          "trades": 3,
+          "wins": 1
         },
         "against_thesis": {
           "trades": 6,
@@ -207,8 +207,8 @@
       "min_sample": 20,
       "buckets": {
         "1dte": {
-          "trades": 12,
-          "wins": 0
+          "trades": 13,
+          "wins": 1
         },
         "2_3dte": {
           "trades": 17,

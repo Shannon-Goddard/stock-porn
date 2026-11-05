@@ -635,9 +635,12 @@
     "ticker": "SOXS",
     "type": "PUT",
     "trade_id": 46,
-    "title": "SOXS PUT \u2014 2026-11-05",
+    "title": "SOXS PUT \u2014 2026-11-05: Made $148.12",
     "youtube_id": null,
     "images": [],
-    "published": true
+    "published": true,
+    "subtitle": "SOXS closed at $77.62 on 2026-11-05, ranking dollar_gainer_1 with +33.05% ($+19.28). Strike $65.0 PUT exp 2026-11-06 (1DTE). IV at entry: 252.5%. Cost: $100.00. News scan: neutral \u2014 decision: sell. Sold at option value $2.4812 (stock open $67.21) at 2026-11-05 09:30:00-05:00. P&L: $+148.12. Left on table: $+35.47.",
+    "pnl": 148.12,
+    "won": true
   }
 ]
