@@ -1,250 +1,250 @@
 {
   "topGainers": [
     {
-      "ticker": "AXTQ",
-      "name": "Tradr 2X Short AXTI Daily ETF",
+      "ticker": "FROG",
+      "name": "JFROG LTD ORD SHS",
       "sector": "Unknown",
-      "price": 61.17,
-      "changePct": 44.78,
-      "changeDollar": 18.92
+      "price": 101.86,
+      "changePct": 36.5,
+      "changeDollar": 27.24
     },
     {
-      "ticker": "AAOZ",
-      "name": "Tradr 2X Short AAOI Daily ETF",
+      "ticker": "LASR",
+      "name": "NLIGHT INC COM",
       "sector": "Unknown",
-      "price": 37.85,
-      "changePct": 42.45,
-      "changeDollar": 11.28
+      "price": 37.65,
+      "changePct": 28.32,
+      "changeDollar": 8.31
     },
     {
-      "ticker": "LITZ",
-      "name": "Tradr 2X Short LITE Daily ETF",
+      "ticker": "LUNR",
+      "name": "INTUITIVE MACHINES INC CLASS A COM",
       "sector": "Unknown",
-      "price": 57.23,
-      "changePct": 36.36,
-      "changeDollar": 15.26
+      "price": 10.47,
+      "changePct": 21.46,
+      "changeDollar": 1.85
     },
     {
-      "ticker": "IREZ",
-      "name": "Tradr 2X Short IREN Daily ETF",
+      "ticker": "RGTI",
+      "name": "RIGETTI COMPUTING INC COMMON STOCK",
       "sector": "Unknown",
-      "price": 33.81,
-      "changePct": 33.95,
-      "changeDollar": 8.57
+      "price": 11.73,
+      "changePct": 19.09,
+      "changeDollar": 1.88
     },
     {
-      "ticker": "VIXY",
-      "name": "ProShares VIX Short-Term Futures ETF",
+      "ticker": "IREN",
+      "name": "IREN LIMITED ORDINARY SHARES",
       "sector": "Unknown",
-      "price": 21.22,
-      "changePct": 29.71,
-      "changeDollar": 4.86
+      "price": 21.42,
+      "changePct": 18.8,
+      "changeDollar": 3.39
     },
     {
-      "ticker": "SKDD",
-      "name": "GRANITESHARES ETF TR 2X SRT SK HYNIX",
+      "ticker": "SPCM",
+      "name": "Tradr 2X Long SpaceX Daily ETF",
       "sector": "Unknown",
-      "price": 12.46,
-      "changePct": 28.59,
-      "changeDollar": 2.77
+      "price": 12.97,
+      "changePct": 18.77,
+      "changeDollar": 2.05
     },
     {
-      "ticker": "ADMA",
-      "name": "ADMA BIOLOGICS INC COM",
+      "ticker": "SITM",
+      "name": "SITIME CORP COM",
       "sector": "Unknown",
-      "price": 13.21,
-      "changePct": 26.05,
-      "changeDollar": 2.73
+      "price": 419.55,
+      "changePct": 18.18,
+      "changeDollar": 64.55
     },
     {
-      "ticker": "XERS",
-      "name": "XERIS BIOPHARMA HOLDINGS INC COM",
+      "ticker": "QBTS",
+      "name": "D-WAVE QUANTUM INC COM",
       "sector": "Unknown",
-      "price": 13.08,
-      "changePct": 25.05,
-      "changeDollar": 2.62
+      "price": 10.65,
+      "changePct": 17.68,
+      "changeDollar": 1.6
     },
     {
-      "ticker": "TECS",
-      "name": "DIREXION SHARES ETF TRUST DA TE BE 3X ETF",
+      "ticker": "AEVA",
+      "name": "AEVA TECHNOLOGIES INC COM NEW",
       "sector": "Unknown",
-      "price": 84.7,
-      "changePct": 24.03,
-      "changeDollar": 16.41
+      "price": 10.74,
+      "changePct": 16.87,
+      "changeDollar": 1.55
     },
     {
-      "ticker": "WRBY",
-      "name": "WARBY PARKER INC CL A COM",
+      "ticker": "EWTX",
+      "name": "EDGEWISE THERAPEUTICS INC COM",
       "sector": "Unknown",
-      "price": 26.08,
-      "changePct": 22.5,
-      "changeDollar": 4.79
+      "price": 45.0,
+      "changePct": 15.77,
+      "changeDollar": 6.13
     }
   ],
   "topLosers": [
     {
-      "ticker": "MTUM",
-      "name": "iShares MSCI USA Momentum Factor ETF",
+      "ticker": "IRTC",
+      "name": "IRHYTHM HOLDINGS INC COM",
       "sector": "Unknown",
-      "price": 62.6,
-      "changePct": -77.06,
-      "changeDollar": -210.26
+      "price": 88.72,
+      "changePct": -31.85,
+      "changeDollar": -41.47
     },
     {
-      "ticker": "QUAL",
-      "name": "iShares MSCI USA Quality Factor ETF",
+      "ticker": "SNK",
+      "name": "GraniteShares 2x Short SpaceX Daily ETF",
       "sector": "Unknown",
-      "price": 54.79,
-      "changePct": -75.87,
-      "changeDollar": -172.23
+      "price": 15.31,
+      "changePct": -18.35,
+      "changeDollar": -3.44
     },
     {
-      "ticker": "SOXX",
-      "name": "ISHARES TR ISHARES SEMICDTR",
+      "ticker": "SPCQ",
+      "name": "Defiance Daily Target 2X Short SPCX ETF",
       "sector": "Unknown",
-      "price": 131.9,
-      "changePct": -70.72,
-      "changeDollar": -318.51
+      "price": 11.0,
+      "changePct": -18.34,
+      "changeDollar": -2.47
     },
     {
-      "ticker": "ITA",
-      "name": "iShares U.S. Aerospace & Defense ETF",
+      "ticker": "TILE",
+      "name": "INTERFACE INC COM",
       "sector": "Unknown",
-      "price": 68.11,
-      "changePct": -68.0,
-      "changeDollar": -144.73
+      "price": 31.44,
+      "changePct": -16.87,
+      "changeDollar": -6.38
     },
     {
-      "ticker": "EFV",
-      "name": "iShares MSCI EAFE Value ETF",
+      "ticker": "HALO",
+      "name": "HALOZYME THERAPEUTICS INC COM",
       "sector": "Unknown",
-      "price": 39.93,
-      "changePct": -50.93,
-      "changeDollar": -41.44
+      "price": 102.61,
+      "changePct": -16.55,
+      "changeDollar": -20.35
     },
     {
-      "ticker": "MUU",
-      "name": "DIREXION SHARES ETF TRUST DLY MU BULL 2X",
+      "ticker": "NBIZ",
+      "name": "Tradr 2X Short NBIS Daily ETF",
       "sector": "Unknown",
-      "price": 12.62,
-      "changePct": -34.37,
-      "changeDollar": -6.61
+      "price": 46.69,
+      "changePct": -16.04,
+      "changeDollar": -8.92
     },
     {
-      "ticker": "BEX",
-      "name": "Tradr 2X Long BE Daily ETF",
+      "ticker": "NTRA",
+      "name": "NATERA INC COM",
       "sector": "Unknown",
-      "price": 11.54,
-      "changePct": -32.4,
-      "changeDollar": -5.53
+      "price": 310.56,
+      "changePct": -14.63,
+      "changeDollar": -53.2
     },
     {
-      "ticker": "DLLL",
-      "name": "GRANITESHARES ETF TR 2X LONG DELL ETF",
+      "ticker": "STRA",
+      "name": "STRATEGIC ED INC COM",
       "sector": "Unknown",
-      "price": 10.07,
-      "changePct": -29.78,
-      "changeDollar": -4.27
+      "price": 52.06,
+      "changePct": -10.96,
+      "changeDollar": -6.41
     },
     {
-      "ticker": "SKUU",
-      "name": "GRANITESHARES ETF TR 2X LNG SK HYNIX",
+      "ticker": "TSLQ",
+      "name": "INVESTMENT MANAGERS SER TR II TRADR 2X SHORT",
       "sector": "Unknown",
-      "price": 11.49,
-      "changePct": -27.42,
-      "changeDollar": -4.34
+      "price": 17.42,
+      "changePct": -9.79,
+      "changeDollar": -1.89
     },
     {
-      "ticker": "TECL",
-      "name": "DIREXION SHARES ETF TRUST DA TE BU 3X ETF",
+      "ticker": "RAMZ",
+      "name": "T-REX 2X Inverse DRAM Daily Target ETF",
       "sector": "Unknown",
-      "price": 124.62,
-      "changePct": -23.87,
-      "changeDollar": -39.07
+      "price": 26.48,
+      "changePct": -8.85,
+      "changeDollar": -2.57
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "AXTQ",
-      "name": "Tradr 2X Short AXTI Daily ETF",
+      "ticker": "SITM",
+      "name": "SITIME CORP COM",
       "sector": "Unknown",
-      "price": 61.17,
-      "changePct": 44.78,
-      "changeDollar": 18.92
+      "price": 419.55,
+      "changePct": 18.18,
+      "changeDollar": 64.55
     },
     {
-      "ticker": "TECS",
-      "name": "DIREXION SHARES ETF TRUST DA TE BE 3X ETF",
+      "ticker": "FROG",
+      "name": "JFROG LTD ORD SHS",
       "sector": "Unknown",
-      "price": 84.7,
-      "changePct": 24.03,
-      "changeDollar": 16.41
+      "price": 101.86,
+      "changePct": 36.5,
+      "changeDollar": 27.24
     },
     {
-      "ticker": "LITZ",
-      "name": "Tradr 2X Short LITE Daily ETF",
+      "ticker": "LASR",
+      "name": "NLIGHT INC COM",
       "sector": "Unknown",
-      "price": 57.23,
-      "changePct": 36.36,
-      "changeDollar": 15.26
+      "price": 37.65,
+      "changePct": 28.32,
+      "changeDollar": 8.31
     },
     {
-      "ticker": "AAOZ",
-      "name": "Tradr 2X Short AAOI Daily ETF",
+      "ticker": "EWTX",
+      "name": "EDGEWISE THERAPEUTICS INC COM",
       "sector": "Unknown",
-      "price": 37.85,
-      "changePct": 42.45,
-      "changeDollar": 11.28
+      "price": 45.0,
+      "changePct": 15.77,
+      "changeDollar": 6.13
     },
     {
-      "ticker": "IREZ",
-      "name": "Tradr 2X Short IREN Daily ETF",
+      "ticker": "IREN",
+      "name": "IREN LIMITED ORDINARY SHARES",
       "sector": "Unknown",
-      "price": 33.81,
-      "changePct": 33.95,
-      "changeDollar": 8.57
+      "price": 21.42,
+      "changePct": 18.8,
+      "changeDollar": 3.39
     }
   ],
   "dollarLosers": [
     {
-      "ticker": "SOXX",
-      "name": "ISHARES TR ISHARES SEMICDTR",
+      "ticker": "NTRA",
+      "name": "NATERA INC COM",
       "sector": "Unknown",
-      "price": 131.9,
-      "changePct": -70.72,
-      "changeDollar": -318.51
+      "price": 310.56,
+      "changePct": -14.63,
+      "changeDollar": -53.2
     },
     {
-      "ticker": "MTUM",
-      "name": "iShares MSCI USA Momentum Factor ETF",
+      "ticker": "IRTC",
+      "name": "IRHYTHM HOLDINGS INC COM",
       "sector": "Unknown",
-      "price": 62.6,
-      "changePct": -77.06,
-      "changeDollar": -210.26
+      "price": 88.72,
+      "changePct": -31.85,
+      "changeDollar": -41.47
     },
     {
-      "ticker": "QUAL",
-      "name": "iShares MSCI USA Quality Factor ETF",
+      "ticker": "HALO",
+      "name": "HALOZYME THERAPEUTICS INC COM",
       "sector": "Unknown",
-      "price": 54.79,
-      "changePct": -75.87,
-      "changeDollar": -172.23
+      "price": 102.61,
+      "changePct": -16.55,
+      "changeDollar": -20.35
     },
     {
-      "ticker": "ITA",
-      "name": "iShares U.S. Aerospace & Defense ETF",
+      "ticker": "NBIZ",
+      "name": "Tradr 2X Short NBIS Daily ETF",
       "sector": "Unknown",
-      "price": 68.11,
-      "changePct": -68.0,
-      "changeDollar": -144.73
+      "price": 46.69,
+      "changePct": -16.04,
+      "changeDollar": -8.92
     },
     {
-      "ticker": "EFV",
-      "name": "iShares MSCI EAFE Value ETF",
+      "ticker": "STRA",
+      "name": "STRATEGIC ED INC COM",
       "sector": "Unknown",
-      "price": 39.93,
-      "changePct": -50.93,
-      "changeDollar": -41.44
+      "price": 52.06,
+      "changePct": -10.96,
+      "changeDollar": -6.41
     }
   ]
 }
