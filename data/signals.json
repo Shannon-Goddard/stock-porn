@@ -1,250 +1,250 @@
 {
   "topGainers": [
     {
-      "ticker": "KRMN",
-      "name": "KARMAN HLDGS INC COMMON STOCK",
+      "ticker": "COHX",
+      "name": "Tradr 2X Long COHR Daily ETF",
       "sector": "Unknown",
-      "price": 45.61,
-      "changePct": 42.13,
-      "changeDollar": 13.52
+      "price": 11.49,
+      "changePct": 33.29,
+      "changeDollar": 2.87
     },
     {
-      "ticker": "FLGT",
-      "name": "FULGENT GENETICS INC COM",
+      "ticker": "LINC",
+      "name": "LINCOLN EDL SVCS CORP COM",
       "sector": "Unknown",
-      "price": 23.74,
-      "changePct": 27.22,
-      "changeDollar": 5.08
+      "price": 22.0,
+      "changePct": 24.58,
+      "changeDollar": 4.34
     },
     {
-      "ticker": "IREN",
-      "name": "IREN LIMITED ORDINARY SHARES",
+      "ticker": "PRAX",
+      "name": "PRAXIS PRECISION MEDICINES INC COM NEW",
       "sector": "Unknown",
-      "price": 21.64,
-      "changePct": 20.02,
-      "changeDollar": 3.61
+      "price": 332.97,
+      "changePct": 19.94,
+      "changeDollar": 55.35
     },
     {
-      "ticker": "ETON",
-      "name": "ETON PHARMACEUTICALS INC COM",
+      "ticker": "QXO",
+      "name": "QXO INC COM NEW",
       "sector": "Unknown",
-      "price": 56.46,
-      "changePct": 19.75,
-      "changeDollar": 9.31
+      "price": 13.78,
+      "changePct": 19.2,
+      "changeDollar": 2.22
     },
     {
-      "ticker": "QBTS",
-      "name": "D-WAVE QUANTUM INC COM",
+      "ticker": "QMCO",
+      "name": "QUANTUM CORP COM",
       "sector": "Unknown",
-      "price": 10.68,
-      "changePct": 18.01,
-      "changeDollar": 1.63
+      "price": 16.99,
+      "changePct": 17.42,
+      "changeDollar": 2.52
     },
     {
-      "ticker": "VOYG",
-      "name": "VOYAGER TECHNOLOGIES INC COM CL A",
+      "ticker": "COHR",
+      "name": "COHERENT CORP COM",
       "sector": "Unknown",
-      "price": 23.98,
-      "changePct": 17.95,
-      "changeDollar": 3.65
+      "price": 225.19,
+      "changePct": 16.79,
+      "changeDollar": 32.38
     },
     {
-      "ticker": "SPAL",
-      "name": "GraniteShares 2x Long SpaceX Daily ETF",
+      "ticker": "VSAT",
+      "name": "VIASAT INC COM",
       "sector": "Unknown",
-      "price": 12.7,
-      "changePct": 17.38,
-      "changeDollar": 1.88
+      "price": 74.37,
+      "changePct": 16.29,
+      "changeDollar": 10.42
     },
     {
-      "ticker": "LOFF",
-      "name": "DIREXION SHARES ETF TRUST DLY SPCX BULL 2X",
+      "ticker": "FPS",
+      "name": "FORGENT POWER SOLUTIONS INC COM SHS CL A",
       "sector": "Unknown",
-      "price": 12.45,
-      "changePct": 17.12,
-      "changeDollar": 1.82
+      "price": 22.6,
+      "changePct": 16.02,
+      "changeDollar": 3.12
     },
     {
-      "ticker": "PPTA",
-      "name": "PERPETUA RESOURCES CORP COM",
+      "ticker": "TTD",
+      "name": "THE TRADE DESK INC COM CL A",
       "sector": "Unknown",
-      "price": 19.53,
-      "changePct": 16.6,
-      "changeDollar": 2.78
+      "price": 14.93,
+      "changePct": 15.47,
+      "changeDollar": 2.0
     },
     {
-      "ticker": "EWTX",
-      "name": "EDGEWISE THERAPEUTICS INC COM",
+      "ticker": "IMVT",
+      "name": "IMMUNOVANT INC COM",
       "sector": "Unknown",
-      "price": 45.04,
-      "changePct": 15.87,
-      "changeDollar": 6.17
+      "price": 35.15,
+      "changePct": 15.13,
+      "changeDollar": 4.62
     }
   ],
   "topLosers": [
     {
-      "ticker": "AORT",
-      "name": "ARTIVION INC COM",
+      "ticker": "IONS",
+      "name": "IONIS PHARMACEUTICALS INC COM",
       "sector": "Unknown",
-      "price": 20.21,
-      "changePct": -20.21,
-      "changeDollar": -5.12
+      "price": 31.0,
+      "changePct": -21.36,
+      "changeDollar": -8.42
     },
     {
-      "ticker": "AXON",
-      "name": "AXON ENTERPRISE INC COM",
+      "ticker": "UVXY",
+      "name": "ProShares Ultra VIX Short-Term Futures ETF",
       "sector": "Unknown",
-      "price": 313.0,
-      "changePct": -18.18,
-      "changeDollar": -69.56
+      "price": 18.41,
+      "changePct": -20.23,
+      "changeDollar": -4.67
     },
     {
-      "ticker": "AAOZ",
-      "name": "Tradr 2X Short AAOI Daily ETF",
+      "ticker": "ARWR",
+      "name": "ARROWHEAD PHARMACEUTICALS INC COM",
       "sector": "Unknown",
-      "price": 32.64,
-      "changePct": -13.76,
-      "changeDollar": -5.21
+      "price": 49.24,
+      "changePct": -15.34,
+      "changeDollar": -8.92
     },
     {
-      "ticker": "RIGL",
-      "name": "RIGEL PHARMACEUTICALS INC COM",
+      "ticker": "MUZ",
+      "name": "TIDAL TRUST II DEFIANCE DAILY T",
       "sector": "Unknown",
-      "price": 39.65,
-      "changePct": -13.26,
-      "changeDollar": -6.06
+      "price": 11.33,
+      "changePct": -12.78,
+      "changeDollar": -1.66
     },
     {
-      "ticker": "SOXS",
-      "name": "DIREXION SHARES ETF TRUST DAI SEM 3X ETF",
+      "ticker": "HIMS",
+      "name": "HIMS & HERS HEALTH INC COM CL A",
       "sector": "Unknown",
-      "price": 70.95,
-      "changePct": -12.64,
-      "changeDollar": -10.27
+      "price": 22.94,
+      "changePct": -11.77,
+      "changeDollar": -3.06
     },
     {
-      "ticker": "WW",
-      "name": "WW INTL INC COM NEW",
+      "ticker": "SKDD",
+      "name": "GRANITESHARES ETF TR 2X SRT SK HYNIX",
       "sector": "Unknown",
-      "price": 11.31,
-      "changePct": -11.92,
-      "changeDollar": -1.53
+      "price": 10.33,
+      "changePct": -11.18,
+      "changeDollar": -1.3
     },
     {
-      "ticker": "NMIH",
-      "name": "NMI HLDGS INC COM",
+      "ticker": "SRTY",
+      "name": "PROSHARES TR ULTRAPRO SHRT RU",
       "sector": "Unknown",
-      "price": 39.03,
-      "changePct": -11.84,
-      "changeDollar": -5.24
+      "price": 25.1,
+      "changePct": -9.61,
+      "changeDollar": -2.67
     },
     {
-      "ticker": "AMDD",
-      "name": "DIREXION SHARES ETF TRUST DLY AMD BEAR 1X",
+      "ticker": "DUST",
+      "name": "DIREXION SHARES ETF TRUST DAI GOL BEA ETF",
       "sector": "Unknown",
-      "price": 28.33,
-      "changePct": -11.16,
-      "changeDollar": -3.56
+      "price": 34.38,
+      "changePct": -8.73,
+      "changeDollar": -3.29
     },
     {
-      "ticker": "STRA",
-      "name": "STRATEGIC ED INC COM",
+      "ticker": "SPXS",
+      "name": "DIREXION SHARES ETF TRUST DA 500 BE 3X ETF",
       "sector": "Unknown",
-      "price": 52.2,
-      "changePct": -10.72,
-      "changeDollar": -6.27
+      "price": 25.62,
+      "changePct": -7.01,
+      "changeDollar": -1.93
     },
     {
-      "ticker": "MCHP",
-      "name": "MICROCHIP TECHNOLOGY INC. COM",
+      "ticker": "QID",
+      "name": "PROSHARES TR ULTRASHORT QQQ",
       "sector": "Unknown",
-      "price": 58.35,
-      "changePct": -10.02,
-      "changeDollar": -6.5
+      "price": 15.38,
+      "changePct": -6.84,
+      "changeDollar": -1.13
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "KRMN",
-      "name": "KARMAN HLDGS INC COMMON STOCK",
+      "ticker": "PRAX",
+      "name": "PRAXIS PRECISION MEDICINES INC COM NEW",
       "sector": "Unknown",
-      "price": 45.61,
-      "changePct": 42.13,
-      "changeDollar": 13.52
+      "price": 332.97,
+      "changePct": 19.94,
+      "changeDollar": 55.35
     },
     {
-      "ticker": "ETON",
-      "name": "ETON PHARMACEUTICALS INC COM",
+      "ticker": "COHR",
+      "name": "COHERENT CORP COM",
       "sector": "Unknown",
-      "price": 56.46,
-      "changePct": 19.75,
-      "changeDollar": 9.31
+      "price": 225.19,
+      "changePct": 16.79,
+      "changeDollar": 32.38
     },
     {
-      "ticker": "EWTX",
-      "name": "EDGEWISE THERAPEUTICS INC COM",
+      "ticker": "VSAT",
+      "name": "VIASAT INC COM",
       "sector": "Unknown",
-      "price": 45.04,
-      "changePct": 15.87,
-      "changeDollar": 6.17
+      "price": 74.37,
+      "changePct": 16.29,
+      "changeDollar": 10.42
     },
     {
-      "ticker": "FLGT",
-      "name": "FULGENT GENETICS INC COM",
+      "ticker": "IMVT",
+      "name": "IMMUNOVANT INC COM",
       "sector": "Unknown",
-      "price": 23.74,
-      "changePct": 27.22,
-      "changeDollar": 5.08
+      "price": 35.15,
+      "changePct": 15.13,
+      "changeDollar": 4.62
     },
     {
-      "ticker": "VOYG",
-      "name": "VOYAGER TECHNOLOGIES INC COM CL A",
+      "ticker": "LINC",
+      "name": "LINCOLN EDL SVCS CORP COM",
       "sector": "Unknown",
-      "price": 23.98,
-      "changePct": 17.95,
-      "changeDollar": 3.65
+      "price": 22.0,
+      "changePct": 24.58,
+      "changeDollar": 4.34
     }
   ],
   "dollarLosers": [
     {
-      "ticker": "AXON",
-      "name": "AXON ENTERPRISE INC COM",
+      "ticker": "ARWR",
+      "name": "ARROWHEAD PHARMACEUTICALS INC COM",
       "sector": "Unknown",
-      "price": 313.0,
-      "changePct": -18.18,
-      "changeDollar": -69.56
+      "price": 49.24,
+      "changePct": -15.34,
+      "changeDollar": -8.92
     },
     {
-      "ticker": "SOXS",
-      "name": "DIREXION SHARES ETF TRUST DAI SEM 3X ETF",
+      "ticker": "IONS",
+      "name": "IONIS PHARMACEUTICALS INC COM",
       "sector": "Unknown",
-      "price": 70.95,
-      "changePct": -12.64,
-      "changeDollar": -10.27
+      "price": 31.0,
+      "changePct": -21.36,
+      "changeDollar": -8.42
     },
     {
-      "ticker": "MCHP",
-      "name": "MICROCHIP TECHNOLOGY INC. COM",
+      "ticker": "UVXY",
+      "name": "ProShares Ultra VIX Short-Term Futures ETF",
       "sector": "Unknown",
-      "price": 58.35,
-      "changePct": -10.02,
-      "changeDollar": -6.5
+      "price": 18.41,
+      "changePct": -20.23,
+      "changeDollar": -4.67
     },
     {
-      "ticker": "STRA",
-      "name": "STRATEGIC ED INC COM",
+      "ticker": "DUST",
+      "name": "DIREXION SHARES ETF TRUST DAI GOL BEA ETF",
       "sector": "Unknown",
-      "price": 52.2,
-      "changePct": -10.72,
-      "changeDollar": -6.27
+      "price": 34.38,
+      "changePct": -8.73,
+      "changeDollar": -3.29
     },
     {
-      "ticker": "RIGL",
-      "name": "RIGEL PHARMACEUTICALS INC COM",
+      "ticker": "HIMS",
+      "name": "HIMS & HERS HEALTH INC COM CL A",
       "sector": "Unknown",
-      "price": 39.65,
-      "changePct": -13.26,
-      "changeDollar": -6.06
+      "price": 22.94,
+      "changePct": -11.77,
+      "changeDollar": -3.06
     }
   ]
 }
