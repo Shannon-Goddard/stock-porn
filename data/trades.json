@@ -3671,6 +3671,50 @@
         "left_on_table": 35.47,
         "theta_note": "1DTE: Theta moderate at open, accelerating by noon. Est. $0.00 burned"
       }
+    },
+    {
+      "id": 47,
+      "status": "open",
+      "entry": {
+        "date": "2026-11-10",
+        "time": "15:55 PST",
+        "ticker": "TTWO",
+        "name": "TAKE-TWO INTERACTIVE SOFTWARE COM",
+        "sector": "Unknown",
+        "type": "PUT",
+        "strike": 210.0,
+        "expiration": "2026-11-13",
+        "dte_at_entry": 3,
+        "T_at_entry": 0.008219,
+        "stock_price_at_entry": 224.02,
+        "premium": 0.9,
+        "cost": 90.0,
+        "bid": 0.7,
+        "spread": 0.2,
+        "iv_at_entry": 0.5547,
+        "otm_pct": 6.26,
+        "expected_move": {
+          "one_sigma_pct": 5.03,
+          "upper": 235.29,
+          "lower": 212.75,
+          "strike_position": "at_edge"
+        },
+        "signal_rank": "dollar_gainer_1",
+        "signal_pct": 8.01,
+        "signal_dollar": 16.62,
+        "spy_change": -0.33,
+        "macro_active": true,
+        "macro_keywords": [
+          "fed",
+          "cpi",
+          "inflation",
+          "war"
+        ],
+        "auto_note": "TTWO PUT | $+16.62 (+8.01%) | dollar_gainer_1 | Strike $210.0 exp 2026-11-13 (3DTE) | IV 55.5% | SPY -0.33% | MACRO: fed, cpi, inflation, war"
+      },
+      "news_scan": null,
+      "exit": null,
+      "fomo": null
     }
   ]
 }
