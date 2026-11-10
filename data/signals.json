@@ -1,250 +1,42 @@
 {
   "topGainers": [
     {
-      "ticker": "COHX",
-      "name": "Tradr 2X Long COHR Daily ETF",
+      "ticker": "DSL",
+      "name": "DOUBLELINE INCOME SOLUTIONS FD COM",
       "sector": "Unknown",
-      "price": 11.49,
-      "changePct": 33.29,
-      "changeDollar": 2.87
-    },
-    {
-      "ticker": "LINC",
-      "name": "LINCOLN EDL SVCS CORP COM",
-      "sector": "Unknown",
-      "price": 22.0,
-      "changePct": 24.58,
-      "changeDollar": 4.34
-    },
-    {
-      "ticker": "PRAX",
-      "name": "PRAXIS PRECISION MEDICINES INC COM NEW",
-      "sector": "Unknown",
-      "price": 332.97,
-      "changePct": 19.94,
-      "changeDollar": 55.35
-    },
-    {
-      "ticker": "QXO",
-      "name": "QXO INC COM NEW",
-      "sector": "Unknown",
-      "price": 13.78,
-      "changePct": 19.2,
-      "changeDollar": 2.22
-    },
-    {
-      "ticker": "QMCO",
-      "name": "QUANTUM CORP COM",
-      "sector": "Unknown",
-      "price": 16.99,
-      "changePct": 17.42,
-      "changeDollar": 2.52
-    },
-    {
-      "ticker": "COHR",
-      "name": "COHERENT CORP COM",
-      "sector": "Unknown",
-      "price": 225.19,
-      "changePct": 16.79,
-      "changeDollar": 32.38
-    },
-    {
-      "ticker": "VSAT",
-      "name": "VIASAT INC COM",
-      "sector": "Unknown",
-      "price": 74.37,
-      "changePct": 16.29,
-      "changeDollar": 10.42
-    },
-    {
-      "ticker": "FPS",
-      "name": "FORGENT POWER SOLUTIONS INC COM SHS CL A",
-      "sector": "Unknown",
-      "price": 22.6,
-      "changePct": 16.02,
-      "changeDollar": 3.12
-    },
-    {
-      "ticker": "TTD",
-      "name": "THE TRADE DESK INC COM CL A",
-      "sector": "Unknown",
-      "price": 14.93,
-      "changePct": 15.47,
-      "changeDollar": 2.0
-    },
-    {
-      "ticker": "IMVT",
-      "name": "IMMUNOVANT INC COM",
-      "sector": "Unknown",
-      "price": 35.15,
-      "changePct": 15.13,
-      "changeDollar": 4.62
+      "price": 10.08,
+      "changePct": 1.31,
+      "changeDollar": 0.13
     }
   ],
   "topLosers": [
     {
-      "ticker": "IONS",
-      "name": "IONIS PHARMACEUTICALS INC COM",
+      "ticker": "DSL",
+      "name": "DOUBLELINE INCOME SOLUTIONS FD COM",
       "sector": "Unknown",
-      "price": 31.0,
-      "changePct": -21.36,
-      "changeDollar": -8.42
-    },
-    {
-      "ticker": "UVXY",
-      "name": "ProShares Ultra VIX Short-Term Futures ETF",
-      "sector": "Unknown",
-      "price": 18.41,
-      "changePct": -20.23,
-      "changeDollar": -4.67
-    },
-    {
-      "ticker": "ARWR",
-      "name": "ARROWHEAD PHARMACEUTICALS INC COM",
-      "sector": "Unknown",
-      "price": 49.24,
-      "changePct": -15.34,
-      "changeDollar": -8.92
-    },
-    {
-      "ticker": "MUZ",
-      "name": "TIDAL TRUST II DEFIANCE DAILY T",
-      "sector": "Unknown",
-      "price": 11.33,
-      "changePct": -12.78,
-      "changeDollar": -1.66
-    },
-    {
-      "ticker": "HIMS",
-      "name": "HIMS & HERS HEALTH INC COM CL A",
-      "sector": "Unknown",
-      "price": 22.94,
-      "changePct": -11.77,
-      "changeDollar": -3.06
-    },
-    {
-      "ticker": "SKDD",
-      "name": "GRANITESHARES ETF TR 2X SRT SK HYNIX",
-      "sector": "Unknown",
-      "price": 10.33,
-      "changePct": -11.18,
-      "changeDollar": -1.3
-    },
-    {
-      "ticker": "SRTY",
-      "name": "PROSHARES TR ULTRAPRO SHRT RU",
-      "sector": "Unknown",
-      "price": 25.1,
-      "changePct": -9.61,
-      "changeDollar": -2.67
-    },
-    {
-      "ticker": "DUST",
-      "name": "DIREXION SHARES ETF TRUST DAI GOL BEA ETF",
-      "sector": "Unknown",
-      "price": 34.38,
-      "changePct": -8.73,
-      "changeDollar": -3.29
-    },
-    {
-      "ticker": "SPXS",
-      "name": "DIREXION SHARES ETF TRUST DA 500 BE 3X ETF",
-      "sector": "Unknown",
-      "price": 25.62,
-      "changePct": -7.01,
-      "changeDollar": -1.93
-    },
-    {
-      "ticker": "QID",
-      "name": "PROSHARES TR ULTRASHORT QQQ",
-      "sector": "Unknown",
-      "price": 15.38,
-      "changePct": -6.84,
-      "changeDollar": -1.13
+      "price": 10.08,
+      "changePct": 1.31,
+      "changeDollar": 0.13
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "PRAX",
-      "name": "PRAXIS PRECISION MEDICINES INC COM NEW",
+      "ticker": "DSL",
+      "name": "DOUBLELINE INCOME SOLUTIONS FD COM",
       "sector": "Unknown",
-      "price": 332.97,
-      "changePct": 19.94,
-      "changeDollar": 55.35
-    },
-    {
-      "ticker": "COHR",
-      "name": "COHERENT CORP COM",
-      "sector": "Unknown",
-      "price": 225.19,
-      "changePct": 16.79,
-      "changeDollar": 32.38
-    },
-    {
-      "ticker": "VSAT",
-      "name": "VIASAT INC COM",
-      "sector": "Unknown",
-      "price": 74.37,
-      "changePct": 16.29,
-      "changeDollar": 10.42
-    },
-    {
-      "ticker": "IMVT",
-      "name": "IMMUNOVANT INC COM",
-      "sector": "Unknown",
-      "price": 35.15,
-      "changePct": 15.13,
-      "changeDollar": 4.62
-    },
-    {
-      "ticker": "LINC",
-      "name": "LINCOLN EDL SVCS CORP COM",
-      "sector": "Unknown",
-      "price": 22.0,
-      "changePct": 24.58,
-      "changeDollar": 4.34
+      "price": 10.08,
+      "changePct": 1.31,
+      "changeDollar": 0.13
     }
   ],
   "dollarLosers": [
     {
-      "ticker": "ARWR",
-      "name": "ARROWHEAD PHARMACEUTICALS INC COM",
+      "ticker": "DSL",
+      "name": "DOUBLELINE INCOME SOLUTIONS FD COM",
       "sector": "Unknown",
-      "price": 49.24,
-      "changePct": -15.34,
-      "changeDollar": -8.92
-    },
-    {
-      "ticker": "IONS",
-      "name": "IONIS PHARMACEUTICALS INC COM",
-      "sector": "Unknown",
-      "price": 31.0,
-      "changePct": -21.36,
-      "changeDollar": -8.42
-    },
-    {
-      "ticker": "UVXY",
-      "name": "ProShares Ultra VIX Short-Term Futures ETF",
-      "sector": "Unknown",
-      "price": 18.41,
-      "changePct": -20.23,
-      "changeDollar": -4.67
-    },
-    {
-      "ticker": "DUST",
-      "name": "DIREXION SHARES ETF TRUST DAI GOL BEA ETF",
-      "sector": "Unknown",
-      "price": 34.38,
-      "changePct": -8.73,
-      "changeDollar": -3.29
-    },
-    {
-      "ticker": "HIMS",
-      "name": "HIMS & HERS HEALTH INC COM CL A",
-      "sector": "Unknown",
-      "price": 22.94,
-      "changePct": -11.77,
-      "changeDollar": -3.06
+      "price": 10.08,
+      "changePct": 1.31,
+      "changeDollar": 0.13
     }
   ]
 }
