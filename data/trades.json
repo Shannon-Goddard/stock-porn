@@ -9,8 +9,8 @@
       4
     ]
   },
-  "balance": -2964.24,
-  "clean_balance": -2837.5,
+  "balance": -2917.59,
+  "clean_balance": -2790.85,
   "starting_balance": 0.0,
   "first_trade_date": "2026-08-24",
   "trades": [
@@ -3674,7 +3674,7 @@
     },
     {
       "id": 47,
-      "status": "open",
+      "status": "closed",
       "entry": {
         "date": "2026-11-10",
         "time": "15:55 PST",
@@ -3713,8 +3713,47 @@
         "auto_note": "TTWO PUT | $+16.62 (+8.01%) | dollar_gainer_1 | Strike $210.0 exp 2026-11-13 (3DTE) | IV 55.5% | SPY -0.33% | MACRO: fed, cpi, inflation, war"
       },
       "news_scan": null,
-      "exit": null,
-      "fomo": null
+      "exit": {
+        "date": "2026-11-10",
+        "time": "2026-11-10 09:30:00-05:00",
+        "stock_open_price": 218.18,
+        "sell_option_price": 1.3665,
+        "sell_contract_value": 136.65,
+        "sell_trigger": "sell_at_open",
+        "gap_direction": "with_thesis",
+        "gap_pct": -2.61,
+        "pnl": 46.65
+      },
+      "fomo": {
+        "sell_contract_value": 136.65,
+        "sell_pnl": 46.65,
+        "theta_burned_at_sell": -0.0,
+        "theta_per_min": -0.07978,
+        "day_high": {
+          "stock_price": 229.4626,
+          "time": "2026-11-10 09:32:00-05:00",
+          "bs_contract_value": 16.88,
+          "theoretical_pnl": -73.12
+        },
+        "day_low": {
+          "stock_price": 214.29,
+          "time": "2026-11-10 09:47:00-05:00",
+          "bs_contract_value": 239.17,
+          "theoretical_pnl": 149.17
+        },
+        "best_case": {
+          "value": 239.17,
+          "pnl": 149.17,
+          "time": "2026-11-10 09:47:00-05:00"
+        },
+        "worst_case": {
+          "value": 16.88,
+          "pnl": -73.12,
+          "time": "2026-11-10 09:32:00-05:00"
+        },
+        "left_on_table": 102.52,
+        "theta_note": "3DTE: Theta minimal at open, stock direction dominates. Est. $0.00 burned"
+      }
     }
   ]
 }

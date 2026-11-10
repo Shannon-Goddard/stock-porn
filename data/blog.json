@@ -649,9 +649,12 @@
     "ticker": "TTWO",
     "type": "PUT",
     "trade_id": 47,
-    "title": "TTWO PUT \u2014 2026-11-10",
+    "title": "TTWO PUT \u2014 2026-11-10: Made $46.65",
     "youtube_id": null,
     "images": [],
-    "published": true
+    "published": true,
+    "subtitle": "TTWO closed at $224.02 on 2026-11-10, ranking dollar_gainer_1 with +8.01% ($+16.62). Strike $210.0 PUT exp 2026-11-13 (3DTE). IV at entry: 55.5%. Cost: $90.00. News scan: n/a \u2014 decision: n/a. Sold at option value $1.3665 (stock open $218.18) at 2026-11-10 09:30:00-05:00. P&L: $+46.65. Left on table: $+102.52.",
+    "pnl": 46.65,
+    "won": true
   }
 ]

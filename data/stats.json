@@ -1,15 +1,15 @@
 {
-  "last_updated": "2026-11-05 21:10:13 UTC",
-  "clean_balance": -2837.5,
+  "last_updated": "2026-11-10 20:57:26 UTC",
+  "clean_balance": -2790.85,
   "overall": {
-    "total_trades": 46,
-    "wins": 2,
+    "total_trades": 47,
+    "wins": 3,
     "losses": 44,
-    "win_rate": 4.3,
-    "avg_pnl": -64.44,
-    "total_pnl": -2964.24,
+    "win_rate": 6.4,
+    "avg_pnl": -62.08,
+    "total_pnl": -2917.59,
     "starting_balance": 0.0,
-    "current_balance": -2964.24
+    "current_balance": -2917.59
   },
   "by_day_of_week": {
     "Monday": {
@@ -18,9 +18,9 @@
       "avg_pnl": 2.98
     },
     "Tuesday": {
-      "trades": 10,
-      "wins": 0,
-      "avg_pnl": -74.25
+      "trades": 11,
+      "wins": 1,
+      "avg_pnl": -63.26
     },
     "Wednesday": {
       "trades": 7,
@@ -65,16 +65,16 @@
       "avg_pnl": -45.26
     },
     "Unknown": {
-      "trades": 42,
-      "wins": 1,
-      "avg_pnl": -67.56
+      "trades": 43,
+      "wins": 2,
+      "avg_pnl": -64.9
     }
   },
   "by_signal_rank": {
     "dollar_gainer_1": {
-      "trades": 27,
-      "wins": 2,
-      "avg_pnl": -64.15
+      "trades": 28,
+      "wins": 3,
+      "avg_pnl": -60.19
     },
     "dollar_loser_1": {
       "trades": 19,
@@ -89,21 +89,21 @@
       "call_wins": 0
     },
     "spy_down_days": {
-      "trades": 37,
-      "put_wins": 1,
+      "trades": 38,
+      "put_wins": 2,
       "call_wins": 1
     }
   },
   "fomo": {
-    "avg_left_on_table": -12476.71,
+    "avg_left_on_table": -11638.09,
     "hold_2min_trades": 7,
     "hold_2min_avg_pnl": -51.58,
-    "sell_at_open_trades": 7,
-    "sell_at_open_avg_pnl": -9.46
+    "sell_at_open_trades": 8,
+    "sell_at_open_avg_pnl": -2.45
   },
   "iv_crush": {
-    "samples": 45,
-    "avg_iv_at_entry": 0.8351,
+    "samples": 46,
+    "avg_iv_at_entry": 0.829,
     "avg_iv_at_open": 0.0,
     "avg_crush_dollars": 0.0
   },
@@ -123,8 +123,8 @@
   },
   "methodology_score": {
     "spy_layer": {
-      "predictions": 46,
-      "correct": 1
+      "predictions": 47,
+      "correct": 2
     },
     "sector_layer": {
       "predictions": 0,
@@ -149,8 +149,8 @@
           "wins": 0
         },
         "at_edge": {
-          "trades": 8,
-          "wins": 0
+          "trades": 9,
+          "wins": 1
         },
         "outside": {
           "trades": 27,
@@ -163,8 +163,8 @@
       "min_sample": 20,
       "buckets": {
         "with_thesis": {
-          "trades": 3,
-          "wins": 1
+          "trades": 4,
+          "wins": 2
         },
         "against_thesis": {
           "trades": 6,
@@ -181,8 +181,8 @@
       "min_sample": 10,
       "buckets": {
         "war": {
-          "trades": 10,
-          "wins": 0
+          "trades": 11,
+          "wins": 1
         },
         "rate hike": {
           "trades": 8,
@@ -193,12 +193,20 @@
           "wins": 0
         },
         "fed": {
-          "trades": 6,
-          "wins": 0
+          "trades": 7,
+          "wins": 1
         },
         "tariff": {
           "trades": 2,
           "wins": 0
+        },
+        "cpi": {
+          "trades": 1,
+          "wins": 1
+        },
+        "inflation": {
+          "trades": 1,
+          "wins": 1
         }
       }
     },
@@ -211,8 +219,8 @@
           "wins": 1
         },
         "2_3dte": {
-          "trades": 17,
-          "wins": 0
+          "trades": 18,
+          "wins": 1
         },
         "4dte_plus": {
           "trades": 12,
