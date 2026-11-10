@@ -1,42 +1,250 @@
 {
   "topGainers": [
     {
-      "ticker": "DSL",
-      "name": "DOUBLELINE INCOME SOLUTIONS FD COM",
+      "ticker": "IREZ",
+      "name": "Tradr 2X Short IREN Daily ETF",
       "sector": "Unknown",
-      "price": 10.08,
-      "changePct": 1.31,
-      "changeDollar": 0.13
+      "price": 24.17,
+      "changePct": 16.31,
+      "changeDollar": 3.39
+    },
+    {
+      "ticker": "NBIZ",
+      "name": "Tradr 2X Short NBIS Daily ETF",
+      "sector": "Unknown",
+      "price": 43.11,
+      "changePct": 11.63,
+      "changeDollar": 4.49
+    },
+    {
+      "ticker": "ACAD",
+      "name": "ACADIA PHARMACEUTICALS INC COM",
+      "sector": "Unknown",
+      "price": 17.99,
+      "changePct": 9.03,
+      "changeDollar": 1.49
+    },
+    {
+      "ticker": "TTWO",
+      "name": "TAKE-TWO INTERACTIVE SOFTWARE COM",
+      "sector": "Unknown",
+      "price": 224.02,
+      "changePct": 8.01,
+      "changeDollar": 16.62
+    },
+    {
+      "ticker": "TNGX",
+      "name": "TANGO THERAPEUTICS INC COM",
+      "sector": "Unknown",
+      "price": 24.42,
+      "changePct": 7.39,
+      "changeDollar": 1.68
+    },
+    {
+      "ticker": "CLYM",
+      "name": "CLIMB BIO INC COM",
+      "sector": "Unknown",
+      "price": 11.79,
+      "changePct": 7.08,
+      "changeDollar": 0.78
+    },
+    {
+      "ticker": "SBGI",
+      "name": "SINCLAIR INC CL A",
+      "sector": "Unknown",
+      "price": 15.05,
+      "changePct": 5.76,
+      "changeDollar": 0.82
+    },
+    {
+      "ticker": "NVDD",
+      "name": "DIREXION SHARES ETF TRUST DLY NVDA BEAR 1X",
+      "sector": "Unknown",
+      "price": 38.36,
+      "changePct": 5.65,
+      "changeDollar": 2.05
+    },
+    {
+      "ticker": "PRDO",
+      "name": "PERDOCEO ED CORP COM",
+      "sector": "Unknown",
+      "price": 28.99,
+      "changePct": 5.65,
+      "changeDollar": 1.55
+    },
+    {
+      "ticker": "AXSM",
+      "name": "AXSOME THERAPEUTICS INC. COM",
+      "sector": "Unknown",
+      "price": 141.17,
+      "changePct": 5.38,
+      "changeDollar": 7.21
     }
   ],
   "topLosers": [
     {
-      "ticker": "DSL",
-      "name": "DOUBLELINE INCOME SOLUTIONS FD COM",
+      "ticker": "MUX",
+      "name": "MCEWEN INC. COM NEW",
       "sector": "Unknown",
-      "price": 10.08,
-      "changePct": 1.31,
-      "changeDollar": 0.13
+      "price": 13.23,
+      "changePct": -18.48,
+      "changeDollar": -3.0
+    },
+    {
+      "ticker": "GSHD",
+      "name": "GOOSEHEAD INS INC COM CL A",
+      "sector": "Unknown",
+      "price": 46.83,
+      "changePct": -14.35,
+      "changeDollar": -7.85
+    },
+    {
+      "ticker": "NVDL",
+      "name": "GRANITESHARES ETF TR 2X LONG NVDA ETF",
+      "sector": "Unknown",
+      "price": 19.16,
+      "changePct": -11.46,
+      "changeDollar": -2.48
+    },
+    {
+      "ticker": "NVDX",
+      "name": "T-Rex 2X Long NVIDIA Daily Target ETF",
+      "sector": "Unknown",
+      "price": 10.76,
+      "changePct": -11.45,
+      "changeDollar": -1.39
+    },
+    {
+      "ticker": "NUGT",
+      "name": "DIREXION SHARES ETF TRUST DAI GOL BUL ETF",
+      "sector": "Unknown",
+      "price": 139.79,
+      "changePct": -9.39,
+      "changeDollar": -14.49
+    },
+    {
+      "ticker": "BEX",
+      "name": "Tradr 2X Long BE Daily ETF",
+      "sector": "Unknown",
+      "price": 13.83,
+      "changePct": -8.95,
+      "changeDollar": -1.36
+    },
+    {
+      "ticker": "COHX",
+      "name": "Tradr 2X Long COHR Daily ETF",
+      "sector": "Unknown",
+      "price": 10.47,
+      "changePct": -8.88,
+      "changeDollar": -1.02
+    },
+    {
+      "ticker": "DPC",
+      "name": "DPC HOLDINGS PLC ORDINARY SHARES",
+      "sector": "Unknown",
+      "price": 29.98,
+      "changePct": -8.4,
+      "changeDollar": -2.75
+    },
+    {
+      "ticker": "AXTI",
+      "name": "AXT INC COM",
+      "sector": "Unknown",
+      "price": 39.32,
+      "changePct": -8.37,
+      "changeDollar": -3.59
+    },
+    {
+      "ticker": "GFL",
+      "name": "GFL ENVIRONMENTAL INC SUB VTG SHS",
+      "sector": "Unknown",
+      "price": 42.19,
+      "changePct": -8.04,
+      "changeDollar": -3.69
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "DSL",
-      "name": "DOUBLELINE INCOME SOLUTIONS FD COM",
+      "ticker": "TTWO",
+      "name": "TAKE-TWO INTERACTIVE SOFTWARE COM",
       "sector": "Unknown",
-      "price": 10.08,
-      "changePct": 1.31,
-      "changeDollar": 0.13
+      "price": 224.02,
+      "changePct": 8.01,
+      "changeDollar": 16.62
+    },
+    {
+      "ticker": "AXSM",
+      "name": "AXSOME THERAPEUTICS INC. COM",
+      "sector": "Unknown",
+      "price": 141.17,
+      "changePct": 5.38,
+      "changeDollar": 7.21
+    },
+    {
+      "ticker": "NBIZ",
+      "name": "Tradr 2X Short NBIS Daily ETF",
+      "sector": "Unknown",
+      "price": 43.11,
+      "changePct": 11.63,
+      "changeDollar": 4.49
+    },
+    {
+      "ticker": "IREZ",
+      "name": "Tradr 2X Short IREN Daily ETF",
+      "sector": "Unknown",
+      "price": 24.17,
+      "changePct": 16.31,
+      "changeDollar": 3.39
+    },
+    {
+      "ticker": "NVDD",
+      "name": "DIREXION SHARES ETF TRUST DLY NVDA BEAR 1X",
+      "sector": "Unknown",
+      "price": 38.36,
+      "changePct": 5.65,
+      "changeDollar": 2.05
     }
   ],
   "dollarLosers": [
     {
-      "ticker": "DSL",
-      "name": "DOUBLELINE INCOME SOLUTIONS FD COM",
+      "ticker": "NUGT",
+      "name": "DIREXION SHARES ETF TRUST DAI GOL BUL ETF",
       "sector": "Unknown",
-      "price": 10.08,
-      "changePct": 1.31,
-      "changeDollar": 0.13
+      "price": 139.79,
+      "changePct": -9.39,
+      "changeDollar": -14.49
+    },
+    {
+      "ticker": "GSHD",
+      "name": "GOOSEHEAD INS INC COM CL A",
+      "sector": "Unknown",
+      "price": 46.83,
+      "changePct": -14.35,
+      "changeDollar": -7.85
+    },
+    {
+      "ticker": "GFL",
+      "name": "GFL ENVIRONMENTAL INC SUB VTG SHS",
+      "sector": "Unknown",
+      "price": 42.19,
+      "changePct": -8.04,
+      "changeDollar": -3.69
+    },
+    {
+      "ticker": "AXTI",
+      "name": "AXT INC COM",
+      "sector": "Unknown",
+      "price": 39.32,
+      "changePct": -8.37,
+      "changeDollar": -3.59
+    },
+    {
+      "ticker": "MUX",
+      "name": "MCEWEN INC. COM NEW",
+      "sector": "Unknown",
+      "price": 13.23,
+      "changePct": -18.48,
+      "changeDollar": -3.0
     }
   ]
 }
