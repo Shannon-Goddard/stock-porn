@@ -3795,7 +3795,61 @@
         ],
         "auto_note": "TTWO PUT | $+17.24 (+8.31%) | dollar_gainer_1 | Strike $210.0 exp 2026-11-13 (2DTE) | IV 62.4% | SPY -0.37% | MACRO: fed, cpi, inflation, war"
       },
-      "news_scan": null,
+      "news_scan": {
+        "scanned_at": "2026-11-11 14:25:34 PST",
+        "gap_days": 0,
+        "ticker_sentiment": "bullish",
+        "spy_sentiment": "neutral",
+        "spx_sentiment": "bullish",
+        "keywords_found": [
+          "soars",
+          "jumps"
+        ],
+        "spy_keywords": [],
+        "spx_keywords": [
+          "surge"
+        ],
+        "decision": "sell",
+        "decision_reason": "bullish ticker sentiment \u2014 no confirmation for PUT thesis, sell at open",
+        "raw_headlines": {
+          "ticker": [
+            "Take-Two CEO Zelnick: AI Wont Kill Gaming Jobs",
+            "Dear Take-Two Stock Fans, Mark Your Calendars for November 19",
+            "Take Two Interactive (TTWO) Stock Jumps As Q2 Results Keep GTA VI Central",
+            "Take-Two isn\u2019t ready to \u2018declare victory\u2019 on GTA 6 before launch",
+            "Why Take-Two Stock's Got Game Today",
+            "Take-Two Stocks Rise 4.96% as GTA VI Pre-Orders Track Far Above Plan",
+            "Take-Two Interactive Software Stock Soars - Sparking Huge Unusual TTWO Put Option Volume",
+            "Take-Two Q2 Earnings Beat on Lower Costs Despite Bookings Miss",
+            "Take-Two Interactive earnings analysis: questions answered and next catalysts",
+            "Anthropic, Nvidia, CoreWeave, Take-Two, D-Wave, Securitize, and More That Explain Today\u2019s Market"
+          ],
+          "spy": [
+            "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Wednesday as Nvidia Stock Recovers",
+            "AMD sees $709 million reversal as major ETFs pile in",
+            "Micron draws $554 million in ETF buying after steep selloff",
+            "Retired at 67, Single, With No Kids to Call if the Money Runs Short? The Portfolio Is the Only Backup. These 3 ETFs Are Built to Be It",
+            "SPDR S&P 500 ETF (SPY) Adds Apple and Nvidia on Monday",
+            "ETFs Bought $231.4 Million of Lam Research (LRCX) on Monday",
+            "45 ETFs Add to KLA Corporation (KLAC) on Monday",
+            "ETFs Bought $293.8 Million of Qualcomm (QCOM) on Nov. 9",
+            "ETFs Are Buying Analog Devices (ADI) on Monday",
+            "ETFs Bought $360.9 Million of Intel (INTC) on Nov. 9"
+          ],
+          "spx": [
+            "Goldman Sachs calls chip stocks 'oversold.' Here are the names it says to buy.",
+            "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Wednesday as Nvidia Stock Recovers",
+            "Stock market today: Dow, S&P 500, Nasdaq futures rise as Nvidia stock recovers, 10-year yield nears 5%",
+            "Update: US Equity Futures Rise Pre-Bell With Nvidia, CoreWeave Gaining Amid Tech Sector Rebound",
+            "Embraer Flies Into Buy Zone After Earnings. Here's How Boeing, Airbus Compare.",
+            "Stock Market Sell-Off: The 5 Best Stocks to Buy in November",
+            "Stock Market Today: Tech Futures Jump As CoreWeave Surges On Results; Nvidia Rebounds (Live Coverage)",
+            "Why You Should Think About Bloom Energy Differently Now",
+            "US Stock Market Today: S&P 500 Futures Rebound On Stubborn Inflation Higher-For-Longer Risk",
+            "Nasdaq Futures Rally as AI Optimism Returns"
+          ]
+        }
+      },
       "exit": null,
       "fomo": null
     }
