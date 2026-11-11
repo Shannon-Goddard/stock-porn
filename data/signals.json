@@ -1,166 +1,166 @@
 {
   "topGainers": [
     {
-      "ticker": "IREZ",
-      "name": "Tradr 2X Short IREN Daily ETF",
+      "ticker": "HROW",
+      "name": "HARROW INC COM",
       "sector": "Unknown",
-      "price": 24.17,
-      "changePct": 16.31,
-      "changeDollar": 3.39
-    },
-    {
-      "ticker": "NBIZ",
-      "name": "Tradr 2X Short NBIS Daily ETF",
-      "sector": "Unknown",
-      "price": 43.11,
-      "changePct": 11.63,
-      "changeDollar": 4.49
-    },
-    {
-      "ticker": "ACAD",
-      "name": "ACADIA PHARMACEUTICALS INC COM",
-      "sector": "Unknown",
-      "price": 17.99,
-      "changePct": 9.03,
-      "changeDollar": 1.49
+      "price": 30.36,
+      "changePct": 10.52,
+      "changeDollar": 2.89
     },
     {
       "ticker": "TTWO",
       "name": "TAKE-TWO INTERACTIVE SOFTWARE COM",
       "sector": "Unknown",
-      "price": 224.02,
-      "changePct": 8.01,
-      "changeDollar": 16.62
+      "price": 224.64,
+      "changePct": 8.31,
+      "changeDollar": 17.24
     },
     {
-      "ticker": "TNGX",
-      "name": "TANGO THERAPEUTICS INC COM",
+      "ticker": "SKDD",
+      "name": "GRANITESHARES ETF TR 2X SRT SK HYNIX",
       "sector": "Unknown",
-      "price": 24.42,
-      "changePct": 7.39,
-      "changeDollar": 1.68
-    },
-    {
-      "ticker": "CLYM",
-      "name": "CLIMB BIO INC COM",
-      "sector": "Unknown",
-      "price": 11.79,
-      "changePct": 7.08,
-      "changeDollar": 0.78
+      "price": 11.06,
+      "changePct": 7.07,
+      "changeDollar": 0.73
     },
     {
       "ticker": "SBGI",
       "name": "SINCLAIR INC CL A",
       "sector": "Unknown",
-      "price": 15.05,
-      "changePct": 5.76,
-      "changeDollar": 0.82
+      "price": 15.11,
+      "changePct": 6.18,
+      "changeDollar": 0.88
     },
     {
-      "ticker": "NVDD",
-      "name": "DIREXION SHARES ETF TRUST DLY NVDA BEAR 1X",
+      "ticker": "BRBR",
+      "name": "BELLRING BRANDS INC COMMON STOCK",
       "sector": "Unknown",
-      "price": 38.36,
-      "changePct": 5.65,
-      "changeDollar": 2.05
+      "price": 10.17,
+      "changePct": 5.72,
+      "changeDollar": 0.55
     },
     {
-      "ticker": "PRDO",
-      "name": "PERDOCEO ED CORP COM",
+      "ticker": "SBH",
+      "name": "SALLY BEAUTY HLDGS INC COM",
       "sector": "Unknown",
-      "price": 28.99,
-      "changePct": 5.65,
-      "changeDollar": 1.55
+      "price": 20.54,
+      "changePct": 5.39,
+      "changeDollar": 1.05
     },
     {
-      "ticker": "AXSM",
-      "name": "AXSOME THERAPEUTICS INC. COM",
+      "ticker": "TRAX",
+      "name": "FIRST TRACKS BIOTHERAPEUTICS ORD SHS",
       "sector": "Unknown",
-      "price": 141.17,
-      "changePct": 5.38,
-      "changeDollar": 7.21
+      "price": 52.33,
+      "changePct": 5.29,
+      "changeDollar": 2.63
+    },
+    {
+      "ticker": "JBIO",
+      "name": "JADE BIOSCIENCES INC COM NEW",
+      "sector": "Unknown",
+      "price": 16.4,
+      "changePct": 5.13,
+      "changeDollar": 0.8
+    },
+    {
+      "ticker": "ANIP",
+      "name": "ANI PHARMACEUTICALS INC COM",
+      "sector": "Unknown",
+      "price": 71.25,
+      "changePct": 5.1,
+      "changeDollar": 3.46
+    },
+    {
+      "ticker": "BTSG",
+      "name": "BRIGHTSPRING HEALTH SVCS INC COM",
+      "sector": "Unknown",
+      "price": 72.49,
+      "changePct": 4.83,
+      "changeDollar": 3.34
     }
   ],
   "topLosers": [
     {
-      "ticker": "MUX",
-      "name": "MCEWEN INC. COM NEW",
-      "sector": "Unknown",
-      "price": 13.23,
-      "changePct": -18.48,
-      "changeDollar": -3.0
-    },
-    {
       "ticker": "GSHD",
       "name": "GOOSEHEAD INS INC COM CL A",
       "sector": "Unknown",
-      "price": 46.83,
-      "changePct": -14.35,
-      "changeDollar": -7.85
+      "price": 46.13,
+      "changePct": -15.65,
+      "changeDollar": -8.56
     },
     {
-      "ticker": "NVDL",
-      "name": "GRANITESHARES ETF TR 2X LONG NVDA ETF",
+      "ticker": "NOVT",
+      "name": "NOVANTA INC COM",
       "sector": "Unknown",
-      "price": 19.16,
-      "changePct": -11.46,
-      "changeDollar": -2.48
+      "price": 123.71,
+      "changePct": -15.26,
+      "changeDollar": -22.27
     },
     {
-      "ticker": "NVDX",
-      "name": "T-Rex 2X Long NVIDIA Daily Target ETF",
+      "ticker": "LINE",
+      "name": "LINEAGE INC COM",
       "sector": "Unknown",
-      "price": 10.76,
-      "changePct": -11.45,
-      "changeDollar": -1.39
+      "price": 34.88,
+      "changePct": -12.05,
+      "changeDollar": -4.78
     },
     {
-      "ticker": "NUGT",
-      "name": "DIREXION SHARES ETF TRUST DAI GOL BUL ETF",
+      "ticker": "HYMC",
+      "name": "HYCROFT MINING HOLDING CORP CL A NEW",
       "sector": "Unknown",
-      "price": 139.79,
-      "changePct": -9.39,
-      "changeDollar": -14.49
+      "price": 18.87,
+      "changePct": -11.28,
+      "changeDollar": -2.4
     },
     {
-      "ticker": "BEX",
-      "name": "Tradr 2X Long BE Daily ETF",
+      "ticker": "NVDU",
+      "name": "DIREXION SHARES ETF TRUST DLY NVDA BULL 2X",
       "sector": "Unknown",
-      "price": 13.83,
-      "changePct": -8.95,
-      "changeDollar": -1.36
+      "price": 76.65,
+      "changePct": -10.95,
+      "changeDollar": -9.43
     },
     {
-      "ticker": "COHX",
-      "name": "Tradr 2X Long COHR Daily ETF",
+      "ticker": "IONS",
+      "name": "IONIS PHARMACEUTICALS INC COM",
       "sector": "Unknown",
-      "price": 10.47,
-      "changePct": -8.88,
-      "changeDollar": -1.02
-    },
-    {
-      "ticker": "DPC",
-      "name": "DPC HOLDINGS PLC ORDINARY SHARES",
-      "sector": "Unknown",
-      "price": 29.98,
-      "changePct": -8.4,
-      "changeDollar": -2.75
-    },
-    {
-      "ticker": "AXTI",
-      "name": "AXT INC COM",
-      "sector": "Unknown",
-      "price": 39.32,
-      "changePct": -8.37,
-      "changeDollar": -3.59
+      "price": 28.19,
+      "changePct": -9.06,
+      "changeDollar": -2.81
     },
     {
       "ticker": "GFL",
       "name": "GFL ENVIRONMENTAL INC SUB VTG SHS",
       "sector": "Unknown",
-      "price": 42.19,
-      "changePct": -8.04,
-      "changeDollar": -3.69
+      "price": 42.41,
+      "changePct": -7.56,
+      "changeDollar": -3.47
+    },
+    {
+      "ticker": "ETOR",
+      "name": "ETORO GROUP LTD SHS CL A",
+      "sector": "Unknown",
+      "price": 21.56,
+      "changePct": -7.55,
+      "changeDollar": -1.76
+    },
+    {
+      "ticker": "HL",
+      "name": "HECLA MINING COMPANY COM",
+      "sector": "Unknown",
+      "price": 14.29,
+      "changePct": -7.27,
+      "changeDollar": -1.12
+    },
+    {
+      "ticker": "NNE",
+      "name": "NANO NUCLEAR ENERGY INC COM",
+      "sector": "Unknown",
+      "price": 11.58,
+      "changePct": -7.21,
+      "changeDollar": -0.9
     }
   ],
   "dollarGainers": [
@@ -168,83 +168,83 @@
       "ticker": "TTWO",
       "name": "TAKE-TWO INTERACTIVE SOFTWARE COM",
       "sector": "Unknown",
-      "price": 224.02,
-      "changePct": 8.01,
-      "changeDollar": 16.62
+      "price": 224.64,
+      "changePct": 8.31,
+      "changeDollar": 17.24
     },
     {
-      "ticker": "AXSM",
-      "name": "AXSOME THERAPEUTICS INC. COM",
+      "ticker": "ANIP",
+      "name": "ANI PHARMACEUTICALS INC COM",
       "sector": "Unknown",
-      "price": 141.17,
-      "changePct": 5.38,
-      "changeDollar": 7.21
+      "price": 71.25,
+      "changePct": 5.1,
+      "changeDollar": 3.46
     },
     {
-      "ticker": "NBIZ",
-      "name": "Tradr 2X Short NBIS Daily ETF",
+      "ticker": "BTSG",
+      "name": "BRIGHTSPRING HEALTH SVCS INC COM",
       "sector": "Unknown",
-      "price": 43.11,
-      "changePct": 11.63,
-      "changeDollar": 4.49
+      "price": 72.49,
+      "changePct": 4.83,
+      "changeDollar": 3.34
     },
     {
-      "ticker": "IREZ",
-      "name": "Tradr 2X Short IREN Daily ETF",
+      "ticker": "HROW",
+      "name": "HARROW INC COM",
       "sector": "Unknown",
-      "price": 24.17,
-      "changePct": 16.31,
-      "changeDollar": 3.39
+      "price": 30.36,
+      "changePct": 10.52,
+      "changeDollar": 2.89
     },
     {
-      "ticker": "NVDD",
-      "name": "DIREXION SHARES ETF TRUST DLY NVDA BEAR 1X",
+      "ticker": "TRAX",
+      "name": "FIRST TRACKS BIOTHERAPEUTICS ORD SHS",
       "sector": "Unknown",
-      "price": 38.36,
-      "changePct": 5.65,
-      "changeDollar": 2.05
+      "price": 52.33,
+      "changePct": 5.29,
+      "changeDollar": 2.63
     }
   ],
   "dollarLosers": [
     {
-      "ticker": "NUGT",
-      "name": "DIREXION SHARES ETF TRUST DAI GOL BUL ETF",
+      "ticker": "NOVT",
+      "name": "NOVANTA INC COM",
       "sector": "Unknown",
-      "price": 139.79,
-      "changePct": -9.39,
-      "changeDollar": -14.49
+      "price": 123.71,
+      "changePct": -15.26,
+      "changeDollar": -22.27
+    },
+    {
+      "ticker": "NVDU",
+      "name": "DIREXION SHARES ETF TRUST DLY NVDA BULL 2X",
+      "sector": "Unknown",
+      "price": 76.65,
+      "changePct": -10.95,
+      "changeDollar": -9.43
     },
     {
       "ticker": "GSHD",
       "name": "GOOSEHEAD INS INC COM CL A",
       "sector": "Unknown",
-      "price": 46.83,
-      "changePct": -14.35,
-      "changeDollar": -7.85
+      "price": 46.13,
+      "changePct": -15.65,
+      "changeDollar": -8.56
+    },
+    {
+      "ticker": "LINE",
+      "name": "LINEAGE INC COM",
+      "sector": "Unknown",
+      "price": 34.88,
+      "changePct": -12.05,
+      "changeDollar": -4.78
     },
     {
       "ticker": "GFL",
       "name": "GFL ENVIRONMENTAL INC SUB VTG SHS",
       "sector": "Unknown",
-      "price": 42.19,
-      "changePct": -8.04,
-      "changeDollar": -3.69
-    },
-    {
-      "ticker": "AXTI",
-      "name": "AXT INC COM",
-      "sector": "Unknown",
-      "price": 39.32,
-      "changePct": -8.37,
-      "changeDollar": -3.59
-    },
-    {
-      "ticker": "MUX",
-      "name": "MCEWEN INC. COM NEW",
-      "sector": "Unknown",
-      "price": 13.23,
-      "changePct": -18.48,
-      "changeDollar": -3.0
+      "price": 42.41,
+      "changePct": -7.56,
+      "changeDollar": -3.47
     }
   ]
 }
