@@ -1,250 +1,250 @@
 {
   "topGainers": [
     {
-      "ticker": "HROW",
-      "name": "HARROW INC COM",
+      "ticker": "BEG",
+      "name": "THEMES ETF TR LEVERAGE SHS 2X",
       "sector": "Unknown",
-      "price": 30.36,
-      "changePct": 10.52,
-      "changeDollar": 2.89
+      "price": 24.59,
+      "changePct": 29.2,
+      "changeDollar": 5.56
     },
     {
-      "ticker": "TTWO",
-      "name": "TAKE-TWO INTERACTIVE SOFTWARE COM",
+      "ticker": "RSKD",
+      "name": "RISKIFIED LTD SHS CL A",
       "sector": "Unknown",
-      "price": 224.64,
-      "changePct": 8.31,
-      "changeDollar": 17.24
+      "price": 10.32,
+      "changePct": 21.7,
+      "changeDollar": 1.84
     },
     {
-      "ticker": "SKDD",
-      "name": "GRANITESHARES ETF TR 2X SRT SK HYNIX",
+      "ticker": "SKHU",
+      "name": "PROSHARES TR ULTRA SK HYNIX",
       "sector": "Unknown",
-      "price": 11.06,
-      "changePct": 7.07,
-      "changeDollar": 0.73
+      "price": 11.7,
+      "changePct": 20.87,
+      "changeDollar": 2.02
     },
     {
-      "ticker": "SBGI",
-      "name": "SINCLAIR INC CL A",
+      "ticker": "COHX",
+      "name": "Tradr 2X Long COHR Daily ETF",
       "sector": "Unknown",
-      "price": 15.11,
-      "changePct": 6.18,
-      "changeDollar": 0.88
+      "price": 12.63,
+      "changePct": 20.75,
+      "changeDollar": 2.17
     },
     {
-      "ticker": "BRBR",
-      "name": "BELLRING BRANDS INC COMMON STOCK",
+      "ticker": "SHAZ",
+      "name": "SHARONAI HOLDINGS INC COM CL A",
       "sector": "Unknown",
-      "price": 10.17,
-      "changePct": 5.72,
-      "changeDollar": 0.55
+      "price": 26.56,
+      "changePct": 13.89,
+      "changeDollar": 3.24
     },
     {
-      "ticker": "SBH",
-      "name": "SALLY BEAUTY HLDGS INC COM",
+      "ticker": "TH",
+      "name": "TARGET HOSPITALITY CORP COM",
       "sector": "Unknown",
-      "price": 20.54,
-      "changePct": 5.39,
-      "changeDollar": 1.05
+      "price": 11.69,
+      "changePct": 13.5,
+      "changeDollar": 1.39
     },
     {
-      "ticker": "TRAX",
-      "name": "FIRST TRACKS BIOTHERAPEUTICS ORD SHS",
+      "ticker": "MTSI",
+      "name": "MACOM TECH SOLUTIONS HLDGS INC COM",
       "sector": "Unknown",
-      "price": 52.33,
-      "changePct": 5.29,
-      "changeDollar": 2.63
+      "price": 251.57,
+      "changePct": 11.08,
+      "changeDollar": 25.09
     },
     {
-      "ticker": "JBIO",
-      "name": "JADE BIOSCIENCES INC COM NEW",
+      "ticker": "DRAM",
+      "name": "Roundhill Memory ETF",
       "sector": "Unknown",
-      "price": 16.4,
-      "changePct": 5.13,
-      "changeDollar": 0.8
+      "price": 45.09,
+      "changePct": 10.95,
+      "changeDollar": 4.45
     },
     {
-      "ticker": "ANIP",
-      "name": "ANI PHARMACEUTICALS INC COM",
+      "ticker": "STX",
+      "name": "SEAGATE TECHNOLOGY HLDNGS PLC ORD SHS",
       "sector": "Unknown",
-      "price": 71.25,
-      "changePct": 5.1,
-      "changeDollar": 3.46
+      "price": 554.24,
+      "changePct": 10.49,
+      "changeDollar": 52.62
     },
     {
-      "ticker": "BTSG",
-      "name": "BRIGHTSPRING HEALTH SVCS INC COM",
+      "ticker": "SMTC",
+      "name": "SEMTECH CORP COM",
       "sector": "Unknown",
-      "price": 72.49,
-      "changePct": 4.83,
-      "changeDollar": 3.34
+      "price": 125.36,
+      "changePct": 10.46,
+      "changeDollar": 11.87
     }
   ],
   "topLosers": [
     {
-      "ticker": "GSHD",
-      "name": "GOOSEHEAD INS INC COM CL A",
+      "ticker": "NBIZ",
+      "name": "Tradr 2X Short NBIS Daily ETF",
       "sector": "Unknown",
-      "price": 46.13,
-      "changePct": -15.65,
-      "changeDollar": -8.56
+      "price": 28.06,
+      "changePct": -34.29,
+      "changeDollar": -14.64
     },
     {
-      "ticker": "NOVT",
-      "name": "NOVANTA INC COM",
+      "ticker": "SOXS",
+      "name": "DIREXION SHARES ETF TRUST DAI SEM 3X ETF",
       "sector": "Unknown",
-      "price": 123.71,
-      "changePct": -15.26,
-      "changeDollar": -22.27
+      "price": 44.74,
+      "changePct": -19.18,
+      "changeDollar": -10.62
     },
     {
-      "ticker": "LINE",
-      "name": "LINEAGE INC COM",
+      "ticker": "IREZ",
+      "name": "Tradr 2X Short IREN Daily ETF",
       "sector": "Unknown",
-      "price": 34.88,
-      "changePct": -12.05,
-      "changeDollar": -4.78
+      "price": 20.95,
+      "changePct": -12.42,
+      "changeDollar": -2.97
     },
     {
-      "ticker": "HYMC",
-      "name": "HYCROFT MINING HOLDING CORP CL A NEW",
+      "ticker": "SEPN",
+      "name": "SEPTERNA INC COM",
       "sector": "Unknown",
-      "price": 18.87,
-      "changePct": -11.28,
-      "changeDollar": -2.4
+      "price": 48.16,
+      "changePct": -7.99,
+      "changeDollar": -4.18
     },
     {
-      "ticker": "NVDU",
-      "name": "DIREXION SHARES ETF TRUST DLY NVDA BULL 2X",
+      "ticker": "MIR",
+      "name": "MIRION TECHNOLOGIES INC COM CL A",
       "sector": "Unknown",
-      "price": 76.65,
-      "changePct": -10.95,
-      "changeDollar": -9.43
+      "price": 17.73,
+      "changePct": -7.94,
+      "changeDollar": -1.53
     },
     {
-      "ticker": "IONS",
-      "name": "IONIS PHARMACEUTICALS INC COM",
+      "ticker": "NVDQ",
+      "name": "T-Rex 2X Inverse NVIDIA Daily Target ETF",
       "sector": "Unknown",
-      "price": 28.19,
-      "changePct": -9.06,
-      "changeDollar": -2.81
+      "price": 12.9,
+      "changePct": -7.26,
+      "changeDollar": -1.01
     },
     {
-      "ticker": "GFL",
-      "name": "GFL ENVIRONMENTAL INC SUB VTG SHS",
+      "ticker": "ZYME",
+      "name": "ZYMEWORKS INC COM",
       "sector": "Unknown",
-      "price": 42.41,
-      "changePct": -7.56,
-      "changeDollar": -3.47
+      "price": 29.24,
+      "changePct": -7.06,
+      "changeDollar": -2.22
     },
     {
-      "ticker": "ETOR",
-      "name": "ETORO GROUP LTD SHS CL A",
+      "ticker": "RVMD",
+      "name": "REVOLUTION MEDICINES INC COM",
       "sector": "Unknown",
-      "price": 21.56,
-      "changePct": -7.55,
-      "changeDollar": -1.76
+      "price": 180.5,
+      "changePct": -6.51,
+      "changeDollar": -12.56
     },
     {
-      "ticker": "HL",
-      "name": "HECLA MINING COMPANY COM",
+      "ticker": "COGT",
+      "name": "COGENT BIOSCIENCES INC COM",
       "sector": "Unknown",
-      "price": 14.29,
-      "changePct": -7.27,
-      "changeDollar": -1.12
+      "price": 29.66,
+      "changePct": -6.26,
+      "changeDollar": -1.98
     },
     {
-      "ticker": "NNE",
-      "name": "NANO NUCLEAR ENERGY INC COM",
+      "ticker": "TSLQ",
+      "name": "INVESTMENT MANAGERS SER TR II TRADR 2X SHORT",
       "sector": "Unknown",
-      "price": 11.58,
-      "changePct": -7.21,
-      "changeDollar": -0.9
+      "price": 14.67,
+      "changePct": -5.96,
+      "changeDollar": -0.93
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "TTWO",
-      "name": "TAKE-TWO INTERACTIVE SOFTWARE COM",
+      "ticker": "STX",
+      "name": "SEAGATE TECHNOLOGY HLDNGS PLC ORD SHS",
       "sector": "Unknown",
-      "price": 224.64,
-      "changePct": 8.31,
-      "changeDollar": 17.24
+      "price": 554.24,
+      "changePct": 10.49,
+      "changeDollar": 52.62
     },
     {
-      "ticker": "ANIP",
-      "name": "ANI PHARMACEUTICALS INC COM",
+      "ticker": "MTSI",
+      "name": "MACOM TECH SOLUTIONS HLDGS INC COM",
       "sector": "Unknown",
-      "price": 71.25,
-      "changePct": 5.1,
-      "changeDollar": 3.46
+      "price": 251.57,
+      "changePct": 11.08,
+      "changeDollar": 25.09
     },
     {
-      "ticker": "BTSG",
-      "name": "BRIGHTSPRING HEALTH SVCS INC COM",
+      "ticker": "SMTC",
+      "name": "SEMTECH CORP COM",
       "sector": "Unknown",
-      "price": 72.49,
-      "changePct": 4.83,
-      "changeDollar": 3.34
+      "price": 125.36,
+      "changePct": 10.46,
+      "changeDollar": 11.87
     },
     {
-      "ticker": "HROW",
-      "name": "HARROW INC COM",
+      "ticker": "BEG",
+      "name": "THEMES ETF TR LEVERAGE SHS 2X",
       "sector": "Unknown",
-      "price": 30.36,
-      "changePct": 10.52,
-      "changeDollar": 2.89
+      "price": 24.59,
+      "changePct": 29.2,
+      "changeDollar": 5.56
     },
     {
-      "ticker": "TRAX",
-      "name": "FIRST TRACKS BIOTHERAPEUTICS ORD SHS",
+      "ticker": "DRAM",
+      "name": "Roundhill Memory ETF",
       "sector": "Unknown",
-      "price": 52.33,
-      "changePct": 5.29,
-      "changeDollar": 2.63
+      "price": 45.09,
+      "changePct": 10.95,
+      "changeDollar": 4.45
     }
   ],
   "dollarLosers": [
     {
-      "ticker": "NOVT",
-      "name": "NOVANTA INC COM",
+      "ticker": "NBIZ",
+      "name": "Tradr 2X Short NBIS Daily ETF",
       "sector": "Unknown",
-      "price": 123.71,
-      "changePct": -15.26,
-      "changeDollar": -22.27
+      "price": 28.06,
+      "changePct": -34.29,
+      "changeDollar": -14.64
     },
     {
-      "ticker": "NVDU",
-      "name": "DIREXION SHARES ETF TRUST DLY NVDA BULL 2X",
+      "ticker": "RVMD",
+      "name": "REVOLUTION MEDICINES INC COM",
       "sector": "Unknown",
-      "price": 76.65,
-      "changePct": -10.95,
-      "changeDollar": -9.43
+      "price": 180.5,
+      "changePct": -6.51,
+      "changeDollar": -12.56
     },
     {
-      "ticker": "GSHD",
-      "name": "GOOSEHEAD INS INC COM CL A",
+      "ticker": "SOXS",
+      "name": "DIREXION SHARES ETF TRUST DAI SEM 3X ETF",
       "sector": "Unknown",
-      "price": 46.13,
-      "changePct": -15.65,
-      "changeDollar": -8.56
+      "price": 44.74,
+      "changePct": -19.18,
+      "changeDollar": -10.62
     },
     {
-      "ticker": "LINE",
-      "name": "LINEAGE INC COM",
+      "ticker": "SEPN",
+      "name": "SEPTERNA INC COM",
       "sector": "Unknown",
-      "price": 34.88,
-      "changePct": -12.05,
-      "changeDollar": -4.78
+      "price": 48.16,
+      "changePct": -7.99,
+      "changeDollar": -4.18
     },
     {
-      "ticker": "GFL",
-      "name": "GFL ENVIRONMENTAL INC SUB VTG SHS",
+      "ticker": "IREZ",
+      "name": "Tradr 2X Short IREN Daily ETF",
       "sector": "Unknown",
-      "price": 42.41,
-      "changePct": -7.56,
-      "changeDollar": -3.47
+      "price": 20.95,
+      "changePct": -12.42,
+      "changeDollar": -2.97
     }
   ]
 }
