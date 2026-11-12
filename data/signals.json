@@ -1,250 +1,42 @@
 {
   "topGainers": [
     {
-      "ticker": "BEG",
-      "name": "THEMES ETF TR LEVERAGE SHS 2X",
+      "ticker": "CNO",
+      "name": "CNO FINL GROUP INC COM",
       "sector": "Unknown",
-      "price": 24.59,
-      "changePct": 29.2,
-      "changeDollar": 5.56
-    },
-    {
-      "ticker": "RSKD",
-      "name": "RISKIFIED LTD SHS CL A",
-      "sector": "Unknown",
-      "price": 10.32,
-      "changePct": 21.7,
-      "changeDollar": 1.84
-    },
-    {
-      "ticker": "SKHU",
-      "name": "PROSHARES TR ULTRA SK HYNIX",
-      "sector": "Unknown",
-      "price": 11.7,
-      "changePct": 20.87,
-      "changeDollar": 2.02
-    },
-    {
-      "ticker": "COHX",
-      "name": "Tradr 2X Long COHR Daily ETF",
-      "sector": "Unknown",
-      "price": 12.63,
-      "changePct": 20.75,
-      "changeDollar": 2.17
-    },
-    {
-      "ticker": "SHAZ",
-      "name": "SHARONAI HOLDINGS INC COM CL A",
-      "sector": "Unknown",
-      "price": 26.56,
-      "changePct": 13.89,
-      "changeDollar": 3.24
-    },
-    {
-      "ticker": "TH",
-      "name": "TARGET HOSPITALITY CORP COM",
-      "sector": "Unknown",
-      "price": 11.69,
-      "changePct": 13.5,
-      "changeDollar": 1.39
-    },
-    {
-      "ticker": "MTSI",
-      "name": "MACOM TECH SOLUTIONS HLDGS INC COM",
-      "sector": "Unknown",
-      "price": 251.57,
-      "changePct": 11.08,
-      "changeDollar": 25.09
-    },
-    {
-      "ticker": "DRAM",
-      "name": "Roundhill Memory ETF",
-      "sector": "Unknown",
-      "price": 45.09,
-      "changePct": 10.95,
-      "changeDollar": 4.45
-    },
-    {
-      "ticker": "STX",
-      "name": "SEAGATE TECHNOLOGY HLDNGS PLC ORD SHS",
-      "sector": "Unknown",
-      "price": 554.24,
-      "changePct": 10.49,
-      "changeDollar": 52.62
-    },
-    {
-      "ticker": "SMTC",
-      "name": "SEMTECH CORP COM",
-      "sector": "Unknown",
-      "price": 125.36,
-      "changePct": 10.46,
-      "changeDollar": 11.87
+      "price": 57.93,
+      "changePct": 0.26,
+      "changeDollar": 0.15
     }
   ],
   "topLosers": [
     {
-      "ticker": "NBIZ",
-      "name": "Tradr 2X Short NBIS Daily ETF",
+      "ticker": "CNO",
+      "name": "CNO FINL GROUP INC COM",
       "sector": "Unknown",
-      "price": 28.06,
-      "changePct": -34.29,
-      "changeDollar": -14.64
-    },
-    {
-      "ticker": "SOXS",
-      "name": "DIREXION SHARES ETF TRUST DAI SEM 3X ETF",
-      "sector": "Unknown",
-      "price": 44.74,
-      "changePct": -19.18,
-      "changeDollar": -10.62
-    },
-    {
-      "ticker": "IREZ",
-      "name": "Tradr 2X Short IREN Daily ETF",
-      "sector": "Unknown",
-      "price": 20.95,
-      "changePct": -12.42,
-      "changeDollar": -2.97
-    },
-    {
-      "ticker": "SEPN",
-      "name": "SEPTERNA INC COM",
-      "sector": "Unknown",
-      "price": 48.16,
-      "changePct": -7.99,
-      "changeDollar": -4.18
-    },
-    {
-      "ticker": "MIR",
-      "name": "MIRION TECHNOLOGIES INC COM CL A",
-      "sector": "Unknown",
-      "price": 17.73,
-      "changePct": -7.94,
-      "changeDollar": -1.53
-    },
-    {
-      "ticker": "NVDQ",
-      "name": "T-Rex 2X Inverse NVIDIA Daily Target ETF",
-      "sector": "Unknown",
-      "price": 12.9,
-      "changePct": -7.26,
-      "changeDollar": -1.01
-    },
-    {
-      "ticker": "ZYME",
-      "name": "ZYMEWORKS INC COM",
-      "sector": "Unknown",
-      "price": 29.24,
-      "changePct": -7.06,
-      "changeDollar": -2.22
-    },
-    {
-      "ticker": "RVMD",
-      "name": "REVOLUTION MEDICINES INC COM",
-      "sector": "Unknown",
-      "price": 180.5,
-      "changePct": -6.51,
-      "changeDollar": -12.56
-    },
-    {
-      "ticker": "COGT",
-      "name": "COGENT BIOSCIENCES INC COM",
-      "sector": "Unknown",
-      "price": 29.66,
-      "changePct": -6.26,
-      "changeDollar": -1.98
-    },
-    {
-      "ticker": "TSLQ",
-      "name": "INVESTMENT MANAGERS SER TR II TRADR 2X SHORT",
-      "sector": "Unknown",
-      "price": 14.67,
-      "changePct": -5.96,
-      "changeDollar": -0.93
+      "price": 57.93,
+      "changePct": 0.26,
+      "changeDollar": 0.15
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "STX",
-      "name": "SEAGATE TECHNOLOGY HLDNGS PLC ORD SHS",
+      "ticker": "CNO",
+      "name": "CNO FINL GROUP INC COM",
       "sector": "Unknown",
-      "price": 554.24,
-      "changePct": 10.49,
-      "changeDollar": 52.62
-    },
-    {
-      "ticker": "MTSI",
-      "name": "MACOM TECH SOLUTIONS HLDGS INC COM",
-      "sector": "Unknown",
-      "price": 251.57,
-      "changePct": 11.08,
-      "changeDollar": 25.09
-    },
-    {
-      "ticker": "SMTC",
-      "name": "SEMTECH CORP COM",
-      "sector": "Unknown",
-      "price": 125.36,
-      "changePct": 10.46,
-      "changeDollar": 11.87
-    },
-    {
-      "ticker": "BEG",
-      "name": "THEMES ETF TR LEVERAGE SHS 2X",
-      "sector": "Unknown",
-      "price": 24.59,
-      "changePct": 29.2,
-      "changeDollar": 5.56
-    },
-    {
-      "ticker": "DRAM",
-      "name": "Roundhill Memory ETF",
-      "sector": "Unknown",
-      "price": 45.09,
-      "changePct": 10.95,
-      "changeDollar": 4.45
+      "price": 57.93,
+      "changePct": 0.26,
+      "changeDollar": 0.15
     }
   ],
   "dollarLosers": [
     {
-      "ticker": "NBIZ",
-      "name": "Tradr 2X Short NBIS Daily ETF",
+      "ticker": "CNO",
+      "name": "CNO FINL GROUP INC COM",
       "sector": "Unknown",
-      "price": 28.06,
-      "changePct": -34.29,
-      "changeDollar": -14.64
-    },
-    {
-      "ticker": "RVMD",
-      "name": "REVOLUTION MEDICINES INC COM",
-      "sector": "Unknown",
-      "price": 180.5,
-      "changePct": -6.51,
-      "changeDollar": -12.56
-    },
-    {
-      "ticker": "SOXS",
-      "name": "DIREXION SHARES ETF TRUST DAI SEM 3X ETF",
-      "sector": "Unknown",
-      "price": 44.74,
-      "changePct": -19.18,
-      "changeDollar": -10.62
-    },
-    {
-      "ticker": "SEPN",
-      "name": "SEPTERNA INC COM",
-      "sector": "Unknown",
-      "price": 48.16,
-      "changePct": -7.99,
-      "changeDollar": -4.18
-    },
-    {
-      "ticker": "IREZ",
-      "name": "Tradr 2X Short IREN Daily ETF",
-      "sector": "Unknown",
-      "price": 20.95,
-      "changePct": -12.42,
-      "changeDollar": -2.97
+      "price": 57.93,
+      "changePct": 0.26,
+      "changeDollar": 0.15
     }
   ]
 }
