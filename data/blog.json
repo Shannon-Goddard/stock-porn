@@ -677,9 +677,12 @@
     "ticker": "AMD",
     "type": "PUT",
     "trade_id": 49,
-    "title": "AMD PUT \u2014 2026-11-12",
+    "title": "AMD PUT \u2014 2026-11-12: Lost $37.93",
     "youtube_id": null,
     "images": [],
-    "published": true
+    "published": true,
+    "subtitle": "AMD closed at $580.4 on 2026-11-12, ranking dollar_gainer_1 with +4.97% ($+27.50). Strike $537.5 PUT exp 2026-11-13 (1DTE). IV at entry: 73.1%. Cost: $99.00. News scan: neutral \u2014 decision: sell. Sold at option value $0.6107 (stock open $569.28) at 2026-11-12 09:30:00-05:00. P&L: $-37.93. Left on table: $+173.12.",
+    "pnl": -37.93,
+    "won": false
   }
 ]
