@@ -670,5 +670,16 @@
     "subtitle": "TTWO closed at $224.64 on 2026-11-11, ranking dollar_gainer_1 with +8.31% ($+17.24). Strike $210.0 PUT exp 2026-11-13 (2DTE). IV at entry: 62.4%. Cost: $80.00. News scan: bullish \u2014 decision: sell. Sold at option value $1.116 (stock open $218.18) at 2026-11-10 09:30:00-05:00. P&L: $+31.60. Left on table: $+95.59.",
     "pnl": 31.6,
     "won": true
+  },
+  {
+    "id": 49,
+    "date": "2026-11-12",
+    "ticker": "AMD",
+    "type": "PUT",
+    "trade_id": 49,
+    "title": "AMD PUT \u2014 2026-11-12",
+    "youtube_id": null,
+    "images": [],
+    "published": true
   }
 ]

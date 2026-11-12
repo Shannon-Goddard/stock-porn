@@ -3891,6 +3891,47 @@
         "left_on_table": 95.59,
         "theta_note": "2DTE: Theta minimal at open, stock direction dominates. Est. $0.00 burned"
       }
+    },
+    {
+      "id": 49,
+      "status": "open",
+      "entry": {
+        "date": "2026-11-12",
+        "time": "15:55 PST",
+        "ticker": "AMD",
+        "name": "ADVANCED MICRO DEVICES INC COM",
+        "sector": "Unknown",
+        "type": "PUT",
+        "strike": 537.5,
+        "expiration": "2026-11-13",
+        "dte_at_entry": 1,
+        "T_at_entry": 0.00274,
+        "stock_price_at_entry": 580.4,
+        "premium": 0.99,
+        "cost": 99.0,
+        "bid": 0.95,
+        "spread": 0.04,
+        "iv_at_entry": 0.7312,
+        "otm_pct": 7.39,
+        "expected_move": {
+          "one_sigma_pct": 3.83,
+          "upper": 602.61,
+          "lower": 558.19,
+          "strike_position": "outside"
+        },
+        "signal_rank": "dollar_gainer_1",
+        "signal_pct": 4.97,
+        "signal_dollar": 27.5,
+        "spy_change": -0.46,
+        "macro_active": true,
+        "macro_keywords": [
+          "war"
+        ],
+        "auto_note": "AMD PUT | $+27.50 (+4.97%) | dollar_gainer_1 | Strike $537.5 exp 2026-11-13 (1DTE) | IV 73.1% | SPY -0.46% | MACRO: war"
+      },
+      "news_scan": null,
+      "exit": null,
+      "fomo": null
     }
   ]
 }
