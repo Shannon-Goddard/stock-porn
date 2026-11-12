@@ -1,42 +1,250 @@
 {
   "topGainers": [
     {
-      "ticker": "CNO",
-      "name": "CNO FINL GROUP INC COM",
+      "ticker": "NVDQ",
+      "name": "T-Rex 2X Inverse NVIDIA Daily Target ETF",
       "sector": "Unknown",
-      "price": 57.93,
-      "changePct": 0.26,
-      "changeDollar": 0.15
+      "price": 14.53,
+      "changePct": 11.17,
+      "changeDollar": 1.46
+    },
+    {
+      "ticker": "SNDQ",
+      "name": "Tradr 2X Short SNDK Daily ETF",
+      "sector": "Unknown",
+      "price": 24.43,
+      "changePct": 9.16,
+      "changeDollar": 2.05
+    },
+    {
+      "ticker": "SBIT",
+      "name": "PROSHARES TR ULTRA BITCO ETF",
+      "sector": "Unknown",
+      "price": 40.55,
+      "changePct": 8.74,
+      "changeDollar": 3.26
+    },
+    {
+      "ticker": "DUST",
+      "name": "DIREXION SHARES ETF TRUST DAI GOL BEA ETF",
+      "sector": "Unknown",
+      "price": 41.88,
+      "changePct": 7.0,
+      "changeDollar": 2.74
+    },
+    {
+      "ticker": "ZSL",
+      "name": "PROSHARES TR II ULTRA SHORT SILV",
+      "sector": "Unknown",
+      "price": 38.47,
+      "changePct": 6.66,
+      "changeDollar": 2.4
+    },
+    {
+      "ticker": "FIGR",
+      "name": "FIGURE TECHNOLOGY SOLUTIO COM CL A",
+      "sector": "Unknown",
+      "price": 25.72,
+      "changePct": 6.28,
+      "changeDollar": 1.52
+    },
+    {
+      "ticker": "NVDD",
+      "name": "DIREXION SHARES ETF TRUST DLY NVDA BEAR 1X",
+      "sector": "Unknown",
+      "price": 39.22,
+      "changePct": 5.52,
+      "changeDollar": 2.05
+    },
+    {
+      "ticker": "GLL",
+      "name": "PROSHARES TR II ULTRASHORT GOLD",
+      "sector": "Unknown",
+      "price": 28.52,
+      "changePct": 5.28,
+      "changeDollar": 1.43
+    },
+    {
+      "ticker": "UCO",
+      "name": "PROSHARES TR II ULTA BLMBG 2017",
+      "sector": "Unknown",
+      "price": 53.73,
+      "changePct": 5.21,
+      "changeDollar": 2.66
+    },
+    {
+      "ticker": "AMD",
+      "name": "ADVANCED MICRO DEVICES INC COM",
+      "sector": "Unknown",
+      "price": 580.4,
+      "changePct": 4.97,
+      "changeDollar": 27.5
     }
   ],
   "topLosers": [
     {
-      "ticker": "CNO",
-      "name": "CNO FINL GROUP INC COM",
+      "ticker": "MANE",
+      "name": "VERADERMICS INC COMMON STOCK",
       "sector": "Unknown",
-      "price": 57.93,
-      "changePct": 0.26,
-      "changeDollar": 0.15
+      "price": 137.14,
+      "changePct": -12.4,
+      "changeDollar": -19.42
+    },
+    {
+      "ticker": "GDS",
+      "name": "GDS HLDGS LTD SPONSORED ADS",
+      "sector": "Unknown",
+      "price": 19.95,
+      "changePct": -11.8,
+      "changeDollar": -2.67
+    },
+    {
+      "ticker": "NVDL",
+      "name": "GRANITESHARES ETF TR 2X LONG NVDA ETF",
+      "sector": "Unknown",
+      "price": 18.16,
+      "changePct": -10.98,
+      "changeDollar": -2.24
+    },
+    {
+      "ticker": "CAPR",
+      "name": "CAPRICOR THERAPEUTICS INC COM NEW",
+      "sector": "Unknown",
+      "price": 10.1,
+      "changePct": -9.98,
+      "changeDollar": -1.12
+    },
+    {
+      "ticker": "BITX",
+      "name": "2x Bitcoin ETF",
+      "sector": "Unknown",
+      "price": 13.89,
+      "changePct": -8.56,
+      "changeDollar": -1.3
+    },
+    {
+      "ticker": "ETON",
+      "name": "ETON PHARMACEUTICALS INC COM",
+      "sector": "Unknown",
+      "price": 62.59,
+      "changePct": -8.49,
+      "changeDollar": -5.81
+    },
+    {
+      "ticker": "NIQ",
+      "name": "NIQ GLOBAL INTELLIGENCE PLC ORDINARY SHARES",
+      "sector": "Unknown",
+      "price": 19.3,
+      "changePct": -8.36,
+      "changeDollar": -1.76
+    },
+    {
+      "ticker": "TRVI",
+      "name": "TREVI THERAPEUTICS INC COM",
+      "sector": "Unknown",
+      "price": 13.65,
+      "changePct": -7.9,
+      "changeDollar": -1.17
+    },
+    {
+      "ticker": "SHAZ",
+      "name": "SHARONAI HOLDINGS INC COM CL A",
+      "sector": "Unknown",
+      "price": 24.34,
+      "changePct": -7.87,
+      "changeDollar": -2.08
+    },
+    {
+      "ticker": "GPGI",
+      "name": "GPGI INC COM CL A",
+      "sector": "Unknown",
+      "price": 14.16,
+      "changePct": -7.81,
+      "changeDollar": -1.2
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "CNO",
-      "name": "CNO FINL GROUP INC COM",
+      "ticker": "AMD",
+      "name": "ADVANCED MICRO DEVICES INC COM",
       "sector": "Unknown",
-      "price": 57.93,
-      "changePct": 0.26,
-      "changeDollar": 0.15
+      "price": 580.4,
+      "changePct": 4.97,
+      "changeDollar": 27.5
+    },
+    {
+      "ticker": "SBIT",
+      "name": "PROSHARES TR ULTRA BITCO ETF",
+      "sector": "Unknown",
+      "price": 40.55,
+      "changePct": 8.74,
+      "changeDollar": 3.26
+    },
+    {
+      "ticker": "DUST",
+      "name": "DIREXION SHARES ETF TRUST DAI GOL BEA ETF",
+      "sector": "Unknown",
+      "price": 41.88,
+      "changePct": 7.0,
+      "changeDollar": 2.74
+    },
+    {
+      "ticker": "UCO",
+      "name": "PROSHARES TR II ULTA BLMBG 2017",
+      "sector": "Unknown",
+      "price": 53.73,
+      "changePct": 5.21,
+      "changeDollar": 2.66
+    },
+    {
+      "ticker": "ZSL",
+      "name": "PROSHARES TR II ULTRA SHORT SILV",
+      "sector": "Unknown",
+      "price": 38.47,
+      "changePct": 6.66,
+      "changeDollar": 2.4
     }
   ],
   "dollarLosers": [
     {
-      "ticker": "CNO",
-      "name": "CNO FINL GROUP INC COM",
+      "ticker": "MANE",
+      "name": "VERADERMICS INC COMMON STOCK",
       "sector": "Unknown",
-      "price": 57.93,
-      "changePct": 0.26,
-      "changeDollar": 0.15
+      "price": 137.14,
+      "changePct": -12.4,
+      "changeDollar": -19.42
+    },
+    {
+      "ticker": "ETON",
+      "name": "ETON PHARMACEUTICALS INC COM",
+      "sector": "Unknown",
+      "price": 62.59,
+      "changePct": -8.49,
+      "changeDollar": -5.81
+    },
+    {
+      "ticker": "GDS",
+      "name": "GDS HLDGS LTD SPONSORED ADS",
+      "sector": "Unknown",
+      "price": 19.95,
+      "changePct": -11.8,
+      "changeDollar": -2.67
+    },
+    {
+      "ticker": "NVDL",
+      "name": "GRANITESHARES ETF TR 2X LONG NVDA ETF",
+      "sector": "Unknown",
+      "price": 18.16,
+      "changePct": -10.98,
+      "changeDollar": -2.24
+    },
+    {
+      "ticker": "SHAZ",
+      "name": "SHARONAI HOLDINGS INC COM CL A",
+      "sector": "Unknown",
+      "price": 24.34,
+      "changePct": -7.87,
+      "changeDollar": -2.08
     }
   ]
 }
