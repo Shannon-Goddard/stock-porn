@@ -3929,7 +3929,63 @@
         ],
         "auto_note": "AMD PUT | $+27.50 (+4.97%) | dollar_gainer_1 | Strike $537.5 exp 2026-11-13 (1DTE) | IV 73.1% | SPY -0.46% | MACRO: war"
       },
-      "news_scan": null,
+      "news_scan": {
+        "scanned_at": "2026-11-12 20:59:09 PST",
+        "gap_days": 0,
+        "ticker_sentiment": "neutral",
+        "spy_sentiment": "neutral",
+        "spx_sentiment": "bearish",
+        "keywords_found": [
+          "upgrade",
+          "upgraded",
+          "downgrade",
+          "downgraded"
+        ],
+        "spy_keywords": [],
+        "spx_keywords": [
+          "falls"
+        ],
+        "decision": "sell",
+        "decision_reason": "neutral ticker sentiment \u2014 no confirmation for PUT thesis, sell at open",
+        "raw_headlines": {
+          "ticker": [
+            "AMD, Broadcom stocks jump as Nvidia CEO Jensen Huang resigns",
+            "AMD CEO Lisa Su on data center backlash: Tech has to sell the vision",
+            "AMD CEO Dr. Lisa Su reflects on her biggest lessons of 2026",
+            "AMD CEO Dr. Lisa Su continues making the 'right, big bets'",
+            "Why AMD CEO Lisa Su is Yahoo Finance's 'CEO of the Year'",
+            "Nvidia Stock Just Got Downgraded After Jensen Huang's Exit. Should You Sell?",
+            "Advanced Micro Devices (AMD) Stock Jumped, What Is Driving Attention Today?",
+            "AMD Is Up 127% in a Year. William Blair Just Upgraded It as Nvidia Loses Its CEO",
+            "Bank of America Revamps AMD Stock Price Target for 2027",
+            "AMD makes surprise quantum computing move with new investment"
+          ],
+          "spy": [
+            "NVIDIA\u2019s Leadership Crisis Is Dragging the S&P 500 Lower. Here\u2019s What Else Is Moving",
+            "Jensen Huang Resigns from NVIDIA, Shares -10%",
+            "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Thursday Amid Nvidia Leadership Uncertainty",
+            "Seagate\u2019s Legitimacy as a Play on AI Hardware Demand is About To Be Tested",
+            "What SPDR S&P 500 ETF (SPY) Bought: Apple Leads on Nov. 10",
+            "ETFs Are Net Sellers of Dominion (D) on Nov. 10",
+            "45 ETFs Add to Amgen (AMGN) Holdings on Tuesday",
+            "48 ETFs Add to Cisco (CSCO) Holdings on Nov. 10",
+            "ETFs Bought $83.8 Million of Alphabet (GOOG) on Nov. 10",
+            "ETFs Bought $88.9 Million of Costco (COST) on Nov. 10"
+          ],
+          "spx": [
+            "Stock market today: Dow, S&P 500, Nasdaq slip as Nvidia stock falls on CEO exit, bond yields rise",
+            "Why bond king Jeffrey Gundlach is steering clear of the AI 'blast radius'",
+            "Why investors are rethinking their bond strategies",
+            "Nvidia's boardroom bombshell hits a fragile chip rally: Chart of the Day",
+            "XOP vs AMLP. Is  a Midstream or Upstream Energy ETF the Better Buy as Oil Prices Stay High?",
+            "Does UPS Stock's Run Make Any Sense Now?",
+            "Breakout Watch: Systematic Investing In Inefficient Markets Fuels This Stock",
+            "What Is Driving The Fall In Planet Labs Stock?",
+            "Will NuScale Power Stock's Jump After Earnings Last?",
+            "Is There Any Reason To Invest In Nucor Stock?"
+          ]
+        }
+      },
       "exit": null,
       "fomo": null
     }
