@@ -3,20 +3,101 @@
     "schema_version": "1.0",
     "resolve_window_weeks": 8,
     "etf_basket": [
-      "SPY", "QQQ", "IWM", "DIA",
-      "XLK", "QTUM", "ARKK", "BOTZ",
-      "XLY", "XLP", "XRT",
-      "XLF", "KRE", "HYG",
-      "XLE", "USO", "UNG", "PDBC",
+      "SPY",
+      "QQQ",
+      "IWM",
+      "DIA",
+      "XLK",
+      "QTUM",
+      "ARKK",
+      "BOTZ",
+      "XLY",
+      "XLP",
+      "XRT",
+      "XLF",
+      "KRE",
+      "HYG",
+      "XLE",
+      "USO",
+      "UNG",
+      "PDBC",
       "IYT",
-      "XLV", "XBI",
+      "XLV",
+      "XBI",
       "ITA",
       "VNQ",
       "XLU",
       "BITO",
       "VXX",
-      "GLD", "SLV"
+      "GLD",
+      "SLV"
     ]
   },
-  "theses": []
+  "theses": [
+    {
+      "id": 1,
+      "written_date": "2026-11-13",
+      "resolve_by": "2027-01-08",
+      "sector": "Energy",
+      "signal_etf": "UNG",
+      "direction": "bullish",
+      "thesis": "Sector rotation signal: Energy. UNG +8.40% (1wk) / +5.13% (2wk) vs SPY. Options flow anomaly on UNG: 10.87x avg call volume. Top keywords this week: 'nvidia', 'futures', 'million', 'bought', 'earnings'. Direction: bullish. Top picks: UNG (+9.3% wk), XLE (+5.0% wk), USO (-1.9% wk).",
+      "evidence": {
+        "etf_week_return": 8.4,
+        "etf_two_week_return": 5.13,
+        "options_flow_ratio": 10.87,
+        "top_keywords": [
+          "nvidia",
+          "futures",
+          "million",
+          "bought",
+          "earnings",
+          "equity",
+          "monday",
+          "interactive",
+          "lower",
+          "coreweave"
+        ],
+        "spy_week_return": 2.45
+      },
+      "top_keywords": [
+        "nvidia",
+        "futures",
+        "million",
+        "bought",
+        "earnings",
+        "equity",
+        "monday",
+        "interactive",
+        "lower",
+        "coreweave"
+      ],
+      "picks": [
+        {
+          "ticker": "UNG",
+          "direction": "bullish",
+          "price_at_prediction": 10.14,
+          "price_at_resolution": null,
+          "pct_change": null
+        },
+        {
+          "ticker": "XLE",
+          "direction": "bullish",
+          "price_at_prediction": 64.69,
+          "price_at_resolution": null,
+          "pct_change": null
+        },
+        {
+          "ticker": "USO",
+          "direction": "bullish",
+          "price_at_prediction": 145.34,
+          "price_at_resolution": null,
+          "pct_change": null
+        }
+      ],
+      "status": "open",
+      "resolution": null,
+      "linked_thesis_ids": []
+    }
+  ]
 }
