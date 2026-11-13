@@ -40,6 +40,29 @@ ETF_SECTORS = {
     "SLV":  "Safe Haven",
 }
 
+# Hardcoded sector stock maps — liquid, optionable names per sector
+SECTOR_STOCKS = {
+    "Broad Market":            ["AAPL", "MSFT", "AMZN", "GOOGL", "META"],
+    "Tech":                    ["NVDA", "AMD", "AVGO", "TSM", "QCOM", "IONQ", "RGTI", "IBM"],
+    "Consumer Discretionary":  ["TSLA", "AMZN", "HD", "MCD", "NKE", "BKNG"],
+    "Consumer Staples":        ["WMT", "PG", "KO", "PEP", "COST", "MDLZ"],
+    "Retail":                  ["WMT", "TGT", "COST", "AMZN", "TJX", "ROST"],
+    "Financials":              ["JPM", "BAC", "GS", "MS", "WFC", "BLK"],
+    "Regional Banks":          ["USB", "PNC", "TFC", "CFG", "FITB", "HBAN"],
+    "Credit":                  ["JPM", "BAC", "AXP", "COF", "SYF", "DFS"],
+    "Energy":                  ["XOM", "CVX", "COP", "SLB", "EOG", "PXD", "EQT", "AR", "CTRA", "RRC"],
+    "Transportation":          ["UPS", "FDX", "DAL", "UAL", "CSX", "UNP"],
+    "Healthcare":              ["UNH", "JNJ", "LLY", "PFE", "ABBV", "MRK"],
+    "Biotech":                 ["MRNA", "BNTX", "REGN", "VRTX", "GILD", "BIIB"],
+    "Defense":                 ["LMT", "RTX", "NOC", "GD", "BA", "HII"],
+    "Real Estate":             ["AMT", "PLD", "EQIX", "SPG", "O", "WELL"],
+    "Utilities":               ["NEE", "DUK", "SO", "D", "AEP", "EXC"],
+    "Crypto":                  ["COIN", "MSTR", "MARA", "RIOT", "CLSK", "HUT"],
+    "Volatility":              ["UVXY", "SVXY", "VIXY"],
+    "Safe Haven":              ["GLD", "SLV", "NEM", "AEM", "WPM", "GOLD"],
+    "Commodities":             ["FCX", "NEM", "AA", "CLF", "MP", "VALE"],
+}
+
 STOPWORDS = {
     "the", "a", "an", "and", "or", "but", "in", "on", "at", "to", "for",
     "of", "with", "as", "is", "it", "its", "by", "from", "that", "this",
@@ -159,50 +182,31 @@ def score_etfs(etf_signals, flow, keywords):
 # --- pick top 3 stocks within winning sector ---
 
 def get_top_picks(sector, etf_signals):
-    sector_etfs = [e for e, s in ETF_SECTORS.items() if s == sector and e in etf_signals]
+    # Use hardcoded map first, fall back to ETF-only if sector not mapped
+    candidates_tickers = SECTOR_STOCKS.get(sector, [])
+
+    # If UNG is the signal ETF, bias toward nat gas names
+    if not candidates_tickers:
+        sector_etfs = [e for e, s in ETF_SECTORS.items() if s == sector and e in etf_signals]
+        candidates_tickers = sector_etfs
+
     candidates = []
-    for etf in sector_etfs:
+    for sym in candidates_tickers:
         try:
-            tk = yf.Ticker(etf)
-            hist = tk.history(period="7d")
-            if hist.empty:
+            h = yf.Ticker(sym).history(period="7d")
+            if h.empty or len(h) < 2:
                 continue
-            week_ret = (hist["Close"].iloc[-1] - hist["Close"].iloc[0]) / hist["Close"].iloc[0] * 100
-            avg_vol = hist["Volume"].mean()
+            wr = (h["Close"].iloc[-1] - h["Close"].iloc[0]) / h["Close"].iloc[0] * 100
+            av = h["Volume"].mean()
+            price = float(h["Close"].iloc[-1])
             candidates.append({
-                "ticker": etf,
-                "week_return": round(float(week_ret), 2),
-                "avg_volume": int(avg_vol),
-                "price": round(float(hist["Close"].iloc[-1]), 2),
+                "ticker": sym,
+                "week_return": round(float(wr), 2),
+                "avg_volume": int(av),
+                "price": round(price, 2),
             })
         except Exception:
             continue
-
-    # supplement with holdings scan if fewer than 3
-    if len(candidates) < TOP_PICKS:
-        try:
-            top_etf = sector_etfs[0] if sector_etfs else None
-            if top_etf:
-                tk = yf.Ticker(top_etf)
-                holdings = tk.funds_data.top_holdings if hasattr(tk, "funds_data") else None
-                if holdings is not None:
-                    for sym in list(holdings.index)[:10]:
-                        try:
-                            h = yf.Ticker(sym).history(period="7d")
-                            if h.empty:
-                                continue
-                            wr = (h["Close"].iloc[-1] - h["Close"].iloc[0]) / h["Close"].iloc[0] * 100
-                            av = h["Volume"].mean()
-                            candidates.append({
-                                "ticker": sym,
-                                "week_return": round(float(wr), 2),
-                                "avg_volume": int(av),
-                                "price": round(float(h["Close"].iloc[-1]), 2),
-                            })
-                        except Exception:
-                            continue
-        except Exception:
-            pass
 
     candidates.sort(key=lambda x: abs(x["week_return"]), reverse=True)
     seen = set()

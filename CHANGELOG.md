@@ -44,3 +44,4 @@ Format: `DATE | TYPE | DESCRIPTION`
 2026-11-04 | feature     | Added .github/workflows/thesis.yml — runs generate_thesis.py every Sunday 8 PM PST (Monday 04:00 UTC). workflow_dispatch enabled.
 2026-11-04 | config      | nav.js: added Thesis link between Findings and Changelog.
 2026-11-04 | config      | cron-job.org: add thesis.yml dispatch job — Sunday 8 PM PST (0 20 * * 0 in America/Los_Angeles timezone). Same PAT, same dispatch pattern as trade workflows.
+2026-11-13 | bugfix      | generate_thesis.py: get_top_picks() was returning ETF tickers only (UNG, XLE, USO) because yfinance funds_data API is unreliable. Replaced with hardcoded SECTOR_STOCKS map — liquid optionable names per sector (energy: XOM, CVX, COP, EQT, AR, CTRA etc). ETF fallback retained if sector not in map.
