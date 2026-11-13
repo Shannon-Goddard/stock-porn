@@ -12,6 +12,7 @@
     { label: 'Methodology',   href: `${base}pages/methodology.html` },
     { label: 'Sheets Guide',  href: `${base}pages/sheets-guide.html` },
     { label: 'Findings',      href: `${base}pages/findings.html` },
+    { label: 'Thesis',         href: `${base}pages/thesis.html` },
     { label: 'Changelog',     href: `${base}pages/changelog.html` },
     null, // divider
     { label: 'Get the Data',  href: `${base}pages/data.html` },

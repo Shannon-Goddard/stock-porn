@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "schema_version": "1.0",
+    "resolve_window_weeks": 8,
+    "etf_basket": [
+      "SPY", "QQQ", "IWM", "DIA",
+      "XLK", "QTUM", "ARKK", "BOTZ",
+      "XLY", "XLP", "XRT",
+      "XLF", "KRE", "HYG",
+      "XLE", "USO", "UNG", "PDBC",
+      "IYT",
+      "XLV", "XBI",
+      "ITA",
+      "VNQ",
+      "XLU",
+      "BITO",
+      "VXX",
+      "GLD", "SLV"
+    ]
+  },
+  "theses": []
+}
