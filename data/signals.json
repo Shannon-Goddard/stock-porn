@@ -1,250 +1,250 @@
 {
   "topGainers": [
     {
-      "ticker": "AXTQ",
-      "name": "Tradr 2X Short AXTI Daily ETF",
+      "ticker": "LFTO",
+      "name": "LIFTOFF MOBILE INC COM",
       "sector": "Unknown",
-      "price": 35.04,
-      "changePct": 14.73,
-      "changeDollar": 4.5
+      "price": 24.48,
+      "changePct": 30.84,
+      "changeDollar": 5.77
     },
     {
-      "ticker": "AVEX",
-      "name": "AEVEX CORP COM CL A",
+      "ticker": "MOD",
+      "name": "MODINE MFG CO COM",
       "sector": "Unknown",
-      "price": 13.76,
-      "changePct": 13.44,
-      "changeDollar": 1.63
+      "price": 136.77,
+      "changePct": 28.91,
+      "changeDollar": 30.67
     },
     {
-      "ticker": "NEXN",
-      "name": "NEXXEN INTL LTD SHS NEW",
+      "ticker": "HAWK",
+      "name": "HAWKEYE 360 INC COM SHS",
       "sector": "Unknown",
-      "price": 10.21,
-      "changePct": 12.82,
-      "changeDollar": 1.16
+      "price": 18.06,
+      "changePct": 23.11,
+      "changeDollar": 3.39
     },
     {
-      "ticker": "AVL",
-      "name": "DIREXION SHARES ETF TRUST DLY AVGO BULL 2X",
+      "ticker": "STN",
+      "name": "STANTEC INC COM",
       "sector": "Unknown",
-      "price": 36.24,
-      "changePct": 10.86,
-      "changeDollar": 3.55
+      "price": 85.3,
+      "changePct": 13.54,
+      "changeDollar": 10.17
     },
     {
-      "ticker": "AVGX",
-      "name": "TIDAL TRUST II DEF DLY TGT AVGO",
+      "ticker": "AMDD",
+      "name": "DIREXION SHARES ETF TRUST DLY AMD BEAR 1X",
       "sector": "Unknown",
-      "price": 38.23,
-      "changePct": 10.72,
-      "changeDollar": 3.7
+      "price": 23.09,
+      "changePct": 9.17,
+      "changeDollar": 1.94
     },
     {
-      "ticker": "ZSL",
-      "name": "PROSHARES TR II ULTRA SHORT SILV",
+      "ticker": "SKDD",
+      "name": "GRANITESHARES ETF TR 2X SRT SK HYNIX",
       "sector": "Unknown",
-      "price": 38.61,
-      "changePct": 7.07,
-      "changeDollar": 2.55
+      "price": 10.28,
+      "changePct": 8.78,
+      "changeDollar": 0.83
     },
     {
-      "ticker": "FIGR",
-      "name": "FIGURE TECHNOLOGY SOLUTIO COM CL A",
+      "ticker": "BRCB",
+      "name": "BLACK ROCK COFFEE BAR INC CL A",
       "sector": "Unknown",
-      "price": 25.67,
-      "changePct": 6.12,
-      "changeDollar": 1.48
+      "price": 10.44,
+      "changePct": 8.3,
+      "changeDollar": 0.8
     },
     {
-      "ticker": "GLL",
-      "name": "PROSHARES TR II ULTRASHORT GOLD",
+      "ticker": "PUBM",
+      "name": "PUBMATIC INC COM CL A",
       "sector": "Unknown",
-      "price": 28.59,
-      "changePct": 5.54,
-      "changeDollar": 1.5
-    },
-    {
-      "ticker": "SM",
-      "name": "SM ENERGY COMPANY COM",
-      "sector": "Unknown",
-      "price": 32.77,
-      "changePct": 5.17,
-      "changeDollar": 1.61
-    },
-    {
-      "ticker": "TZA",
-      "name": "DIREXION SHARES ETF TRUST DAILY SMALL CAP",
-      "sector": "Unknown",
-      "price": 46.42,
-      "changePct": 4.93,
-      "changeDollar": 2.18
-    }
-  ],
-  "topLosers": [
-    {
-      "ticker": "NBIS",
-      "name": "NEBIUS GROUP N.V. SHS CLASS A",
-      "sector": "Unknown",
-      "price": 128.64,
-      "changePct": -16.84,
-      "changeDollar": -26.05
+      "price": 20.53,
+      "changePct": 7.94,
+      "changeDollar": 1.51
     },
     {
       "ticker": "CLBT",
       "name": "CELLEBRITE DI LTD ORDINARY SHARES",
       "sector": "Unknown",
-      "price": 10.89,
-      "changePct": -14.25,
-      "changeDollar": -1.81
+      "price": 11.73,
+      "changePct": 7.71,
+      "changeDollar": 0.84
     },
     {
-      "ticker": "QDEL",
-      "name": "QUIDELORTHO CORP COM",
+      "ticker": "SBIT",
+      "name": "PROSHARES TR ULTRA BITCO ETF",
       "sector": "Unknown",
-      "price": 10.62,
-      "changePct": -10.83,
-      "changeDollar": -1.29
+      "price": 43.38,
+      "changePct": 6.87,
+      "changeDollar": 2.79
+    }
+  ],
+  "topLosers": [
+    {
+      "ticker": "AMDL",
+      "name": "GRANITESHARES ETF TR GRANITE 2X LONG",
+      "sector": "Unknown",
+      "price": 51.19,
+      "changePct": -18.3,
+      "changeDollar": -11.47
     },
     {
-      "ticker": "ETON",
-      "name": "ETON PHARMACEUTICALS INC COM",
+      "ticker": "BEX",
+      "name": "Tradr 2X Long BE Daily ETF",
       "sector": "Unknown",
-      "price": 61.45,
-      "changePct": -10.16,
-      "changeDollar": -6.95
+      "price": 14.46,
+      "changePct": -10.63,
+      "changeDollar": -1.72
     },
     {
-      "ticker": "FRVO",
-      "name": "FERVO ENERGY CO CL A COM",
+      "ticker": "CTGO",
+      "name": "CONTANGO SILVER & GOLD INC COM",
       "sector": "Unknown",
-      "price": 11.65,
-      "changePct": -9.97,
-      "changeDollar": -1.29
+      "price": 11.9,
+      "changePct": -8.88,
+      "changeDollar": -1.16
     },
     {
-      "ticker": "TIGO",
-      "name": "MILLICOM INTL CELLULAR S A COM STK",
+      "ticker": "RKLX",
+      "name": "TIDAL TRUST II DEFIANCE DAILY",
       "sector": "Unknown",
-      "price": 80.83,
-      "changePct": -9.62,
-      "changeDollar": -8.6
+      "price": 11.55,
+      "changePct": -7.67,
+      "changeDollar": -0.96
     },
     {
-      "ticker": "IONQ",
-      "name": "IONQ INC COM",
+      "ticker": "LYTE",
+      "name": "Roundhill Photonics & Optics ETF",
       "sector": "Unknown",
-      "price": 30.86,
-      "changePct": -9.4,
-      "changeDollar": -3.2
+      "price": 15.05,
+      "changePct": -7.56,
+      "changeDollar": -1.23
     },
     {
-      "ticker": "BETA",
-      "name": "BETA TECHNOLOGIES INC COM SHS CL A",
+      "ticker": "AEHR",
+      "name": "AEHR TEST SYS COM",
       "sector": "Unknown",
-      "price": 25.16,
-      "changePct": -9.24,
-      "changeDollar": -2.56
+      "price": 56.57,
+      "changePct": -7.32,
+      "changeDollar": -4.47
     },
     {
-      "ticker": "SEDG",
-      "name": "SOLAREDGE TECHNOLOGIES INC COM",
+      "ticker": "TSEM",
+      "name": "TOWER SEMICONDUCTOR LTD SHS NEW",
       "sector": "Unknown",
-      "price": 24.29,
-      "changePct": -8.92,
-      "changeDollar": -2.38
+      "price": 146.65,
+      "changePct": -7.1,
+      "changeDollar": -11.21
     },
     {
-      "ticker": "NCLD",
-      "name": "ROUNDHILL ETF TRUST NEOCLOUD ETF",
+      "ticker": "BITX",
+      "name": "2x Bitcoin ETF",
       "sector": "Unknown",
-      "price": 14.55,
-      "changePct": -8.78,
-      "changeDollar": -1.4
+      "price": 12.89,
+      "changePct": -7.07,
+      "changeDollar": -0.98
+    },
+    {
+      "ticker": "MUU",
+      "name": "DIREXION SHARES ETF TRUST DLY MU BULL 2X",
+      "sector": "Unknown",
+      "price": 16.85,
+      "changePct": -7.06,
+      "changeDollar": -1.28
+    },
+    {
+      "ticker": "BOT",
+      "name": "ROBOSTRATEGY INC COM SHS",
+      "sector": "Unknown",
+      "price": 18.31,
+      "changePct": -6.87,
+      "changeDollar": -1.35
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "AXTQ",
-      "name": "Tradr 2X Short AXTI Daily ETF",
+      "ticker": "MOD",
+      "name": "MODINE MFG CO COM",
       "sector": "Unknown",
-      "price": 35.04,
-      "changePct": 14.73,
-      "changeDollar": 4.5
+      "price": 136.77,
+      "changePct": 28.91,
+      "changeDollar": 30.67
     },
     {
-      "ticker": "AVGX",
-      "name": "TIDAL TRUST II DEF DLY TGT AVGO",
+      "ticker": "STN",
+      "name": "STANTEC INC COM",
       "sector": "Unknown",
-      "price": 38.23,
-      "changePct": 10.72,
-      "changeDollar": 3.7
+      "price": 85.3,
+      "changePct": 13.54,
+      "changeDollar": 10.17
     },
     {
-      "ticker": "AVL",
-      "name": "DIREXION SHARES ETF TRUST DLY AVGO BULL 2X",
+      "ticker": "LFTO",
+      "name": "LIFTOFF MOBILE INC COM",
       "sector": "Unknown",
-      "price": 36.24,
-      "changePct": 10.86,
-      "changeDollar": 3.55
+      "price": 24.48,
+      "changePct": 30.84,
+      "changeDollar": 5.77
     },
     {
-      "ticker": "ZSL",
-      "name": "PROSHARES TR II ULTRA SHORT SILV",
+      "ticker": "HAWK",
+      "name": "HAWKEYE 360 INC COM SHS",
       "sector": "Unknown",
-      "price": 38.61,
-      "changePct": 7.07,
-      "changeDollar": 2.55
+      "price": 18.06,
+      "changePct": 23.11,
+      "changeDollar": 3.39
     },
     {
-      "ticker": "TZA",
-      "name": "DIREXION SHARES ETF TRUST DAILY SMALL CAP",
+      "ticker": "SBIT",
+      "name": "PROSHARES TR ULTRA BITCO ETF",
       "sector": "Unknown",
-      "price": 46.42,
-      "changePct": 4.93,
-      "changeDollar": 2.18
+      "price": 43.38,
+      "changePct": 6.87,
+      "changeDollar": 2.79
     }
   ],
   "dollarLosers": [
     {
-      "ticker": "NBIS",
-      "name": "NEBIUS GROUP N.V. SHS CLASS A",
+      "ticker": "AMDL",
+      "name": "GRANITESHARES ETF TR GRANITE 2X LONG",
       "sector": "Unknown",
-      "price": 128.64,
-      "changePct": -16.84,
-      "changeDollar": -26.05
+      "price": 51.19,
+      "changePct": -18.3,
+      "changeDollar": -11.47
     },
     {
-      "ticker": "TIGO",
-      "name": "MILLICOM INTL CELLULAR S A COM STK",
+      "ticker": "TSEM",
+      "name": "TOWER SEMICONDUCTOR LTD SHS NEW",
       "sector": "Unknown",
-      "price": 80.83,
-      "changePct": -9.62,
-      "changeDollar": -8.6
+      "price": 146.65,
+      "changePct": -7.1,
+      "changeDollar": -11.21
     },
     {
-      "ticker": "ETON",
-      "name": "ETON PHARMACEUTICALS INC COM",
+      "ticker": "AEHR",
+      "name": "AEHR TEST SYS COM",
       "sector": "Unknown",
-      "price": 61.45,
-      "changePct": -10.16,
-      "changeDollar": -6.95
+      "price": 56.57,
+      "changePct": -7.32,
+      "changeDollar": -4.47
     },
     {
-      "ticker": "IONQ",
-      "name": "IONQ INC COM",
+      "ticker": "BEX",
+      "name": "Tradr 2X Long BE Daily ETF",
       "sector": "Unknown",
-      "price": 30.86,
-      "changePct": -9.4,
-      "changeDollar": -3.2
+      "price": 14.46,
+      "changePct": -10.63,
+      "changeDollar": -1.72
     },
     {
-      "ticker": "BETA",
-      "name": "BETA TECHNOLOGIES INC COM SHS CL A",
+      "ticker": "BOT",
+      "name": "ROBOSTRATEGY INC COM SHS",
       "sector": "Unknown",
-      "price": 25.16,
-      "changePct": -9.24,
-      "changeDollar": -2.56
+      "price": 18.31,
+      "changePct": -6.87,
+      "changeDollar": -1.35
     }
   ]
 }
