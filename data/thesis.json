@@ -98,6 +98,73 @@
       "status": "open",
       "resolution": null,
       "linked_thesis_ids": []
+    },
+    {
+      "id": 2,
+      "written_date": "2026-11-13",
+      "resolve_by": "2027-01-08",
+      "sector": "Energy",
+      "signal_etf": "UNG",
+      "direction": "bullish",
+      "thesis": "Sector rotation signal: Energy. UNG +8.34% (1wk) / +5.08% (2wk) vs SPY. Options flow anomaly on UNG: 10.87x avg call volume. Top keywords this week: 'nvidia', 'futures', 'million', 'bought', 'earnings'. Direction: bullish. Top picks: EOG (+9.0% wk), AR (+7.1% wk), COP (+5.0% wk).",
+      "evidence": {
+        "etf_week_return": 8.34,
+        "etf_two_week_return": 5.08,
+        "options_flow_ratio": 10.87,
+        "top_keywords": [
+          "nvidia",
+          "futures",
+          "million",
+          "bought",
+          "earnings",
+          "equity",
+          "monday",
+          "interactive",
+          "lower",
+          "coreweave"
+        ],
+        "spy_week_return": 2.46
+      },
+      "top_keywords": [
+        "nvidia",
+        "futures",
+        "million",
+        "bought",
+        "earnings",
+        "equity",
+        "monday",
+        "interactive",
+        "lower",
+        "coreweave"
+      ],
+      "picks": [
+        {
+          "ticker": "EOG",
+          "direction": "bullish",
+          "price_at_prediction": 157.95,
+          "price_at_resolution": null,
+          "pct_change": null
+        },
+        {
+          "ticker": "AR",
+          "direction": "bullish",
+          "price_at_prediction": 38.95,
+          "price_at_resolution": null,
+          "pct_change": null
+        },
+        {
+          "ticker": "COP",
+          "direction": "bullish",
+          "price_at_prediction": 142.29,
+          "price_at_resolution": null,
+          "pct_change": null
+        }
+      ],
+      "status": "open",
+      "resolution": null,
+      "linked_thesis_ids": [
+        1
+      ]
     }
   ]
 }
