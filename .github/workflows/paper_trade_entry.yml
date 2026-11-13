@@ -2,10 +2,10 @@ name: Paper Trade Entry
 
 on:
   schedule:
-    # 3:55 PM PST = 23:55 UTC (standard time) / 22:55 UTC (daylight time)
-    # Running both to cover DST transitions
+    # 3:55 PM PST = 23:55 UTC (PST/standard time, UTC-8, Nov-Mar)
+    # 3:55 PM PDT = 22:55 UTC (PDT/daylight time, UTC-7, Mar-Nov)
+    # DST ended Nov 2 2026 — running standard time only until Mar 2027
     - cron: '55 23 * * 1-5'
-    - cron: '55 22 * * 1-5'
   workflow_dispatch:
 
 jobs:

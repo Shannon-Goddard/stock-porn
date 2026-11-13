@@ -2,11 +2,10 @@ name: Paper Trade Sell
 
 on:
   schedule:
-    # 6:31 AM PST = 14:31 UTC (standard time) / 13:31 UTC (daylight time)
-    # Runs 6 min after news scan — decision already logged to trades.json
-    # Waits 1 min after market open (6:30 AM PST) for first clean candle
+    # 6:31 AM PST = 14:31 UTC (PST/standard time, UTC-8, Nov-Mar)
+    # 6:31 AM PDT = 13:31 UTC (PDT/daylight time, UTC-7, Mar-Nov)
+    # DST ended Nov 2 2026 — running standard time only until Mar 2027
     - cron: '31 14 * * 1-5'
-    - cron: '31 13 * * 1-5'
   workflow_dispatch:
 
 jobs:

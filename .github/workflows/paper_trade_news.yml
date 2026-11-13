@@ -2,9 +2,10 @@ name: Paper Trade News Scan
 
 on:
   schedule:
-    # 6:25 AM PST = 14:25 UTC (standard time) / 13:25 UTC (daylight time)
+    # 6:25 AM PST = 14:25 UTC (PST/standard time, UTC-8, Nov-Mar)
+    # 6:25 AM PDT = 13:25 UTC (PDT/daylight time, UTC-7, Mar-Nov)
+    # DST ended Nov 2 2026 — running standard time only until Mar 2027
     - cron: '25 14 * * 1-5'
-    - cron: '25 13 * * 1-5'
   workflow_dispatch:
 
 jobs:
