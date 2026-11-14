@@ -4,247 +4,247 @@
       "ticker": "LFTO",
       "name": "LIFTOFF MOBILE INC COM",
       "sector": "Unknown",
-      "price": 24.48,
-      "changePct": 30.84,
-      "changeDollar": 5.77
+      "price": 24.44,
+      "changePct": 30.63,
+      "changeDollar": 5.73
     },
     {
-      "ticker": "MOD",
-      "name": "MODINE MFG CO COM",
+      "ticker": "CBRS",
+      "name": "CEREBRAS SYSTEMS INC COM CL A",
       "sector": "Unknown",
-      "price": 136.77,
-      "changePct": 28.91,
-      "changeDollar": 30.67
+      "price": 108.72,
+      "changePct": 11.22,
+      "changeDollar": 10.97
     },
     {
-      "ticker": "HAWK",
-      "name": "HAWKEYE 360 INC COM SHS",
+      "ticker": "AAOZ",
+      "name": "Tradr 2X Short AAOI Daily ETF",
       "sector": "Unknown",
-      "price": 18.06,
-      "changePct": 23.11,
-      "changeDollar": 3.39
+      "price": 29.1,
+      "changePct": 11.03,
+      "changeDollar": 2.89
     },
     {
-      "ticker": "STN",
-      "name": "STANTEC INC COM",
+      "ticker": "STVN",
+      "name": "STEVANATO GROUP S P A ORD SHS",
       "sector": "Unknown",
-      "price": 85.3,
-      "changePct": 13.54,
-      "changeDollar": 10.17
+      "price": 15.8,
+      "changePct": 10.03,
+      "changeDollar": 1.44
     },
     {
-      "ticker": "AMDD",
-      "name": "DIREXION SHARES ETF TRUST DLY AMD BEAR 1X",
+      "ticker": "WWW",
+      "name": "WOLVERINE WORLD WIDE INC COM",
       "sector": "Unknown",
-      "price": 23.09,
-      "changePct": 9.17,
-      "changeDollar": 1.94
+      "price": 24.89,
+      "changePct": 8.83,
+      "changeDollar": 2.02
     },
     {
-      "ticker": "SKDD",
-      "name": "GRANITESHARES ETF TR 2X SRT SK HYNIX",
+      "ticker": "AXTQ",
+      "name": "Tradr 2X Short AXTI Daily ETF",
       "sector": "Unknown",
-      "price": 10.28,
-      "changePct": 8.78,
-      "changeDollar": 0.83
+      "price": 37.98,
+      "changePct": 8.39,
+      "changeDollar": 2.94
     },
     {
-      "ticker": "BRCB",
-      "name": "BLACK ROCK COFFEE BAR INC CL A",
+      "ticker": "FOUR",
+      "name": "SHIFT4 PMTS INC CL A",
       "sector": "Unknown",
-      "price": 10.44,
-      "changePct": 8.3,
-      "changeDollar": 0.8
+      "price": 44.78,
+      "changePct": 7.85,
+      "changeDollar": 3.26
     },
     {
-      "ticker": "PUBM",
-      "name": "PUBMATIC INC COM CL A",
+      "ticker": "BROS",
+      "name": "DUTCH BROS INC CL A",
       "sector": "Unknown",
-      "price": 20.53,
-      "changePct": 7.94,
-      "changeDollar": 1.51
+      "price": 35.9,
+      "changePct": 6.5,
+      "changeDollar": 2.19
     },
     {
-      "ticker": "CLBT",
-      "name": "CELLEBRITE DI LTD ORDINARY SHARES",
+      "ticker": "HROW",
+      "name": "HARROW INC COM",
       "sector": "Unknown",
-      "price": 11.73,
-      "changePct": 7.71,
-      "changeDollar": 0.84
+      "price": 30.12,
+      "changePct": 6.43,
+      "changeDollar": 1.82
     },
     {
-      "ticker": "SBIT",
-      "name": "PROSHARES TR ULTRA BITCO ETF",
+      "ticker": "IONS",
+      "name": "IONIS PHARMACEUTICALS INC COM",
       "sector": "Unknown",
-      "price": 43.38,
-      "changePct": 6.87,
-      "changeDollar": 2.79
+      "price": 29.06,
+      "changePct": 6.41,
+      "changeDollar": 1.75
     }
   ],
   "topLosers": [
     {
-      "ticker": "AMDL",
-      "name": "GRANITESHARES ETF TR GRANITE 2X LONG",
+      "ticker": "DLLL",
+      "name": "GRANITESHARES ETF TR 2X LONG DELL ETF",
       "sector": "Unknown",
-      "price": 51.19,
-      "changePct": -18.3,
-      "changeDollar": -11.47
+      "price": 11.63,
+      "changePct": -14.67,
+      "changeDollar": -2.0
     },
     {
-      "ticker": "BEX",
-      "name": "Tradr 2X Long BE Daily ETF",
+      "ticker": "COHX",
+      "name": "Tradr 2X Long COHR Daily ETF",
       "sector": "Unknown",
-      "price": 14.46,
-      "changePct": -10.63,
-      "changeDollar": -1.72
+      "price": 10.67,
+      "changePct": -11.96,
+      "changeDollar": -1.45
+    },
+    {
+      "ticker": "SOXL",
+      "name": "DIREXION SHARES ETF TRUST DAI SEM BUL ETF",
+      "sector": "Unknown",
+      "price": 58.32,
+      "changePct": -11.0,
+      "changeDollar": -7.21
+    },
+    {
+      "ticker": "AOSL",
+      "name": "ALPHA & OMEGA SEMICONDUCTOR LT SHS",
+      "sector": "Unknown",
+      "price": 27.2,
+      "changePct": -10.91,
+      "changeDollar": -3.33
+    },
+    {
+      "ticker": "AVGX",
+      "name": "TIDAL TRUST II DEF DLY TGT AVGO",
+      "sector": "Unknown",
+      "price": 34.52,
+      "changePct": -9.7,
+      "changeDollar": -3.71
     },
     {
       "ticker": "CTGO",
       "name": "CONTANGO SILVER & GOLD INC COM",
       "sector": "Unknown",
-      "price": 11.9,
-      "changePct": -8.88,
-      "changeDollar": -1.16
+      "price": 11.83,
+      "changePct": -9.49,
+      "changeDollar": -1.24
     },
     {
-      "ticker": "RKLX",
-      "name": "TIDAL TRUST II DEFIANCE DAILY",
+      "ticker": "AVEX",
+      "name": "AEVEX CORP COM CL A",
       "sector": "Unknown",
-      "price": 11.55,
-      "changePct": -7.67,
-      "changeDollar": -0.96
+      "price": 12.51,
+      "changePct": -9.08,
+      "changeDollar": -1.25
     },
     {
-      "ticker": "LYTE",
-      "name": "Roundhill Photonics & Optics ETF",
+      "ticker": "SKUU",
+      "name": "GRANITESHARES ETF TR 2X LNG SK HYNIX",
       "sector": "Unknown",
-      "price": 15.05,
-      "changePct": -7.56,
+      "price": 12.85,
+      "changePct": -8.74,
       "changeDollar": -1.23
     },
     {
-      "ticker": "AEHR",
-      "name": "AEHR TEST SYS COM",
+      "ticker": "KEP",
+      "name": "KOREA ELEC PWR CORP SPONSORED ADR",
       "sector": "Unknown",
-      "price": 56.57,
-      "changePct": -7.32,
-      "changeDollar": -4.47
+      "price": 10.16,
+      "changePct": -8.72,
+      "changeDollar": -0.97
     },
     {
-      "ticker": "TSEM",
-      "name": "TOWER SEMICONDUCTOR LTD SHS NEW",
+      "ticker": "OUST",
+      "name": "OUSTER INC COM NEW",
       "sector": "Unknown",
-      "price": 146.65,
-      "changePct": -7.1,
-      "changeDollar": -11.21
-    },
-    {
-      "ticker": "BITX",
-      "name": "2x Bitcoin ETF",
-      "sector": "Unknown",
-      "price": 12.89,
-      "changePct": -7.07,
-      "changeDollar": -0.98
-    },
-    {
-      "ticker": "MUU",
-      "name": "DIREXION SHARES ETF TRUST DLY MU BULL 2X",
-      "sector": "Unknown",
-      "price": 16.85,
-      "changePct": -7.06,
-      "changeDollar": -1.28
-    },
-    {
-      "ticker": "BOT",
-      "name": "ROBOSTRATEGY INC COM SHS",
-      "sector": "Unknown",
-      "price": 18.31,
-      "changePct": -6.87,
-      "changeDollar": -1.35
+      "price": 33.48,
+      "changePct": -8.52,
+      "changeDollar": -3.12
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "MOD",
-      "name": "MODINE MFG CO COM",
+      "ticker": "CBRS",
+      "name": "CEREBRAS SYSTEMS INC COM CL A",
       "sector": "Unknown",
-      "price": 136.77,
-      "changePct": 28.91,
-      "changeDollar": 30.67
-    },
-    {
-      "ticker": "STN",
-      "name": "STANTEC INC COM",
-      "sector": "Unknown",
-      "price": 85.3,
-      "changePct": 13.54,
-      "changeDollar": 10.17
+      "price": 108.72,
+      "changePct": 11.22,
+      "changeDollar": 10.97
     },
     {
       "ticker": "LFTO",
       "name": "LIFTOFF MOBILE INC COM",
       "sector": "Unknown",
-      "price": 24.48,
-      "changePct": 30.84,
-      "changeDollar": 5.77
+      "price": 24.44,
+      "changePct": 30.63,
+      "changeDollar": 5.73
     },
     {
-      "ticker": "HAWK",
-      "name": "HAWKEYE 360 INC COM SHS",
+      "ticker": "FOUR",
+      "name": "SHIFT4 PMTS INC CL A",
       "sector": "Unknown",
-      "price": 18.06,
-      "changePct": 23.11,
-      "changeDollar": 3.39
+      "price": 44.78,
+      "changePct": 7.85,
+      "changeDollar": 3.26
     },
     {
-      "ticker": "SBIT",
-      "name": "PROSHARES TR ULTRA BITCO ETF",
+      "ticker": "AXTQ",
+      "name": "Tradr 2X Short AXTI Daily ETF",
       "sector": "Unknown",
-      "price": 43.38,
-      "changePct": 6.87,
-      "changeDollar": 2.79
+      "price": 37.98,
+      "changePct": 8.39,
+      "changeDollar": 2.94
+    },
+    {
+      "ticker": "AAOZ",
+      "name": "Tradr 2X Short AAOI Daily ETF",
+      "sector": "Unknown",
+      "price": 29.1,
+      "changePct": 11.03,
+      "changeDollar": 2.89
     }
   ],
   "dollarLosers": [
     {
-      "ticker": "AMDL",
-      "name": "GRANITESHARES ETF TR GRANITE 2X LONG",
+      "ticker": "SOXL",
+      "name": "DIREXION SHARES ETF TRUST DAI SEM BUL ETF",
       "sector": "Unknown",
-      "price": 51.19,
-      "changePct": -18.3,
-      "changeDollar": -11.47
+      "price": 58.32,
+      "changePct": -11.0,
+      "changeDollar": -7.21
     },
     {
-      "ticker": "TSEM",
-      "name": "TOWER SEMICONDUCTOR LTD SHS NEW",
+      "ticker": "AVGX",
+      "name": "TIDAL TRUST II DEF DLY TGT AVGO",
       "sector": "Unknown",
-      "price": 146.65,
-      "changePct": -7.1,
-      "changeDollar": -11.21
+      "price": 34.52,
+      "changePct": -9.7,
+      "changeDollar": -3.71
     },
     {
-      "ticker": "AEHR",
-      "name": "AEHR TEST SYS COM",
+      "ticker": "AOSL",
+      "name": "ALPHA & OMEGA SEMICONDUCTOR LT SHS",
       "sector": "Unknown",
-      "price": 56.57,
-      "changePct": -7.32,
-      "changeDollar": -4.47
+      "price": 27.2,
+      "changePct": -10.91,
+      "changeDollar": -3.33
     },
     {
-      "ticker": "BEX",
-      "name": "Tradr 2X Long BE Daily ETF",
+      "ticker": "OUST",
+      "name": "OUSTER INC COM NEW",
       "sector": "Unknown",
-      "price": 14.46,
-      "changePct": -10.63,
-      "changeDollar": -1.72
+      "price": 33.48,
+      "changePct": -8.52,
+      "changeDollar": -3.12
     },
     {
-      "ticker": "BOT",
-      "name": "ROBOSTRATEGY INC COM SHS",
+      "ticker": "DLLL",
+      "name": "GRANITESHARES ETF TR 2X LONG DELL ETF",
       "sector": "Unknown",
-      "price": 18.31,
-      "changePct": -6.87,
-      "changeDollar": -1.35
+      "price": 11.63,
+      "changePct": -14.67,
+      "changeDollar": -2.0
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
   "signals": {
-    "last_updated": "2026-11-13 20:27:44 UTC",
+    "last_updated": "2026-11-14 00:35:06 UTC",
     "filter_counts": {
       "total": 5325,
       "no_data": 0,
-      "bad_values": 4080,
-      "zero_change": 36,
-      "below_min_price": 285,
-      "below_min_volume": 455,
-      "passed": 469
+      "bad_values": 3140,
+      "zero_change": 62,
+      "below_min_price": 487,
+      "below_min_volume": 721,
+      "passed": 915
     }
   },
   "stocks_optionable": {
