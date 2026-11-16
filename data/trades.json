@@ -4027,6 +4027,45 @@
         "left_on_table": 173.12,
         "theta_note": "1DTE: Theta moderate at open, accelerating by noon. Est. $0.00 burned"
       }
+    },
+    {
+      "id": 50,
+      "status": "open",
+      "entry": {
+        "date": "2026-11-16",
+        "time": "15:55 PST",
+        "ticker": "SOXL",
+        "name": "DIREXION SHARES ETF TRUST DAI SEM BUL ETF",
+        "sector": "Unknown",
+        "type": "CALL",
+        "strike": 62.0,
+        "expiration": "2026-11-20",
+        "dte_at_entry": 4,
+        "T_at_entry": 0.010959,
+        "stock_price_at_entry": 58.32,
+        "premium": 0.99,
+        "cost": 99.0,
+        "bid": 0.96,
+        "spread": 0.03,
+        "iv_at_entry": 1.958,
+        "otm_pct": 6.31,
+        "expected_move": {
+          "one_sigma_pct": 20.5,
+          "upper": 70.27,
+          "lower": 46.37,
+          "strike_position": "inside"
+        },
+        "signal_rank": "dollar_loser_1",
+        "signal_pct": -11.0,
+        "signal_dollar": -7.21,
+        "spy_change": -1.99,
+        "macro_active": false,
+        "macro_keywords": [],
+        "auto_note": "SOXL CALL | $-7.21 (-11.00%) | dollar_loser_1 | Strike $62.0 exp 2026-11-20 (4DTE) | IV 195.8% | SPY -1.99% | No macro triggers"
+      },
+      "news_scan": null,
+      "exit": null,
+      "fomo": null
     }
   ]
 }
