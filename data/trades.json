@@ -4063,7 +4063,52 @@
         "macro_keywords": [],
         "auto_note": "SOXL CALL | $-7.21 (-11.00%) | dollar_loser_1 | Strike $62.0 exp 2026-11-20 (4DTE) | IV 195.8% | SPY -1.99% | No macro triggers"
       },
-      "news_scan": null,
+      "news_scan": {
+        "scanned_at": "2026-11-16 23:26:55 PST",
+        "gap_days": 0,
+        "ticker_sentiment": "neutral",
+        "spy_sentiment": "bearish",
+        "spx_sentiment": "bearish",
+        "keywords_found": [],
+        "spy_keywords": [
+          "weak"
+        ],
+        "spx_keywords": [
+          "falls",
+          "weak"
+        ],
+        "decision": "sell",
+        "decision_reason": "neutral ticker sentiment \u2014 no confirmation for CALL thesis, sell at open",
+        "raw_headlines": {
+          "ticker": [
+            "Best semiconductor ETFs: SMH leads on cost, liquidity and momentum"
+          ],
+          "spy": [
+            "NVIDIA After Jensen: What's Next for the AI Trade?",
+            "Stock Market Today: Nasdaq-100 Sinks 1% as Nvidia Faces Its First Earnings Without Jensen Huang",
+            "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Monday Amid Weakness in AI-Linked Stocks",
+            "Hedge Funds Are Dumping Leverage at a Pace Last Seen in March 2020. A 63-Year-Old Who Moved His 401(k) to Cash Then Would Have Missed a 51.5% Rally. Here\u2019s the Math",
+            "Pre-Markets Lower as Puzzle Pieces Sorted",
+            "Berkshire Hathaway Hits an All-Time High: Here\u2019s What $10,000 Invested a Year Ago Is Worth Now",
+            "SPDR S&P 500 ETF (SPY) Sells Apple and Nvidia on Thursday",
+            "ETFs Are Net Sellers of Deere (DE) on Nov. 12",
+            "ETFs Are Net Sellers of Qualcomm (QCOM) on Nov. 12",
+            "Monolithic Power (MPWR) Sees $56.7 Million in Net ETF Selling on Nov. 12"
+          ],
+          "spx": [
+            "The S&P 500's shot at 4 straight double-digit years is in Nvidia's hands",
+            "What's dragging down the S&P 500? Apple in focus",
+            "Stock Market Today, Nov. 16: IREN Slides as Neocloud Weakness and Tech Sector Selling Put Pressure on Shares",
+            "What Has Changed In Caterpillar's Story?",
+            "This Isn\u2019t a Crypto Crash. Fed Hike Bets Are Hitting Everything",
+            "Stock Market Today, Nov. 16: Snap Falls Amid Tech Sector Sell-Off and Ongoing Youth Social Media Addiction Lawsuit Exposure",
+            "Stock Market Today, Nov. 16: Nvidia Sinks as U.S. Tightens AI Chip Restrictions and Analysts Slash Price Targets",
+            "Market positioning risks ahead of Nvidia earnings",
+            "Is It Too Early To Buy Dutch Bros Stock?",
+            "Stock Market Today, Nov. 16: Tech Selloff Deepens as AI Leadership Crisis Rattles Nasdaq"
+          ]
+        }
+      },
       "exit": null,
       "fomo": null
     }
