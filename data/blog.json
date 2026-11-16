@@ -691,9 +691,12 @@
     "ticker": "SOXL",
     "type": "CALL",
     "trade_id": 50,
-    "title": "SOXL CALL \u2014 2026-11-16",
+    "title": "SOXL CALL \u2014 2026-11-16: Made $8.02",
     "youtube_id": null,
     "images": [],
-    "published": true
+    "published": true,
+    "subtitle": "SOXL closed at $58.32 on 2026-11-16, ranking dollar_loser_1 with -11.00% ($-7.21). Strike $62.0 CALL exp 2026-11-20 (4DTE). IV at entry: 195.8%. Cost: $99.00. News scan: neutral \u2014 decision: sell. Sold at option value $1.0702 (stock open $51.1) at 2026-11-16 09:30:00-05:00. P&L: $+8.02. Left on table: $+33.04.",
+    "pnl": 8.02,
+    "won": true
   }
 ]

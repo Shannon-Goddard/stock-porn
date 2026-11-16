@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-11-12 21:01:59 UTC",
-  "clean_balance": -2797.18,
+  "last_updated": "2026-11-16 23:28:09 UTC",
+  "clean_balance": -2789.16,
   "overall": {
-    "total_trades": 49,
-    "wins": 4,
+    "total_trades": 50,
+    "wins": 5,
     "losses": 45,
-    "win_rate": 8.2,
-    "avg_pnl": -59.67,
-    "total_pnl": -2923.92,
+    "win_rate": 10.0,
+    "avg_pnl": -58.32,
+    "total_pnl": -2915.9,
     "starting_balance": 0.0,
-    "current_balance": -2923.92
+    "current_balance": -2915.9
   },
   "by_day_of_week": {
     "Monday": {
-      "trades": 2,
-      "wins": 1,
-      "avg_pnl": 2.98
+      "trades": 3,
+      "wins": 2,
+      "avg_pnl": 4.66
     },
     "Tuesday": {
       "trades": 11,
@@ -65,9 +65,9 @@
       "avg_pnl": -45.26
     },
     "Unknown": {
-      "trades": 45,
-      "wins": 3,
-      "avg_pnl": -62.16
+      "trades": 46,
+      "wins": 4,
+      "avg_pnl": -60.63
     }
   },
   "by_signal_rank": {
@@ -77,9 +77,9 @@
       "avg_pnl": -56.38
     },
     "dollar_loser_1": {
-      "trades": 19,
-      "wins": 0,
-      "avg_pnl": -64.84
+      "trades": 20,
+      "wins": 1,
+      "avg_pnl": -61.2
     }
   },
   "spy_correlation": {
@@ -89,21 +89,21 @@
       "call_wins": 0
     },
     "spy_down_days": {
-      "trades": 40,
+      "trades": 41,
       "put_wins": 3,
-      "call_wins": 1
+      "call_wins": 2
     }
   },
   "fomo": {
-    "avg_left_on_table": -10253.1,
+    "avg_left_on_table": -9681.65,
     "hold_2min_trades": 7,
     "hold_2min_avg_pnl": -51.58,
-    "sell_at_open_trades": 10,
-    "sell_at_open_avg_pnl": -2.6
+    "sell_at_open_trades": 11,
+    "sell_at_open_avg_pnl": -1.63
   },
   "iv_crush": {
-    "samples": 48,
-    "avg_iv_at_entry": 0.8227,
+    "samples": 49,
+    "avg_iv_at_entry": 0.8459,
     "avg_iv_at_open": 0.0,
     "avg_crush_dollars": 0.0
   },
@@ -117,13 +117,13 @@
       "correct": 0
     },
     "neutral": {
-      "fired": 37,
+      "fired": 38,
       "correct": 35
     }
   },
   "methodology_score": {
     "spy_layer": {
-      "predictions": 49,
+      "predictions": 50,
       "correct": 3
     },
     "sector_layer": {
@@ -131,7 +131,7 @@
       "correct": 0
     },
     "keyword_layer": {
-      "predictions": 45,
+      "predictions": 46,
       "correct": 36
     },
     "iv_layer": {
@@ -145,8 +145,8 @@
       "min_sample": 20,
       "buckets": {
         "inside": {
-          "trades": 7,
-          "wins": 0
+          "trades": 8,
+          "wins": 1
         },
         "at_edge": {
           "trades": 10,
@@ -167,8 +167,8 @@
           "wins": 3
         },
         "against_thesis": {
-          "trades": 6,
-          "wins": 0
+          "trades": 7,
+          "wins": 1
         },
         "flat": {
           "trades": 1,
@@ -223,8 +223,8 @@
           "wins": 2
         },
         "4dte_plus": {
-          "trades": 12,
-          "wins": 0
+          "trades": 13,
+          "wins": 1
         }
       }
     }
