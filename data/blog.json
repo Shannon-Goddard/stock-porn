@@ -698,5 +698,16 @@
     "subtitle": "SOXL closed at $58.32 on 2026-11-16, ranking dollar_loser_1 with -11.00% ($-7.21). Strike $62.0 CALL exp 2026-11-20 (4DTE). IV at entry: 195.8%. Cost: $99.00. News scan: neutral \u2014 decision: sell. Sold at option value $1.0702 (stock open $51.1) at 2026-11-16 09:30:00-05:00. P&L: $+8.02. Left on table: $+33.04.",
     "pnl": 8.02,
     "won": true
+  },
+  {
+    "id": 51,
+    "date": "2026-11-17",
+    "ticker": "BLSH",
+    "type": "CALL",
+    "trade_id": 51,
+    "title": "BLSH CALL \u2014 2026-11-17",
+    "youtube_id": null,
+    "images": [],
+    "published": true
   }
 ]

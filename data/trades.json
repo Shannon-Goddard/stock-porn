@@ -4150,6 +4150,47 @@
         "left_on_table": 33.04,
         "theta_note": "4DTE: Theta minimal at open, stock direction dominates. Est. $0.00 burned"
       }
+    },
+    {
+      "id": 51,
+      "status": "open",
+      "entry": {
+        "date": "2026-11-17",
+        "time": "15:55 PST",
+        "ticker": "BLSH",
+        "name": "BULLISH ORD SHS",
+        "sector": "Unknown",
+        "type": "CALL",
+        "strike": 20.0,
+        "expiration": "2026-11-20",
+        "dte_at_entry": 3,
+        "T_at_entry": 0.008219,
+        "stock_price_at_entry": 19.75,
+        "premium": 1.0,
+        "cost": 100.0,
+        "bid": 0.82,
+        "spread": 0.18,
+        "iv_at_entry": 1.5566,
+        "otm_pct": 1.27,
+        "expected_move": {
+          "one_sigma_pct": 14.11,
+          "upper": 22.54,
+          "lower": 16.96,
+          "strike_position": "inside"
+        },
+        "signal_rank": "dollar_loser_1",
+        "signal_pct": -12.18,
+        "signal_dollar": -2.74,
+        "spy_change": -1.31,
+        "macro_active": false,
+        "macro_keywords": [],
+        "auto_note": "BLSH CALL | $-2.74 (-12.18%) | dollar_loser_1 | Strike $20.0 exp 2026-11-20 (3DTE) | IV 155.7% | SPY -1.31% | No macro triggers"
+      },
+      "news_scan": null,
+      "exit": null,
+      "fomo": null,
+      "post_mortem": null,
+      "ai_notes": null
     }
   ]
 }
