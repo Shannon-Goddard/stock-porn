@@ -87,10 +87,35 @@ def get_open_price(candles):
         return None, None
     return candles[0]['open'], candles[0]['time']
 
-def get_second_candle_price(candles):
-    if len(candles) < 2:
-        return candles[0]['close'] if candles else None, None
-    return candles[1]['open'], candles[1]['time']
+def get_hold_exit(candles, dte, cost, option_type, K, T_entry, sigma, r):
+    """
+    DTE-aware hold exit with profit target.
+    1DTE   -> candle[10] (9:40 ET)
+    2-3DTE -> candle[20] (9:50 ET)
+    4DTE+  -> candle[30] (10:00 ET)
+    Profit target: exit early if contract value >= 2x cost.
+    Returns (sell_price, sell_time, sell_trigger)
+    """
+    if dte == 1:
+        target_candle = 10
+    elif dte in (2, 3):
+        target_candle = 20
+    else:
+        target_candle = 30
+
+    window = candles[:target_candle] if len(candles) >= target_candle else candles
+
+    for i, candle in enumerate(window):
+        price = candle['close']
+        mins  = i + 1
+        T_now = max(T_entry - (mins / (390 * 365)), 0)
+        bs_val = _bs_price(option_type, price, K, T_now, r, sigma) if sigma > 0 \
+            else max(0.0, price - K) if option_type == 'CALL' else max(0.0, K - price)
+        if bs_val * 100 >= cost * 2:
+            return price, candle['time'], 'hold_profit_target'
+
+    idx = min(target_candle - 1, len(candles) - 1)
+    return candles[idx]['close'], candles[idx]['time'], f'hold_{target_candle}min'
 
 def get_day_high_low(candles, window_minutes=30):
     """Return high/low within first window_minutes after open."""
@@ -275,7 +300,7 @@ def update_stats(stats, trade, excluded_ids):
             (f['avg_left_on_table'] * (n_fomo - 1) + left) / n_fomo, 2
         )
         trigger = exit_.get('sell_trigger', 'sell_at_open')
-        if trigger == 'hold_2min':
+        if trigger.startswith('hold_'):
             f['hold_2min_trades'] += 1
             n = f['hold_2min_trades']
             f['hold_2min_avg_pnl'] = round(
@@ -455,8 +480,16 @@ def main():
             continue
 
         if decision == 'hold':
-            sell_price, sell_time = get_second_candle_price(candles)
-            sell_trigger = 'hold_2min'
+            sell_price, sell_time, sell_trigger = get_hold_exit(
+                candles,
+                trade['entry']['dte_at_entry'],
+                trade['entry']['cost'],
+                option_type,
+                trade['entry']['strike'],
+                trade['entry']['T_at_entry'],
+                trade['entry']['iv_at_entry'],
+                RISK_FREE_RATE
+            )
         else:
             sell_price, sell_time = get_open_price(candles)
             sell_trigger = 'sell_at_open'
@@ -478,11 +511,11 @@ def main():
             gap_direction = 'against_thesis'
         print(f"  Gap: {gap_pct:+.2f}% ({gap_direction})")
 
-        # Stock open price → BS option value
+        # Stock open price -> BS option value
         K         = trade['entry']['strike']
         T_entry   = trade['entry']['T_at_entry']
         sigma     = trade['entry']['iv_at_entry']
-        sell_mins = 2 if decision == 'hold' else 1
+        sell_mins = minutes_to_candle(candles, sell_time) if candles else 1
         T_at_sell = max(T_entry - (sell_mins / (390 * 365)), 0)
 
         if sigma <= 0:

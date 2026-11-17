@@ -119,7 +119,7 @@ const BlogEngine = (() => {
         ${row('Contract Value', '$' + ex.sell_contract_value)}
         ${row('Cost',           '$' + e.cost)}
         ${row('P&L',            fmt(pnl), pnlClass(pnl))}
-        ${row('Trigger',        ex.sell_trigger === 'hold_2min' ? 'Hold 2min (news confirmed)' : 'Sell at Open (no confirmation)')}
+        ${row('Trigger',        ex.sell_trigger === 'sell_at_open' ? 'Sell at Open (no confirmation)' : ex.sell_trigger === 'hold_profit_target' ? 'Hold — Profit Target Hit (2x)' : ex.sell_trigger.startsWith('hold_') ? `Hold ${ex.sell_trigger.replace('hold_','').replace('min',' min')} (news confirmed)` : ex.sell_trigger)}
         ${row('Exit Time',      fmtTime(ex.time))}
       </div>
     ` : '<p class="be-empty">Trade still open</p>';
@@ -155,7 +155,7 @@ const BlogEngine = (() => {
         ${f.theta_note ? `<div class="be-callout" style="margin-top:0.5rem">⊘ ${f.theta_note}</div>` : ''}
         <div class="be-callout" style="margin-top:0.5rem">
           <strong>What this means:</strong>
-          You captured ${fmt(pnl)} by selling ${ex && ex.sell_trigger === 'hold_2min' ? '2 minutes after open' : 'at open'}.
+          You captured ${fmt(pnl)} by selling ${ex && ex.sell_trigger === 'sell_at_open' ? 'at open' : ex && ex.sell_trigger === 'hold_profit_target' ? 'early on a 2x profit target' : ex && ex.sell_trigger ? ex.sell_trigger.replace('hold_','').replace('min',' minutes after open') : 'at open'}.
           The best theoretical exit was ${fmt(f.best_case.pnl)} at ${fmtTime(f.best_case.time)}.
           ${f.best_case.pnl > (pnl || 0)
             ? `Holding longer would have added ${fmt(f.best_case.pnl - (pnl || 0))} — but required knowing the future.`

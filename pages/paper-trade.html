@@ -245,7 +245,7 @@
       </div>`;
     }
 
-    function fomoSection(fomo, cost, exitPnl) {
+    function fomoSection(fomo, cost, exitPnl, exit) {
       if (!fomo || !fomo.best_case) return '';
       const best  = fomo.best_case.pnl;
       const worst = fomo.worst_case.pnl;
@@ -256,6 +256,7 @@
           <div class="fomo-cell">
             <div class="field-label">You Got</div>
             <div class="field-value ${pnlClass(exitPnl)}">${fmt(exitPnl)}</div>
+            <div class="field-label" style="margin-top:0.2rem">${fmtTime(exit.time)}</div>
           </div>
           <div class="fomo-cell">
             <div class="field-label">Best Case</div>
@@ -324,7 +325,7 @@
               ${!isOpen && ex ? field('Trigger', ex.sell_trigger === 'hold_2min' ? 'Hold 2min' : 'Sell at Open') : ''}
             </div>
             ${newsSection(news)}
-            ${showFomo && !isOpen ? fomoSection(fomo, e.cost, pnl) : ''}
+            ${showFomo && !isOpen ? fomoSection(fomo, e.cost, pnl, ex) : ''}
             <div class="card-note">${e.auto_note}</div>
           </div>
         </div>
