@@ -299,6 +299,8 @@ def process_signal(signal, option_type, rank_label, today, today_str,
     print(f"  Trade #{trade_id} logged.")
     return trade_id
 
+METADATA_FILE = os.path.join(DATA_DIR, 'metadata.json')
+
 def main():
     today     = date.today()
     today_str = today.strftime('%Y-%m-%d')
@@ -307,6 +309,7 @@ def main():
     signals     = load_json(SIGNALS_FILE)
     trades_data = load_json(TRADES_FILE)
     blog        = load_json(BLOG_FILE)
+    metadata    = load_json(METADATA_FILE)
 
     # Check for existing open trades — don't double-enter on same day
     open_today = [t for t in trades_data['trades']
@@ -345,8 +348,30 @@ def main():
             trade = next(t for t in trades_data['trades'] if t['id'] == trade_id)
             blog.append(build_blog_entry(trade_id, trade['entry']))
 
+    # Log entry summary to metadata for front-end display
+    skipped = []
+    for signal, option_type, rank_label in candidates:
+        tid = next((i for i in new_trade_ids
+                    if any(t['id'] == i and t['entry']['ticker'] == signal['ticker']
+                           for t in trades_data['trades'])), None)
+        if tid is None:
+            skipped.append({
+                'ticker':      signal['ticker'],
+                'type':        option_type,
+                'rank':        rank_label,
+                'reason':      'no qualifying contract (budget $100, 7d max expiry, OTM filter)'
+            })
+    metadata['paper_trade_entry'] = {
+        'date':          today_str,
+        'trades_entered': new_trade_ids,
+        'skipped':        skipped
+    }
+    save_json(METADATA_FILE, metadata)
+
     if not new_trade_ids:
         print("\nNo trades entered today — no qualifying contracts found")
+        save_json(TRADES_FILE, trades_data)
+        save_json(BLOG_FILE, blog)
         return
 
     save_json(TRADES_FILE, trades_data)

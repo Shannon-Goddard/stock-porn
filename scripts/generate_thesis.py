@@ -309,6 +309,19 @@ def main():
     # resolve any expired open theses first
     data["theses"] = resolve_open(data["theses"])
 
+    # dedup guard — only one thesis per week (Mon–Sun)
+    today_dt = datetime.now(timezone.utc)
+    week_start = (today_dt - timedelta(days=today_dt.weekday())).strftime("%Y-%m-%d")
+    already_this_week = any(
+        t["written_date"] >= week_start
+        for t in data["theses"]
+        if t["status"] == "open"
+    )
+    if already_this_week:
+        print("Thesis already written this week — skipping.")
+        save_json(THESIS_PATH, data)
+        return
+
     # gather signals
     keywords = get_weekly_keywords(trades)
     etf_signals = get_etf_signals(etfs)
