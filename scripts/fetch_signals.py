@@ -95,7 +95,7 @@ def parse_prices(raw, tickers, stock_info):
                 continue
 
             counts['passed'] += 1
-            sector = stock_info[ticker]['sector'] or get_sector_fallback(ticker)
+            sector = stock_info[ticker]['sector'].strip() if stock_info[ticker]['sector'].strip() else get_sector_fallback(ticker)
             results.append({
                 'ticker': ticker,
                 'name': stock_info[ticker]['name'],
@@ -109,6 +109,37 @@ def parse_prices(raw, tickers, stock_info):
             continue
 
     return results, counts
+
+def has_liquid_options(ticker, stock_price):
+    """
+    Quick check: does this ticker have at least one options expiry within 7 days
+    with a contract near ATM under $1.00 ask?
+    Rejects candidates like CGON that pass price/volume filters but have no tradeable contract.
+    """
+    try:
+        t = yf.Ticker(ticker)
+        exps = t.options
+        if not exps:
+            return False
+        today = datetime.now(timezone.utc).date()
+        for exp_str in exps:
+            from datetime import date as date_
+            exp_date = datetime.strptime(exp_str, '%Y-%m-%d').date()
+            dte = (exp_date - today).days
+            if 1 <= dte <= 7:
+                chain = t.option_chain(exp_str)
+                for df in [chain.calls, chain.puts]:
+                    if df is None or df.empty:
+                        continue
+                    near = df[abs(df['strike'] - stock_price) < stock_price * 0.15]
+                    if not near.empty:
+                        asks = near['ask'].dropna()
+                        if any((asks > 0) & (asks <= 1.00)):
+                            return True
+        return False
+    except Exception:
+        return False
+
 
 def filter_top_pct(results, gainers=True):
     if gainers:
@@ -167,12 +198,28 @@ def main():
     print(f"Top {TOP_N} dollar gainers: {[s['ticker'] for s in dollar_gainers]}")
     print(f"Top {TOP_N} dollar losers:  {[s['ticker'] for s in dollar_losers]}")
 
+    # Filter top candidates to those with liquid options — prevents CGON-style no-contract entries
+    print("Checking options liquidity on top candidates...")
+    def liquid_filter(candidates):
+        out = []
+        for s in candidates:
+            if has_liquid_options(s['ticker'], s['price']):
+                out.append(s)
+                if len(out) == 1:  # only need #1 per list
+                    break
+            else:
+                print(f"  {s['ticker']} rejected — no liquid contract within budget")
+        return out
+
+    dollar_gainers_filtered = liquid_filter(dollar_gainers)
+    dollar_losers_filtered  = liquid_filter(dollar_losers)
+
     # Write signals.json
     signals = {
-        'topGainers': top_gainers,
-        'topLosers': top_losers,
-        'dollarGainers': dollar_gainers,
-        'dollarLosers': dollar_losers
+        'topGainers':    top_gainers,
+        'topLosers':     top_losers,
+        'dollarGainers': dollar_gainers_filtered if dollar_gainers_filtered else dollar_gainers,
+        'dollarLosers':  dollar_losers_filtered  if dollar_losers_filtered  else dollar_losers,
     }
 
     with open(SIGNALS_FILE, 'w', encoding='utf-8') as f:

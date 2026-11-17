@@ -369,11 +369,14 @@
                 ⚠ ${s.ticker} ${s.type} (${s.rank}) — skipped: ${s.reason}
               </p>`).join('')
           : '';
+        const noTradeHtml = (entry && entry.no_trade)
+          ? `<p class="empty" style="color:#ffd600;font-size:0.75rem;margin-top:0.4rem">🚫 ${entry.no_trade}</p>`
+          : '';
 
         if (open.length) {
-          holdEl.innerHTML = open.map(t => renderTradeCard(t, false)).join('') + skippedHtml;
+          holdEl.innerHTML = open.map(t => renderTradeCard(t, false)).join('') + skippedHtml + noTradeHtml;
         } else {
-          holdEl.innerHTML = '<p class="empty">No open positions — next entry at 3:55 PM PST</p>' + skippedHtml;
+          holdEl.innerHTML = '<p class="empty">No open positions — next entry at 3:55 PM PST</p>' + skippedHtml + noTradeHtml;
         }
 
         // Yesterday's result — most recent closed trades (same exit date)

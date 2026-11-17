@@ -225,6 +225,36 @@ Full disclaimer at [stock-porn.loyal9.app/pages/legal.html](https://stock-porn.l
 
 ---
 
+## The Road to AI-Assisted Analysis
+
+This system was built on one person's 15 years of market experience, translated into code. That methodology is documented in [docs/methodology.md](docs/methodology.md) and embedded in every script — the signal logic, the keyword lists, the entry filters, the exit rules.
+
+The next phase is letting the data talk back.
+
+**What we're building toward:**
+
+Every trade generates a `post_mortem` block — auto-derived from the data the system already captures. Gap direction, strike position vs expected move, keyword accuracy, left on table, SPY context. No human input. Pure data.
+
+Every keyword that fires gets an outcome stamped against it in `keyword_outcomes`. Over time, the bullish/bearish keyword lists stop being opinion and become evidence — words that actually predicted direction vs words that were noise.
+
+Every trade has an `ai_notes` field reserved for when an AI analysis layer steps in. That field is `null` today. It won't always be.
+
+**Why we're waiting:**
+
+AI without sufficient data is just confident noise. The methodology needs enough real outcomes attached to documented reasoning before pattern reading means anything. That threshold is somewhere around 150-200 clean trades — enough to have statistical weight across DTE buckets, keyword categories, macro environments, and hold time variants.
+
+**What AI brings that humans can't:**
+
+Speed and breadth of pattern recognition across the full corpus. Every earnings transcript, every Fed statement, every sector rotation in the training data — cross-referenced against what this system's own trades are showing. Not replacing the methodology. Reading whether the methodology is working, where it's breaking, and what the data suggests should change.
+
+**What the human brings that AI can't:**
+
+The undocumented pattern recognition that comes from 15 years of watching the market. The feel for when a headline is exhausted vs just starting. The judgment call that no dataset captures until someone writes it down. That's what this repo is — the process of writing it down.
+
+When the data is ready, Amazon Q will step in as the analysis layer. Every AI-generated note will be timestamped, attributed, and held to the same transparency standard as every trade. If the AI read was wrong, that's in the record too.
+
+---
+
 ## Credits
 
 Built by [@goddardshannon9](https://buymeacoffee.com/goddardshannon9) and [Amazon Q](https://aws.amazon.com/q/developer/) — AWS's AI coding assistant, which co-authored every script, page, and workflow in this repo from scratch.

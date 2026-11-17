@@ -301,10 +301,10 @@ def update_stats(stats, trade, excluded_ids):
         )
         trigger = exit_.get('sell_trigger', 'sell_at_open')
         if trigger.startswith('hold_'):
-            f['hold_2min_trades'] += 1
-            n = f['hold_2min_trades']
-            f['hold_2min_avg_pnl'] = round(
-                (f['hold_2min_avg_pnl'] * (n - 1) + pnl) / n, 2
+            f['hold_trades'] = f.get('hold_trades', 0) + 1
+            n = f['hold_trades']
+            f['hold_avg_pnl'] = round(
+                (f.get('hold_avg_pnl', 0.0) * (n - 1) + pnl) / n, 2
             )
         else:
             f['sell_at_open_trades'] += 1
@@ -386,6 +386,81 @@ def update_stats(stats, trade, excluded_ids):
             bucket['trades'] += 1
             if won: bucket['wins'] += 1
 
+def generate_post_mortem(trade):
+    """
+    Auto-generate a post_mortem block from trade data.
+    No human input — derived entirely from what the system already captured.
+    This corpus is what AI-assisted analysis will read when enough trades accumulate.
+    """
+    e    = trade['entry']
+    ex   = trade['exit']
+    news = trade.get('news_scan')
+    fomo = trade.get('fomo')
+    pnl  = ex['pnl']
+    won  = pnl > 0
+
+    factors = []
+
+    # Was the gap with or against thesis?
+    gap_dir = ex.get('gap_direction')
+    gap_pct = ex.get('gap_pct', 0) or 0
+    if gap_dir == 'with_thesis':
+        factors.append(f"gap_confirmed_thesis ({gap_pct:+.2f}%)")
+    elif gap_dir == 'against_thesis':
+        factors.append(f"gap_opposed_thesis ({gap_pct:+.2f}%)")
+
+    # Was the strike inside or outside expected move?
+    strike_pos = e.get('expected_move', {}).get('strike_position')
+    if strike_pos:
+        factors.append(f"strike_{strike_pos}_expected_move")
+
+    # Was the news scan decision correct?
+    if news:
+        decision  = news.get('decision', 'sell')
+        sentiment = news.get('ticker_sentiment', 'neutral')
+        correct   = (decision == 'hold' and won) or (decision == 'sell' and not won)
+        factors.append(f"news_decision_{decision}_{'correct' if correct else 'incorrect'}")
+        if news.get('keywords_found'):
+            factors.append(f"keywords_fired: {', '.join(news['keywords_found'])}")
+
+    # Was macro active?
+    if e.get('macro_active') and e.get('macro_keywords'):
+        factors.append(f"macro_active: {', '.join(e['macro_keywords'])}")
+
+    # How much was left on table relative to cost?
+    if fomo and fomo.get('left_on_table') is not None:
+        left = fomo['left_on_table']
+        left_pct = round(left / e['cost'] * 100, 1) if e['cost'] else 0
+        factors.append(f"left_on_table: ${left:+.2f} ({left_pct:+.1f}% of cost)")
+
+    # SPY direction
+    spy = e.get('spy_change')
+    if spy is not None:
+        factors.append(f"spy_day: {spy:+.2f}%")
+
+    # Why it won or lost — plain language summary
+    if won:
+        reason = f"Thesis confirmed. {gap_dir or 'gap unknown'}. News: {news['decision'] if news else 'n/a'}. P&L: ${pnl:+.2f}."
+    else:
+        if gap_dir == 'against_thesis':
+            reason = f"Stock opened against thesis ({gap_pct:+.2f}%). Contract OTM at open, premium decayed."
+        elif strike_pos == 'outside':
+            reason = f"Strike outside 1sigma expected move — needed outsized gap that didn't materialize."
+        elif news and news.get('decision') == 'hold' and not won:
+            reason = f"News scan said hold but thesis failed — keyword signal was noise this time."
+        else:
+            reason = f"Thesis did not play out. Gap: {gap_pct:+.2f}% ({gap_dir}). No single dominant factor."
+
+    return {
+        'generated_at': datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S UTC'),
+        'outcome':       'win' if won else 'loss',
+        'pnl':           pnl,
+        'primary_reason': reason,
+        'factors':        factors,
+        'ai_notes':       None  # reserved — populated by AI-assisted analysis layer (future)
+    }
+
+
 def update_blog(blog, trade):
     entry  = trade['entry']
     exit_  = trade['exit']
@@ -394,9 +469,11 @@ def update_blog(blog, trade):
     pnl    = exit_['pnl']
     won    = pnl > 0
 
-    result_word = 'Made' if won else 'Lost'
-    title = f"{entry['ticker']} {entry['type']} — {entry['date']}: {result_word} ${abs(pnl):.2f}"
+    const result_word = won ? 'Made' : 'Lost';
+    const title = `${entry['ticker']} ${entry['type']} — ${entry['date']}: ${result_word} $${Math.abs(pnl).toFixed(2)}`;
 
+    const pm = trade.get('post_mortem');
+    const pm_reason = pm ? pm.get('primary_reason', '') : '';
     left_str = ''
     if fomo and fomo.get('left_on_table') is not None:
         left_str = f" Left on table: ${fomo['left_on_table']:+.2f}."
@@ -413,6 +490,7 @@ def update_blog(blog, trade):
         f"decision: {news['decision'] if news else 'n/a'}. "
         f"Sold at option value ${exit_['sell_option_price']} (stock open ${exit_['stock_open_price']}) at {exit_['time']}. "
         f"P&L: ${pnl:+.2f}.{left_str}"
+        + (f" {pm_reason}" if pm_reason else "")
     )
 
     for b in blog:
@@ -466,7 +544,8 @@ def main():
                 'gap_pct':             None,
                 'pnl':                 round(0.0 - trade['entry']['cost'], 2)
             }
-            trade['fomo'] = None
+            trade['fomo']       = None
+            trade['post_mortem'] = generate_post_mortem(trade)
             pnl = trade['exit']['pnl']
             trades_data['balance'] = round(trades_data['balance'] + pnl, 2)
             update_stats(stats, trade, excluded_ids)
@@ -556,7 +635,14 @@ def main():
             'gap_pct':             gap_pct,
             'pnl':                 pnl
         }
-        trade['fomo'] = fomo
+        trade['fomo']       = fomo
+        trade['post_mortem'] = generate_post_mortem(trade)
+
+        # Fill keyword_outcomes now that we know the result
+        news = trade.get('news_scan')
+        if news and 'keyword_outcomes' in news:
+            for kw in news['keyword_outcomes']:
+                news['keyword_outcomes'][kw] = 'win' if pnl > 0 else 'loss'
 
         # Raw all-time balance
         trades_data['balance'] = round(trades_data['balance'] + pnl, 2)

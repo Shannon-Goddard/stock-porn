@@ -96,8 +96,8 @@
   },
   "fomo": {
     "avg_left_on_table": -9681.65,
-    "hold_2min_trades": 7,
-    "hold_2min_avg_pnl": -51.58,
+    "hold_trades": 7,
+    "hold_avg_pnl": -51.58,
     "sell_at_open_trades": 11,
     "sell_at_open_avg_pnl": -1.63
   },

@@ -285,9 +285,11 @@ def process_signal(signal, option_type, rank_label, today, today_str,
             'macro_keywords':      macro_keywords,
             'auto_note':           auto_note
         },
-        'news_scan': None,
-        'exit':      None,
-        'fomo':      None
+        'news_scan':  None,
+        'exit':       None,
+        'fomo':       None,
+        'post_mortem': None,
+        'ai_notes':   None   # reserved — AI-assisted analysis layer (future)
     }
 
     # Update first_trade_date if this is the first ever trade
@@ -301,10 +303,38 @@ def process_signal(signal, option_type, rank_label, today, today_str,
 
 METADATA_FILE = os.path.join(DATA_DIR, 'metadata.json')
 
+# US market holidays 2026-2027 (NYSE observed dates)
+MARKET_HOLIDAYS = {
+    '2026-01-01', '2026-01-19', '2026-02-16', '2026-04-03',
+    '2026-05-25', '2026-07-03', '2026-09-07', '2026-11-26', '2026-12-25',
+    '2027-01-01', '2027-01-18', '2027-02-15', '2027-04-02',
+    '2027-05-31', '2027-07-05', '2027-09-06', '2027-11-25', '2027-12-24',
+}
+
+
+def check_no_trade(spy_change, signals):
+    """
+    NO TRADE signal — highest-confidence call is sometimes not trading.
+    Returns (skip, reason) if conditions warrant skipping today.
+    Conditions:
+    - SPY moved > 3% in either direction (extreme day, IV elevated across board)
+    - No dollar gainers or losers in signals (market flat, no signal)
+    """
+    if spy_change is not None and abs(spy_change) > 3.0:
+        return True, f"NO TRADE: SPY moved {spy_change:+.2f}% — extreme day, IV elevated across board, premium too expensive"
+    if not signals.get('dollarGainers') and not signals.get('dollarLosers'):
+        return True, "NO TRADE: no dollar movers in signals — market flat, no tradeable signal"
+    return False, None
+
+
 def main():
     today     = date.today()
     today_str = today.strftime('%Y-%m-%d')
     print(f"paper_trade.py — {today_str} 15:55 PST")
+
+    if today_str in MARKET_HOLIDAYS:
+        print(f"Market holiday — {today_str} is a NYSE observed holiday. No trade today.")
+        return
 
     signals     = load_json(SIGNALS_FILE)
     trades_data = load_json(TRADES_FILE)
@@ -323,6 +353,18 @@ def main():
     macro_active, macro_keywords = check_macro_active()
     spy_str = f"{spy_change:+.2f}%" if spy_change is not None else "n/a"
     print(f"SPY: {spy_str} | Macro active: {macro_active} {macro_keywords}")
+
+    skip, skip_reason = check_no_trade(spy_change, signals)
+    if skip:
+        print(f"\n{skip_reason}")
+        metadata['paper_trade_entry'] = {
+            'date':           today_str,
+            'trades_entered': [],
+            'skipped':        [],
+            'no_trade':       skip_reason
+        }
+        save_json(METADATA_FILE, metadata)
+        return
 
 
     # Select candidates:

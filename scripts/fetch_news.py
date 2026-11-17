@@ -185,6 +185,7 @@ def main():
             'spx_keywords':     spx_keywords,
             'decision':         decision,
             'decision_reason':  reason,
+            'keyword_outcomes': {kw: None for kw in keywords_found},  # filled by sell_signal.py
             'raw_headlines':    {
                 'ticker': headlines,
                 'spy':    spy_headlines,

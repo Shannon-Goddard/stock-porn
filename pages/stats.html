@@ -150,7 +150,7 @@
     <div class="stat-grid" id="overallGrid"></div>
 
     <!-- HOLD VS SELL AT OPEN -->
-    <div class="section-label">Hold 2min vs Sell at Open</div>
+    <div class="section-label">Hold vs Sell at Open</div>
     <div class="compare-row" id="holdCompare"></div>
     <div class="insight" id="holdInsight"></div>
 
@@ -278,6 +278,8 @@
 
         // ── HOLD VS SELL AT OPEN ──────────────────────────────────────────────
         const f = stats.fomo;
+        const holdTrades  = f.hold_trades  || f.hold_2min_trades  || 0;
+        const holdAvgPnl  = f.hold_avg_pnl !== undefined ? f.hold_avg_pnl : (f.hold_2min_avg_pnl || 0);
         document.getElementById('holdCompare').innerHTML = `
           <div class="compare-cell">
             <div class="s-label">Sell at Open</div>
@@ -285,9 +287,9 @@
             <div class="s-sub">${f.sell_at_open_trades} trade${f.sell_at_open_trades !== 1 ? 's' : ''} avg P&L</div>
           </div>
           <div class="compare-cell">
-            <div class="s-label">Hold 2min</div>
-            <div class="s-value ${pnlClass(f.hold_2min_avg_pnl)}">${fmt(f.hold_2min_avg_pnl)}</div>
-            <div class="s-sub">${f.hold_2min_trades} trade${f.hold_2min_trades !== 1 ? 's' : ''} avg P&L</div>
+            <div class="s-label">Hold (DTE-aware)</div>
+            <div class="s-value ${pnlClass(holdAvgPnl)}">${fmt(holdAvgPnl)}</div>
+            <div class="s-sub">${holdTrades} trade${holdTrades !== 1 ? 's' : ''} avg P&L</div>
           </div>
           <div class="compare-cell">
             <div class="s-label">Avg Left on Table</div>
@@ -295,10 +297,10 @@
             <div class="s-sub">per trade (BS estimate)</div>
           </div>
         `;
-        const holdInsight = f.hold_2min_trades > 0 && f.sell_at_open_trades > 0
-          ? (f.hold_2min_avg_pnl > f.sell_at_open_avg_pnl
-              ? `Holding 2min is outperforming sell-at-open by ${fmt(f.hold_2min_avg_pnl - f.sell_at_open_avg_pnl)} avg — news scan is adding value`
-              : `Sell-at-open is outperforming hold-2min by ${fmt(f.sell_at_open_avg_pnl - f.hold_2min_avg_pnl)} avg — IV crush at open is real`)
+        const holdInsight = holdTrades > 0 && f.sell_at_open_trades > 0
+          ? (holdAvgPnl > f.sell_at_open_avg_pnl
+              ? `Holding is outperforming sell-at-open by ${fmt(holdAvgPnl - f.sell_at_open_avg_pnl)} avg — news scan is adding value`
+              : `Sell-at-open is outperforming hold by ${fmt(f.sell_at_open_avg_pnl - holdAvgPnl)} avg — IV crush at open is real`)
           : 'Both strategies need more trades to compare — pattern emerges at 10+ each';
         document.getElementById('holdInsight').textContent = holdInsight;
 
