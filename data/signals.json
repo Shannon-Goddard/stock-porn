@@ -1,250 +1,250 @@
 {
   "topGainers": [
     {
-      "ticker": "CBRZ",
-      "name": "Tradr 2X Short CBRS Daily ETF",
+      "ticker": "BILL",
+      "name": "BILL HOLDINGS INC COM",
       "sector": "Unknown",
-      "price": 21.62,
-      "changePct": 14.45,
-      "changeDollar": 2.73
+      "price": 64.88,
+      "changePct": 12.58,
+      "changeDollar": 7.25
     },
     {
-      "ticker": "CGON",
-      "name": "CG ONCOLOGY INC COM",
+      "ticker": "SMST",
+      "name": "TIDAL TRUST II DEFI DA TA 2025",
       "sector": "Unknown",
-      "price": 84.78,
-      "changePct": 13.95,
-      "changeDollar": 10.38
+      "price": 26.44,
+      "changePct": 12.56,
+      "changeDollar": 2.95
     },
     {
-      "ticker": "SBIT",
-      "name": "PROSHARES TR ULTRA BITCO ETF",
+      "ticker": "BOT",
+      "name": "ROBOSTRATEGY INC COM SHS",
       "sector": "Unknown",
-      "price": 48.23,
-      "changePct": 10.87,
-      "changeDollar": 4.73
+      "price": 18.78,
+      "changePct": 8.55,
+      "changeDollar": 1.48
     },
     {
-      "ticker": "FENC",
-      "name": "FENNEC PHARMACEUTICALS INC COM",
+      "ticker": "SA",
+      "name": "SEABRIDGE GOLD INC COM",
       "sector": "Unknown",
-      "price": 12.76,
-      "changePct": 9.81,
-      "changeDollar": 1.14
+      "price": 26.28,
+      "changePct": 7.27,
+      "changeDollar": 1.78
     },
     {
-      "ticker": "CRTO",
-      "name": "CRITEO S A ORD SHS",
+      "ticker": "FAZ",
+      "name": "DIREXION SHARES ETF TRUST DAILY FINANCIAL",
       "sector": "Unknown",
-      "price": 19.57,
-      "changePct": 8.54,
-      "changeDollar": 1.54
+      "price": 32.14,
+      "changePct": 5.55,
+      "changeDollar": 1.69
     },
     {
-      "ticker": "SQQQ",
-      "name": "PROSHARES TR ULTRAPRO SHORT",
+      "ticker": "MEC",
+      "name": "MAYVILLE ENGR CO INC COM",
       "sector": "Unknown",
-      "price": 45.9,
-      "changePct": 8.1,
-      "changeDollar": 3.44
+      "price": 12.77,
+      "changePct": 5.1,
+      "changeDollar": 0.62
     },
     {
-      "ticker": "ZSL",
-      "name": "PROSHARES TR II ULTRA SHORT SILV",
+      "ticker": "RARE",
+      "name": "ULTRAGENYX PHARMACEUTICAL INC COM",
       "sector": "Unknown",
-      "price": 43.41,
-      "changePct": 7.61,
-      "changeDollar": 3.07
+      "price": 16.7,
+      "changePct": 5.03,
+      "changeDollar": 0.8
     },
     {
-      "ticker": "SKHZ",
-      "name": "Leverage Shares 1X Short SK Hynix Daily ETF",
+      "ticker": "GFF",
+      "name": "GRIFFON CORP COM",
       "sector": "Unknown",
-      "price": 13.11,
-      "changePct": 7.46,
-      "changeDollar": 0.91
+      "price": 104.75,
+      "changePct": 4.79,
+      "changeDollar": 4.79
     },
     {
-      "ticker": "JDST",
-      "name": "DIREXION SHARES ETF TRUST DAILY JUNIOR GOL",
+      "ticker": "ARM",
+      "name": "ARM HOLDINGS PLC SPONSORED ADS",
       "sector": "Unknown",
-      "price": 32.27,
-      "changePct": 7.35,
-      "changeDollar": 2.21
+      "price": 183.39,
+      "changePct": 4.76,
+      "changeDollar": 8.34
     },
     {
-      "ticker": "DUST",
-      "name": "DIREXION SHARES ETF TRUST DAI GOL BEA ETF",
+      "ticker": "TH",
+      "name": "TARGET HOSPITALITY CORP COM",
       "sector": "Unknown",
-      "price": 45.29,
-      "changePct": 6.56,
-      "changeDollar": 2.79
+      "price": 12.14,
+      "changePct": 4.66,
+      "changeDollar": 0.54
     }
   ],
   "topLosers": [
     {
+      "ticker": "MSTU",
+      "name": "T-Rex 2X Long MSTR Daily Target ETF",
+      "sector": "Unknown",
+      "price": 14.15,
+      "changePct": -12.6,
+      "changeDollar": -2.04
+    },
+    {
+      "ticker": "UNHG",
+      "name": "THEMES ETF TR LEVERAGE SHS 2X",
+      "sector": "Unknown",
+      "price": 18.61,
+      "changePct": -10.91,
+      "changeDollar": -2.28
+    },
+    {
+      "ticker": "IDYA",
+      "name": "IDEAYA BIOSCIENCES INC COM",
+      "sector": "Unknown",
+      "price": 27.4,
+      "changePct": -9.75,
+      "changeDollar": -2.96
+    },
+    {
       "ticker": "SMMT",
       "name": "SUMMIT THERAPEUTICS INC COM",
       "sector": "Unknown",
-      "price": 11.82,
-      "changePct": -16.47,
-      "changeDollar": -2.33
+      "price": 10.67,
+      "changePct": -9.73,
+      "changeDollar": -1.15
     },
     {
-      "ticker": "MULL",
-      "name": "GRANITESHARES ETF TR 2X LO MU DA ETF",
+      "ticker": "TNGX",
+      "name": "TANGO THERAPEUTICS INC COM",
       "sector": "Unknown",
-      "price": 10.11,
-      "changePct": -15.26,
-      "changeDollar": -1.82
+      "price": 22.11,
+      "changePct": -8.52,
+      "changeDollar": -2.06
     },
     {
-      "ticker": "BEX",
-      "name": "Tradr 2X Long BE Daily ETF",
+      "ticker": "ANRO",
+      "name": "ALTO NEUROSCIENCE INC COM SHS",
       "sector": "Unknown",
-      "price": 12.37,
-      "changePct": -15.16,
+      "price": 24.91,
+      "changePct": -8.15,
       "changeDollar": -2.21
     },
     {
-      "ticker": "BLSH",
-      "name": "BULLISH ORD SHS",
+      "ticker": "ERAS",
+      "name": "ERASCA INC COM",
       "sector": "Unknown",
-      "price": 19.75,
-      "changePct": -12.18,
-      "changeDollar": -2.74
+      "price": 13.89,
+      "changePct": -8.07,
+      "changeDollar": -1.22
     },
     {
-      "ticker": "CHPT",
-      "name": "CHARGEPOINT HOLDINGS INC COM SHS",
+      "ticker": "REPL",
+      "name": "REPLIMUNE GROUP INC COM",
       "sector": "Unknown",
-      "price": 10.25,
-      "changePct": -12.17,
-      "changeDollar": -1.42
+      "price": 19.69,
+      "changePct": -8.03,
+      "changeDollar": -1.72
     },
     {
-      "ticker": "ODD",
-      "name": "ODDITY TECH LTD SHS CL A",
+      "ticker": "WCN",
+      "name": "WASTE CONNECTIONS INC COM",
       "sector": "Unknown",
-      "price": 15.55,
-      "changePct": -11.8,
-      "changeDollar": -2.08
+      "price": 181.5,
+      "changePct": -8.01,
+      "changeDollar": -15.8
     },
     {
-      "ticker": "AVBP",
-      "name": "ARRIVENT BIOPHARMA INC COM",
+      "ticker": "JD",
+      "name": "JD.COM INC SPON ADS CL A",
       "sector": "Unknown",
-      "price": 11.56,
-      "changePct": -11.15,
-      "changeDollar": -1.45
-    },
-    {
-      "ticker": "ORCX",
-      "name": "TIDAL TRUST II DEFIANCE DAILY",
-      "sector": "Unknown",
-      "price": 12.76,
-      "changePct": -10.01,
-      "changeDollar": -1.42
-    },
-    {
-      "ticker": "SVIX",
-      "name": "-1x Short VIX Futures ETF",
-      "sector": "Unknown",
-      "price": 20.99,
-      "changePct": -9.72,
-      "changeDollar": -2.26
-    },
-    {
-      "ticker": "AI",
-      "name": "C3 AI INC CL A",
-      "sector": "Unknown",
-      "price": 10.68,
-      "changePct": -9.64,
-      "changeDollar": -1.14
+      "price": 25.43,
+      "changePct": -7.66,
+      "changeDollar": -2.11
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "CGON",
-      "name": "CG ONCOLOGY INC COM",
+      "ticker": "ARM",
+      "name": "ARM HOLDINGS PLC SPONSORED ADS",
       "sector": "Unknown",
-      "price": 84.78,
-      "changePct": 13.95,
-      "changeDollar": 10.38
+      "price": 183.39,
+      "changePct": 4.76,
+      "changeDollar": 8.34
     },
     {
-      "ticker": "SBIT",
-      "name": "PROSHARES TR ULTRA BITCO ETF",
+      "ticker": "BILL",
+      "name": "BILL HOLDINGS INC COM",
       "sector": "Unknown",
-      "price": 48.23,
-      "changePct": 10.87,
-      "changeDollar": 4.73
+      "price": 64.88,
+      "changePct": 12.58,
+      "changeDollar": 7.25
     },
     {
-      "ticker": "SQQQ",
-      "name": "PROSHARES TR ULTRAPRO SHORT",
+      "ticker": "GFF",
+      "name": "GRIFFON CORP COM",
       "sector": "Unknown",
-      "price": 45.9,
-      "changePct": 8.1,
-      "changeDollar": 3.44
+      "price": 104.75,
+      "changePct": 4.79,
+      "changeDollar": 4.79
     },
     {
-      "ticker": "ZSL",
-      "name": "PROSHARES TR II ULTRA SHORT SILV",
+      "ticker": "SMST",
+      "name": "TIDAL TRUST II DEFI DA TA 2025",
       "sector": "Unknown",
-      "price": 43.41,
-      "changePct": 7.61,
-      "changeDollar": 3.07
+      "price": 26.44,
+      "changePct": 12.56,
+      "changeDollar": 2.95
     },
     {
-      "ticker": "DUST",
-      "name": "DIREXION SHARES ETF TRUST DAI GOL BEA ETF",
+      "ticker": "SA",
+      "name": "SEABRIDGE GOLD INC COM",
       "sector": "Unknown",
-      "price": 45.29,
-      "changePct": 6.56,
-      "changeDollar": 2.79
+      "price": 26.28,
+      "changePct": 7.27,
+      "changeDollar": 1.78
     }
   ],
   "dollarLosers": [
     {
-      "ticker": "BLSH",
-      "name": "BULLISH ORD SHS",
+      "ticker": "WCN",
+      "name": "WASTE CONNECTIONS INC COM",
       "sector": "Unknown",
-      "price": 19.75,
-      "changePct": -12.18,
-      "changeDollar": -2.74
+      "price": 181.5,
+      "changePct": -8.01,
+      "changeDollar": -15.8
     },
     {
-      "ticker": "SMMT",
-      "name": "SUMMIT THERAPEUTICS INC COM",
+      "ticker": "IDYA",
+      "name": "IDEAYA BIOSCIENCES INC COM",
       "sector": "Unknown",
-      "price": 11.82,
-      "changePct": -16.47,
-      "changeDollar": -2.33
+      "price": 27.4,
+      "changePct": -9.75,
+      "changeDollar": -2.96
     },
     {
-      "ticker": "SVIX",
-      "name": "-1x Short VIX Futures ETF",
+      "ticker": "UNHG",
+      "name": "THEMES ETF TR LEVERAGE SHS 2X",
       "sector": "Unknown",
-      "price": 20.99,
-      "changePct": -9.72,
-      "changeDollar": -2.26
+      "price": 18.61,
+      "changePct": -10.91,
+      "changeDollar": -2.28
     },
     {
-      "ticker": "BEX",
-      "name": "Tradr 2X Long BE Daily ETF",
+      "ticker": "ANRO",
+      "name": "ALTO NEUROSCIENCE INC COM SHS",
       "sector": "Unknown",
-      "price": 12.37,
-      "changePct": -15.16,
+      "price": 24.91,
+      "changePct": -8.15,
       "changeDollar": -2.21
     },
     {
-      "ticker": "ODD",
-      "name": "ODDITY TECH LTD SHS CL A",
+      "ticker": "JD",
+      "name": "JD.COM INC SPON ADS CL A",
       "sector": "Unknown",
-      "price": 15.55,
-      "changePct": -11.8,
-      "changeDollar": -2.08
+      "price": 25.43,
+      "changePct": -7.66,
+      "changeDollar": -2.11
     }
   ]
 }
