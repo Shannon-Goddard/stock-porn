@@ -709,5 +709,16 @@
     "youtube_id": null,
     "images": [],
     "published": true
+  },
+  {
+    "id": 52,
+    "date": "2026-11-18",
+    "ticker": "WCN",
+    "type": "CALL",
+    "trade_id": 52,
+    "title": "WCN CALL \u2014 2026-11-18",
+    "youtube_id": null,
+    "images": [],
+    "published": true
   }
 ]

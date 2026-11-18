@@ -4239,6 +4239,47 @@
       "fomo": null,
       "post_mortem": null,
       "ai_notes": null
+    },
+    {
+      "id": 52,
+      "status": "open",
+      "entry": {
+        "date": "2026-11-18",
+        "time": "15:55 PST",
+        "ticker": "WCN",
+        "name": "WASTE CONNECTIONS INC COM",
+        "sector": "Unknown",
+        "type": "CALL",
+        "strike": 195.0,
+        "expiration": "2026-11-20",
+        "dte_at_entry": 2,
+        "T_at_entry": 0.005479,
+        "stock_price_at_entry": 181.5,
+        "premium": 0.75,
+        "cost": 75.0,
+        "bid": 0.05,
+        "spread": 0.7,
+        "iv_at_entry": 0.583,
+        "otm_pct": 7.44,
+        "expected_move": {
+          "one_sigma_pct": 4.32,
+          "upper": 189.33,
+          "lower": 173.67,
+          "strike_position": "outside"
+        },
+        "signal_rank": "dollar_loser_1",
+        "signal_pct": -8.01,
+        "signal_dollar": -15.8,
+        "spy_change": -1.01,
+        "macro_active": false,
+        "macro_keywords": [],
+        "auto_note": "WCN CALL | $-15.80 (-8.01%) | dollar_loser_1 | Strike $195.0 exp 2026-11-20 (2DTE) | IV 58.3% | SPY -1.01% | No macro triggers"
+      },
+      "news_scan": null,
+      "exit": null,
+      "fomo": null,
+      "post_mortem": null,
+      "ai_notes": null
     }
   ]
 }
