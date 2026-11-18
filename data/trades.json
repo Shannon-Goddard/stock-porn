@@ -4187,52 +4187,63 @@
         "auto_note": "BLSH CALL | $-2.74 (-12.18%) | dollar_loser_1 | Strike $20.0 exp 2026-11-20 (3DTE) | IV 155.7% | SPY -1.31% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-11-18 14:25:31 PST",
+        "scanned_at": "2026-11-18 22:10:51 PST",
         "gap_days": 1,
-        "ticker_sentiment": "neutral",
+        "ticker_sentiment": "bullish",
         "spy_sentiment": "neutral",
-        "spx_sentiment": "neutral",
-        "keywords_found": [],
+        "spx_sentiment": "bullish",
+        "keywords_found": [
+          "buyback",
+          "jumps"
+        ],
         "spy_keywords": [],
-        "spx_keywords": [],
-        "decision": "sell",
-        "decision_reason": "neutral ticker sentiment \u2014 no confirmation for CALL thesis, sell at open",
-        "keyword_outcomes": {},
+        "spx_keywords": [
+          "upgrade",
+          "upgraded",
+          "drops"
+        ],
+        "decision": "hold",
+        "decision_reason": "bullish ticker sentiment confirmed CALL thesis",
+        "keyword_outcomes": {
+          "buyback": null,
+          "jumps": null
+        },
         "raw_headlines": {
           "ticker": [
+            "Crypto platform Bullish tops estimates as coalition gains traction",
+            "Bullish (BLSH) Q3 2026 Earnings Call Transcript",
+            "Bullish Stock Jumps On Earnings, Revenue Gains. Board Approves $300 Mil Buyback Plan.",
+            "Bullish Earnings Shine as It Moves Beyond Crypto Trading. A Deal and Buybacks Are in the Works.",
+            "What Bullish (BLSH) Said on Its Q3 Earnings Call",
+            "Anthropic trades crypto ahead of IPO launch, and Coinbase borrow covers all 50 states",
+            "Bullish shares jump over 9% after earnings beat and $300 million buyback authorization",
+            "Bullish Posts $576.3 Million Q3 Profit on Crypto Gains, Authorizes $300 Million Buyback",
             "Bullish (BLSH) Q3 Earnings and Revenues Surpass Estimates",
-            "Nasdaq Futures Lead Wall Street Rebound After Nvidia\u2019s Blowout Forecast, Anthropic IPO Looms: SLS, NKE, MU In Focus",
-            "Bullish (BLSH) As Stacey Cunningham Appointment Tests The Undervalued Narrative",
-            "What Does Bullish (BLSH) CEO Tom Farley\u2019s AI Forum Appearance Mean?",
-            "Has Bullish (BLSH) Fallen Far Enough to Look Like a Bargain?",
-            "Cathie Wood\u2019s ARK Invest Sells $85 Million of Nvidia, Adds Block, Circle and Coinbase",
-            "'Tokenization Is Not the Finish Line': Jupiter to Let Users Borrow Against Bullish Shares",
-            "Crypto Stocks Slide as Bitcoin Sinks and Strategy Leads the Retreat",
-            "VNET Group (VNET) Earnings Expected to Grow: Should You Buy?"
+            "Nasdaq Futures Lead Wall Street Rebound After Nvidia\u2019s Blowout Forecast, Anthropic IPO Looms: SLS, NKE, MU In Focus"
           ],
           "spy": [
+            "Take-Two Is Surging on GTA VI\u2019s Launch, and Your Index Fund Might Be Along for the Ride Without You Knowing It",
+            "ARKK Is Down, But These 10 Cathie Wood Stocks Have Soared Up to 285% in 2026",
+            "Cathie Wood Was Right About These 5 Stocks",
+            "SCHD Is Having Its Best Year Since 2013. What Happens Next Year?",
+            "Buying SPY At The 2007 Top Still Paid Off",
+            "Can A $2 Million Portfolio Pay You $4,000 A Month?",
             "Exchange-Traded Funds Higher, Equity Futures Mixed Pre-Bell Wednesday Amid Nvidia Earnings, Upcoming Fed Meeting Minutes",
             "Fed\u2019s Waller warns inflation is worsening, floats 50-basis-point December hike",
             "HDGE Has Lost More Than 90% Since 2011. It Also Gained 29% in One Quarter While the Market Sank",
-            "Apple Is the Only Magnificent Seven Stock Near a Record",
-            "What SPDR S&P 500 ETF Trust (SPY) Bought: Apple Leads on Monday",
-            "48 ETFs Add to Lilly (LLY) Holdings on Nov. 16",
-            "27 ETFs Add to TransDigm (TDG) Holdings on Nov. 16",
-            "Synopsys (SNPS) Sees $160.1 Million in Net ETF Buying on Nov. 16",
-            "52 ETFs Add to Kla-Tencor (KLAC) Holdings on Nov. 16",
-            "ETFs Are Buying Rollins (ROL) on Monday"
+            "Apple Is the Only Magnificent Seven Stock Near a Record"
           ],
           "spx": [
-            "Investors Love the S&P 500 Index. Here\u2019s Why I Don\u2019t.",
-            "What Could Slow Vertiv Stock's Growth?",
-            "Exchange-Traded Funds Higher, Equity Futures Mixed Pre-Bell Wednesday Amid Nvidia Earnings, Upcoming Fed Meeting Minutes",
-            "Stock Market Today: Dow Wavers As Fed Official Calls For Larger Hike; Nvidia Shares Jump On Earnings (Live Coverage)",
-            "What Moved Salesforce Stock?",
-            "Here\u2019s How Much Passive Income $50,000 Generates in These 4 Dividend Aristocrats",
-            "What Is Lam Research No Longer Stressing?",
-            "What Could Derail Arista Networks Stock?",
-            "Update: US Equity Futures Mostly Higher Pre-Bell as Nvidia Posts Higher-Than-Expected Financial Results",
-            "Can AST SpaceMobile Stock 2x From Here?"
+            "Update: Wall Street Mixed Amid Nvidia Sell-Off, Fed Minutes",
+            "Where Will Palantir Stock Be in 1 Year?",
+            "Dow Jones Futures: Anthropic IPO Prices High, Palo Alto, Everpure Jump After Market Mixed On Nvidia, Target, UnitedHealth, Fed 'Shock'",
+            "Why PhillipCapital Stopped Short of a Buy on Airbnb (ABNB)",
+            "What StoneX Took From Its Boston Roadshow With Stagwell (STGW)",
+            "Stock Market Today: Dow Ends In Red On Rate 'Shock' Fears; Nvidia Sinks As Anthropic IPO Looms",
+            "What William Blair Sees in Bill.com (BILL)",
+            "Dow Drops 561 Points. Nvidia Reverses Rally As Fed Signals More Rate Hikes.",
+            "Melius Upgraded Ingersoll Rand (IR) After Lagging Quarters. What Changed?",
+            "UBS Dropped Its Sell on Telefonica Brasil (VIV), Here\u2019s Why."
           ]
         }
       },
@@ -4277,14 +4288,18 @@
         "auto_note": "WCN CALL | $-15.80 (-8.01%) | dollar_loser_1 | Strike $195.0 exp 2026-11-20 (2DTE) | IV 58.3% | SPY -1.01% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-11-18 14:25:31 PST",
+        "scanned_at": "2026-11-18 22:10:51 PST",
         "gap_days": 0,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "neutral",
-        "spx_sentiment": "neutral",
+        "spx_sentiment": "bullish",
         "keywords_found": [],
         "spy_keywords": [],
-        "spx_keywords": [],
+        "spx_keywords": [
+          "upgrade",
+          "upgraded",
+          "drops"
+        ],
         "decision": "sell",
         "decision_reason": "neutral ticker sentiment \u2014 no confirmation for CALL thesis, sell at open",
         "keyword_outcomes": {},
@@ -4296,28 +4311,28 @@
             "Green Dot Q3 Earnings Miss Estimates, Stock Declines 8.2%"
           ],
           "spy": [
+            "Take-Two Is Surging on GTA VI\u2019s Launch, and Your Index Fund Might Be Along for the Ride Without You Knowing It",
+            "ARKK Is Down, But These 10 Cathie Wood Stocks Have Soared Up to 285% in 2026",
+            "Cathie Wood Was Right About These 5 Stocks",
+            "SCHD Is Having Its Best Year Since 2013. What Happens Next Year?",
+            "Buying SPY At The 2007 Top Still Paid Off",
+            "Can A $2 Million Portfolio Pay You $4,000 A Month?",
             "Exchange-Traded Funds Higher, Equity Futures Mixed Pre-Bell Wednesday Amid Nvidia Earnings, Upcoming Fed Meeting Minutes",
             "Fed\u2019s Waller warns inflation is worsening, floats 50-basis-point December hike",
             "HDGE Has Lost More Than 90% Since 2011. It Also Gained 29% in One Quarter While the Market Sank",
-            "Apple Is the Only Magnificent Seven Stock Near a Record",
-            "What SPDR S&P 500 ETF Trust (SPY) Bought: Apple Leads on Monday",
-            "48 ETFs Add to Lilly (LLY) Holdings on Nov. 16",
-            "27 ETFs Add to TransDigm (TDG) Holdings on Nov. 16",
-            "Synopsys (SNPS) Sees $160.1 Million in Net ETF Buying on Nov. 16",
-            "52 ETFs Add to Kla-Tencor (KLAC) Holdings on Nov. 16",
-            "ETFs Are Buying Rollins (ROL) on Monday"
+            "Apple Is the Only Magnificent Seven Stock Near a Record"
           ],
           "spx": [
-            "Investors Love the S&P 500 Index. Here\u2019s Why I Don\u2019t.",
-            "What Could Slow Vertiv Stock's Growth?",
-            "Exchange-Traded Funds Higher, Equity Futures Mixed Pre-Bell Wednesday Amid Nvidia Earnings, Upcoming Fed Meeting Minutes",
-            "Stock Market Today: Dow Wavers As Fed Official Calls For Larger Hike; Nvidia Shares Jump On Earnings (Live Coverage)",
-            "What Moved Salesforce Stock?",
-            "Here\u2019s How Much Passive Income $50,000 Generates in These 4 Dividend Aristocrats",
-            "What Is Lam Research No Longer Stressing?",
-            "What Could Derail Arista Networks Stock?",
-            "Update: US Equity Futures Mostly Higher Pre-Bell as Nvidia Posts Higher-Than-Expected Financial Results",
-            "Can AST SpaceMobile Stock 2x From Here?"
+            "Update: Wall Street Mixed Amid Nvidia Sell-Off, Fed Minutes",
+            "Where Will Palantir Stock Be in 1 Year?",
+            "Dow Jones Futures: Anthropic IPO Prices High, Palo Alto, Everpure Jump After Market Mixed On Nvidia, Target, UnitedHealth, Fed 'Shock'",
+            "Why PhillipCapital Stopped Short of a Buy on Airbnb (ABNB)",
+            "What StoneX Took From Its Boston Roadshow With Stagwell (STGW)",
+            "Stock Market Today: Dow Ends In Red On Rate 'Shock' Fears; Nvidia Sinks As Anthropic IPO Looms",
+            "What William Blair Sees in Bill.com (BILL)",
+            "Dow Drops 561 Points. Nvidia Reverses Rally As Fed Signals More Rate Hikes.",
+            "Melius Upgraded Ingersoll Rand (IR) After Lagging Quarters. What Changed?",
+            "UBS Dropped Its Sell on Telefonica Brasil (VIV), Here\u2019s Why."
           ]
         }
       },
