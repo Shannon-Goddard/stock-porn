@@ -469,11 +469,12 @@ def update_blog(blog, trade):
     pnl    = exit_['pnl']
     won    = pnl > 0
 
-    const result_word = won ? 'Made' : 'Lost';
-    const title = `${entry['ticker']} ${entry['type']} — ${entry['date']}: ${result_word} $${Math.abs(pnl).toFixed(2)}`;
+    result_word = 'Made' if won else 'Lost'
+    title = f"{entry['ticker']} {entry['type']} — {entry['date']}: {result_word} ${abs(pnl):.2f}"
 
-    const pm = trade.get('post_mortem');
-    const pm_reason = pm ? pm.get('primary_reason', '') : '';
+    pm = trade.get('post_mortem')
+    pm_reason = pm.get('primary_reason', '') if pm else ''
+
     left_str = ''
     if fomo and fomo.get('left_on_table') is not None:
         left_str = f" Left on table: ${fomo['left_on_table']:+.2f}."
