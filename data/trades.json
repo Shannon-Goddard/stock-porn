@@ -4187,21 +4187,22 @@
         "auto_note": "BLSH CALL | $-2.74 (-12.18%) | dollar_loser_1 | Strike $20.0 exp 2026-11-20 (3DTE) | IV 155.7% | SPY -1.31% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-11-17 22:30:32 PST",
-        "gap_days": 0,
+        "scanned_at": "2026-11-18 14:25:31 PST",
+        "gap_days": 1,
         "ticker_sentiment": "neutral",
         "spy_sentiment": "neutral",
-        "spx_sentiment": "bullish",
+        "spx_sentiment": "neutral",
         "keywords_found": [],
         "spy_keywords": [],
-        "spx_keywords": [
-          "soars"
-        ],
+        "spx_keywords": [],
         "decision": "sell",
         "decision_reason": "neutral ticker sentiment \u2014 no confirmation for CALL thesis, sell at open",
         "keyword_outcomes": {},
         "raw_headlines": {
           "ticker": [
+            "Bullish (BLSH) Q3 Earnings and Revenues Surpass Estimates",
+            "Nasdaq Futures Lead Wall Street Rebound After Nvidia\u2019s Blowout Forecast, Anthropic IPO Looms: SLS, NKE, MU In Focus",
+            "Bullish (BLSH) As Stacey Cunningham Appointment Tests The Undervalued Narrative",
             "What Does Bullish (BLSH) CEO Tom Farley\u2019s AI Forum Appearance Mean?",
             "Has Bullish (BLSH) Fallen Far Enough to Look Like a Bargain?",
             "Cathie Wood\u2019s ARK Invest Sells $85 Million of Nvidia, Adds Block, Circle and Coinbase",
@@ -4210,28 +4211,28 @@
             "VNET Group (VNET) Earnings Expected to Grow: Should You Buy?"
           ],
           "spy": [
-            "Bill Ackman Cut His Microsoft Stake. Your S&P 500 Fund Can\u2019t.",
-            "Exchange-Traded Funds, Equity Futures Mixed Pre-Bell Tuesday as Investors Await Nvidia Earnings",
-            "Cathie Wood and Jim Cramer Agree on These 10 Stocks: Latest 13F",
-            "Cathie Wood and Jim Cramer Agree on These 5 Stocks",
-            "How Much Does a 70-Year-Old Couple Give Up Leaving a $300,000 Annuity Before the Surrender Period Ends?",
-            "The Overlooked JPMorgan ETF That Owns Nearly 300 of the Market\u2019s Strongest Stocks for 0.12%",
-            "ETFs Are Buying Chevron (CVX) on Friday",
-            "ETFs Bought $111.9 Million of Cisco (CSCO) on Nov. 13",
-            "Palantir (PLTR) Sees $117.4 Million in Net ETF Buying on Nov. 13",
-            "41 ETFs Add to Costco (COST) Holdings on Friday"
+            "Exchange-Traded Funds Higher, Equity Futures Mixed Pre-Bell Wednesday Amid Nvidia Earnings, Upcoming Fed Meeting Minutes",
+            "Fed\u2019s Waller warns inflation is worsening, floats 50-basis-point December hike",
+            "HDGE Has Lost More Than 90% Since 2011. It Also Gained 29% in One Quarter While the Market Sank",
+            "Apple Is the Only Magnificent Seven Stock Near a Record",
+            "What SPDR S&P 500 ETF Trust (SPY) Bought: Apple Leads on Monday",
+            "48 ETFs Add to Lilly (LLY) Holdings on Nov. 16",
+            "27 ETFs Add to TransDigm (TDG) Holdings on Nov. 16",
+            "Synopsys (SNPS) Sees $160.1 Million in Net ETF Buying on Nov. 16",
+            "52 ETFs Add to Kla-Tencor (KLAC) Holdings on Nov. 16",
+            "ETFs Are Buying Rollins (ROL) on Monday"
           ],
           "spx": [
-            "Consumer staples stocks benefiting from a powerful rotation as tech gets slammed",
-            "Goldman Sachs is looking for a big year for stocks in 2027",
-            "Stock Market Today, Nov. 17: Nvidia Slides Ahead of Earnings but Soars in After Hours Trading",
-            "Stock Market Today, Nov. 17: Nike Shares Fall 6.3% After Investor Day Turnaround Plan Draws Scrutiny",
-            "Dow Jones Futures: Nvidia Beats Views, Says This On Jensen Huang; Target, Anthropic IPO Ahead",
-            "Update: US Equity Indexes Retreat Amid a Broad-Based Sectoral Sell-Off",
-            "Fund Manager Lists Three Reasons He Still Won\u2019t Buy Tesla Stock",
-            "Jensen Huang\u2019s Last Quarter Beats Estimates: Can Nvidia Stock Recover Without Him?",
-            "How major US stock indexes fared Tuesday 11/17/2026",
-            "Wall Street ends lower ahead of Nvidia results, focus turns to Anthropic debut"
+            "Investors Love the S&P 500 Index. Here\u2019s Why I Don\u2019t.",
+            "What Could Slow Vertiv Stock's Growth?",
+            "Exchange-Traded Funds Higher, Equity Futures Mixed Pre-Bell Wednesday Amid Nvidia Earnings, Upcoming Fed Meeting Minutes",
+            "Stock Market Today: Dow Wavers As Fed Official Calls For Larger Hike; Nvidia Shares Jump On Earnings (Live Coverage)",
+            "What Moved Salesforce Stock?",
+            "Here\u2019s How Much Passive Income $50,000 Generates in These 4 Dividend Aristocrats",
+            "What Is Lam Research No Longer Stressing?",
+            "What Could Derail Arista Networks Stock?",
+            "Update: US Equity Futures Mostly Higher Pre-Bell as Nvidia Posts Higher-Than-Expected Financial Results",
+            "Can AST SpaceMobile Stock 2x From Here?"
           ]
         }
       },
@@ -4275,7 +4276,51 @@
         "macro_keywords": [],
         "auto_note": "WCN CALL | $-15.80 (-8.01%) | dollar_loser_1 | Strike $195.0 exp 2026-11-20 (2DTE) | IV 58.3% | SPY -1.01% | No macro triggers"
       },
-      "news_scan": null,
+      "news_scan": {
+        "scanned_at": "2026-11-18 14:25:31 PST",
+        "gap_days": 0,
+        "ticker_sentiment": "neutral",
+        "spy_sentiment": "neutral",
+        "spx_sentiment": "neutral",
+        "keywords_found": [],
+        "spy_keywords": [],
+        "spx_keywords": [],
+        "decision": "sell",
+        "decision_reason": "neutral ticker sentiment \u2014 no confirmation for CALL thesis, sell at open",
+        "keyword_outcomes": {},
+        "raw_headlines": {
+          "ticker": [
+            "Is Republic Services Stock A Mistake At Its High?",
+            "\u2018Noxious Odors\u2019 From L.A. County Landfill Explosion Taint This Waste Hauler\u2019s Stock",
+            "Sector Update: Energy Stocks Softer Late Afternoon",
+            "Green Dot Q3 Earnings Miss Estimates, Stock Declines 8.2%"
+          ],
+          "spy": [
+            "Exchange-Traded Funds Higher, Equity Futures Mixed Pre-Bell Wednesday Amid Nvidia Earnings, Upcoming Fed Meeting Minutes",
+            "Fed\u2019s Waller warns inflation is worsening, floats 50-basis-point December hike",
+            "HDGE Has Lost More Than 90% Since 2011. It Also Gained 29% in One Quarter While the Market Sank",
+            "Apple Is the Only Magnificent Seven Stock Near a Record",
+            "What SPDR S&P 500 ETF Trust (SPY) Bought: Apple Leads on Monday",
+            "48 ETFs Add to Lilly (LLY) Holdings on Nov. 16",
+            "27 ETFs Add to TransDigm (TDG) Holdings on Nov. 16",
+            "Synopsys (SNPS) Sees $160.1 Million in Net ETF Buying on Nov. 16",
+            "52 ETFs Add to Kla-Tencor (KLAC) Holdings on Nov. 16",
+            "ETFs Are Buying Rollins (ROL) on Monday"
+          ],
+          "spx": [
+            "Investors Love the S&P 500 Index. Here\u2019s Why I Don\u2019t.",
+            "What Could Slow Vertiv Stock's Growth?",
+            "Exchange-Traded Funds Higher, Equity Futures Mixed Pre-Bell Wednesday Amid Nvidia Earnings, Upcoming Fed Meeting Minutes",
+            "Stock Market Today: Dow Wavers As Fed Official Calls For Larger Hike; Nvidia Shares Jump On Earnings (Live Coverage)",
+            "What Moved Salesforce Stock?",
+            "Here\u2019s How Much Passive Income $50,000 Generates in These 4 Dividend Aristocrats",
+            "What Is Lam Research No Longer Stressing?",
+            "What Could Derail Arista Networks Stock?",
+            "Update: US Equity Futures Mostly Higher Pre-Bell as Nvidia Posts Higher-Than-Expected Financial Results",
+            "Can AST SpaceMobile Stock 2x From Here?"
+          ]
+        }
+      },
       "exit": null,
       "fomo": null,
       "post_mortem": null,
