@@ -4340,6 +4340,51 @@
       "fomo": null,
       "post_mortem": null,
       "ai_notes": null
+    },
+    {
+      "id": 53,
+      "status": "open",
+      "entry": {
+        "date": "2026-11-19",
+        "time": "15:55 PST",
+        "ticker": "TDTT",
+        "name": "FLEXSHARES TR NRTRN TR IBOXX 3",
+        "sector": "Unknown",
+        "type": "CALL",
+        "strike": 24.0,
+        "expiration": "2026-11-20",
+        "dte_at_entry": 1,
+        "T_at_entry": 0.00274,
+        "stock_price_at_entry": 23.28,
+        "premium": 0.9,
+        "cost": 90.0,
+        "bid": null,
+        "spread": null,
+        "iv_at_entry": 1.082,
+        "otm_pct": 3.09,
+        "expected_move": {
+          "one_sigma_pct": 5.66,
+          "upper": 24.6,
+          "lower": 21.96,
+          "strike_position": "inside"
+        },
+        "signal_rank": "dollar_loser_1",
+        "signal_pct": -0.17,
+        "signal_dollar": -0.04,
+        "spy_change": -0.31,
+        "macro_active": true,
+        "macro_keywords": [
+          "fed",
+          "inflation",
+          "war"
+        ],
+        "auto_note": "TDTT CALL | $-0.04 (-0.17%) | dollar_loser_1 | Strike $24.0 exp 2026-11-20 (1DTE) | IV 108.2% | SPY -0.31% | MACRO: fed, inflation, war"
+      },
+      "news_scan": null,
+      "exit": null,
+      "fomo": null,
+      "post_mortem": null,
+      "ai_notes": null
     }
   ]
 }

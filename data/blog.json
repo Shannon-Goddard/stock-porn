@@ -720,5 +720,16 @@
     "youtube_id": null,
     "images": [],
     "published": true
+  },
+  {
+    "id": 53,
+    "date": "2026-11-19",
+    "ticker": "TDTT",
+    "type": "CALL",
+    "trade_id": 53,
+    "title": "TDTT CALL \u2014 2026-11-19",
+    "youtube_id": null,
+    "images": [],
+    "published": true
   }
 ]
