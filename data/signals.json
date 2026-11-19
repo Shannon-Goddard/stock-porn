@@ -1,250 +1,42 @@
 {
   "topGainers": [
     {
-      "ticker": "TENB",
-      "name": "TENABLE HLDGS INC COM",
+      "ticker": "TDTT",
+      "name": "FLEXSHARES TR NRTRN TR IBOXX 3",
       "sector": "Unknown",
-      "price": 44.68,
-      "changePct": 15.75,
-      "changeDollar": 6.08
-    },
-    {
-      "ticker": "OKTA",
-      "name": "OKTA INC CL A",
-      "sector": "Unknown",
-      "price": 195.61,
-      "changePct": 12.07,
-      "changeDollar": 21.07
-    },
-    {
-      "ticker": "AMDL",
-      "name": "GRANITESHARES ETF TR GRANITE 2X LONG",
-      "sector": "Unknown",
-      "price": 50.51,
-      "changePct": 10.55,
-      "changeDollar": 4.82
-    },
-    {
-      "ticker": "SAIL",
-      "name": "SAILPOINT INC COM",
-      "sector": "Unknown",
-      "price": 22.25,
-      "changePct": 10.26,
-      "changeDollar": 2.07
-    },
-    {
-      "ticker": "WRBY",
-      "name": "WARBY PARKER INC CL A COM",
-      "sector": "Unknown",
-      "price": 28.22,
-      "changePct": 8.87,
-      "changeDollar": 2.3
-    },
-    {
-      "ticker": "FROG",
-      "name": "JFROG LTD ORD SHS",
-      "sector": "Unknown",
-      "price": 114.38,
-      "changePct": 8.83,
-      "changeDollar": 9.28
-    },
-    {
-      "ticker": "AKAM",
-      "name": "AKAMAI TECHNOLOGIES INC COM",
-      "sector": "Unknown",
-      "price": 91.7,
-      "changePct": 8.34,
-      "changeDollar": 7.06
-    },
-    {
-      "ticker": "SYRE",
-      "name": "SPYRE THERAPEUTICS INC COM NEW",
-      "sector": "Unknown",
-      "price": 101.46,
-      "changePct": 8.15,
-      "changeDollar": 7.65
-    },
-    {
-      "ticker": "CRWD",
-      "name": "CROWDSTRIKE HLDGS INC CL A",
-      "sector": "Unknown",
-      "price": 237.03,
-      "changePct": 7.95,
-      "changeDollar": 17.45
-    },
-    {
-      "ticker": "AMZU",
-      "name": "DIREXION SHARES ETF TRUST DLY AMZN BULL 2X",
-      "sector": "Unknown",
-      "price": 37.91,
-      "changePct": 7.55,
-      "changeDollar": 2.66
+      "price": 23.28,
+      "changePct": -0.17,
+      "changeDollar": -0.04
     }
   ],
   "topLosers": [
     {
-      "ticker": "HUM",
-      "name": "HUMANA INC COM",
+      "ticker": "TDTT",
+      "name": "FLEXSHARES TR NRTRN TR IBOXX 3",
       "sector": "Unknown",
-      "price": 385.78,
-      "changePct": -12.98,
-      "changeDollar": -57.56
-    },
-    {
-      "ticker": "JNUG",
-      "name": "DIREXION SHARES ETF TRUST DAIL JR GOLD ETF",
-      "sector": "Unknown",
-      "price": 87.94,
-      "changePct": -12.15,
-      "changeDollar": -12.16
-    },
-    {
-      "ticker": "ERO",
-      "name": "ERO COPPER CORP COM",
-      "sector": "Unknown",
-      "price": 23.92,
-      "changePct": -11.54,
-      "changeDollar": -3.12
-    },
-    {
-      "ticker": "KOLD",
-      "name": "PROSHARES TR II ULSHT BLOOMB GAS",
-      "sector": "Unknown",
-      "price": 25.83,
-      "changePct": -11.11,
-      "changeDollar": -3.23
-    },
-    {
-      "ticker": "UNH",
-      "name": "UNITEDHEALTH GROUP INC COM",
-      "sector": "Unknown",
-      "price": 349.91,
-      "changePct": -10.21,
-      "changeDollar": -39.77
-    },
-    {
-      "ticker": "AAOI",
-      "name": "APPLIED OPTOELECTRONICS INC COM",
-      "sector": "Unknown",
-      "price": 40.79,
-      "changePct": -9.8,
-      "changeDollar": -4.43
-    },
-    {
-      "ticker": "CBRS",
-      "name": "CEREBRAS SYSTEMS INC COM CL A",
-      "sector": "Unknown",
-      "price": 94.15,
-      "changePct": -9.63,
-      "changeDollar": -10.03
-    },
-    {
-      "ticker": "HBM",
-      "name": "HUDBAY MINERALS INC COM",
-      "sector": "Unknown",
-      "price": 18.05,
-      "changePct": -8.56,
-      "changeDollar": -1.69
-    },
-    {
-      "ticker": "LUNR",
-      "name": "INTUITIVE MACHINES INC CLASS A COM",
-      "sector": "Unknown",
-      "price": 10.12,
-      "changePct": -8.42,
-      "changeDollar": -0.93
-    },
-    {
-      "ticker": "OSCR",
-      "name": "OSCAR HEALTH INC CL A",
-      "sector": "Unknown",
-      "price": 27.57,
-      "changePct": -7.61,
-      "changeDollar": -2.27
+      "price": 23.28,
+      "changePct": -0.17,
+      "changeDollar": -0.04
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "OKTA",
-      "name": "OKTA INC CL A",
+      "ticker": "TDTT",
+      "name": "FLEXSHARES TR NRTRN TR IBOXX 3",
       "sector": "Unknown",
-      "price": 195.61,
-      "changePct": 12.07,
-      "changeDollar": 21.07
-    },
-    {
-      "ticker": "CRWD",
-      "name": "CROWDSTRIKE HLDGS INC CL A",
-      "sector": "Unknown",
-      "price": 237.03,
-      "changePct": 7.95,
-      "changeDollar": 17.45
-    },
-    {
-      "ticker": "FROG",
-      "name": "JFROG LTD ORD SHS",
-      "sector": "Unknown",
-      "price": 114.38,
-      "changePct": 8.83,
-      "changeDollar": 9.28
-    },
-    {
-      "ticker": "SYRE",
-      "name": "SPYRE THERAPEUTICS INC COM NEW",
-      "sector": "Unknown",
-      "price": 101.46,
-      "changePct": 8.15,
-      "changeDollar": 7.65
-    },
-    {
-      "ticker": "AKAM",
-      "name": "AKAMAI TECHNOLOGIES INC COM",
-      "sector": "Unknown",
-      "price": 91.7,
-      "changePct": 8.34,
-      "changeDollar": 7.06
+      "price": 23.28,
+      "changePct": -0.17,
+      "changeDollar": -0.04
     }
   ],
   "dollarLosers": [
     {
-      "ticker": "HUM",
-      "name": "HUMANA INC COM",
+      "ticker": "TDTT",
+      "name": "FLEXSHARES TR NRTRN TR IBOXX 3",
       "sector": "Unknown",
-      "price": 385.78,
-      "changePct": -12.98,
-      "changeDollar": -57.56
-    },
-    {
-      "ticker": "UNH",
-      "name": "UNITEDHEALTH GROUP INC COM",
-      "sector": "Unknown",
-      "price": 349.91,
-      "changePct": -10.21,
-      "changeDollar": -39.77
-    },
-    {
-      "ticker": "JNUG",
-      "name": "DIREXION SHARES ETF TRUST DAIL JR GOLD ETF",
-      "sector": "Unknown",
-      "price": 87.94,
-      "changePct": -12.15,
-      "changeDollar": -12.16
-    },
-    {
-      "ticker": "CBRS",
-      "name": "CEREBRAS SYSTEMS INC COM CL A",
-      "sector": "Unknown",
-      "price": 94.15,
-      "changePct": -9.63,
-      "changeDollar": -10.03
-    },
-    {
-      "ticker": "AAOI",
-      "name": "APPLIED OPTOELECTRONICS INC COM",
-      "sector": "Unknown",
-      "price": 40.79,
-      "changePct": -9.8,
-      "changeDollar": -4.43
+      "price": 23.28,
+      "changePct": -0.17,
+      "changeDollar": -0.04
     }
   ]
 }
