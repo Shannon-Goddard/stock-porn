@@ -4187,18 +4187,21 @@
         "auto_note": "BLSH CALL | $-2.74 (-12.18%) | dollar_loser_1 | Strike $20.0 exp 2026-11-20 (3DTE) | IV 155.7% | SPY -1.31% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-11-19 14:25:33 PST",
+        "scanned_at": "2026-11-19 22:20:00 PST",
         "gap_days": 2,
         "ticker_sentiment": "bullish",
-        "spy_sentiment": "neutral",
+        "spy_sentiment": "bearish",
         "spx_sentiment": "bearish",
         "keywords_found": [
           "buyback",
           "jumps"
         ],
-        "spy_keywords": [],
+        "spy_keywords": [
+          "drops"
+        ],
         "spx_keywords": [
-          "falls"
+          "concern",
+          "plunges"
         ],
         "decision": "hold",
         "decision_reason": "bullish ticker sentiment confirmed CALL thesis",
@@ -4220,28 +4223,28 @@
             "Bullish Posts $576.3 Million Q3 Profit on Crypto Gains, Authorizes $300 Million Buyback"
           ],
           "spy": [
-            "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Thursday Ahead of Anthropic Stock Market Debut",
-            "Stock Market Today: Anthropic IPO Revives the AI Trade, but Fear Is Growing",
-            "Wall Street Subdued So Far in Q4: What Lies Ahead?",
-            "How Much Gold Should A $1 Million Portfolio Own?",
-            "AGG Lost Money Over 5 Years. Is 60/40 Broken?",
-            "$1 Million In Cash Five Years Ago: What Is It Worth Now?",
-            "Should I Buy Humana Stock Now?",
-            "SPDR S&P 500 ETF (SPY) Adds Apple and Nvidia on Nov. 17",
-            "ETFs Are Buying Bank of America (BAC) on Tuesday",
-            "ETFs Bought $33.8 Million of Caterpillar (CAT) on Nov. 17"
+            "$1,000 Invested in Eli Lilly 10 Years Ago Would Be Worth a Fortune Today",
+            "If You Have $1,000 to Invest Right Now, Here's the 1 ETF I'd Buy Without a Second Thought",
+            "Do Nvidia, Alphabet, Meta Drops Hurt Your Index Fund?",
+            "How a 68-Year-Old Collects $5,225 a Month From Just Three Tickers: VYM, DIVO, and ARCC",
+            "The Fed Just Warned About a Hidden $3 Trillion AI Risk. Here\u2019s How It Can Spread Beyond Tech Stocks",
+            "Peter Lynch Made \u201cGrowth at a Reasonable Price\u201d Famous. SPGP Runs the S&P 500 Through That Filter and Keeps 75 Stocks",
+            "Some Fed Officials Wanted to Hike in October. A Half-Point Hike Is on the Table.",
+            "$1 Million In QQQ Five Years Ago: What Is It Worth Now?",
+            "Why GM Stock's Gains Under Barra Outran Its Profit",
+            "ANT Marks Momentous Occasion for Wall Street"
           ],
           "spx": [
-            "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Thursday Ahead of Anthropic Stock Market Debut",
-            "Stock market today: Dow, S&P 500, Nasdaq futures rise ahead of historic Anthropic IPO",
-            "Anthropic Just Priced the Biggest IPO on Record. History Says What Record-Setting IPOs Have Meant for the S&P 500.",
-            "How Much Downside Is Left In Fortinet Stock?",
-            "Stock Market Today: Anthropic IPO Revives the AI Trade, but Fear Is Growing",
-            "What Could Surprise Robinhood Stock Investors On The Upside?",
-            "Update: US Equity Futures Rise Pre-Bell as Traders Anticipate Anthropic's Stock Market Debut",
-            "Stock Market Today: Dow Rises As Walmart Falls On Earnings; Anthropic IPO Set To Soar 25% (Live Coverage)",
-            "A Bear Market Could Be Coming. Here's My Exact Investing Strategy to Prepare for It.",
-            "How Much Upside Is Left In Dominion Energy Stock?"
+            "Dow Jones Futures Fall After Ugly Market Reversal To New Lows; Anthropic IPO Debuts, AMD Dives",
+            "Anthropic Just Finished Its First Day as a Public Company. Five of the Six Biggest Tech IPOs Since Facebook Were Underwater Six Months After Theirs, and Elon Musk\u2019s SpaceX Is Following the Script",
+            "Stock Market Today, Nov. 19: Dow Plunges 1,100 Points as the S&P 500 Suffers Its 6th Straight Day of Losses",
+            "Trading Day: World's biggest IPO? Pfft",
+            "Is Indonesia Holding Back Freeport-McMoRan Stock?",
+            "Stocks fall as Anthropic debut fails to ease AI concerns; dollar rises",
+            "How major US stock indexes fared Thursday 11/19/2026",
+            "Stock Market Today: Dow Tanks 1,100 Points In Bearish Day Despite Anthropic IPO",
+            "Two Big Debuts Fail To Boost Stocks",
+            "Wall Street Wipes Out Early Gains As Dow Sinks 1,100 Points. Anthropic's $81 Billion IPO Fails To Lift Stocks."
           ]
         }
       },
@@ -4286,49 +4289,52 @@
         "auto_note": "WCN CALL | $-15.80 (-8.01%) | dollar_loser_1 | Strike $195.0 exp 2026-11-20 (2DTE) | IV 58.3% | SPY -1.01% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-11-19 14:25:33 PST",
+        "scanned_at": "2026-11-19 22:20:00 PST",
         "gap_days": 1,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "neutral",
+        "spy_sentiment": "bearish",
         "spx_sentiment": "bearish",
         "keywords_found": [],
-        "spy_keywords": [],
+        "spy_keywords": [
+          "drops"
+        ],
         "spx_keywords": [
-          "falls"
+          "concern",
+          "plunges"
         ],
         "decision": "sell",
         "decision_reason": "neutral ticker sentiment \u2014 no confirmation for CALL thesis, sell at open",
         "keyword_outcomes": {},
         "raw_headlines": {
           "ticker": [
+            "Waste Connections, Inc. (WCN): Why This Waste Management Stock Remains on Investors\u2019 Radar",
             "Is Republic Services Stock A Mistake At Its High?",
             "\u2018Noxious Odors\u2019 From L.A. County Landfill Explosion Taint This Waste Hauler\u2019s Stock",
-            "Sector Update: Energy Stocks Softer Late Afternoon",
-            "Green Dot Q3 Earnings Miss Estimates, Stock Declines 8.2%"
+            "Sector Update: Energy Stocks Softer Late Afternoon"
           ],
           "spy": [
-            "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Thursday Ahead of Anthropic Stock Market Debut",
-            "Stock Market Today: Anthropic IPO Revives the AI Trade, but Fear Is Growing",
-            "Wall Street Subdued So Far in Q4: What Lies Ahead?",
-            "How Much Gold Should A $1 Million Portfolio Own?",
-            "AGG Lost Money Over 5 Years. Is 60/40 Broken?",
-            "$1 Million In Cash Five Years Ago: What Is It Worth Now?",
-            "Should I Buy Humana Stock Now?",
-            "SPDR S&P 500 ETF (SPY) Adds Apple and Nvidia on Nov. 17",
-            "ETFs Are Buying Bank of America (BAC) on Tuesday",
-            "ETFs Bought $33.8 Million of Caterpillar (CAT) on Nov. 17"
+            "$1,000 Invested in Eli Lilly 10 Years Ago Would Be Worth a Fortune Today",
+            "If You Have $1,000 to Invest Right Now, Here's the 1 ETF I'd Buy Without a Second Thought",
+            "Do Nvidia, Alphabet, Meta Drops Hurt Your Index Fund?",
+            "How a 68-Year-Old Collects $5,225 a Month From Just Three Tickers: VYM, DIVO, and ARCC",
+            "The Fed Just Warned About a Hidden $3 Trillion AI Risk. Here\u2019s How It Can Spread Beyond Tech Stocks",
+            "Peter Lynch Made \u201cGrowth at a Reasonable Price\u201d Famous. SPGP Runs the S&P 500 Through That Filter and Keeps 75 Stocks",
+            "Some Fed Officials Wanted to Hike in October. A Half-Point Hike Is on the Table.",
+            "$1 Million In QQQ Five Years Ago: What Is It Worth Now?",
+            "Why GM Stock's Gains Under Barra Outran Its Profit",
+            "ANT Marks Momentous Occasion for Wall Street"
           ],
           "spx": [
-            "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Thursday Ahead of Anthropic Stock Market Debut",
-            "Stock market today: Dow, S&P 500, Nasdaq futures rise ahead of historic Anthropic IPO",
-            "Anthropic Just Priced the Biggest IPO on Record. History Says What Record-Setting IPOs Have Meant for the S&P 500.",
-            "How Much Downside Is Left In Fortinet Stock?",
-            "Stock Market Today: Anthropic IPO Revives the AI Trade, but Fear Is Growing",
-            "What Could Surprise Robinhood Stock Investors On The Upside?",
-            "Update: US Equity Futures Rise Pre-Bell as Traders Anticipate Anthropic's Stock Market Debut",
-            "Stock Market Today: Dow Rises As Walmart Falls On Earnings; Anthropic IPO Set To Soar 25% (Live Coverage)",
-            "A Bear Market Could Be Coming. Here's My Exact Investing Strategy to Prepare for It.",
-            "How Much Upside Is Left In Dominion Energy Stock?"
+            "Dow Jones Futures Fall After Ugly Market Reversal To New Lows; Anthropic IPO Debuts, AMD Dives",
+            "Anthropic Just Finished Its First Day as a Public Company. Five of the Six Biggest Tech IPOs Since Facebook Were Underwater Six Months After Theirs, and Elon Musk\u2019s SpaceX Is Following the Script",
+            "Stock Market Today, Nov. 19: Dow Plunges 1,100 Points as the S&P 500 Suffers Its 6th Straight Day of Losses",
+            "Trading Day: World's biggest IPO? Pfft",
+            "Is Indonesia Holding Back Freeport-McMoRan Stock?",
+            "Stocks fall as Anthropic debut fails to ease AI concerns; dollar rises",
+            "How major US stock indexes fared Thursday 11/19/2026",
+            "Stock Market Today: Dow Tanks 1,100 Points In Bearish Day Despite Anthropic IPO",
+            "Two Big Debuts Fail To Boost Stocks",
+            "Wall Street Wipes Out Early Gains As Dow Sinks 1,100 Points. Anthropic's $81 Billion IPO Fails To Lift Stocks."
           ]
         }
       },
@@ -4377,15 +4383,18 @@
         "auto_note": "TDTT CALL | $-0.04 (-0.17%) | dollar_loser_1 | Strike $24.0 exp 2026-11-20 (1DTE) | IV 108.2% | SPY -0.31% | MACRO: fed, inflation, war"
       },
       "news_scan": {
-        "scanned_at": "2026-11-19 14:25:33 PST",
+        "scanned_at": "2026-11-19 22:20:00 PST",
         "gap_days": 0,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "neutral",
+        "spy_sentiment": "bearish",
         "spx_sentiment": "bearish",
         "keywords_found": [],
-        "spy_keywords": [],
+        "spy_keywords": [
+          "drops"
+        ],
         "spx_keywords": [
-          "falls"
+          "concern",
+          "plunges"
         ],
         "decision": "sell",
         "decision_reason": "neutral ticker sentiment \u2014 no confirmation for CALL thesis, sell at open",
@@ -4393,28 +4402,28 @@
         "raw_headlines": {
           "ticker": [],
           "spy": [
-            "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Thursday Ahead of Anthropic Stock Market Debut",
-            "Stock Market Today: Anthropic IPO Revives the AI Trade, but Fear Is Growing",
-            "Wall Street Subdued So Far in Q4: What Lies Ahead?",
-            "How Much Gold Should A $1 Million Portfolio Own?",
-            "AGG Lost Money Over 5 Years. Is 60/40 Broken?",
-            "$1 Million In Cash Five Years Ago: What Is It Worth Now?",
-            "Should I Buy Humana Stock Now?",
-            "SPDR S&P 500 ETF (SPY) Adds Apple and Nvidia on Nov. 17",
-            "ETFs Are Buying Bank of America (BAC) on Tuesday",
-            "ETFs Bought $33.8 Million of Caterpillar (CAT) on Nov. 17"
+            "$1,000 Invested in Eli Lilly 10 Years Ago Would Be Worth a Fortune Today",
+            "If You Have $1,000 to Invest Right Now, Here's the 1 ETF I'd Buy Without a Second Thought",
+            "Do Nvidia, Alphabet, Meta Drops Hurt Your Index Fund?",
+            "How a 68-Year-Old Collects $5,225 a Month From Just Three Tickers: VYM, DIVO, and ARCC",
+            "The Fed Just Warned About a Hidden $3 Trillion AI Risk. Here\u2019s How It Can Spread Beyond Tech Stocks",
+            "Peter Lynch Made \u201cGrowth at a Reasonable Price\u201d Famous. SPGP Runs the S&P 500 Through That Filter and Keeps 75 Stocks",
+            "Some Fed Officials Wanted to Hike in October. A Half-Point Hike Is on the Table.",
+            "$1 Million In QQQ Five Years Ago: What Is It Worth Now?",
+            "Why GM Stock's Gains Under Barra Outran Its Profit",
+            "ANT Marks Momentous Occasion for Wall Street"
           ],
           "spx": [
-            "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Thursday Ahead of Anthropic Stock Market Debut",
-            "Stock market today: Dow, S&P 500, Nasdaq futures rise ahead of historic Anthropic IPO",
-            "Anthropic Just Priced the Biggest IPO on Record. History Says What Record-Setting IPOs Have Meant for the S&P 500.",
-            "How Much Downside Is Left In Fortinet Stock?",
-            "Stock Market Today: Anthropic IPO Revives the AI Trade, but Fear Is Growing",
-            "What Could Surprise Robinhood Stock Investors On The Upside?",
-            "Update: US Equity Futures Rise Pre-Bell as Traders Anticipate Anthropic's Stock Market Debut",
-            "Stock Market Today: Dow Rises As Walmart Falls On Earnings; Anthropic IPO Set To Soar 25% (Live Coverage)",
-            "A Bear Market Could Be Coming. Here's My Exact Investing Strategy to Prepare for It.",
-            "How Much Upside Is Left In Dominion Energy Stock?"
+            "Dow Jones Futures Fall After Ugly Market Reversal To New Lows; Anthropic IPO Debuts, AMD Dives",
+            "Anthropic Just Finished Its First Day as a Public Company. Five of the Six Biggest Tech IPOs Since Facebook Were Underwater Six Months After Theirs, and Elon Musk\u2019s SpaceX Is Following the Script",
+            "Stock Market Today, Nov. 19: Dow Plunges 1,100 Points as the S&P 500 Suffers Its 6th Straight Day of Losses",
+            "Trading Day: World's biggest IPO? Pfft",
+            "Is Indonesia Holding Back Freeport-McMoRan Stock?",
+            "Stocks fall as Anthropic debut fails to ease AI concerns; dollar rises",
+            "How major US stock indexes fared Thursday 11/19/2026",
+            "Stock Market Today: Dow Tanks 1,100 Points In Bearish Day Despite Anthropic IPO",
+            "Two Big Debuts Fail To Boost Stocks",
+            "Wall Street Wipes Out Early Gains As Dow Sinks 1,100 Points. Anthropic's $81 Billion IPO Fails To Lift Stocks."
           ]
         }
       },
