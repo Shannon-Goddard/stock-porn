@@ -226,6 +226,92 @@ def build_blog_entry(trade_id, entry):
         'published':   True
     }
 
+METADATA_FILE = os.path.join(DATA_DIR, 'metadata.json')
+
+import sys
+sys.path.insert(0, os.path.dirname(__file__))
+try:
+    from fetch_signals import SECTOR_ETF_MAP
+except ImportError:
+    SECTOR_ETF_MAP = {}
+
+# US market holidays 2026-2027 (NYSE observed dates)
+MARKET_HOLIDAYS = {
+    '2026-01-01', '2026-01-19', '2026-02-16', '2026-04-03',
+    '2026-05-25', '2026-07-03', '2026-09-07', '2026-11-26', '2026-12-25',
+    '2027-01-01', '2027-01-18', '2027-02-15', '2027-04-02',
+    '2027-05-31', '2027-07-05', '2027-09-06', '2027-11-25', '2027-12-24',
+}
+
+# NYSE early close days — market closes 1 PM EST (21:00 UTC)
+# 3:55 PM PST cron fires at 23:55 UTC — after close, do not trade
+EARLY_CLOSE_DATES = {
+    # 2025
+    '2025-11-28',  # day after Thanksgiving
+    '2025-12-24',  # Christmas Eve
+    # 2026
+    '2026-11-27',  # day after Thanksgiving
+    '2026-12-24',  # Christmas Eve (also a holiday — belt+suspenders)
+    # 2027
+    '2027-11-26',  # day after Thanksgiving
+    '2027-12-24',  # Christmas Eve
+}
+EARLY_CLOSE_UTC_HOUR = 21  # 1 PM EST = 21:00 UTC
+
+
+def get_entry_context(ticker, stock_price, sector):
+    """
+    Collect safety-net fields at entry time.
+    iv_rank           — where today's IV sits relative to 60d realized vol range (0-1 proxy)
+    volume_ratio      — today's volume vs 30-day avg (unusual activity flag)
+    sector_etf_change — sector ETF % change today (is the trade fighting the sector?)
+    All fields nullable — never block a trade if lookup fails.
+    """
+    ctx = {'iv_rank': None, 'volume_ratio': None, 'sector_etf_change': None, 'sector_etf': None}
+    try:
+        t = yf.Ticker(ticker)
+        hist = t.history(period='60d', interval='1d')
+        if hist is not None and len(hist) >= 20:
+            avg_vol = float(hist['Volume'].iloc[-30:].mean())
+            today_vol = float(hist['Volume'].iloc[-1])
+            if avg_vol > 0:
+                ctx['volume_ratio'] = round(today_vol / avg_vol, 2)
+            try:
+                exps = t.options
+                if exps:
+                    chain = t.option_chain(exps[0])
+                    near = chain.calls[abs(chain.calls['strike'] - stock_price) < stock_price * 0.1]
+                    if not near.empty:
+                        iv_sample = float(near['impliedVolatility'].median())
+                        hv_series = [
+                            float(hist['Close'].iloc[max(0, i-20):i].pct_change().dropna().std() * math.sqrt(252))
+                            for i in range(20, len(hist))
+                        ]
+                        if hv_series:
+                            hv_min, hv_max = min(hv_series), max(hv_series)
+                            if hv_max > hv_min:
+                                ctx['iv_rank'] = round((iv_sample - hv_min) / (hv_max - hv_min), 3)
+            except Exception:
+                pass
+    except Exception:
+        pass
+
+    sector_etf = SECTOR_ETF_MAP.get(sector)
+    ctx['sector_etf'] = sector_etf
+    if sector_etf:
+        try:
+            raw = yf.download(sector_etf, period='2d', interval='1d', auto_adjust=True, progress=False)
+            if len(raw) >= 2:
+                prev = float(raw['Close'].iloc[-2].iloc[0]) if hasattr(raw['Close'].iloc[-2], 'iloc') else float(raw['Close'].iloc[-2])
+                curr = float(raw['Close'].iloc[-1].iloc[0]) if hasattr(raw['Close'].iloc[-1], 'iloc') else float(raw['Close'].iloc[-1])
+                if prev > 0:
+                    ctx['sector_etf_change'] = round((curr - prev) / prev * 100, 2)
+        except Exception:
+            pass
+
+    return ctx
+
+
 def process_signal(signal, option_type, rank_label, today, today_str,
                    spy_change, macro_active, macro_keywords, trades_data):
     ticker      = signal['ticker']
@@ -235,10 +321,18 @@ def process_signal(signal, option_type, rank_label, today, today_str,
     print(f"\n  {ticker} — {option_type} ({rank_label})")
     print(f"  Stock price: ${stock_price} | Change: {signal['changeDollar']:+.2f} ({signal['changePct']:+.2f}%)")
 
+    # Safety-net context fields
+    print(f"  Fetching entry context (iv_rank, volume_ratio, sector_etf_change)...")
+    entry_ctx = get_entry_context(ticker, stock_price, signal.get('sector', ''))
+
     contract = select_contract(ticker, stock_price, option_type, today)
     if not contract:
         print(f"  No qualifying contract found (budget ${MAX_BUDGET*100:.0f}, {MAX_EXP_DAYS}d max exp)")
         return None
+
+    print(f"  iv_rank: {entry_ctx['iv_rank']} | volume_ratio: {entry_ctx['volume_ratio']} | "
+          f"sector_etf: {entry_ctx['sector_etf']} {entry_ctx['sector_etf_change']:+.2f}%" if entry_ctx['sector_etf_change'] is not None
+          else f"  iv_rank: {entry_ctx['iv_rank']} | volume_ratio: {entry_ctx['volume_ratio']} | sector_etf: {entry_ctx['sector_etf']} n/a")
 
     print(f"  Contract: ${contract['strike']} {option_type} exp {contract['expiration']} "
           f"({contract['dte']}DTE) @ ${contract['premium']} | IV {round(contract['iv']*100,1)}%")
@@ -280,9 +374,14 @@ def process_signal(signal, option_type, rank_label, today, today_str,
             'signal_rank':         rank_label,
             'signal_pct':          signal['changePct'],
             'signal_dollar':       signal['changeDollar'],
+            'signal_first_appeared': signal.get('signal_first_appeared'),
             'spy_change':          spy_change if spy_change is not None and not math.isnan(spy_change) else None,
             'macro_active':        macro_active,
             'macro_keywords':      macro_keywords,
+            'iv_rank':             entry_ctx['iv_rank'],
+            'volume_ratio':        entry_ctx['volume_ratio'],
+            'sector_etf':          entry_ctx['sector_etf'],
+            'sector_etf_change':   entry_ctx['sector_etf_change'],
             'auto_note':           auto_note
         },
         'news_scan':  None,
@@ -300,17 +399,6 @@ def process_signal(signal, option_type, rank_label, today, today_str,
     # Deduct cost from balance
     print(f"  Trade #{trade_id} logged.")
     return trade_id
-
-METADATA_FILE = os.path.join(DATA_DIR, 'metadata.json')
-
-# US market holidays 2026-2027 (NYSE observed dates)
-MARKET_HOLIDAYS = {
-    '2026-01-01', '2026-01-19', '2026-02-16', '2026-04-03',
-    '2026-05-25', '2026-07-03', '2026-09-07', '2026-11-26', '2026-12-25',
-    '2027-01-01', '2027-01-18', '2027-02-15', '2027-04-02',
-    '2027-05-31', '2027-07-05', '2027-09-06', '2027-11-25', '2027-12-24',
-}
-
 
 def check_no_trade(spy_change, signals):
     """
@@ -335,6 +423,12 @@ def main():
     if today_str in MARKET_HOLIDAYS:
         print(f"Market holiday — {today_str} is a NYSE observed holiday. No trade today.")
         return
+
+    if today_str in EARLY_CLOSE_DATES:
+        now_utc_hour = datetime.now(timezone.utc).hour
+        if now_utc_hour >= EARLY_CLOSE_UTC_HOUR:
+            print(f"Early close day — market closed at 1 PM EST. Cron fired after close. No trade today.")
+            return
 
     signals     = load_json(SIGNALS_FILE)
     trades_data = load_json(TRADES_FILE)

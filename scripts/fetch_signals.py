@@ -15,6 +15,39 @@ TOP_N = 5        # top 5 by dollar move
 MIN_PRICE = 10.00       # options liquidity floor — sub-$10 spreads are untradeable
 MIN_AVG_VOLUME = 500000 # daily volume floor — low volume = no options open interest
 
+# Sector -> ETF mapping for sector_etf_change lookup at entry
+SECTOR_ETF_MAP = {
+    'Technology':             'XLK',
+    'Tech':                   'XLK',
+    'Communication Services': 'XLC',
+    'Consumer Discretionary': 'XLY',
+    'Consumer Staples':       'XLP',
+    'Energy':                 'XLE',
+    'Financials':             'XLF',
+    'Health Care':            'XLV',
+    'Healthcare':             'XLV',
+    'Industrials':            'XLI',
+    'Materials':              'XLB',
+    'Real Estate':            'VNQ',
+    'Utilities':              'XLU',
+    'Biotechnology':          'XBI',
+    'Biotech':                'XBI',
+    'Defense':                'ITA',
+    'Retail':                 'XRT',
+    'Regional Banks':         'KRE',
+    'Crypto':                 'BITO',
+}
+
+# NYSE early close days — market closes 1 PM EST (21:00 UTC)
+# Signals runs every 30 min — block writes after close to prevent garbage data
+EARLY_CLOSE_DATES = {
+    '2025-11-28', '2025-12-24',
+    '2026-11-27', '2026-12-24',
+    '2027-11-26', '2027-12-24',
+}
+EARLY_CLOSE_UTC_HOUR = 21
+
+
 def load_optionable():
     stocks = {}
     with open(OPTIONABLE_FILE, newline='', encoding='utf-8') as f:
@@ -100,9 +133,11 @@ def parse_prices(raw, tickers, stock_info):
                 'ticker': ticker,
                 'name': stock_info[ticker]['name'],
                 'sector': sector,
+                'sector_etf': SECTOR_ETF_MAP.get(sector),
                 'price': round(curr_close, 2),
                 'changePct': change_pct,
-                'changeDollar': change_dollar
+                'changeDollar': change_dollar,
+                'signal_first_appeared': datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S UTC')
             })
         except Exception:
             counts['no_data'] += 1
@@ -171,6 +206,11 @@ def update_metadata(filter_counts):
         json.dump(metadata, f, indent=2)
 
 def main():
+    today_str = datetime.now(timezone.utc).strftime('%Y-%m-%d')
+    if today_str in EARLY_CLOSE_DATES and datetime.now(timezone.utc).hour >= EARLY_CLOSE_UTC_HOUR:
+        print(f"Early close day — market closed at 1 PM EST. Skipping signals write to prevent garbage data.")
+        return
+
     # Load optionable stocks
     stock_info = load_optionable()
     tickers = list(stock_info.keys())
