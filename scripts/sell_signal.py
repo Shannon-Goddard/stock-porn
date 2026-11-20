@@ -282,11 +282,13 @@ def update_stats(stats, trade, excluded_ids):
     sr['avg_pnl'] = round((sr['avg_pnl'] * (sr['trades'] - 1) + pnl) / sr['trades'], 2)
 
     # SPY correlation
-    spy_up = entry['spy_change'] >= 0
-    sc = stats['spy_correlation']['spy_up_days' if spy_up else 'spy_down_days']
-    sc['trades'] += 1
-    if won and entry['type'] == 'PUT':  sc['put_wins']  += 1
-    if won and entry['type'] == 'CALL': sc['call_wins'] += 1
+    spy_change = entry.get('spy_change')
+    if spy_change is not None:
+        spy_up = spy_change >= 0
+        sc = stats['spy_correlation']['spy_up_days' if spy_up else 'spy_down_days']
+        sc['trades'] += 1
+        if won and entry['type'] == 'PUT':  sc['put_wins']  += 1
+        if won and entry['type'] == 'CALL': sc['call_wins'] += 1
 
     # FOMO — skip excluded trades
     if fomo and not is_excluded:
@@ -295,7 +297,7 @@ def update_stats(stats, trade, excluded_ids):
         clean_count = sum(
             1 for t in [trade] if t['id'] not in excluded_ids
         )
-        n_fomo = f['sell_at_open_trades'] + f['hold_2min_trades'] + 1
+        n_fomo = f['sell_at_open_trades'] + f.get('hold_trades', 0) + 1
         f['avg_left_on_table'] = round(
             (f['avg_left_on_table'] * (n_fomo - 1) + left) / n_fomo, 2
         )
@@ -336,13 +338,15 @@ def update_stats(stats, trade, excluded_ids):
         if correct: kl['correct'] += 1
 
     # Methodology score — SPY layer
-    spy_layer_correct = (
-        (entry['spy_change'] < 0 and entry['type'] == 'PUT'  and won) or
-        (entry['spy_change'] > 0 and entry['type'] == 'CALL' and won)
-    )
-    sl = stats['methodology_score']['spy_layer']
-    sl['predictions'] += 1
-    if spy_layer_correct: sl['correct'] += 1
+    spy_change = entry.get('spy_change')
+    if spy_change is not None:
+        spy_layer_correct = (
+            (spy_change < 0 and entry['type'] == 'PUT'  and won) or
+            (spy_change > 0 and entry['type'] == 'CALL' and won)
+        )
+        sl = stats['methodology_score']['spy_layer']
+        sl['predictions'] += 1
+        if spy_layer_correct: sl['correct'] += 1
 
     # ── Hypotheses ────────────────────────────────────────────────────────────
     h = stats.get('hypotheses', {})
