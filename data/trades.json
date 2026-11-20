@@ -9,8 +9,8 @@
       4
     ]
   },
-  "balance": -2915.9,
-  "clean_balance": -2789.16,
+  "balance": -2985.54,
+  "clean_balance": -2858.8,
   "starting_balance": 0.0,
   "first_trade_date": "2026-08-24",
   "trades": [
@@ -4153,7 +4153,7 @@
     },
     {
       "id": 51,
-      "status": "open",
+      "status": "closed",
       "entry": {
         "date": "2026-11-17",
         "time": "15:55 PST",
@@ -4203,8 +4203,8 @@
         "decision": "hold",
         "decision_reason": "bullish ticker sentiment confirmed CALL thesis",
         "keyword_outcomes": {
-          "buyback": null,
-          "jumps": null
+          "buyback": "win",
+          "jumps": "win"
         },
         "raw_headlines": {
           "ticker": [
@@ -4245,14 +4245,67 @@
           ]
         }
       },
-      "exit": null,
-      "fomo": null,
-      "post_mortem": null,
+      "exit": {
+        "date": "2026-11-19",
+        "time": "2026-11-19 09:49:00-05:00",
+        "stock_open_price": 20.775,
+        "sell_option_price": 1.5713,
+        "sell_contract_value": 157.13,
+        "sell_trigger": "hold_20min",
+        "gap_direction": "with_thesis",
+        "gap_pct": 5.19,
+        "pnl": 57.13
+      },
+      "fomo": {
+        "sell_contract_value": 157.13,
+        "sell_pnl": 57.13,
+        "theta_burned_at_sell": -0.91,
+        "theta_per_min": -0.047819,
+        "day_high": {
+          "stock_price": 20.96,
+          "time": "2026-11-19 09:34:00-05:00",
+          "bs_contract_value": 169.8,
+          "theoretical_pnl": 69.8
+        },
+        "day_low": {
+          "stock_price": 20.0,
+          "time": "2026-11-19 09:36:00-05:00",
+          "bs_contract_value": 112.6,
+          "theoretical_pnl": 12.6
+        },
+        "best_case": {
+          "value": 169.8,
+          "pnl": 69.8,
+          "time": "2026-11-19 09:34:00-05:00"
+        },
+        "worst_case": {
+          "value": 112.6,
+          "pnl": 12.6,
+          "time": "2026-11-19 09:36:00-05:00"
+        },
+        "left_on_table": 12.67,
+        "theta_note": "3DTE: Theta minimal at open, stock direction dominates. Est. $0.91 burned"
+      },
+      "post_mortem": {
+        "generated_at": "2026-11-20 14:31:28 UTC",
+        "outcome": "win",
+        "pnl": 57.13,
+        "primary_reason": "Thesis confirmed. with_thesis. News: hold. P&L: $+57.13.",
+        "factors": [
+          "gap_confirmed_thesis (+5.19%)",
+          "strike_inside_expected_move",
+          "news_decision_hold_correct",
+          "keywords_fired: buyback, jumps",
+          "left_on_table: $+12.67 (+12.7% of cost)",
+          "spy_day: -1.31%"
+        ],
+        "ai_notes": null
+      },
       "ai_notes": null
     },
     {
       "id": 52,
-      "status": "open",
+      "status": "closed",
       "entry": {
         "date": "2026-11-18",
         "time": "15:55 PST",
@@ -4332,14 +4385,66 @@
           ]
         }
       },
-      "exit": null,
-      "fomo": null,
-      "post_mortem": null,
+      "exit": {
+        "date": "2026-11-19",
+        "time": "2026-11-19 09:30:00-05:00",
+        "stock_open_price": 180.56,
+        "sell_option_price": 0.1226,
+        "sell_contract_value": 12.26,
+        "sell_trigger": "sell_at_open",
+        "gap_direction": "against_thesis",
+        "gap_pct": -0.52,
+        "pnl": -62.74
+      },
+      "fomo": {
+        "sell_contract_value": 12.26,
+        "sell_pnl": -62.74,
+        "theta_burned_at_sell": -0.0,
+        "theta_per_min": -0.052985,
+        "day_high": {
+          "stock_price": 181.4,
+          "time": "2026-11-19 09:31:00-05:00",
+          "bs_contract_value": 15.95,
+          "theoretical_pnl": -59.05
+        },
+        "day_low": {
+          "stock_price": 179.28,
+          "time": "2026-11-19 10:01:00-05:00",
+          "bs_contract_value": 7.05,
+          "theoretical_pnl": -67.95
+        },
+        "best_case": {
+          "value": 15.95,
+          "pnl": -59.05,
+          "time": "2026-11-19 09:31:00-05:00"
+        },
+        "worst_case": {
+          "value": 7.05,
+          "pnl": -67.95,
+          "time": "2026-11-19 10:01:00-05:00"
+        },
+        "left_on_table": 3.69,
+        "theta_note": "2DTE: Theta minimal at open, stock direction dominates. Est. $0.00 burned"
+      },
+      "post_mortem": {
+        "generated_at": "2026-11-20 14:31:28 UTC",
+        "outcome": "loss",
+        "pnl": -62.74,
+        "primary_reason": "Stock opened against thesis (-0.52%). Contract OTM at open, premium decayed.",
+        "factors": [
+          "gap_opposed_thesis (-0.52%)",
+          "strike_outside_expected_move",
+          "news_decision_sell_correct",
+          "left_on_table: $+3.69 (+4.9% of cost)",
+          "spy_day: -1.01%"
+        ],
+        "ai_notes": null
+      },
       "ai_notes": null
     },
     {
       "id": 53,
-      "status": "open",
+      "status": "closed",
       "entry": {
         "date": "2026-11-19",
         "time": "15:55 PST",
@@ -4418,9 +4523,62 @@
           ]
         }
       },
-      "exit": null,
-      "fomo": null,
-      "post_mortem": null,
+      "exit": {
+        "date": "2026-11-19",
+        "time": "2026-11-19 09:30:00-05:00",
+        "stock_open_price": 23.31,
+        "sell_option_price": 0.2597,
+        "sell_contract_value": 25.97,
+        "sell_trigger": "sell_at_open",
+        "gap_direction": "with_thesis",
+        "gap_pct": 0.13,
+        "pnl": -64.03
+      },
+      "fomo": {
+        "sell_contract_value": 25.97,
+        "sell_pnl": -64.03,
+        "theta_burned_at_sell": -0.0,
+        "theta_per_min": -0.059538,
+        "day_high": {
+          "stock_price": 23.31,
+          "time": "2026-11-19 09:30:00-05:00",
+          "bs_contract_value": 25.97,
+          "theoretical_pnl": -64.03
+        },
+        "day_low": {
+          "stock_price": 23.29,
+          "time": "2026-11-19 09:33:00-05:00",
+          "bs_contract_value": 25.17,
+          "theoretical_pnl": -64.83
+        },
+        "best_case": {
+          "value": 25.97,
+          "pnl": -64.03,
+          "time": "2026-11-19 09:30:00-05:00"
+        },
+        "worst_case": {
+          "value": 25.17,
+          "pnl": -64.83,
+          "time": "2026-11-19 09:33:00-05:00"
+        },
+        "left_on_table": 0.0,
+        "theta_note": "1DTE: Theta moderate at open, accelerating by noon. Est. $0.00 burned"
+      },
+      "post_mortem": {
+        "generated_at": "2026-11-20 14:31:28 UTC",
+        "outcome": "loss",
+        "pnl": -64.03,
+        "primary_reason": "Thesis did not play out. Gap: +0.13% (with_thesis). No single dominant factor.",
+        "factors": [
+          "gap_confirmed_thesis (+0.13%)",
+          "strike_inside_expected_move",
+          "news_decision_sell_correct",
+          "macro_active: fed, inflation, war",
+          "left_on_table: $+0.00 (+0.0% of cost)",
+          "spy_day: -0.31%"
+        ],
+        "ai_notes": null
+      },
       "ai_notes": null
     }
   ]

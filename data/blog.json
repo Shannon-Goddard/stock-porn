@@ -705,10 +705,13 @@
     "ticker": "BLSH",
     "type": "CALL",
     "trade_id": 51,
-    "title": "BLSH CALL \u2014 2026-11-17",
+    "title": "BLSH CALL \u2014 2026-11-17: Made $57.13",
     "youtube_id": null,
     "images": [],
-    "published": true
+    "published": true,
+    "subtitle": "BLSH closed at $19.75 on 2026-11-17, ranking dollar_loser_1 with -12.18% ($-2.74). Strike $20.0 CALL exp 2026-11-20 (3DTE). IV at entry: 155.7%. Cost: $100.00. News scan: bullish \u2014 decision: hold. Sold at option value $1.5713 (stock open $20.775) at 2026-11-19 09:49:00-05:00. P&L: $+57.13. Left on table: $+12.67. Thesis confirmed. with_thesis. News: hold. P&L: $+57.13.",
+    "pnl": 57.13,
+    "won": true
   },
   {
     "id": 52,
@@ -716,10 +719,13 @@
     "ticker": "WCN",
     "type": "CALL",
     "trade_id": 52,
-    "title": "WCN CALL \u2014 2026-11-18",
+    "title": "WCN CALL \u2014 2026-11-18: Lost $62.74",
     "youtube_id": null,
     "images": [],
-    "published": true
+    "published": true,
+    "subtitle": "WCN closed at $181.5 on 2026-11-18, ranking dollar_loser_1 with -8.01% ($-15.80). Strike $195.0 CALL exp 2026-11-20 (2DTE). IV at entry: 58.3%. Cost: $75.00. News scan: neutral \u2014 decision: sell. Sold at option value $0.1226 (stock open $180.56) at 2026-11-19 09:30:00-05:00. P&L: $-62.74. Left on table: $+3.69. Stock opened against thesis (-0.52%). Contract OTM at open, premium decayed.",
+    "pnl": -62.74,
+    "won": false
   },
   {
     "id": 53,
@@ -727,9 +733,12 @@
     "ticker": "TDTT",
     "type": "CALL",
     "trade_id": 53,
-    "title": "TDTT CALL \u2014 2026-11-19",
+    "title": "TDTT CALL \u2014 2026-11-19: Lost $64.03",
     "youtube_id": null,
     "images": [],
-    "published": true
+    "published": true,
+    "subtitle": "TDTT closed at $23.28 on 2026-11-19, ranking dollar_loser_1 with -0.17% ($-0.04). Strike $24.0 CALL exp 2026-11-20 (1DTE). IV at entry: 108.2%. Cost: $90.00. News scan: neutral \u2014 decision: sell. Sold at option value $0.2597 (stock open $23.31) at 2026-11-19 09:30:00-05:00. P&L: $-64.03. Left on table: $+0.00. Thesis did not play out. Gap: +0.13% (with_thesis). No single dominant factor.",
+    "pnl": -64.03,
+    "won": false
   }
 ]
