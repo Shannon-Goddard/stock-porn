@@ -1,42 +1,250 @@
 {
   "topGainers": [
     {
-      "ticker": "CNO",
-      "name": "CNO FINL GROUP INC COM",
+      "ticker": "SOXS",
+      "name": "DIREXION SHARES ETF TRUST DAI SEM 3X ETF",
       "sector": "Unknown",
-      "price": 55.02,
-      "changePct": -2.31,
-      "changeDollar": -1.3
+      "price": 84.32,
+      "changePct": 33.54,
+      "changeDollar": 21.18
+    },
+    {
+      "ticker": "SNDQ",
+      "name": "Tradr 2X Short SNDK Daily ETF",
+      "sector": "Unknown",
+      "price": 47.66,
+      "changePct": 32.76,
+      "changeDollar": 11.76
+    },
+    {
+      "ticker": "NVDQ",
+      "name": "T-Rex 2X Inverse NVIDIA Daily Target ETF",
+      "sector": "Unknown",
+      "price": 23.49,
+      "changePct": 28.85,
+      "changeDollar": 5.26
+    },
+    {
+      "ticker": "SKDD",
+      "name": "GRANITESHARES ETF TR 2X SRT SK HYNIX",
+      "sector": "Unknown",
+      "price": 15.73,
+      "changePct": 27.47,
+      "changeDollar": 3.39
+    },
+    {
+      "ticker": "SMST",
+      "name": "TIDAL TRUST II DEFI DA TA 2025",
+      "sector": "Unknown",
+      "price": 38.78,
+      "changePct": 18.52,
+      "changeDollar": 6.06
+    },
+    {
+      "ticker": "VIXY",
+      "name": "ProShares VIX Short-Term Futures ETF",
+      "sector": "Unknown",
+      "price": 26.73,
+      "changePct": 16.83,
+      "changeDollar": 3.85
+    },
+    {
+      "ticker": "TSLZ",
+      "name": "T-Rex 2X Inverse Tesla Daily Target ETF",
+      "sector": "Unknown",
+      "price": 11.56,
+      "changePct": 15.72,
+      "changeDollar": 1.57
+    },
+    {
+      "ticker": "SPCG",
+      "name": "Tradr 2X Short SpaceX Daily ETF",
+      "sector": "Unknown",
+      "price": 17.36,
+      "changePct": 15.5,
+      "changeDollar": 2.33
+    },
+    {
+      "ticker": "SSPC",
+      "name": "Leverage Shares 2X Short SPCX Daily ETF",
+      "sector": "Unknown",
+      "price": 10.0,
+      "changePct": 15.07,
+      "changeDollar": 1.31
+    },
+    {
+      "ticker": "AMDD",
+      "name": "DIREXION SHARES ETF TRUST DLY AMD BEAR 1X",
+      "sector": "Unknown",
+      "price": 28.24,
+      "changePct": 13.6,
+      "changeDollar": 3.38
     }
   ],
   "topLosers": [
     {
-      "ticker": "CNO",
-      "name": "CNO FINL GROUP INC COM",
+      "ticker": "AMDL",
+      "name": "GRANITESHARES ETF TR GRANITE 2X LONG",
       "sector": "Unknown",
-      "price": 55.02,
-      "changePct": -2.31,
-      "changeDollar": -1.3
+      "price": 30.91,
+      "changePct": -27.56,
+      "changeDollar": -11.76
+    },
+    {
+      "ticker": "TECL",
+      "name": "DIREXION SHARES ETF TRUST DA TE BU 3X ETF",
+      "sector": "Unknown",
+      "price": 91.42,
+      "changePct": -22.82,
+      "changeDollar": -27.03
+    },
+    {
+      "ticker": "TQQQ",
+      "name": "PROSHARES TR ULTRAPRO QQQ",
+      "sector": "Unknown",
+      "price": 40.51,
+      "changePct": -17.34,
+      "changeDollar": -8.5
+    },
+    {
+      "ticker": "SPAL",
+      "name": "GraniteShares 2x Long SpaceX Daily ETF",
+      "sector": "Unknown",
+      "price": 11.26,
+      "changePct": -15.53,
+      "changeDollar": -2.07
+    },
+    {
+      "ticker": "VOYG",
+      "name": "VOYAGER TECHNOLOGIES INC COM CL A",
+      "sector": "Unknown",
+      "price": 18.65,
+      "changePct": -15.3,
+      "changeDollar": -3.37
+    },
+    {
+      "ticker": "WSC",
+      "name": "WILLSCOT HLDGS CORP COM CL A",
+      "sector": "Unknown",
+      "price": 16.07,
+      "changePct": -14.75,
+      "changeDollar": -2.78
+    },
+    {
+      "ticker": "AGQ",
+      "name": "PROSHARES TR II ULTRA SILVER NEW",
+      "sector": "Unknown",
+      "price": 29.13,
+      "changePct": -14.45,
+      "changeDollar": -4.92
+    },
+    {
+      "ticker": "LASR",
+      "name": "NLIGHT INC COM",
+      "sector": "Unknown",
+      "price": 32.24,
+      "changePct": -14.44,
+      "changeDollar": -5.44
+    },
+    {
+      "ticker": "MU",
+      "name": "MICRON TECHNOLOGY INC COM",
+      "sector": "Unknown",
+      "price": 593.12,
+      "changePct": -14.1,
+      "changeDollar": -97.32
+    },
+    {
+      "ticker": "SKHY",
+      "name": "SK HYNIX INC AMERICAN DEPOSIT",
+      "sector": "Unknown",
+      "price": 102.57,
+      "changePct": -13.95,
+      "changeDollar": -16.63
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "CNO",
-      "name": "CNO FINL GROUP INC COM",
+      "ticker": "SOXS",
+      "name": "DIREXION SHARES ETF TRUST DAI SEM 3X ETF",
       "sector": "Unknown",
-      "price": 55.02,
-      "changePct": -2.31,
-      "changeDollar": -1.3
+      "price": 84.32,
+      "changePct": 33.54,
+      "changeDollar": 21.18
+    },
+    {
+      "ticker": "SNDQ",
+      "name": "Tradr 2X Short SNDK Daily ETF",
+      "sector": "Unknown",
+      "price": 47.66,
+      "changePct": 32.76,
+      "changeDollar": 11.76
+    },
+    {
+      "ticker": "SMST",
+      "name": "TIDAL TRUST II DEFI DA TA 2025",
+      "sector": "Unknown",
+      "price": 38.78,
+      "changePct": 18.52,
+      "changeDollar": 6.06
+    },
+    {
+      "ticker": "NVDQ",
+      "name": "T-Rex 2X Inverse NVIDIA Daily Target ETF",
+      "sector": "Unknown",
+      "price": 23.49,
+      "changePct": 28.85,
+      "changeDollar": 5.26
+    },
+    {
+      "ticker": "VIXY",
+      "name": "ProShares VIX Short-Term Futures ETF",
+      "sector": "Unknown",
+      "price": 26.73,
+      "changePct": 16.83,
+      "changeDollar": 3.85
     }
   ],
   "dollarLosers": [
     {
-      "ticker": "CNO",
-      "name": "CNO FINL GROUP INC COM",
+      "ticker": "MU",
+      "name": "MICRON TECHNOLOGY INC COM",
       "sector": "Unknown",
-      "price": 55.02,
-      "changePct": -2.31,
-      "changeDollar": -1.3
+      "price": 593.12,
+      "changePct": -14.1,
+      "changeDollar": -97.32
+    },
+    {
+      "ticker": "TECL",
+      "name": "DIREXION SHARES ETF TRUST DA TE BU 3X ETF",
+      "sector": "Unknown",
+      "price": 91.42,
+      "changePct": -22.82,
+      "changeDollar": -27.03
+    },
+    {
+      "ticker": "SKHY",
+      "name": "SK HYNIX INC AMERICAN DEPOSIT",
+      "sector": "Unknown",
+      "price": 102.57,
+      "changePct": -13.95,
+      "changeDollar": -16.63
+    },
+    {
+      "ticker": "AMDL",
+      "name": "GRANITESHARES ETF TR GRANITE 2X LONG",
+      "sector": "Unknown",
+      "price": 30.91,
+      "changePct": -27.56,
+      "changeDollar": -11.76
+    },
+    {
+      "ticker": "TQQQ",
+      "name": "PROSHARES TR ULTRAPRO QQQ",
+      "sector": "Unknown",
+      "price": 40.51,
+      "changePct": -17.34,
+      "changeDollar": -8.5
     }
   ]
 }
