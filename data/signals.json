@@ -1,186 +1,42 @@
 {
   "topGainers": [
     {
-      "ticker": "DXD",
-      "name": "PROSHARES TR PSHS ULDOW30 NEW",
+      "ticker": "CNO",
+      "name": "CNO FINL GROUP INC COM",
       "sector": "Unknown",
-      "price": 39.01,
-      "changePct": 108.72,
-      "changeDollar": 20.32
-    },
-    {
-      "ticker": "INSM",
-      "name": "INSMED INC COM PAR $.01",
-      "sector": "Unknown",
-      "price": 144.46,
-      "changePct": 20.58,
-      "changeDollar": 24.66
-    },
-    {
-      "ticker": "KRNT",
-      "name": "KORNIT DIGITAL LTD SHS",
-      "sector": "Unknown",
-      "price": 14.75,
-      "changePct": 15.51,
-      "changeDollar": 1.98
-    },
-    {
-      "ticker": "VIXY",
-      "name": "ProShares VIX Short-Term Futures ETF",
-      "sector": "Unknown",
-      "price": 22.88,
-      "changePct": 12.16,
-      "changeDollar": 2.48
-    },
-    {
-      "ticker": "IREZ",
-      "name": "Tradr 2X Short IREN Daily ETF",
-      "sector": "Unknown",
-      "price": 41.47,
-      "changePct": 10.94,
-      "changeDollar": 4.09
-    },
-    {
-      "ticker": "SQQQ",
-      "name": "PROSHARES TR ULTRAPRO SHORT",
-      "sector": "Unknown",
-      "price": 49.42,
-      "changePct": 6.62,
-      "changeDollar": 3.07
-    },
-    {
-      "ticker": "SRTY",
-      "name": "PROSHARES TR ULTRAPRO SHRT RU",
-      "sector": "Unknown",
-      "price": 30.53,
-      "changePct": 6.6,
-      "changeDollar": 1.89
-    },
-    {
-      "ticker": "URGN",
-      "name": "UROGEN PHARMA LTD COM",
-      "sector": "Unknown",
-      "price": 31.73,
-      "changePct": 6.51,
-      "changeDollar": 1.94
-    },
-    {
-      "ticker": "KOLD",
-      "name": "PROSHARES TR II ULSHT BLOOMB GAS",
-      "sector": "Unknown",
-      "price": 27.5,
-      "changePct": 6.47,
-      "changeDollar": 1.67
-    },
-    {
-      "ticker": "SPXS",
-      "name": "DIREXION SHARES ETF TRUST DA 500 BE 3X ETF",
-      "sector": "Unknown",
-      "price": 29.71,
-      "changePct": 5.96,
-      "changeDollar": 1.67
+      "price": 55.02,
+      "changePct": -2.31,
+      "changeDollar": -1.3
     }
   ],
   "topLosers": [
     {
-      "ticker": "LQDT",
-      "name": "LIQUIDITY SVCS INC COM",
+      "ticker": "CNO",
+      "name": "CNO FINL GROUP INC COM",
       "sector": "Unknown",
-      "price": 33.03,
-      "changePct": -24.88,
-      "changeDollar": -10.94
-    },
-    {
-      "ticker": "WSM",
-      "name": "WILLIAMS SONOMA INC COM",
-      "sector": "Unknown",
-      "price": 220.66,
-      "changePct": -15.16,
-      "changeDollar": -39.43
-    },
-    {
-      "ticker": "EFOR",
-      "name": "EVERFORTH INC COM",
-      "sector": "Unknown",
-      "price": 29.03,
-      "changePct": -10.12,
-      "changeDollar": -3.27
-    },
-    {
-      "ticker": "HYMC",
-      "name": "HYCROFT MINING HOLDING CORP CL A NEW",
-      "sector": "Unknown",
-      "price": 13.78,
-      "changePct": -9.64,
-      "changeDollar": -1.47
-    },
-    {
-      "ticker": "ZM",
-      "name": "ZOOM COMMUNICATIONS INC CL A",
-      "sector": "Unknown",
-      "price": 83.82,
-      "changePct": -9.56,
-      "changeDollar": -8.86
-    },
-    {
-      "ticker": "MSTU",
-      "name": "T-Rex 2X Long MSTR Daily Target ETF",
-      "sector": "Unknown",
-      "price": 11.16,
-      "changePct": -9.42,
-      "changeDollar": -1.16
-    },
-    {
-      "ticker": "PS",
-      "name": "PERSHING SQUARE INC COMMON STOCK",
-      "sector": "Unknown",
-      "price": 36.84,
-      "changePct": -9.26,
-      "changeDollar": -3.76
-    },
-    {
-      "ticker": "BKSY",
-      "name": "BLACKSKY TECHNOLOGY INC CL A NEW",
-      "sector": "Unknown",
-      "price": 18.79,
-      "changePct": -9.01,
-      "changeDollar": -1.86
-    },
-    {
-      "ticker": "ODD",
-      "name": "ODDITY TECH LTD SHS CL A",
-      "sector": "Unknown",
-      "price": 13.61,
-      "changePct": -8.53,
-      "changeDollar": -1.27
-    },
-    {
-      "ticker": "RHI",
-      "name": "ROBERT HALF INC. COM",
-      "sector": "Unknown",
-      "price": 37.45,
-      "changePct": -8.39,
-      "changeDollar": -3.43
+      "price": 55.02,
+      "changePct": -2.31,
+      "changeDollar": -1.3
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "INSM",
-      "name": "INSMED INC COM PAR $.01",
+      "ticker": "CNO",
+      "name": "CNO FINL GROUP INC COM",
       "sector": "Unknown",
-      "price": 144.46,
-      "changePct": 20.58,
-      "changeDollar": 24.66
+      "price": 55.02,
+      "changePct": -2.31,
+      "changeDollar": -1.3
     }
   ],
   "dollarLosers": [
     {
-      "ticker": "WSM",
-      "name": "WILLIAMS SONOMA INC COM",
+      "ticker": "CNO",
+      "name": "CNO FINL GROUP INC COM",
       "sector": "Unknown",
-      "price": 220.66,
-      "changePct": -15.16,
-      "changeDollar": -39.43
+      "price": 55.02,
+      "changePct": -2.31,
+      "changeDollar": -1.3
     }
   ]
 }
