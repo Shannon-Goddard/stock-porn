@@ -4187,20 +4187,17 @@
         "auto_note": "BLSH CALL | $-2.74 (-12.18%) | dollar_loser_1 | Strike $20.0 exp 2026-11-20 (3DTE) | IV 155.7% | SPY -1.31% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-11-19 22:20:00 PST",
-        "gap_days": 2,
+        "scanned_at": "2026-11-20 14:25:28 PST",
+        "gap_days": 3,
         "ticker_sentiment": "bullish",
-        "spy_sentiment": "bearish",
+        "spy_sentiment": "neutral",
         "spx_sentiment": "bearish",
         "keywords_found": [
           "buyback",
           "jumps"
         ],
-        "spy_keywords": [
-          "drops"
-        ],
+        "spy_keywords": [],
         "spx_keywords": [
-          "concern",
           "plunges"
         ],
         "decision": "hold",
@@ -4211,6 +4208,7 @@
         },
         "raw_headlines": {
           "ticker": [
+            "Bullish: 3 Key Takeaways for Long-Term Investors",
             "Why Bullish Stock Crushed it on Wednesday",
             "Bullish Q3 2026 Earnings Call Summary",
             "Bullish (BLSH) Q3 2026 Earnings Call Transcript",
@@ -4219,32 +4217,31 @@
             "Bullish Earnings Shine as It Moves Beyond Crypto Trading. A Deal and Buybacks Are in the Works.",
             "What Bullish (BLSH) Said on Its Q3 Earnings Call",
             "Anthropic trades crypto ahead of IPO launch, and Coinbase borrow covers all 50 states",
-            "Bullish shares jump over 9% after earnings beat and $300 million buyback authorization",
-            "Bullish Posts $576.3 Million Q3 Profit on Crypto Gains, Authorizes $300 Million Buyback"
+            "Bullish shares jump over 9% after earnings beat and $300 million buyback authorization"
           ],
           "spy": [
-            "$1,000 Invested in Eli Lilly 10 Years Ago Would Be Worth a Fortune Today",
-            "If You Have $1,000 to Invest Right Now, Here's the 1 ETF I'd Buy Without a Second Thought",
-            "Do Nvidia, Alphabet, Meta Drops Hurt Your Index Fund?",
-            "How a 68-Year-Old Collects $5,225 a Month From Just Three Tickers: VYM, DIVO, and ARCC",
-            "The Fed Just Warned About a Hidden $3 Trillion AI Risk. Here\u2019s How It Can Spread Beyond Tech Stocks",
-            "Peter Lynch Made \u201cGrowth at a Reasonable Price\u201d Famous. SPGP Runs the S&P 500 Through That Filter and Keeps 75 Stocks",
-            "Some Fed Officials Wanted to Hike in October. A Half-Point Hike Is on the Table.",
-            "$1 Million In QQQ Five Years Ago: What Is It Worth Now?",
-            "Why GM Stock's Gains Under Barra Outran Its Profit",
-            "ANT Marks Momentous Occasion for Wall Street"
+            "Exchange-Traded Funds, Equity Futures Fall Pre-Bell Friday Amid Continued AI Stock Selloff",
+            "The S&P 500 Just Had Its Biggest Reversal Since March 2020",
+            "SPDR S&P 500 ETF (SPY) Sells Apple and Microsoft on Nov. 18",
+            "ETFs Are Net Sellers of Johnson & Johnson (JNJ) on Wednesday",
+            "ETFs Are Net Sellers of JPMorgan Chase (JPM) on Nov. 18",
+            "ETFs Are Net Sellers of Broadcom (AVGO) on Nov. 18",
+            "ETFs Are Net Sellers of Chevron (CVX) on Nov. 18",
+            "ETFs Are Net Sellers of Alphabet (GOOGL) on Nov. 18",
+            "ETFs Are Net Sellers of Eli Lilly (LLY) on Nov. 18",
+            "ETFs Are Net Sellers of ExxonMobil (XOM) on Nov. 18"
           ],
           "spx": [
-            "Dow Jones Futures Fall After Ugly Market Reversal To New Lows; Anthropic IPO Debuts, AMD Dives",
-            "Anthropic Just Finished Its First Day as a Public Company. Five of the Six Biggest Tech IPOs Since Facebook Were Underwater Six Months After Theirs, and Elon Musk\u2019s SpaceX Is Following the Script",
-            "Stock Market Today, Nov. 19: Dow Plunges 1,100 Points as the S&P 500 Suffers Its 6th Straight Day of Losses",
-            "Trading Day: World's biggest IPO? Pfft",
-            "Is Indonesia Holding Back Freeport-McMoRan Stock?",
-            "Stocks fall as Anthropic debut fails to ease AI concerns; dollar rises",
-            "How major US stock indexes fared Thursday 11/19/2026",
-            "Stock Market Today: Dow Tanks 1,100 Points In Bearish Day Despite Anthropic IPO",
-            "Two Big Debuts Fail To Boost Stocks",
-            "Wall Street Wipes Out Early Gains As Dow Sinks 1,100 Points. Anthropic's $81 Billion IPO Fails To Lift Stocks."
+            "Anthropic's IPO ties the fate of the US economy closer to AI",
+            "Stock market today: Dow, S&P 500, Nasdaq futures continue to sell-off after Anthropic IPO fails to quell AI worries",
+            "Would Warren Buffett Buy Anthropic? This Is the One Question He'd Have",
+            "Rare Citi signal seen just 3 times since 2000 is days from triggering",
+            "Stock Market Today: Tech Futures Sell Off As Anthropic Plunges 10% After IPO (Live Coverage)",
+            "Exchange-Traded Funds, Equity Futures Fall Pre-Bell Friday Amid Continued AI Stock Selloff",
+            "Is TKO Stock Really Expensive?",
+            "2 questions will decide risk assets heading into 2027, BofA\u2019s Hartnett says",
+            "Anthropic stock sinks sharply, while S&P 500 hits worst losing streak since 2024",
+            "Update: US Equity Futures Drop Pre-Bell as Anthropic Shares Decline One Day After Debut"
           ]
         }
       },
@@ -4289,17 +4286,14 @@
         "auto_note": "WCN CALL | $-15.80 (-8.01%) | dollar_loser_1 | Strike $195.0 exp 2026-11-20 (2DTE) | IV 58.3% | SPY -1.01% | No macro triggers"
       },
       "news_scan": {
-        "scanned_at": "2026-11-19 22:20:00 PST",
-        "gap_days": 1,
+        "scanned_at": "2026-11-20 14:25:28 PST",
+        "gap_days": 2,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bearish",
+        "spy_sentiment": "neutral",
         "spx_sentiment": "bearish",
         "keywords_found": [],
-        "spy_keywords": [
-          "drops"
-        ],
+        "spy_keywords": [],
         "spx_keywords": [
-          "concern",
           "plunges"
         ],
         "decision": "sell",
@@ -4313,28 +4307,28 @@
             "Sector Update: Energy Stocks Softer Late Afternoon"
           ],
           "spy": [
-            "$1,000 Invested in Eli Lilly 10 Years Ago Would Be Worth a Fortune Today",
-            "If You Have $1,000 to Invest Right Now, Here's the 1 ETF I'd Buy Without a Second Thought",
-            "Do Nvidia, Alphabet, Meta Drops Hurt Your Index Fund?",
-            "How a 68-Year-Old Collects $5,225 a Month From Just Three Tickers: VYM, DIVO, and ARCC",
-            "The Fed Just Warned About a Hidden $3 Trillion AI Risk. Here\u2019s How It Can Spread Beyond Tech Stocks",
-            "Peter Lynch Made \u201cGrowth at a Reasonable Price\u201d Famous. SPGP Runs the S&P 500 Through That Filter and Keeps 75 Stocks",
-            "Some Fed Officials Wanted to Hike in October. A Half-Point Hike Is on the Table.",
-            "$1 Million In QQQ Five Years Ago: What Is It Worth Now?",
-            "Why GM Stock's Gains Under Barra Outran Its Profit",
-            "ANT Marks Momentous Occasion for Wall Street"
+            "Exchange-Traded Funds, Equity Futures Fall Pre-Bell Friday Amid Continued AI Stock Selloff",
+            "The S&P 500 Just Had Its Biggest Reversal Since March 2020",
+            "SPDR S&P 500 ETF (SPY) Sells Apple and Microsoft on Nov. 18",
+            "ETFs Are Net Sellers of Johnson & Johnson (JNJ) on Wednesday",
+            "ETFs Are Net Sellers of JPMorgan Chase (JPM) on Nov. 18",
+            "ETFs Are Net Sellers of Broadcom (AVGO) on Nov. 18",
+            "ETFs Are Net Sellers of Chevron (CVX) on Nov. 18",
+            "ETFs Are Net Sellers of Alphabet (GOOGL) on Nov. 18",
+            "ETFs Are Net Sellers of Eli Lilly (LLY) on Nov. 18",
+            "ETFs Are Net Sellers of ExxonMobil (XOM) on Nov. 18"
           ],
           "spx": [
-            "Dow Jones Futures Fall After Ugly Market Reversal To New Lows; Anthropic IPO Debuts, AMD Dives",
-            "Anthropic Just Finished Its First Day as a Public Company. Five of the Six Biggest Tech IPOs Since Facebook Were Underwater Six Months After Theirs, and Elon Musk\u2019s SpaceX Is Following the Script",
-            "Stock Market Today, Nov. 19: Dow Plunges 1,100 Points as the S&P 500 Suffers Its 6th Straight Day of Losses",
-            "Trading Day: World's biggest IPO? Pfft",
-            "Is Indonesia Holding Back Freeport-McMoRan Stock?",
-            "Stocks fall as Anthropic debut fails to ease AI concerns; dollar rises",
-            "How major US stock indexes fared Thursday 11/19/2026",
-            "Stock Market Today: Dow Tanks 1,100 Points In Bearish Day Despite Anthropic IPO",
-            "Two Big Debuts Fail To Boost Stocks",
-            "Wall Street Wipes Out Early Gains As Dow Sinks 1,100 Points. Anthropic's $81 Billion IPO Fails To Lift Stocks."
+            "Anthropic's IPO ties the fate of the US economy closer to AI",
+            "Stock market today: Dow, S&P 500, Nasdaq futures continue to sell-off after Anthropic IPO fails to quell AI worries",
+            "Would Warren Buffett Buy Anthropic? This Is the One Question He'd Have",
+            "Rare Citi signal seen just 3 times since 2000 is days from triggering",
+            "Stock Market Today: Tech Futures Sell Off As Anthropic Plunges 10% After IPO (Live Coverage)",
+            "Exchange-Traded Funds, Equity Futures Fall Pre-Bell Friday Amid Continued AI Stock Selloff",
+            "Is TKO Stock Really Expensive?",
+            "2 questions will decide risk assets heading into 2027, BofA\u2019s Hartnett says",
+            "Anthropic stock sinks sharply, while S&P 500 hits worst losing streak since 2024",
+            "Update: US Equity Futures Drop Pre-Bell as Anthropic Shares Decline One Day After Debut"
           ]
         }
       },
@@ -4383,17 +4377,14 @@
         "auto_note": "TDTT CALL | $-0.04 (-0.17%) | dollar_loser_1 | Strike $24.0 exp 2026-11-20 (1DTE) | IV 108.2% | SPY -0.31% | MACRO: fed, inflation, war"
       },
       "news_scan": {
-        "scanned_at": "2026-11-19 22:20:00 PST",
-        "gap_days": 0,
+        "scanned_at": "2026-11-20 14:25:28 PST",
+        "gap_days": 1,
         "ticker_sentiment": "neutral",
-        "spy_sentiment": "bearish",
+        "spy_sentiment": "neutral",
         "spx_sentiment": "bearish",
         "keywords_found": [],
-        "spy_keywords": [
-          "drops"
-        ],
+        "spy_keywords": [],
         "spx_keywords": [
-          "concern",
           "plunges"
         ],
         "decision": "sell",
@@ -4402,28 +4393,28 @@
         "raw_headlines": {
           "ticker": [],
           "spy": [
-            "$1,000 Invested in Eli Lilly 10 Years Ago Would Be Worth a Fortune Today",
-            "If You Have $1,000 to Invest Right Now, Here's the 1 ETF I'd Buy Without a Second Thought",
-            "Do Nvidia, Alphabet, Meta Drops Hurt Your Index Fund?",
-            "How a 68-Year-Old Collects $5,225 a Month From Just Three Tickers: VYM, DIVO, and ARCC",
-            "The Fed Just Warned About a Hidden $3 Trillion AI Risk. Here\u2019s How It Can Spread Beyond Tech Stocks",
-            "Peter Lynch Made \u201cGrowth at a Reasonable Price\u201d Famous. SPGP Runs the S&P 500 Through That Filter and Keeps 75 Stocks",
-            "Some Fed Officials Wanted to Hike in October. A Half-Point Hike Is on the Table.",
-            "$1 Million In QQQ Five Years Ago: What Is It Worth Now?",
-            "Why GM Stock's Gains Under Barra Outran Its Profit",
-            "ANT Marks Momentous Occasion for Wall Street"
+            "Exchange-Traded Funds, Equity Futures Fall Pre-Bell Friday Amid Continued AI Stock Selloff",
+            "The S&P 500 Just Had Its Biggest Reversal Since March 2020",
+            "SPDR S&P 500 ETF (SPY) Sells Apple and Microsoft on Nov. 18",
+            "ETFs Are Net Sellers of Johnson & Johnson (JNJ) on Wednesday",
+            "ETFs Are Net Sellers of JPMorgan Chase (JPM) on Nov. 18",
+            "ETFs Are Net Sellers of Broadcom (AVGO) on Nov. 18",
+            "ETFs Are Net Sellers of Chevron (CVX) on Nov. 18",
+            "ETFs Are Net Sellers of Alphabet (GOOGL) on Nov. 18",
+            "ETFs Are Net Sellers of Eli Lilly (LLY) on Nov. 18",
+            "ETFs Are Net Sellers of ExxonMobil (XOM) on Nov. 18"
           ],
           "spx": [
-            "Dow Jones Futures Fall After Ugly Market Reversal To New Lows; Anthropic IPO Debuts, AMD Dives",
-            "Anthropic Just Finished Its First Day as a Public Company. Five of the Six Biggest Tech IPOs Since Facebook Were Underwater Six Months After Theirs, and Elon Musk\u2019s SpaceX Is Following the Script",
-            "Stock Market Today, Nov. 19: Dow Plunges 1,100 Points as the S&P 500 Suffers Its 6th Straight Day of Losses",
-            "Trading Day: World's biggest IPO? Pfft",
-            "Is Indonesia Holding Back Freeport-McMoRan Stock?",
-            "Stocks fall as Anthropic debut fails to ease AI concerns; dollar rises",
-            "How major US stock indexes fared Thursday 11/19/2026",
-            "Stock Market Today: Dow Tanks 1,100 Points In Bearish Day Despite Anthropic IPO",
-            "Two Big Debuts Fail To Boost Stocks",
-            "Wall Street Wipes Out Early Gains As Dow Sinks 1,100 Points. Anthropic's $81 Billion IPO Fails To Lift Stocks."
+            "Anthropic's IPO ties the fate of the US economy closer to AI",
+            "Stock market today: Dow, S&P 500, Nasdaq futures continue to sell-off after Anthropic IPO fails to quell AI worries",
+            "Would Warren Buffett Buy Anthropic? This Is the One Question He'd Have",
+            "Rare Citi signal seen just 3 times since 2000 is days from triggering",
+            "Stock Market Today: Tech Futures Sell Off As Anthropic Plunges 10% After IPO (Live Coverage)",
+            "Exchange-Traded Funds, Equity Futures Fall Pre-Bell Friday Amid Continued AI Stock Selloff",
+            "Is TKO Stock Really Expensive?",
+            "2 questions will decide risk assets heading into 2027, BofA\u2019s Hartnett says",
+            "Anthropic stock sinks sharply, while S&P 500 hits worst losing streak since 2024",
+            "Update: US Equity Futures Drop Pre-Bell as Anthropic Shares Decline One Day After Debut"
           ]
         }
       },
