@@ -98,6 +98,73 @@
       "status": "open",
       "resolution": null,
       "linked_thesis_ids": []
+    },
+    {
+      "id": 2,
+      "written_date": "2026-11-23",
+      "resolve_by": "2027-01-18",
+      "sector": "Volatility",
+      "signal_etf": "VXX",
+      "direction": "bullish",
+      "thesis": "Sector rotation signal: Volatility. VXX +45.81% (1wk) / +44.65% (2wk) vs SPY. Options flow anomaly on VXX: 13.99x avg call volume. Top keywords this week: 'sellers', 'anthropic', 'futures', 'bullish', 'equity'. Direction: bullish. Top picks: UVXY (+79.4% wk), VIXY (+48.2% wk), SVXY (-19.4% wk).",
+      "evidence": {
+        "etf_week_return": 45.81,
+        "etf_two_week_return": 44.65,
+        "options_flow_ratio": 13.99,
+        "top_keywords": [
+          "sellers",
+          "anthropic",
+          "futures",
+          "bullish",
+          "equity",
+          "since",
+          "earnings",
+          "exchange",
+          "traded",
+          "funds"
+        ],
+        "spy_week_return": -8.56
+      },
+      "top_keywords": [
+        "sellers",
+        "anthropic",
+        "futures",
+        "bullish",
+        "equity",
+        "since",
+        "earnings",
+        "exchange",
+        "traded",
+        "funds"
+      ],
+      "picks": [
+        {
+          "ticker": "UVXY",
+          "direction": "bullish",
+          "price_at_prediction": 31.13,
+          "price_at_resolution": null,
+          "pct_change": null
+        },
+        {
+          "ticker": "VIXY",
+          "direction": "bullish",
+          "price_at_prediction": 25.95,
+          "price_at_resolution": null,
+          "pct_change": null
+        },
+        {
+          "ticker": "SVXY",
+          "direction": "bullish",
+          "price_at_prediction": 47.95,
+          "price_at_resolution": null,
+          "pct_change": null
+        }
+      ],
+      "status": "open",
+      "resolution": null,
+      "linked_thesis_ids": [
+        1
+      ]
     }
   ]
 }
