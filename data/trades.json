@@ -4625,7 +4625,66 @@
         "sector_etf_change": null,
         "auto_note": "CRWD CALL | $-20.47 (-8.92%) | dollar_loser_1 | Strike $225.0 exp 2026-11-27 (3DTE) | IV 54.7% | SPY -0.63% | MACRO: fed, rate hike, war"
       },
-      "news_scan": null,
+      "news_scan": {
+        "scanned_at": "2026-11-24 23:33:49 PST",
+        "gap_days": 0,
+        "ticker_sentiment": "bearish",
+        "spy_sentiment": "neutral",
+        "spx_sentiment": "bearish",
+        "keywords_found": [
+          "downgrade",
+          "downgraded"
+        ],
+        "spy_keywords": [],
+        "spx_keywords": [
+          "falls",
+          "weak"
+        ],
+        "decision": "sell",
+        "decision_reason": "bearish ticker sentiment \u2014 no confirmation for CALL thesis, sell at open",
+        "keyword_outcomes": {
+          "downgrade": null,
+          "downgraded": null
+        },
+        "raw_headlines": {
+          "ticker": [
+            "7 Firms Downgraded Zscaler After CrowdStrike\u2019s $43.9 Billion Deal. Is There Still Money to Make?",
+            "Dropbox (DBX) Stock Is Up 5.8% Today Without Company News",
+            "CrowdStrike\u2019s all-stock bid for Zscaler: deal structure shifts risk to target holders",
+            "Megadeals Are Back. Why More Takeovers Could Be Coming.",
+            "CrowdStrike and Zscaler deal makes sense to Jefferies at $43.9 billion",
+            "Could You Have Seen Palo Alto Networks' Run Coming?",
+            "CrowdStrike Stocks Move Lower as $43.9 Billion Zscaler Deal Value Shrinks",
+            "CrowdStrike (CRWD) Q3 2027 Earnings Call Transcript",
+            "Zscaler's Combination With CrowdStrike Makes Strategic Sense, RBC Says",
+            "Wedbush Just Named CrowdStrike a 'Top Stock to Buy'"
+          ],
+          "spy": [
+            "She Retires at 65 With a $900,000 All-Stock 401(k) as the S&P 500 Swings From Its Worst Week to Its Best Day Since April 2025. The 8.6% Drop Erases $77,400, and the Rebound Still Leaves Her $38,409 Short",
+            "Is Apple (AAPL) Above Fair Value As ETF Buying Returns?",
+            "5 Dividend Growth ETFs to Buy",
+            "Here\u2019s How Quickly NVIDIA Could Reach $200 Following Jensen Huang\u2019s Reinstatement as CEO",
+            "Hashed and Nurihaus Bring U.S. Beauty Investors to Brooklyn for K-Beauty Investor Day",
+            "Stock Market Today: Jensen\u2019s Return to Nvidia Is Causing Index Indigestion",
+            "Bessent Warns the Fed Could Be Making a \u201cPolicy Mistake\u201d if It Over-Tightens",
+            "If Anthropic Does This It Could Reach $130 By Year End",
+            "Bill Ackman Says the Fed Is \u201cAbout to Make Another Mistake\u201d on Dec. 9",
+            "Did Nvidia's Rebound Make VOO Owners Whole?"
+          ],
+          "spx": [
+            "Wall Street's 2027 earnings hopes may be dead on arrival unless the Fed blinks in December",
+            "Why AMD Stock Fell Today",
+            "Dow Jones Futures Fall: Nvidia, Anthropic Lead AI Retreat But Many Sectors Strong; Fed Inflation Data Due",
+            "Why Intel Stock Fell Today",
+            "Morgan Stanley sends a strong signal on where stocks are headed",
+            "US stocks slide as Nvidia rally fizzles out, dollar falls",
+            "Update: US Equity Indexes Mixed as Investors Rotate into Defensives Amid Weakening AI Trade",
+            "Suze Orman warns retirees against one costly stock market mistake",
+            "3 Cybersecurity ETFs to Buy and Hold for the Security Spending Boom",
+            "Wall Street's $1.4 Trillion Bubble May Be on the Verge of Bursting -- but It's Not Artificial Intelligence (AI)"
+          ]
+        }
+      },
       "exit": null,
       "fomo": null,
       "post_mortem": null,
