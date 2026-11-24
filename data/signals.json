@@ -1,270 +1,310 @@
 {
   "topGainers": [
     {
-      "ticker": "NVD",
-      "name": "GRANITESHARES ETF TR 2X SHOR NVDA NEW",
+      "ticker": "SKUU",
+      "name": "GRANITESHARES ETF TR 2X LNG SK HYNIX",
       "sector": "Unknown",
       "sector_etf": null,
-      "price": 10.45,
-      "changePct": 27.59,
-      "changeDollar": 2.26,
-      "signal_first_appeared": "2026-11-21 01:00:53 UTC"
+      "price": 10.74,
+      "changePct": 39.48,
+      "changeDollar": 3.04,
+      "signal_first_appeared": "2026-11-24 00:46:01 UTC"
     },
     {
-      "ticker": "TECS",
-      "name": "DIREXION SHARES ETF TRUST DA TE BE 3X ETF",
+      "ticker": "HYNX",
+      "name": "ETF OPPORTUNITIES TRUST T-REX 2X LONG SK",
       "sector": "Unknown",
       "sector_etf": null,
-      "price": 104.28,
-      "changePct": 21.92,
-      "changeDollar": 18.75,
-      "signal_first_appeared": "2026-11-21 01:00:53 UTC"
+      "price": 10.62,
+      "changePct": 39.37,
+      "changeDollar": 3.0,
+      "signal_first_appeared": "2026-11-24 00:46:01 UTC"
     },
     {
-      "ticker": "SMST",
-      "name": "TIDAL TRUST II DEFI DA TA 2025",
-      "sector": "Unknown",
-      "sector_etf": null,
-      "price": 38.76,
-      "changePct": 18.46,
-      "changeDollar": 6.04,
-      "signal_first_appeared": "2026-11-21 01:00:54 UTC"
-    },
-    {
-      "ticker": "VIXY",
-      "name": "ProShares VIX Short-Term Futures ETF",
-      "sector": "Unknown",
-      "sector_etf": null,
-      "price": 25.95,
-      "changePct": 13.42,
-      "changeDollar": 3.07,
-      "signal_first_appeared": "2026-11-21 01:00:54 UTC"
-    },
-    {
-      "ticker": "JDST",
-      "name": "DIREXION SHARES ETF TRUST DAILY JUNIOR GOL",
-      "sector": "Unknown",
-      "sector_etf": null,
-      "price": 43.52,
-      "changePct": 10.85,
-      "changeDollar": 4.26,
-      "signal_first_appeared": "2026-11-21 01:00:53 UTC"
-    },
-    {
-      "ticker": "GPN",
-      "name": "GLOBAL PMTS INC COM",
-      "sector": "Unknown",
-      "sector_etf": null,
-      "price": 91.83,
-      "changePct": 9.95,
-      "changeDollar": 8.31,
-      "signal_first_appeared": "2026-11-21 01:00:53 UTC"
-    },
-    {
-      "ticker": "UNHG",
+      "ticker": "BEG",
       "name": "THEMES ETF TR LEVERAGE SHS 2X",
       "sector": "Unknown",
       "sector_etf": null,
-      "price": 13.9,
-      "changePct": 5.62,
-      "changeDollar": 0.74,
-      "signal_first_appeared": "2026-11-21 01:00:54 UTC"
+      "price": 14.28,
+      "changePct": 35.48,
+      "changeDollar": 3.74,
+      "signal_first_appeared": "2026-11-24 00:46:02 UTC"
     },
     {
-      "ticker": "YANG",
-      "name": "DIREXION SHARES ETF TRUST DAI FTS BEA ETF",
+      "ticker": "AXTI",
+      "name": "AXT INC COM",
       "sector": "Unknown",
       "sector_etf": null,
-      "price": 40.76,
-      "changePct": 5.54,
-      "changeDollar": 2.14,
-      "signal_first_appeared": "2026-11-21 01:00:53 UTC"
+      "price": 38.02,
+      "changePct": 24.37,
+      "changeDollar": 7.45,
+      "signal_first_appeared": "2026-11-24 00:46:01 UTC"
     },
     {
-      "ticker": "TAIL",
-      "name": "Cambria Tail Risk ETF",
+      "ticker": "IREN",
+      "name": "IREN LIMITED ORDINARY SHARES",
       "sector": "Unknown",
       "sector_etf": null,
-      "price": 10.95,
-      "changePct": 4.89,
-      "changeDollar": 0.51,
-      "signal_first_appeared": "2026-11-21 01:00:53 UTC"
+      "price": 14.64,
+      "changePct": 23.86,
+      "changeDollar": 2.82,
+      "signal_first_appeared": "2026-11-24 00:46:01 UTC"
     },
     {
-      "ticker": "TNDM",
-      "name": "TANDEM DIABETES CARE INC COM NEW",
+      "ticker": "ALAB",
+      "name": "ASTERA LABS INC COM",
       "sector": "Unknown",
       "sector_etf": null,
-      "price": 17.46,
-      "changePct": 3.93,
-      "changeDollar": 0.66,
-      "signal_first_appeared": "2026-11-21 01:00:54 UTC"
-    }
-  ],
-  "topLosers": [
-    {
-      "ticker": "TECL",
-      "name": "DIREXION SHARES ETF TRUST DA TE BU 3X ETF",
-      "sector": "Unknown",
-      "sector_etf": null,
-      "price": 92.99,
-      "changePct": -21.49,
-      "changeDollar": -25.45,
-      "signal_first_appeared": "2026-11-21 01:00:53 UTC"
+      "price": 222.12,
+      "changePct": 23.16,
+      "changeDollar": 41.77,
+      "signal_first_appeared": "2026-11-24 00:46:01 UTC"
     },
     {
-      "ticker": "TQQQ",
-      "name": "PROSHARES TR ULTRAPRO QQQ",
+      "ticker": "TSLT",
+      "name": "T-Rex 2X Long Tesla Daily Target ETF",
       "sector": "Unknown",
       "sector_etf": null,
-      "price": 41.2,
-      "changePct": -15.94,
-      "changeDollar": -7.81,
-      "signal_first_appeared": "2026-11-21 01:00:54 UTC"
+      "price": 13.84,
+      "changePct": 22.59,
+      "changeDollar": 2.55,
+      "signal_first_appeared": "2026-11-24 00:46:02 UTC"
     },
     {
-      "ticker": "BE",
-      "name": "BLOOM ENERGY CORP COM CL A",
+      "ticker": "DELL",
+      "name": "DELL TECHNOLOGIES INC CL C",
       "sector": "Unknown",
       "sector_etf": null,
-      "price": 142.39,
-      "changePct": -15.3,
-      "changeDollar": -25.72,
-      "signal_first_appeared": "2026-11-21 01:00:53 UTC"
-    },
-    {
-      "ticker": "CORZ",
-      "name": "CORE SCIENTIFIC INC NEW COM",
-      "sector": "Unknown",
-      "sector_etf": null,
-      "price": 11.33,
-      "changePct": -15.19,
-      "changeDollar": -2.03,
-      "signal_first_appeared": "2026-11-21 01:00:53 UTC"
-    },
-    {
-      "ticker": "LOFF",
-      "name": "DIREXION SHARES ETF TRUST DLY SPCX BULL 2X",
-      "sector": "Unknown",
-      "sector_etf": null,
-      "price": 11.09,
-      "changePct": -15.08,
-      "changeDollar": -1.97,
-      "signal_first_appeared": "2026-11-21 01:00:53 UTC"
-    },
-    {
-      "ticker": "NCLD",
-      "name": "ROUNDHILL ETF TRUST NEOCLOUD ETF",
-      "sector": "Unknown",
-      "sector_etf": null,
-      "price": 10.15,
-      "changePct": -14.2,
-      "changeDollar": -1.68,
-      "signal_first_appeared": "2026-11-21 01:00:54 UTC"
-    },
-    {
-      "ticker": "SMTC",
-      "name": "SEMTECH CORP COM",
-      "sector": "Unknown",
-      "sector_etf": null,
-      "price": 87.63,
-      "changePct": -13.93,
-      "changeDollar": -14.18,
-      "signal_first_appeared": "2026-11-21 01:00:54 UTC"
-    },
-    {
-      "ticker": "SVIX",
-      "name": "-1x Short VIX Futures ETF",
-      "sector": "Unknown",
-      "sector_etf": null,
-      "price": 15.38,
-      "changePct": -13.79,
-      "changeDollar": -2.46,
-      "signal_first_appeared": "2026-11-21 01:00:53 UTC"
-    },
-    {
-      "ticker": "PLTU",
-      "name": "DIREXION SHARES ETF TRUST DLY PLTR BULL 2X",
-      "sector": "Unknown",
-      "sector_etf": null,
-      "price": 30.98,
-      "changePct": -13.78,
-      "changeDollar": -4.95,
-      "signal_first_appeared": "2026-11-21 01:00:53 UTC"
+      "price": 334.91,
+      "changePct": 20.46,
+      "changeDollar": 56.89,
+      "signal_first_appeared": "2026-11-24 00:46:01 UTC"
     },
     {
       "ticker": "SKHY",
       "name": "SK HYNIX INC AMERICAN DEPOSIT",
       "sector": "Unknown",
       "sector_etf": null,
-      "price": 103.57,
-      "changePct": -13.11,
-      "changeDollar": -15.63,
-      "signal_first_appeared": "2026-11-21 01:00:54 UTC"
+      "price": 124.28,
+      "changePct": 20.0,
+      "changeDollar": 20.71,
+      "signal_first_appeared": "2026-11-24 00:46:02 UTC"
+    },
+    {
+      "ticker": "LYTE",
+      "name": "Roundhill Photonics & Optics ETF",
+      "sector": "Unknown",
+      "sector_etf": null,
+      "price": 14.59,
+      "changePct": 19.98,
+      "changeDollar": 2.43,
+      "signal_first_appeared": "2026-11-24 00:46:01 UTC"
+    }
+  ],
+  "topLosers": [
+    {
+      "ticker": "IREZ",
+      "name": "Tradr 2X Short IREN Daily ETF",
+      "sector": "Unknown",
+      "sector_etf": null,
+      "price": 29.74,
+      "changePct": -47.41,
+      "changeDollar": -26.81,
+      "signal_first_appeared": "2026-11-24 00:46:02 UTC"
+    },
+    {
+      "ticker": "EDZ",
+      "name": "DIREXION SHARES ETF TRUST DAI MAR BEA ETF",
+      "sector": "Unknown",
+      "sector_etf": null,
+      "price": 20.25,
+      "changePct": -22.09,
+      "changeDollar": -5.74,
+      "signal_first_appeared": "2026-11-24 00:46:01 UTC"
+    },
+    {
+      "ticker": "SKHZ",
+      "name": "Leverage Shares 1X Short SK Hynix Daily ETF",
+      "sector": "Unknown",
+      "sector_etf": null,
+      "price": 12.14,
+      "changePct": -19.92,
+      "changeDollar": -3.02,
+      "signal_first_appeared": "2026-11-24 00:46:01 UTC"
+    },
+    {
+      "ticker": "SPXS",
+      "name": "DIREXION SHARES ETF TRUST DA 500 BE 3X ETF",
+      "sector": "Unknown",
+      "sector_etf": null,
+      "price": 28.32,
+      "changePct": -13.92,
+      "changeDollar": -4.58,
+      "signal_first_appeared": "2026-11-24 00:46:01 UTC"
+    },
+    {
+      "ticker": "TZA",
+      "name": "DIREXION SHARES ETF TRUST DAILY SMALL CAP",
+      "sector": "Unknown",
+      "sector_etf": null,
+      "price": 52.72,
+      "changePct": -10.2,
+      "changeDollar": -5.99,
+      "signal_first_appeared": "2026-11-24 00:46:01 UTC"
+    },
+    {
+      "ticker": "SRTY",
+      "name": "PROSHARES TR ULTRAPRO SHRT RU",
+      "sector": "Unknown",
+      "sector_etf": null,
+      "price": 29.74,
+      "changePct": -10.12,
+      "changeDollar": -3.35,
+      "signal_first_appeared": "2026-11-24 00:46:01 UTC"
+    },
+    {
+      "ticker": "SPCQ",
+      "name": "Defiance Daily Target 2X Short SPCX ETF",
+      "sector": "Unknown",
+      "sector_etf": null,
+      "price": 10.47,
+      "changePct": -9.59,
+      "changeDollar": -1.11,
+      "signal_first_appeared": "2026-11-24 00:46:01 UTC"
+    },
+    {
+      "ticker": "CRWD",
+      "name": "CROWDSTRIKE HLDGS INC CL A",
+      "sector": "Unknown",
+      "sector_etf": null,
+      "price": 208.97,
+      "changePct": -8.92,
+      "changeDollar": -20.47,
+      "signal_first_appeared": "2026-11-24 00:46:01 UTC"
+    },
+    {
+      "ticker": "SPCG",
+      "name": "Tradr 2X Short SpaceX Daily ETF",
+      "sector": "Unknown",
+      "sector_etf": null,
+      "price": 15.81,
+      "changePct": -8.77,
+      "changeDollar": -1.52,
+      "signal_first_appeared": "2026-11-24 00:46:02 UTC"
+    },
+    {
+      "ticker": "AMDD",
+      "name": "DIREXION SHARES ETF TRUST DLY AMD BEAR 1X",
+      "sector": "Unknown",
+      "sector_etf": null,
+      "price": 26.2,
+      "changePct": -6.96,
+      "changeDollar": -1.96,
+      "signal_first_appeared": "2026-11-24 00:46:01 UTC"
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "TECS",
-      "name": "DIREXION SHARES ETF TRUST DA TE BE 3X ETF",
+      "ticker": "DELL",
+      "name": "DELL TECHNOLOGIES INC CL C",
       "sector": "Unknown",
       "sector_etf": null,
-      "price": 104.28,
-      "changePct": 21.92,
-      "changeDollar": 18.75,
-      "signal_first_appeared": "2026-11-21 01:00:53 UTC"
+      "price": 334.91,
+      "changePct": 20.46,
+      "changeDollar": 56.89,
+      "signal_first_appeared": "2026-11-24 00:46:01 UTC"
     },
     {
-      "ticker": "GPN",
-      "name": "GLOBAL PMTS INC COM",
+      "ticker": "ALAB",
+      "name": "ASTERA LABS INC COM",
       "sector": "Unknown",
       "sector_etf": null,
-      "price": 91.83,
-      "changePct": 9.95,
-      "changeDollar": 8.31,
-      "signal_first_appeared": "2026-11-21 01:00:53 UTC"
+      "price": 222.12,
+      "changePct": 23.16,
+      "changeDollar": 41.77,
+      "signal_first_appeared": "2026-11-24 00:46:01 UTC"
     },
     {
-      "ticker": "SMST",
-      "name": "TIDAL TRUST II DEFI DA TA 2025",
+      "ticker": "SKHY",
+      "name": "SK HYNIX INC AMERICAN DEPOSIT",
       "sector": "Unknown",
       "sector_etf": null,
-      "price": 38.76,
-      "changePct": 18.46,
-      "changeDollar": 6.04,
-      "signal_first_appeared": "2026-11-21 01:00:54 UTC"
+      "price": 124.28,
+      "changePct": 20.0,
+      "changeDollar": 20.71,
+      "signal_first_appeared": "2026-11-24 00:46:02 UTC"
     },
     {
-      "ticker": "JDST",
-      "name": "DIREXION SHARES ETF TRUST DAILY JUNIOR GOL",
+      "ticker": "AXTI",
+      "name": "AXT INC COM",
       "sector": "Unknown",
       "sector_etf": null,
-      "price": 43.52,
-      "changePct": 10.85,
-      "changeDollar": 4.26,
-      "signal_first_appeared": "2026-11-21 01:00:53 UTC"
+      "price": 38.02,
+      "changePct": 24.37,
+      "changeDollar": 7.45,
+      "signal_first_appeared": "2026-11-24 00:46:01 UTC"
     },
     {
-      "ticker": "VIXY",
-      "name": "ProShares VIX Short-Term Futures ETF",
+      "ticker": "BEG",
+      "name": "THEMES ETF TR LEVERAGE SHS 2X",
       "sector": "Unknown",
       "sector_etf": null,
-      "price": 25.95,
-      "changePct": 13.42,
-      "changeDollar": 3.07,
-      "signal_first_appeared": "2026-11-21 01:00:54 UTC"
+      "price": 14.28,
+      "changePct": 35.48,
+      "changeDollar": 3.74,
+      "signal_first_appeared": "2026-11-24 00:46:02 UTC"
     }
   ],
   "dollarLosers": [
     {
-      "ticker": "TQQQ",
-      "name": "PROSHARES TR ULTRAPRO QQQ",
+      "ticker": "IREZ",
+      "name": "Tradr 2X Short IREN Daily ETF",
       "sector": "Unknown",
       "sector_etf": null,
-      "price": 41.2,
-      "changePct": -15.94,
-      "changeDollar": -7.81,
-      "signal_first_appeared": "2026-11-21 01:00:54 UTC"
+      "price": 29.74,
+      "changePct": -47.41,
+      "changeDollar": -26.81,
+      "signal_first_appeared": "2026-11-24 00:46:02 UTC"
+    },
+    {
+      "ticker": "CRWD",
+      "name": "CROWDSTRIKE HLDGS INC CL A",
+      "sector": "Unknown",
+      "sector_etf": null,
+      "price": 208.97,
+      "changePct": -8.92,
+      "changeDollar": -20.47,
+      "signal_first_appeared": "2026-11-24 00:46:01 UTC"
+    },
+    {
+      "ticker": "TZA",
+      "name": "DIREXION SHARES ETF TRUST DAILY SMALL CAP",
+      "sector": "Unknown",
+      "sector_etf": null,
+      "price": 52.72,
+      "changePct": -10.2,
+      "changeDollar": -5.99,
+      "signal_first_appeared": "2026-11-24 00:46:01 UTC"
+    },
+    {
+      "ticker": "EDZ",
+      "name": "DIREXION SHARES ETF TRUST DAI MAR BEA ETF",
+      "sector": "Unknown",
+      "sector_etf": null,
+      "price": 20.25,
+      "changePct": -22.09,
+      "changeDollar": -5.74,
+      "signal_first_appeared": "2026-11-24 00:46:01 UTC"
+    },
+    {
+      "ticker": "SPXS",
+      "name": "DIREXION SHARES ETF TRUST DA 500 BE 3X ETF",
+      "sector": "Unknown",
+      "sector_etf": null,
+      "price": 28.32,
+      "changePct": -13.92,
+      "changeDollar": -4.58,
+      "signal_first_appeared": "2026-11-24 00:46:01 UTC"
     }
   ]
 }
