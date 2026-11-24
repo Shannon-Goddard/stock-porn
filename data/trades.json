@@ -9,8 +9,8 @@
       4
     ]
   },
-  "balance": -2985.54,
-  "clean_balance": -2858.8,
+  "balance": -3025.72,
+  "clean_balance": -2898.98,
   "starting_balance": 0.0,
   "first_trade_date": "2026-08-24",
   "trades": [
@@ -4583,7 +4583,7 @@
     },
     {
       "id": 54,
-      "status": "open",
+      "status": "closed",
       "entry": {
         "date": "2026-11-24",
         "time": "15:55 PST",
@@ -4643,8 +4643,8 @@
         "decision": "sell",
         "decision_reason": "bearish ticker sentiment \u2014 no confirmation for CALL thesis, sell at open",
         "keyword_outcomes": {
-          "downgrade": null,
-          "downgraded": null
+          "downgrade": "loss",
+          "downgraded": "loss"
         },
         "raw_headlines": {
           "ticker": [
@@ -4685,9 +4685,63 @@
           ]
         }
       },
-      "exit": null,
-      "fomo": null,
-      "post_mortem": null,
+      "exit": {
+        "date": "2026-11-24",
+        "time": "2026-11-24 09:30:00-05:00",
+        "stock_open_price": 210.53,
+        "sell_option_price": 0.4582,
+        "sell_contract_value": 45.82,
+        "sell_trigger": "sell_at_open",
+        "gap_direction": "with_thesis",
+        "gap_pct": 0.75,
+        "pnl": -40.18
+      },
+      "fomo": {
+        "sell_contract_value": 45.82,
+        "sell_pnl": -40.18,
+        "theta_burned_at_sell": -0.0,
+        "theta_per_min": -0.06158,
+        "day_high": {
+          "stock_price": 215.49,
+          "time": "2026-11-24 09:37:00-05:00",
+          "bs_contract_value": 116.39,
+          "theoretical_pnl": 30.39
+        },
+        "day_low": {
+          "stock_price": 209.5195,
+          "time": "2026-11-24 09:40:00-05:00",
+          "bs_contract_value": 36.3,
+          "theoretical_pnl": -49.7
+        },
+        "best_case": {
+          "value": 116.39,
+          "pnl": 30.39,
+          "time": "2026-11-24 09:37:00-05:00"
+        },
+        "worst_case": {
+          "value": 36.3,
+          "pnl": -49.7,
+          "time": "2026-11-24 09:40:00-05:00"
+        },
+        "left_on_table": 70.57,
+        "theta_note": "3DTE: Theta minimal at open, stock direction dominates. Est. $0.00 burned"
+      },
+      "post_mortem": {
+        "generated_at": "2026-11-24 23:35:18 UTC",
+        "outcome": "loss",
+        "pnl": -40.18,
+        "primary_reason": "Strike outside 1sigma expected move \u2014 needed outsized gap that didn't materialize.",
+        "factors": [
+          "gap_confirmed_thesis (+0.75%)",
+          "strike_outside_expected_move",
+          "news_decision_sell_correct",
+          "keywords_fired: downgrade, downgraded",
+          "macro_active: fed, rate hike, war",
+          "left_on_table: $+70.57 (+82.1% of cost)",
+          "spy_day: -0.63%"
+        ],
+        "ai_notes": null
+      },
       "ai_notes": null
     }
   ]

@@ -1,15 +1,15 @@
 {
-  "last_updated": "2026-11-20 14:31:28 UTC",
-  "clean_balance": -2858.8,
+  "last_updated": "2026-11-24 23:35:18 UTC",
+  "clean_balance": -2898.98,
   "overall": {
-    "total_trades": 53,
+    "total_trades": 54,
     "wins": 6,
-    "losses": 47,
-    "win_rate": 11.3,
-    "avg_pnl": -56.33,
-    "total_pnl": -2985.54,
+    "losses": 48,
+    "win_rate": 11.1,
+    "avg_pnl": -56.03,
+    "total_pnl": -3025.72,
     "starting_balance": 0.0,
-    "current_balance": -2985.54
+    "current_balance": -3025.72
   },
   "by_day_of_week": {
     "Monday": {
@@ -18,9 +18,9 @@
       "avg_pnl": 4.66
     },
     "Tuesday": {
-      "trades": 12,
+      "trades": 13,
       "wins": 2,
-      "avg_pnl": -53.23
+      "avg_pnl": -52.23
     },
     "Wednesday": {
       "trades": 9,
@@ -65,9 +65,9 @@
       "avg_pnl": -45.26
     },
     "Unknown": {
-      "trades": 49,
+      "trades": 50,
       "wins": 5,
-      "avg_pnl": -58.34
+      "avg_pnl": -57.98
     }
   },
   "by_signal_rank": {
@@ -77,9 +77,9 @@
       "avg_pnl": -56.38
     },
     "dollar_loser_1": {
-      "trades": 23,
+      "trades": 24,
       "wins": 2,
-      "avg_pnl": -56.25
+      "avg_pnl": -55.58
     }
   },
   "spy_correlation": {
@@ -89,21 +89,21 @@
       "call_wins": 0
     },
     "spy_down_days": {
-      "trades": 44,
+      "trades": 45,
       "put_wins": 3,
       "call_wins": 3
     }
   },
   "fomo": {
-    "avg_left_on_table": -8297.77,
+    "avg_left_on_table": -7917.39,
     "hold_trades": 8,
     "hold_avg_pnl": -37.99,
-    "sell_at_open_trades": 13,
-    "sell_at_open_avg_pnl": -11.13
+    "sell_at_open_trades": 14,
+    "sell_at_open_avg_pnl": -13.2
   },
   "iv_crush": {
-    "samples": 52,
-    "avg_iv_at_entry": 0.8591,
+    "samples": 53,
+    "avg_iv_at_entry": 0.8532,
     "avg_iv_at_open": 0.0,
     "avg_crush_dollars": 0.0
   },
@@ -113,8 +113,8 @@
       "correct": 2
     },
     "bearish": {
-      "fired": 0,
-      "correct": 0
+      "fired": 1,
+      "correct": 1
     },
     "neutral": {
       "fired": 40,
@@ -123,7 +123,7 @@
   },
   "methodology_score": {
     "spy_layer": {
-      "predictions": 53,
+      "predictions": 54,
       "correct": 3
     },
     "sector_layer": {
@@ -131,8 +131,8 @@
       "correct": 0
     },
     "keyword_layer": {
-      "predictions": 49,
-      "correct": 39
+      "predictions": 50,
+      "correct": 40
     },
     "iv_layer": {
       "predictions": 0,
@@ -153,7 +153,7 @@
           "wins": 2
         },
         "outside": {
-          "trades": 29,
+          "trades": 30,
           "wins": 1
         }
       }
@@ -163,7 +163,7 @@
       "min_sample": 20,
       "buckets": {
         "with_thesis": {
-          "trades": 8,
+          "trades": 9,
           "wins": 4
         },
         "against_thesis": {
@@ -181,11 +181,11 @@
       "min_sample": 10,
       "buckets": {
         "war": {
-          "trades": 14,
+          "trades": 15,
           "wins": 2
         },
         "rate hike": {
-          "trades": 8,
+          "trades": 9,
           "wins": 0
         },
         "china": {
@@ -193,7 +193,7 @@
           "wins": 0
         },
         "fed": {
-          "trades": 9,
+          "trades": 10,
           "wins": 2
         },
         "tariff": {
@@ -219,7 +219,7 @@
           "wins": 1
         },
         "2_3dte": {
-          "trades": 21,
+          "trades": 22,
           "wins": 3
         },
         "4dte_plus": {

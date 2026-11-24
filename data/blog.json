@@ -747,9 +747,12 @@
     "ticker": "CRWD",
     "type": "CALL",
     "trade_id": 54,
-    "title": "CRWD CALL \u2014 2026-11-24",
+    "title": "CRWD CALL \u2014 2026-11-24: Lost $40.18",
     "youtube_id": null,
     "images": [],
-    "published": true
+    "published": true,
+    "subtitle": "CRWD closed at $208.97 on 2026-11-24, ranking dollar_loser_1 with -8.92% ($-20.47). Strike $225.0 CALL exp 2026-11-27 (3DTE). IV at entry: 54.7%. Cost: $86.00. News scan: bearish \u2014 decision: sell. Sold at option value $0.4582 (stock open $210.53) at 2026-11-24 09:30:00-05:00. P&L: $-40.18. Left on table: $+70.57. Strike outside 1sigma expected move \u2014 needed outsized gap that didn't materialize.",
+    "pnl": -40.18,
+    "won": false
   }
 ]
