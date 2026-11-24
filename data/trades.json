@@ -4580,6 +4580,56 @@
         "ai_notes": null
       },
       "ai_notes": null
+    },
+    {
+      "id": 54,
+      "status": "open",
+      "entry": {
+        "date": "2026-11-24",
+        "time": "15:55 PST",
+        "ticker": "CRWD",
+        "name": "CROWDSTRIKE HLDGS INC CL A",
+        "sector": "Unknown",
+        "type": "CALL",
+        "strike": 225.0,
+        "expiration": "2026-11-27",
+        "dte_at_entry": 3,
+        "T_at_entry": 0.008219,
+        "stock_price_at_entry": 208.97,
+        "premium": 0.86,
+        "cost": 86.0,
+        "bid": 0.76,
+        "spread": 0.1,
+        "iv_at_entry": 0.5469,
+        "otm_pct": 7.67,
+        "expected_move": {
+          "one_sigma_pct": 4.96,
+          "upper": 219.33,
+          "lower": 198.61,
+          "strike_position": "outside"
+        },
+        "signal_rank": "dollar_loser_1",
+        "signal_pct": -8.92,
+        "signal_dollar": -20.47,
+        "signal_first_appeared": "2026-11-24 04:32:21 UTC",
+        "spy_change": -0.63,
+        "macro_active": true,
+        "macro_keywords": [
+          "fed",
+          "rate hike",
+          "war"
+        ],
+        "iv_rank": 0.491,
+        "volume_ratio": 1.37,
+        "sector_etf": null,
+        "sector_etf_change": null,
+        "auto_note": "CRWD CALL | $-20.47 (-8.92%) | dollar_loser_1 | Strike $225.0 exp 2026-11-27 (3DTE) | IV 54.7% | SPY -0.63% | MACRO: fed, rate hike, war"
+      },
+      "news_scan": null,
+      "exit": null,
+      "fomo": null,
+      "post_mortem": null,
+      "ai_notes": null
     }
   ]
 }

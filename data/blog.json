@@ -740,5 +740,16 @@
     "subtitle": "TDTT closed at $23.28 on 2026-11-19, ranking dollar_loser_1 with -0.17% ($-0.04). Strike $24.0 CALL exp 2026-11-20 (1DTE). IV at entry: 108.2%. Cost: $90.00. News scan: neutral \u2014 decision: sell. Sold at option value $0.2597 (stock open $23.31) at 2026-11-19 09:30:00-05:00. P&L: $-64.03. Left on table: $+0.00. Thesis did not play out. Gap: +0.13% (with_thesis). No single dominant factor.",
     "pnl": -64.03,
     "won": false
+  },
+  {
+    "id": 54,
+    "date": "2026-11-24",
+    "ticker": "CRWD",
+    "type": "CALL",
+    "trade_id": 54,
+    "title": "CRWD CALL \u2014 2026-11-24",
+    "youtube_id": null,
+    "images": [],
+    "published": true
   }
 ]
