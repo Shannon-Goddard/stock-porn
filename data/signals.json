@@ -1,16 +1,6 @@
 {
   "topGainers": [
     {
-      "ticker": "MUZ",
-      "name": "TIDAL TRUST II DEFIANCE DAILY T",
-      "sector": "Unknown",
-      "sector_etf": null,
-      "price": 11.47,
-      "changePct": 21.5,
-      "changeDollar": 2.03,
-      "signal_first_appeared": "2026-11-24 23:01:06 UTC"
-    },
-    {
       "ticker": "IREZ",
       "name": "Tradr 2X Short IREN Daily ETF",
       "sector": "Unknown",
@@ -18,37 +8,47 @@
       "price": 36.08,
       "changePct": 21.32,
       "changeDollar": 6.34,
-      "signal_first_appeared": "2026-11-24 23:01:07 UTC"
+      "signal_first_appeared": "2026-11-25 03:17:01 UTC"
     },
     {
-      "ticker": "SNDQ",
-      "name": "Tradr 2X Short SNDK Daily ETF",
+      "ticker": "NBIZ",
+      "name": "Tradr 2X Short NBIS Daily ETF",
       "sector": "Unknown",
       "sector_etf": null,
-      "price": 45.64,
-      "changePct": 20.04,
-      "changeDollar": 7.62,
-      "signal_first_appeared": "2026-11-24 23:01:07 UTC"
+      "price": 61.7,
+      "changePct": 19.81,
+      "changeDollar": 10.2,
+      "signal_first_appeared": "2026-11-25 03:17:01 UTC"
     },
     {
-      "ticker": "ANF",
-      "name": "ABERCROMBIE & FITCH CO CL A",
+      "ticker": "SKDD",
+      "name": "GRANITESHARES ETF TR 2X SRT SK HYNIX",
       "sector": "Unknown",
       "sector_etf": null,
-      "price": 168.1,
-      "changePct": 19.69,
-      "changeDollar": 27.65,
-      "signal_first_appeared": "2026-11-24 23:01:05 UTC"
+      "price": 11.14,
+      "changePct": 19.14,
+      "changeDollar": 1.79,
+      "signal_first_appeared": "2026-11-25 03:17:01 UTC"
     },
     {
-      "ticker": "CELC",
-      "name": "CELCUITY INC COM",
+      "ticker": "RAMZ",
+      "name": "T-REX 2X Inverse DRAM Daily Target ETF",
       "sector": "Unknown",
       "sector_etf": null,
-      "price": 68.02,
-      "changePct": 18.48,
-      "changeDollar": 10.61,
-      "signal_first_appeared": "2026-11-24 23:01:06 UTC"
+      "price": 23.93,
+      "changePct": 17.77,
+      "changeDollar": 3.61,
+      "signal_first_appeared": "2026-11-25 03:17:01 UTC"
+    },
+    {
+      "ticker": "CMP",
+      "name": "COMPASS MINERALS INTL INC COM",
+      "sector": "Unknown",
+      "sector_etf": null,
+      "price": 23.28,
+      "changePct": 14.51,
+      "changeDollar": 2.95,
+      "signal_first_appeared": "2026-11-25 03:17:00 UTC"
     },
     {
       "ticker": "MMED",
@@ -58,59 +58,59 @@
       "price": 19.07,
       "changePct": 14.06,
       "changeDollar": 2.35,
-      "signal_first_appeared": "2026-11-24 23:01:06 UTC"
+      "signal_first_appeared": "2026-11-25 03:17:01 UTC"
     },
     {
-      "ticker": "IMNM",
-      "name": "IMMUNOME INC COM",
+      "ticker": "LEGN",
+      "name": "LEGEND BIOTECH CORP SPONSORED ADS",
       "sector": "Unknown",
       "sector_etf": null,
-      "price": 18.45,
-      "changePct": 13.26,
-      "changeDollar": 2.16,
-      "signal_first_appeared": "2026-11-24 23:01:06 UTC"
+      "price": 17.68,
+      "changePct": 11.9,
+      "changeDollar": 1.88,
+      "signal_first_appeared": "2026-11-25 03:17:01 UTC"
     },
     {
-      "ticker": "VRDN",
-      "name": "VIRIDIAN THERAPEUTICS INC COM",
+      "ticker": "SPCG",
+      "name": "Tradr 2X Short SpaceX Daily ETF",
       "sector": "Unknown",
       "sector_etf": null,
-      "price": 35.7,
-      "changePct": 11.95,
-      "changeDollar": 3.81,
-      "signal_first_appeared": "2026-11-24 23:01:07 UTC"
+      "price": 17.6,
+      "changePct": 11.32,
+      "changeDollar": 1.79,
+      "signal_first_appeared": "2026-11-25 03:17:01 UTC"
     },
     {
-      "ticker": "DLTR",
-      "name": "DOLLAR TREE INC COM",
+      "ticker": "ABVX",
+      "name": "ABIVAX SA SPONSORED ADS",
       "sector": "Unknown",
       "sector_etf": null,
-      "price": 154.65,
-      "changePct": 11.18,
-      "changeDollar": 15.55,
-      "signal_first_appeared": "2026-11-24 23:01:06 UTC"
+      "price": 77.61,
+      "changePct": 10.1,
+      "changeDollar": 7.12,
+      "signal_first_appeared": "2026-11-25 03:17:00 UTC"
     },
     {
-      "ticker": "ZSL",
-      "name": "PROSHARES TR II ULTRA SHORT SILV",
+      "ticker": "CGEM",
+      "name": "CULLINAN THERAPEUTICS INC COM",
       "sector": "Unknown",
       "sector_etf": null,
-      "price": 55.65,
-      "changePct": 11.12,
-      "changeDollar": 5.57,
-      "signal_first_appeared": "2026-11-24 23:01:06 UTC"
+      "price": 10.22,
+      "changePct": 10.01,
+      "changeDollar": 0.93,
+      "signal_first_appeared": "2026-11-25 03:17:00 UTC"
     }
   ],
   "topLosers": [
     {
-      "ticker": "MUU",
-      "name": "DIREXION SHARES ETF TRUST DLY MU BULL 2X",
+      "ticker": "DY",
+      "name": "DYCOM INDS INC COM",
       "sector": "Unknown",
       "sector_etf": null,
-      "price": 10.38,
-      "changePct": -22.13,
-      "changeDollar": -2.95,
-      "signal_first_appeared": "2026-11-24 23:01:06 UTC"
+      "price": 179.01,
+      "changePct": -18.02,
+      "changeDollar": -39.36,
+      "signal_first_appeared": "2026-11-25 03:17:00 UTC"
     },
     {
       "ticker": "SMTC",
@@ -120,7 +120,17 @@
       "price": 86.46,
       "changePct": -16.97,
       "changeDollar": -17.67,
-      "signal_first_appeared": "2026-11-24 23:01:06 UTC"
+      "signal_first_appeared": "2026-11-25 03:17:01 UTC"
+    },
+    {
+      "ticker": "HPE",
+      "name": "HEWLETT PACKARD ENTERPRISE CO COM",
+      "sector": "Unknown",
+      "sector_etf": null,
+      "price": 40.19,
+      "changePct": -16.31,
+      "changeDollar": -7.83,
+      "signal_first_appeared": "2026-11-25 03:17:01 UTC"
     },
     {
       "ticker": "ALAB",
@@ -130,47 +140,37 @@
       "price": 191.3,
       "changePct": -13.88,
       "changeDollar": -30.82,
-      "signal_first_appeared": "2026-11-24 23:01:05 UTC"
+      "signal_first_appeared": "2026-11-25 03:17:00 UTC"
     },
     {
-      "ticker": "BEG",
-      "name": "THEMES ETF TR LEVERAGE SHS 2X",
+      "ticker": "USD",
+      "name": "PROSHARES TR PSHS ULT SEMICDT",
       "sector": "Unknown",
       "sector_etf": null,
-      "price": 12.33,
-      "changePct": -13.66,
-      "changeDollar": -1.95,
-      "signal_first_appeared": "2026-11-24 23:01:06 UTC"
+      "price": 41.15,
+      "changePct": -13.86,
+      "changeDollar": -6.62,
+      "signal_first_appeared": "2026-11-25 03:17:01 UTC"
     },
     {
-      "ticker": "SHAZ",
-      "name": "SHARONAI HOLDINGS INC COM CL A",
+      "ticker": "AEHR",
+      "name": "AEHR TEST SYS COM",
       "sector": "Unknown",
       "sector_etf": null,
-      "price": 16.76,
+      "price": 41.89,
       "changePct": -13.65,
-      "changeDollar": -2.65,
-      "signal_first_appeared": "2026-11-24 23:01:06 UTC"
+      "changeDollar": -6.62,
+      "signal_first_appeared": "2026-11-25 03:17:00 UTC"
     },
     {
-      "ticker": "TTMI",
-      "name": "TTM TECHNOLOGIES INC COM",
+      "ticker": "MTSI",
+      "name": "MACOM TECH SOLUTIONS HLDGS INC COM",
       "sector": "Unknown",
       "sector_etf": null,
-      "price": 59.42,
-      "changePct": -13.34,
-      "changeDollar": -9.15,
-      "signal_first_appeared": "2026-11-24 23:01:07 UTC"
-    },
-    {
-      "ticker": "UCTT",
-      "name": "ULTRA CLEAN HLDGS INC COM",
-      "sector": "Unknown",
-      "sector_etf": null,
-      "price": 36.08,
-      "changePct": -12.38,
-      "changeDollar": -5.1,
-      "signal_first_appeared": "2026-11-24 23:01:07 UTC"
+      "price": 200.2,
+      "changePct": -13.45,
+      "changeDollar": -31.1,
+      "signal_first_appeared": "2026-11-25 03:17:01 UTC"
     },
     {
       "ticker": "SIMO",
@@ -180,69 +180,49 @@
       "price": 135.01,
       "changePct": -12.0,
       "changeDollar": -18.41,
-      "signal_first_appeared": "2026-11-24 23:01:06 UTC"
+      "signal_first_appeared": "2026-11-25 03:17:01 UTC"
     },
     {
-      "ticker": "WOLF",
-      "name": "WOLFSPEED INC COMMON STOCK",
+      "ticker": "TXN",
+      "name": "TEXAS INSTRS INC COM",
       "sector": "Unknown",
       "sector_etf": null,
-      "price": 18.2,
-      "changePct": -11.95,
-      "changeDollar": -2.47,
-      "signal_first_appeared": "2026-11-24 23:01:07 UTC"
+      "price": 258.44,
+      "changePct": -11.25,
+      "changeDollar": -32.75,
+      "signal_first_appeared": "2026-11-25 03:17:01 UTC"
     },
     {
-      "ticker": "FN",
-      "name": "FABRINET SHS",
+      "ticker": "SPAL",
+      "name": "GraniteShares 2x Long SpaceX Daily ETF",
       "sector": "Unknown",
       "sector_etf": null,
-      "price": 290.12,
-      "changePct": -11.88,
-      "changeDollar": -39.1,
-      "signal_first_appeared": "2026-11-24 23:01:06 UTC"
+      "price": 10.9,
+      "changePct": -11.24,
+      "changeDollar": -1.38,
+      "signal_first_appeared": "2026-11-25 03:17:01 UTC"
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "ANF",
-      "name": "ABERCROMBIE & FITCH CO CL A",
+      "ticker": "NBIZ",
+      "name": "Tradr 2X Short NBIS Daily ETF",
       "sector": "Unknown",
       "sector_etf": null,
-      "price": 168.1,
-      "changePct": 19.69,
-      "changeDollar": 27.65,
-      "signal_first_appeared": "2026-11-24 23:01:05 UTC"
+      "price": 61.7,
+      "changePct": 19.81,
+      "changeDollar": 10.2,
+      "signal_first_appeared": "2026-11-25 03:17:01 UTC"
     },
     {
-      "ticker": "DLTR",
-      "name": "DOLLAR TREE INC COM",
+      "ticker": "ABVX",
+      "name": "ABIVAX SA SPONSORED ADS",
       "sector": "Unknown",
       "sector_etf": null,
-      "price": 154.65,
-      "changePct": 11.18,
-      "changeDollar": 15.55,
-      "signal_first_appeared": "2026-11-24 23:01:06 UTC"
-    },
-    {
-      "ticker": "CELC",
-      "name": "CELCUITY INC COM",
-      "sector": "Unknown",
-      "sector_etf": null,
-      "price": 68.02,
-      "changePct": 18.48,
-      "changeDollar": 10.61,
-      "signal_first_appeared": "2026-11-24 23:01:06 UTC"
-    },
-    {
-      "ticker": "SNDQ",
-      "name": "Tradr 2X Short SNDK Daily ETF",
-      "sector": "Unknown",
-      "sector_etf": null,
-      "price": 45.64,
-      "changePct": 20.04,
-      "changeDollar": 7.62,
-      "signal_first_appeared": "2026-11-24 23:01:07 UTC"
+      "price": 77.61,
+      "changePct": 10.1,
+      "changeDollar": 7.12,
+      "signal_first_appeared": "2026-11-25 03:17:00 UTC"
     },
     {
       "ticker": "IREZ",
@@ -252,19 +232,59 @@
       "price": 36.08,
       "changePct": 21.32,
       "changeDollar": 6.34,
-      "signal_first_appeared": "2026-11-24 23:01:07 UTC"
+      "signal_first_appeared": "2026-11-25 03:17:01 UTC"
+    },
+    {
+      "ticker": "RAMZ",
+      "name": "T-REX 2X Inverse DRAM Daily Target ETF",
+      "sector": "Unknown",
+      "sector_etf": null,
+      "price": 23.93,
+      "changePct": 17.77,
+      "changeDollar": 3.61,
+      "signal_first_appeared": "2026-11-25 03:17:01 UTC"
+    },
+    {
+      "ticker": "CMP",
+      "name": "COMPASS MINERALS INTL INC COM",
+      "sector": "Unknown",
+      "sector_etf": null,
+      "price": 23.28,
+      "changePct": 14.51,
+      "changeDollar": 2.95,
+      "signal_first_appeared": "2026-11-25 03:17:00 UTC"
     }
   ],
   "dollarLosers": [
     {
-      "ticker": "FN",
-      "name": "FABRINET SHS",
+      "ticker": "DY",
+      "name": "DYCOM INDS INC COM",
       "sector": "Unknown",
       "sector_etf": null,
-      "price": 290.12,
-      "changePct": -11.88,
-      "changeDollar": -39.1,
-      "signal_first_appeared": "2026-11-24 23:01:06 UTC"
+      "price": 179.01,
+      "changePct": -18.02,
+      "changeDollar": -39.36,
+      "signal_first_appeared": "2026-11-25 03:17:00 UTC"
+    },
+    {
+      "ticker": "TXN",
+      "name": "TEXAS INSTRS INC COM",
+      "sector": "Unknown",
+      "sector_etf": null,
+      "price": 258.44,
+      "changePct": -11.25,
+      "changeDollar": -32.75,
+      "signal_first_appeared": "2026-11-25 03:17:01 UTC"
+    },
+    {
+      "ticker": "MTSI",
+      "name": "MACOM TECH SOLUTIONS HLDGS INC COM",
+      "sector": "Unknown",
+      "sector_etf": null,
+      "price": 200.2,
+      "changePct": -13.45,
+      "changeDollar": -31.1,
+      "signal_first_appeared": "2026-11-25 03:17:01 UTC"
     },
     {
       "ticker": "ALAB",
@@ -274,7 +294,7 @@
       "price": 191.3,
       "changePct": -13.88,
       "changeDollar": -30.82,
-      "signal_first_appeared": "2026-11-24 23:01:05 UTC"
+      "signal_first_appeared": "2026-11-25 03:17:00 UTC"
     },
     {
       "ticker": "SIMO",
@@ -284,27 +304,7 @@
       "price": 135.01,
       "changePct": -12.0,
       "changeDollar": -18.41,
-      "signal_first_appeared": "2026-11-24 23:01:06 UTC"
-    },
-    {
-      "ticker": "SMTC",
-      "name": "SEMTECH CORP COM",
-      "sector": "Unknown",
-      "sector_etf": null,
-      "price": 86.46,
-      "changePct": -16.97,
-      "changeDollar": -17.67,
-      "signal_first_appeared": "2026-11-24 23:01:06 UTC"
-    },
-    {
-      "ticker": "TTMI",
-      "name": "TTM TECHNOLOGIES INC COM",
-      "sector": "Unknown",
-      "sector_etf": null,
-      "price": 59.42,
-      "changePct": -13.34,
-      "changeDollar": -9.15,
-      "signal_first_appeared": "2026-11-24 23:01:07 UTC"
+      "signal_first_appeared": "2026-11-25 03:17:01 UTC"
     }
   ]
 }
