@@ -761,9 +761,12 @@
     "ticker": "SEDG",
     "type": "PUT",
     "trade_id": 55,
-    "title": "SEDG PUT \u2014 2026-11-27",
+    "title": "SEDG PUT \u2014 2026-11-27: Lost $6.77",
     "youtube_id": null,
     "images": [],
-    "published": true
+    "published": true,
+    "subtitle": "SEDG closed at $19.7 on 2026-11-27, ranking dollar_gainer_1 with +8.18% ($+1.49). Strike $19.5 PUT exp 2026-12-04 (7DTE). IV at entry: 90.2%. Cost: $62.00. News scan: neutral \u2014 decision: sell. Sold at option value $0.5523 (stock open $20.55) at 2026-11-27 09:30:00-05:00. P&L: $-6.77. Left on table: $+10.01. Stock opened against thesis (+4.31%). Contract OTM at open, premium decayed.",
+    "pnl": -6.77,
+    "won": false
   }
 ]

@@ -9,8 +9,8 @@
       4
     ]
   },
-  "balance": -3025.72,
-  "clean_balance": -2898.98,
+  "balance": -3032.49,
+  "clean_balance": -2905.75,
   "starting_balance": 0.0,
   "first_trade_date": "2026-08-24",
   "trades": [
@@ -4746,7 +4746,7 @@
     },
     {
       "id": 55,
-      "status": "open",
+      "status": "closed",
       "entry": {
         "date": "2026-11-27",
         "time": "15:55 PST",
@@ -4830,9 +4830,62 @@
           ]
         }
       },
-      "exit": null,
-      "fomo": null,
-      "post_mortem": null,
+      "exit": {
+        "date": "2026-11-27",
+        "time": "2026-11-27 09:30:00-05:00",
+        "stock_open_price": 20.55,
+        "sell_option_price": 0.5523,
+        "sell_contract_value": 55.23,
+        "sell_trigger": "sell_at_open",
+        "gap_direction": "against_thesis",
+        "gap_pct": 4.31,
+        "pnl": -6.77
+      },
+      "fomo": {
+        "sell_contract_value": 55.23,
+        "sell_pnl": -6.77,
+        "theta_burned_at_sell": -0.0,
+        "theta_per_min": -0.017445,
+        "day_high": {
+          "stock_price": 21.19,
+          "time": "2026-11-27 09:59:00-05:00",
+          "bs_contract_value": 37.51,
+          "theoretical_pnl": -24.49
+        },
+        "day_low": {
+          "stock_price": 20.245,
+          "time": "2026-11-27 09:40:00-05:00",
+          "bs_contract_value": 65.24,
+          "theoretical_pnl": 3.24
+        },
+        "best_case": {
+          "value": 65.24,
+          "pnl": 3.24,
+          "time": "2026-11-27 09:40:00-05:00"
+        },
+        "worst_case": {
+          "value": 37.51,
+          "pnl": -24.49,
+          "time": "2026-11-27 09:59:00-05:00"
+        },
+        "left_on_table": 10.01,
+        "theta_note": "7DTE: Theta minimal at open, stock direction dominates. Est. $0.00 burned"
+      },
+      "post_mortem": {
+        "generated_at": "2026-11-27 22:51:37 UTC",
+        "outcome": "loss",
+        "pnl": -6.77,
+        "primary_reason": "Stock opened against thesis (+4.31%). Contract OTM at open, premium decayed.",
+        "factors": [
+          "gap_opposed_thesis (+4.31%)",
+          "strike_inside_expected_move",
+          "news_decision_sell_correct",
+          "macro_active: war",
+          "left_on_table: $+10.01 (+16.1% of cost)",
+          "spy_day: +1.62%"
+        ],
+        "ai_notes": null
+      },
       "ai_notes": null
     }
   ]
