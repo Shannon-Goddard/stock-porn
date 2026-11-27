@@ -4786,7 +4786,50 @@
         "sector_etf_change": null,
         "auto_note": "SEDG PUT | $+1.49 (+8.18%) | dollar_gainer_1 | Strike $19.5 exp 2026-12-04 (7DTE) | IV 90.2% | SPY +1.62% | MACRO: war"
       },
-      "news_scan": null,
+      "news_scan": {
+        "scanned_at": "2026-11-27 22:48:11 PST",
+        "gap_days": 0,
+        "ticker_sentiment": "neutral",
+        "spy_sentiment": "bearish",
+        "spx_sentiment": "bullish",
+        "keywords_found": [],
+        "spy_keywords": [
+          "investigation"
+        ],
+        "spx_keywords": [
+          "surge"
+        ],
+        "decision": "sell",
+        "decision_reason": "neutral ticker sentiment \u2014 no confirmation for PUT thesis, sell at open",
+        "keyword_outcomes": {},
+        "raw_headlines": {
+          "ticker": [],
+          "spy": [
+            "Fidelity Counted 654,000 401(k) Millionaires in the Third Quarter of 2025, Up From 544,000 a Year Earlier",
+            "I Tested More Than 100 Trading Strategies With AI. Most Of Them Failed, And The Reasons Why Were More Interesting Than The Winners",
+            "SoFi\u2019s 500-Stock ETF Doesn\u2019t Weight Strictly by Size. SFY Tilts America\u2019s Biggest Companies Toward Growth",
+            "Stock Market Today: Markets Off to a Strong Black Friday Start",
+            "The Nasdaq Needs Two Huge Days to Dodge Its Worst November Since 2008",
+            "Pre-Markets Up Ahead of Shortened Trading Session",
+            "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Friday Amid Technology Stock Rebound",
+            "JEPI Gets the Attention. JPMorgan\u2019s 0.12% Quality ETF Has Quietly Grown Past $9 Billion",
+            "Down 26% This Year, Is It Time to Buy Salesforce Stock Before Earnings?",
+            "Trump Wants a GDP Investigation Over the \u201cFake\u201d Pre-Election Number"
+          ],
+          "spx": [
+            "Stocks snap from a $6 trillion washout to a $3.5 trillion surge as Nvidia, Micron, and SpaceX bounce back",
+            "Tech Stocks Jump as Investors Take a Break From AI Jitters",
+            "Review & Preview: Gratitude Trade",
+            "Dow Jones Futures: Stock Market Makes Bullish Move, Tesla Leads 7 New Buys; Nvidia's Jensen Huang Heads To Capitol Hill",
+            "Nasdaq Leads Market Rebound as Treasury Yields Hit 5.29% at the Long End",
+            "What Is The One Risk Facing Visa Stock Now?",
+            "Update: Equities Climb as Dow Posts Biggest Weekly Jump Since October 2022",
+            "Don't have time to shop Black Friday? AI will do it for you",
+            "Stock Market Today: Indexes Log Best Thanksgiving Week In 18 Years",
+            "How major US stock indexes fared Friday 11/27/2026"
+          ]
+        }
+      },
       "exit": null,
       "fomo": null,
       "post_mortem": null,
