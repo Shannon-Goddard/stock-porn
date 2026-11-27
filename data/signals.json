@@ -1,6 +1,16 @@
 {
   "topGainers": [
     {
+      "ticker": "OTLY",
+      "name": "OATLY GROUP AB SPONSORED ADS",
+      "sector": "Unknown",
+      "sector_etf": null,
+      "price": 16.08,
+      "changePct": 26.12,
+      "changeDollar": 3.33,
+      "signal_first_appeared": "2026-11-27 02:36:03 UTC"
+    },
+    {
       "ticker": "BZ",
       "name": "KANZHUN LIMITED SPONSORED ADS",
       "sector": "Unknown",
@@ -8,37 +18,57 @@
       "price": 14.34,
       "changePct": 12.56,
       "changeDollar": 1.6,
-      "signal_first_appeared": "2026-11-26 22:16:51 UTC"
+      "signal_first_appeared": "2026-11-27 02:36:03 UTC"
     },
     {
-      "ticker": "CAR",
-      "name": "AVIS BUDGET GROUP INC COM",
+      "ticker": "LI",
+      "name": "LI AUTO INC SPONSORED ADS",
       "sector": "Unknown",
       "sector_etf": null,
-      "price": 141.82,
-      "changePct": 9.62,
-      "changeDollar": 12.44,
-      "signal_first_appeared": "2026-11-26 22:16:51 UTC"
+      "price": 11.88,
+      "changePct": 11.03,
+      "changeDollar": 1.18,
+      "signal_first_appeared": "2026-11-27 02:36:03 UTC"
     },
     {
-      "ticker": "NAIL",
-      "name": "DIREXION SHARES ETF TRUST DAIL HO SUPP ETF",
+      "ticker": "MUZ",
+      "name": "TIDAL TRUST II DEFIANCE DAILY T",
       "sector": "Unknown",
       "sector_etf": null,
-      "price": 37.33,
-      "changePct": 8.42,
-      "changeDollar": 2.9,
-      "signal_first_appeared": "2026-11-26 22:16:51 UTC"
+      "price": 12.52,
+      "changePct": 9.15,
+      "changeDollar": 1.05,
+      "signal_first_appeared": "2026-11-27 02:36:03 UTC"
     },
     {
-      "ticker": "JNUG",
-      "name": "DIREXION SHARES ETF TRUST DAIL JR GOLD ETF",
+      "ticker": "UVIX",
+      "name": "2x Long VIX Futures ETF",
       "sector": "Unknown",
       "sector_etf": null,
-      "price": 82.22,
-      "changePct": 8.33,
-      "changeDollar": 6.32,
-      "signal_first_appeared": "2026-11-26 22:16:51 UTC"
+      "price": 56.75,
+      "changePct": 8.45,
+      "changeDollar": 4.42,
+      "signal_first_appeared": "2026-11-27 02:36:03 UTC"
+    },
+    {
+      "ticker": "INIO",
+      "name": "INNIO NV ORDINARY SHARES",
+      "sector": "Unknown",
+      "sector_etf": null,
+      "price": 12.99,
+      "changePct": 8.25,
+      "changeDollar": 0.99,
+      "signal_first_appeared": "2026-11-27 02:36:03 UTC"
+    },
+    {
+      "ticker": "SEDG",
+      "name": "SOLAREDGE TECHNOLOGIES INC COM",
+      "sector": "Unknown",
+      "sector_etf": null,
+      "price": 19.7,
+      "changePct": 8.18,
+      "changeDollar": 1.49,
+      "signal_first_appeared": "2026-11-27 02:36:03 UTC"
     },
     {
       "ticker": "AVEX",
@@ -48,60 +78,40 @@
       "price": 12.41,
       "changePct": 8.01,
       "changeDollar": 0.92,
-      "signal_first_appeared": "2026-11-26 22:16:51 UTC"
+      "signal_first_appeared": "2026-11-27 02:36:03 UTC"
     },
     {
-      "ticker": "CNH",
-      "name": "CNH INDL N V SHS",
+      "ticker": "NVDQ",
+      "name": "T-Rex 2X Inverse NVIDIA Daily Target ETF",
       "sector": "Unknown",
       "sector_etf": null,
-      "price": 11.88,
-      "changePct": 8.0,
-      "changeDollar": 0.88,
-      "signal_first_appeared": "2026-11-26 22:16:51 UTC"
+      "price": 10.43,
+      "changePct": 7.75,
+      "changeDollar": 0.75,
+      "signal_first_appeared": "2026-11-27 02:36:03 UTC"
     },
     {
-      "ticker": "STOK",
-      "name": "STOKE THERAPEUTICS INC COM",
+      "ticker": "SMTC",
+      "name": "SEMTECH CORP COM",
       "sector": "Unknown",
       "sector_etf": null,
-      "price": 35.41,
-      "changePct": 7.83,
-      "changeDollar": 2.57,
-      "signal_first_appeared": "2026-11-26 22:16:52 UTC"
-    },
-    {
-      "ticker": "RKT",
-      "name": "ROCKET COS INC COM CL A",
-      "sector": "Unknown",
-      "sector_etf": null,
-      "price": 15.3,
-      "changePct": 7.37,
-      "changeDollar": 1.05,
-      "signal_first_appeared": "2026-11-26 22:16:52 UTC"
-    },
-    {
-      "ticker": "CDW",
-      "name": "CDW CORP COM",
-      "sector": "Unknown",
-      "sector_etf": null,
-      "price": 174.97,
-      "changePct": 7.03,
-      "changeDollar": 11.49,
-      "signal_first_appeared": "2026-11-26 22:16:51 UTC"
-    },
-    {
-      "ticker": "PINS",
-      "name": "PINTEREST INC CL A",
-      "sector": "Unknown",
-      "sector_etf": null,
-      "price": 19.71,
-      "changePct": 6.54,
-      "changeDollar": 1.21,
-      "signal_first_appeared": "2026-11-26 22:16:52 UTC"
+      "price": 92.93,
+      "changePct": 7.48,
+      "changeDollar": 6.47,
+      "signal_first_appeared": "2026-11-27 02:36:03 UTC"
     }
   ],
   "topLosers": [
+    {
+      "ticker": "AMBA",
+      "name": "AMBARELLA INC SHS",
+      "sector": "Unknown",
+      "sector_etf": null,
+      "price": 35.68,
+      "changePct": -19.77,
+      "changeDollar": -8.79,
+      "signal_first_appeared": "2026-11-27 02:36:03 UTC"
+    },
     {
       "ticker": "NTNX",
       "name": "NUTANIX INC CL A",
@@ -110,7 +120,17 @@
       "price": 46.3,
       "changePct": -15.19,
       "changeDollar": -8.29,
-      "signal_first_appeared": "2026-11-26 22:16:51 UTC"
+      "signal_first_appeared": "2026-11-27 02:36:03 UTC"
+    },
+    {
+      "ticker": "CENTA",
+      "name": "CENTRAL GARDEN & PET CO CL A NON-VTG",
+      "sector": "Unknown",
+      "sector_etf": null,
+      "price": 32.52,
+      "changePct": -8.16,
+      "changeDollar": -2.89,
+      "signal_first_appeared": "2026-11-27 02:36:03 UTC"
     },
     {
       "ticker": "NVDL",
@@ -120,151 +140,91 @@
       "price": 13.57,
       "changePct": -7.88,
       "changeDollar": -1.16,
-      "signal_first_appeared": "2026-11-26 22:16:51 UTC"
+      "signal_first_appeared": "2026-11-27 02:36:03 UTC"
     },
     {
-      "ticker": "SMST",
-      "name": "TIDAL TRUST II DEFI DA TA 2025",
+      "ticker": "NVDU",
+      "name": "DIREXION SHARES ETF TRUST DLY NVDA BULL 2X",
       "sector": "Unknown",
       "sector_etf": null,
-      "price": 34.85,
-      "changePct": -6.92,
-      "changeDollar": -2.59,
-      "signal_first_appeared": "2026-11-26 22:16:52 UTC"
+      "price": 54.03,
+      "changePct": -7.67,
+      "changeDollar": -4.49,
+      "signal_first_appeared": "2026-11-27 02:36:03 UTC"
     },
     {
-      "ticker": "AIP",
-      "name": "ARTERIS INC COM",
+      "ticker": "CSTL",
+      "name": "CASTLE BIOSCIENCES INC COM",
       "sector": "Unknown",
       "sector_etf": null,
-      "price": 16.56,
-      "changePct": -5.26,
-      "changeDollar": -0.92,
-      "signal_first_appeared": "2026-11-26 22:16:51 UTC"
+      "price": 32.53,
+      "changePct": -6.12,
+      "changeDollar": -2.12,
+      "signal_first_appeared": "2026-11-27 02:36:03 UTC"
     },
     {
-      "ticker": "ORCL",
-      "name": "ORACLE CORP COM",
+      "ticker": "MANE",
+      "name": "VERADERMICS INC COMMON STOCK",
       "sector": "Unknown",
       "sector_etf": null,
-      "price": 103.88,
-      "changePct": -5.13,
-      "changeDollar": -5.62,
-      "signal_first_appeared": "2026-11-26 22:16:51 UTC"
+      "price": 126.04,
+      "changePct": -5.47,
+      "changeDollar": -7.29,
+      "signal_first_appeared": "2026-11-27 02:36:03 UTC"
     },
     {
-      "ticker": "BEG",
-      "name": "THEMES ETF TR LEVERAGE SHS 2X",
+      "ticker": "SG",
+      "name": "SWEETGREEN INC COM CL A",
       "sector": "Unknown",
       "sector_etf": null,
-      "price": 11.76,
-      "changePct": -4.62,
-      "changeDollar": -0.57,
-      "signal_first_appeared": "2026-11-26 22:16:52 UTC"
+      "price": 11.49,
+      "changePct": -4.96,
+      "changeDollar": -0.6,
+      "signal_first_appeared": "2026-11-27 02:36:03 UTC"
     },
     {
-      "ticker": "J",
-      "name": "JACOBS SOLUTIONS INC COM",
+      "ticker": "GMEU",
+      "name": "T-REX 2X Long GME Daily Target ETF",
       "sector": "Unknown",
       "sector_etf": null,
-      "price": 145.49,
-      "changePct": -4.27,
-      "changeDollar": -6.49,
-      "signal_first_appeared": "2026-11-26 22:16:51 UTC"
+      "price": 10.13,
+      "changePct": -4.43,
+      "changeDollar": -0.47,
+      "signal_first_appeared": "2026-11-27 02:36:03 UTC"
     },
     {
-      "ticker": "WST",
-      "name": "WEST PHARMACEUTICAL SVSC INC COM",
+      "ticker": "DDOG",
+      "name": "DATADOG INC CL A COM",
       "sector": "Unknown",
       "sector_etf": null,
-      "price": 372.94,
-      "changePct": -4.07,
-      "changeDollar": -15.81,
-      "signal_first_appeared": "2026-11-26 22:16:52 UTC"
-    },
-    {
-      "ticker": "WING",
-      "name": "WINGSTOP INC COM",
-      "sector": "Unknown",
-      "sector_etf": null,
-      "price": 148.82,
-      "changePct": -3.87,
-      "changeDollar": -5.99,
-      "signal_first_appeared": "2026-11-26 22:16:52 UTC"
-    },
-    {
-      "ticker": "NEOG",
-      "name": "NEOGEN CORP COM",
-      "sector": "Unknown",
-      "sector_etf": null,
-      "price": 10.49,
-      "changePct": -3.76,
-      "changeDollar": -0.41,
-      "signal_first_appeared": "2026-11-26 22:16:51 UTC"
+      "price": 158.25,
+      "changePct": -4.31,
+      "changeDollar": -7.13,
+      "signal_first_appeared": "2026-11-27 02:36:03 UTC"
     }
   ],
   "dollarGainers": [
     {
-      "ticker": "CAR",
-      "name": "AVIS BUDGET GROUP INC COM",
+      "ticker": "SEDG",
+      "name": "SOLAREDGE TECHNOLOGIES INC COM",
       "sector": "Unknown",
       "sector_etf": null,
-      "price": 141.82,
-      "changePct": 9.62,
-      "changeDollar": 12.44,
-      "signal_first_appeared": "2026-11-26 22:16:51 UTC"
-    },
-    {
-      "ticker": "CDW",
-      "name": "CDW CORP COM",
-      "sector": "Unknown",
-      "sector_etf": null,
-      "price": 174.97,
-      "changePct": 7.03,
-      "changeDollar": 11.49,
-      "signal_first_appeared": "2026-11-26 22:16:51 UTC"
-    },
-    {
-      "ticker": "JNUG",
-      "name": "DIREXION SHARES ETF TRUST DAIL JR GOLD ETF",
-      "sector": "Unknown",
-      "sector_etf": null,
-      "price": 82.22,
-      "changePct": 8.33,
-      "changeDollar": 6.32,
-      "signal_first_appeared": "2026-11-26 22:16:51 UTC"
-    },
-    {
-      "ticker": "NAIL",
-      "name": "DIREXION SHARES ETF TRUST DAIL HO SUPP ETF",
-      "sector": "Unknown",
-      "sector_etf": null,
-      "price": 37.33,
-      "changePct": 8.42,
-      "changeDollar": 2.9,
-      "signal_first_appeared": "2026-11-26 22:16:51 UTC"
-    },
-    {
-      "ticker": "STOK",
-      "name": "STOKE THERAPEUTICS INC COM",
-      "sector": "Unknown",
-      "sector_etf": null,
-      "price": 35.41,
-      "changePct": 7.83,
-      "changeDollar": 2.57,
-      "signal_first_appeared": "2026-11-26 22:16:52 UTC"
+      "price": 19.7,
+      "changePct": 8.18,
+      "changeDollar": 1.49,
+      "signal_first_appeared": "2026-11-27 02:36:03 UTC"
     }
   ],
   "dollarLosers": [
     {
-      "ticker": "WST",
-      "name": "WEST PHARMACEUTICAL SVSC INC COM",
+      "ticker": "AMBA",
+      "name": "AMBARELLA INC SHS",
       "sector": "Unknown",
       "sector_etf": null,
-      "price": 372.94,
-      "changePct": -4.07,
-      "changeDollar": -15.81,
-      "signal_first_appeared": "2026-11-26 22:16:52 UTC"
+      "price": 35.68,
+      "changePct": -19.77,
+      "changeDollar": -8.79,
+      "signal_first_appeared": "2026-11-27 02:36:03 UTC"
     },
     {
       "ticker": "NTNX",
@@ -274,37 +234,37 @@
       "price": 46.3,
       "changePct": -15.19,
       "changeDollar": -8.29,
-      "signal_first_appeared": "2026-11-26 22:16:51 UTC"
+      "signal_first_appeared": "2026-11-27 02:36:03 UTC"
     },
     {
-      "ticker": "J",
-      "name": "JACOBS SOLUTIONS INC COM",
+      "ticker": "MANE",
+      "name": "VERADERMICS INC COMMON STOCK",
       "sector": "Unknown",
       "sector_etf": null,
-      "price": 145.49,
-      "changePct": -4.27,
-      "changeDollar": -6.49,
-      "signal_first_appeared": "2026-11-26 22:16:51 UTC"
+      "price": 126.04,
+      "changePct": -5.47,
+      "changeDollar": -7.29,
+      "signal_first_appeared": "2026-11-27 02:36:03 UTC"
     },
     {
-      "ticker": "WING",
-      "name": "WINGSTOP INC COM",
+      "ticker": "DDOG",
+      "name": "DATADOG INC CL A COM",
       "sector": "Unknown",
       "sector_etf": null,
-      "price": 148.82,
-      "changePct": -3.87,
-      "changeDollar": -5.99,
-      "signal_first_appeared": "2026-11-26 22:16:52 UTC"
+      "price": 158.25,
+      "changePct": -4.31,
+      "changeDollar": -7.13,
+      "signal_first_appeared": "2026-11-27 02:36:03 UTC"
     },
     {
-      "ticker": "ORCL",
-      "name": "ORACLE CORP COM",
+      "ticker": "NVDU",
+      "name": "DIREXION SHARES ETF TRUST DLY NVDA BULL 2X",
       "sector": "Unknown",
       "sector_etf": null,
-      "price": 103.88,
-      "changePct": -5.13,
-      "changeDollar": -5.62,
-      "signal_first_appeared": "2026-11-26 22:16:51 UTC"
+      "price": 54.03,
+      "changePct": -7.67,
+      "changeDollar": -4.49,
+      "signal_first_appeared": "2026-11-27 02:36:03 UTC"
     }
   ]
 }
