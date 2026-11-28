@@ -4887,6 +4887,54 @@
         "ai_notes": null
       },
       "ai_notes": null
+    },
+    {
+      "id": 56,
+      "status": "open",
+      "entry": {
+        "date": "2026-11-28",
+        "time": "15:55 PST",
+        "ticker": "SEDG",
+        "name": "SOLAREDGE TECHNOLOGIES INC COM",
+        "sector": "Unknown",
+        "type": "PUT",
+        "strike": 19.5,
+        "expiration": "2026-12-04",
+        "dte_at_entry": 6,
+        "T_at_entry": 0.016438,
+        "stock_price_at_entry": 19.7,
+        "premium": 0.62,
+        "cost": 62.0,
+        "bid": 0.36,
+        "spread": 0.26,
+        "iv_at_entry": 0.9648,
+        "otm_pct": 1.02,
+        "expected_move": {
+          "one_sigma_pct": 12.37,
+          "upper": 22.14,
+          "lower": 17.26,
+          "strike_position": "inside"
+        },
+        "signal_rank": "dollar_gainer_1",
+        "signal_pct": 8.18,
+        "signal_dollar": 1.49,
+        "signal_first_appeared": "2026-11-27 02:36:03 UTC",
+        "spy_change": 1.62,
+        "macro_active": true,
+        "macro_keywords": [
+          "war"
+        ],
+        "iv_rank": 1.111,
+        "volume_ratio": 0.69,
+        "sector_etf": null,
+        "sector_etf_change": null,
+        "auto_note": "SEDG PUT | $+1.49 (+8.18%) | dollar_gainer_1 | Strike $19.5 exp 2026-12-04 (6DTE) | IV 96.5% | SPY +1.62% | MACRO: war"
+      },
+      "news_scan": null,
+      "exit": null,
+      "fomo": null,
+      "post_mortem": null,
+      "ai_notes": null
     }
   ]
 }
